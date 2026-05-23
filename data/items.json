@@ -1,12 +1,138 @@
 [
   {
+    "description": "A programming framework for agentic AI",
+    "id": "vivia3755/autogen",
+    "language": "Python",
+    "name": "vivia3755/autogen",
+    "stars": 0,
+    "updated_at": "2026-05-23T15:46:34Z",
+    "url": "https://github.com/vivia3755/autogen"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-23T15:44:22Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-23T15:44:09Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "Partner AI Agent Runtime",
+    "id": "slhaf/Partner",
+    "language": "Java",
+    "name": "slhaf/Partner",
+    "stars": 1,
+    "updated_at": "2026-05-23T15:43:48Z",
+    "url": "https://github.com/slhaf/Partner"
+  },
+  {
+    "description": "Controllable and Transparent LLM Application Framework",
+    "id": "gumblex/aitoolman",
+    "language": "Python",
+    "name": "gumblex/aitoolman",
+    "stars": 4,
+    "updated_at": "2026-05-23T15:43:19Z",
+    "url": "https://github.com/gumblex/aitoolman"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 1,
+    "updated_at": "2026-05-23T15:40:34Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-23T15:33:35Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
     "name": "zty522/partner",
-    "stars": 1,
-    "updated_at": "2026-05-23T14:43:29Z",
+    "stars": 3,
+    "updated_at": "2026-05-23T15:32:18Z",
     "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-23T15:32:49Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
+    "id": "shouzhuoshouzhuo/FloatTrip",
+    "language": "Python",
+    "name": "shouzhuoshouzhuo/FloatTrip",
+    "stars": 1,
+    "updated_at": "2026-05-23T15:22:07Z",
+    "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
+  },
+  {
+    "description": "MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to e",
+    "id": "cyanheads/clinicaltrialsgov-mcp-server",
+    "language": "TypeScript",
+    "name": "cyanheads/clinicaltrialsgov-mcp-server",
+    "stars": 75,
+    "updated_at": "2026-05-23T15:06:48Z",
+    "url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server"
+  },
+  {
+    "description": "Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST AP",
+    "id": "cyanheads/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "cyanheads/obsidian-mcp-server",
+    "stars": 549,
+    "updated_at": "2026-05-23T15:06:48Z",
+    "url": "https://github.com/cyanheads/obsidian-mcp-server"
+  },
+  {
+    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
+    "id": "1850298154/memory_agent_hub",
+    "language": "Python",
+    "name": "1850298154/memory_agent_hub",
+    "stars": 52,
+    "updated_at": "2026-05-23T14:57:24Z",
+    "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
+    "description": "Telegram bot that builds small web apps on demand \u2014 sandboxed with bwrap; /why narrates what the agent did.",
+    "id": "mikkuzne/apparty",
+    "language": "Python",
+    "name": "mikkuzne/apparty",
+    "stars": 0,
+    "updated_at": "2026-05-23T14:52:38Z",
+    "url": "https://github.com/mikkuzne/apparty"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 0,
+    "updated_at": "2026-05-23T14:48:35Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "",
@@ -43,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-23T14:30:22Z",
     "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
-    "id": "1850298154/memory_agent_hub",
-    "language": "Python",
-    "name": "1850298154/memory_agent_hub",
-    "stars": 51,
-    "updated_at": "2026-05-23T14:29:28Z",
-    "url": "https://github.com/1850298154/memory_agent_hub"
   },
   {
     "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
@@ -117,15 +234,6 @@
     "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-23T14:31:15Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -144,15 +252,6 @@
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
-    "description": "Telegram bot that builds small web apps on demand \u2014 sandboxed with bwrap; /why narrates what the agent did.",
-    "id": "mikkuzne/apparty",
-    "language": "Python",
-    "name": "mikkuzne/apparty",
-    "stars": 0,
-    "updated_at": "2026-05-23T14:04:20Z",
-    "url": "https://github.com/mikkuzne/apparty"
-  },
-  {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
     "id": "BiBoyang/ForgeLoopTUI",
     "language": "Swift",
@@ -162,20 +261,11 @@
     "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 4,
-    "updated_at": "2026-05-23T13:58:48Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 4972,
+    "stars": 4973,
     "updated_at": "2026-05-23T13:43:02Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -198,24 +288,6 @@
     "url": "https://github.com/Dreamaker-TA/EasyCode"
   },
   {
-    "description": "Controllable and Transparent LLM Application Framework",
-    "id": "gumblex/aitoolman",
-    "language": "Python",
-    "name": "gumblex/aitoolman",
-    "stars": 4,
-    "updated_at": "2026-05-23T13:23:21Z",
-    "url": "https://github.com/gumblex/aitoolman"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-23T13:30:23Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -223,15 +295,6 @@
     "stars": 4307,
     "updated_at": "2026-05-23T13:10:34Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 0,
-    "updated_at": "2026-05-23T13:05:33Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Mythos-class autonomous vulnerability discovery from any strong coding model (Opus 4.7, GPT-5.5, DeepSeek V4, Gemini). L",
@@ -250,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-05-23T12:55:30Z",
     "url": "https://github.com/nakmuaycoder/project-chiang-m-ai"
-  },
-  {
-    "description": "MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to e",
-    "id": "cyanheads/clinicaltrialsgov-mcp-server",
-    "language": "TypeScript",
-    "name": "cyanheads/clinicaltrialsgov-mcp-server",
-    "stars": 75,
-    "updated_at": "2026-05-23T12:29:09Z",
-    "url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server"
-  },
-  {
-    "description": "Obsidian vaults MCP server - read, write, search, and surgically edit notes, tags, and frontmatter via the Local REST AP",
-    "id": "cyanheads/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "cyanheads/obsidian-mcp-server",
-    "stars": 548,
-    "updated_at": "2026-05-23T12:27:41Z",
-    "url": "https://github.com/cyanheads/obsidian-mcp-server"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-23T12:12:55Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-23T12:10:31Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-05-23T12:10:29Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-05-23T12:09:15Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-05-23T12:04:44Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-05-23T12:03:05Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
