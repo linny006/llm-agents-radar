@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 2,
+    "updated_at": "2026-05-23T19:04:30Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-05-23T19:03:24Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 1,
+    "updated_at": "2026-05-23T19:02:25Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4307,
+    "updated_at": "2026-05-23T18:59:34Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-23T18:57:58Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-23T18:50:05Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 1,
-    "updated_at": "2026-05-23T17:55:43Z",
+    "updated_at": "2026-05-23T18:41:57Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-23T18:08:47Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 4,
+    "updated_at": "2026-05-23T18:31:05Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 295,
+    "updated_at": "2026-05-23T18:05:57Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -23,17 +104,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 95,
-    "updated_at": "2026-05-23T17:51:19Z",
+    "updated_at": "2026-05-23T18:15:26Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 294,
-    "updated_at": "2026-05-23T17:50:42Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Mercora is a multi-tenant AI analytics platform for e-commerce teams. A trio of specialised agents Dhana (pricing), Vive",
@@ -90,15 +162,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-23T17:25:20Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
     "id": "Amaleespinyedged857/chathermes",
     "language": "\u2014",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-23T17:23:42Z",
     "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4307,
-    "updated_at": "2026-05-23T17:24:13Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -279,15 +333,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-05-23T17:02:27Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
     "id": "strobilevitellus470/argus-ai",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-23T16:51:43Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-05-23T16:50:37Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-23T16:47:12Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-23T16:47:07Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-23T16:46:12Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-23T16:46:01Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
