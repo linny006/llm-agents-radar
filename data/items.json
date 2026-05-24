@@ -1,12 +1,111 @@
 [
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-05-24T22:39:05Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
     "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T22:38:08Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
     "stars": 0,
-    "updated_at": "2026-05-24T22:29:39Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+    "updated_at": "2026-05-24T22:37:33Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:36:46Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
+    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "language": "Python",
+    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "stars": 1,
+    "updated_at": "2026-05-24T22:35:29Z",
+    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:35:03Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
+    "id": "ebbaunqualified520/ios-agent-skills",
+    "language": "Shell",
+    "name": "ebbaunqualified520/ios-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:34:58Z",
+    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:34:35Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:33:54Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
+    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "language": "Python",
+    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "stars": 3,
+    "updated_at": "2026-05-24T22:33:51Z",
+    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:33:16Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
+    "id": "isratmim643-ux/VencordAutoPatcher",
+    "language": "C#",
+    "name": "isratmim643-ux/VencordAutoPatcher",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:32:59Z",
+    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 95,
-    "updated_at": "2026-05-24T22:29:13Z",
+    "updated_at": "2026-05-24T22:38:13Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-24T22:29:39Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -61,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T22:27:57Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T22:26:52Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
@@ -349,104 +448,5 @@
     "stars": 6,
     "updated_at": "2026-05-24T21:51:23Z",
     "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-05-24T21:48:08Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-05-24T21:47:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 27,
-    "updated_at": "2026-05-24T21:47:03Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "The ultimate native macOS AI Agent. Blends local MLX SLMs with 3D cognitive Metal rendering and autonomous system integr",
-    "id": "trgysvc/EliteAgent",
-    "language": "Swift",
-    "name": "trgysvc/EliteAgent",
-    "stars": 4,
-    "updated_at": "2026-05-24T21:46:28Z",
-    "url": "https://github.com/trgysvc/EliteAgent"
-  },
-  {
-    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
-    "id": "ilaymalka/scraping-browser",
-    "language": "\u2014",
-    "name": "ilaymalka/scraping-browser",
-    "stars": 0,
-    "updated_at": "2026-05-24T21:46:00Z",
-    "url": "https://github.com/ilaymalka/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-05-24T21:45:34Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-24T21:47:37Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 0,
-    "updated_at": "2026-05-24T21:44:09Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 4,
-    "updated_at": "2026-05-24T21:44:08Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 631,
-    "updated_at": "2026-05-24T21:42:33Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-24T21:42:27Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
   }
 ]
