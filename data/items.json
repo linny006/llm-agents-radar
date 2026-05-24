@@ -1,5 +1,23 @@
 [
   {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
+    "id": "hoshiyomiX/stellar-frameworks",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-frameworks",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:57:57Z",
+    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-24T15:56:30Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T15:29:57Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-05-24T15:28:41Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-24T15:28:34Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",

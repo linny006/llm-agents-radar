@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-24 15:45 UTC
+> ⏰ Last updated: 2026-05-24 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-24 |  |
-| 2 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1574 | Python | 2026-05-24 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-24 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-24 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 5 | [Nicolasmoute/TeamOfTen](https://github.com/Nicolasmoute/TeamOfTen) | 0 | Python | 2026-05-24 | Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor |
-| 6 | [hoshiyomiX/stellar-frameworks](https://github.com/hoshiyomiX/stellar-frameworks) | 0 | Shell | 2026-05-24 | Universal task workflow for LLM agents — phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com |
-| 7 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-24 | Open-Source Intelligent Command Layer |
+| 1 | [hoshiyomiX/stellar-frameworks](https://github.com/hoshiyomiX/stellar-frameworks) | 0 | Shell | 2026-05-24 | Universal task workflow for LLM agents — phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com |
+| 2 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-24 | Open-Source Intelligent Command Layer |
+| 3 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-24 |  |
+| 4 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1574 | Python | 2026-05-24 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-24 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-24 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [Nicolasmoute/TeamOfTen](https://github.com/Nicolasmoute/TeamOfTen) | 0 | Python | 2026-05-24 | Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor |
 | 8 | [EMT5320/loomstead](https://github.com/EMT5320/loomstead) | 1 | Python | 2026-05-24 | A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation. |
 | 9 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-05-24 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
 | 10 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-05-24 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
