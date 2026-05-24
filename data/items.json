@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-24T19:28:16Z",
+    "updated_at": "2026-05-24T19:43:32Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T19:42:19Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-24T19:33:54Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
@@ -16,24 +34,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T19:27:18Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T19:26:20Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-24T19:29:04Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A fast and minimal agent library for typescript and rust",
