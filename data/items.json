@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-24T15:14:44Z",
+    "updated_at": "2026-05-24T15:29:57Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-24T15:14:55Z",
-    "url": "https://github.com/AVADSA25/codec"
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
+    "id": "hoshiyomiX/stellar-frameworks",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-frameworks",
+    "stars": 0,
+    "updated_at": "2026-05-24T15:28:41Z",
+    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
   },
   {
     "description": "",
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-24T15:04:00Z",
+    "updated_at": "2026-05-24T15:22:16Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-24T15:28:34Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2489,
-    "updated_at": "2026-05-24T14:12:16Z",
+    "updated_at": "2026-05-24T15:21:31Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T13:55:12Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-24T13:52:41Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
