@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI chat and developer platform.",
+    "id": "Oxygen-Low/LocalLLM",
+    "language": "TypeScript",
+    "name": "Oxygen-Low/LocalLLM",
+    "stars": 1,
+    "updated_at": "2026-05-24T01:10:07Z",
+    "url": "https://github.com/Oxygen-Low/LocalLLM"
+  },
+  {
     "description": "",
     "id": "superninjv/synoros-pes",
     "language": "Python",
     "name": "superninjv/synoros-pes",
     "stars": 1,
-    "updated_at": "2026-05-24T00:43:53Z",
+    "updated_at": "2026-05-24T01:08:21Z",
     "url": "https://github.com/superninjv/synoros-pes"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-23T23:26:28Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-05-23T23:26:17Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
