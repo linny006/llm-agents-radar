@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 1,
+    "updated_at": "2026-05-24T23:40:54Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-05-24T23:36:37Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T23:35:43Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 0,
+    "updated_at": "2026-05-24T23:34:03Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-24T23:41:55Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-05-24T23:32:31Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-24T23:33:05Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-24T23:25:27Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T23:20:22Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-24T23:17:36Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T23:13:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T23:02:04Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-24T22:33:16Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-05-24T22:32:59Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-05-24T22:29:06Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 0,
-    "updated_at": "2026-05-24T22:28:46Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-05-24T22:28:04Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
