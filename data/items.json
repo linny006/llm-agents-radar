@@ -1,12 +1,147 @@
 [
   {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:14:51Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 95,
-    "updated_at": "2026-05-24T17:58:57Z",
+    "updated_at": "2026-05-24T18:13:48Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:12:47Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4309,
+    "updated_at": "2026-05-24T18:13:07Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
+    "id": "Giahyu943/AutoSage",
+    "language": "Swift",
+    "name": "Giahyu943/AutoSage",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:12:30Z",
+    "url": "https://github.com/Giahyu943/AutoSage"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 1,
+    "updated_at": "2026-05-24T18:11:32Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:11:21Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-05-24T18:10:41Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 1,
+    "updated_at": "2026-05-24T18:10:03Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-24T18:09:02Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 1,
+    "updated_at": "2026-05-24T18:07:14Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:06:55Z",
+    "url": "https://github.com/Sajal2702/agentbench"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:06:37Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-05-24T18:04:39Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T18:03:52Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-05-24T18:00:48Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -81,15 +216,6 @@
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-24T17:45:39Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
     "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
     "id": "Emiola033/LLM_Agent",
     "language": "HTML",
@@ -124,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T17:43:13Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T17:42:16Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4309,
-    "updated_at": "2026-05-24T17:54:53Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-24T17:00:30Z",
     "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:56:03Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
-    "id": "pachipalabharath/bb-applescript-mcp-server",
-    "language": "TypeScript",
-    "name": "pachipalabharath/bb-applescript-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-05-24T16:52:50Z",
-    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:49:33Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:45:14Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:40:15Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
-    "id": "EMT5320/loomstead",
-    "language": "Python",
-    "name": "EMT5320/loomstead",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:38:08Z",
-    "url": "https://github.com/EMT5320/loomstead"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 0,
-    "updated_at": "2026-05-24T16:37:17Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:35:15Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:32:07Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-05-24T16:31:37Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-05-24T16:30:48Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 2,
-    "updated_at": "2026-05-24T16:30:20Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
