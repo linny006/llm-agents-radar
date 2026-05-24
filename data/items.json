@@ -1,11 +1,20 @@
 [
   {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:46:10Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-24T19:43:32Z",
+    "updated_at": "2026-05-24T19:45:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 95,
     "updated_at": "2026-05-24T19:33:54Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-24T19:27:18Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "A fast and minimal agent library for typescript and rust",
