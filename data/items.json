@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:58:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-24T19:55:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T19:53:06Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
     "id": "Nicolasmoute/TeamOfTen",
     "language": "Python",
@@ -18,21 +45,12 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T19:42:19Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 95,
-    "updated_at": "2026-05-24T19:33:54Z",
+    "updated_at": "2026-05-24T19:53:20Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -99,15 +117,6 @@
     "url": "https://github.com/sacid446/unclaw"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:50:09Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-05-24T18:48:15Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-05-24T18:47:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -270,6 +270,15 @@
     "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
   },
   {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 153,
+    "updated_at": "2026-05-24T18:31:07Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
     "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
     "id": "ebbaunqualified520/ios-agent-skills",
     "language": "Shell",
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:30:18Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 152,
-    "updated_at": "2026-05-24T18:31:07Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
     "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
