@@ -1,29 +1,11 @@
 [
   {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-05-24T19:10:35Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-24T19:08:33Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-24T19:13:25Z",
+    "updated_at": "2026-05-24T19:28:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -32,8 +14,35 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-24T18:57:15Z",
+    "updated_at": "2026-05-24T19:27:18Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-24T19:26:20Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-24T19:29:04Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-05-24T19:10:35Z",
+    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-05-24T18:42:43Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-24T18:42:36Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
