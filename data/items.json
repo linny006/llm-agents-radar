@@ -1,12 +1,48 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:59:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-25T08:57:44Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-25T08:43:59Z",
+    "updated_at": "2026-05-25T08:56:30Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-05-25T08:55:54Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 25550,
+    "updated_at": "2026-05-25T08:57:10Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
@@ -45,15 +81,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 25549,
-    "updated_at": "2026-05-25T08:39:55Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
     "id": "Nicolasmoute/TeamOfTen",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T08:32:34Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 95,
-    "updated_at": "2026-05-25T08:30:20Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "samurai-bot/bss-cli",
     "stars": 1,
-    "updated_at": "2026-05-25T08:18:59Z",
+    "updated_at": "2026-05-25T08:57:33Z",
     "url": "https://github.com/samurai-bot/bss-cli"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 4308,
     "updated_at": "2026-05-25T08:31:32Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-05-25T08:04:40Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T07:27:30Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-25T07:24:06Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
