@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-25T20:42:15Z",
+    "updated_at": "2026-05-25T20:57:13Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-25T21:00:14Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-25T20:52:28Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity,",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:19:55Z",
     "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-25T20:17:26Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T19:43:12Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:41:01Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
