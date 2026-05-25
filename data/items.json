@@ -1,12 +1,21 @@
 [
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "JavaScript",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-05-25T22:16:54Z",
-    "url": "https://github.com/dsswift/ion"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:29:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:28:37Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
     "description": "",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-25T22:16:45Z",
+    "updated_at": "2026-05-25T22:27:37Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity,",
+    "id": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
+    "language": "Python",
+    "name": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:26:01Z",
+    "url": "https://github.com/namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:25:38Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:23:38Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:22:26Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T22:21:10Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 1,
+    "updated_at": "2026-05-25T22:18:21Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "JavaScript",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-05-25T22:17:21Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -162,30 +234,12 @@
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:32:26Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-25T21:24:18Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-25T22:06:07Z",
+    "updated_at": "2026-05-25T22:19:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-05-25T20:52:28Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity,",
-    "id": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
-    "language": "Python",
-    "name": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:43:35Z",
-    "url": "https://github.com/namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning"
   },
   {
     "description": "Cost-disciplined MCP client agent with a deterministic 5-rule tool-selection heuristic and first-class dry-run.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:03:39Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-05-25T20:01:48Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-05-25T20:00:09Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:59:08Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-05-25T19:57:45Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:57:05Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
