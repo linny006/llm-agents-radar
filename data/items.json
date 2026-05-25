@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-05-25T19:27:03Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-05-25T19:23:20Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T19:23:18Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:21:57Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:21:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-25T19:18:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:18:28Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:17:24Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
+    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
+    "id": "nalcapital/ComfyUI_RH_Univideo",
+    "language": "Python",
+    "name": "nalcapital/ComfyUI_RH_Univideo",
+    "stars": 0,
+    "updated_at": "2026-05-25T19:15:54Z",
+    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
+  },
+  {
     "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
     "id": "huydeptraivaio/ComfyUI-NovaSR",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-05-25T19:11:04Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-25T19:10:30Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI-powered group finance assistant using MCP architecture, Gemini LLM and Streamlit.",
@@ -225,15 +297,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T18:45:52Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "The ultimate native macOS AI Agent. Blends local MLX SLMs with 3D cognitive Metal rendering and autonomous system integr",
     "id": "trgysvc/EliteAgent",
     "language": "Swift",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T18:02:36Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-05-25T18:02:51Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:59:18Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:58:49Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-05-25T17:58:03Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 2,
-    "updated_at": "2026-05-25T17:57:37Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
-    "id": "mikehubers/Awesome-AI-For-Security",
-    "language": "\u2014",
-    "name": "mikehubers/Awesome-AI-For-Security",
-    "stars": 3,
-    "updated_at": "2026-05-25T17:56:27Z",
-    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:55:27Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
