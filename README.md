@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 17:15 UTC
+> ⏰ Last updated: 2026-05-25 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 4992 | Python | 2026-05-25 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-25 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4308 | Python | 2026-05-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 4 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-25 |  |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-25 |  |
+| 4 | [auto-use/Auto-Use](https://github.com/auto-use/Auto-Use) | 84 | Python | 2026-05-25 | Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end. |
 | 5 | [Nicolasmoute/TeamOfTen](https://github.com/Nicolasmoute/TeamOfTen) | 0 | Python | 2026-05-25 | Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 4 | Go | 2026-05-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 9 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-05-25 | Multiplayer simulation where humans and AI-powered agents traverse nested scales of reality, leaving causal traces for e |
-| 10 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7559 | JavaScript | 2026-05-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 11 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 46 | Rust | 2026-05-25 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
-| 12 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-05-25 | Octomind Agents Registry |
-| 13 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 305 | Go | 2026-05-25 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 14 | [EMT5320/loomstead](https://github.com/EMT5320/loomstead) | 1 | Python | 2026-05-25 | A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation. |
-| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 16 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 0 | Rust | 2026-05-25 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
-| 17 | [Axiumine/DEVPROTOCOL](https://github.com/Axiumine/DEVPROTOCOL) | 1 | Python | 2026-05-25 | An AI-native software engineering methodology — phased LLM agents for architecture, domain design, and planning before d |
-| 18 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 25565 | Python | 2026-05-25 | Build and run agents you can see, understand and trust. |
-| 19 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 3 | Rust | 2026-05-25 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
-| 20 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-25 | Open-Source Intelligent Command Layer |
-| 21 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-05-25 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
-| 22 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-05-25 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 23 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-25 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
-| 24 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 25 | [Amaleespinyedged857/chathermes](https://github.com/Amaleespinyedged857/chathermes) | 0 | — | 2026-05-25 | Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration. |
-| 26 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 1 | Python | 2026-05-25 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 27 | [Zeeechenn/stock-sage](https://github.com/Zeeechenn/stock-sage) | 0 | Python | 2026-05-25 | Agent-ready A股智能决策工作台：本地数据底座 + 多源行情新闻 + 技术/情感/长期研究 + 组合风控 + 可审计记忆，当前聚焦纸上交易验证，后续客户端化。 |
-| 28 | [sacid446/unclaw](https://github.com/sacid446/unclaw) | 0 | Shell | 2026-05-25 | Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs. |
-| 29 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 1 | Python | 2026-05-25 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
-| 30 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 0 | — | 2026-05-25 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 31 | [Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne) | 0 | Python | 2026-05-25 | Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc |
-| 32 | [Glorianerespiratory712/ComfyUI-VideoColorGrading](https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading) | 1 | Python | 2026-05-25 | Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation  |
-| 33 | [kirie123/aegistest](https://github.com/kirie123/aegistest) | 1 | Python | 2026-05-25 | A zero-dependency testing framework for LLM Agents. Supports dual evaluation (string matching + LLM-as-a-Judge), safety  |
-| 34 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 0 | Python | 2026-05-25 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
-| 35 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 0 | Python | 2026-05-25 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
-| 36 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 0 | — | 2026-05-25 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
-| 37 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 0 | — | 2026-05-25 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |
-| 38 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-05-25 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
-| 39 | [Stolas34/voice-input-src](https://github.com/Stolas34/voice-input-src) | 0 | — | 2026-05-25 | Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast  |
-| 40 | [pollexpitchshot449/am-agi](https://github.com/pollexpitchshot449/am-agi) | 0 | — | 2026-05-25 | Automate tasks with an AI assistant for kanban, calendar, and workflow execution |
-| 41 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-05-25 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 42 | [Screwtopped-annapavlova802/SparkLabs](https://github.com/Screwtopped-annapavlova802/SparkLabs) | 0 | C++ | 2026-05-25 | Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems |
-| 43 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 0 | Python | 2026-05-25 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 44 | [lislegenusthiobacillus199/ComfyUI-Foundation-1](https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1) | 1 | Python | 2026-05-25 | Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio |
-| 45 | [ebbaunqualified520/ios-agent-skills](https://github.com/ebbaunqualified520/ios-agent-skills) | 0 | Shell | 2026-05-25 | Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents |
-| 46 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-05-25 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
-| 47 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 0 | Python | 2026-05-25 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
-| 48 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-05-25 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
-| 49 | [armi10121-png/ComfyUI-PuLID-Flux2](https://github.com/armi10121-png/ComfyUI-PuLID-Flux2) | 3 | Python | 2026-05-25 | Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int |
-| 50 | [JonP07/HiPER-agent](https://github.com/JonP07/HiPER-agent) | 11 | Python | 2026-05-25 | [ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi |
+| 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-25 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 7 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 4992 | Python | 2026-05-25 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 8 | [gptme/gptme](https://github.com/gptme/gptme) | 4308 | Python | 2026-05-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 10 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 4 | Go | 2026-05-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-05-25 | Multiplayer simulation where humans and AI-powered agents traverse nested scales of reality, leaving causal traces for e |
+| 13 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7559 | JavaScript | 2026-05-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 14 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 46 | Rust | 2026-05-25 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
+| 15 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-05-25 | Octomind Agents Registry |
+| 16 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 305 | Go | 2026-05-25 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 17 | [EMT5320/loomstead](https://github.com/EMT5320/loomstead) | 1 | Python | 2026-05-25 | A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation. |
+| 18 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 0 | Rust | 2026-05-25 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
+| 19 | [Axiumine/DEVPROTOCOL](https://github.com/Axiumine/DEVPROTOCOL) | 1 | Python | 2026-05-25 | An AI-native software engineering methodology — phased LLM agents for architecture, domain design, and planning before d |
+| 20 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 25565 | Python | 2026-05-25 | Build and run agents you can see, understand and trust. |
+| 21 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 3 | Rust | 2026-05-25 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
+| 22 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-25 | Open-Source Intelligent Command Layer |
+| 23 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-05-25 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
+| 24 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-05-25 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 25 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-05-25 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
+| 26 | [Amaleespinyedged857/chathermes](https://github.com/Amaleespinyedged857/chathermes) | 0 | — | 2026-05-25 | Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration. |
+| 27 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 1 | Python | 2026-05-25 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 28 | [Zeeechenn/stock-sage](https://github.com/Zeeechenn/stock-sage) | 0 | Python | 2026-05-25 | Agent-ready A股智能决策工作台：本地数据底座 + 多源行情新闻 + 技术/情感/长期研究 + 组合风控 + 可审计记忆，当前聚焦纸上交易验证，后续客户端化。 |
+| 29 | [sacid446/unclaw](https://github.com/sacid446/unclaw) | 0 | Shell | 2026-05-25 | Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs. |
+| 30 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 1 | Python | 2026-05-25 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
+| 31 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 0 | — | 2026-05-25 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 32 | [Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne](https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne) | 0 | Python | 2026-05-25 | Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc |
+| 33 | [Glorianerespiratory712/ComfyUI-VideoColorGrading](https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading) | 1 | Python | 2026-05-25 | Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation  |
+| 34 | [kirie123/aegistest](https://github.com/kirie123/aegistest) | 1 | Python | 2026-05-25 | A zero-dependency testing framework for LLM Agents. Supports dual evaluation (string matching + LLM-as-a-Judge), safety  |
+| 35 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 0 | Python | 2026-05-25 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
+| 36 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 0 | Python | 2026-05-25 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
+| 37 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 0 | — | 2026-05-25 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
+| 38 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 0 | — | 2026-05-25 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |
+| 39 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-05-25 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
+| 40 | [Stolas34/voice-input-src](https://github.com/Stolas34/voice-input-src) | 0 | — | 2026-05-25 | Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast  |
+| 41 | [pollexpitchshot449/am-agi](https://github.com/pollexpitchshot449/am-agi) | 0 | — | 2026-05-25 | Automate tasks with an AI assistant for kanban, calendar, and workflow execution |
+| 42 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-05-25 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
+| 43 | [Screwtopped-annapavlova802/SparkLabs](https://github.com/Screwtopped-annapavlova802/SparkLabs) | 0 | C++ | 2026-05-25 | Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems |
+| 44 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 0 | Python | 2026-05-25 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
+| 45 | [lislegenusthiobacillus199/ComfyUI-Foundation-1](https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1) | 1 | Python | 2026-05-25 | Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio |
+| 46 | [ebbaunqualified520/ios-agent-skills](https://github.com/ebbaunqualified520/ios-agent-skills) | 0 | Shell | 2026-05-25 | Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents |
+| 47 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-05-25 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
+| 48 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 0 | Python | 2026-05-25 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
+| 49 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-05-25 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
+| 50 | [armi10121-png/ComfyUI-PuLID-Flux2](https://github.com/armi10121-png/ComfyUI-PuLID-Flux2) | 3 | Python | 2026-05-25 | Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int |
 <!-- TRACKER_TABLE_END -->
 
 ---

@@ -1,5 +1,59 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:24:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T17:22:41Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
+    "id": "auto-use/Auto-Use",
+    "language": "Python",
+    "name": "auto-use/Auto-Use",
+    "stars": 84,
+    "updated_at": "2026-05-25T17:22:30Z",
+    "url": "https://github.com/auto-use/Auto-Use"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:22:26Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-25T17:21:41Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-25T17:10:44Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -25,24 +70,6 @@
     "stars": 4308,
     "updated_at": "2026-05-25T17:14:38Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T17:04:57Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-25T16:52:06Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 46,
-    "updated_at": "2026-05-25T15:53:01Z",
+    "updated_at": "2026-05-25T17:22:43Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T15:49:38Z",
     "url": "https://github.com/EMT5320/loomstead"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:46:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:41:40Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:41:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-25T15:13:38Z",
     "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
-    "id": "JonP07/HiPER-agent",
-    "language": "Python",
-    "name": "JonP07/HiPER-agent",
-    "stars": 11,
-    "updated_at": "2026-05-25T15:13:13Z",
-    "url": "https://github.com/JonP07/HiPER-agent"
   }
 ]
