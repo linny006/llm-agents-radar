@@ -1,21 +1,30 @@
 [
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-25T02:00:05Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-05-25T02:12:03Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-05-25T02:09:26Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-25T01:59:59Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:09:03Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
   },
   {
     "description": "",
@@ -23,8 +32,44 @@
     "language": "Python",
     "name": "superninjv/synoros-pes",
     "stars": 1,
-    "updated_at": "2026-05-25T01:59:37Z",
+    "updated_at": "2026-05-25T02:08:01Z",
     "url": "https://github.com/superninjv/synoros-pes"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:06:27Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 73,
+    "updated_at": "2026-05-25T02:09:28Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T02:02:45Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-25T02:02:21Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T01:47:40Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T01:41:56Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -112,7 +148,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12042,
+    "stars": 12043,
     "updated_at": "2026-05-25T01:28:24Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T00:57:39Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-05-25T00:55:45Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 2,
-    "updated_at": "2026-05-25T00:54:12Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-25T00:53:40Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-25T00:53:00Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
