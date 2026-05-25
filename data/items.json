@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:28:51Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
+    "id": "hoshiyomiX/stellar-frameworks",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-frameworks",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:26:18Z",
+    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
+  },
+  {
+    "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
+    "id": "shouzhuoshouzhuo/FloatTrip",
+    "language": "Python",
+    "name": "shouzhuoshouzhuo/FloatTrip",
+    "stars": 1,
+    "updated_at": "2026-05-25T06:26:13Z",
+    "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T06:22:49Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:22:34Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-25T06:22:05Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
     "id": "llylee994-ui/HexaAgent",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T06:19:16Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-05-25T06:17:10Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -72,15 +117,6 @@
     "url": "https://github.com/birken-embalmment848/agent-lightning"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T06:06:50Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-25T06:17:20Z",
+    "updated_at": "2026-05-25T06:28:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -238,7 +274,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12055,
+    "stars": 12057,
     "updated_at": "2026-05-25T05:29:14Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 46,
-    "updated_at": "2026-05-25T06:13:51Z",
+    "updated_at": "2026-05-25T06:29:01Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T04:55:08Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:55:01Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:53:54Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-05-25T04:49:53Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-05-25T04:48:14Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
