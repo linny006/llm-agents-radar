@@ -1,5 +1,23 @@
 [
   {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:28:34Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
+    "language": "Python",
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-05-25T02:27:13Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
+  },
+  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -18,15 +36,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Safe execution harness for LLM agents operating on local workspaces.",
-    "id": "zhangyi-nb1/localflow",
-    "language": "Python",
-    "name": "zhangyi-nb1/localflow",
-    "stars": 0,
-    "updated_at": "2026-05-25T02:09:03Z",
-    "url": "https://github.com/zhangyi-nb1/localflow"
-  },
-  {
     "description": "",
     "id": "superninjv/synoros-pes",
     "language": "Python",
@@ -36,21 +45,12 @@
     "url": "https://github.com/superninjv/synoros-pes"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-25T02:06:27Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 73,
-    "updated_at": "2026-05-25T02:09:28Z",
+    "updated_at": "2026-05-25T02:22:01Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -148,7 +148,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12043,
+    "stars": 12044,
     "updated_at": "2026-05-25T01:28:24Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
