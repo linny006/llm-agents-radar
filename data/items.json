@@ -1,30 +1,48 @@
 [
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-25T12:29:10Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
     "id": "YunyueLi/Mighta",
     "language": "TypeScript",
     "name": "YunyueLi/Mighta",
     "stars": 1,
-    "updated_at": "2026-05-25T12:29:07Z",
+    "updated_at": "2026-05-25T12:45:06Z",
     "url": "https://github.com/YunyueLi/Mighta"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
+    "description": "",
+    "id": "agent-axiom/agent-arch",
     "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T12:42:06Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-05-25T12:27:16Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+    "updated_at": "2026-05-25T12:39:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-25T12:39:19Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-25T12:41:05Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
@@ -32,8 +50,17 @@
     "language": "TypeScript",
     "name": "davccavalcante/TeleologyHI",
     "stars": 1,
-    "updated_at": "2026-05-25T12:26:42Z",
+    "updated_at": "2026-05-25T12:42:19Z",
     "url": "https://github.com/davccavalcante/TeleologyHI"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-25T12:34:08Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -45,13 +72,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T12:22:02Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2495,
+    "updated_at": "2026-05-25T12:19:48Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:02:04Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-25T12:17:33Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T11:38:14Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-25T11:37:05Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-25T11:36:57Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
