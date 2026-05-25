@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-25 21:15 UTC
+> ⏰ Last updated: 2026-05-25 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,14 +43,14 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-25 |  |
-| 2 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 194 | TypeScript | 2026-05-25 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4308 | Python | 2026-05-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-25 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 7 | [namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning](https://github.com/namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning) | 0 | Python | 2026-05-25 | Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity, |
-| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 9 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-05-25 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 2 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-05-25 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4308 | Python | 2026-05-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 4 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 194 | TypeScript | 2026-05-25 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
+| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-25 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 8 | [namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning](https://github.com/namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning) | 0 | Python | 2026-05-25 | Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity, |
+| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 10 | [luannamorim/toolforge-mcp](https://github.com/luannamorim/toolforge-mcp) | 0 | Python | 2026-05-25 | Cost-disciplined MCP client agent with a deterministic 5-rule tool-selection heuristic and first-class dry-run. |
 | 11 | [yacine204/Aiki](https://github.com/yacine204/Aiki) | 0 | Python | 2026-05-25 | Local wikipedia retrieval engine built using TF-IDF and cosine similarity. |
 | 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
