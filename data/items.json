@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T20:42:15Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Inference-time agentic framework that decomposes multimodal misinformation detection into four modules: visual veracity,",
+    "id": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
+    "language": "Python",
+    "name": "namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:43:35Z",
+    "url": "https://github.com/namikazi25/MERIT-A-Modular-Framework-for-Multimodal-Misinformation-Detection-with-Web-Grounded-Reasoning"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-25T20:37:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T20:25:54Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T20:22:43Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T19:41:01Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-25T19:38:33Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-25T19:37:41Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
