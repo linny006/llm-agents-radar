@@ -1,5 +1,59 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-25T13:56:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-25T13:55:49Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-25T13:54:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-25T13:53:49Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 1,
+    "updated_at": "2026-05-25T13:51:35Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-25T13:51:15Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
     "id": "matthew-fitzgerald123/llm-agent",
     "language": "Python",
@@ -36,15 +90,6 @@
     "url": "https://github.com/birken-embalmment848/agent-lightning"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-25T13:39:32Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
     "description": "\u81ea\u52a8\u5316\u4e13\u5229\u4fb5\u6743\u7ade\u54c1\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c1 \u5c0f\u65f6\u4ea7\u51fa\u5f8b\u5e08\u53ef\u590d\u6838\u7684 claim chart \u62a5\u544a\uff08\u9010\u7279\u5f81\u5bf9\u6bd4 + \u8bc1\u636eURL + \u4e0b\u4e00\u6b65\u5efa\u8bae\uff09\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent \u8c03\u7528\u3002",
     "id": "yuc16/PatentRadar",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-25T13:36:11Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
     "id": "pachipalabharath/bb-applescript-mcp-server",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-05-25T13:29:08Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-25T13:44:08Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-25T13:13:34Z",
+    "updated_at": "2026-05-25T13:46:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -270,6 +297,15 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
+    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
+    "id": "davccavalcante/TeleologyHI",
+    "language": "TypeScript",
+    "name": "davccavalcante/TeleologyHI",
+    "stars": 1,
+    "updated_at": "2026-05-25T12:54:56Z",
+    "url": "https://github.com/davccavalcante/TeleologyHI"
+  },
+  {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
     "id": "XederaBills/llm-powered-data-analysis",
     "language": "Python",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-05-25T12:50:07Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
-    "id": "davccavalcante/TeleologyHI",
-    "language": "TypeScript",
-    "name": "davccavalcante/TeleologyHI",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:54:56Z",
-    "url": "https://github.com/davccavalcante/TeleologyHI"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-25T12:08:54Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:06:47Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:06:07Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-05-25T12:05:25Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
