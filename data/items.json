@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-25T16:44:05Z",
+    "updated_at": "2026-05-25T16:52:06Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-25T16:42:20Z",
+    "updated_at": "2026-05-25T16:50:49Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-25T16:50:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-25T16:41:09Z",
+    "updated_at": "2026-05-25T16:58:56Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -86,8 +95,17 @@
     "language": "Python",
     "name": "Muvon/octomind-tap",
     "stars": 3,
-    "updated_at": "2026-05-25T15:52:39Z",
+    "updated_at": "2026-05-25T16:53:47Z",
     "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 304,
+    "updated_at": "2026-05-25T15:50:20Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
@@ -130,7 +148,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25564,
+    "stars": 25565,
     "updated_at": "2026-05-25T15:44:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:13:06Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:12:47Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:11:53Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
