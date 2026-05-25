@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-25T15:59:50Z",
+    "updated_at": "2026-05-25T16:15:09Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-25T16:07:50Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7559,
+    "updated_at": "2026-05-25T16:07:11Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-25T15:54:56Z",
+    "updated_at": "2026-05-25T16:05:35Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
@@ -81,15 +99,6 @@
     "url": "https://github.com/Axiumine/DEVPROTOCOL"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-25T15:44:38Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 95,
-    "updated_at": "2026-05-25T15:43:58Z",
+    "updated_at": "2026-05-25T16:02:19Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-25T15:06:27Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-05-25T15:06:23Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
