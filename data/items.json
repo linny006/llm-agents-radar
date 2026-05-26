@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
+    "id": "jiuguandemao/multimodal-bug-agent",
+    "language": "Python",
+    "name": "jiuguandemao/multimodal-bug-agent",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:44:14Z",
+    "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-26T03:43:29Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T03:42:47Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:44:18Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
+    "id": "JonP07/HiPER-agent",
+    "language": "Python",
+    "name": "JonP07/HiPER-agent",
+    "stars": 11,
+    "updated_at": "2026-05-26T03:42:23Z",
+    "url": "https://github.com/JonP07/HiPER-agent"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-26T03:32:19Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
     "id": "YunyueLi/Mighta",
     "language": "TypeScript",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-26T03:28:29Z",
+    "updated_at": "2026-05-26T03:30:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -36,20 +90,11 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 4,
-    "updated_at": "2026-05-26T03:25:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25575,
+    "stars": 25576,
     "updated_at": "2026-05-26T03:09:26Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5216,
-    "updated_at": "2026-05-26T03:11:45Z",
+    "updated_at": "2026-05-26T03:41:58Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T02:42:19Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "samurai-bot/bss-cli",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T02:33:03Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:32:18Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:32:08Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:29:55Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:27:41Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
