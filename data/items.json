@@ -1,12 +1,12 @@
 [
   {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-05-26T09:58:40Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-26T10:10:22Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
     "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-26T09:58:31Z",
+    "updated_at": "2026-05-26T10:09:28Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:01:33Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:00:50Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-26T10:00:49Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
+    "id": "Amaleespinyedged857/chathermes",
+    "language": "\u2014",
+    "name": "Amaleespinyedged857/chathermes",
+    "stars": 0,
+    "updated_at": "2026-05-26T09:58:40Z",
+    "url": "https://github.com/Amaleespinyedged857/chathermes"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -133,15 +169,6 @@
     "stars": 10,
     "updated_at": "2026-05-26T09:45:41Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-26T09:45:32Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
@@ -265,7 +292,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12126,
+    "stars": 12127,
     "updated_at": "2026-05-26T09:29:16Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T09:14:49Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-05-26T09:14:15Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 1,
-    "updated_at": "2026-05-26T09:11:44Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "LLM-driven NetEase Cloud Music player for time-of-day listening",
-    "id": "EvanAI0331/music-daypart",
-    "language": "JavaScript",
-    "name": "EvanAI0331/music-daypart",
-    "stars": 0,
-    "updated_at": "2026-05-26T09:12:03Z",
-    "url": "https://github.com/EvanAI0331/music-daypart"
   }
 ]
