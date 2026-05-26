@@ -1,5 +1,41 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-26T08:58:38Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:57:13Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:56:20Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-26T08:55:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
     "id": "nalcapital/ComfyUI_RH_Univideo",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-26T08:53:24Z",
+    "updated_at": "2026-05-26T08:55:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T08:53:13Z",
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-26T08:52:37Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -319,7 +346,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2498,
+    "stars": 2499,
     "updated_at": "2026-05-26T08:16:02Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T07:42:37Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Nighttime ML experiment workflow with Claude Code multi-agent orchestration (Planner / Executor / Reviewer / Auditor)",
-    "id": "zhengyang-2002/ai-experiment-workflow",
-    "language": "Shell",
-    "name": "zhengyang-2002/ai-experiment-workflow",
-    "stars": 0,
-    "updated_at": "2026-05-26T07:42:25Z",
-    "url": "https://github.com/zhengyang-2002/ai-experiment-workflow"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-05-26T07:42:16Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-05-26T07:41:32Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
   }
 ]
