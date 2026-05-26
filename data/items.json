@@ -1,11 +1,47 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-26T18:07:27Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T18:06:56Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4309,
+    "updated_at": "2026-05-26T18:06:19Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-26T18:02:52Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-26T17:59:34Z",
+    "updated_at": "2026-05-26T18:07:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -25,33 +61,6 @@
     "stars": 8,
     "updated_at": "2026-05-26T17:58:45Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-26T17:55:45Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4309,
-    "updated_at": "2026-05-26T17:57:52Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T17:42:43Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T16:58:39Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-26T16:57:03Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
