@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-26T18:14:11Z",
+    "updated_at": "2026-05-26T18:27:28Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T18:22:34Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -25,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-05-26T18:07:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T18:06:56Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
