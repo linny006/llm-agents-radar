@@ -1,5 +1,131 @@
 [
   {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:14:07Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-05-26T06:10:23Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-26T06:09:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:07:38Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-05-26T06:06:57Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:05:41Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:05:22Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4308,
+    "updated_at": "2026-05-26T06:09:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T06:03:35Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
+    "id": "YunyueLi/Mighta",
+    "language": "TypeScript",
+    "name": "YunyueLi/Mighta",
+    "stars": 1,
+    "updated_at": "2026-05-26T06:03:11Z",
+    "url": "https://github.com/YunyueLi/Mighta"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5217,
+    "updated_at": "2026-05-26T06:02:34Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:02:11Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/superx",
+    "language": "Shell",
+    "name": "randomittin/superx",
+    "stars": 3,
+    "updated_at": "2026-05-26T06:01:33Z",
+    "url": "https://github.com/randomittin/superx"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-05-26T06:01:20Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
     "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
     "id": "nalcapital/ComfyUI_RH_Univideo",
     "language": "Python",
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T05:58:02Z",
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-26T05:55:52Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
@@ -72,15 +189,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
-    "id": "YunyueLi/Mighta",
-    "language": "TypeScript",
-    "name": "YunyueLi/Mighta",
-    "stars": 1,
-    "updated_at": "2026-05-26T05:48:54Z",
-    "url": "https://github.com/YunyueLi/Mighta"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -97,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T05:48:00Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T05:45:14Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
@@ -297,15 +396,6 @@
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4308,
-    "updated_at": "2026-05-26T05:53:00Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -342,15 +432,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 4,
-    "updated_at": "2026-05-26T05:52:09Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
     "id": "pachipalabharath/bb-applescript-mcp-server",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 11,
     "updated_at": "2026-05-26T05:06:16Z",
     "url": "https://github.com/InstantNeo/instantneo"
-  },
-  {
-    "description": "Secure local AI agent runtime \u2014 vault-backed secrets, sandboxed execution, cryptographic audit chain, procedural skill s",
-    "id": "HeyBatlle1/Argus2",
-    "language": "Rust",
-    "name": "HeyBatlle1/Argus2",
-    "stars": 0,
-    "updated_at": "2026-05-26T05:05:09Z",
-    "url": "https://github.com/HeyBatlle1/Argus2"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 1,
-    "updated_at": "2026-05-26T05:03:07Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 1,
-    "updated_at": "2026-05-26T04:58:52Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:58:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:54:08Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "Community fork of hermes-agent (Nous Research, MIT). Early-stage rebrand; deep internal rename WIP. See README for fork ",
-    "id": "ComputPhillip/Forge",
-    "language": "Python",
-    "name": "ComputPhillip/Forge",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:52:27Z",
-    "url": "https://github.com/ComputPhillip/Forge"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-05-26T04:51:37Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 0,
-    "updated_at": "2026-05-26T04:51:11Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-05-26T04:49:15Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
   }
 ]
