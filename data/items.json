@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:41:26Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
+    "id": "azzan1235/agentic_rag_system",
+    "language": "Python",
+    "name": "azzan1235/agentic_rag_system",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:40:53Z",
+    "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-05-26T05:40:17Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 145,
+    "updated_at": "2026-05-26T05:40:12Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
+    "id": "JonP07/HiPER-agent",
+    "language": "Python",
+    "name": "JonP07/HiPER-agent",
+    "stars": 11,
+    "updated_at": "2026-05-26T05:40:02Z",
+    "url": "https://github.com/JonP07/HiPER-agent"
+  },
+  {
+    "description": "Claude Code subagent for token-efficient AI coding. 7 operating principles produce 50% fewer tool calls and 60% less wal",
+    "id": "ComputPhillip/agentic-forge",
+    "language": "PowerShell",
+    "name": "ComputPhillip/agentic-forge",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:39:52Z",
+    "url": "https://github.com/ComputPhillip/agentic-forge"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-05-26T05:38:43Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
+    "id": "adityasingh0z3/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "adityasingh0z3/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:36:58Z",
+    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
+    "id": "pchi123/Paper2Slides",
+    "language": "Python",
+    "name": "pchi123/Paper2Slides",
+    "stars": 2,
+    "updated_at": "2026-05-26T05:36:25Z",
+    "url": "https://github.com/pchi123/Paper2Slides"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
+    "id": "sumit7235/Domfie",
+    "language": "Jupyter Notebook",
+    "name": "sumit7235/Domfie",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:35:55Z",
+    "url": "https://github.com/sumit7235/Domfie"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T05:35:50Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:35:41Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83d\udcfa AI\u89c6\u9891\u5b66\u4e60\u52a9\u624b: \u81ea\u52a8\u751f\u6210 B\u7ad9/YouTube/\u6296\u97f3/\u672c\u5730\u89c6\u9891\u601d\u7ef4\u5bfc\u56fe\u3001\u7b14\u8bb0\u4e0e\u603b\u7ed3\u3002\u652f\u6301\u64ad\u5ba2\u5206\u6790\u4e0e\u89c6\u9891\u7d22\u5f15\uff0c\u5f00\u6e90\u5e73\u66ff\u3002AI Video Learning Assistant: Auto-generate Mind Maps, Not",
+    "id": "LDJ-creat/video-helper",
+    "language": "Python",
+    "name": "LDJ-creat/video-helper",
+    "stars": 32,
+    "updated_at": "2026-05-26T05:34:50Z",
+    "url": "https://github.com/LDJ-creat/video-helper"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:33:24Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7562,
+    "updated_at": "2026-05-26T05:32:58Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -27,15 +162,6 @@
     "url": "https://github.com/Ali-Shady/claude-agent-desktop"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T05:23:41Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -43,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T05:23:15Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
-    "id": "JonP07/HiPER-agent",
-    "language": "Python",
-    "name": "JonP07/HiPER-agent",
-    "stars": 11,
-    "updated_at": "2026-05-26T05:21:03Z",
-    "url": "https://github.com/JonP07/HiPER-agent"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -68,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-26T05:28:07Z",
+    "updated_at": "2026-05-26T05:41:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -180,15 +297,6 @@
     "url": "https://github.com/DAUS089/agentforge"
   },
   {
-    "description": "\ud83d\udcfa AI\u89c6\u9891\u5b66\u4e60\u52a9\u624b: \u81ea\u52a8\u751f\u6210 B\u7ad9/YouTube/\u6296\u97f3/\u672c\u5730\u89c6\u9891\u601d\u7ef4\u5bfc\u56fe\u3001\u7b14\u8bb0\u4e0e\u603b\u7ed3\u3002\u652f\u6301\u64ad\u5ba2\u5206\u6790\u4e0e\u89c6\u9891\u7d22\u5f15\uff0c\u5f00\u6e90\u5e73\u66ff\u3002AI Video Learning Assistant: Auto-generate Mind Maps, Not",
-    "id": "LDJ-creat/video-helper",
-    "language": "Python",
-    "name": "LDJ-creat/video-helper",
-    "stars": 32,
-    "updated_at": "2026-05-26T04:52:40Z",
-    "url": "https://github.com/LDJ-creat/video-helper"
-  },
-  {
     "description": "Community fork of hermes-agent (Nous Research, MIT). Early-stage rebrand; deep internal rename WIP. See README for fork ",
     "id": "ComputPhillip/Forge",
     "language": "Python",
@@ -283,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25583,
+    "stars": 25587,
     "updated_at": "2026-05-26T04:36:24Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -304,6 +412,15 @@
     "stars": 0,
     "updated_at": "2026-05-26T04:29:55Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 4996,
+    "updated_at": "2026-05-26T04:19:34Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:44:14Z",
     "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:44:18Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5217,
-    "updated_at": "2026-05-26T03:57:15Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
-    "id": "YunyueLi/Mighta",
-    "language": "TypeScript",
-    "name": "YunyueLi/Mighta",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:28:36Z",
-    "url": "https://github.com/YunyueLi/Mighta"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:08:45Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:08:07Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:08:05Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:06:05Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:03:44Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:42Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:02:17Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:02:10Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-05-26T03:01:49Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
-    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "language": "Python",
-    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:00:57Z",
-    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
   }
 ]
