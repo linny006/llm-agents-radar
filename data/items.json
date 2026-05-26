@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-05-26T05:44:37Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
+    "id": "JonP07/HiPER-agent",
+    "language": "Python",
+    "name": "JonP07/HiPER-agent",
+    "stars": 11,
+    "updated_at": "2026-05-26T05:44:11Z",
+    "url": "https://github.com/JonP07/HiPER-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:42:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 0,
+    "updated_at": "2026-05-26T05:42:16Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
     "id": "villcaf175/PocketFlow-Zig",
     "language": "Zig",
@@ -34,15 +70,6 @@
     "stars": 145,
     "updated_at": "2026-05-26T05:40:12Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "[ICML 2026] This is the official implementation for paper HiPER: Hierarchical Reinforcement Learning with Explicit Credi",
-    "id": "JonP07/HiPER-agent",
-    "language": "Python",
-    "name": "JonP07/HiPER-agent",
-    "stars": 11,
-    "updated_at": "2026-05-26T05:40:02Z",
-    "url": "https://github.com/JonP07/HiPER-agent"
   },
   {
     "description": "Claude Code subagent for token-efficient AI coding. 7 operating principles produce 50% fewer tool calls and 60% less wal",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-26T05:35:50Z",
+    "updated_at": "2026-05-26T05:45:14Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -391,7 +418,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25587,
+    "stars": 25588,
     "updated_at": "2026-05-26T04:36:24Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 4996,
     "updated_at": "2026-05-26T04:19:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-26T04:07:47Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-26T04:05:37Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
-    "id": "jiuguandemao/multimodal-bug-agent",
-    "language": "Python",
-    "name": "jiuguandemao/multimodal-bug-agent",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:44:14Z",
-    "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
   }
 ]
