@@ -1,12 +1,48 @@
 [
   {
+    "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
+    "id": "YunyueLi/Mighta",
+    "language": "TypeScript",
+    "name": "YunyueLi/Mighta",
+    "stars": 1,
+    "updated_at": "2026-05-26T03:28:36Z",
+    "url": "https://github.com/YunyueLi/Mighta"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4308,
-    "updated_at": "2026-05-26T03:13:14Z",
+    "updated_at": "2026-05-26T03:28:29Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
+    "id": "Nicolasmoute/TeamOfTen",
+    "language": "Python",
+    "name": "Nicolasmoute/TeamOfTen",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:22:57Z",
+    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-26T03:19:39Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-26T03:25:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T03:01:49Z",
     "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
-    "id": "YunyueLi/Mighta",
-    "language": "TypeScript",
-    "name": "YunyueLi/Mighta",
-    "stars": 1,
-    "updated_at": "2026-05-26T03:01:36Z",
-    "url": "https://github.com/YunyueLi/Mighta"
   },
   {
     "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:47:40Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:47:34Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
   },
   {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:27:41Z",
     "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:26:54Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:26:44Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
