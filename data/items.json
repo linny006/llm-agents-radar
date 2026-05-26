@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
+    "id": "nalcapital/ComfyUI_RH_Univideo",
+    "language": "Python",
+    "name": "nalcapital/ComfyUI_RH_Univideo",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:13:56Z",
+    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
+  },
+  {
+    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
+    "id": "huydeptraivaio/ComfyUI-NovaSR",
+    "language": "Python",
+    "name": "huydeptraivaio/ComfyUI-NovaSR",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:12:10Z",
+    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:10:03Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-05-26T23:09:32Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-05-26T23:09:26Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T23:07:05Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:04:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:04:27Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-05-26T23:04:03Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:02:43Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-05-26T23:02:39Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -117,15 +216,6 @@
     "url": "https://github.com/Ali-Shady/claude-agent-desktop"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T22:41:17Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -149,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4309,
-    "updated_at": "2026-05-26T22:40:05Z",
+    "updated_at": "2026-05-26T23:11:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -351,15 +441,6 @@
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:38:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T21:32:48Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:32:17Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:32:14Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "The Eternego codebase",
-    "id": "Eternego-AI/eternego",
-    "language": "Python",
-    "name": "Eternego-AI/eternego",
-    "stars": 12,
-    "updated_at": "2026-05-26T21:34:38Z",
-    "url": "https://github.com/Eternego-AI/eternego"
-  },
-  {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:30:17Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 1,
-    "updated_at": "2026-05-26T21:27:54Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:27:04Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 1,
-    "updated_at": "2026-05-26T21:26:30Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:26:23Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-05-26T21:26:05Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
   }
 ]
