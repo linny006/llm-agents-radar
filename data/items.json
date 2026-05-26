@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "Nicolasmoute/TeamOfTen",
     "stars": 0,
-    "updated_at": "2026-05-26T03:54:25Z",
+    "updated_at": "2026-05-26T04:13:49Z",
     "url": "https://github.com/Nicolasmoute/TeamOfTen"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12098,
+    "updated_at": "2026-05-26T04:09:04Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-26T04:07:47Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-26T04:05:37Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-26T04:05:24Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,17 +50,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-26T03:55:08Z",
+    "updated_at": "2026-05-26T04:14:15Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12096,
-    "updated_at": "2026-05-26T03:52:25Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-05-26T03:44:14Z",
     "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-26T03:42:47Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -70,15 +88,6 @@
     "stars": 5217,
     "updated_at": "2026-05-26T03:57:15Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-26T03:32:19Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "the lives you didn't live \u2014 a counterfactual life simulator powered by a swarm of LLM agents",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-26T02:36:17Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:33:15Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
