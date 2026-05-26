@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-26T21:43:25Z",
+    "updated_at": "2026-05-26T21:57:17Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Multi-provider, hot-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recursive s",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 8,
+    "updated_at": "2026-05-26T21:52:00Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-26T21:51:26Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4309,
-    "updated_at": "2026-05-26T21:44:37Z",
+    "updated_at": "2026-05-26T22:00:16Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Multi-provider, multi-agent, hot-mutating coding LLM with async/detached tool calling and bidirectionally communicating ",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 8,
-    "updated_at": "2026-05-26T21:40:05Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T20:56:01Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-26T20:55:49Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
