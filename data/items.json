@@ -1,5 +1,113 @@
 [
   {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:59:50Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:58:06Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:57:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Advanced Fake News Detection packaged as a browser extension.",
+    "id": "centille/Newsful",
+    "language": "Python",
+    "name": "centille/Newsful",
+    "stars": 7,
+    "updated_at": "2026-05-27T09:58:53Z",
+    "url": "https://github.com/centille/Newsful"
+  },
+  {
+    "description": "",
+    "id": "AtomicBot-ai/atomic-agent",
+    "language": "TypeScript",
+    "name": "AtomicBot-ai/atomic-agent",
+    "stars": 90,
+    "updated_at": "2026-05-27T09:56:44Z",
+    "url": "https://github.com/AtomicBot-ai/atomic-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-05-27T09:54:25Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-05-27T09:50:59Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:49:47Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:49:28Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:46:25Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-05-27T09:46:01Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
+    "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-05-27T09:45:24Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -216,15 +324,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "",
-    "id": "AtomicBot-ai/atomic-agent",
-    "language": "TypeScript",
-    "name": "AtomicBot-ai/atomic-agent",
-    "stars": 90,
-    "updated_at": "2026-05-27T09:17:45Z",
-    "url": "https://github.com/AtomicBot-ai/atomic-agent"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-27T08:50:33Z",
     "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
-  },
-  {
-    "description": "OpenClaw \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff1a27 \u7ae0\u6280\u672f\u4e3b\u7ebf + 2 \u6708\u4ee5\u6765 PR \u6f14\u8fdb + fork/\u53d8\u79cd\u751f\u6001 + \u7f3a\u9677\u4e0e roadmap\uff082026-04 snapshot\uff09",
-    "id": "xiaonancs/openclaw-study",
-    "language": "JavaScript",
-    "name": "xiaonancs/openclaw-study",
-    "stars": 2,
-    "updated_at": "2026-05-27T08:49:51Z",
-    "url": "https://github.com/xiaonancs/openclaw-study"
-  },
-  {
-    "description": "Hermes Agent \u6df1\u5ea6\u7814\u7a76\uff1a\u4ece\u673a\u5236\u672c\u8d28\u5230\u4ee3\u7801\u5b9e\u73b0\uff0c\u4ece OpenClaw \u6e0a\u6e90\u5230 EvoMap \u4e89\u8bae",
-    "id": "xiaonancs/hermes-agent-study",
-    "language": "JavaScript",
-    "name": "xiaonancs/hermes-agent-study",
-    "stars": 20,
-    "updated_at": "2026-05-27T08:49:49Z",
-    "url": "https://github.com/xiaonancs/hermes-agent-study"
-  },
-  {
-    "description": "OpenAI Codex \u6e90\u7801\u6df1\u5ea6\u7814\u7a76 (Rust + TS + Python)\uff1a2 \u603b\u7eb2 + 25 \u7ae0 + 3 \u9644\u5f55, ~51 \u4e07\u5b57 + 149 \u5f20 Mermaid \u67b6\u6784\u56fe",
-    "id": "xiaonancs/codex-source-analysis",
-    "language": "JavaScript",
-    "name": "xiaonancs/codex-source-analysis",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:49:47Z",
-    "url": "https://github.com/xiaonancs/codex-source-analysis"
-  },
-  {
-    "description": "Claude Code \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff0c\u5305\u62ec Foundations/Execution/Infrastructure \u4e09\u5927\u7ae0\u8282\u548c 23 \u4e2a\u5b50\u7cfb\u7edf\u7684\u67b6\u6784\u5206\u6790\u62c6\u89e3\u3002",
-    "id": "xiaonancs/claude-code-source-analysis",
-    "language": "JavaScript",
-    "name": "xiaonancs/claude-code-source-analysis",
-    "stars": 32,
-    "updated_at": "2026-05-27T08:49:39Z",
-    "url": "https://github.com/xiaonancs/claude-code-source-analysis"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12177,
-    "updated_at": "2026-05-27T08:49:08Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 1,
-    "updated_at": "2026-05-27T08:47:11Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 1,
-    "updated_at": "2026-05-27T08:42:43Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:37:45Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:34:37Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-05-27T08:32:51Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-05-27T08:29:13Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
