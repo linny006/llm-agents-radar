@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-05-27T02:14:36Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 2,
+    "updated_at": "2026-05-27T02:12:57Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-27T02:09:06Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-27T02:06:15Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T02:03:45Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-05-27T02:03:15Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -99,15 +153,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T01:42:17Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
     "id": "matthew-fitzgerald123/llm-agent",
     "language": "Python",
@@ -130,7 +175,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12160,
+    "stars": 12161,
     "updated_at": "2026-05-27T01:37:05Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -311,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4309,
-    "updated_at": "2026-05-27T00:07:59Z",
+    "updated_at": "2026-05-27T02:10:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:52:45Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 152,
-    "updated_at": "2026-05-26T23:51:49Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-05-26T23:51:28Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:51:00Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:50:55Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:50:16Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
