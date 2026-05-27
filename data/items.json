@@ -1,12 +1,120 @@
 [
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-05-27T08:59:35Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Lightweight AI agent for your terminal \u2014 connects to DeepSeek API with local tool calling (shell, file ops, search). Sim",
+    "id": "Martlet-Tech/Relay",
     "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "name": "Martlet-Tech/Relay",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:58:22Z",
+    "url": "https://github.com/Martlet-Tech/Relay"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 2,
+    "updated_at": "2026-05-27T08:57:48Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 127,
+    "updated_at": "2026-05-27T08:57:10Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Claude Code skill + bash harness for running AI agents overnight on your codebase. Write a todo file with Implementation",
+    "id": "noluyorAbi/autonomous-agent-nightshift",
+    "language": "Shell",
+    "name": "noluyorAbi/autonomous-agent-nightshift",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:54:16Z",
+    "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:53:37Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-27T08:50:33Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "OpenClaw \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff1a27 \u7ae0\u6280\u672f\u4e3b\u7ebf + 2 \u6708\u4ee5\u6765 PR \u6f14\u8fdb + fork/\u53d8\u79cd\u751f\u6001 + \u7f3a\u9677\u4e0e roadmap\uff082026-04 snapshot\uff09",
+    "id": "xiaonancs/openclaw-study",
+    "language": "JavaScript",
+    "name": "xiaonancs/openclaw-study",
+    "stars": 2,
+    "updated_at": "2026-05-27T08:49:51Z",
+    "url": "https://github.com/xiaonancs/openclaw-study"
+  },
+  {
+    "description": "Hermes Agent \u6df1\u5ea6\u7814\u7a76\uff1a\u4ece\u673a\u5236\u672c\u8d28\u5230\u4ee3\u7801\u5b9e\u73b0\uff0c\u4ece OpenClaw \u6e0a\u6e90\u5230 EvoMap \u4e89\u8bae",
+    "id": "xiaonancs/hermes-agent-study",
+    "language": "JavaScript",
+    "name": "xiaonancs/hermes-agent-study",
+    "stars": 20,
+    "updated_at": "2026-05-27T08:49:49Z",
+    "url": "https://github.com/xiaonancs/hermes-agent-study"
+  },
+  {
+    "description": "OpenAI Codex \u6e90\u7801\u6df1\u5ea6\u7814\u7a76 (Rust + TS + Python)\uff1a2 \u603b\u7eb2 + 25 \u7ae0 + 3 \u9644\u5f55, ~51 \u4e07\u5b57 + 149 \u5f20 Mermaid \u67b6\u6784\u56fe",
+    "id": "xiaonancs/codex-source-analysis",
+    "language": "JavaScript",
+    "name": "xiaonancs/codex-source-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:49:47Z",
+    "url": "https://github.com/xiaonancs/codex-source-analysis"
+  },
+  {
+    "description": "Claude Code \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff0c\u5305\u62ec Foundations/Execution/Infrastructure \u4e09\u5927\u7ae0\u8282\u548c 23 \u4e2a\u5b50\u7cfb\u7edf\u7684\u67b6\u6784\u5206\u6790\u62c6\u89e3\u3002",
+    "id": "xiaonancs/claude-code-source-analysis",
+    "language": "JavaScript",
+    "name": "xiaonancs/claude-code-source-analysis",
+    "stars": 32,
+    "updated_at": "2026-05-27T08:49:39Z",
+    "url": "https://github.com/xiaonancs/claude-code-source-analysis"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12174,
+    "updated_at": "2026-05-27T08:49:08Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
     "stars": 1,
-    "updated_at": "2026-05-27T08:42:43Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+    "updated_at": "2026-05-27T08:47:11Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
     "description": "",
@@ -14,8 +122,17 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-27T08:40:34Z",
+    "updated_at": "2026-05-27T08:45:27Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 1,
+    "updated_at": "2026-05-27T08:42:43Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "",
@@ -198,15 +315,6 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12174,
-    "updated_at": "2026-05-27T07:10:03Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:38:49Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:38:05Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:37:33Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:35:26Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:35:25Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:34:17Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Python",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:31:41Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:30:09Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:28:25Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:26:47Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:25:44Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-05-27T06:24:30Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:23:54Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
   }
 ]
