@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 14:15 UTC
+> ⏰ Last updated: 2026-05-27 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-27 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 2 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-05-27 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 1 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 2 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12184 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 3 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-27 |  |
-| 4 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12183 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 6 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
-| 7 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 8 | [therain2020/my-agent](https://github.com/therain2020/my-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-27 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 5 | [therain2020/my-agent](https://github.com/therain2020/my-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
+| 6 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-05-27 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
 | 9 | [ksgsslee/vulnhunt-agent](https://github.com/ksgsslee/vulnhunt-agent) | 0 | Python | 2026-05-27 | Vulnerability Hunting Agent — LLM agent that reads code, writes a PoC, executes it in a Docker sandbox. |
 | 10 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 310 | Go | 2026-05-27 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4310 | Python | 2026-05-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [Zeeechenn/stock-sage](https://github.com/Zeeechenn/stock-sage) | 1 | Python | 2026-05-27 | Agent-ready A股智能决策工作台：本地数据底座 + 多源行情新闻 + 技术/情感/长期研究 + 组合风控 + 可审计记忆，当前聚焦纸上交易验证，后续客户端化。 |
 | 18 | [ZelinZhou-THU/stem-tutor-agent](https://github.com/ZelinZhou-THU/stem-tutor-agent) | 2 | Python | 2026-05-27 | Your math is wrong. Here's exactly where and why! 🔬 AI agent that verifies every step of a student solution, pinpoints t |
 | 19 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5225 | Python | 2026-05-27 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 20 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2511 | Python | 2026-05-27 | SRE Agent - CNCF Sandbox Project |
+| 20 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2512 | Python | 2026-05-27 | SRE Agent - CNCF Sandbox Project |
 | 21 | [myl7/knowledge-work-plugins-for-codex](https://github.com/myl7/knowledge-work-plugins-for-codex) | 0 | — | 2026-05-27 | Codex-compatible fork of Anthropic knowledge-work-plugins with Codex plugin marketplace manifests, skills, commands, and |
 | 22 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 23 | [Eternego-AI/eternego](https://github.com/Eternego-AI/eternego) | 12 | Python | 2026-05-27 | The Eternego codebase |

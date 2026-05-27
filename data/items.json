@@ -1,12 +1,48 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-27T14:27:26Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12184,
+    "updated_at": "2026-05-27T14:24:34Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T14:24:34Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T14:13:54Z",
+    "updated_at": "2026-05-27T14:24:19Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/my-agent",
+    "language": "Python",
+    "name": "therain2020/my-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:13:59Z",
+    "url": "https://github.com/therain2020/my-agent"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -16,24 +52,6 @@
     "stars": 6,
     "updated_at": "2026-05-27T14:09:55Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T14:05:34Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12183,
-    "updated_at": "2026-05-27T14:05:00Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -52,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-05-27T13:40:57Z",
     "url": "https://github.com/davccavalcante/TeleologyHI"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T14:14:57Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/my-agent",
-    "language": "Python",
-    "name": "therain2020/my-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:13:59Z",
-    "url": "https://github.com/therain2020/my-agent"
   },
   {
     "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
@@ -175,7 +175,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2511,
+    "stars": 2512,
     "updated_at": "2026-05-27T11:56:07Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
