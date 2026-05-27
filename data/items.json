@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T14:00:06Z",
+    "updated_at": "2026-05-27T14:13:54Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-05-27T14:09:55Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
     "description": "",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-27T13:48:25Z",
+    "updated_at": "2026-05-27T14:05:34Z",
     "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12183,
+    "updated_at": "2026-05-27T14:05:00Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:02:23Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-27T13:40:45Z",
+    "updated_at": "2026-05-27T14:14:57Z",
     "url": "https://github.com/zty522/partner"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "therain2020/my-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T13:37:18Z",
+    "updated_at": "2026-05-27T14:13:59Z",
     "url": "https://github.com/therain2020/my-agent"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 4310,
     "updated_at": "2026-05-27T13:31:02Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12183,
-    "updated_at": "2026-05-27T13:28:12Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -112,7 +130,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 7572,
+    "stars": 7573,
     "updated_at": "2026-05-27T13:11:29Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -157,7 +175,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2510,
+    "stars": 2511,
     "updated_at": "2026-05-27T11:56:07Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -187,15 +205,6 @@
     "stars": 12,
     "updated_at": "2026-05-27T10:57:02Z",
     "url": "https://github.com/Eternego-AI/eternego"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:35:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T09:33:34Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:32:12Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
