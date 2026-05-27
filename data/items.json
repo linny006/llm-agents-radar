@@ -1,5 +1,77 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-27T10:14:59Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
+    "id": "Giahyu943/AutoSage",
+    "language": "Swift",
+    "name": "Giahyu943/AutoSage",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:05:37Z",
+    "url": "https://github.com/Giahyu943/AutoSage"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:04:51Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:04:37Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:04:02Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:03:24Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 1,
+    "updated_at": "2026-05-27T10:00:42Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 0,
+    "updated_at": "2026-05-27T10:00:23Z",
+    "url": "https://github.com/Sajal2702/agentbench"
+  },
+  {
     "description": "",
     "id": "hichamnes-prog/exforum-auto-poster",
     "language": "Python",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:42:15Z",
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T09:40:29Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:01:58Z",
     "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7571,
-    "updated_at": "2026-05-27T09:37:23Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-05-27T08:59:35Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Lightweight AI agent for your terminal \u2014 connects to DeepSeek API with local tool calling (shell, file ops, search). Sim",
-    "id": "Martlet-Tech/Relay",
-    "language": "Python",
-    "name": "Martlet-Tech/Relay",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:58:22Z",
-    "url": "https://github.com/Martlet-Tech/Relay"
-  },
-  {
-    "description": "",
-    "id": "birken-embalmment848/agent-lightning",
-    "language": "Python",
-    "name": "birken-embalmment848/agent-lightning",
-    "stars": 2,
-    "updated_at": "2026-05-27T08:57:48Z",
-    "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 127,
-    "updated_at": "2026-05-27T08:57:10Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-27T08:53:37Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
-    "id": "pachipalabharath/bb-applescript-mcp-server",
-    "language": "TypeScript",
-    "name": "pachipalabharath/bb-applescript-mcp-server",
-    "stars": 2,
-    "updated_at": "2026-05-27T08:50:33Z",
-    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
   }
 ]
