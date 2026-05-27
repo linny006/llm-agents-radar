@@ -1,11 +1,74 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T13:44:05Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
+    "id": "davccavalcante/TeleologyHI",
+    "language": "TypeScript",
+    "name": "davccavalcante/TeleologyHI",
+    "stars": 1,
+    "updated_at": "2026-05-27T13:40:57Z",
+    "url": "https://github.com/davccavalcante/TeleologyHI"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-27T13:40:45Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-27T13:38:37Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/my-agent",
+    "language": "Python",
+    "name": "therain2020/my-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:37:18Z",
+    "url": "https://github.com/therain2020/my-agent"
+  },
+  {
+    "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
+    "id": "ksgsslee/vulnhunt-agent",
+    "language": "Python",
+    "name": "ksgsslee/vulnhunt-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T13:30:59Z",
+    "url": "https://github.com/ksgsslee/vulnhunt-agent"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 310,
+    "updated_at": "2026-05-27T13:41:47Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4310,
-    "updated_at": "2026-05-27T13:28:44Z",
+    "updated_at": "2026-05-27T13:31:02Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -13,7 +76,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12181,
+    "stars": 12182,
     "updated_at": "2026-05-27T13:28:12Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -27,24 +90,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/my-agent",
-    "language": "Python",
-    "name": "therain2020/my-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:23:51Z",
-    "url": "https://github.com/therain2020/my-agent"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T13:23:43Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -52,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-05-27T13:24:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T13:29:23Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T11:37:46Z",
     "url": "https://github.com/myl7/knowledge-work-plugins-for-codex"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-27T12:51:51Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:32:12Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 4,
-    "updated_at": "2026-05-27T09:32:08Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-05-27T09:28:52Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:26:22Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
