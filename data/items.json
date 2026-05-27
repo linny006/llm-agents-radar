@@ -1,12 +1,30 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-27T22:27:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Claude Code skill + npm CLI for running AI agents overnight on your codebase. Write todo with Implementation+Validation ",
     "id": "noluyorAbi/autonomous-agent-nightshift",
     "language": "Shell",
     "name": "noluyorAbi/autonomous-agent-nightshift",
     "stars": 0,
-    "updated_at": "2026-05-27T22:15:04Z",
+    "updated_at": "2026-05-27T22:30:11Z",
     "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-05-27T22:23:44Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T22:00:11Z",
+    "updated_at": "2026-05-27T22:18:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Python",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-05-27T22:16:30Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
@@ -34,15 +61,6 @@
     "stars": 10,
     "updated_at": "2026-05-27T21:50:53Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Python",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-05-27T21:48:27Z",
-    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -430,23 +448,5 @@
     "stars": 156,
     "updated_at": "2026-05-27T20:45:30Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-27T20:44:13Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-27T20:43:32Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
