@@ -1,5 +1,59 @@
 [
   {
+    "description": "Claude Code \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff0c\u5305\u62ec Foundations/Execution/Infrastructure \u4e09\u5927\u7ae0\u8282\u548c 23 \u4e2a\u5b50\u7cfb\u7edf\u7684\u67b6\u6784\u5206\u6790\u62c6\u89e3\u3002",
+    "id": "xiaonancs/claude-code-source-analysis",
+    "language": "JavaScript",
+    "name": "xiaonancs/claude-code-source-analysis",
+    "stars": 32,
+    "updated_at": "2026-05-27T15:59:53Z",
+    "url": "https://github.com/xiaonancs/claude-code-source-analysis"
+  },
+  {
+    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
+    "id": "therain2020/therain2020-agent",
+    "language": "Python",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:59:20Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361\uff5cGradio \u7db2\u9801 Demo + CLI \u591a\u8f2a\u5c0d\u8a71\u96d9\u4ecb\u9762",
+    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "language": "Python",
+    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:55:41Z",
+    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
+  },
+  {
+    "description": "A zero-dependency testing framework for LLM Agents. Supports dual evaluation (string matching + LLM-as-a-Judge), safety ",
+    "id": "kirie123/aegistest",
+    "language": "Python",
+    "name": "kirie123/aegistest",
+    "stars": 1,
+    "updated_at": "2026-05-27T15:53:57Z",
+    "url": "https://github.com/kirie123/aegistest"
+  },
+  {
+    "description": "A lightweight LLM agents framework built with Go. Bring Your Own (BYO) LLM providers. ",
+    "id": "sultanfariz/gonostic",
+    "language": "Go",
+    "name": "sultanfariz/gonostic",
+    "stars": 0,
+    "updated_at": "2026-05-27T15:48:12Z",
+    "url": "https://github.com/sultanfariz/gonostic"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 13,
+    "updated_at": "2026-05-27T15:46:31Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 10,
     "updated_at": "2026-05-27T15:43:07Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:42:43Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
   },
   {
     "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4310,
-    "updated_at": "2026-05-27T15:33:20Z",
+    "updated_at": "2026-05-27T15:57:32Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-27T13:24:12Z",
+    "updated_at": "2026-05-27T15:53:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:46:25Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
-    "id": "Toywa/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "Toywa/awesome-pydantic-ai",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:46:01Z",
-    "url": "https://github.com/Toywa/awesome-pydantic-ai"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 775,
-    "updated_at": "2026-05-27T13:28:02Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
-    "id": "nalcapital/ComfyUI_RH_Univideo",
-    "language": "Python",
-    "name": "nalcapital/ComfyUI_RH_Univideo",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:44:09Z",
-    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
-  },
-  {
-    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
-    "id": "huydeptraivaio/ComfyUI-NovaSR",
-    "language": "Python",
-    "name": "huydeptraivaio/ComfyUI-NovaSR",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:42:15Z",
-    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
-    "id": "Emiola033/LLM_Agent",
-    "language": "HTML",
-    "name": "Emiola033/LLM_Agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:39:51Z",
-    "url": "https://github.com/Emiola033/LLM_Agent"
   }
 ]
