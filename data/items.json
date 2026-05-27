@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 161,
+    "updated_at": "2026-05-27T16:59:38Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 1,
+    "updated_at": "2026-05-27T16:59:26Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:02:23Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "TeleologyHI \u2014 A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti",
-    "id": "davccavalcante/TeleologyHI",
-    "language": "TypeScript",
-    "name": "davccavalcante/TeleologyHI",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:40:57Z",
-    "url": "https://github.com/davccavalcante/TeleologyHI"
-  },
-  {
-    "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
-    "id": "ksgsslee/vulnhunt-agent",
-    "language": "Python",
-    "name": "ksgsslee/vulnhunt-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:30:59Z",
-    "url": "https://github.com/ksgsslee/vulnhunt-agent"
   }
 ]
