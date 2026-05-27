@@ -1,12 +1,12 @@
 [
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
     "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T14:43:24Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-27T14:57:40Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T14:42:24Z",
+    "updated_at": "2026-05-27T14:55:11Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T14:43:24Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -36,20 +45,11 @@
     "url": "https://github.com/AtomicBot-ai/atomic-agent"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T14:37:34Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12184,
+    "stars": 12185,
     "updated_at": "2026-05-27T14:36:39Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -68,7 +68,7 @@
     "language": "Python",
     "name": "therain2020/my-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T14:13:59Z",
+    "updated_at": "2026-05-27T14:59:04Z",
     "url": "https://github.com/therain2020/my-agent"
   },
   {
@@ -113,7 +113,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 310,
-    "updated_at": "2026-05-27T13:41:47Z",
+    "updated_at": "2026-05-27T14:59:29Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {

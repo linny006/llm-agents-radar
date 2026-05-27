@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 14:45 UTC
+> ⏰ Last updated: 2026-05-27 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-27 |  |
+| 1 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
 | 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-27 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 3 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-27 | Open-Source Intelligent Command Layer |
-| 4 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 91 | TypeScript | 2026-05-27 |  |
-| 5 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 6 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12184 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 3 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-27 |  |
+| 4 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-27 | Open-Source Intelligent Command Layer |
+| 5 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 91 | TypeScript | 2026-05-27 |  |
+| 6 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12185 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 8 | [therain2020/my-agent](https://github.com/therain2020/my-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
 | 9 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-05-27 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
