@@ -1,5 +1,149 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4309,
+    "updated_at": "2026-05-26T23:59:29Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
+    "id": "pollexpitchshot449/am-agi",
+    "language": "\u2014",
+    "name": "pollexpitchshot449/am-agi",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:56:40Z",
+    "url": "https://github.com/pollexpitchshot449/am-agi"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "JavaScript",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-05-26T23:55:52Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-05-26T23:55:12Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:53:41Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:52:45Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 151,
+    "updated_at": "2026-05-26T23:51:49Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
+    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "language": "Python",
+    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "stars": 1,
+    "updated_at": "2026-05-26T23:51:28Z",
+    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
+  },
+  {
+    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
+    "id": "ebbaunqualified520/ios-agent-skills",
+    "language": "Shell",
+    "name": "ebbaunqualified520/ios-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:51:00Z",
+    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:50:55Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:50:16Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
+    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "language": "Python",
+    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "stars": 3,
+    "updated_at": "2026-05-26T23:49:56Z",
+    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:49:54Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:49:11Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
+    "id": "isratmim643-ux/VencordAutoPatcher",
+    "language": "C#",
+    "name": "isratmim643-ux/VencordAutoPatcher",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:49:00Z",
+    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-26T23:48:17Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -153,15 +297,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4309,
-    "updated_at": "2026-05-26T23:43:30Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -243,15 +378,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 150,
-    "updated_at": "2026-05-26T23:21:04Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:10:03Z",
     "url": "https://github.com/Emiola033/LLM_Agent"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-05-26T23:09:32Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
-    "id": "xaeksx/ComfyUI-AudioSR",
-    "language": "Python",
-    "name": "xaeksx/ComfyUI-AudioSR",
-    "stars": 6,
-    "updated_at": "2026-05-26T23:09:26Z",
-    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:04:36Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
-    "id": "ilaymalka/scraping-browser",
-    "language": "\u2014",
-    "name": "ilaymalka/scraping-browser",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:04:27Z",
-    "url": "https://github.com/ilaymalka/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-05-26T23:04:03Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 0,
-    "updated_at": "2026-05-26T23:02:43Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 4,
-    "updated_at": "2026-05-26T23:02:39Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-05-26T22:59:41Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 0,
-    "updated_at": "2026-05-26T22:57:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
-    "id": "villcaf175/PocketFlow-Zig",
-    "language": "Zig",
-    "name": "villcaf175/PocketFlow-Zig",
-    "stars": 0,
-    "updated_at": "2026-05-26T22:56:42Z",
-    "url": "https://github.com/villcaf175/PocketFlow-Zig"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-05-26T22:56:17Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 1,
-    "updated_at": "2026-05-26T22:55:33Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-05-26T22:54:13Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
-    "id": "adityasingh0z3/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "adityasingh0z3/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-05-26T22:52:36Z",
-    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
   }
 ]
