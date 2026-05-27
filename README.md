@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-27 15:15 UTC
+> ⏰ Last updated: 2026-05-27 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
-| 2 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 311 | Go | 2026-05-27 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 3 | [slhaf/Partner](https://github.com/slhaf/Partner) | 1 | Java | 2026-05-27 | Partner AI Agent Runtime |
-| 4 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-27 |  |
-| 5 | [NiJingzhe/SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 78 | Python | 2026-05-27 | A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo |
-| 6 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-05-27 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
-| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-27 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 8 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 9 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5224 | Python | 2026-05-27 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 10 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-27 | Open-Source Intelligent Command Layer |
-| 11 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 91 | TypeScript | 2026-05-27 |  |
-| 12 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12185 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-05-27 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 15 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 16 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
-| 17 | [ksgsslee/vulnhunt-agent](https://github.com/ksgsslee/vulnhunt-agent) | 0 | Python | 2026-05-27 | Vulnerability Hunting Agent — LLM agent that reads code, writes a PoC, executes it in a Docker sandbox. |
-| 18 | [gptme/gptme](https://github.com/gptme/gptme) | 4310 | Python | 2026-05-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-27 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [slhaf/Partner](https://github.com/slhaf/Partner) | 1 | Java | 2026-05-27 | Partner AI Agent Runtime |
+| 2 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-05-27 |  |
+| 3 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-27 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 4 | [therain2020/therain2020-agent](https://github.com/therain2020/therain2020-agent) | 0 | Python | 2026-05-27 | Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. 从外部生态导入工具，接入自己的 LLM。 |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-05-27 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 311 | Go | 2026-05-27 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 7 | [NiJingzhe/SimpleLLMFunc](https://github.com/NiJingzhe/SimpleLLMFunc) | 78 | Python | 2026-05-27 | A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo |
+| 8 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-05-27 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 9 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-27 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 10 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5224 | Python | 2026-05-27 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 11 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 95 | Python | 2026-05-27 | Open-Source Intelligent Command Layer |
+| 12 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 91 | TypeScript | 2026-05-27 |  |
+| 13 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12186 | Python | 2026-05-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-05-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-05-27 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 17 | [davccavalcante/TeleologyHI](https://github.com/davccavalcante/TeleologyHI) | 1 | TypeScript | 2026-05-27 | TeleologyHI — A monorepo for controllable AI agents. MAIC (governance & audit), HIM (persistent personality), NHE (runti |
+| 18 | [ksgsslee/vulnhunt-agent](https://github.com/ksgsslee/vulnhunt-agent) | 0 | Python | 2026-05-27 | Vulnerability Hunting Agent — LLM agent that reads code, writes a PoC, executes it in a Docker sandbox. |
+| 19 | [gptme/gptme](https://github.com/gptme/gptme) | 4310 | Python | 2026-05-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 20 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 4 | Go | 2026-05-27 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 21 | [gonicolas12/My_OS](https://github.com/gonicolas12/My_OS) | 1 | — | 2026-05-27 | Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins |
 | 22 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 7573 | JavaScript | 2026-05-27 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
