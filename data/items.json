@@ -1,5 +1,68 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-27T16:10:53Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T16:07:40Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:06:58Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "OpenClaw \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff1a27 \u7ae0\u6280\u672f\u4e3b\u7ebf + 2 \u6708\u4ee5\u6765 PR \u6f14\u8fdb + fork/\u53d8\u79cd\u751f\u6001 + \u7f3a\u9677\u4e0e roadmap\uff082026-04 snapshot\uff09",
+    "id": "xiaonancs/openclaw-study",
+    "language": "JavaScript",
+    "name": "xiaonancs/openclaw-study",
+    "stars": 2,
+    "updated_at": "2026-05-27T16:04:18Z",
+    "url": "https://github.com/xiaonancs/openclaw-study"
+  },
+  {
+    "description": "Hermes Agent \u6df1\u5ea6\u7814\u7a76\uff1a\u4ece\u673a\u5236\u672c\u8d28\u5230\u4ee3\u7801\u5b9e\u73b0\uff0c\u4ece OpenClaw \u6e0a\u6e90\u5230 EvoMap \u4e89\u8bae",
+    "id": "xiaonancs/hermes-agent-study",
+    "language": "JavaScript",
+    "name": "xiaonancs/hermes-agent-study",
+    "stars": 20,
+    "updated_at": "2026-05-27T16:03:32Z",
+    "url": "https://github.com/xiaonancs/hermes-agent-study"
+  },
+  {
+    "description": "A zero-dependency testing framework for LLM Agents. Supports dual evaluation (string matching + LLM-as-a-Judge), safety ",
+    "id": "kirie123/aegistest",
+    "language": "Python",
+    "name": "kirie123/aegistest",
+    "stars": 1,
+    "updated_at": "2026-05-27T16:03:15Z",
+    "url": "https://github.com/kirie123/aegistest"
+  },
+  {
+    "description": "\ud83c\udf31 A little course on Reinforcement Learning Environments for evaluating and training Language Models",
+    "id": "anakin87/llm-rl-environments-lil-course",
+    "language": "Python",
+    "name": "anakin87/llm-rl-environments-lil-course",
+    "stars": 201,
+    "updated_at": "2026-05-27T16:02:52Z",
+    "url": "https://github.com/anakin87/llm-rl-environments-lil-course"
+  },
+  {
     "description": "Claude Code \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff0c\u5305\u62ec Foundations/Execution/Infrastructure \u4e09\u5927\u7ae0\u8282\u548c 23 \u4e2a\u5b50\u7cfb\u7edf\u7684\u67b6\u6784\u5206\u6790\u62c6\u89e3\u3002",
     "id": "xiaonancs/claude-code-source-analysis",
     "language": "JavaScript",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
   },
   {
-    "description": "A zero-dependency testing framework for LLM Agents. Supports dual evaluation (string matching + LLM-as-a-Judge), safety ",
-    "id": "kirie123/aegistest",
-    "language": "Python",
-    "name": "kirie123/aegistest",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:53:57Z",
-    "url": "https://github.com/kirie123/aegistest"
-  },
-  {
     "description": "A lightweight LLM agents framework built with Go. Bring Your Own (BYO) LLM providers. ",
     "id": "sultanfariz/gonostic",
     "language": "Go",
@@ -52,24 +106,6 @@
     "stars": 13,
     "updated_at": "2026-05-27T15:46:31Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-27T15:43:22Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T15:43:07Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 311,
-    "updated_at": "2026-05-27T15:14:50Z",
+    "updated_at": "2026-05-27T16:03:57Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4310,
-    "updated_at": "2026-05-27T15:57:32Z",
+    "updated_at": "2026-05-27T16:09:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-27T15:53:11Z",
+    "updated_at": "2026-05-27T16:15:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -257,7 +293,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 7573,
-    "updated_at": "2026-05-27T13:11:29Z",
+    "updated_at": "2026-05-27T16:05:22Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-05-27T09:54:25Z",
     "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-05-27T09:50:59Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
-    "id": "dogunkim/llmnet",
-    "language": "TypeScript",
-    "name": "dogunkim/llmnet",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:49:47Z",
-    "url": "https://github.com/dogunkim/llmnet"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:49:28Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-05-27T09:46:25Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
