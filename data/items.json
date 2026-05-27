@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T00:35:09Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Secure on device personal agents ",
+    "id": "iBz-04/gloamy",
+    "language": "Rust",
+    "name": "iBz-04/gloamy",
+    "stars": 58,
+    "updated_at": "2026-05-27T00:35:01Z",
+    "url": "https://github.com/iBz-04/gloamy"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -126,15 +144,6 @@
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T00:06:20Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -238,7 +247,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 151,
+    "stars": 152,
     "updated_at": "2026-05-26T23:51:49Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T23:33:04Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-05-26T23:32:22Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
