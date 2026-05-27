@@ -1,11 +1,38 @@
 [
   {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-27T04:11:48Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4309,
+    "updated_at": "2026-05-27T04:13:45Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T04:07:01Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
     "id": "ksgsslee/vulnhunt-agent",
     "language": "Python",
     "name": "ksgsslee/vulnhunt-agent",
     "stars": 0,
-    "updated_at": "2026-05-27T03:58:20Z",
+    "updated_at": "2026-05-27T04:02:00Z",
     "url": "https://github.com/ksgsslee/vulnhunt-agent"
   },
   {
@@ -151,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T03:44:04Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4309,
-    "updated_at": "2026-05-27T03:45:27Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T03:42:12Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T03:27:01Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-27T03:26:59Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
