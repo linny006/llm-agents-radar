@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-27T16:58:40Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-05-27T16:52:38Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-05-27T16:51:51Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 2,
+    "updated_at": "2026-05-27T16:50:14Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-27T16:45:58Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -34,24 +79,6 @@
     "stars": 194,
     "updated_at": "2026-05-27T16:39:12Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-05-27T16:38:30Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-27T16:36:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -187,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-05-27T16:06:58Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7574,
+    "updated_at": "2026-05-27T16:05:22Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "OpenClaw \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff1a27 \u7ae0\u6280\u672f\u4e3b\u7ebf + 2 \u6708\u4ee5\u6765 PR \u6f14\u8fdb + fork/\u53d8\u79cd\u751f\u6001 + \u7f3a\u9677\u4e0e roadmap\uff082026-04 snapshot\uff09",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T13:30:59Z",
     "url": "https://github.com/ksgsslee/vulnhunt-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 4,
-    "updated_at": "2026-05-27T16:15:28Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
-    "id": "gonicolas12/My_OS",
-    "language": "\u2014",
-    "name": "gonicolas12/My_OS",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:12:39Z",
-    "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7573,
-    "updated_at": "2026-05-27T16:05:22Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Agent-ready A\u80a1\u667a\u80fd\u51b3\u7b56\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u6570\u636e\u5e95\u5ea7 + \u591a\u6e90\u884c\u60c5\u65b0\u95fb + \u6280\u672f/\u60c5\u611f/\u957f\u671f\u7814\u7a76 + \u7ec4\u5408\u98ce\u63a7 + \u53ef\u5ba1\u8ba1\u8bb0\u5fc6\uff0c\u5f53\u524d\u805a\u7126\u7eb8\u4e0a\u4ea4\u6613\u9a8c\u8bc1\uff0c\u540e\u7eed\u5ba2\u6237\u7aef\u5316\u3002",
-    "id": "Zeeechenn/stock-sage",
-    "language": "Python",
-    "name": "Zeeechenn/stock-sage",
-    "stars": 1,
-    "updated_at": "2026-05-27T12:58:23Z",
-    "url": "https://github.com/Zeeechenn/stock-sage"
   }
 ]
