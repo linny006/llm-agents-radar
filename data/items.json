@@ -1,11 +1,20 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-27T13:55:12Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-27T13:44:05Z",
+    "updated_at": "2026-05-27T13:48:25Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-05-27T13:40:45Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-27T13:38:37Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
