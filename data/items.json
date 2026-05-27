@@ -1,21 +1,21 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 13,
-    "updated_at": "2026-05-27T07:58:39Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T08:00:15Z",
+    "updated_at": "2026-05-27T08:13:45Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:12:47Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -23,8 +23,35 @@
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-27T07:54:22Z",
+    "updated_at": "2026-05-27T08:11:49Z",
     "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361\uff5cGradio \u7db2\u9801 Demo + CLI \u591a\u8f2a\u5c0d\u8a71\u96d9\u4ecb\u9762",
+    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "language": "Python",
+    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "stars": 0,
+    "updated_at": "2026-05-27T08:10:57Z",
+    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T08:06:51Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 13,
+    "updated_at": "2026-05-27T08:00:29Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -34,15 +61,6 @@
     "stars": 4310,
     "updated_at": "2026-05-27T07:50:04Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T07:42:51Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T06:16:44Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:15:57Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-05-27T06:15:53Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
