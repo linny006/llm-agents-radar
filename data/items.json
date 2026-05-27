@@ -1,29 +1,11 @@
 [
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T14:27:26Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12184,
-    "updated_at": "2026-05-27T14:24:34Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-05-27T14:24:34Z",
+    "updated_at": "2026-05-27T14:43:24Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -32,8 +14,53 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-27T14:24:19Z",
+    "updated_at": "2026-05-27T14:42:24Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 95,
+    "updated_at": "2026-05-27T14:39:12Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "",
+    "id": "AtomicBot-ai/atomic-agent",
+    "language": "TypeScript",
+    "name": "AtomicBot-ai/atomic-agent",
+    "stars": 91,
+    "updated_at": "2026-05-27T14:37:58Z",
+    "url": "https://github.com/AtomicBot-ai/atomic-agent"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-27T14:37:34Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12184,
+    "updated_at": "2026-05-27T14:36:39Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:31:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5225,
-    "updated_at": "2026-05-27T12:27:20Z",
+    "updated_at": "2026-05-27T14:44:15Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T11:37:46Z",
     "url": "https://github.com/myl7/knowledge-work-plugins-for-codex"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:00:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The Eternego codebase",
@@ -304,15 +322,6 @@
     "stars": 7,
     "updated_at": "2026-05-27T09:58:53Z",
     "url": "https://github.com/centille/Newsful"
-  },
-  {
-    "description": "",
-    "id": "AtomicBot-ai/atomic-agent",
-    "language": "TypeScript",
-    "name": "AtomicBot-ai/atomic-agent",
-    "stars": 91,
-    "updated_at": "2026-05-27T09:56:44Z",
-    "url": "https://github.com/AtomicBot-ai/atomic-agent"
   },
   {
     "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T09:34:05Z",
     "url": "https://github.com/ilaymalka/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-05-27T09:33:34Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
