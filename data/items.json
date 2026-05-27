@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 1,
+    "updated_at": "2026-05-27T19:27:06Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T19:23:28Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-05-27T19:22:07Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-27T19:21:46Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-05-27T19:19:29Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 0,
+    "updated_at": "2026-05-27T19:19:05Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-05-27T19:17:21Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-05-27T19:12:58Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 3,
-    "updated_at": "2026-05-27T19:12:35Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
     "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
@@ -106,15 +160,6 @@
     "stars": 1490,
     "updated_at": "2026-05-27T18:52:32Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T18:46:06Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "AI chat and developer platform.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-27T18:12:51Z",
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
-    "id": "yakeworld/Synthos",
-    "language": "Python",
-    "name": "yakeworld/Synthos",
-    "stars": 2,
-    "updated_at": "2026-05-27T18:12:32Z",
-    "url": "https://github.com/yakeworld/Synthos"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:08:18Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:07:59Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:07:17Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-05-27T18:07:05Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
