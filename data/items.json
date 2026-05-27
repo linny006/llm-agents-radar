@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:29:41Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:25:44Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-05-27T17:25:16Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:23:54Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-05-27T17:23:51Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-27T17:22:32Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-05-27T17:20:34Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:18:13Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:17:25Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 13,
+    "updated_at": "2026-05-27T17:16:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
+    "id": "azzan1235/agentic_rag_system",
+    "language": "Python",
+    "name": "azzan1235/agentic_rag_system",
+    "stars": 0,
+    "updated_at": "2026-05-27T17:16:49Z",
+    "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-05-27T17:16:13Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
     "id": "Saran1536/ComfyUI-LoaderUtils",
     "language": "Python",
@@ -54,6 +162,15 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
+    "description": "Desktop IDE with built-in AI coding agents",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 39,
+    "updated_at": "2026-05-27T17:11:26Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -61,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T17:09:28Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-27T17:04:01Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "",
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-05-27T16:04:18Z",
     "url": "https://github.com/xiaonancs/openclaw-study"
-  },
-  {
-    "description": "Hermes Agent \u6df1\u5ea6\u7814\u7a76\uff1a\u4ece\u673a\u5236\u672c\u8d28\u5230\u4ee3\u7801\u5b9e\u73b0\uff0c\u4ece OpenClaw \u6e0a\u6e90\u5230 EvoMap \u4e89\u8bae",
-    "id": "xiaonancs/hermes-agent-study",
-    "language": "JavaScript",
-    "name": "xiaonancs/hermes-agent-study",
-    "stars": 20,
-    "updated_at": "2026-05-27T16:03:32Z",
-    "url": "https://github.com/xiaonancs/hermes-agent-study"
-  },
-  {
-    "description": "\ud83c\udf31 A little course on Reinforcement Learning Environments for evaluating and training Language Models",
-    "id": "anakin87/llm-rl-environments-lil-course",
-    "language": "Python",
-    "name": "anakin87/llm-rl-environments-lil-course",
-    "stars": 201,
-    "updated_at": "2026-05-27T16:02:52Z",
-    "url": "https://github.com/anakin87/llm-rl-environments-lil-course"
-  },
-  {
-    "description": "Claude Code \u6e90\u7801\u6df1\u5ea6\u7814\u7a76\uff0c\u5305\u62ec Foundations/Execution/Infrastructure \u4e09\u5927\u7ae0\u8282\u548c 23 \u4e2a\u5b50\u7cfb\u7edf\u7684\u67b6\u6784\u5206\u6790\u62c6\u89e3\u3002",
-    "id": "xiaonancs/claude-code-source-analysis",
-    "language": "JavaScript",
-    "name": "xiaonancs/claude-code-source-analysis",
-    "stars": 32,
-    "updated_at": "2026-05-27T15:59:53Z",
-    "url": "https://github.com/xiaonancs/claude-code-source-analysis"
-  },
-  {
-    "description": "Add-First Agent Skeleton. BYO-LLM, import tools from Claude Code/Codex/Gemini/Cursor/MCP. \u4ece\u5916\u90e8\u751f\u6001\u5bfc\u5165\u5de5\u5177\uff0c\u63a5\u5165\u81ea\u5df1\u7684 LLM\u3002",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:59:20Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361\uff5cGradio \u7db2\u9801 Demo + CLI \u591a\u8f2a\u5c0d\u8a71\u96d9\u4ecb\u9762",
-    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "language": "Python",
-    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:55:41Z",
-    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
-    "description": "A lightweight LLM agents framework built with Go. Bring Your Own (BYO) LLM providers. ",
-    "id": "sultanfariz/gonostic",
-    "language": "Go",
-    "name": "sultanfariz/gonostic",
-    "stars": 0,
-    "updated_at": "2026-05-27T15:48:12Z",
-    "url": "https://github.com/sultanfariz/gonostic"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 13,
-    "updated_at": "2026-05-27T16:36:02Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
-    "id": "EMT5320/loomstead",
-    "language": "Python",
-    "name": "EMT5320/loomstead",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:40:37Z",
-    "url": "https://github.com/EMT5320/loomstead"
-  },
-  {
-    "description": "Partner AI Agent Runtime",
-    "id": "slhaf/Partner",
-    "language": "Java",
-    "name": "slhaf/Partner",
-    "stars": 1,
-    "updated_at": "2026-05-27T15:28:02Z",
-    "url": "https://github.com/slhaf/Partner"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-27T15:22:07Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 311,
-    "updated_at": "2026-05-27T16:03:57Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
-    "id": "NiJingzhe/SimpleLLMFunc",
-    "language": "Python",
-    "name": "NiJingzhe/SimpleLLMFunc",
-    "stars": 78,
-    "updated_at": "2026-05-27T15:08:31Z",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
   }
 ]
