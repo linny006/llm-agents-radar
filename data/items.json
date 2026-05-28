@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-28T14:20:57Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
+    "id": "SasidharanGS/opencode-personal-agent",
+    "language": "TypeScript",
+    "name": "SasidharanGS/opencode-personal-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:17:47Z",
+    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-05-28T14:17:40Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 0,
+    "updated_at": "2026-05-28T14:15:15Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-28T14:07:03Z",
+    "updated_at": "2026-05-28T14:22:59Z",
     "url": "https://github.com/therain2020/therain2020-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T12:51:48Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-05-28T12:51:10Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 1,
-    "updated_at": "2026-05-28T12:48:34Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:48:16Z",
-    "url": "https://github.com/Sajal2702/agentbench"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 0,
-    "updated_at": "2026-05-28T12:47:40Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
