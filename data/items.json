@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-28T16:59:13Z",
+    "updated_at": "2026-05-28T17:15:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-28T17:12:47Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-05-28T17:00:19Z",
+    "updated_at": "2026-05-28T17:14:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -22,7 +31,7 @@
     "id": "Paseru/sinew",
     "language": "Rust",
     "name": "Paseru/sinew",
-    "stars": 41,
+    "stars": 42,
     "updated_at": "2026-05-28T16:56:53Z",
     "url": "https://github.com/Paseru/sinew"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "kotama7/ARI",
     "stars": 7,
-    "updated_at": "2026-05-28T16:51:32Z",
+    "updated_at": "2026-05-28T17:06:59Z",
     "url": "https://github.com/kotama7/ARI"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-28T15:39:39Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-28T15:38:40Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
