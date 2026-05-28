@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-28T09:58:57Z",
+    "updated_at": "2026-05-28T10:14:40Z",
     "url": "https://github.com/zty522/partner"
   },
   {
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-05-28T09:57:58Z",
+    "updated_at": "2026-05-28T10:12:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
+    "id": "openronin/openronin",
+    "language": "TypeScript",
+    "name": "openronin/openronin",
+    "stars": 6,
+    "updated_at": "2026-05-28T10:14:37Z",
+    "url": "https://github.com/openronin/openronin"
+  },
+  {
+    "description": "A LangGraph-powered multi-agent deep research system featuring task planning, human-in-the-loop review, multi-source ret",
+    "id": "hwfengcs/SDYJ_Multi_Agents",
+    "language": "Python",
+    "name": "hwfengcs/SDYJ_Multi_Agents",
+    "stars": 50,
+    "updated_at": "2026-05-28T10:06:25Z",
+    "url": "https://github.com/hwfengcs/SDYJ_Multi_Agents"
   },
   {
     "description": "Open FEM Agent: a Model Context Protocol (MCP) server that lets any LLM coding assistant set up, run, verify, and couple",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "Hereon-InstituteMS/Open-FEM-agent",
     "stars": 0,
-    "updated_at": "2026-05-28T09:49:44Z",
+    "updated_at": "2026-05-28T10:14:13Z",
     "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:07:53Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:05:37Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:04:54Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
