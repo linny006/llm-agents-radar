@@ -1,12 +1,84 @@
 [
   {
+    "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:27:28Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
+    "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
+    "id": "NiJingzhe/SimpleLLMFunc",
+    "language": "Python",
+    "name": "NiJingzhe/SimpleLLMFunc",
+    "stars": 78,
+    "updated_at": "2026-05-28T07:29:10Z",
+    "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
+  },
+  {
+    "description": "A domain-ontology-driven agentic framework for LLM-based personal-finance reasoning across banking and personal-investme",
+    "id": "Tej-Katika/artha",
+    "language": "Java",
+    "name": "Tej-Katika/artha",
+    "stars": 1,
+    "updated_at": "2026-05-28T07:24:29Z",
+    "url": "https://github.com/Tej-Katika/artha"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25778,
-    "updated_at": "2026-05-28T07:15:07Z",
+    "stars": 25779,
+    "updated_at": "2026-05-28T07:23:03Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12204,
+    "updated_at": "2026-05-28T07:22:41Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:19:48Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "\u5bf9\u7f51\u9875AI\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528",
+    "id": "madderscientist/WebAI2API",
+    "language": "TypeScript",
+    "name": "madderscientist/WebAI2API",
+    "stars": 9,
+    "updated_at": "2026-05-28T07:18:58Z",
+    "url": "https://github.com/madderscientist/WebAI2API"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 0,
+    "updated_at": "2026-05-28T07:18:13Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-28T07:18:05Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T07:06:17Z",
     "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:02:24Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -99,6 +162,15 @@
     "url": "https://github.com/sacid446/unclaw"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5020,
+    "updated_at": "2026-05-28T06:54:20Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -115,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T06:53:56Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-28T06:53:38Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
@@ -207,15 +270,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12202,
-    "updated_at": "2026-05-28T06:43:20Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
     "id": "pollexpitchshot449/am-agi",
     "language": "\u2014",
@@ -250,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T06:40:58Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "\u5bf9\u7f51\u9875AI\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528",
-    "id": "madderscientist/WebAI2API",
-    "language": "TypeScript",
-    "name": "madderscientist/WebAI2API",
-    "stars": 9,
-    "updated_at": "2026-05-28T06:40:25Z",
-    "url": "https://github.com/madderscientist/WebAI2API"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -342,15 +387,6 @@
     "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5021,
-    "updated_at": "2026-05-28T06:54:20Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T06:28:55Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "samurai-bot/bss-cli",
-    "language": "Python",
-    "name": "samurai-bot/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:28:31Z",
-    "url": "https://github.com/samurai-bot/bss-cli"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:28:11Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-28T06:24:39Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-28T06:24:32Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
