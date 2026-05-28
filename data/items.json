@@ -1,5 +1,14 @@
 [
   {
+    "description": "A research agent system deeply rooted in your own Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 1642,
+    "updated_at": "2026-05-28T03:46:05Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5224,
-    "updated_at": "2026-05-28T03:13:33Z",
+    "updated_at": "2026-05-28T03:51:53Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T02:49:09Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "A research agent system deeply rooted in your own Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 1642,
-    "updated_at": "2026-05-28T03:39:31Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
