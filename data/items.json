@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-28T03:36:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4311,
+    "updated_at": "2026-05-28T03:37:02Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T03:13:25Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4311,
-    "updated_at": "2026-05-28T03:28:37Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -409,8 +418,8 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1641,
-    "updated_at": "2026-05-28T02:48:01Z",
+    "stars": 1642,
+    "updated_at": "2026-05-28T03:39:31Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T02:46:08Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-05-28T02:45:33Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
