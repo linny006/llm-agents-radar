@@ -1,21 +1,48 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 4,
+    "updated_at": "2026-05-28T10:29:54Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
+    "id": "SasidharanGS/opencode-personal-agent",
+    "language": "TypeScript",
+    "name": "SasidharanGS/opencode-personal-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:28:54Z",
+    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "DeepEye: An Autonomous Data Agent System",
+    "id": "HKUSTDial/DeepEye",
+    "language": "Python",
+    "name": "HKUSTDial/DeepEye",
+    "stars": 198,
+    "updated_at": "2026-05-28T10:26:14Z",
+    "url": "https://github.com/HKUSTDial/DeepEye"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 16,
+    "updated_at": "2026-05-28T10:26:00Z",
+    "url": "https://github.com/sehoon787/my-codex"
+  },
+  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-28T10:14:40Z",
+    "updated_at": "2026-05-28T10:23:36Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-28T10:12:01Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
@@ -23,8 +50,35 @@
     "language": "TypeScript",
     "name": "openronin/openronin",
     "stars": 6,
-    "updated_at": "2026-05-28T10:14:37Z",
+    "updated_at": "2026-05-28T10:23:07Z",
     "url": "https://github.com/openronin/openronin"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-28T10:19:50Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Open FEM Agent: a Model Context Protocol (MCP) server that lets any LLM coding assistant set up, run, verify, and couple",
+    "id": "Hereon-InstituteMS/Open-FEM-agent",
+    "language": "Python",
+    "name": "Hereon-InstituteMS/Open-FEM-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:15:47Z",
+    "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
+  },
+  {
+    "description": "Local, private, uncensored AI research workstation for Linux: a self-hosted LLM with an autonomous deep-research agent, ",
+    "id": "qo/nyx",
+    "language": "Shell",
+    "name": "qo/nyx",
+    "stars": 0,
+    "updated_at": "2026-05-28T10:15:33Z",
+    "url": "https://github.com/qo/nyx"
   },
   {
     "description": "A LangGraph-powered multi-agent deep research system featuring task planning, human-in-the-loop review, multi-source ret",
@@ -34,15 +88,6 @@
     "stars": 50,
     "updated_at": "2026-05-28T10:06:25Z",
     "url": "https://github.com/hwfengcs/SDYJ_Multi_Agents"
-  },
-  {
-    "description": "Open FEM Agent: a Model Context Protocol (MCP) server that lets any LLM coding assistant set up, run, verify, and couple",
-    "id": "Hereon-InstituteMS/Open-FEM-agent",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/Open-FEM-agent",
-    "stars": 0,
-    "updated_at": "2026-05-28T10:14:13Z",
-    "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2516,
-    "updated_at": "2026-05-28T09:35:33Z",
+    "updated_at": "2026-05-28T10:29:35Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T09:11:15Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:11:11Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:10:16Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-28T09:10:09Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:09:58Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-05-28T09:07:53Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
