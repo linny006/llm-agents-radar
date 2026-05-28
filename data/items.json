@@ -1,5 +1,140 @@
 [
   {
+    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
+    "id": "nalcapital/ComfyUI_RH_Univideo",
+    "language": "Python",
+    "name": "nalcapital/ComfyUI_RH_Univideo",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:45:07Z",
+    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-28T08:44:10Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
+    "id": "huydeptraivaio/ComfyUI-NovaSR",
+    "language": "Python",
+    "name": "huydeptraivaio/ComfyUI-NovaSR",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:43:15Z",
+    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:40:53Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-05-28T08:40:33Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-05-28T08:40:20Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
+    "language": "Python",
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:37:59Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:35:26Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-05-28T08:35:01Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
+    "id": "SasidharanGS/opencode-personal-agent",
+    "language": "\u2014",
+    "name": "SasidharanGS/opencode-personal-agent",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:34:44Z",
+    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:33:41Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-05-28T08:33:37Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 97,
+    "updated_at": "2026-05-28T08:33:18Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-28T08:31:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-05-28T08:30:32Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -34,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-05-28T08:26:28Z",
     "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "Safe execution harness for LLM agents operating on local workspaces.",
-    "id": "zhangyi-nb1/localflow",
-    "language": "Python",
-    "name": "zhangyi-nb1/localflow",
-    "stars": 0,
-    "updated_at": "2026-05-28T08:25:25Z",
-    "url": "https://github.com/zhangyi-nb1/localflow"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -103,18 +229,9 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12209,
+    "stars": 12210,
     "updated_at": "2026-05-28T08:15:48Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 97,
-    "updated_at": "2026-05-28T08:13:54Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "",
@@ -185,7 +302,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 4,
-    "updated_at": "2026-05-28T08:00:58Z",
+    "updated_at": "2026-05-28T08:44:20Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 5,
     "updated_at": "2026-05-28T07:34:07Z",
     "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 2,
-    "updated_at": "2026-05-28T07:33:31Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
-    "id": "mikehubers/Awesome-AI-For-Security",
-    "language": "\u2014",
-    "name": "mikehubers/Awesome-AI-For-Security",
-    "stars": 3,
-    "updated_at": "2026-05-28T07:32:35Z",
-    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 1,
-    "updated_at": "2026-05-28T07:31:44Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:31:31Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "A narrative-primary multi-agent runtime for motivational delegation and process fidelity evaluation.",
-    "id": "EMT5320/loomstead",
-    "language": "Python",
-    "name": "EMT5320/loomstead",
-    "stars": 1,
-    "updated_at": "2026-05-28T07:27:28Z",
-    "url": "https://github.com/EMT5320/loomstead"
-  },
-  {
-    "description": "A simple and well-tailored LLM application framework that enables you to seamlessly integrate LLM capabilities in the mo",
-    "id": "NiJingzhe/SimpleLLMFunc",
-    "language": "Python",
-    "name": "NiJingzhe/SimpleLLMFunc",
-    "stars": 78,
-    "updated_at": "2026-05-28T07:29:10Z",
-    "url": "https://github.com/NiJingzhe/SimpleLLMFunc"
-  },
-  {
-    "description": "A domain-ontology-driven agentic framework for LLM-based personal-finance reasoning across banking and personal-investme",
-    "id": "Tej-Katika/artha",
-    "language": "Java",
-    "name": "Tej-Katika/artha",
-    "stars": 1,
-    "updated_at": "2026-05-28T07:24:29Z",
-    "url": "https://github.com/Tej-Katika/artha"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 25781,
-    "updated_at": "2026-05-28T07:23:03Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
-    "id": "XederaBills/llm-powered-data-analysis",
-    "language": "Python",
-    "name": "XederaBills/llm-powered-data-analysis",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:19:48Z",
-    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:15:04Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "\u95ed\u73af AI Agent \u6846\u67b6 \u2014 \u52a8\u624b\u524d\u89c2\u5bdf\uff0c\u8fd0\u884c\u65f6\u62e6\u622a\uff0c\u62ff\u8bc1\u636e\u9a8c\u8bc1\uff0c\u6bcf\u6b21\u72af\u9519\u90fd\u8bb0\u4f4f\u3002247 tests.",
-    "id": "therain2020/therain2020-agent",
-    "language": "Python",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:06:17Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-05-28T07:01:04Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 8,
-    "updated_at": "2026-05-28T07:00:37Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
