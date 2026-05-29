@@ -1,5 +1,131 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-29T16:29:41Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 1,
+    "updated_at": "2026-05-29T16:28:38Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:28:15Z",
+    "url": "https://github.com/Sajal2702/agentbench"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:27:38Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:26:00Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-29T16:26:11Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\u81ea\u52a8\u5316\u4e13\u5229\u4fb5\u6743\u7ade\u54c1\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c1 \u5c0f\u65f6\u4ea7\u51fa\u5f8b\u5e08\u53ef\u590d\u6838\u7684 claim chart \u62a5\u544a\uff08\u9010\u7279\u5f81\u5bf9\u6bd4 + \u8bc1\u636eURL + \u4e0b\u4e00\u6b65\u5efa\u8bae\uff09\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent \u8c03\u7528\u3002",
+    "id": "yuc16/PatentRadar",
+    "language": "Python",
+    "name": "yuc16/PatentRadar",
+    "stars": 25,
+    "updated_at": "2026-05-29T16:24:40Z",
+    "url": "https://github.com/yuc16/PatentRadar"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-05-29T16:22:31Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-29T16:20:04Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-05-29T16:18:59Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:17:51Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:17:29Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-29T16:17:18Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-29T16:16:52Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
     "description": "Autonomous GitHub PR reviewer agent built on the skelm framework \u2014 one agent, composable skills, cron + webhook triggers",
     "id": "scottgl9/skelm-code-reviewer",
     "language": "TypeScript",
@@ -45,15 +171,6 @@
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-29T16:09:42Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
     "id": "Emiola033/LLM_Agent",
     "language": "HTML",
@@ -79,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-05-29T16:07:49Z",
     "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-29T16:07:08Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -142,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-05-29T16:00:54Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\u81ea\u52a8\u5316\u4e13\u5229\u4fb5\u6743\u7ade\u54c1\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c1 \u5c0f\u65f6\u4ea7\u51fa\u5f8b\u5e08\u53ef\u590d\u6838\u7684 claim chart \u62a5\u544a\uff08\u9010\u7279\u5f81\u5bf9\u6bd4 + \u8bc1\u636eURL + \u4e0b\u4e00\u6b65\u5efa\u8bae\uff09\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent \u8c03\u7528\u3002",
-    "id": "yuc16/PatentRadar",
-    "language": "Python",
-    "name": "yuc16/PatentRadar",
-    "stars": 25,
-    "updated_at": "2026-05-29T15:58:44Z",
-    "url": "https://github.com/yuc16/PatentRadar"
   },
   {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
@@ -262,15 +361,6 @@
   },
   {
     "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-05-29T15:42:36Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "",
     "id": "Ali-Shady/claude-agent-desktop",
     "language": "TypeScript",
     "name": "Ali-Shady/claude-agent-desktop",
@@ -295,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T15:37:15Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-29T15:32:41Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T15:17:31Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 1,
-    "updated_at": "2026-05-29T15:13:49Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Autonomous SWE agent powered by Xiaomi MiMo, benchmarked on SWE-bench Lite",
-    "id": "FlipZ3ro/mimo-swe",
-    "language": "Python",
-    "name": "FlipZ3ro/mimo-swe",
-    "stars": 0,
-    "updated_at": "2026-05-29T15:11:59Z",
-    "url": "https://github.com/FlipZ3ro/mimo-swe"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 46,
-    "updated_at": "2026-05-29T15:10:50Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-05-29T15:09:08Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 0,
-    "updated_at": "2026-05-29T15:06:10Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-05-29T15:04:28Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-05-29T15:01:29Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-05-29T15:01:06Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 4,
-    "updated_at": "2026-05-29T15:00:16Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
   }
 ]
