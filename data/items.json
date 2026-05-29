@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 1,
+    "updated_at": "2026-05-29T21:41:35Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:41:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\udccb Case study (code private): code-understanding platform \u2014 Neo4j knowledge graph + NL\u2192Cypher AI chatbot across 19 langua",
+    "id": "Usman1Abbas/codenav-case-study",
+    "language": "\u2014",
+    "name": "Usman1Abbas/codenav-case-study",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:40:53Z",
+    "url": "https://github.com/Usman1Abbas/codenav-case-study"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:37:11Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:34:18Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-29T21:33:31Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-29T21:32:46Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-05-29T21:32:27Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-05-29T21:30:16Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -72,15 +153,6 @@
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 3,
-    "updated_at": "2026-05-29T21:13:01Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T20:55:58Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:55:49Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
@@ -207,15 +270,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:45:39Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -250,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-05-29T20:42:13Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-29T20:41:12Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T20:25:35Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:24:38Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:21:28Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:21:23Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-29T20:20:34Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-05-29T20:20:22Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
