@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:29:47Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:29:44Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:28:10Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:24:01Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 775,
+    "updated_at": "2026-05-29T15:22:30Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:21:03Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:17:50Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:17:31Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
+    "id": "SasidharanGS/opencode-personal-agent",
+    "language": "TypeScript",
+    "name": "SasidharanGS/opencode-personal-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:24:35Z",
+    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-29T15:16:23Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Autonomous GitHub PR reviewer agent built on the skelm framework \u2014 one agent, composable skills, cron + webhook triggers",
     "id": "scottgl9/skelm-code-reviewer",
     "language": "TypeScript",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T15:13:49Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-29T15:13:15Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
     "description": "Autonomous SWE agent powered by Xiaomi MiMo, benchmarked on SWE-bench Lite",
@@ -117,15 +198,6 @@
     "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
   },
   {
-    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
-    "id": "SasidharanGS/opencode-personal-agent",
-    "language": "TypeScript",
-    "name": "SasidharanGS/opencode-personal-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:59:55Z",
-    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
-  },
-  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:35:46Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-29T14:34:02Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -342,15 +405,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 775,
-    "updated_at": "2026-05-29T15:02:51Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
     "id": "pollexpitchshot449/am-agi",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:04:52Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:03:43Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:02:54Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:02:51Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:02:18Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:02:17Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:02:16Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
