@@ -1,5 +1,86 @@
 [
   {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T17:28:12Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-29T17:20:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-29T17:20:16Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
+    "id": "BigtoC/scorpio-analyst",
+    "language": "Rust",
+    "name": "BigtoC/scorpio-analyst",
+    "stars": 3,
+    "updated_at": "2026-05-29T17:19:52Z",
+    "url": "https://github.com/BigtoC/scorpio-analyst"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:19:28Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:16:10Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:24Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-05-29T17:15:24Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-29T17:15:20Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
     "id": "Amaleespinyedged857/chathermes",
     "language": "\u2014",
@@ -27,15 +108,6 @@
     "url": "https://github.com/sacid446/unclaw"
   },
   {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-29T17:09:41Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
-  },
-  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T17:09:37Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 3,
-    "updated_at": "2026-05-29T17:09:05Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T17:02:33Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-29T17:02:04Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
@@ -306,15 +360,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-29T16:42:31Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
     "id": "Bifcen/Pocket-Pad",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T16:32:34Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:32:26Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:31:42Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:31:11Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:28:38Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:28:15Z",
-    "url": "https://github.com/Sajal2702/agentbench"
   }
 ]
