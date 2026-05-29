@@ -5,8 +5,26 @@
     "language": "TypeScript",
     "name": "therain2020/therain2020-agent",
     "stars": 0,
-    "updated_at": "2026-05-29T11:43:42Z",
+    "updated_at": "2026-05-29T11:56:25Z",
     "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:52:23Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:45:31Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 97,
-    "updated_at": "2026-05-29T11:39:50Z",
+    "updated_at": "2026-05-29T11:48:22Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 775,
-    "updated_at": "2026-05-29T11:34:50Z",
+    "updated_at": "2026-05-29T11:55:12Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T10:13:52Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:11:42Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-29T10:10:38Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
