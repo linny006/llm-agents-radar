@@ -1,12 +1,57 @@
 [
   {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-05-29T15:29:47Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-29T15:42:36Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:40:44Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-29T15:38:08Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
+    "id": "SasidharanGS/opencode-personal-agent",
+    "language": "TypeScript",
+    "name": "SasidharanGS/opencode-personal-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T15:37:46Z",
+    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 1,
+    "updated_at": "2026-05-29T15:37:15Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-29T15:38:28Z",
+    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "ZelinZhou-THU/stem-tutor-agent",
     "stars": 2,
-    "updated_at": "2026-05-29T15:29:44Z",
+    "updated_at": "2026-05-29T15:35:34Z",
     "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:32:41Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
+    "id": "openronin/openronin",
+    "language": "TypeScript",
+    "name": "openronin/openronin",
+    "stars": 6,
+    "updated_at": "2026-05-29T15:44:42Z",
+    "url": "https://github.com/openronin/openronin"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T15:29:47Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "",
@@ -72,24 +144,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
-    "id": "SasidharanGS/opencode-personal-agent",
-    "language": "TypeScript",
-    "name": "SasidharanGS/opencode-personal-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T15:24:35Z",
-    "url": "https://github.com/SasidharanGS/opencode-personal-agent"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-29T15:16:23Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Autonomous GitHub PR reviewer agent built on the skelm framework \u2014 one agent, composable skills, cron + webhook triggers",
     "id": "scottgl9/skelm-code-reviewer",
     "language": "TypeScript",
@@ -135,15 +189,6 @@
     "url": "https://github.com/DAUS089/agentforge"
   },
   {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 3,
-    "updated_at": "2026-05-29T15:07:48Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
     "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
     "id": "ElfER020/DeepCode",
     "language": "Python",
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T15:04:28Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
-    "id": "openronin/openronin",
-    "language": "TypeScript",
-    "name": "openronin/openronin",
-    "stars": 6,
-    "updated_at": "2026-05-29T15:04:22Z",
-    "url": "https://github.com/openronin/openronin"
   },
   {
     "description": "",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:09:09Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:09:08Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-05-29T14:07:28Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:05:54Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:04:52Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
