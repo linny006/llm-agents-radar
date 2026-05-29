@@ -1,12 +1,93 @@
 [
   {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 2,
+    "updated_at": "2026-05-29T19:11:30Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-29T18:58:26Z",
+    "updated_at": "2026-05-29T19:10:32Z",
     "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:07:29Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 86,
+    "updated_at": "2026-05-29T19:06:02Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "RepairAgent is an autonomous LLM-based agent for software repair. ",
+    "id": "sola-st/RepairAgent",
+    "language": "Python",
+    "name": "sola-st/RepairAgent",
+    "stars": 98,
+    "updated_at": "2026-05-29T19:05:36Z",
+    "url": "https://github.com/sola-st/RepairAgent"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-05-29T19:06:16Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 2,
+    "updated_at": "2026-05-29T19:04:31Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:02:40Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-05-29T19:01:22Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "AI co-pilot that searches live job postings, ranks them against your resume, drafts self-critiquing cover letters as PDF",
+    "id": "smrahman0009/role-tracker-ai",
+    "language": "Python",
+    "name": "smrahman0009/role-tracker-ai",
+    "stars": 0,
+    "updated_at": "2026-05-29T19:00:13Z",
+    "url": "https://github.com/smrahman0009/role-tracker-ai"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -198,15 +279,6 @@
     "url": "https://github.com/BigtoC/scorpio-analyst"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-05-29T17:19:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T16:54:08Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:53:28Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-05-29T16:51:47Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:51:07Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:51:06Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:50:30Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-05-29T16:50:10Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:50:05Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 0,
-    "updated_at": "2026-05-29T16:49:34Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
