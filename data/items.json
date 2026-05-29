@@ -1,11 +1,29 @@
 [
   {
+    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
+    "id": "therain2020/therain2020-agent",
+    "language": "TypeScript",
+    "name": "therain2020/therain2020-agent",
+    "stars": 0,
+    "updated_at": "2026-05-29T11:43:42Z",
+    "url": "https://github.com/therain2020/therain2020-agent"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 97,
+    "updated_at": "2026-05-29T11:39:50Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 775,
-    "updated_at": "2026-05-29T11:29:24Z",
+    "updated_at": "2026-05-29T11:34:50Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-05-29T10:44:40Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "therain2020-agent \u2014 self-healing, self-evolving AI agent. Modifies its own source code to fix bugs and autonomously grow",
-    "id": "therain2020/therain2020-agent",
-    "language": "TypeScript",
-    "name": "therain2020/therain2020-agent",
-    "stars": 0,
-    "updated_at": "2026-05-29T11:26:20Z",
-    "url": "https://github.com/therain2020/therain2020-agent"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-29T10:10:38Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-05-29T10:10:26Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
