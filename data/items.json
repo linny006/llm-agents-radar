@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T14:59:54Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-05-29T14:58:48Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:57:51Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "opencode plugin: memory bootstrap, idle reflection, skill auto-promotion, and AGENTS.md learning loops via Joplin + plug",
     "id": "SasidharanGS/opencode-personal-agent",
     "language": "TypeScript",
     "name": "SasidharanGS/opencode-personal-agent",
     "stars": 0,
-    "updated_at": "2026-05-29T14:42:42Z",
+    "updated_at": "2026-05-29T14:59:55Z",
     "url": "https://github.com/SasidharanGS/opencode-personal-agent"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 2,
+    "updated_at": "2026-05-29T14:49:14Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:46:19Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -16,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-05-29T14:42:00Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 2,
-    "updated_at": "2026-05-29T14:38:01Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 775,
-    "updated_at": "2026-05-29T14:20:13Z",
+    "updated_at": "2026-05-29T14:51:11Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -382,7 +418,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12259,
+    "stars": 12261,
     "updated_at": "2026-05-29T13:55:50Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T13:55:13Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:54:11Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:51:09Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-29T13:51:03Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 0,
-    "updated_at": "2026-05-29T13:50:12Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
