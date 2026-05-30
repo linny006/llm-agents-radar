@@ -1,5 +1,23 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 29,
+    "updated_at": "2026-05-30T18:47:51Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
+    "id": "1850298154/memory_agent_hub",
+    "language": "Python",
+    "name": "1850298154/memory_agent_hub",
+    "stars": 52,
+    "updated_at": "2026-05-30T18:46:17Z",
+    "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
     "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 97,
-    "updated_at": "2026-05-30T18:27:59Z",
+    "updated_at": "2026-05-30T18:46:10Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-05-30T18:20:34Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 29,
-    "updated_at": "2026-05-30T18:22:47Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Agent Interface Discovery ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-30T17:33:20Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-05-30T17:33:04Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
