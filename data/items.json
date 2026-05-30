@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
+    "id": "llylee994-ui/HexaAgent",
+    "language": "Python",
+    "name": "llylee994-ui/HexaAgent",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:25:11Z",
+    "url": "https://github.com/llylee994-ui/HexaAgent"
+  },
+  {
+    "description": "Multi-agent video highlight extractor powered by Aliyun Bailian Coding Plan (qwen3.6-plus, OpenAI-compatible)",
+    "id": "zjcolacode/video-auto-edit-agent",
+    "language": "Python",
+    "name": "zjcolacode/video-auto-edit-agent",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:23:47Z",
+    "url": "https://github.com/zjcolacode/video-auto-edit-agent"
+  },
+  {
+    "description": "One robot, many AI brains. A Physical AI platform that controls an Adeept PiCar-B2 through swappable AI control interfac",
+    "id": "giannisp09/physical-ai-picar",
+    "language": "Python",
+    "name": "giannisp09/physical-ai-picar",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:19:15Z",
+    "url": "https://github.com/giannisp09/physical-ai-picar"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -16,24 +43,6 @@
     "stars": 3,
     "updated_at": "2026-05-30T06:06:18Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
-    "id": "llylee994-ui/HexaAgent",
-    "language": "Python",
-    "name": "llylee994-ui/HexaAgent",
-    "stars": 0,
-    "updated_at": "2026-05-30T06:01:16Z",
-    "url": "https://github.com/llylee994-ui/HexaAgent"
-  },
-  {
-    "description": "Giving an Adeept PiCar-B2 robot an LLM brain: a Claude vision + tool-use agent that drives the real hardware from natura",
-    "id": "giannisp09/physical-ai-picar",
-    "language": "Python",
-    "name": "giannisp09/physical-ai-picar",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:54:22Z",
-    "url": "https://github.com/giannisp09/physical-ai-picar"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -54,15 +63,6 @@
     "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine"
   },
   {
-    "description": "Multi-agent video highlight extractor powered by Aliyun Bailian Coding Plan (qwen3.6-plus, OpenAI-compatible)",
-    "id": "zjcolacode/video-auto-edit-agent",
-    "language": "Python",
-    "name": "zjcolacode/video-auto-edit-agent",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:39:26Z",
-    "url": "https://github.com/zjcolacode/video-auto-edit-agent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -77,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 5,
-    "updated_at": "2026-05-30T05:48:17Z",
+    "updated_at": "2026-05-30T06:23:17Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {

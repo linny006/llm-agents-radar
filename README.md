@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-05-30 06:15 UTC
+> ⏰ Last updated: 2026-05-30 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-30 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 2 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-30 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
-| 3 | [llylee994-ui/HexaAgent](https://github.com/llylee994-ui/HexaAgent) | 0 | Python | 2026-05-30 | AI-powered Liu Yao (六爻) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. 基于  |
-| 4 | [giannisp09/physical-ai-picar](https://github.com/giannisp09/physical-ai-picar) | 0 | Python | 2026-05-30 | Giving an Adeept PiCar-B2 robot an LLM brain: a Claude vision + tool-use agent that drives the real hardware from natura |
-| 5 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 86 | TypeScript | 2026-05-30 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 6 | [CONSTELLATION-ENGINE/constellation-engine](https://github.com/CONSTELLATION-ENGINE/constellation-engine) | 55 | JavaScript | 2026-05-30 | Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living star map w |
-| 7 | [zjcolacode/video-auto-edit-agent](https://github.com/zjcolacode/video-auto-edit-agent) | 0 | Python | 2026-05-30 | Multi-agent video highlight extractor powered by Aliyun Bailian Coding Plan (qwen3.6-plus, OpenAI-compatible) |
+| 1 | [llylee994-ui/HexaAgent](https://github.com/llylee994-ui/HexaAgent) | 0 | Python | 2026-05-30 | AI-powered Liu Yao (六爻) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. 基于  |
+| 2 | [zjcolacode/video-auto-edit-agent](https://github.com/zjcolacode/video-auto-edit-agent) | 0 | Python | 2026-05-30 | Multi-agent video highlight extractor powered by Aliyun Bailian Coding Plan (qwen3.6-plus, OpenAI-compatible) |
+| 3 | [giannisp09/physical-ai-picar](https://github.com/giannisp09/physical-ai-picar) | 0 | Python | 2026-05-30 | One robot, many AI brains. A Physical AI platform that controls an Adeept PiCar-B2 through swappable AI control interfac |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 4 | Python | 2026-05-30 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 5 | [zty522/partner](https://github.com/zty522/partner) | 3 | Python | 2026-05-30 | Partner 🤝 Your AI Research Companion. "What have you been doing?" |
+| 6 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 86 | TypeScript | 2026-05-30 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 7 | [CONSTELLATION-ENGINE/constellation-engine](https://github.com/CONSTELLATION-ENGINE/constellation-engine) | 55 | JavaScript | 2026-05-30 | Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living star map w |
 | 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-05-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 9 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 5 | Go | 2026-05-30 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 10 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-05-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
