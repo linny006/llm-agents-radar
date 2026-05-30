@@ -1,12 +1,12 @@
 [
   {
-    "description": "Giving an Adeept PiCar-B2 robot an LLM brain: a Claude vision + tool-use agent that drives the real hardware from natura",
-    "id": "giannisp09/physical-ai-picar",
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
     "language": "Python",
-    "name": "giannisp09/physical-ai-picar",
-    "stars": 0,
-    "updated_at": "2026-05-30T05:54:22Z",
-    "url": "https://github.com/giannisp09/physical-ai-picar"
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-30T06:08:01Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "zty522/partner",
     "stars": 3,
-    "updated_at": "2026-05-30T05:52:29Z",
+    "updated_at": "2026-05-30T06:06:18Z",
     "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
+    "id": "llylee994-ui/HexaAgent",
+    "language": "Python",
+    "name": "llylee994-ui/HexaAgent",
+    "stars": 0,
+    "updated_at": "2026-05-30T06:01:16Z",
+    "url": "https://github.com/llylee994-ui/HexaAgent"
+  },
+  {
+    "description": "Giving an Adeept PiCar-B2 robot an LLM brain: a Claude vision + tool-use agent that drives the real hardware from natura",
+    "id": "giannisp09/physical-ai-picar",
+    "language": "Python",
+    "name": "giannisp09/physical-ai-picar",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:54:22Z",
+    "url": "https://github.com/giannisp09/physical-ai-picar"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T04:53:52Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:51:52Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
-    "id": "madderscientist/WebAI2API",
-    "language": "TypeScript",
-    "name": "madderscientist/WebAI2API",
-    "stars": 10,
-    "updated_at": "2026-05-30T04:50:20Z",
-    "url": "https://github.com/madderscientist/WebAI2API"
   }
 ]
