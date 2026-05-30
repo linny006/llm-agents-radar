@@ -1,5 +1,32 @@
 [
   {
+    "description": "Giving an Adeept PiCar-B2 robot an LLM brain: a Claude vision + tool-use agent that drives the real hardware from natura",
+    "id": "giannisp09/physical-ai-picar",
+    "language": "Python",
+    "name": "giannisp09/physical-ai-picar",
+    "stars": 0,
+    "updated_at": "2026-05-30T05:54:22Z",
+    "url": "https://github.com/giannisp09/physical-ai-picar"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 3,
+    "updated_at": "2026-05-30T05:52:29Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 86,
+    "updated_at": "2026-05-30T05:49:23Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus \u2014 a living star map w",
     "id": "CONSTELLATION-ENGINE/constellation-engine",
     "language": "JavaScript",
@@ -32,7 +59,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 5,
-    "updated_at": "2026-05-30T05:31:08Z",
+    "updated_at": "2026-05-30T05:48:17Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-05-30T04:50:20Z",
     "url": "https://github.com/madderscientist/WebAI2API"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:49:42Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 1,
-    "updated_at": "2026-05-30T04:49:00Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-05-30T04:48:51Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
