@@ -1,5 +1,14 @@
 [
   {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-30T23:15:27Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
     "id": "huydeptraivaio/ComfyUI-NovaSR",
     "language": "Python",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "Hereon-InstituteMS/Open-FEM-agent",
     "stars": 0,
-    "updated_at": "2026-05-30T23:15:16Z",
+    "updated_at": "2026-05-30T23:15:47Z",
     "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-05-30T21:45:23Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-05-30T21:38:35Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
   }
 ]
