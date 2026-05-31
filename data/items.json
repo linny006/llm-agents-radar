@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4314,
+    "updated_at": "2026-05-31T00:48:47Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Hereon-InstituteMS/Open-FEM-agent",
     "stars": 0,
-    "updated_at": "2026-05-31T00:43:00Z",
+    "updated_at": "2026-05-31T00:56:36Z",
     "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T23:33:58Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 1,
-    "updated_at": "2026-05-30T23:31:43Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
