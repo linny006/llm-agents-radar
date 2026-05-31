@@ -1,5 +1,32 @@
 [
   {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:29:47Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Open FEM Agent: a Model Context Protocol (MCP) server that lets any LLM coding assistant set up, run, verify, and couple",
+    "id": "Hereon-InstituteMS/Open-FEM-agent",
+    "language": "Python",
+    "name": "Hereon-InstituteMS/Open-FEM-agent",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:28:39Z",
+    "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-05-31T00:17:02Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T00:08:36Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Open FEM Agent: a Model Context Protocol (MCP) server that lets any LLM coding assistant set up, run, verify, and couple",
-    "id": "Hereon-InstituteMS/Open-FEM-agent",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/Open-FEM-agent",
-    "stars": 0,
-    "updated_at": "2026-05-31T00:14:08Z",
-    "url": "https://github.com/Hereon-InstituteMS/Open-FEM-agent"
   },
   {
     "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-30T23:31:43Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:31:30Z",
-    "url": "https://github.com/Sajal2702/agentbench"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 0,
-    "updated_at": "2026-05-30T23:30:56Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
