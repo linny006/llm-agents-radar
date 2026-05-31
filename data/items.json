@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4314,
+    "updated_at": "2026-05-31T14:14:19Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Agent-ready A\u80a1\u667a\u80fd\u51b3\u7b56\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u6570\u636e\u5e95\u5ea7 + \u591a\u6e90\u884c\u60c5\u65b0\u95fb + \u6280\u672f/\u60c5\u611f/\u957f\u671f\u7814\u7a76 + \u7ec4\u5408\u98ce\u63a7 + \u53ef\u5ba1\u8ba1\u8bb0\u5fc6\uff0c\u5f53\u524d\u805a\u7126\u7eb8\u4e0a\u4ea4\u6613\u9a8c\u8bc1\uff0c\u540e\u7eed\u5ba2\u6237\u7aef\u5316\u3002",
+    "id": "Zeeechenn/stock-sage",
+    "language": "Python",
+    "name": "Zeeechenn/stock-sage",
+    "stars": 2,
+    "updated_at": "2026-05-31T14:11:10Z",
+    "url": "https://github.com/Zeeechenn/stock-sage"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-05-31T14:10:14Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-31T14:06:05Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -52,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T13:31:01Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-05-31T13:28:08Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4314,
-    "updated_at": "2026-05-31T13:54:45Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T12:10:52Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-05-31T12:07:42Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-05-31T12:07:39Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
