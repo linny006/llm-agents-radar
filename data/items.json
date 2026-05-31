@@ -1,5 +1,23 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-05-31T10:14:18Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Lucid \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
+    "id": "boxiao-qd/lucid",
+    "language": "Python",
+    "name": "boxiao-qd/lucid",
+    "stars": 1,
+    "updated_at": "2026-05-31T10:07:12Z",
+    "url": "https://github.com/boxiao-qd/lucid"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-05-31T09:59:51Z",
+    "updated_at": "2026-05-31T10:09:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T09:11:54Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-05-31T09:11:34Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-05-31T09:10:54Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
