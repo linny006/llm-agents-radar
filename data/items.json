@@ -1,11 +1,20 @@
 [
   {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-05-31T06:51:33Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-05-31T06:44:09Z",
+    "updated_at": "2026-05-31T06:56:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -13,7 +22,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25884,
+    "stars": 25885,
     "updated_at": "2026-05-31T06:43:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T06:14:39Z",
     "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-05-31T06:14:01Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
