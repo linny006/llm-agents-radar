@@ -1,5 +1,32 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 319,
+    "updated_at": "2026-05-31T12:53:27Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Claude Code skill + npm CLI for running AI agents overnight on your codebase. Write todo with Implementation+Validation ",
+    "id": "noluyorAbi/autonomous-agent-nightshift",
+    "language": "Shell",
+    "name": "noluyorAbi/autonomous-agent-nightshift",
+    "stars": 0,
+    "updated_at": "2026-05-31T12:48:10Z",
+    "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-05-31T12:47:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-05-31T12:40:29Z",
+    "updated_at": "2026-05-31T12:56:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T12:37:42Z",
     "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 319,
-    "updated_at": "2026-05-31T12:37:14Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-05-31T12:00:33Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-05-31T11:59:57Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 1,
-    "updated_at": "2026-05-31T11:57:26Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
