@@ -1,5 +1,59 @@
 [
   {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-06-01T13:35:41Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 0,
+    "updated_at": "2026-06-01T13:35:11Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-06-01T13:35:09Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
+    "id": "pollexpitchshot449/am-agi",
+    "language": "\u2014",
+    "name": "pollexpitchshot449/am-agi",
+    "stars": 0,
+    "updated_at": "2026-06-01T13:29:26Z",
+    "url": "https://github.com/pollexpitchshot449/am-agi"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-06-01T13:27:31Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-06-01T13:25:40Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
     "id": "strobilevitellus470/argus-ai",
     "language": "Python",
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T13:12:11Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:10:53Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T12:34:42Z",
     "url": "https://github.com/Emiola033/LLM_Agent"
-  },
-  {
-    "description": "Action! - The First AI-Native Agentic Creation Platform. From Ideas to Interactive Stories. \ud83c\udfac  \ud83c\udfae",
-    "id": "Yuan-ManX/Action",
-    "language": "TypeScript",
-    "name": "Yuan-ManX/Action",
-    "stars": 3,
-    "updated_at": "2026-06-01T12:34:37Z",
-    "url": "https://github.com/Yuan-ManX/Action"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-06-01T12:34:22Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
-    "id": "xaeksx/ComfyUI-AudioSR",
-    "language": "Python",
-    "name": "xaeksx/ComfyUI-AudioSR",
-    "stars": 6,
-    "updated_at": "2026-06-01T12:34:17Z",
-    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
-  },
-  {
-    "description": "K-Storm multi-agent research brainstorming",
-    "id": "ShakeYoung/K-Storm",
-    "language": "Python",
-    "name": "ShakeYoung/K-Storm",
-    "stars": 5,
-    "updated_at": "2026-06-01T12:32:00Z",
-    "url": "https://github.com/ShakeYoung/K-Storm"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-01T12:29:36Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
   }
 ]
