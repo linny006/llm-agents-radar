@@ -1,12 +1,30 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12381,
+    "updated_at": "2026-06-01T15:07:28Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "\ud83d\udc19 Meet Octopus AI: Because Two Hands Just Aren't Enough Let\u2019s be honest: being a human is exhausting. You only have two ",
     "id": "Masriyan/Octopus-Ai",
     "language": "Python",
     "name": "Masriyan/Octopus-Ai",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-01T14:54:58Z",
     "url": "https://github.com/Masriyan/Octopus-Ai"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 129,
+    "updated_at": "2026-06-01T14:51:35Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -261,6 +279,15 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5052,
+    "updated_at": "2026-06-01T13:26:15Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 97,
     "updated_at": "2026-06-01T13:09:40Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-01T13:08:43Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:08:27Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:07:22Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
