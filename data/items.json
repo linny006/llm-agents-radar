@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:14:22Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
+    "id": "LukeMainwaring/cortexdj",
+    "language": "Python",
+    "name": "LukeMainwaring/cortexdj",
+    "stars": 0,
+    "updated_at": "2026-06-01T17:07:27Z",
+    "url": "https://github.com/LukeMainwaring/cortexdj"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-01T17:10:10Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-01T17:15:17Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "LangGraph \u2014 langchain agent, langchain setup, ai agent workflow.",
     "id": "BuffaloShine/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -16,15 +52,6 @@
     "stars": 27,
     "updated_at": "2026-06-01T16:57:14Z",
     "url": "https://github.com/ArcadeAI/agent-library"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-01T16:59:47Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T16:46:08Z",
     "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-06-01T16:59:08Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-01T15:29:08Z",
     "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 1,
-    "updated_at": "2026-06-01T15:28:03Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-01T15:16:44Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
