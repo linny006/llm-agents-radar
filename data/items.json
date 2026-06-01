@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:44:50Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-01T11:41:08Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2540,
+    "updated_at": "2026-06-01T11:37:50Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:37:14Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Make any web app voice-controllable in 37 languages. Drop-in widget + open-source agent server \u2014 visitors speak, the age",
+    "id": "Aelios-AI/voqi",
+    "language": "Python",
+    "name": "Aelios-AI/voqi",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:33:17Z",
+    "url": "https://github.com/Aelios-AI/voqi"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:32:27Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:32:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Lucid \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
+    "id": "boxiao-qd/lucid",
+    "language": "Python",
+    "name": "boxiao-qd/lucid",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:32:03Z",
+    "url": "https://github.com/boxiao-qd/lucid"
+  },
+  {
     "description": "",
     "id": "DAUS089/agentforge",
     "language": "Python",
@@ -36,6 +108,15 @@
     "url": "https://github.com/ElfER020/DeepCode"
   },
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 322,
+    "updated_at": "2026-06-01T11:22:31Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
     "id": "kimmmmyy223/llm-batch",
     "language": "Go",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T11:21:25Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "Lucid \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
-    "id": "boxiao-qd/lucid",
-    "language": "Python",
-    "name": "boxiao-qd/lucid",
-    "stars": 1,
-    "updated_at": "2026-06-01T11:21:06Z",
-    "url": "https://github.com/boxiao-qd/lucid"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -151,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-01T11:10:03Z",
     "url": "https://github.com/mhgd3250905/ugk-claw-personal"
-  },
-  {
-    "description": "Make any web app voice-controllable in 37 languages. Drop-in widget + open-source agent server \u2014 visitors speak, the age",
-    "id": "Aelios-AI/voqi",
-    "language": "Python",
-    "name": "Aelios-AI/voqi",
-    "stars": 2,
-    "updated_at": "2026-06-01T11:08:57Z",
-    "url": "https://github.com/Aelios-AI/voqi"
   },
   {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-01T09:26:41Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:24:46Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:23:56Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:23:15Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:21:08Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:21:07Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:19:52Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:15:28Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
   }
 ]
