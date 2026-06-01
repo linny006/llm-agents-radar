@@ -1,12 +1,39 @@
 [
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7611,
+    "updated_at": "2026-06-01T15:21:15Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "K-Storm multi-agent research brainstorming",
+    "id": "ShakeYoung/K-Storm",
+    "language": "Python",
+    "name": "ShakeYoung/K-Storm",
+    "stars": 5,
+    "updated_at": "2026-06-01T15:08:20Z",
+    "url": "https://github.com/ShakeYoung/K-Storm"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12381,
+    "stars": 12382,
     "updated_at": "2026-06-01T15:07:28Z",
     "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 463,
+    "updated_at": "2026-06-01T14:56:47Z",
+    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "\ud83d\udc19 Meet Octopus AI: Because Two Hands Just Aren't Enough Let\u2019s be honest: being a human is exhausting. You only have two ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-01T13:12:56Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:12:11Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 2,
-    "updated_at": "2026-06-01T13:10:24Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 97,
-    "updated_at": "2026-06-01T13:09:40Z",
-    "url": "https://github.com/AVADSA25/codec"
   }
 ]
