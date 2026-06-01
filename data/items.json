@@ -1,12 +1,84 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-01T11:15:02Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\u8fd9\u662f\u4e00\u4e2a\u4e3a AstrBot \u8bbe\u8ba1\u7684 Office \u52a9\u624b\u63d2\u4ef6\u3002\u5b83\u8d4b\u4e88\u5927\u8bed\u8a00\u6a21\u578b\uff08LLM\uff09\u76f4\u63a5\u64cd\u4f5c\u6587\u4ef6\u7684\u80fd\u529b\uff0c\u652f\u6301\u8bfb\u53d6\u5e76\u5206\u6790\u591a\u79cd\u683c\u5f0f\u6587\u4ef6\uff0c\u4ee5\u53ca\u751f\u6210 Office \u6587\u6863\u548coffice\u4e92\u8f6cpdf\u7684\u529f\u80fd",
+    "id": "Clhikari/astrbot_plugin_office_assistant",
+    "language": "Python",
+    "name": "Clhikari/astrbot_plugin_office_assistant",
+    "stars": 36,
+    "updated_at": "2026-06-01T11:14:49Z",
+    "url": "https://github.com/Clhikari/astrbot_plugin_office_assistant"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:13:55Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
+    "id": "kotama7/ARI",
+    "language": "Python",
+    "name": "kotama7/ARI",
+    "stars": 7,
+    "updated_at": "2026-06-01T11:13:57Z",
+    "url": "https://github.com/kotama7/ARI"
+  },
+  {
+    "description": "\ud83d\udc19 Meet Octopus AI: Because Two Hands Just Aren't Enough Let\u2019s be honest: being a human is exhausting. You only have two ",
+    "id": "Masriyan/Octopus-Ai",
+    "language": "Python",
+    "name": "Masriyan/Octopus-Ai",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:10:05Z",
+    "url": "https://github.com/Masriyan/Octopus-Ai"
+  },
+  {
+    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
+    "id": "mhgd3250905/ugk-claw-personal",
+    "language": "TypeScript",
+    "name": "mhgd3250905/ugk-claw-personal",
+    "stars": 2,
+    "updated_at": "2026-06-01T11:10:03Z",
+    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
+  },
+  {
+    "description": "Make any web app voice-controllable in 37 languages. Drop-in widget + open-source agent server \u2014 visitors speak, the age",
+    "id": "Aelios-AI/voqi",
+    "language": "Python",
+    "name": "Aelios-AI/voqi",
+    "stars": 1,
+    "updated_at": "2026-06-01T11:08:57Z",
+    "url": "https://github.com/Aelios-AI/voqi"
+  },
+  {
     "description": "Lucid \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
     "id": "boxiao-qd/lucid",
     "language": "Python",
     "name": "boxiao-qd/lucid",
     "stars": 1,
-    "updated_at": "2026-06-01T10:59:35Z",
+    "updated_at": "2026-06-01T11:03:26Z",
     "url": "https://github.com/boxiao-qd/lucid"
+  },
+  {
+    "description": "Claude Code plugin orchestrating anomalyco/opencode \u2014 CC plans + reviews, OpenCode executes with free models (Ollama / G",
+    "id": "luongndcoder/opencode-plugin-cc",
+    "language": "JavaScript",
+    "name": "luongndcoder/opencode-plugin-cc",
+    "stars": 0,
+    "updated_at": "2026-06-01T11:02:47Z",
+    "url": "https://github.com/luongndcoder/opencode-plugin-cc"
   },
   {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T10:59:25Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "Claude Code plugin orchestrating anomalyco/opencode \u2014 CC plans + reviews, OpenCode executes with free models (Ollama / G",
-    "id": "luongndcoder/opencode-plugin-cc",
-    "language": "JavaScript",
-    "name": "luongndcoder/opencode-plugin-cc",
-    "stars": 0,
-    "updated_at": "2026-06-01T10:59:10Z",
-    "url": "https://github.com/luongndcoder/opencode-plugin-cc"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 97,
-    "updated_at": "2026-06-01T10:58:25Z",
+    "updated_at": "2026-06-01T11:09:57Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
-    "id": "mhgd3250905/ugk-claw-personal",
-    "language": "TypeScript",
-    "name": "mhgd3250905/ugk-claw-personal",
-    "stars": 2,
-    "updated_at": "2026-06-01T10:51:26Z",
-    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
-  },
-  {
     "description": "An LLM agent for building OpenAPI specifications based on the given code",
     "id": "grauwolf32/contractor",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-01T10:47:45Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Make any web app voice-controllable in 37 languages. Drop-in widget + open-source agent server \u2014 visitors speak, the age",
-    "id": "Aelios-AI/voqi",
-    "language": "Python",
-    "name": "Aelios-AI/voqi",
-    "stars": 1,
-    "updated_at": "2026-06-01T10:43:43Z",
-    "url": "https://github.com/Aelios-AI/voqi"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -139,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 25956,
+    "stars": 25957,
     "updated_at": "2026-06-01T09:50:17Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -400,53 +445,8 @@
     "id": "Xiangyue-Zhang/auto-deep-researcher-24x7",
     "language": "Python",
     "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 1045,
+    "stars": 1047,
     "updated_at": "2026-06-01T09:07:16Z",
     "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:06:54Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-01T09:06:46Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-01T09:05:59Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-01T09:05:35Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 321,
-    "updated_at": "2026-06-01T09:07:08Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
