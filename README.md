@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-01 20:45 UTC
+> ⏰ Last updated: 2026-06-01 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-06-01 | Research framework for adaptive, purposeful agents under uncertainty |
-| 3 | [LukeMainwaring/samplespace](https://github.com/LukeMainwaring/samplespace) | 0 | Python | 2026-06-01 | Your sample library, searchable by sound — AI-powered search, audio similarity, and agentic orchestration for music prod |
-| 4 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Python | 2026-06-01 | An LLM agent for building OpenAPI specifications based on the given code |
-| 5 | [echo-toolkit/echo](https://github.com/echo-toolkit/echo) | 0 | Python | 2026-06-01 | Discovery and intelligence toolkit for solo operators and small teams. Open-source generalisation of Khashif. AGPLv3. |
-| 6 | [gptme/gptme](https://github.com/gptme/gptme) | 4314 | Python | 2026-06-01 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 7 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-06-01 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 8 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 1 | TypeScript | 2026-06-01 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
-| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-01 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 10 | [LukeMainwaring/cortexdj](https://github.com/LukeMainwaring/cortexdj) | 0 | Python | 2026-06-01 | An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded |
-| 11 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-01 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
-| 12 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 2 | Python | 2026-06-01 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 1 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 2 | Python | 2026-06-01 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-06-01 | Research framework for adaptive, purposeful agents under uncertainty |
+| 4 | [LukeMainwaring/samplespace](https://github.com/LukeMainwaring/samplespace) | 0 | Python | 2026-06-01 | Your sample library, searchable by sound — AI-powered search, audio similarity, and agentic orchestration for music prod |
+| 5 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Python | 2026-06-01 | An LLM agent for building OpenAPI specifications based on the given code |
+| 6 | [echo-toolkit/echo](https://github.com/echo-toolkit/echo) | 0 | Python | 2026-06-01 | Discovery and intelligence toolkit for solo operators and small teams. Open-source generalisation of Khashif. AGPLv3. |
+| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4314 | Python | 2026-06-01 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 8 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 8 | Python | 2026-06-01 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 9 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 1 | TypeScript | 2026-06-01 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
+| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-01 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 11 | [LukeMainwaring/cortexdj](https://github.com/LukeMainwaring/cortexdj) | 0 | Python | 2026-06-01 | An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded |
+| 12 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-01 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
 | 13 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-06-01 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
 | 14 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-06-01 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
 | 15 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-06-01 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |

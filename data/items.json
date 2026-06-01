@@ -1,5 +1,14 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-01T20:46:57Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-06-01T20:43:21Z",
+    "updated_at": "2026-06-01T20:57:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-01T20:25:53Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 2,
-    "updated_at": "2026-06-01T20:22:47Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
