@@ -1,11 +1,20 @@
 [
   {
+    "description": "LangGraph \u2014 langchain agent, langchain setup, ai agent workflow.",
+    "id": "BuffaloShine/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "BuffaloShine/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-01T14:18:58Z",
+    "url": "https://github.com/BuffaloShine/langgraph-langchain-agent-setup"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-06-01T14:12:50Z",
+    "updated_at": "2026-06-01T14:23:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "yosh95/llm-secure-cli",
     "stars": 0,
-    "updated_at": "2026-06-01T13:35:11Z",
+    "updated_at": "2026-06-01T14:26:22Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T13:04:38Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-01T13:01:54Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
