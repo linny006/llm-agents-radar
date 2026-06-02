@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 776,
+    "updated_at": "2026-06-02T10:59:23Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 5,
+    "updated_at": "2026-06-02T10:49:47Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
     "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
     "id": "BigtoC/scorpio-analyst",
     "language": "Rust",
     "name": "BigtoC/scorpio-analyst",
     "stars": 3,
-    "updated_at": "2026-06-02T10:35:46Z",
+    "updated_at": "2026-06-02T10:46:14Z",
     "url": "https://github.com/BigtoC/scorpio-analyst"
+  },
+  {
+    "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
+    "id": "dzianisv/opencode-plugins",
+    "language": "TypeScript",
+    "name": "dzianisv/opencode-plugins",
+    "stars": 8,
+    "updated_at": "2026-06-02T10:45:29Z",
+    "url": "https://github.com/dzianisv/opencode-plugins"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -16,15 +43,6 @@
     "stars": 4314,
     "updated_at": "2026-06-02T10:08:10Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 5,
-    "updated_at": "2026-06-02T10:03:02Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -324,15 +342,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
-    "id": "dzianisv/opencode-plugins",
-    "language": "TypeScript",
-    "name": "dzianisv/opencode-plugins",
-    "stars": 8,
-    "updated_at": "2026-06-02T09:03:28Z",
-    "url": "https://github.com/dzianisv/opencode-plugins"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-02T08:50:59Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-02T08:50:50Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
