@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude Code plugin orchestrating anomalyco/opencode \u2014 CC plans + reviews, OpenCode executes with free models (Ollama / G",
+    "id": "luongndcoder/opencode-plugin-cc",
+    "language": "JavaScript",
+    "name": "luongndcoder/opencode-plugin-cc",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:29:24Z",
+    "url": "https://github.com/luongndcoder/opencode-plugin-cc"
+  },
+  {
+    "description": "Lucid \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
+    "id": "boxiao-qd/lucid",
+    "language": "Python",
+    "name": "boxiao-qd/lucid",
+    "stars": 1,
+    "updated_at": "2026-06-02T03:26:55Z",
+    "url": "https://github.com/boxiao-qd/lucid"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 168,
+    "updated_at": "2026-06-02T03:24:15Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:22:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
     "id": "randomittin/superx",
     "language": "Shell",
@@ -7,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-06-02T03:13:49Z",
     "url": "https://github.com/randomittin/superx"
-  },
-  {
-    "description": "Claude Code plugin orchestrating anomalyco/opencode \u2014 CC plans + reviews, OpenCode executes with free models (Ollama / G",
-    "id": "luongndcoder/opencode-plugin-cc",
-    "language": "JavaScript",
-    "name": "luongndcoder/opencode-plugin-cc",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:09:10Z",
-    "url": "https://github.com/luongndcoder/opencode-plugin-cc"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T02:05:59Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-02T02:03:45Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-02T02:02:54Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-02T02:02:44Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
