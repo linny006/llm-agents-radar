@@ -1,5 +1,14 @@
 [
   {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 10,
+    "updated_at": "2026-06-02T21:33:12Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-02T21:20:16Z",
+    "updated_at": "2026-06-02T21:31:26Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:30:52Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 10,
-    "updated_at": "2026-06-02T21:29:15Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
