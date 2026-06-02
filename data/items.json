@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-02T18:14:33Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4313,
+    "updated_at": "2026-06-02T18:13:24Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-02T18:06:47Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-06-02T18:01:03Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -16,15 +52,6 @@
     "stars": 93,
     "updated_at": "2026-06-02T17:40:12Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 6,
-    "updated_at": "2026-06-02T17:38:31Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 777,
-    "updated_at": "2026-06-02T17:31:17Z",
+    "updated_at": "2026-06-02T18:14:39Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T17:31:06Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4313,
-    "updated_at": "2026-06-02T17:44:27Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "hipvlady/agent-coherence",
     "stars": 9,
-    "updated_at": "2026-06-02T17:36:39Z",
+    "updated_at": "2026-06-02T18:14:26Z",
     "url": "https://github.com/hipvlady/agent-coherence"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T16:12:08Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-02T16:11:49Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 1763,
-    "updated_at": "2026-06-02T16:11:46Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
