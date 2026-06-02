@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-06-02T09:44:40Z",
+    "updated_at": "2026-06-02T10:08:10Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 5,
+    "updated_at": "2026-06-02T10:03:02Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T08:50:08Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 1,
-    "updated_at": "2026-06-02T08:49:36Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
