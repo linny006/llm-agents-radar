@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
+    "id": "BigtoC/scorpio-analyst",
+    "language": "Rust",
+    "name": "BigtoC/scorpio-analyst",
+    "stars": 3,
+    "updated_at": "2026-06-02T10:16:38Z",
+    "url": "https://github.com/BigtoC/scorpio-analyst"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T08:50:50Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-02T08:50:08Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
