@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-02T14:59:57Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
     "id": "nethinwei/fino",
     "language": "Go",
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 6,
-    "updated_at": "2026-06-02T14:58:56Z",
+    "updated_at": "2026-06-02T15:04:00Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 3,
-    "updated_at": "2026-06-02T14:50:09Z",
+    "updated_at": "2026-06-02T15:03:26Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T13:19:46Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:18:44Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
