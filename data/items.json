@@ -1,5 +1,59 @@
 [
   {
+    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
+    "id": "nethinwei/fino",
+    "language": "Go",
+    "name": "nethinwei/fino",
+    "stars": 0,
+    "updated_at": "2026-06-02T01:11:12Z",
+    "url": "https://github.com/nethinwei/fino"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-02T01:10:21Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-06-02T01:08:26Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A composite ai framework for agentic AI",
+    "id": "engkimo/open-morphic",
+    "language": "Python",
+    "name": "engkimo/open-morphic",
+    "stars": 8,
+    "updated_at": "2026-06-02T01:06:38Z",
+    "url": "https://github.com/engkimo/open-morphic"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-02T01:06:34Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7611,
+    "updated_at": "2026-06-02T01:01:07Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-01T23:36:40Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-01T23:36:31Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-01T23:35:10Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
-    "id": "nethinwei/fino",
-    "language": "Go",
-    "name": "nethinwei/fino",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:34:52Z",
-    "url": "https://github.com/nethinwei/fino"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:34:39Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:34:39Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-06-01T23:34:05Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
