@@ -1,5 +1,41 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-02T14:40:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-02T14:33:07Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-06-02T14:28:08Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 0,
+    "updated_at": "2026-06-02T14:25:12Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
     "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
     "id": "jiuguandemao/multimodal-bug-agent",
     "language": "Python",
@@ -9,6 +45,15 @@
     "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
   },
   {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-02T14:23:20Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -16,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-06-02T14:20:14Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
+    "language": "Python",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-02T14:19:49Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
   },
   {
     "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2549,
-    "updated_at": "2026-06-02T14:19:40Z",
+    "updated_at": "2026-06-02T14:34:35Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Go",
     "name": "nethinwei/fino",
     "stars": 0,
-    "updated_at": "2026-06-02T14:16:29Z",
+    "updated_at": "2026-06-02T14:45:03Z",
     "url": "https://github.com/nethinwei/fino"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T13:14:49Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:14:31Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "AI-assisted penetration testing automation \u2014 ML-driven vulnerability discovery and exploitation workflow with intelligen",
-    "id": "Ruby570bocadito/Apex-Automation",
-    "language": "Python",
-    "name": "Ruby570bocadito/Apex-Automation",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:12:15Z",
-    "url": "https://github.com/Ruby570bocadito/Apex-Automation"
-  },
-  {
-    "description": "Exabase memory plugin for Hermes Agent.",
-    "id": "futurebrowser/hermes-exabase-plugin",
-    "language": "Python",
-    "name": "futurebrowser/hermes-exabase-plugin",
-    "stars": 4,
-    "updated_at": "2026-06-02T13:11:57Z",
-    "url": "https://github.com/futurebrowser/hermes-exabase-plugin"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:09:52Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-02T13:09:34Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-02T13:09:26Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   }
 ]
