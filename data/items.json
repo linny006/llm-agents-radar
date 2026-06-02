@@ -1,11 +1,29 @@
 [
   {
+    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
+    "id": "brittonhayes/harness",
+    "language": "Go",
+    "name": "brittonhayes/harness",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:07:11Z",
+    "url": "https://github.com/brittonhayes/harness"
+  },
+  {
+    "description": "This project investigates the frontier of autonomous cybersecurity by evaluating whether benign, attacker, and defender ",
+    "id": "labsin-uncuyo/Trident",
+    "language": "Python",
+    "name": "labsin-uncuyo/Trident",
+    "stars": 6,
+    "updated_at": "2026-06-02T22:03:52Z",
+    "url": "https://github.com/labsin-uncuyo/Trident"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-02T21:57:58Z",
+    "updated_at": "2026-06-02T22:14:05Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-06-02T21:53:40Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
-    "id": "brittonhayes/harness",
-    "language": "Go",
-    "name": "brittonhayes/harness",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:52:26Z",
-    "url": "https://github.com/brittonhayes/harness"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:19:59Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:18:33Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
