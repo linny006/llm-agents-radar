@@ -1,5 +1,41 @@
 [
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7611,
+    "updated_at": "2026-06-02T03:53:37Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Wor",
+    "id": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "language": "Python",
+    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "stars": 1100,
+    "updated_at": "2026-06-02T03:52:26Z",
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-02T03:50:36Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
+    "id": "nethinwei/fino",
+    "language": "Go",
+    "name": "nethinwei/fino",
+    "stars": 0,
+    "updated_at": "2026-06-02T03:47:31Z",
+    "url": "https://github.com/nethinwei/fino"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -9,15 +45,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
-    "id": "nethinwei/fino",
-    "language": "Go",
-    "name": "nethinwei/fino",
-    "stars": 0,
-    "updated_at": "2026-06-02T03:44:15Z",
-    "url": "https://github.com/nethinwei/fino"
-  },
-  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
@@ -25,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-06-02T03:41:00Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "\ud83d\udd25 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Wor",
-    "id": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "language": "Python",
-    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
-    "stars": 1100,
-    "updated_at": "2026-06-02T03:32:34Z",
-    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7"
   },
   {
     "description": "Claude Code plugin orchestrating anomalyco/opencode \u2014 CC plans + reviews, OpenCode executes with free models (Ollama / G",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T02:12:29Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "K-Storm multi-agent research brainstorming",
-    "id": "ShakeYoung/K-Storm",
-    "language": "Python",
-    "name": "ShakeYoung/K-Storm",
-    "stars": 5,
-    "updated_at": "2026-06-02T02:11:35Z",
-    "url": "https://github.com/ShakeYoung/K-Storm"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12396,
-    "updated_at": "2026-06-02T02:10:21Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
