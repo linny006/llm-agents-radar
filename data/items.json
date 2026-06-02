@@ -1,5 +1,86 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-02T08:00:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-02T07:58:49Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-02T07:57:38Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
+    "id": "nethinwei/fino",
+    "language": "Go",
+    "name": "nethinwei/fino",
+    "stars": 0,
+    "updated_at": "2026-06-02T07:57:36Z",
+    "url": "https://github.com/nethinwei/fino"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-02T07:54:10Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-02T07:53:49Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-02T07:52:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5056,
+    "updated_at": "2026-06-02T07:47:06Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-02T07:46:15Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -68,17 +149,8 @@
     "language": "Go",
     "name": "fzihak/aethercore",
     "stars": 2,
-    "updated_at": "2026-06-02T07:45:02Z",
+    "updated_at": "2026-06-02T07:59:03Z",
     "url": "https://github.com/fzihak/aethercore"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 6,
-    "updated_at": "2026-06-02T07:33:03Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -211,7 +283,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12401,
+    "stars": 12402,
     "updated_at": "2026-06-02T07:01:57Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-02T06:30:04Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 639,
-    "updated_at": "2026-06-02T06:32:00Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-02T06:28:13Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:27:29Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:26:47Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
-    "id": "nethinwei/fino",
-    "language": "Go",
-    "name": "nethinwei/fino",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:42:05Z",
-    "url": "https://github.com/nethinwei/fino"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:24:45Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:24:42Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-02T06:23:27Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
