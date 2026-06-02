@@ -1,12 +1,39 @@
 [
   {
-    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
-    "id": "brittonhayes/harness",
-    "language": "Go",
-    "name": "brittonhayes/harness",
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:29:02Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
     "stars": 0,
-    "updated_at": "2026-06-02T22:07:11Z",
-    "url": "https://github.com/brittonhayes/harness"
+    "updated_at": "2026-06-02T22:27:20Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
+    "id": "brittonhayes/vala",
+    "language": "Go",
+    "name": "brittonhayes/vala",
+    "stars": 0,
+    "updated_at": "2026-06-02T22:26:35Z",
+    "url": "https://github.com/brittonhayes/vala"
+  },
+  {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Python",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-06-02T22:16:24Z",
+    "url": "https://github.com/grauwolf32/contractor"
   },
   {
     "description": "This project investigates the frontier of autonomous cybersecurity by evaluating whether benign, attacker, and defender ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:23:27Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Portfolio AI coding agent from UIUC MCS CS 427, adapted from mini-swe-agent with tools, memory, and SWE-bench workflows",
-    "id": "SeanKraemer/ai-agent",
-    "language": "Python",
-    "name": "SeanKraemer/ai-agent",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:22:21Z",
-    "url": "https://github.com/SeanKraemer/ai-agent"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:22:15Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:19:59Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
