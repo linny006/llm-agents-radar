@@ -1,12 +1,30 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-03T13:20:42Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 4,
-    "updated_at": "2026-06-03T13:14:23Z",
+    "updated_at": "2026-06-03T13:16:28Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Dual-mode narrative AI for game writers (writer/director). Electron desktop, React GUI, KSFS knowledge base, MCP skills,",
+    "id": "Athas-Ed/Logos",
+    "language": "Python",
+    "name": "Athas-Ed/Logos",
+    "stars": 0,
+    "updated_at": "2026-06-03T13:16:05Z",
+    "url": "https://github.com/Athas-Ed/Logos"
   },
   {
     "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 777,
-    "updated_at": "2026-06-03T13:13:08Z",
+    "updated_at": "2026-06-03T13:22:30Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "unohee/kis-agent",
     "stars": 19,
-    "updated_at": "2026-06-03T12:39:51Z",
+    "updated_at": "2026-06-03T13:24:12Z",
     "url": "https://github.com/unohee/kis-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T11:37:12Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
-    "id": "gonicolas12/My_OS",
-    "language": "Python",
-    "name": "gonicolas12/My_OS",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:35:50Z",
-    "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:34:50Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   }
 ]
