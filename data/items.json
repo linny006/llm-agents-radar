@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-03T18:13:03Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7692,
+    "updated_at": "2026-06-03T18:04:12Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -41,7 +59,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-03T17:53:30Z",
+    "updated_at": "2026-06-03T18:14:28Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 4314,
     "updated_at": "2026-06-03T17:16:16Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-03T16:59:57Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-06-03T16:13:14Z",
     "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:13:06Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
