@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:57:14Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-03T07:55:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u5b66\u4e60\u9879\u76ee:\u5728\u5bb6\u91cc\u8dd1\u4e00\u5957 AI Building Management Platform (AI BMP),\u9996\u4e2a\u6838\u5fc3\u80fd\u529b\u662f HVAC AI\u2014\u2014\u5367\u5ba4\u7a7a\u8c03\u95ed\u73af + \u624b\u673a\u67e5\u770b",
+    "id": "bob798/ai-bmp-lab",
+    "language": "Python",
+    "name": "bob798/ai-bmp-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T07:54:58Z",
+    "url": "https://github.com/bob798/ai-bmp-lab"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26045,
+    "updated_at": "2026-06-03T07:54:30Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-03T07:57:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Agent-ready A\u80a1\u667a\u80fd\u51b3\u7b56\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u6570\u636e\u5e95\u5ea7 + \u591a\u6e90\u884c\u60c5\u65b0\u95fb + \u6280\u672f/\u60c5\u611f/\u957f\u671f\u7814\u7a76 + \u7ec4\u5408\u98ce\u63a7 + \u53ef\u5ba1\u8ba1\u8bb0\u5fc6\uff0c\u5f53\u524d\u805a\u7126\u7eb8\u4e0a\u4ea4\u6613\u9a8c\u8bc1\uff0c\u540e\u7eed\u5ba2\u6237\u7aef\u5316\u3002",
+    "id": "Zeeechenn/stock-sage",
+    "language": "Python",
+    "name": "Zeeechenn/stock-sage",
+    "stars": 3,
+    "updated_at": "2026-06-03T07:53:55Z",
+    "url": "https://github.com/Zeeechenn/stock-sage"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 174,
-    "updated_at": "2026-06-03T07:43:17Z",
+    "updated_at": "2026-06-03T07:53:03Z",
     "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
+    "id": "BigtoC/scorpio-analyst",
+    "language": "Rust",
+    "name": "BigtoC/scorpio-analyst",
+    "stars": 3,
+    "updated_at": "2026-06-03T07:52:49Z",
+    "url": "https://github.com/BigtoC/scorpio-analyst"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2554,
+    "updated_at": "2026-06-03T07:44:43Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:40:16Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u5b66\u4e60\u9879\u76ee:\u5728\u5bb6\u91cc\u8dd1\u4e00\u5957 AI Building Management Platform (AI BMP),\u9996\u4e2a\u6838\u5fc3\u80fd\u529b\u662f HVAC AI\u2014\u2014\u5367\u5ba4\u7a7a\u8c03\u95ed\u73af + \u624b\u673a\u67e5\u770b",
-    "id": "bob798/ai-bmp-lab",
-    "language": "Python",
-    "name": "bob798/ai-bmp-lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:39:02Z",
-    "url": "https://github.com/bob798/ai-bmp-lab"
   },
   {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:28:35Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-03T07:28:14Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T06:59:20Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
-    "id": "Shadowell/Alpha",
-    "language": "Python",
-    "name": "Shadowell/Alpha",
-    "stars": 8,
-    "updated_at": "2026-06-03T06:57:31Z",
-    "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:57:03Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-03T06:54:33Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-03T06:53:45Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-03T06:53:34Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-03T06:52:49Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
