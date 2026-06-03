@@ -1,5 +1,14 @@
 [
   {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 11,
+    "updated_at": "2026-06-03T21:40:19Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 778,
-    "updated_at": "2026-06-03T21:13:58Z",
+    "updated_at": "2026-06-03T21:38:17Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T20:31:32Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 11,
-    "updated_at": "2026-06-03T20:31:17Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   }
 ]
