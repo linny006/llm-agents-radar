@@ -1,5 +1,32 @@
 [
   {
+    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
+    "id": "nethinwei/fino",
+    "language": "Go",
+    "name": "nethinwei/fino",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:27:45Z",
+    "url": "https://github.com/nethinwei/fino"
+  },
+  {
+    "description": "Make any web app voice-controllable in 37 languages. Drop-in widget + open-source agent server \u2014 visitors speak, the age",
+    "id": "Aelios-AI/aelios-spark",
+    "language": "Python",
+    "name": "Aelios-AI/aelios-spark",
+    "stars": 9,
+    "updated_at": "2026-06-03T17:26:26Z",
+    "url": "https://github.com/Aelios-AI/aelios-spark"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5069,
+    "updated_at": "2026-06-03T17:16:58Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4314,
-    "updated_at": "2026-06-03T17:08:37Z",
+    "updated_at": "2026-06-03T17:16:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 10,
-    "updated_at": "2026-06-03T16:33:28Z",
+    "updated_at": "2026-06-03T17:20:53Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:07:04Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:06:52Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:04:29Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:01:49Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
