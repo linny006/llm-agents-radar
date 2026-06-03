@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u7aef\u5230\u7aef\u5b66\u4e60\u9879\u76ee:\u5728\u5bb6\u91cc\u8dd1\u4e00\u5957 AI Building Management Platform (AI BMP),\u9996\u4e2a\u6838\u5fc3\u80fd\u529b\u662f HVAC AI\u2014\u2014\u5367\u5ba4\u7a7a\u8c03\u95ed\u73af + \u624b\u673a\u67e5\u770b",
+    "id": "bob798/ai-bmp-lab",
+    "language": "Python",
+    "name": "bob798/ai-bmp-lab",
+    "stars": 0,
+    "updated_at": "2026-06-03T08:59:17Z",
+    "url": "https://github.com/bob798/ai-bmp-lab"
+  },
+  {
+    "description": "The AI agent that sees before it acts \u2014 perception-driven, file-based, pluggable personal AI agent framework",
+    "id": "miles990/mini-agent",
+    "language": "HTML",
+    "name": "miles990/mini-agent",
+    "stars": 3,
+    "updated_at": "2026-06-03T08:57:26Z",
+    "url": "https://github.com/miles990/mini-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-03T08:56:08Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 14,
-    "updated_at": "2026-06-03T08:44:14Z",
+    "updated_at": "2026-06-03T08:45:59Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 10,
     "updated_at": "2026-06-03T08:43:57Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 6,
-    "updated_at": "2026-06-03T08:41:40Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The Eternego codebase",
@@ -41,7 +59,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 7623,
-    "updated_at": "2026-06-03T08:44:59Z",
+    "updated_at": "2026-06-03T08:59:19Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -63,6 +81,15 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5246,
+    "updated_at": "2026-06-03T08:19:21Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Glean \u00b7 \u672c\u5730\u4f18\u5148\u3001AI \u539f\u751f\u7684 macOS \u6587\u4ef6\u7ba1\u7406\u5668 | A local-first, AI-native macOS file manager",
     "id": "WalkAlone0325/glean",
     "language": "Rust",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T08:18:57Z",
     "url": "https://github.com/WalkAlone0325/glean"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u5b66\u4e60\u9879\u76ee:\u5728\u5bb6\u91cc\u8dd1\u4e00\u5957 AI Building Management Platform (AI BMP),\u9996\u4e2a\u6838\u5fc3\u80fd\u529b\u662f HVAC AI\u2014\u2014\u5367\u5ba4\u7a7a\u8c03\u95ed\u73af + \u624b\u673a\u67e5\u770b",
-    "id": "bob798/ai-bmp-lab",
-    "language": "Python",
-    "name": "bob798/ai-bmp-lab",
-    "stars": 0,
-    "updated_at": "2026-06-03T08:03:43Z",
-    "url": "https://github.com/bob798/ai-bmp-lab"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -94,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26045,
+    "stars": 26046,
     "updated_at": "2026-06-03T07:54:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2554,
-    "updated_at": "2026-06-03T08:42:37Z",
+    "updated_at": "2026-06-03T08:52:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:41:03Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "The AI agent that sees before it acts \u2014 perception-driven, file-based, pluggable personal AI agent framework",
-    "id": "miles990/mini-agent",
-    "language": "HTML",
-    "name": "miles990/mini-agent",
-    "stars": 3,
-    "updated_at": "2026-06-03T07:40:20Z",
-    "url": "https://github.com/miles990/mini-agent"
   },
   {
     "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T07:06:33Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:06:00Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
