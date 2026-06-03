@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 93,
+    "updated_at": "2026-06-03T17:54:47Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-03T17:49:50Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "nethinwei/fino",
     "stars": 0,
-    "updated_at": "2026-06-03T17:34:52Z",
+    "updated_at": "2026-06-03T17:53:03Z",
     "url": "https://github.com/nethinwei/fino"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-03T17:33:20Z",
+    "updated_at": "2026-06-03T17:53:30Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5069,
-    "updated_at": "2026-06-03T17:16:58Z",
+    "updated_at": "2026-06-03T17:54:21Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:13:06Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-03T16:11:47Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:08:07Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
