@@ -1,10 +1,28 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 326,
+    "updated_at": "2026-06-03T14:57:25Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:48:32Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-06-03T14:47:55Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 5,
-    "updated_at": "2026-06-03T14:45:51Z",
+    "updated_at": "2026-06-03T15:06:56Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 777,
-    "updated_at": "2026-06-03T14:53:07Z",
+    "updated_at": "2026-06-03T15:06:35Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4313,
-    "updated_at": "2026-06-03T12:08:23Z",
+    "updated_at": "2026-06-03T15:03:11Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:01:48Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:59:58Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:58:19Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   }
 ]
