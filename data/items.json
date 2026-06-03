@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "bob798/ai-bmp-lab",
     "stars": 0,
-    "updated_at": "2026-06-03T08:59:17Z",
+    "updated_at": "2026-06-03T09:13:08Z",
     "url": "https://github.com/bob798/ai-bmp-lab"
-  },
-  {
-    "description": "The AI agent that sees before it acts \u2014 perception-driven, file-based, pluggable personal AI agent framework",
-    "id": "miles990/mini-agent",
-    "language": "HTML",
-    "name": "miles990/mini-agent",
-    "stars": 3,
-    "updated_at": "2026-06-03T08:57:26Z",
-    "url": "https://github.com/miles990/mini-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -23,7 +14,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 6,
-    "updated_at": "2026-06-03T08:56:08Z",
+    "updated_at": "2026-06-03T09:12:42Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -32,8 +23,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 14,
-    "updated_at": "2026-06-03T08:45:59Z",
+    "updated_at": "2026-06-03T09:11:42Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 4,
+    "updated_at": "2026-06-03T09:11:19Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 93,
+    "updated_at": "2026-06-03T09:09:18Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "The AI agent that sees before it acts \u2014 perception-driven, file-based, pluggable personal AI agent framework",
+    "id": "miles990/mini-agent",
+    "language": "HTML",
+    "name": "miles990/mini-agent",
+    "stars": 3,
+    "updated_at": "2026-06-03T09:05:55Z",
+    "url": "https://github.com/miles990/mini-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 4,
+    "updated_at": "2026-06-03T09:05:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 7623,
+    "updated_at": "2026-06-03T09:02:25Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -54,31 +90,13 @@
     "url": "https://github.com/Eternego-AI/eternego"
   },
   {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 7623,
-    "updated_at": "2026-06-03T08:59:19Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 1,
-    "updated_at": "2026-06-03T08:32:04Z",
+    "updated_at": "2026-06-03T09:14:07Z",
     "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-06-03T08:22:14Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -112,7 +130,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26046,
+    "stars": 26047,
     "updated_at": "2026-06-03T07:54:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2554,
-    "updated_at": "2026-06-03T08:52:57Z",
+    "updated_at": "2026-06-03T09:03:04Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T07:06:54Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-03T07:06:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-03T07:06:33Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
   }
 ]
