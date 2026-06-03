@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
+    "id": "haoyiyin/basjoo",
+    "language": "TypeScript",
+    "name": "haoyiyin/basjoo",
+    "stars": 120,
+    "updated_at": "2026-06-03T04:37:06Z",
+    "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-03T03:17:08Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
-    "id": "haoyiyin/basjoo",
-    "language": "TypeScript",
-    "name": "haoyiyin/basjoo",
-    "stars": 120,
-    "updated_at": "2026-06-03T03:16:16Z",
-    "url": "https://github.com/haoyiyin/basjoo"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
