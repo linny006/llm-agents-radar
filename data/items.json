@@ -1,5 +1,41 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 6,
+    "updated_at": "2026-06-03T14:44:53Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 19,
+    "updated_at": "2026-06-03T14:33:23Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-03T14:29:08Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-06-03T14:24:04Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
     "description": "Built for true mobile autonomy: local Android control, real-time screen understanding, and step-by-step task execution a",
     "id": "developer1ab/Pocopaw",
     "language": "Kotlin",
@@ -7,6 +43,24 @@
     "stars": 1,
     "updated_at": "2026-06-03T14:20:26Z",
     "url": "https://github.com/developer1ab/Pocopaw"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:19:59Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-03T14:17:45Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -76,8 +130,8 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 4,
-    "updated_at": "2026-06-03T14:05:36Z",
+    "stars": 5,
+    "updated_at": "2026-06-03T14:37:55Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T13:30:44Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 6,
-    "updated_at": "2026-06-03T14:25:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Dual-mode narrative AI for game writers (writer/director). Electron desktop, React GUI, KSFS knowledge base, MCP skills,",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T12:14:42Z",
     "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
-    "id": "unohee/kis-agent",
-    "language": "Python",
-    "name": "unohee/kis-agent",
-    "stars": 19,
-    "updated_at": "2026-06-03T14:30:01Z",
-    "url": "https://github.com/unohee/kis-agent"
   },
   {
     "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T11:54:06Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-03T11:53:43Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:53:40Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-03T11:52:55Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-03T11:52:37Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   }
 ]
