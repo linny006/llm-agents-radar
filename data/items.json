@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-03T18:44:54Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 2,
+    "updated_at": "2026-06-03T18:37:36Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 93,
+    "updated_at": "2026-06-03T18:35:30Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-03T18:34:35Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-03T18:34:30Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
     "id": "nethinwei/fino",
     "language": "Go",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T18:27:40Z",
     "url": "https://github.com/nethinwei/fino"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-03T18:25:43Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
@@ -32,7 +68,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-03T18:14:28Z",
+    "updated_at": "2026-06-03T18:45:04Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -40,18 +76,9 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 7692,
+    "stars": 7691,
     "updated_at": "2026-06-03T18:04:12Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 93,
-    "updated_at": "2026-06-03T17:54:47Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-03T16:52:01Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-06-03T16:51:26Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2554,
-    "updated_at": "2026-06-03T18:26:58Z",
+    "updated_at": "2026-06-03T18:42:39Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-03T16:14:20Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:13:55Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-03T16:13:17Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
