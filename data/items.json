@@ -1,11 +1,164 @@
 [
   {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:15:14Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:14:14Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:14:09Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:11:40Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
+    "id": "Amaleespinyedged857/chathermes",
+    "language": "\u2014",
+    "name": "Amaleespinyedged857/chathermes",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:11:33Z",
+    "url": "https://github.com/Amaleespinyedged857/chathermes"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 2,
+    "updated_at": "2026-06-04T11:08:18Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
+    "id": "sacid446/unclaw",
+    "language": "Shell",
+    "name": "sacid446/unclaw",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:07:00Z",
+    "url": "https://github.com/sacid446/unclaw"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 3,
+    "updated_at": "2026-06-04T11:06:37Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 40,
+    "updated_at": "2026-06-04T11:06:22Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-06-04T11:06:06Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
+    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
+    "language": "Python",
+    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:05:41Z",
+    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
+  },
+  {
+    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
+    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
+    "language": "Python",
+    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
+    "stars": 2,
+    "updated_at": "2026-06-04T11:04:33Z",
+    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:02:31Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-06-04T11:02:20Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:01:27Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-04T11:00:48Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 0,
+    "updated_at": "2026-06-04T11:00:31Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-04T10:58:00Z",
+    "updated_at": "2026-06-04T11:08:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -41,7 +194,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 778,
-    "updated_at": "2026-06-04T10:53:42Z",
+    "updated_at": "2026-06-04T11:03:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -180,15 +333,6 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-04T10:41:27Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
     "id": "isratmim643-ux/VencordAutoPatcher",
     "language": "C#",
@@ -230,7 +374,7 @@
     "language": "Rust",
     "name": "stakpak/agent",
     "stars": 1581,
-    "updated_at": "2026-06-04T10:35:08Z",
+    "updated_at": "2026-06-04T11:07:29Z",
     "url": "https://github.com/stakpak/agent"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T10:25:00Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
-    "id": "mhgd3250905/ugk-claw-personal",
-    "language": "TypeScript",
-    "name": "mhgd3250905/ugk-claw-personal",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:23:13Z",
-    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:22:13Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 10,
-    "updated_at": "2026-06-04T10:22:06Z",
-    "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:21:19Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:21:04Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:20:19Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:19:33Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 40,
-    "updated_at": "2026-06-04T10:17:57Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-04T10:16:21Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:16:08Z",
-    "url": "https://github.com/Sajal2702/agentbench"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:15:21Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
-    "id": "ghosthunter8/AgentUI",
-    "language": "JavaScript",
-    "name": "ghosthunter8/AgentUI",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:13:25Z",
-    "url": "https://github.com/ghosthunter8/AgentUI"
-  },
-  {
-    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
-    "id": "gfranrp/Auto-Pentest-LLM",
-    "language": "Python",
-    "name": "gfranrp/Auto-Pentest-LLM",
-    "stars": 5,
-    "updated_at": "2026-06-04T10:09:12Z",
-    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-04T10:04:59Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
-    "id": "dogunkim/llmnet",
-    "language": "TypeScript",
-    "name": "dogunkim/llmnet",
-    "stars": 0,
-    "updated_at": "2026-06-04T10:03:16Z",
-    "url": "https://github.com/dogunkim/llmnet"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:02:47Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
