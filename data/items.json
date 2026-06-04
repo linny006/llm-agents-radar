@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-04T17:30:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 40,
+    "updated_at": "2026-06-04T17:20:36Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -16,15 +34,6 @@
     "stars": 10,
     "updated_at": "2026-06-04T17:09:33Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-04T16:56:56Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4316,
-    "updated_at": "2026-06-04T17:04:46Z",
+    "updated_at": "2026-06-04T17:19:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -58,7 +67,7 @@
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
     "name": "shouzhuoshouzhuo/FloatTrip",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-06-04T16:41:42Z",
     "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
   },
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-04T16:30:26Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 40,
-    "updated_at": "2026-06-04T16:24:16Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
