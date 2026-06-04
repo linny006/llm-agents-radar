@@ -1,5 +1,41 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-04T12:43:14Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Agent-native Python library + CLI to control MetaTrader 5 \u2014 uniform JSON envelopes, a safety-gated order surface, and an",
+    "id": "ehukaimedia/Metatrader5-CLI",
+    "language": "Python",
+    "name": "ehukaimedia/Metatrader5-CLI",
+    "stars": 1,
+    "updated_at": "2026-06-04T12:41:15Z",
+    "url": "https://github.com/ehukaimedia/Metatrader5-CLI"
+  },
+  {
+    "description": "OASiS \u2014 an open-source multi-physics and multi-code framework for verified computer simulations. Model Context Protocol ",
+    "id": "Hereon-InstituteMS/OASiS",
+    "language": "Python",
+    "name": "Hereon-InstituteMS/OASiS",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:38:16Z",
+    "url": "https://github.com/Hereon-InstituteMS/OASiS"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:31:13Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -40,18 +76,9 @@
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
     "name": "eggbrid2/mobileClaw",
-    "stars": 167,
+    "stars": 168,
     "updated_at": "2026-06-04T12:15:10Z",
     "url": "https://github.com/eggbrid2/mobileClaw"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-04T12:01:13Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4315,
-    "updated_at": "2026-06-04T12:00:16Z",
+    "updated_at": "2026-06-04T12:41:12Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-04T11:56:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -115,15 +133,6 @@
     "stars": 1582,
     "updated_at": "2026-06-04T12:01:12Z",
     "url": "https://github.com/stakpak/agent"
-  },
-  {
-    "description": "OASiS \u2014 an open-source multi-physics and multi-code framework for verified computer simulations. Model Context Protocol ",
-    "id": "Hereon-InstituteMS/OASiS",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/OASiS",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:40:04Z",
-    "url": "https://github.com/Hereon-InstituteMS/OASiS"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T10:41:52Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 464,
-    "updated_at": "2026-06-04T10:41:36Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
