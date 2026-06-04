@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-06-04T00:25:33Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-04T00:25:32Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-04T00:21:14Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-04T00:20:56Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-04T00:18:51Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 1,
+    "updated_at": "2026-06-04T00:17:51Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
+    "id": "azzan1235/agentic_rag_system",
+    "language": "Python",
+    "name": "azzan1235/agentic_rag_system",
+    "stars": 0,
+    "updated_at": "2026-06-04T00:17:42Z",
+    "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-06-04T00:16:57Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
     "id": "Saran1536/ComfyUI-LoaderUtils",
     "language": "Python",
@@ -306,15 +378,6 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-03T22:39:42Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-03T21:23:23Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:20:44Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-06-03T21:17:33Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:16:13Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 3,
-    "updated_at": "2026-06-03T21:15:33Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-06-03T21:15:19Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-06-03T21:14:56Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
-    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "language": "Python",
-    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "stars": 2,
-    "updated_at": "2026-06-03T21:14:08Z",
-    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
   }
 ]
