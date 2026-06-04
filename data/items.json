@@ -1,12 +1,12 @@
 [
   {
-    "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
-    "id": "ksgsslee/vulnhunt-agent",
+    "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
+    "id": "1001WillsStudio/AuroraCoder",
     "language": "Python",
-    "name": "ksgsslee/vulnhunt-agent",
-    "stars": 0,
-    "updated_at": "2026-06-04T06:20:49Z",
-    "url": "https://github.com/ksgsslee/vulnhunt-agent"
+    "name": "1001WillsStudio/AuroraCoder",
+    "stars": 11,
+    "updated_at": "2026-06-04T06:40:37Z",
+    "url": "https://github.com/1001WillsStudio/AuroraCoder"
   },
   {
     "description": "Glean \u00b7 \u672c\u5730\u4f18\u5148\u3001AI \u539f\u751f\u7684 macOS \u6587\u4ef6\u7ba1\u7406\u5668 | A local-first, AI-native macOS file manager",
@@ -14,8 +14,35 @@
     "language": "Rust",
     "name": "WalkAlone0325/glean",
     "stars": 1,
-    "updated_at": "2026-06-04T06:28:43Z",
+    "updated_at": "2026-06-04T06:37:16Z",
     "url": "https://github.com/WalkAlone0325/glean"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:35:44Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "A composite ai framework for agentic AI",
+    "id": "engkimo/open-morphic",
+    "language": "Python",
+    "name": "engkimo/open-morphic",
+    "stars": 7,
+    "updated_at": "2026-06-04T06:32:13Z",
+    "url": "https://github.com/engkimo/open-morphic"
+  },
+  {
+    "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
+    "id": "ksgsslee/vulnhunt-agent",
+    "language": "Python",
+    "name": "ksgsslee/vulnhunt-agent",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:20:49Z",
+    "url": "https://github.com/ksgsslee/vulnhunt-agent"
   },
   {
     "description": "",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T05:26:21Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:24:39Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:21:58Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-04T05:21:13Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
