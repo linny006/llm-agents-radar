@@ -1,5 +1,32 @@
 [
   {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-04T12:57:28Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. \ud83e\udd80",
+    "id": "stakpak/agent",
+    "language": "Rust",
+    "name": "stakpak/agent",
+    "stars": 1583,
+    "updated_at": "2026-06-04T12:55:52Z",
+    "url": "https://github.com/stakpak/agent"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with canonicalization, contradiction t",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 47,
+    "updated_at": "2026-06-04T12:53:23Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -41,7 +68,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 11,
-    "updated_at": "2026-06-04T12:29:23Z",
+    "updated_at": "2026-06-04T12:52:08Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -76,7 +103,7 @@
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
     "name": "eggbrid2/mobileClaw",
-    "stars": 168,
+    "stars": 169,
     "updated_at": "2026-06-04T12:15:10Z",
     "url": "https://github.com/eggbrid2/mobileClaw"
   },
@@ -124,15 +151,6 @@
     "stars": 40,
     "updated_at": "2026-06-04T11:47:03Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. \ud83e\udd80",
-    "id": "stakpak/agent",
-    "language": "Rust",
-    "name": "stakpak/agent",
-    "stars": 1582,
-    "updated_at": "2026-06-04T12:01:12Z",
-    "url": "https://github.com/stakpak/agent"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -259,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-06-04T11:04:33Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-04T11:02:31Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-04T10:42:22Z",
     "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-04T10:41:52Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
