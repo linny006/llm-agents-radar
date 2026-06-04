@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-04 02:45 UTC
+> ⏰ Last updated: 2026-06-04 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-06-04 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 5 | Python | 2026-06-04 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 3 | [mhgd3250905/ugk-claw-personal](https://github.com/mhgd3250905/ugk-claw-personal) | 2 | TypeScript | 2026-06-04 | 自托管 HTTP 编程 Agent 工作台：支持流式对话、持久会话、文件交付、后台任务和 Docker Chrome 真实浏览器访问。 |
-| 4 | [WalkAlone0325/glean](https://github.com/WalkAlone0325/glean) | 1 | Rust | 2026-06-04 | Glean · 本地优先、AI 原生的 macOS 文件管理器 \| A local-first, AI-native macOS file manager |
-| 5 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 12 | Python | 2026-06-04 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 6 | [unohee/kis-agent](https://github.com/unohee/kis-agent) | 19 | Python | 2026-06-04 | 한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent |
-| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4314 | Python | 2026-06-04 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 8 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 94 | TypeScript | 2026-06-04 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 5 | Python | 2026-06-04 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 2 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-06-04 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 3 | [unohee/kis-agent](https://github.com/unohee/kis-agent) | 19 | Python | 2026-06-04 | 한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent |
+| 4 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 94 | TypeScript | 2026-06-04 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 5 | [mhgd3250905/ugk-claw-personal](https://github.com/mhgd3250905/ugk-claw-personal) | 2 | TypeScript | 2026-06-04 | 自托管 HTTP 编程 Agent 工作台：支持流式对话、持久会话、文件交付、后台任务和 Docker Chrome 真实浏览器访问。 |
+| 6 | [WalkAlone0325/glean](https://github.com/WalkAlone0325/glean) | 1 | Rust | 2026-06-04 | Glean · 本地优先、AI 原生的 macOS 文件管理器 \| A local-first, AI-native macOS file manager |
+| 7 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 12 | Python | 2026-06-04 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 8 | [gptme/gptme](https://github.com/gptme/gptme) | 4314 | Python | 2026-06-04 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 10 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 2 | Python | 2026-06-04 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
 | 11 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-04 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |

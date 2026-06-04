@@ -1,21 +1,39 @@
 [
   {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-04T02:45:13Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 5,
-    "updated_at": "2026-06-04T02:39:59Z",
+    "updated_at": "2026-06-04T02:49:49Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-04T02:47:33Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 19,
+    "updated_at": "2026-06-04T02:46:16Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 94,
+    "updated_at": "2026-06-04T02:57:02Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
@@ -45,15 +63,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
-    "id": "unohee/kis-agent",
-    "language": "Python",
-    "name": "unohee/kis-agent",
-    "stars": 19,
-    "updated_at": "2026-06-04T02:44:06Z",
-    "url": "https://github.com/unohee/kis-agent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 4314,
     "updated_at": "2026-06-04T02:21:31Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 94,
-    "updated_at": "2026-06-04T02:40:58Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
