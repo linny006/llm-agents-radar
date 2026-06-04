@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:53:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "StockSage (Zeeechenn/stock-sage) - Agent-ready A\u80a1\u7814\u7a76\u5de5\u4f5c\u53f0\uff1a\u672c\u5730\u6570\u636e\u5e95\u5ea7\u3001\u591a\u6e90\u884c\u60c5\u65b0\u95fb\u3001\u6280\u672f/\u60c5\u611f/\u957f\u671f\u7814\u7a76\u3001\u7ec4\u5408\u98ce\u63a7\u4e0e\u53ef\u5ba1\u8ba1\u8bb0\u5fc6\uff0c\u5f53\u524d\u805a\u7126\u7eb8\u4e0a\u4ea4\u6613\u9a8c\u8bc1\u3002",
+    "id": "Zeeechenn/stock-sage",
+    "language": "Python",
+    "name": "Zeeechenn/stock-sage",
+    "stars": 3,
+    "updated_at": "2026-06-04T06:49:24Z",
+    "url": "https://github.com/Zeeechenn/stock-sage"
+  },
+  {
     "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
     "id": "1001WillsStudio/AuroraCoder",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "WalkAlone0325/glean",
     "stars": 1,
-    "updated_at": "2026-06-04T06:37:16Z",
+    "updated_at": "2026-06-04T06:59:34Z",
     "url": "https://github.com/WalkAlone0325/glean"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-06-04T06:12:54Z",
+    "updated_at": "2026-06-04T06:56:08Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T05:27:11Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:27:01Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Python",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-06-04T05:26:21Z",
-    "url": "https://github.com/grauwolf32/contractor"
   }
 ]
