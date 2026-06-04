@@ -1,11 +1,29 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-04T07:40:07Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-04T07:32:50Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 778,
-    "updated_at": "2026-06-04T07:24:00Z",
+    "updated_at": "2026-06-04T07:36:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -31,7 +49,7 @@
     "id": "1001WillsStudio/AuroraCoder",
     "language": "Python",
     "name": "1001WillsStudio/AuroraCoder",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-06-04T06:40:37Z",
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
   },
@@ -378,15 +396,6 @@
     "url": "https://github.com/juandavidru4641/dsplab"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:34:23Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
     "id": "willton-easy/gitlab-review-agent",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T05:28:26Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:28:26Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
