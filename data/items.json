@@ -1,11 +1,20 @@
 [
   {
+    "description": "Vulnerability Hunting Agent \u2014 LLM agent that reads code, writes a PoC, executes it in a Docker sandbox.",
+    "id": "ksgsslee/vulnhunt-agent",
+    "language": "Python",
+    "name": "ksgsslee/vulnhunt-agent",
+    "stars": 0,
+    "updated_at": "2026-06-04T06:20:49Z",
+    "url": "https://github.com/ksgsslee/vulnhunt-agent"
+  },
+  {
     "description": "Glean \u00b7 \u672c\u5730\u4f18\u5148\u3001AI \u539f\u751f\u7684 macOS \u6587\u4ef6\u7ba1\u7406\u5668 | A local-first, AI-native macOS file manager",
     "id": "WalkAlone0325/glean",
     "language": "Rust",
     "name": "WalkAlone0325/glean",
     "stars": 1,
-    "updated_at": "2026-06-04T06:12:38Z",
+    "updated_at": "2026-06-04T06:28:43Z",
     "url": "https://github.com/WalkAlone0325/glean"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4315,
-    "updated_at": "2026-06-04T06:00:53Z",
+    "updated_at": "2026-06-04T06:21:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T05:21:13Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-04T05:21:02Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
