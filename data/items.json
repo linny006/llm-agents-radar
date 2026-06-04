@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-04T18:58:21Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-04T18:53:35Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
+    "id": "Zhao961215/dikw-v3-universal-template",
+    "language": "Python",
+    "name": "Zhao961215/dikw-v3-universal-template",
+    "stars": 1,
+    "updated_at": "2026-06-04T18:50:13Z",
+    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-04T18:49:34Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-04T18:46:07Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -18,15 +63,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-04T18:41:17Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-06-04T18:39:25Z",
     "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "DIKW memory system v3 universal deployment template. 11-step information flow. Any Hermes Agent one-click deploy: 5 min ",
-    "id": "Zhao961215/dikw-v3-universal-template",
-    "language": "Python",
-    "name": "Zhao961215/dikw-v3-universal-template",
-    "stars": 1,
-    "updated_at": "2026-06-04T18:35:47Z",
-    "url": "https://github.com/Zhao961215/dikw-v3-universal-template"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4316,
-    "updated_at": "2026-06-04T18:34:32Z",
+    "updated_at": "2026-06-04T18:57:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 15,
-    "updated_at": "2026-06-04T18:16:18Z",
+    "updated_at": "2026-06-04T18:45:49Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 40,
     "updated_at": "2026-06-04T17:20:36Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-04T17:12:07Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-04T15:53:35Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-04T15:51:23Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 0,
-    "updated_at": "2026-06-04T15:50:41Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
