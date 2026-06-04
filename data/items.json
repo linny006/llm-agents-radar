@@ -1,5 +1,59 @@
 [
   {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-04T05:19:32Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Glean \u00b7 \u672c\u5730\u4f18\u5148\u3001AI \u539f\u751f\u7684 macOS \u6587\u4ef6\u7ba1\u7406\u5668 | A local-first, AI-native macOS file manager",
+    "id": "WalkAlone0325/glean",
+    "language": "Rust",
+    "name": "WalkAlone0325/glean",
+    "stars": 1,
+    "updated_at": "2026-06-04T05:18:40Z",
+    "url": "https://github.com/WalkAlone0325/glean"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-06-04T05:17:00Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-04T05:16:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 1,
+    "updated_at": "2026-06-04T05:16:30Z",
+    "url": "https://github.com/Sajal2702/agentbench"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-04T05:15:54Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
     "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
     "id": "ghosthunter8/AgentUI",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-06-04T04:54:20Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Glean \u00b7 \u672c\u5730\u4f18\u5148\u3001AI \u539f\u751f\u7684 macOS \u6587\u4ef6\u7ba1\u7406\u5668 | A local-first, AI-native macOS file manager",
-    "id": "WalkAlone0325/glean",
-    "language": "Rust",
-    "name": "WalkAlone0325/glean",
-    "stars": 1,
-    "updated_at": "2026-06-04T04:50:29Z",
-    "url": "https://github.com/WalkAlone0325/glean"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T03:51:20Z",
     "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with canonicalization, contradiction t",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 47,
-    "updated_at": "2026-06-04T03:49:40Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 2,
-    "updated_at": "2026-06-04T03:48:25Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:46:31Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
-    "id": "1001WillsStudio/AuroraCoder",
-    "language": "Python",
-    "name": "1001WillsStudio/AuroraCoder",
-    "stars": 11,
-    "updated_at": "2026-06-04T03:45:29Z",
-    "url": "https://github.com/1001WillsStudio/AuroraCoder"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-04T03:43:15Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
