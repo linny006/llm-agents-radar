@@ -1,11 +1,20 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 40,
+    "updated_at": "2026-06-04T16:24:16Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
     "name": "Yuan-ManX/SparkLabs",
     "stars": 6,
-    "updated_at": "2026-06-04T16:15:23Z",
+    "updated_at": "2026-06-04T16:21:38Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4315,
-    "updated_at": "2026-06-04T16:13:16Z",
+    "updated_at": "2026-06-04T16:27:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T15:48:59Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 40,
-    "updated_at": "2026-06-04T15:51:53Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
