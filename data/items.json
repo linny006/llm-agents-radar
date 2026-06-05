@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous closed-loop IoT visual monitoring: an LLM agent turns plain-English goals into capture schedules, sends them ",
+    "id": "WhitehatD/thesis-iot-monitoring",
+    "language": "C",
+    "name": "WhitehatD/thesis-iot-monitoring",
+    "stars": 5,
+    "updated_at": "2026-06-05T00:27:41Z",
+    "url": "https://github.com/WhitehatD/thesis-iot-monitoring"
+  },
+  {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
     "id": "karstom/simplegraph-agentic",
     "language": "Shell",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-06-04T23:16:48Z",
+    "updated_at": "2026-06-05T00:19:40Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:15:22Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-04T23:12:22Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
