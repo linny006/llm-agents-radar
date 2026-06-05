@@ -1,5 +1,14 @@
 [
   {
+    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
+    "id": "IdoCohen560/promptdb",
+    "language": "Python",
+    "name": "IdoCohen560/promptdb",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:03:10Z",
+    "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
     "id": "ZelinZhou-THU/stem-tutor-agent",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 4,
     "updated_at": "2026-06-05T18:57:32Z",
     "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
-  },
-  {
-    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
-    "id": "IdoCohen560/promptdb",
-    "language": "Python",
-    "name": "IdoCohen560/promptdb",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:54:53Z",
-    "url": "https://github.com/IdoCohen560/promptdb"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
