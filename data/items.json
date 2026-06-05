@@ -1,5 +1,23 @@
 [
   {
+    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
+    "id": "IdoCohen560/promptdb",
+    "language": "Python",
+    "name": "IdoCohen560/promptdb",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:42:13Z",
+    "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:37:39Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
     "id": "haoyiyin/basjoo",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 124,
     "updated_at": "2026-06-05T23:36:57Z",
     "url": "https://github.com/haoyiyin/basjoo"
-  },
-  {
-    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
-    "id": "IdoCohen560/promptdb",
-    "language": "Python",
-    "name": "IdoCohen560/promptdb",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:33:58Z",
-    "url": "https://github.com/IdoCohen560/promptdb"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -54,15 +63,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:16:58Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -88,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-05T22:51:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2576,
+    "updated_at": "2026-06-05T22:35:25Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T21:46:04Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-05T21:45:54Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
