@@ -5,8 +5,17 @@
     "language": "C",
     "name": "WhitehatD/thesis-iot-monitoring",
     "stars": 5,
-    "updated_at": "2026-06-05T00:27:41Z",
+    "updated_at": "2026-06-05T00:35:01Z",
     "url": "https://github.com/WhitehatD/thesis-iot-monitoring"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:32:15Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-04T23:25:11Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:24:41Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
