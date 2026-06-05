@@ -1,5 +1,59 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-05T10:59:43Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26220,
+    "updated_at": "2026-06-05T10:56:50Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-05T10:54:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "High-performance, Rust-based terminal coding agent that integrates with multiple LLM providers (cloud and local) to deli",
+    "id": "OmShah74/forge-osh",
+    "language": "Rust",
+    "name": "OmShah74/forge-osh",
+    "stars": 2,
+    "updated_at": "2026-06-05T10:54:03Z",
+    "url": "https://github.com/OmShah74/forge-osh"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 96,
+    "updated_at": "2026-06-05T10:51:28Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-05T10:50:13Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -9,21 +63,12 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 26219,
-    "updated_at": "2026-06-05T10:43:35Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
     "id": "synapseorch-ai/synapse-ai",
     "language": "Python",
     "name": "synapseorch-ai/synapse-ai",
     "stars": 223,
-    "updated_at": "2026-06-05T10:39:42Z",
+    "updated_at": "2026-06-05T10:45:56Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-06-05T10:38:19Z",
     "url": "https://github.com/BigtoC/scorpio-analyst"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 96,
-    "updated_at": "2026-06-05T10:38:06Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-06-05T10:21:01Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-05T10:20:10Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T09:56:24Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-05T09:56:21Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-05T09:55:12Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-05T09:51:56Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
