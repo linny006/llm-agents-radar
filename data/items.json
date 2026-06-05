@@ -1,5 +1,59 @@
 [
   {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:14:39Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
+    "id": "rudra496/worldsim-ai",
+    "language": "Python",
+    "name": "rudra496/worldsim-ai",
+    "stars": 4,
+    "updated_at": "2026-06-05T22:12:52Z",
+    "url": "https://github.com/rudra496/worldsim-ai"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:12:41Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:12:35Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:12:04Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-06-05T22:11:23Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T21:22:42Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4316,
-    "updated_at": "2026-06-05T21:59:59Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:20:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:19:37Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
-    "id": "Toywa/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "Toywa/awesome-pydantic-ai",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:18:38Z",
-    "url": "https://github.com/Toywa/awesome-pydantic-ai"
-  },
-  {
-    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
-    "id": "nalcapital/ComfyUI_RH_Univideo",
-    "language": "Python",
-    "name": "nalcapital/ComfyUI_RH_Univideo",
-    "stars": 1,
-    "updated_at": "2026-06-05T21:17:38Z",
-    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
-  },
-  {
-    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
-    "id": "huydeptraivaio/ComfyUI-NovaSR",
-    "language": "Python",
-    "name": "huydeptraivaio/ComfyUI-NovaSR",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:15:30Z",
-    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
   }
 ]
