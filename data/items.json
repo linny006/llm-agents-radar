@@ -1,5 +1,32 @@
 [
   {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 4,
+    "updated_at": "2026-06-05T18:57:32Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
+    "id": "IdoCohen560/promptdb",
+    "language": "Python",
+    "name": "IdoCohen560/promptdb",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:54:53Z",
+    "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:48:38Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T18:18:49Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
-    "id": "IdoCohen560/promptdb",
-    "language": "Python",
-    "name": "IdoCohen560/promptdb",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:15:09Z",
-    "url": "https://github.com/IdoCohen560/promptdb"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-05T18:42:28Z",
+    "updated_at": "2026-06-05T18:45:34Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:43:12Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:42:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:22:02Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:21:54Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
