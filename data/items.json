@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-05T09:00:07Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:57:41Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-05T08:54:32Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 96,
+    "updated_at": "2026-06-05T08:53:48Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-05T08:51:08Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12580,
+    "updated_at": "2026-06-05T08:49:59Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-05T08:47:25Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4316,
+    "updated_at": "2026-06-05T08:49:14Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
     "id": "BigtoC/scorpio-analyst",
     "language": "Rust",
@@ -36,15 +108,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-05T08:39:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -58,7 +121,7 @@
     "id": "haoyiyin/basjoo",
     "language": "Python",
     "name": "haoyiyin/basjoo",
-    "stars": 123,
+    "stars": 124,
     "updated_at": "2026-06-05T08:35:25Z",
     "url": "https://github.com/haoyiyin/basjoo"
   },
@@ -117,21 +180,12 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12580,
-    "updated_at": "2026-06-05T08:19:09Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2568,
-    "updated_at": "2026-06-05T08:17:44Z",
+    "updated_at": "2026-06-05T08:54:17Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T08:17:39Z",
     "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 96,
-    "updated_at": "2026-06-05T08:16:55Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "The Eternego codebase",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5079,
-    "updated_at": "2026-06-05T07:54:18Z",
+    "updated_at": "2026-06-05T08:51:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T07:24:43Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4316,
-    "updated_at": "2026-06-05T08:27:37Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T06:11:54Z",
     "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 3,
-    "updated_at": "2026-06-05T06:11:23Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-06-05T06:11:17Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-06-05T06:10:49Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "ICML 2026 \u00b7 Plug-and-play long-term memory for LLM agents",
-    "id": "TIMAN-group/PlugMem",
-    "language": "Python",
-    "name": "TIMAN-group/PlugMem",
-    "stars": 141,
-    "updated_at": "2026-06-05T06:10:06Z",
-    "url": "https://github.com/TIMAN-group/PlugMem"
   }
 ]
