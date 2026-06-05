@@ -1,5 +1,32 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-05T00:57:55Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "\u751f\u4ea7\u7ea7 3GPP 5G \u89c4\u8303 RAG Agent\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee\uff0c\u56de\u7b54\u5e26\u6bb5\u843d\u7ea7\u539f\u6587\u5f15\u7528 + \u4e25\u683c grounding\uff0c\u8986\u76d6 Rel-18/19 \u5168\u90e8 TS\u3002",
+    "id": "EpisodeYu/3GPP-Everything",
+    "language": "Python",
+    "name": "EpisodeYu/3GPP-Everything",
+    "stars": 4,
+    "updated_at": "2026-06-05T00:55:59Z",
+    "url": "https://github.com/EpisodeYu/3GPP-Everything"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-05T00:53:18Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Autonomous closed-loop IoT visual monitoring: an LLM agent turns plain-English goals into capture schedules, sends them ",
     "id": "WhitehatD/thesis-iot-monitoring",
     "language": "C",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-04T23:18:02Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-06-05T00:19:40Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:15:26Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-04T23:15:22Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
