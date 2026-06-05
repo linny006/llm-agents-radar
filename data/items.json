@@ -1,21 +1,12 @@
 [
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
+    "description": "",
+    "id": "agent-axiom/agent-arch",
     "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-05T18:27:06Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "MCP Server for SearXNG",
-    "id": "ihor-sokoliuk/mcp-searxng",
-    "language": "TypeScript",
-    "name": "ihor-sokoliuk/mcp-searxng",
-    "stars": 857,
-    "updated_at": "2026-06-05T18:21:54Z",
-    "url": "https://github.com/ihor-sokoliuk/mcp-searxng"
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-06-05T18:43:23Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -23,7 +14,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 16,
-    "updated_at": "2026-06-05T18:20:20Z",
+    "updated_at": "2026-06-05T18:41:19Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -32,8 +23,35 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 0,
-    "updated_at": "2026-06-05T18:19:19Z",
+    "updated_at": "2026-06-05T18:39:04Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-05T18:36:26Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "MCP Server for SearXNG",
+    "id": "ihor-sokoliuk/mcp-searxng",
+    "language": "TypeScript",
+    "name": "ihor-sokoliuk/mcp-searxng",
+    "stars": 857,
+    "updated_at": "2026-06-05T18:36:20Z",
+    "url": "https://github.com/ihor-sokoliuk/mcp-searxng"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-05T18:27:06Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-05T17:50:54Z",
+    "updated_at": "2026-06-05T18:42:28Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T17:35:46Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-05T17:35:06Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T17:21:54Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-05T17:20:24Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
