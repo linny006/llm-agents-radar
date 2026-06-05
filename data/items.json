@@ -1,12 +1,12 @@
 [
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
+    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
+    "id": "haoyiyin/basjoo",
     "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-05T23:29:27Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+    "name": "haoyiyin/basjoo",
+    "stars": 124,
+    "updated_at": "2026-06-05T23:36:57Z",
+    "url": "https://github.com/haoyiyin/basjoo"
   },
   {
     "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "IdoCohen560/promptdb",
     "stars": 0,
-    "updated_at": "2026-06-05T23:26:51Z",
+    "updated_at": "2026-06-05T23:33:58Z",
     "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:33:27Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:29:27Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T22:51:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:32:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T21:45:54Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-05T21:44:52Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
