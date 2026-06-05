@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
+    "id": "BigtoC/scorpio-analyst",
+    "language": "Rust",
+    "name": "BigtoC/scorpio-analyst",
+    "stars": 3,
+    "updated_at": "2026-06-05T08:44:10Z",
+    "url": "https://github.com/BigtoC/scorpio-analyst"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-05T08:41:39Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "First open-source A-MEM memory plugin for OpenClaw \u2014 Agentic memory with dynamic linking & evolution (NeurIPS 2025)",
+    "id": "heichaowo/openclaw-amem",
+    "language": "TypeScript",
+    "name": "heichaowo/openclaw-amem",
+    "stars": 0,
+    "updated_at": "2026-06-05T08:40:48Z",
+    "url": "https://github.com/heichaowo/openclaw-amem"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-05T08:39:39Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -90,6 +126,15 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2568,
+    "updated_at": "2026-06-05T08:17:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "",
     "id": "DAUS089/agentforge",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 96,
     "updated_at": "2026-06-05T08:16:55Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "First open-source A-MEM memory plugin for OpenClaw \u2014 Agentic memory with dynamic linking & evolution (NeurIPS 2025)",
-    "id": "heichaowo/openclaw-amem",
-    "language": "TypeScript",
-    "name": "heichaowo/openclaw-amem",
-    "stars": 0,
-    "updated_at": "2026-06-05T08:16:23Z",
-    "url": "https://github.com/heichaowo/openclaw-amem"
   },
   {
     "description": "The Eternego codebase",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T08:12:36Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-05T08:33:02Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -297,15 +324,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
-    "id": "BigtoC/scorpio-analyst",
-    "language": "Rust",
-    "name": "BigtoC/scorpio-analyst",
-    "stars": 3,
-    "updated_at": "2026-06-05T08:32:21Z",
-    "url": "https://github.com/BigtoC/scorpio-analyst"
-  },
-  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-06-05T06:54:38Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2567,
-    "updated_at": "2026-06-05T08:17:44Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -439,14 +448,5 @@
     "stars": 141,
     "updated_at": "2026-06-05T06:10:06Z",
     "url": "https://github.com/TIMAN-group/PlugMem"
-  },
-  {
-    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
-    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "language": "Python",
-    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "stars": 2,
-    "updated_at": "2026-06-05T06:09:58Z",
-    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
   }
 ]
