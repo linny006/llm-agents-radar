@@ -1,20 +1,11 @@
 [
   {
-    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
-    "id": "thinkwee/HiMe",
-    "language": "Python",
-    "name": "thinkwee/HiMe",
-    "stars": 38,
-    "updated_at": "2026-06-05T14:14:42Z",
-    "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-05T14:03:17Z",
+    "updated_at": "2026-06-05T14:28:41Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -23,8 +14,35 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 96,
-    "updated_at": "2026-06-05T14:02:07Z",
+    "updated_at": "2026-06-05T14:25:24Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12588,
+    "updated_at": "2026-06-05T14:21:22Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 2,
+    "updated_at": "2026-06-05T14:22:02Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
+    "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
+    "id": "thinkwee/HiMe",
+    "language": "Python",
+    "name": "thinkwee/HiMe",
+    "stars": 38,
+    "updated_at": "2026-06-05T14:14:42Z",
+    "url": "https://github.com/thinkwee/HiMe"
   },
   {
     "description": "The Eternego codebase",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-05T13:50:06Z",
+    "updated_at": "2026-06-05T14:30:05Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-05T12:56:32Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-05T12:56:16Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
-    "id": "1001WillsStudio/AuroraCoder",
-    "language": "Python",
-    "name": "1001WillsStudio/AuroraCoder",
-    "stars": 14,
-    "updated_at": "2026-06-05T12:55:45Z",
-    "url": "https://github.com/1001WillsStudio/AuroraCoder"
   }
 ]
