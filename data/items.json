@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "IdoCohen560/promptdb",
     "stars": 0,
-    "updated_at": "2026-06-05T19:03:10Z",
+    "updated_at": "2026-06-05T19:29:01Z",
     "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-05T19:26:21Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -43,15 +52,6 @@
     "stars": 16,
     "updated_at": "2026-06-05T18:41:19Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 0,
-    "updated_at": "2026-06-05T18:39:04Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
