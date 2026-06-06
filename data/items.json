@@ -1,5 +1,23 @@
 [
   {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Python",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-06-06T13:06:52Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "Git for running environments. Sandbox for LLM Agents with Checkpoint-native, VPC-first coding workspace.",
+    "id": "Billy1900/Arbor",
+    "language": "Rust",
+    "name": "Billy1900/Arbor",
+    "stars": 13,
+    "updated_at": "2026-06-06T13:05:58Z",
+    "url": "https://github.com/Billy1900/Arbor"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -247,7 +265,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12629,
+    "stars": 12630,
     "updated_at": "2026-06-06T11:51:31Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -427,26 +445,8 @@
     "id": "frissonitte/wbc-analyzer",
     "language": "Python",
     "name": "frissonitte/wbc-analyzer",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-06-06T11:30:57Z",
     "url": "https://github.com/frissonitte/wbc-analyzer"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:30:21Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:30:08Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
