@@ -1,5 +1,32 @@
 [
   {
+    "description": "Git for running environments. Sandbox for LLM Agents with Checkpoint-native, VPC-first coding workspace.",
+    "id": "Billy1900/Arbor",
+    "language": "Rust",
+    "name": "Billy1900/Arbor",
+    "stars": 13,
+    "updated_at": "2026-06-06T13:26:52Z",
+    "url": "https://github.com/Billy1900/Arbor"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 4,
+    "updated_at": "2026-06-06T13:25:11Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-06T13:19:45Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
     "id": "ZelinZhou-THU/stem-tutor-agent",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T13:06:52Z",
     "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "Git for running environments. Sandbox for LLM Agents with Checkpoint-native, VPC-first coding workspace.",
-    "id": "Billy1900/Arbor",
-    "language": "Rust",
-    "name": "Billy1900/Arbor",
-    "stars": 13,
-    "updated_at": "2026-06-06T13:05:58Z",
-    "url": "https://github.com/Billy1900/Arbor"
   },
   {
     "description": "",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T11:34:30Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:31:16Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:31:09Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
