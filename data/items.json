@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-06T12:39:20Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5086,
+    "updated_at": "2026-06-06T12:29:27Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "When two agents share state, one of them is usually reading a stale copy. agent-coherence makes that visible.",
     "id": "hipvlady/agent-coherence",
     "language": "Python",
@@ -229,7 +247,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12628,
+    "stars": 12629,
     "updated_at": "2026-06-06T11:51:31Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/willton-easy/gitlab-review-agent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-06T11:35:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
     "id": "Asim00740/Kagantic-vault-structure",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T11:30:08Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-06T11:35:08Z",
-    "url": "https://github.com/codex-mohan/spectra"
   }
 ]
