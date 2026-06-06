@@ -1,5 +1,14 @@
 [
   {
+    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph). 69.3% on Spider. Any model via OpenRouter, con",
+    "id": "IdoCohen560/promptdb",
+    "language": "Python",
+    "name": "IdoCohen560/promptdb",
+    "stars": 0,
+    "updated_at": "2026-06-06T05:38:16Z",
+    "url": "https://github.com/IdoCohen560/promptdb"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T04:44:27Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-06T04:44:27Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
