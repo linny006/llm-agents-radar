@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-native 3D satellite intelligence command center using public TLE/SGP4 data, validated LLM agent actions, mission brie",
+    "id": "jovfranco-tech/orbitiq",
+    "language": "TypeScript",
+    "name": "jovfranco-tech/orbitiq",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:58:16Z",
+    "url": "https://github.com/jovfranco-tech/orbitiq"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:58:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-06T20:55:25Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-06T20:29:35Z",
+    "updated_at": "2026-06-06T20:49:50Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-06-06T20:23:28Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-06T20:21:50Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "\u725b\u9a6c\u9884\u5907\u5f79 \u00b7 \u4e00\u526f\u4f1a\u300c\u4e3b\u52a8\u611f\u77e5\u300d\u5e76 PUA \u4f60\u7684 AI \u773c\u955c\uff1a\u6234\u4e0a Rokid \u773c\u955c\uff0c\u5b83\u4e3b\u52a8\u8bc6\u522b\u4f60\u6478\u9c7c/\u53d1\u5446/\u73a9\u624b\u673a\u5e76\u5148\u53d1\u5236\u4eba\u5730\u5632\u8bbd\u3001\u5927\u7fa4\u901a\u62a5\u3002\u706b\u5c71 RTC/TTS + Dify Agent + React App \u7684\u300c\u60c5\u7eea\u75ab\u82d7\u300d\u5f0f\u804c\u573a\u4f53",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-06T20:02:59Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-06T20:02:09Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-06T20:01:56Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
