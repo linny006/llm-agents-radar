@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-06-06T12:59:23Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -13,7 +22,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5086,
+    "stars": 5087,
     "updated_at": "2026-06-06T12:29:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "hipvlady/agent-coherence",
     "stars": 9,
-    "updated_at": "2026-06-06T12:29:52Z",
+    "updated_at": "2026-06-06T12:52:43Z",
     "url": "https://github.com/hipvlady/agent-coherence"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-06T11:59:53Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-06-06T11:59:02Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
