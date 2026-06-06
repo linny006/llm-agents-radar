@@ -1,11 +1,38 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:59:04Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:55:28Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-05T23:54:46Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph + MCP). 69.3% on Spider dev. Multi-provider, con",
     "id": "IdoCohen560/promptdb",
     "language": "Python",
     "name": "IdoCohen560/promptdb",
     "stars": 0,
-    "updated_at": "2026-06-05T23:42:13Z",
+    "updated_at": "2026-06-05T23:52:10Z",
     "url": "https://github.com/IdoCohen560/promptdb"
   },
   {
@@ -70,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-05T23:02:02Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:51:44Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-05T22:51:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-05T21:48:49Z",
     "url": "https://github.com/AnythingLinux/Odysseus-AI-Workspace-Setup"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-05T21:46:04Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
