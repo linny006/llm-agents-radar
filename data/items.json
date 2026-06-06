@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
+    "id": "huydeptraivaio/ComfyUI-NovaSR",
+    "language": "Python",
+    "name": "huydeptraivaio/ComfyUI-NovaSR",
+    "stars": 0,
+    "updated_at": "2026-06-06T08:09:14Z",
+    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-06T08:08:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-06-06T08:06:52Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-06-06T08:06:33Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-06T08:06:30Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-06T08:05:35Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-06-06T08:03:59Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-06T08:01:05Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-06T08:00:47Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T06:41:58Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-06T06:42:00Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 635,
-    "updated_at": "2026-06-06T06:32:40Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "\u81ea\u52a8\u5316\u4e13\u5229\u4fb5\u6743\u7ade\u54c1\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c1 \u5c0f\u65f6\u4ea7\u51fa\u5f8b\u5e08\u53ef\u590d\u6838\u7684 claim chart \u62a5\u544a\uff08\u9010\u7279\u5f81\u5bf9\u6bd4 + \u8bc1\u636eURL + \u4e0b\u4e00\u6b65\u5efa\u8bae\uff09\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent \u8c03\u7528\u3002",
-    "id": "yuc16/PatentRadar",
-    "language": "Python",
-    "name": "yuc16/PatentRadar",
-    "stars": 29,
-    "updated_at": "2026-06-06T06:26:49Z",
-    "url": "https://github.com/yuc16/PatentRadar"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:25:07Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:20:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-06T06:12:32Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 99,
-    "updated_at": "2026-06-06T07:06:51Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Ask your database in English \u2014 a read-only text-to-SQL agent (LangGraph). 69.3% on Spider. Any model via OpenRouter, con",
-    "id": "IdoCohen560/promptdb",
-    "language": "Python",
-    "name": "IdoCohen560/promptdb",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:38:16Z",
-    "url": "https://github.com/IdoCohen560/promptdb"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-06T05:25:08Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
