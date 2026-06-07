@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:29:56Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "AI-native 3D satellite intelligence command center using public TLE/SGP4 data, validated LLM agent actions, mission brie",
+    "id": "jovfranco-tech/orbitiq",
+    "language": "TypeScript",
+    "name": "jovfranco-tech/orbitiq",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:29:13Z",
+    "url": "https://github.com/jovfranco-tech/orbitiq"
+  },
+  {
+    "description": "\ud83d\uddfa\ufe0f Career trajectory exploration system \u2014 Framework that builds and assesses valid career paths through optimization, pl",
+    "id": "jery04/LLM-Pathway-Evaluator",
+    "language": "Python",
+    "name": "jery04/LLM-Pathway-Evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:21:09Z",
+    "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-07T03:20:35Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4319,
+    "updated_at": "2026-06-07T03:27:19Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "First open-source A-MEM memory plugin for OpenClaw \u2014 Agentic memory with dynamic linking & evolution (NeurIPS 2025)",
     "id": "heichaowo/openclaw-amem",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-07T02:29:17Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-07T02:29:12Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-07T02:28:31Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-07T02:28:01Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-07T02:25:38Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 1,
-    "updated_at": "2026-06-07T02:25:23Z",
-    "url": "https://github.com/Sajal2702/agentbench"
   }
 ]
