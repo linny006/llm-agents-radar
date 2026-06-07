@@ -1,5 +1,59 @@
 [
   {
+    "description": "Desktop IDE with built-in AI coding agents",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 57,
+    "updated_at": "2026-06-07T14:11:31Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
+    "description": "A constitutional framework for personal AI agents.",
+    "id": "tachyon-r/agent-constitution",
+    "language": "\u2014",
+    "name": "tachyon-r/agent-constitution",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:08:05Z",
+    "url": "https://github.com/tachyon-r/agent-constitution"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack or Telegram.",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 108,
+    "updated_at": "2026-06-07T14:06:13Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
+    "id": "omerbsezer/Fast-LLM-Agent-MCP",
+    "language": "Python",
+    "name": "omerbsezer/Fast-LLM-Agent-MCP",
+    "stars": 79,
+    "updated_at": "2026-06-07T14:02:52Z",
+    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:01:12Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-07T14:00:38Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -94,7 +148,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8222,
+    "stars": 8239,
     "updated_at": "2026-06-07T13:46:51Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T13:13:52Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:13:09Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-07T13:12:28Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:12:11Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-07T13:11:30Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-07T13:10:54Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:09:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
