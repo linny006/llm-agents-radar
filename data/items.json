@@ -1,11 +1,29 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-07T11:23:33Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2579,
+    "updated_at": "2026-06-07T11:21:30Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
     "id": "richer-richard/socratic-council",
     "language": "TypeScript",
     "name": "richer-richard/socratic-council",
     "stars": 6,
-    "updated_at": "2026-06-07T11:11:34Z",
+    "updated_at": "2026-06-07T11:20:10Z",
     "url": "https://github.com/richer-richard/socratic-council"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T10:43:10Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2579,
-    "updated_at": "2026-06-07T10:58:40Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T09:19:47Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:19:37Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
