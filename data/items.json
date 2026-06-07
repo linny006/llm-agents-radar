@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
+    "id": "mhgd3250905/ugk-claw-personal",
+    "language": "TypeScript",
+    "name": "mhgd3250905/ugk-claw-personal",
+    "stars": 2,
+    "updated_at": "2026-06-07T07:58:23Z",
+    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-07T07:58:10Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-07T07:55:04Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 4,
+    "updated_at": "2026-06-07T07:53:45Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-07T07:50:54Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-07T07:45:50Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "",
     "id": "DAUS089/agentforge",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5090,
-    "updated_at": "2026-06-07T07:09:00Z",
+    "updated_at": "2026-06-07T07:59:20Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -162,21 +216,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
-    "id": "mhgd3250905/ugk-claw-personal",
-    "language": "TypeScript",
-    "name": "mhgd3250905/ugk-claw-personal",
-    "stars": 2,
-    "updated_at": "2026-06-07T06:39:47Z",
-    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 17,
-    "updated_at": "2026-06-07T07:36:22Z",
+    "updated_at": "2026-06-07T07:57:06Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T05:36:58Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "\u725b\u9a6c\u9884\u5907\u5f79 \u00b7 \u4e00\u526f\u4f1a\u300c\u4e3b\u52a8\u611f\u77e5\u300d\u5e76 PUA \u4f60\u7684 AI \u773c\u955c\uff1a\u6234\u4e0a Rokid \u773c\u955c\uff0c\u5b83\u4e3b\u52a8\u8bc6\u522b\u4f60\u6478\u9c7c/\u53d1\u5446/\u73a9\u624b\u673a\u5e76\u5148\u53d1\u5236\u4eba\u5730\u5632\u8bbd\u3001\u5927\u7fa4\u901a\u62a5\u3002\u706b\u5c71 RTC/TTS + Dify Agent + React App \u7684\u300c\u60c5\u7eea\u75ab\u82d7\u300d\u5f0f\u804c\u573a\u4f53",
-    "id": "K-Drift/pua-simulator-glasses",
-    "language": "CSS",
-    "name": "K-Drift/pua-simulator-glasses",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:36:45Z",
-    "url": "https://github.com/K-Drift/pua-simulator-glasses"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:35:27Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:33:56Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:32:57Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:31:39Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
   }
 ]
