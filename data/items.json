@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "richer-richard/socratic-council",
     "stars": 6,
-    "updated_at": "2026-06-07T10:06:45Z",
+    "updated_at": "2026-06-07T10:29:31Z",
     "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2578,
+    "updated_at": "2026-06-07T10:24:38Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
@@ -124,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-06-07T09:49:22Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2578,
-    "updated_at": "2026-06-07T10:14:54Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
@@ -256,7 +256,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 105,
+    "stars": 106,
     "updated_at": "2026-06-07T09:38:15Z",
     "url": "https://github.com/ongridio/ongrid"
   },
