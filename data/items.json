@@ -1,5 +1,23 @@
 [
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 17,
+    "updated_at": "2026-06-07T17:28:58Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-07T17:27:59Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
     "description": "A fast and minimal agent library for typescript and rust",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -193,7 +211,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 109,
+    "stars": 110,
     "updated_at": "2026-06-07T16:49:01Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/juandavidru4641/dsplab"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-07T16:28:29Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
     "id": "willton-easy/gitlab-review-agent",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T16:20:54Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-07T16:18:51Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
