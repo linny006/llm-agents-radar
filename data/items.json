@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-07T12:15:05Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-07T12:09:35Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-07T12:07:39Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-07T12:07:33Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 3,
+    "updated_at": "2026-06-07T12:05:52Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-07T12:01:47Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
     "id": "pachipalabharath/bb-applescript-mcp-server",
     "language": "TypeScript",
@@ -63,15 +117,6 @@
     "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
   },
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-07T11:43:13Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
     "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
     "id": "kimmmmyy223/llm-batch",
     "language": "Go",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-06-07T11:38:57Z",
     "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-07T11:38:49Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T09:41:06Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:39:57Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack or Telegram.",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 108,
-    "updated_at": "2026-06-07T09:38:15Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:35:03Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-07T09:33:24Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
