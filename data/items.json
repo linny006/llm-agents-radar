@@ -1,12 +1,30 @@
 [
   {
-    "description": "Palimpsest is an LLM-assisted semantic code enhancement framework that bridges Ghidra decompilation and CodeQL database ",
-    "id": "JINGQINLIN/Palimpsest",
-    "language": "Python",
-    "name": "JINGQINLIN/Palimpsest",
-    "stars": 2,
-    "updated_at": "2026-06-07T06:12:34Z",
-    "url": "https://github.com/JINGQINLIN/Palimpsest"
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "TypeScript",
+    "name": "richer-richard/socratic-council",
+    "stars": 6,
+    "updated_at": "2026-06-07T06:26:30Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-07T06:23:54Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 201,
+    "updated_at": "2026-06-07T06:23:07Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 0,
-    "updated_at": "2026-06-07T06:11:45Z",
+    "updated_at": "2026-06-07T06:18:07Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Palimpsest is an LLM-assisted semantic code enhancement framework that bridges Ghidra decompilation and CodeQL database ",
+    "id": "JINGQINLIN/Palimpsest",
+    "language": "Python",
+    "name": "JINGQINLIN/Palimpsest",
+    "stars": 2,
+    "updated_at": "2026-06-07T06:12:34Z",
+    "url": "https://github.com/JINGQINLIN/Palimpsest"
   },
   {
     "description": "An LLM agent for building OpenAPI specifications based on the given code",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T05:18:28Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-07T05:16:32Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 4,
-    "updated_at": "2026-06-07T05:15:28Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-07T05:14:22Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
