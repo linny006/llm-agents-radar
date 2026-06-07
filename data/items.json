@@ -1,5 +1,14 @@
 [
   {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-07T00:31:32Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4318,
-    "updated_at": "2026-06-06T23:41:27Z",
+    "updated_at": "2026-06-07T00:37:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T23:21:10Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-06T23:21:04Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
