@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-07T10:51:31Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2579,
-    "updated_at": "2026-06-07T10:40:02Z",
+    "updated_at": "2026-06-07T10:58:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -274,7 +283,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 106,
+    "stars": 107,
     "updated_at": "2026-06-07T09:38:15Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T09:18:21Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-07T09:15:00Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
