@@ -1,5 +1,158 @@
 [
   {
+    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
+    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "language": "Python",
+    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "stars": 3,
+    "updated_at": "2026-06-07T05:30:09Z",
+    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:29:56Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:29:26Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
+    "id": "isratmim643-ux/VencordAutoPatcher",
+    "language": "C#",
+    "name": "isratmim643-ux/VencordAutoPatcher",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:29:11Z",
+    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 17,
+    "updated_at": "2026-06-07T05:28:35Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "\u725b\u9a6c\u9884\u5907\u5f79 \u00b7 \u4e00\u526f\u4f1a\u300c\u4e3b\u52a8\u611f\u77e5\u300d\u5e76 PUA \u4f60\u7684 AI \u773c\u955c\uff1a\u6234\u4e0a Rokid \u773c\u955c\uff0c\u5b83\u4e3b\u52a8\u8bc6\u522b\u4f60\u6478\u9c7c/\u53d1\u5446/\u73a9\u624b\u673a\u5e76\u5148\u53d1\u5236\u4eba\u5730\u5632\u8bbd\u3001\u5927\u7fa4\u901a\u62a5\u3002\u706b\u5c71 RTC/TTS + Dify Agent + React App \u7684\u300c\u60c5\u7eea\u75ab\u82d7\u300d\u5f0f\u804c\u573a\u4f53",
+    "id": "K-Drift/pua-simulator-glasses",
+    "language": "CSS",
+    "name": "K-Drift/pua-simulator-glasses",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:27:42Z",
+    "url": "https://github.com/K-Drift/pua-simulator-glasses"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:25:04Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
+    "id": "willton-easy/gitlab-review-agent",
+    "language": "Go",
+    "name": "willton-easy/gitlab-review-agent",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:24:41Z",
+    "url": "https://github.com/willton-easy/gitlab-review-agent"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:23:54Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:23:47Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:22:42Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
+    "id": "Bifcen/Pocket-Pad",
+    "language": "\u2014",
+    "name": "Bifcen/Pocket-Pad",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:19:44Z",
+    "url": "https://github.com/Bifcen/Pocket-Pad"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:19:33Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:18:47Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-07T05:18:28Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-06-07T05:16:32Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 4,
+    "updated_at": "2026-06-07T05:15:28Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
     "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
     "id": "Giahyu943/AutoSage",
     "language": "Swift",
@@ -52,15 +205,6 @@
     "stars": 6136,
     "updated_at": "2026-06-07T05:11:36Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 17,
-    "updated_at": "2026-06-07T05:10:23Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
@@ -304,149 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-07T04:36:33Z",
     "url": "https://github.com/villcaf175/PocketFlow-Zig"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:35:59Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 1,
-    "updated_at": "2026-06-07T04:35:29Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-06-07T04:34:02Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
-    "id": "adityasingh0z3/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "adityasingh0z3/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:32:21Z",
-    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
-    "id": "pchi123/Paper2Slides",
-    "language": "Python",
-    "name": "pchi123/Paper2Slides",
-    "stars": 3,
-    "updated_at": "2026-06-07T04:31:49Z",
-    "url": "https://github.com/pchi123/Paper2Slides"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
-    "id": "sumit7235/Domfie",
-    "language": "Jupyter Notebook",
-    "name": "sumit7235/Domfie",
-    "stars": 1,
-    "updated_at": "2026-06-07T04:31:21Z",
-    "url": "https://github.com/sumit7235/Domfie"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:31:10Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:28:54Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "",
-    "id": "Ali-Shady/claude-agent-desktop",
-    "language": "TypeScript",
-    "name": "Ali-Shady/claude-agent-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-07T04:22:49Z",
-    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4319,
-    "updated_at": "2026-06-07T04:21:37Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-06-07T04:19:33Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-06-07T04:12:16Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "birken-embalmment848/agent-lightning",
-    "language": "Python",
-    "name": "birken-embalmment848/agent-lightning",
-    "stars": 3,
-    "updated_at": "2026-06-07T04:10:26Z",
-    "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-07T04:06:25Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-06-07T04:06:19Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5259,
-    "updated_at": "2026-06-07T04:04:15Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
