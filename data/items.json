@@ -1,5 +1,158 @@
 [
   {
+    "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
+    "id": "shouzhuoshouzhuo/FloatTrip",
+    "language": "Python",
+    "name": "shouzhuoshouzhuo/FloatTrip",
+    "stars": 17,
+    "updated_at": "2026-06-07T15:44:37Z",
+    "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-07T15:43:29Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:43:07Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-06-07T15:41:45Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:41:42Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2580,
+    "updated_at": "2026-06-07T15:40:57Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-07T15:38:28Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:36:12Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-07T15:35:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:35:21Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
+    "id": "azzan1235/agentic_rag_system",
+    "language": "Python",
+    "name": "azzan1235/agentic_rag_system",
+    "stars": 0,
+    "updated_at": "2026-06-07T15:34:59Z",
+    "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). No vector DB, Claude-native e",
+    "id": "Kengston/personal-llm-wiki",
+    "language": "Python",
+    "name": "Kengston/personal-llm-wiki",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:34:53Z",
+    "url": "https://github.com/Kengston/personal-llm-wiki"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:34:12Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:32:47Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
+    "id": "adityasingh0z3/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "adityasingh0z3/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-07T15:31:09Z",
+    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
+    "id": "pchi123/Paper2Slides",
+    "language": "Python",
+    "name": "pchi123/Paper2Slides",
+    "stars": 3,
+    "updated_at": "2026-06-07T15:30:35Z",
+    "url": "https://github.com/pchi123/Paper2Slides"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
+    "id": "sumit7235/Domfie",
+    "language": "Jupyter Notebook",
+    "name": "sumit7235/Domfie",
+    "stars": 1,
+    "updated_at": "2026-06-07T15:30:23Z",
+    "url": "https://github.com/sumit7235/Domfie"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -216,15 +369,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:42:20Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
     "id": "ElfER020/DeepCode",
     "language": "Python",
@@ -304,149 +448,5 @@
     "stars": 29,
     "updated_at": "2026-06-07T14:33:20Z",
     "url": "https://github.com/yuc16/PatentRadar"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8239,
-    "updated_at": "2026-06-07T14:22:13Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
-    "id": "XederaBills/llm-powered-data-analysis",
-    "language": "Python",
-    "name": "XederaBills/llm-powered-data-analysis",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:21:11Z",
-    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
-    "id": "ZelinZhou-THU/stem-tutor-agent",
-    "language": "Python",
-    "name": "ZelinZhou-THU/stem-tutor-agent",
-    "stars": 4,
-    "updated_at": "2026-06-07T14:20:24Z",
-    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2579,
-    "updated_at": "2026-06-07T15:29:59Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-06-07T14:15:46Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Desktop IDE with built-in AI coding agents",
-    "id": "Paseru/sinew",
-    "language": "Rust",
-    "name": "Paseru/sinew",
-    "stars": 57,
-    "updated_at": "2026-06-07T14:11:31Z",
-    "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack or Telegram.",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 109,
-    "updated_at": "2026-06-07T14:06:13Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
-    "id": "omerbsezer/Fast-LLM-Agent-MCP",
-    "language": "Python",
-    "name": "omerbsezer/Fast-LLM-Agent-MCP",
-    "stars": 79,
-    "updated_at": "2026-06-07T14:02:52Z",
-    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:01:12Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-07T14:00:38Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:56:34Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:56:33Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:54:05Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-06-07T13:51:35Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
-    "id": "sacid446/unclaw",
-    "language": "Shell",
-    "name": "sacid446/unclaw",
-    "stars": 0,
-    "updated_at": "2026-06-07T13:50:30Z",
-    "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 3,
-    "updated_at": "2026-06-07T13:49:58Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
