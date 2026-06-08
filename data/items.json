@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "eugnmueller-87/SCM-Master",
     "stars": 0,
-    "updated_at": "2026-06-08T14:22:46Z",
+    "updated_at": "2026-06-08T14:43:07Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:29:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -302,7 +311,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-08T14:30:21Z",
+    "updated_at": "2026-06-08T14:32:19Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 233,
     "updated_at": "2026-06-08T13:25:28Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:23:26Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   }
 ]
