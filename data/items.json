@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-08T06:34:50Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
@@ -23,7 +32,7 @@
     "language": "Go",
     "name": "brittonhayes/vala",
     "stars": 1,
-    "updated_at": "2026-06-08T06:24:32Z",
+    "updated_at": "2026-06-08T06:40:30Z",
     "url": "https://github.com/brittonhayes/vala"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:30:40Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:30:02Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
