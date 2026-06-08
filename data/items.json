@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-08T08:00:10Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5265,
+    "updated_at": "2026-06-08T08:14:59Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 108,
+    "updated_at": "2026-06-08T08:10:56Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "eugnmueller-87/SCM-Master",
     "stars": 0,
-    "updated_at": "2026-06-08T07:57:21Z",
+    "updated_at": "2026-06-08T08:02:56Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:00:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -90,20 +108,11 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 108,
-    "updated_at": "2026-06-08T07:26:18Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 150,
+    "stars": 151,
     "updated_at": "2026-06-08T06:51:34Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -121,7 +130,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2585,
+    "stars": 2586,
     "updated_at": "2026-06-08T06:48:11Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T05:41:18Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:40:21Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
