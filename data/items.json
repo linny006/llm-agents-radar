@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-08T08:00:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
+    "language": "Python",
+    "name": "eugnmueller-87/SCM-Master",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:57:21Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1493,
+    "updated_at": "2026-06-08T07:51:18Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -16,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-06-08T07:33:05Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-06-08T07:22:10Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
   },
   {
     "description": "The Eternego codebase",
@@ -49,7 +67,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12671,
+    "stars": 12672,
     "updated_at": "2026-06-08T07:05:58Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:45:07Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T05:40:21Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-08T05:37:14Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
