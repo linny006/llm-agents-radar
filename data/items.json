@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-08T12:12:06Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Awesome papers involving LLMs in Social Science.",
+    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "language": "\u2014",
+    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "stars": 625,
+    "updated_at": "2026-06-08T12:11:59Z",
+    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-08T12:09:08Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-08T12:06:12Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-08T12:03:48Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-08T12:01:53Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-08T12:01:44Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Desktop IDE with built-in AI coding agents",
     "id": "Paseru/sinew",
     "language": "Rust",
     "name": "Paseru/sinew",
     "stars": 57,
-    "updated_at": "2026-06-08T11:59:10Z",
+    "updated_at": "2026-06-08T12:00:30Z",
     "url": "https://github.com/Paseru/sinew"
   },
   {
@@ -18,6 +81,15 @@
     "url": "https://github.com/DAUS089/agentforge"
   },
   {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 232,
+    "updated_at": "2026-06-08T11:56:22Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
     "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
     "id": "ElfER020/DeepCode",
     "language": "Python",
@@ -25,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-08T11:54:17Z",
     "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 231,
-    "updated_at": "2026-06-08T11:56:22Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
     "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-08T11:49:57Z",
+    "updated_at": "2026-06-08T12:13:09Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -126,21 +189,12 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-08T11:38:22Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4320,
-    "updated_at": "2026-06-08T11:40:19Z",
+    "updated_at": "2026-06-08T12:11:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -171,15 +225,6 @@
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
-    "description": "Awesome papers involving LLMs in Social Science.",
-    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "language": "\u2014",
-    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "stars": 625,
-    "updated_at": "2026-06-08T11:29:19Z",
-    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
-  },
-  {
     "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
     "id": "dzianisv/opencode-plugins",
     "language": "TypeScript",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5266,
-    "updated_at": "2026-06-08T11:38:45Z",
+    "updated_at": "2026-06-08T12:08:04Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-08T10:51:27Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-08T10:50:28Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-08T10:49:10Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:48:40Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-06-08T10:48:31Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Your personal Multi-Agent portfolio manager and financial analyst team",
-    "id": "BigtoC/scorpio-analyst",
-    "language": "Rust",
-    "name": "BigtoC/scorpio-analyst",
-    "stars": 3,
-    "updated_at": "2026-06-08T10:48:23Z",
-    "url": "https://github.com/BigtoC/scorpio-analyst"
   }
 ]
