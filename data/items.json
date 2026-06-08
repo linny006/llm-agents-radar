@@ -1,5 +1,41 @@
 [
   {
+    "description": "Desktop IDE with built-in AI coding agents",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 57,
+    "updated_at": "2026-06-08T14:53:23Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-08T14:53:13Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2592,
+    "updated_at": "2026-06-08T14:52:12Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-08T14:44:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
     "id": "eugnmueller-87/SCM-Master",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T13:28:19Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:27:25Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-08T13:27:13Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-08T13:25:04Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 233,
-    "updated_at": "2026-06-08T13:25:28Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
   }
 ]
