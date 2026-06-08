@@ -1,11 +1,20 @@
 [
   {
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
+    "language": "Python",
+    "name": "eugnmueller-87/SCM-Master",
+    "stars": 0,
+    "updated_at": "2026-06-08T07:22:10Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
     "description": "The Eternego codebase",
     "id": "Eternego-AI/eternego",
     "language": "Python",
     "name": "Eternego-AI/eternego",
     "stars": 12,
-    "updated_at": "2026-06-08T07:15:17Z",
+    "updated_at": "2026-06-08T07:19:31Z",
     "url": "https://github.com/Eternego-AI/eternego"
   },
   {
@@ -22,7 +31,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12669,
+    "stars": 12670,
     "updated_at": "2026-06-08T07:05:58Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -31,7 +40,7 @@
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
     "name": "eggbrid2/mobileClaw",
-    "stars": 229,
+    "stars": 230,
     "updated_at": "2026-06-08T06:59:23Z",
     "url": "https://github.com/eggbrid2/mobileClaw"
   },
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 108,
-    "updated_at": "2026-06-08T06:53:44Z",
+    "updated_at": "2026-06-08T07:26:18Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -58,7 +67,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 144,
+    "stars": 147,
     "updated_at": "2026-06-08T06:51:34Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -76,7 +85,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2584,
+    "stars": 2585,
     "updated_at": "2026-06-08T06:48:11Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-08T05:36:37Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-08T05:36:11Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
