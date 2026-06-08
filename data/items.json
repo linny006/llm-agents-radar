@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent-ready, open-source website build system for local service businesses. Turn a structured brief into a complete, SEO",
+    "id": "sydneyvb-nl/pagekit-agent",
+    "language": "TypeScript",
+    "name": "sydneyvb-nl/pagekit-agent",
+    "stars": 1,
+    "updated_at": "2026-06-08T21:19:42Z",
+    "url": "https://github.com/sydneyvb-nl/pagekit-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:17:29Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Local Gemma 4 12B trading supervisor for MetaTrader 5 on Windows + NVIDIA. Monitor-only by default, with a deterministic",
     "id": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4321,
-    "updated_at": "2026-06-08T21:14:59Z",
+    "updated_at": "2026-06-08T21:18:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T20:24:28Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-08T20:22:13Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:19:45Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
