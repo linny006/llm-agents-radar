@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous ML engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
+    "id": "Praneeth16/databricks-ai-intern",
+    "language": "Python",
+    "name": "Praneeth16/databricks-ai-intern",
+    "stars": 0,
+    "updated_at": "2026-06-08T21:27:31Z",
+    "url": "https://github.com/Praneeth16/databricks-ai-intern"
+  },
+  {
     "description": "Agent-ready, open-source website build system for local service businesses. Turn a structured brief into a complete, SEO",
     "id": "sydneyvb-nl/pagekit-agent",
     "language": "TypeScript",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-08T21:00:18Z",
+    "updated_at": "2026-06-08T21:27:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-08T20:24:44Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-08T20:24:28Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
