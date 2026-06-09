@@ -1,21 +1,111 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4321,
+    "updated_at": "2026-06-09T13:52:50Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous ML engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
+    "id": "Praneeth16/databricks-ai-intern",
+    "language": "Python",
+    "name": "Praneeth16/databricks-ai-intern",
+    "stars": 0,
+    "updated_at": "2026-06-09T13:50:51Z",
+    "url": "https://github.com/Praneeth16/databricks-ai-intern"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-09T13:50:46Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-09T13:48:26Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-09T13:48:10Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-06-09T13:46:36Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-09T13:46:25Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ExistenceLocustPanel/ongrid-app",
-    "language": "\u2014",
+    "language": "Makefile",
     "name": "ExistenceLocustPanel/ongrid-app",
     "stars": 0,
     "updated_at": "2026-06-09T13:43:05Z",
     "url": "https://github.com/ExistenceLocustPanel/ongrid-app"
   },
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-09T13:42:36Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-09T13:40:00Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "AccountantVision/ongrid-free",
-    "language": "\u2014",
+    "language": "Makefile",
     "name": "AccountantVision/ongrid-free",
     "stars": 0,
     "updated_at": "2026-06-09T13:39:33Z",
     "url": "https://github.com/AccountantVision/ongrid-free"
+  },
+  {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 1,
+    "updated_at": "2026-06-09T13:39:02Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
   },
   {
     "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
@@ -25,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-09T13:38:39Z",
     "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-06-09T13:37:44Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -72,15 +171,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4321,
-    "updated_at": "2026-06-09T13:41:46Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -94,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26579,
+    "stars": 26580,
     "updated_at": "2026-06-09T13:26:50Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -104,7 +194,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-09T13:25:46Z",
+    "updated_at": "2026-06-09T13:53:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T13:19:43Z",
     "url": "https://github.com/ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit"
-  },
-  {
-    "description": "Autonomous ML engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
-    "id": "Praneeth16/databricks-ai-intern",
-    "language": "Python",
-    "name": "Praneeth16/databricks-ai-intern",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:17:11Z",
-    "url": "https://github.com/Praneeth16/databricks-ai-intern"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -234,21 +315,12 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-09T12:54:57Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 17,
-    "updated_at": "2026-06-09T12:59:10Z",
+    "updated_at": "2026-06-09T13:59:37Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T12:23:02Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5278,
-    "updated_at": "2026-06-09T13:10:02Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-09T12:17:32Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 186,
-    "updated_at": "2026-06-09T12:39:37Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
-    "id": "Kengston/personal-llm-wiki",
-    "language": "TypeScript",
-    "name": "Kengston/personal-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-06-09T12:12:16Z",
-    "url": "https://github.com/Kengston/personal-llm-wiki"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:56:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2602,
-    "updated_at": "2026-06-09T11:37:46Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-09T11:28:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8339,
-    "updated_at": "2026-06-09T11:14:56Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
