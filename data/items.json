@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:59:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
+    "id": "brittonhayes/vala",
+    "language": "Go",
+    "name": "brittonhayes/vala",
+    "stars": 1,
+    "updated_at": "2026-06-09T04:53:16Z",
+    "url": "https://github.com/brittonhayes/vala"
+  },
+  {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
     "id": "Maximooch/penguin",
     "language": "Python",
@@ -13,7 +31,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 170,
+    "stars": 171,
     "updated_at": "2026-06-09T04:29:29Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T04:17:41Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
-    "id": "brittonhayes/vala",
-    "language": "Go",
-    "name": "brittonhayes/vala",
-    "stars": 1,
-    "updated_at": "2026-06-09T04:44:02Z",
-    "url": "https://github.com/brittonhayes/vala"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T03:06:57Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-09T03:06:51Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
