@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local Gemma 4 12B trading supervisor for MetaTrader 5 on Windows + NVIDIA. Monitor-only by default, with a deterministic",
+    "id": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
+    "language": "Python",
+    "name": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-06-09T20:29:28Z",
+    "url": "https://github.com/ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T18:25:17Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:25:00Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
