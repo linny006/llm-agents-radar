@@ -1,11 +1,92 @@
 [
   {
+    "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
+    "id": "Praneeth16/databricks-ai-intern",
+    "language": "Python",
+    "name": "Praneeth16/databricks-ai-intern",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:43:53Z",
+    "url": "https://github.com/Praneeth16/databricks-ai-intern"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-09T14:35:39Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
+    "id": "Bifcen/Pocket-Pad",
+    "language": "\u2014",
+    "name": "Bifcen/Pocket-Pad",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:30:31Z",
+    "url": "https://github.com/Bifcen/Pocket-Pad"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:29:14Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:26:20Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
+    "id": "Giahyu943/AutoSage",
+    "language": "Swift",
+    "name": "Giahyu943/AutoSage",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:23:26Z",
+    "url": "https://github.com/Giahyu943/AutoSage"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-09T14:22:19Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:21:24Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-09T14:20:45Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-09T14:19:37Z",
+    "updated_at": "2026-06-09T14:44:08Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "brittonhayes/vala",
     "stars": 1,
-    "updated_at": "2026-06-09T14:24:29Z",
+    "updated_at": "2026-06-09T14:44:32Z",
     "url": "https://github.com/brittonhayes/vala"
   },
   {
@@ -25,6 +106,15 @@
     "stars": 2,
     "updated_at": "2026-06-09T14:17:34Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 1,
+    "updated_at": "2026-06-09T14:17:10Z",
+    "url": "https://github.com/Sajal2702/agentbench"
   },
   {
     "description": "",
@@ -176,17 +266,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4320,
-    "updated_at": "2026-06-09T13:52:50Z",
+    "updated_at": "2026-06-09T14:35:39Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Autonomous ML engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
-    "id": "Praneeth16/databricks-ai-intern",
-    "language": "Python",
-    "name": "Praneeth16/databricks-ai-intern",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:50:51Z",
-    "url": "https://github.com/Praneeth16/databricks-ai-intern"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T13:24:12Z",
     "url": "https://github.com/Ali-Shady/claude-agent-desktop"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-06-09T13:20:24Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Local Gemma 4 12B trading supervisor for MetaTrader 5 on Windows + NVIDIA. Monitor-only by default, with a deterministic",
-    "id": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
-    "language": "Python",
-    "name": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:19:43Z",
-    "url": "https://github.com/ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:15:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Desktop IDE with built-in AI coding agents",
-    "id": "Paseru/sinew",
-    "language": "Rust",
-    "name": "Paseru/sinew",
-    "stars": 57,
-    "updated_at": "2026-06-09T13:13:03Z",
-    "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-06-09T13:12:25Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "birken-embalmment848/agent-lightning",
-    "language": "Python",
-    "name": "birken-embalmment848/agent-lightning",
-    "stars": 3,
-    "updated_at": "2026-06-09T13:10:35Z",
-    "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:06:24Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
-    "id": "pachipalabharath/bb-applescript-mcp-server",
-    "language": "TypeScript",
-    "name": "pachipalabharath/bb-applescript-mcp-server",
-    "stars": 3,
-    "updated_at": "2026-06-09T13:03:22Z",
-    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-06-09T13:25:25Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
   }
 ]
