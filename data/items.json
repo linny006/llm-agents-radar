@@ -1,5 +1,32 @@
 [
   {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:39:51Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-09T19:36:37Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4035,
+    "updated_at": "2026-06-09T19:31:13Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "A threat hunter that lives in your terminal with memories in Notion.",
     "id": "brittonhayes/vala",
     "language": "Go",
@@ -216,15 +243,6 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-09T18:40:28Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T18:14:10Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
-    "id": "1850298154/memory_agent_hub",
-    "language": "Python",
-    "name": "1850298154/memory_agent_hub",
-    "stars": 56,
-    "updated_at": "2026-06-09T18:13:35Z",
-    "url": "https://github.com/1850298154/memory_agent_hub"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-09T18:10:53Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
