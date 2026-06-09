@@ -1,11 +1,29 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-09T08:08:21Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-09T08:04:33Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-09T07:57:13Z",
+    "updated_at": "2026-06-09T08:03:40Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "eugnmueller-87/SCM-Master",
     "stars": 0,
-    "updated_at": "2026-06-09T07:51:54Z",
+    "updated_at": "2026-06-09T08:11:12Z",
     "url": "https://github.com/eugnmueller-87/SCM-Master"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-09T07:51:27Z",
+    "updated_at": "2026-06-09T08:10:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -144,12 +162,21 @@
     "url": "https://github.com/heichaowo/openclaw-amem"
   },
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 119,
+    "updated_at": "2026-06-09T07:36:49Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2599,
-    "updated_at": "2026-06-09T07:38:11Z",
+    "updated_at": "2026-06-09T08:14:12Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -166,7 +193,7 @@
     "id": "Bastioned-successor320/learn-nanobot",
     "language": "Python",
     "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-09T07:35:34Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
@@ -265,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26551,
+    "stars": 26553,
     "updated_at": "2026-06-09T07:24:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T07:09:06Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-09T07:08:25Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-09T07:08:15Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-09T07:08:08Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
