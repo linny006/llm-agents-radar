@@ -18,6 +18,15 @@
     "url": "https://github.com/qiyueqiu/ORACLE"
   },
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-09T16:10:04Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "",
     "id": "DAUS089/agentforge",
     "language": "Python",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "jovfranco-tech/orbitiq",
     "stars": 0,
-    "updated_at": "2026-06-09T15:41:19Z",
+    "updated_at": "2026-06-09T16:18:19Z",
     "url": "https://github.com/jovfranco-tech/orbitiq"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T14:44:15Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:43:45Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
   }
 ]
