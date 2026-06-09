@@ -1,5 +1,32 @@
 [
   {
+    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002\u5c06 LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6\u4e0e\u94fe\u4e0a\u8eab\u4efd\u3001\u5ba1\u8ba1\u3001\u4fe1\u8a89\u673a\u5236\u7ed3\u5408\uff1aSolidity \u5408\u7ea6 +",
+    "id": "qiyueqiu/ORACLE",
+    "language": "JavaScript",
+    "name": "qiyueqiu/ORACLE",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:24:08Z",
+    "url": "https://github.com/qiyueqiu/ORACLE"
+  },
+  {
+    "description": "AI-native 3D satellite intelligence command center using public TLE/SGP4 data, validated LLM agent actions, mission brie",
+    "id": "jovfranco-tech/orbitiq",
+    "language": "TypeScript",
+    "name": "jovfranco-tech/orbitiq",
+    "stars": 0,
+    "updated_at": "2026-06-09T16:18:19Z",
+    "url": "https://github.com/jovfranco-tech/orbitiq"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-09T16:15:38Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "Autonomous AI engineer on the Databricks AI runtime \u2014 reads papers, ingests Unity Catalog datasets, runs Mosaic AI jobs,",
     "id": "Praneeth16/databricks-ai-intern",
     "language": "Python",
@@ -9,13 +36,13 @@
     "url": "https://github.com/Praneeth16/databricks-ai-intern"
   },
   {
-    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002\u5c06 LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6\u4e0e\u94fe\u4e0a\u8eab\u4efd\u3001\u5ba1\u8ba1\u3001\u4fe1\u8a89\u673a\u5236\u7ed3\u5408\uff1aSolidity \u5408\u7ea6 +",
-    "id": "qiyueqiu/ORACLE",
-    "language": "JavaScript",
-    "name": "qiyueqiu/ORACLE",
-    "stars": 0,
-    "updated_at": "2026-06-09T16:12:54Z",
-    "url": "https://github.com/qiyueqiu/ORACLE"
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 4,
+    "updated_at": "2026-06-09T16:12:52Z",
+    "url": "https://github.com/Maximooch/penguin"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -178,15 +205,6 @@
     "stars": 780,
     "updated_at": "2026-06-09T15:22:11Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI-native 3D satellite intelligence command center using public TLE/SGP4 data, validated LLM agent actions, mission brie",
-    "id": "jovfranco-tech/orbitiq",
-    "language": "TypeScript",
-    "name": "jovfranco-tech/orbitiq",
-    "stars": 0,
-    "updated_at": "2026-06-09T16:18:19Z",
-    "url": "https://github.com/jovfranco-tech/orbitiq"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -430,23 +448,5 @@
     "stars": 5106,
     "updated_at": "2026-06-09T14:45:19Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-09T14:44:22Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-09T14:44:15Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
