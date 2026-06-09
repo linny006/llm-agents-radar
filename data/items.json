@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 4,
+    "updated_at": "2026-06-09T04:31:40Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 170,
+    "updated_at": "2026-06-09T04:29:29Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "brittonhayes/vala",
     "stars": 1,
-    "updated_at": "2026-06-09T04:05:01Z",
+    "updated_at": "2026-06-09T04:44:02Z",
     "url": "https://github.com/brittonhayes/vala"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-09T03:34:12Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 169,
-    "updated_at": "2026-06-09T04:29:29Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-09T03:06:51Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:04:49Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
