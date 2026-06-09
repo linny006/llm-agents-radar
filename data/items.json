@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-09T04:17:41Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
     "id": "brittonhayes/vala",
     "language": "Go",
@@ -157,8 +166,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 168,
-    "updated_at": "2026-06-09T03:33:43Z",
+    "stars": 169,
+    "updated_at": "2026-06-09T04:29:29Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:04:49Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Octopai - The Infinite Evolution Skill Engine for AI Agents. \ud83d\udc19 Everything Can Be a Skill \u2022 Skills Evolve Through Continu",
-    "id": "Yuan-ManX/octopai",
-    "language": "Python",
-    "name": "Yuan-ManX/octopai",
-    "stars": 4,
-    "updated_at": "2026-06-09T03:04:01Z",
-    "url": "https://github.com/Yuan-ManX/octopai"
   }
 ]
