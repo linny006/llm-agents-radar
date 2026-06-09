@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agentic security detection & response harness \u2014 an LLM agent that investigates, authors, validates, and unit-tests Sigma",
+    "id": "brittonhayes/vala",
+    "language": "Go",
+    "name": "brittonhayes/vala",
+    "stars": 1,
+    "updated_at": "2026-06-09T04:05:01Z",
+    "url": "https://github.com/brittonhayes/vala"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8334,
+    "updated_at": "2026-06-09T04:03:21Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-09T03:46:41Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8333,
-    "updated_at": "2026-06-09T03:44:39Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-09T03:04:01Z",
     "url": "https://github.com/Yuan-ManX/octopai"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-09T03:03:00Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   }
 ]
