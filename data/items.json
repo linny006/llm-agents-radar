@@ -1,5 +1,14 @@
 [
   {
+    "description": "agent-coherence makes 'agent A silently clobbered agent B's plan.md' impossible \u2014 a vendor-neutral MESI + optimistic-con",
+    "id": "hipvlady/agent-coherence",
+    "language": "Python",
+    "name": "hipvlady/agent-coherence",
+    "stars": 9,
+    "updated_at": "2026-06-10T06:16:07Z",
+    "url": "https://github.com/hipvlady/agent-coherence"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T05:14:11Z",
     "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-10T05:13:30Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
