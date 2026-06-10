@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-10T14:09:54Z",
+    "updated_at": "2026-06-10T14:23:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:14:54Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:10:36Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
@@ -41,7 +59,7 @@
     "language": "Rust",
     "name": "yosh95/llm-secure-cli",
     "stars": 1,
-    "updated_at": "2026-06-10T13:40:23Z",
+    "updated_at": "2026-06-10T14:29:27Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-10T14:09:44Z",
+    "updated_at": "2026-06-10T14:30:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 19,
-    "updated_at": "2026-06-10T13:17:53Z",
+    "updated_at": "2026-06-10T14:29:03Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 46,
     "updated_at": "2026-06-10T13:15:59Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-10T14:10:36Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:03:05Z",
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-06-10T12:02:08Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   }
 ]
