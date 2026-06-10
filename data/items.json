@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-10T13:52:17Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-10T13:49:13Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -16,24 +34,6 @@
     "stars": 49,
     "updated_at": "2026-06-10T13:39:10Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-10T13:37:53Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:37:13Z",
-    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
@@ -59,7 +59,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-10T13:27:27Z",
+    "updated_at": "2026-06-10T13:59:53Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -95,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-10T13:07:55Z",
+    "updated_at": "2026-06-10T13:50:41Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2604,
-    "updated_at": "2026-06-10T12:17:31Z",
+    "updated_at": "2026-06-10T13:59:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
