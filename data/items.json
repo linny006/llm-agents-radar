@@ -1,5 +1,77 @@
 [
   {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:59:56Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-06-10T17:58:43Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
+    "id": "isratmim643-ux/VencordAutoPatcher",
+    "language": "C#",
+    "name": "isratmim643-ux/VencordAutoPatcher",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:58:23Z",
+    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:51:32Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
+    "id": "willton-easy/gitlab-review-agent",
+    "language": "Go",
+    "name": "willton-easy/gitlab-review-agent",
+    "stars": 1,
+    "updated_at": "2026-06-10T17:50:53Z",
+    "url": "https://github.com/willton-easy/gitlab-review-agent"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:49:35Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:49:19Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "A Computer Use implementation in Rust \u2014 an MCP server for macOS desktop control: screenshots, mouse, keyboard, and Acces",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 0,
+    "updated_at": "2026-06-10T17:48:55Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
     "description": "my Personal Artificial Business Coach - full local multi-agent business coaching",
     "id": "hapi-ds/mPABC",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T16:26:47Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-10T17:15:43Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
-    "id": "villcaf175/PocketFlow-Zig",
-    "language": "Zig",
-    "name": "villcaf175/PocketFlow-Zig",
-    "stars": 1,
-    "updated_at": "2026-06-10T16:25:22Z",
-    "url": "https://github.com/villcaf175/PocketFlow-Zig"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
-    "id": "azzan1235/agentic_rag_system",
-    "language": "Python",
-    "name": "azzan1235/agentic_rag_system",
-    "stars": 0,
-    "updated_at": "2026-06-10T16:24:41Z",
-    "url": "https://github.com/azzan1235/agentic_rag_system"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 1,
-    "updated_at": "2026-06-10T16:23:33Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-06-10T16:20:35Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
-    "id": "adityasingh0z3/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "adityasingh0z3/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-10T16:16:50Z",
-    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
-    "id": "pchi123/Paper2Slides",
-    "language": "Python",
-    "name": "pchi123/Paper2Slides",
-    "stars": 3,
-    "updated_at": "2026-06-10T16:15:55Z",
-    "url": "https://github.com/pchi123/Paper2Slides"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-06-10T16:14:59Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
