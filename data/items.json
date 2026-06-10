@@ -1,21 +1,30 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4321,
-    "updated_at": "2026-06-10T20:13:38Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 124,
-    "updated_at": "2026-06-10T20:04:06Z",
+    "updated_at": "2026-06-10T20:29:02Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Agent-native Python library + CLI to control MetaTrader 5 \u2014 uniform JSON envelopes, a safety-gated order surface, and an",
+    "id": "ehukaimedia/Metatrader5-CLI",
+    "language": "Python",
+    "name": "ehukaimedia/Metatrader5-CLI",
+    "stars": 1,
+    "updated_at": "2026-06-10T20:30:22Z",
+    "url": "https://github.com/ehukaimedia/Metatrader5-CLI"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4321,
+    "updated_at": "2026-06-10T20:29:56Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T17:42:12Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-10T17:42:00Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
