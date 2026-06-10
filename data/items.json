@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-10T16:39:36Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:38:54Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-10T16:36:39Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "Agentic, provenance-tracked isolation of rare and hard-to-resolve cell populations from single-cell RNA-seq",
+    "id": "PatrickJReed/rarecell",
+    "language": "Python",
+    "name": "PatrickJReed/rarecell",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:32:15Z",
+    "url": "https://github.com/PatrickJReed/rarecell"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-10T16:31:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-10T16:30:28Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "Local Gemma 4 12B trading supervisor for MetaTrader 5 on Windows + NVIDIA. Monitor-only by default, with a deterministic",
     "id": "ehukaimedia/mt5-gemma4-12b-nvidia-agent-starter-kit",
     "language": "Python",
@@ -13,7 +67,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 212,
+    "stars": 213,
     "updated_at": "2026-06-10T16:26:48Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4321,
-    "updated_at": "2026-06-10T15:58:28Z",
+    "updated_at": "2026-06-10T16:44:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-10T16:08:35Z",
+    "updated_at": "2026-06-10T16:33:46Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -184,7 +238,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12755,
+    "stars": 12756,
     "updated_at": "2026-06-10T15:22:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-10T14:10:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
-    "id": "eggbrid2/mobileClaw",
-    "language": "Kotlin",
-    "name": "eggbrid2/mobileClaw",
-    "stars": 265,
-    "updated_at": "2026-06-10T14:01:21Z",
-    "url": "https://github.com/eggbrid2/mobileClaw"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-10T14:00:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-10T13:49:13Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-10T13:28:28Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
-    "id": "1001WillsStudio/AuroraCoder",
-    "language": "Python",
-    "name": "1001WillsStudio/AuroraCoder",
-    "stars": 15,
-    "updated_at": "2026-06-10T13:00:17Z",
-    "url": "https://github.com/1001WillsStudio/AuroraCoder"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:51:10Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
