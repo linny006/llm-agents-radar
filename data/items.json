@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-10T07:58:35Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "AlgoOps\uff08\u7b97\u6cd5\u6548\u80fd\u667a\u80fd\u4f53\uff09\u00b7 Amazon Bedrock AgentCore Builder Demo \u2014 \u8ba9 Agent \u4ee5\u300cAI \u9a8c\u8bc1 AI\u300d\u66ff\u56e2\u961f\u505a\u641c\u7d22/\u63a8\u8350/\u6807\u7b7e\u7684\u6a21\u578b\u9009\u578b(\u8c03\u7814\u2192\u8bc4\u4f30\u2192\u9a8c\u8bc1\u2192\u6c89\u6dc0)",
+    "id": "IanLiYi1996/algoops-demo",
+    "language": "Python",
+    "name": "IanLiYi1996/algoops-demo",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:57:45Z",
+    "url": "https://github.com/IanLiYi1996/algoops-demo"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-10T07:51:14Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 122,
+    "updated_at": "2026-06-10T07:50:28Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 3,
+    "updated_at": "2026-06-10T07:50:12Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-10T07:45:39Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -76,7 +130,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 197,
+    "stars": 198,
     "updated_at": "2026-06-10T07:34:09Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -207,15 +261,6 @@
     "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 122,
-    "updated_at": "2026-06-10T07:09:25Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
     "id": "XederaBills/llm-powered-data-analysis",
     "language": "Python",
@@ -229,7 +274,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12748,
+    "stars": 12749,
     "updated_at": "2026-06-10T06:57:48Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -275,7 +320,7 @@
     "language": "Python",
     "name": "hipvlady/agent-coherence",
     "stars": 9,
-    "updated_at": "2026-06-10T06:17:03Z",
+    "updated_at": "2026-06-10T07:57:28Z",
     "url": "https://github.com/hipvlady/agent-coherence"
   },
   {
@@ -284,7 +329,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-10T06:04:14Z",
+    "updated_at": "2026-06-10T07:58:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-10T05:45:50Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:45:15Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Claude Code skill for drafting, reviewing, revising, proofreading, and auditing scientific manuscripts. Calibrated for h",
-    "id": "Rekin226/paper-agent",
-    "language": "\u2014",
-    "name": "Rekin226/paper-agent",
-    "stars": 1,
-    "updated_at": "2026-06-10T05:44:39Z",
-    "url": "https://github.com/Rekin226/paper-agent"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:44:34Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:42:48Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-10T05:42:40Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
