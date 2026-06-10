@@ -1,11 +1,56 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-10T13:28:28Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-10T13:27:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-10T13:25:01Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 19,
+    "updated_at": "2026-06-10T13:17:53Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 46,
+    "updated_at": "2026-06-10T13:15:59Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-10T13:11:22Z",
+    "updated_at": "2026-06-10T13:27:13Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:51:10Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 19,
-    "updated_at": "2026-06-10T12:45:17Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -121,7 +157,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12752,
+    "stars": 12751,
     "updated_at": "2026-06-10T12:25:52Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:11:38Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-10T12:51:04Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T11:57:13Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-10T11:56:05Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:55:15Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:52:41Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
