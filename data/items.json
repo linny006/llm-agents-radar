@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 4,
+    "updated_at": "2026-06-10T14:38:41Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-10T14:38:06Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Multi-agent orchestration runtime with task board, flow engine, budget control, MCP integration and real-time dashboard.",
+    "id": "swoelffel/claw-pilot",
+    "language": "TypeScript",
+    "name": "swoelffel/claw-pilot",
+    "stars": 10,
+    "updated_at": "2026-06-10T14:37:57Z",
+    "url": "https://github.com/swoelffel/claw-pilot"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-10T14:37:02Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-10T14:35:16Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 465,
+    "updated_at": "2026-06-10T14:34:21Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-10T14:29:27Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -54,15 +117,6 @@
     "url": "https://github.com/codex-mohan/spectra"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-10T14:29:27Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -95,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-10T14:30:09Z",
+    "updated_at": "2026-06-10T14:45:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 19,
-    "updated_at": "2026-06-10T14:29:03Z",
+    "updated_at": "2026-06-10T14:35:49Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2604,
-    "updated_at": "2026-06-10T13:59:40Z",
+    "updated_at": "2026-06-10T14:42:16Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-10T12:05:15Z",
     "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:05:11Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:04:32Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:04:08Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-10T12:04:00Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-10T12:03:23Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-10T12:03:05Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   }
 ]
