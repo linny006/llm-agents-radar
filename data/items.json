@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-10T13:52:17Z",
+    "updated_at": "2026-06-10T14:09:54Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
+    "id": "eggbrid2/mobileClaw",
+    "language": "Kotlin",
+    "name": "eggbrid2/mobileClaw",
+    "stars": 264,
+    "updated_at": "2026-06-10T14:01:21Z",
+    "url": "https://github.com/eggbrid2/mobileClaw"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-10T14:00:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A fast and minimal agent library for typescript and rust",
@@ -59,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-10T13:59:53Z",
+    "updated_at": "2026-06-10T14:09:44Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-10T13:50:41Z",
+    "updated_at": "2026-06-10T14:10:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-10T12:02:08Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:58:43Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-10T11:58:36Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
