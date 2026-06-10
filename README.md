@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-10 20:30 UTC
+> ⏰ Last updated: 2026-06-10 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 124 | TypeScript | 2026-06-10 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 2 | [ehukaimedia/Metatrader5-CLI](https://github.com/ehukaimedia/Metatrader5-CLI) | 1 | Python | 2026-06-10 | Agent-native Python library + CLI to control MetaTrader 5 — uniform JSON envelopes, a safety-gated order surface, and an |
+| 1 | [ehukaimedia/Metatrader5-CLI](https://github.com/ehukaimedia/Metatrader5-CLI) | 1 | Python | 2026-06-10 | Agent-native Python library + CLI to control MetaTrader 5 — uniform JSON envelopes, a safety-gated order surface, and an |
+| 2 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 124 | TypeScript | 2026-06-10 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4321 | Python | 2026-06-10 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-10 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 5 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-10 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
