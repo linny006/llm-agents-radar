@@ -1,12 +1,21 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-11T12:29:21Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "\u81ea\u52a8\u5316\u4e13\u5229\u4fb5\u6743\u7ade\u54c1\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c1 \u5c0f\u65f6\u4ea7\u51fa\u5f8b\u5e08\u53ef\u590d\u6838\u7684 claim chart \u62a5\u544a\uff08\u9010\u7279\u5f81\u5bf9\u6bd4 + \u8bc1\u636eURL + \u4e0b\u4e00\u6b65\u5efa\u8bae\uff09\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent \u8c03\u7528\u3002",
+    "id": "yuc16/PatentRadar",
+    "language": "Python",
+    "name": "yuc16/PatentRadar",
+    "stars": 32,
+    "updated_at": "2026-06-11T12:43:18Z",
+    "url": "https://github.com/yuc16/PatentRadar"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-11T12:39:35Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A fast and minimal agent library for typescript and rust",
@@ -14,8 +23,53 @@
     "language": "TypeScript",
     "name": "codex-mohan/spectra",
     "stars": 1,
-    "updated_at": "2026-06-11T12:26:28Z",
+    "updated_at": "2026-06-11T12:37:39Z",
     "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-11T12:37:28Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "Desktop IDE with built-in AI coding agents",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 61,
+    "updated_at": "2026-06-11T12:37:12Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-06-11T12:36:47Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-11T12:31:59Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-11T12:30:56Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -27,15 +81,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-06-11T12:18:25Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-06-11T12:17:51Z",
     "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "Desktop IDE with built-in AI coding agents",
-    "id": "Paseru/sinew",
-    "language": "Rust",
-    "name": "Paseru/sinew",
-    "stars": 61,
-    "updated_at": "2026-06-11T12:17:42Z",
-    "url": "https://github.com/Paseru/sinew"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2611,
-    "updated_at": "2026-06-11T12:11:53Z",
+    "updated_at": "2026-06-11T12:43:54Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "hipvlady/agent-coherence",
     "stars": 9,
-    "updated_at": "2026-06-11T12:27:03Z",
+    "updated_at": "2026-06-11T12:38:21Z",
     "url": "https://github.com/hipvlady/agent-coherence"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T12:27:47Z",
+    "updated_at": "2026-06-11T12:39:59Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -315,12 +351,21 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 215,
+    "updated_at": "2026-06-11T10:41:13Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5123,
-    "updated_at": "2026-06-11T10:28:30Z",
+    "updated_at": "2026-06-11T12:40:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4324,
-    "updated_at": "2026-06-11T12:13:58Z",
+    "updated_at": "2026-06-11T12:38:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -376,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T09:08:46Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:39:33Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Feed LLMs financial data and interactive charts in one call \u2014 an MCP server for A-share quotes, financials, and macro in",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:24:30Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:20:17Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:19:30Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:19:28Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Android Debug Bridge CLI for LLM agents \u2014 Go binary, session workflow, JSON-first",
-    "id": "izzzzzi/agent-aadb",
-    "language": "Go",
-    "name": "izzzzzi/agent-aadb",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:18:03Z",
-    "url": "https://github.com/izzzzzi/agent-aadb"
   }
 ]
