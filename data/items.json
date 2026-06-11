@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:12:21Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-11T11:13:11Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-11T11:07:21Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-06-11T11:04:42Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:02:54Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
     "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
     "id": "Jerry2003826/astrbot_plugin_orchestrator",
     "language": "Python",
@@ -27,20 +72,11 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-06-11T10:36:55Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5122,
+    "stars": 5123,
     "updated_at": "2026-06-11T10:28:30Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -54,6 +90,15 @@
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2610,
+    "updated_at": "2026-06-11T11:14:23Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -61,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-06-11T10:24:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-11T10:58:23Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -288,15 +324,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2609,
-    "updated_at": "2026-06-11T10:23:33Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:42:02Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-11T07:41:24Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:40:32Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:40:26Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
