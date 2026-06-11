@@ -1,5 +1,14 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 49,
+    "updated_at": "2026-06-11T14:56:49Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
     "id": "sacid446/unclaw",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-11T14:56:24Z",
     "url": "https://github.com/richer-richard/socratic-council"
-  },
-  {
-    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
-    "id": "ghosthunter8/AgentUI",
-    "language": "JavaScript",
-    "name": "ghosthunter8/AgentUI",
-    "stars": 0,
-    "updated_at": "2026-06-11T13:47:54Z",
-    "url": "https://github.com/ghosthunter8/AgentUI"
   }
 ]
