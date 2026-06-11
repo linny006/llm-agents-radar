@@ -1,5 +1,14 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-11T22:23:09Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T21:29:38Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 0,
-    "updated_at": "2026-06-11T21:30:00Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4326,
-    "updated_at": "2026-06-11T22:05:15Z",
+    "updated_at": "2026-06-11T22:27:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
