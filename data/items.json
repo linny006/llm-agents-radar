@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-06-11T13:28:19Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
+    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
+    "id": "nalcapital/ComfyUI_RH_Univideo",
+    "language": "Python",
+    "name": "nalcapital/ComfyUI_RH_Univideo",
+    "stars": 1,
+    "updated_at": "2026-06-11T13:26:16Z",
+    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
+  },
+  {
+    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
+    "id": "huydeptraivaio/ComfyUI-NovaSR",
+    "language": "Python",
+    "name": "huydeptraivaio/ComfyUI-NovaSR",
+    "stars": 0,
+    "updated_at": "2026-06-11T13:23:30Z",
+    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-11T13:22:17Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-11T13:23:10Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-06-11T13:19:56Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-11T13:19:44Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-06-11T13:19:06Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
+    "description": "Odysseus Self-hosted AI workspace production setup, troubleshooting, optimization, and maintenance support",
+    "id": "AnythingLinux/Odysseus-AI-Workspace-Setup",
+    "language": "\u2014",
+    "name": "AnythingLinux/Odysseus-AI-Workspace-Setup",
+    "stars": 1,
+    "updated_at": "2026-06-11T13:19:01Z",
+    "url": "https://github.com/AnythingLinux/Odysseus-AI-Workspace-Setup"
+  },
+  {
     "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
     "id": "richer-richard/socratic-council",
     "language": "TypeScript",
@@ -79,6 +160,15 @@
     "stars": 32,
     "updated_at": "2026-06-11T13:00:45Z",
     "url": "https://github.com/yuc16/PatentRadar"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5124,
+    "updated_at": "2026-06-11T13:00:39Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
@@ -180,15 +270,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-11T13:12:16Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -205,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T12:39:35Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-11T13:09:52Z",
-    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "",
@@ -376,77 +448,5 @@
     "stars": 96,
     "updated_at": "2026-06-11T11:44:44Z",
     "url": "https://github.com/AtomicBot-ai/atomic-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 2,
-    "updated_at": "2026-06-11T11:44:44Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:42:02Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
-    "id": "eggbrid2/mobileClaw",
-    "language": "Kotlin",
-    "name": "eggbrid2/mobileClaw",
-    "stars": 273,
-    "updated_at": "2026-06-11T11:42:57Z",
-    "url": "https://github.com/eggbrid2/mobileClaw"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-11T11:40:27Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:37:34Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-06-11T11:36:59Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-06-11T11:35:48Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-06-11T11:35:10Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
