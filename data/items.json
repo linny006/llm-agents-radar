@@ -1,5 +1,14 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2610,
+    "updated_at": "2026-06-11T11:17:13Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
     "id": "XederaBills/llm-powered-data-analysis",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T11:13:11Z",
+    "updated_at": "2026-06-11T11:16:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 15,
     "updated_at": "2026-06-11T10:31:46Z",
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2610,
-    "updated_at": "2026-06-11T11:14:23Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
