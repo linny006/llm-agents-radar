@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-11T18:26:04Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-11T18:26:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Autonomous local AI recruiting agent that scrapes jobs, scores compatibility, drafts personalized application pitches, ",
+    "id": "ArPaN-DS/JobScout-lite",
+    "language": "Python",
+    "name": "ArPaN-DS/JobScout-lite",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:23:25Z",
+    "url": "https://github.com/ArPaN-DS/JobScout-lite"
+  },
+  {
+    "description": "Desktop IDE with built-in AI coding agents",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 61,
+    "updated_at": "2026-06-11T18:16:55Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-11T18:16:27Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "VDA (Virtual Desktop Assistant) is a powerful, local, AI-driven assistant that controls your computer like a human. It f",
+    "id": "PCJIRON/VDA",
+    "language": "Python",
+    "name": "PCJIRON/VDA",
+    "stars": 1,
+    "updated_at": "2026-06-11T18:15:35Z",
+    "url": "https://github.com/PCJIRON/VDA"
+  },
+  {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
     "id": "cafferychen777/ChatSpatial",
     "language": "Python",
@@ -27,24 +81,6 @@
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-11T18:04:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Desktop IDE with built-in AI coding agents",
-    "id": "Paseru/sinew",
-    "language": "Rust",
-    "name": "Paseru/sinew",
-    "stars": 61,
-    "updated_at": "2026-06-11T17:36:03Z",
-    "url": "https://github.com/Paseru/sinew"
-  },
-  {
     "description": "AI Harness build on top of typescript",
     "id": "puristajs/harness",
     "language": "TypeScript",
@@ -52,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T17:35:25Z",
     "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-11T17:33:44Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -196,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T15:23:15Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "VDA (Virtual Desktop Assistant) is a powerful, local, AI-driven assistant that controls your computer like a human. It f",
-    "id": "PCJIRON/VDA",
-    "language": "Python",
-    "name": "PCJIRON/VDA",
-    "stars": 1,
-    "updated_at": "2026-06-11T18:15:16Z",
-    "url": "https://github.com/PCJIRON/VDA"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:31:16Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:29:04Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:27:28Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
   }
 ]
