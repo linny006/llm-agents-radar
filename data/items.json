@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 5,
-    "updated_at": "2026-06-11T19:57:36Z",
+    "updated_at": "2026-06-11T20:10:28Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-11T20:08:43Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-11T20:08:38Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-11T20:05:55Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-06-11T20:05:53Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 245,
+    "updated_at": "2026-06-11T20:03:15Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-11T20:01:16Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T19:47:02Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 245,
-    "updated_at": "2026-06-11T19:59:21Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
@@ -403,50 +448,5 @@
     "stars": 780,
     "updated_at": "2026-06-11T17:15:04Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
-    "id": "Jerry2003826/astrbot_plugin_orchestrator",
-    "language": "Python",
-    "name": "Jerry2003826/astrbot_plugin_orchestrator",
-    "stars": 2,
-    "updated_at": "2026-06-11T17:10:59Z",
-    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
-  },
-  {
-    "description": "A fast multi-platform agent monitoring utility",
-    "id": "mariodian/pincer",
-    "language": "TypeScript",
-    "name": "mariodian/pincer",
-    "stars": 11,
-    "updated_at": "2026-06-11T16:24:46Z",
-    "url": "https://github.com/mariodian/pincer"
-  },
-  {
-    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
-    "id": "auto-use/Auto-Use",
-    "language": "Python",
-    "name": "auto-use/Auto-Use",
-    "stars": 114,
-    "updated_at": "2026-06-11T16:22:02Z",
-    "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 46,
-    "updated_at": "2026-06-11T16:11:16Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f Career trajectory exploration system \u2014 Framework that builds and assesses valid career paths through optimization, pl",
-    "id": "jery04/LLM-Pathway-Evaluator",
-    "language": "Python",
-    "name": "jery04/LLM-Pathway-Evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-11T16:04:20Z",
-    "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
   }
 ]
