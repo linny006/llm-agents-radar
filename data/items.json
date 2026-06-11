@@ -1,5 +1,41 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-11T19:14:15Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:10:06Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-11T19:07:02Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-11T19:02:25Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "synapseorch-ai/synapse-ai",
     "stars": 245,
-    "updated_at": "2026-06-11T18:52:35Z",
+    "updated_at": "2026-06-11T19:02:41Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-11T18:51:05Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-11T18:49:03Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Desktop IDE with built-in AI coding agents",
@@ -117,6 +144,15 @@
     "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
   },
   {
+    "description": "An open-source AI coding agent built for 8GB laptops: CLI, browser dashboard, Gemini, local models, and OpenAI-compatibl",
+    "id": "wehlz/virtuoso-cli-agent",
+    "language": "Python",
+    "name": "wehlz/virtuoso-cli-agent",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:29:28Z",
+    "url": "https://github.com/wehlz/virtuoso-cli-agent"
+  },
+  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -196,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-06-11T17:35:25Z",
     "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:23:56Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T14:53:24Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:52:51Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
-    "id": "gonicolas12/My_OS",
-    "language": "Python",
-    "name": "gonicolas12/My_OS",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:52:30Z",
-    "url": "https://github.com/gonicolas12/My_OS"
-  },
-  {
-    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
-    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "language": "Python",
-    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:51:33Z",
-    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
   }
 ]
