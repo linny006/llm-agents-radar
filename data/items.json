@@ -1,10 +1,37 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4322,
+    "updated_at": "2026-06-11T02:27:42Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A threat hunter that lives in your terminal with memories in Notion.",
+    "id": "brittonhayes/vala",
+    "language": "Go",
+    "name": "brittonhayes/vala",
+    "stars": 1,
+    "updated_at": "2026-06-11T02:26:34Z",
+    "url": "https://github.com/brittonhayes/vala"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-11T02:20:12Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8486,
+    "stars": 8488,
     "updated_at": "2026-06-11T02:08:35Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -13,7 +40,7 @@
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
-    "stars": 125,
+    "stars": 126,
     "updated_at": "2026-06-11T02:07:37Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
@@ -153,15 +180,6 @@
     "url": "https://github.com/Samuelcluttered613/paper2code"
   },
   {
-    "description": "A threat hunter that lives in your terminal with memories in Notion.",
-    "id": "brittonhayes/vala",
-    "language": "Go",
-    "name": "brittonhayes/vala",
-    "stars": 1,
-    "updated_at": "2026-06-11T01:36:20Z",
-    "url": "https://github.com/brittonhayes/vala"
-  },
-  {
     "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
     "id": "Bastioned-successor320/learn-nanobot",
     "language": "Python",
@@ -184,7 +202,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12759,
+    "stars": 12760,
     "updated_at": "2026-06-11T01:19:09Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T00:31:49Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-11T00:30:35Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-11T00:29:33Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
