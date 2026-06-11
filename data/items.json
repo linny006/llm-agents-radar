@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "Jerry2003826/astrbot_plugin_orchestrator",
     "stars": 2,
-    "updated_at": "2026-06-11T15:54:01Z",
+    "updated_at": "2026-06-11T16:14:40Z",
     "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
+  },
+  {
+    "description": "A fast multi-platform agent monitoring utility",
+    "id": "mariodian/pincer",
+    "language": "TypeScript",
+    "name": "mariodian/pincer",
+    "stars": 11,
+    "updated_at": "2026-06-11T16:12:22Z",
+    "url": "https://github.com/mariodian/pincer"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 46,
+    "updated_at": "2026-06-11T16:11:16Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "\ud83d\uddfa\ufe0f Career trajectory exploration system \u2014 Framework that builds and assesses valid career paths through optimization, pl",
+    "id": "jery04/LLM-Pathway-Evaluator",
+    "language": "Python",
+    "name": "jery04/LLM-Pathway-Evaluator",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:04:20Z",
+    "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-11T16:13:31Z",
+    "url": "https://github.com/puristajs/harness"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -18,6 +54,15 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2612,
+    "updated_at": "2026-06-11T15:44:40Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -25,15 +70,6 @@
     "stars": 20,
     "updated_at": "2026-06-11T15:38:37Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A fast multi-platform agent monitoring utility",
-    "id": "mariodian/pincer",
-    "language": "TypeScript",
-    "name": "mariodian/pincer",
-    "stars": 11,
-    "updated_at": "2026-06-11T15:36:05Z",
-    "url": "https://github.com/mariodian/pincer"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T15:18:41Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f Career trajectory exploration system \u2014 Framework that builds and assesses valid career paths through optimization, pl",
-    "id": "jery04/LLM-Pathway-Evaluator",
-    "language": "Python",
-    "name": "jery04/LLM-Pathway-Evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:09:08Z",
-    "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:16:27Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:15:51Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:14:32Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:14:15Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
