@@ -1,12 +1,138 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:44:59Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "",
+    "id": "AtomicBot-ai/atomic-agent",
+    "language": "TypeScript",
+    "name": "AtomicBot-ai/atomic-agent",
+    "stars": 96,
+    "updated_at": "2026-06-11T11:44:44Z",
+    "url": "https://github.com/AtomicBot-ai/atomic-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 2,
+    "updated_at": "2026-06-11T11:44:44Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
     "description": "First open-source A-MEM memory plugin for OpenClaw \u2014 Agentic memory with dynamic linking & evolution (NeurIPS 2025)",
     "id": "heichaowo/openclaw-amem",
     "language": "TypeScript",
     "name": "heichaowo/openclaw-amem",
     "stars": 0,
-    "updated_at": "2026-06-11T11:30:12Z",
+    "updated_at": "2026-06-11T11:43:06Z",
     "url": "https://github.com/heichaowo/openclaw-amem"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:42:02Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
+    "id": "eggbrid2/mobileClaw",
+    "language": "Kotlin",
+    "name": "eggbrid2/mobileClaw",
+    "stars": 273,
+    "updated_at": "2026-06-11T11:42:57Z",
+    "url": "https://github.com/eggbrid2/mobileClaw"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-11T11:40:27Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:37:34Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-11T11:37:20Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
+    "language": "Python",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-11T11:36:59Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
+  },
+  {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 5,
+    "updated_at": "2026-06-11T11:35:48Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:35:10Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-11T11:33:34Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-11T11:31:58Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A fast multi-platform agent monitoring utility",
+    "id": "mariodian/pincer",
+    "language": "TypeScript",
+    "name": "mariodian/pincer",
+    "stars": 11,
+    "updated_at": "2026-06-11T11:31:17Z",
+    "url": "https://github.com/mariodian/pincer"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -18,21 +144,12 @@
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
-    "description": "A fast multi-platform agent monitoring utility",
-    "id": "mariodian/pincer",
-    "language": "TypeScript",
-    "name": "mariodian/pincer",
-    "stars": 11,
-    "updated_at": "2026-06-11T11:24:50Z",
-    "url": "https://github.com/mariodian/pincer"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2610,
-    "updated_at": "2026-06-11T11:17:13Z",
+    "updated_at": "2026-06-11T11:35:00Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -50,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T11:28:33Z",
+    "updated_at": "2026-06-11T11:41:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -99,15 +216,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-11T10:44:31Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -135,15 +243,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-11T09:42:06Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -167,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4324,
-    "updated_at": "2026-06-11T10:22:56Z",
+    "updated_at": "2026-06-11T11:42:21Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:03:12Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:00:13Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:00:03Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:58:28Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "A Computer Use implementation in Rust \u2014 an MCP server for macOS desktop control: screenshots, mouse, keyboard, and Acces",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:53:10Z",
-    "url": "https://github.com/bigduu/Nova"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:52:37Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:50:11Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 7,
-    "updated_at": "2026-06-11T07:48:55Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:47:33Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:46:00Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:43:54Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:42:59Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
   }
 ]
