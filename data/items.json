@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-11T10:44:31Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-06-11T10:36:55Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "1001WillsStudio/AuroraCoder",
     "stars": 15,
-    "updated_at": "2026-06-11T10:26:45Z",
+    "updated_at": "2026-06-11T10:31:46Z",
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
   },
   {
@@ -41,17 +59,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T10:29:28Z",
+    "updated_at": "2026-06-11T10:43:23Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-11T10:00:38Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -61,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-06-11T09:42:06Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5290,
+    "updated_at": "2026-06-11T09:32:36Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T07:33:30Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:33:22Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-11T07:31:44Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
