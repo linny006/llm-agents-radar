@@ -1,5 +1,41 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:54:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
+    "id": "Jerry2003826/astrbot_plugin_orchestrator",
+    "language": "Python",
+    "name": "Jerry2003826/astrbot_plugin_orchestrator",
+    "stars": 2,
+    "updated_at": "2026-06-11T16:51:16Z",
+    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-11T16:48:03Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-11T16:47:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "A fast multi-platform agent monitoring utility",
     "id": "mariodian/pincer",
     "language": "TypeScript",
@@ -9,15 +45,6 @@
     "url": "https://github.com/mariodian/pincer"
   },
   {
-    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
-    "id": "Jerry2003826/astrbot_plugin_orchestrator",
-    "language": "Python",
-    "name": "Jerry2003826/astrbot_plugin_orchestrator",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:22:02Z",
-    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
-  },
-  {
     "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
     "id": "auto-use/Auto-Use",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 114,
     "updated_at": "2026-06-11T16:22:02Z",
     "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-11T16:42:37Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI Harness build on top of typescript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T14:23:32Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:23:01Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
-    "id": "llylee994-ui/HexaAgent",
-    "language": "TypeScript",
-    "name": "llylee994-ui/HexaAgent",
-    "stars": 2,
-    "updated_at": "2026-06-11T14:21:02Z",
-    "url": "https://github.com/llylee994-ui/HexaAgent"
   }
 ]
