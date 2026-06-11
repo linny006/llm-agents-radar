@@ -1,5 +1,23 @@
 [
   {
+    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
+    "id": "Jerry2003826/astrbot_plugin_orchestrator",
+    "language": "Python",
+    "name": "Jerry2003826/astrbot_plugin_orchestrator",
+    "stars": 2,
+    "updated_at": "2026-06-11T15:54:01Z",
+    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-11T15:50:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -387,15 +405,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-11T15:43:18Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
     "id": "llylee994-ui/HexaAgent",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:14:15Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:13:17Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
