@@ -1,21 +1,48 @@
 [
   {
-    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
-    "id": "Jerry2003826/astrbot_plugin_orchestrator",
-    "language": "Python",
-    "name": "Jerry2003826/astrbot_plugin_orchestrator",
-    "stars": 2,
-    "updated_at": "2026-06-11T16:14:40Z",
-    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
-  },
-  {
     "description": "A fast multi-platform agent monitoring utility",
     "id": "mariodian/pincer",
     "language": "TypeScript",
     "name": "mariodian/pincer",
     "stars": 11,
-    "updated_at": "2026-06-11T16:12:22Z",
+    "updated_at": "2026-06-11T16:24:46Z",
     "url": "https://github.com/mariodian/pincer"
+  },
+  {
+    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
+    "id": "Jerry2003826/astrbot_plugin_orchestrator",
+    "language": "Python",
+    "name": "Jerry2003826/astrbot_plugin_orchestrator",
+    "stars": 2,
+    "updated_at": "2026-06-11T16:22:02Z",
+    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
+  },
+  {
+    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
+    "id": "auto-use/Auto-Use",
+    "language": "Python",
+    "name": "auto-use/Auto-Use",
+    "stars": 114,
+    "updated_at": "2026-06-11T16:22:02Z",
+    "url": "https://github.com/auto-use/Auto-Use"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-11T16:20:55Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-11T16:16:41Z",
+    "url": "https://github.com/puristajs/harness"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -34,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T16:04:20Z",
     "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
-  },
-  {
-    "description": "AI Harness build on top of typescript",
-    "id": "puristajs/harness",
-    "language": "TypeScript",
-    "name": "puristajs/harness",
-    "stars": 5,
-    "updated_at": "2026-06-11T16:13:31Z",
-    "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-11T15:50:40Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T14:21:02Z",
     "url": "https://github.com/llylee994-ui/HexaAgent"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-11T14:16:27Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
