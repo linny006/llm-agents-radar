@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-11T17:15:04Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-11T17:29:53Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-11T17:23:56Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 14,
-    "updated_at": "2026-06-11T17:14:58Z",
+    "updated_at": "2026-06-11T17:15:56Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-11T17:15:04Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "puristajs/harness",
     "stars": 5,
-    "updated_at": "2026-06-11T17:03:54Z",
+    "updated_at": "2026-06-11T17:19:09Z",
     "url": "https://github.com/puristajs/harness"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2612,
-    "updated_at": "2026-06-11T16:32:13Z",
+    "updated_at": "2026-06-11T17:23:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-06-11T15:20:47Z",
     "url": "https://github.com/PCJIRON/VDA"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-11T15:18:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:24:41Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-11T14:24:24Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
   }
 ]
