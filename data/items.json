@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-11T14:08:24Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:08:03Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
+    "id": "Bifcen/Pocket-Pad",
+    "language": "\u2014",
+    "name": "Bifcen/Pocket-Pad",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:07:40Z",
+    "url": "https://github.com/Bifcen/Pocket-Pad"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-06-11T14:06:29Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:06:18Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-11T14:05:56Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-06-11T14:02:42Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 7,
+    "updated_at": "2026-06-11T14:05:11Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
     "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
     "id": "Giahyu943/AutoSage",
     "language": "Swift",
@@ -121,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26692,
+    "stars": 26693,
     "updated_at": "2026-06-11T13:47:49Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T13:35:49Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-11T13:35:21Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T12:55:25Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
-    "id": "adityasingh0z3/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "adityasingh0z3/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:52:18Z",
-    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
-    "id": "pchi123/Paper2Slides",
-    "language": "Python",
-    "name": "pchi123/Paper2Slides",
-    "stars": 3,
-    "updated_at": "2026-06-11T12:51:41Z",
-    "url": "https://github.com/pchi123/Paper2Slides"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
-    "id": "sumit7235/Domfie",
-    "language": "Jupyter Notebook",
-    "name": "sumit7235/Domfie",
-    "stars": 1,
-    "updated_at": "2026-06-11T12:51:03Z",
-    "url": "https://github.com/sumit7235/Domfie"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:50:35Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:47:09Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-11T12:39:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "Ali-Shady/claude-agent-desktop",
-    "language": "TypeScript",
-    "name": "Ali-Shady/claude-agent-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-11T12:37:28Z",
-    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
   }
 ]
