@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4324,
-    "updated_at": "2026-06-11T08:44:35Z",
+    "updated_at": "2026-06-11T08:50:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -23,7 +23,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T08:39:42Z",
+    "updated_at": "2026-06-11T08:52:26Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -187,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-06-11T08:03:12Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2609,
+    "updated_at": "2026-06-11T08:00:45Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -414,15 +423,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2608,
-    "updated_at": "2026-06-11T08:00:45Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
     "id": "S3YED/appie-kit",
     "language": "Python",
@@ -432,6 +432,15 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5289,
+    "updated_at": "2026-06-11T07:24:19Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
     "id": "Bifcen/Pocket-Pad",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-11T07:24:09Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:24:03Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
