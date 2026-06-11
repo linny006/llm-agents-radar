@@ -1,5 +1,50 @@
 [
   {
+    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
+    "id": "Giahyu943/AutoSage",
+    "language": "Swift",
+    "name": "Giahyu943/AutoSage",
+    "stars": 1,
+    "updated_at": "2026-06-11T20:44:55Z",
+    "url": "https://github.com/Giahyu943/AutoSage"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-06-11T20:44:01Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-11T20:43:52Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-06-11T20:43:10Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-11T20:42:46Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
     "description": "A research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -403,50 +448,5 @@
     "stars": 61,
     "updated_at": "2026-06-11T18:44:33Z",
     "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:43:53Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "Minimal AI coding agent with a structured tool registry, session memory, and a SWE-bench evaluation runner. Adapted from",
-    "id": "SeanKraemer/ai-agent",
-    "language": "Python",
-    "name": "SeanKraemer/ai-agent",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:37:38Z",
-    "url": "https://github.com/SeanKraemer/ai-agent"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-11T18:36:38Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": " Autonomous local AI recruiting agent that scrapes jobs, scores compatibility, drafts personalized application pitches, ",
-    "id": "ArPaN-DS/JobScout-lite",
-    "language": "Python",
-    "name": "ArPaN-DS/JobScout-lite",
-    "stars": 0,
-    "updated_at": "2026-06-11T18:33:46Z",
-    "url": "https://github.com/ArPaN-DS/JobScout-lite"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-11T18:31:56Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
