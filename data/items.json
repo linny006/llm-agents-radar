@@ -1,5 +1,23 @@
 [
   {
+    "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
+    "id": "Jerry2003826/astrbot_plugin_orchestrator",
+    "language": "Python",
+    "name": "Jerry2003826/astrbot_plugin_orchestrator",
+    "stars": 2,
+    "updated_at": "2026-06-11T10:59:02Z",
+    "url": "https://github.com/Jerry2003826/astrbot_plugin_orchestrator"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-11T10:50:49Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -36,15 +54,6 @@
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 2,
-    "updated_at": "2026-06-11T10:23:03Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-11T10:43:23Z",
+    "updated_at": "2026-06-11T10:58:23Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-11T07:40:26Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-11T07:33:30Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
   }
 ]
