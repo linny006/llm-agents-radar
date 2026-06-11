@@ -1,5 +1,41 @@
 [
   {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-11T18:56:20Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 245,
+    "updated_at": "2026-06-11T18:52:35Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-11T18:51:05Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-11T18:49:03Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Desktop IDE with built-in AI coding agents",
     "id": "Paseru/sinew",
     "language": "Rust",
@@ -117,15 +153,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-11T18:16:27Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "VDA (Virtual Desktop Assistant) is a powerful, local, AI-driven assistant that controls your computer like a human. It f",
     "id": "PCJIRON/VDA",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 780,
     "updated_at": "2026-06-11T17:15:04Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-11T17:11:31Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
   },
   {
     "description": "AstrBot \u5bbf\u4e3b\u4e0a\u7684\u591a Agent \u7f16\u6392\u5185\u6838\uff1aTaskAnalyzer \u2192 AgentCoordinator \u2192 SubAgent \u4e09\u7ea7\u8c03\u5ea6 + MCP Bridge + Shipyard \u6c99\u76d2\uff1b435 \u5355\u5143\u6d4b\u8bd5 / 99% \u8986\u76d6 / ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-11T14:51:33Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "A threat hunter that lives in your terminal with memories in Notion.",
-    "id": "brittonhayes/vala",
-    "language": "Go",
-    "name": "brittonhayes/vala",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:50:02Z",
-    "url": "https://github.com/brittonhayes/vala"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-11T14:48:36Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
   }
 ]
