@@ -1,5 +1,23 @@
 [
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 20,
+    "updated_at": "2026-06-11T15:38:37Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "A fast multi-platform agent monitoring utility",
+    "id": "mariodian/pincer",
+    "language": "TypeScript",
+    "name": "mariodian/pincer",
+    "stars": 11,
+    "updated_at": "2026-06-11T15:36:05Z",
+    "url": "https://github.com/mariodian/pincer"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -22,7 +40,7 @@
     "id": "PCJIRON/VDA",
     "language": "Python",
     "name": "PCJIRON/VDA",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-11T15:20:47Z",
     "url": "https://github.com/PCJIRON/VDA"
   },
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T15:02:53Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "A fast multi-platform agent monitoring utility",
-    "id": "mariodian/pincer",
-    "language": "TypeScript",
-    "name": "mariodian/pincer",
-    "stars": 11,
-    "updated_at": "2026-06-11T15:01:00Z",
-    "url": "https://github.com/mariodian/pincer"
   },
   {
     "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 14,
-    "updated_at": "2026-06-11T15:26:46Z",
+    "updated_at": "2026-06-11T15:43:18Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-06-11T14:14:32Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 20,
-    "updated_at": "2026-06-11T14:14:23Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
