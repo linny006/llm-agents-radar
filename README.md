@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-12 04:45 UTC
+> ⏰ Last updated: 2026-06-12 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26714 | Python | 2026-06-12 | Build and run agents you can see, understand and trust. |
-| 2 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Python | 2026-06-12 | An LLM agent for building OpenAPI specifications based on the given code |
-| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 14 | Python | 2026-06-12 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 14 | Python | 2026-06-12 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26714 | Python | 2026-06-12 | Build and run agents you can see, understand and trust. |
+| 3 | [grauwolf32/contractor](https://github.com/grauwolf32/contractor) | 1 | Python | 2026-06-12 | An LLM agent for building OpenAPI specifications based on the given code |
 | 4 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-12 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
 | 5 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-12 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 6 | [JosephHu04/hotel-room-service-agent-v2](https://github.com/JosephHu04/hotel-room-service-agent-v2) | 0 | Python | 2026-06-12 | 🏨 ReAct Agent Template \| LLM as the brain, not a JSON tool \| 4-node LangGraph (Guard→RAG→Agent⇄Tools) \| Swap prompts+too |
