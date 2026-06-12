@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6116 | Python | 2026-06-12 | A model-driven approach to building AI agents in just a few lines of code. |
-| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-12 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-12 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6116 | Python | 2026-06-12 | A model-driven approach to building AI agents in just a few lines of code. |
 | 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 4 | [langroid/langroid](https://github.com/langroid/langroid) | 4039 | Python | 2026-06-12 | Harness LLMs with Multi-Agent Programming |
 | 5 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-12 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |

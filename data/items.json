@@ -1,14 +1,5 @@
 [
   {
-    "description": "A model-driven approach to building AI agents in just a few lines of code.",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6116,
-    "updated_at": "2026-06-12T17:59:04Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -16,6 +7,15 @@
     "stars": 15,
     "updated_at": "2026-06-12T18:00:15Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A model-driven approach to building AI agents in just a few lines of code.",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6116,
+    "updated_at": "2026-06-12T17:59:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
