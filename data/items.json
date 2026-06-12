@@ -1,12 +1,138 @@
 [
   {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-12T13:28:42Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83d\ude80 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type",
+    "id": "villcaf175/PocketFlow-Zig",
+    "language": "Zig",
+    "name": "villcaf175/PocketFlow-Zig",
+    "stars": 1,
+    "updated_at": "2026-06-12T13:27:59Z",
+    "url": "https://github.com/villcaf175/PocketFlow-Zig"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea",
+    "id": "azzan1235/agentic_rag_system",
+    "language": "Python",
+    "name": "azzan1235/agentic_rag_system",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:27:22Z",
+    "url": "https://github.com/azzan1235/agentic_rag_system"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 1,
+    "updated_at": "2026-06-12T13:26:45Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-06-12T13:25:31Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:23:44Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\udda5\ufe0f Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal",
+    "id": "adityasingh0z3/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "adityasingh0z3/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:23:35Z",
+    "url": "https://github.com/adityasingh0z3/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83d\udcca Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va",
+    "id": "pchi123/Paper2Slides",
+    "language": "Python",
+    "name": "pchi123/Paper2Slides",
+    "stars": 3,
+    "updated_at": "2026-06-12T13:23:05Z",
+    "url": "https://github.com/pchi123/Paper2Slides"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data",
+    "id": "sumit7235/Domfie",
+    "language": "Jupyter Notebook",
+    "name": "sumit7235/Domfie",
+    "stars": 1,
+    "updated_at": "2026-06-12T13:22:48Z",
+    "url": "https://github.com/sumit7235/Domfie"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:22:30Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-12T13:21:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:20:16Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "",
     "id": "AtomicBot-ai/atomic-agent",
     "language": "TypeScript",
     "name": "AtomicBot-ai/atomic-agent",
     "stars": 96,
-    "updated_at": "2026-06-12T13:14:41Z",
+    "updated_at": "2026-06-12T13:16:30Z",
     "url": "https://github.com/AtomicBot-ai/atomic-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-12T13:28:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A LangGraph ReAct agent for autonomous public-source OSINT investigation. Five free read-only tools, deterministic evide",
+    "id": "thunderstornX/agentic-osint-agent",
+    "language": "Python",
+    "name": "thunderstornX/agentic-osint-agent",
+    "stars": 0,
+    "updated_at": "2026-06-12T13:15:40Z",
+    "url": "https://github.com/thunderstornX/agentic-osint-agent"
   },
   {
     "description": "",
@@ -18,21 +144,12 @@
     "url": "https://github.com/Ali-Shady/claude-agent-desktop"
   },
   {
-    "description": "A LangGraph ReAct agent for autonomous public-source OSINT investigation. Five free read-only tools, deterministic evide",
-    "id": "thunderstornX/agentic-osint-agent",
-    "language": "Python",
-    "name": "thunderstornX/agentic-osint-agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T13:12:31Z",
-    "url": "https://github.com/thunderstornX/agentic-osint-agent"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4328,
-    "updated_at": "2026-06-12T13:14:49Z",
+    "updated_at": "2026-06-12T13:16:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -297,15 +414,6 @@
     "url": "https://github.com/Lancel0tz/gtm-agent"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-12T13:12:10Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
@@ -333,15 +441,6 @@
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:24:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A fast and minimal agent library for typescript and rust",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T11:10:55Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-12T11:10:15Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2619,
-    "updated_at": "2026-06-12T11:07:50Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Long-term memory for AI coding assistants. Rust CLI with semantic search, Agent Skill integration, and local deployment.",
-    "id": "Zoranner/memo-brain",
-    "language": "Rust",
-    "name": "Zoranner/memo-brain",
-    "stars": 3,
-    "updated_at": "2026-06-12T11:03:51Z",
-    "url": "https://github.com/Zoranner/memo-brain"
-  },
-  {
-    "description": "Simplify interactions with Large Language Models",
-    "id": "hassancs91/SimplerLLM",
-    "language": "Python",
-    "name": "hassancs91/SimplerLLM",
-    "stars": 210,
-    "updated_at": "2026-06-12T11:03:16Z",
-    "url": "https://github.com/hassancs91/SimplerLLM"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:01:49Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-12T11:01:24Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:58:44Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
-    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "language": "Python",
-    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:58:11Z",
-    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:58:07Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
-    "id": "Amaleespinyedged857/chathermes",
-    "language": "\u2014",
-    "name": "Amaleespinyedged857/chathermes",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:56:18Z",
-    "url": "https://github.com/Amaleespinyedged857/chathermes"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-06-12T10:53:39Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   }
 ]
