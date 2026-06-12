@@ -1,5 +1,86 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6117,
+    "updated_at": "2026-06-12T20:00:10Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Terminal coding agent for LibreChat-hosted LLMs \u2014 browser-session auth (no API key), streaming, file and bash tools",
+    "id": "mstampfli/lbc-cli",
+    "language": "Python",
+    "name": "mstampfli/lbc-cli",
+    "stars": 0,
+    "updated_at": "2026-06-12T19:59:17Z",
+    "url": "https://github.com/mstampfli/lbc-cli"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-12T19:58:39Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 3,
+    "updated_at": "2026-06-12T19:56:57Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 7,
+    "updated_at": "2026-06-12T19:54:39Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-12T19:52:56Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-12T19:49:53Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-12T19:49:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-12T19:46:38Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4329,
-    "updated_at": "2026-06-12T19:43:12Z",
+    "updated_at": "2026-06-12T19:58:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-06-12T19:42:33Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-12T19:41:20Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "",
@@ -144,15 +216,6 @@
     "url": "https://github.com/codex-mohan/spectra"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 7,
-    "updated_at": "2026-06-12T19:23:34Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -169,15 +232,6 @@
     "stars": 15,
     "updated_at": "2026-06-12T19:41:37Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript \u2014 any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6117,
-    "updated_at": "2026-06-12T19:14:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:40:00Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:37:58Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:37:52Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:36:45Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8541,
-    "updated_at": "2026-06-12T17:34:34Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:34:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:32:31Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
   }
 ]
