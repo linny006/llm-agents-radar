@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 7,
+    "updated_at": "2026-06-12T01:59:15Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-12T01:58:34Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
+    "id": "mhgd3250905/ugk-claw-personal",
+    "language": "TypeScript",
+    "name": "mhgd3250905/ugk-claw-personal",
+    "stars": 2,
+    "updated_at": "2026-06-12T01:57:01Z",
+    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:55:49Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "\ud83c\udfe8 ReAct Agent Template | LLM as the brain, not a JSON tool | 4-node LangGraph (Guard\u2192RAG\u2192Agent\u21c4Tools) | Swap prompts+too",
+    "id": "JosephHu04/hotel-room-service-agent-v2",
+    "language": "Python",
+    "name": "JosephHu04/hotel-room-service-agent-v2",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:48:02Z",
+    "url": "https://github.com/JosephHu04/hotel-room-service-agent-v2"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 219,
+    "updated_at": "2026-06-12T01:47:33Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-12T01:46:37Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -7,15 +70,6 @@
     "stars": 14,
     "updated_at": "2026-06-12T01:41:31Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
-    "id": "Zeeechenn/MingCang",
-    "language": "Python",
-    "name": "Zeeechenn/MingCang",
-    "stars": 7,
-    "updated_at": "2026-06-12T01:45:01Z",
-    "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -225,15 +279,6 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "\ud83c\udfe8 ReAct Agent Template | LLM as the brain, not a JSON tool | 4-node LangGraph (Guard\u2192RAG\u2192Agent\u21c4Tools) | Swap prompts+too",
-    "id": "JosephHu04/hotel-room-service-agent-v2",
-    "language": "Python",
-    "name": "JosephHu04/hotel-room-service-agent-v2",
-    "stars": 0,
-    "updated_at": "2026-06-12T01:13:56Z",
-    "url": "https://github.com/JosephHu04/hotel-room-service-agent-v2"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T00:57:31Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-12T00:56:48Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-12T00:55:03Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-12T00:53:23Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-12T00:52:23Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-12T00:52:22Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
   }
 ]
