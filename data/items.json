@@ -1,5 +1,50 @@
 [
   {
+    "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T22:59:48Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-12T22:58:54Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "",
+    "id": "Ali-Shady/claude-agent-desktop",
+    "language": "TypeScript",
+    "name": "Ali-Shady/claude-agent-desktop",
+    "stars": 1,
+    "updated_at": "2026-06-12T22:56:31Z",
+    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-12T22:52:54Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-12T22:45:47Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T22:32:50Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -86,7 +122,7 @@
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 12,
-    "updated_at": "2026-06-12T22:31:24Z",
+    "updated_at": "2026-06-12T22:55:23Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T21:30:19Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:29:18Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4329,
-    "updated_at": "2026-06-12T22:41:40Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-12T21:25:30Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-12T21:24:00Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
