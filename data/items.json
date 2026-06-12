@@ -1,5 +1,68 @@
 [
   {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-12T08:29:17Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "samurai-bot/bss-cli",
+    "language": "Python",
+    "name": "samurai-bot/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-06-12T08:28:56Z",
+    "url": "https://github.com/samurai-bot/bss-cli"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-12T08:30:15Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 3,
+    "updated_at": "2026-06-12T08:21:53Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-06-12T08:20:38Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-12T08:18:48Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u8d85\u7ea7\u722c\u866b\u667a\u80fd\u4f53 \u2014 \u81ea\u8fdb\u5316AI\u722c\u866b\u7cfb\u7edf\uff5c\u56db\u539f\u751f\u5f15\u64ce(Go/Python/Java/Rust)\uff5cJS\u9006\u5411(AST\u53cd\u6df7\u6dc6\u00b7Hook\u6ce8\u5165\u00b7\u7b7e\u540d\u8ffd\u8e2a\u00b7WASM\u89e3\u6790)\uff5c\u516d\u9636\u6bb5\u8fdb\u5316\u95ed\u73af(\u89c4\u5212\u00b7\u6279\u5224\u00b7\u6267\u884c\u00b7\u81ea\u4fee\u590d\u00b7\u8fdb\u5316\u00b7\u53cd\u601d)\uff5c\u81ea\u9002\u5e94\u53cd\u68c0\u6d4b\u00b7\u6307\u7eb9\u8f6e\u6362\u00b7\u884c",
+    "id": "Lyx3314844-03/mond-spider-agent",
+    "language": "\u2014",
+    "name": "Lyx3314844-03/mond-spider-agent",
+    "stars": 0,
+    "updated_at": "2026-06-12T08:16:49Z",
+    "url": "https://github.com/Lyx3314844-03/mond-spider-agent"
+  },
+  {
     "description": "AI Harness build on top of typescript",
     "id": "puristajs/harness",
     "language": "TypeScript",
@@ -118,12 +181,12 @@
   },
   {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
-    "id": "randomittin/superx",
+    "id": "randomittin/heimdall",
     "language": "Shell",
-    "name": "randomittin/superx",
+    "name": "randomittin/heimdall",
     "stars": 4,
     "updated_at": "2026-06-12T08:00:12Z",
-    "url": "https://github.com/randomittin/superx"
+    "url": "https://github.com/randomittin/heimdall"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T07:54:00Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "\u8d85\u7ea7\u722c\u866b\u667a\u80fd\u4f53 \u2014 \u81ea\u8fdb\u5316AI\u722c\u866b\u7cfb\u7edf\uff5c\u56db\u539f\u751f\u5f15\u64ce(Go/Python/Java/Rust)\uff5cJS\u9006\u5411(AST\u53cd\u6df7\u6dc6\u00b7Hook\u6ce8\u5165\u00b7\u7b7e\u540d\u8ffd\u8e2a\u00b7WASM\u89e3\u6790)\uff5c\u516d\u9636\u6bb5\u8fdb\u5316\u95ed\u73af(\u89c4\u5212\u00b7\u6279\u5224\u00b7\u6267\u884c\u00b7\u81ea\u4fee\u590d\u00b7\u8fdb\u5316\u00b7\u53cd\u601d)\uff5c\u81ea\u9002\u5e94\u53cd\u68c0\u6d4b\u00b7\u6307\u7eb9\u8f6e\u6362\u00b7\u884c",
-    "id": "Lyx3314844-03/mond-spider-agent",
-    "language": "\u2014",
-    "name": "Lyx3314844-03/mond-spider-agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:52:36Z",
-    "url": "https://github.com/Lyx3314844-03/mond-spider-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -378,15 +432,6 @@
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-12T07:34:21Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T07:32:02Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:31:48Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "samurai-bot/bss-cli",
-    "language": "Python",
-    "name": "samurai-bot/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:32:01Z",
-    "url": "https://github.com/samurai-bot/bss-cli"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:30:55Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:30:49Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2617,
-    "updated_at": "2026-06-12T08:09:54Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
