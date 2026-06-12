@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-12T18:28:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-12T18:28:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
     "id": "9t29zhmwdh-coder/SwiftAgent",
     "language": "Swift",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T18:10:26Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-12T18:08:35Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
@@ -31,7 +40,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6116,
+    "stars": 6117,
     "updated_at": "2026-06-12T17:59:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T17:11:48Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-12T17:11:38Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
