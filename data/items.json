@@ -1,5 +1,14 @@
 [
   {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 224,
+    "updated_at": "2026-06-12T00:01:01Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "",
     "id": "Ali-Shady/claude-agent-desktop",
     "language": "TypeScript",
@@ -61,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-06-11T23:39:50Z",
     "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 224,
-    "updated_at": "2026-06-11T23:38:57Z",
-    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4326,
-    "updated_at": "2026-06-11T23:49:10Z",
+    "updated_at": "2026-06-12T00:01:55Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
