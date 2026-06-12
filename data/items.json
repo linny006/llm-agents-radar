@@ -1,5 +1,176 @@
 [
   {
+    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
+    "id": "Bifcen/Pocket-Pad",
+    "language": "\u2014",
+    "name": "Bifcen/Pocket-Pad",
+    "stars": 0,
+    "updated_at": "2026-06-12T00:59:22Z",
+    "url": "https://github.com/Bifcen/Pocket-Pad"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:58:23Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:57:31Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:56:48Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-06-12T00:55:03Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-06-12T00:53:23Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-12T00:52:23Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
+    "id": "Giahyu943/AutoSage",
+    "language": "Swift",
+    "name": "Giahyu943/AutoSage",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:52:22Z",
+    "url": "https://github.com/Giahyu943/AutoSage"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:51:13Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-12T00:50:43Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
+    "id": "Giggitycountless/LOL-AI-Intelligence",
+    "language": "Rust",
+    "name": "Giggitycountless/LOL-AI-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:50:38Z",
+    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4327,
+    "updated_at": "2026-06-12T00:52:08Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-06-12T00:49:36Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-06-12T00:47:51Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "Sajal2702/agentbench",
+    "language": "Python",
+    "name": "Sajal2702/agentbench",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:47:42Z",
+    "url": "https://github.com/Sajal2702/agentbench"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-12T00:47:08Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
+    "id": "mhgd3250905/ugk-claw-personal",
+    "language": "TypeScript",
+    "name": "mhgd3250905/ugk-claw-personal",
+    "stars": 2,
+    "updated_at": "2026-06-12T00:46:12Z",
+    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-06-12T00:45:22Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 219,
+    "updated_at": "2026-06-12T00:44:17Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
     "id": "gfranrp/Auto-Pentest-LLM",
     "language": "Python",
@@ -225,15 +396,6 @@
     "url": "https://github.com/villcaf175/PocketFlow-Zig"
   },
   {
-    "description": "\u81ea\u6258\u7ba1 HTTP \u7f16\u7a0b Agent \u5de5\u4f5c\u53f0\uff1a\u652f\u6301\u6d41\u5f0f\u5bf9\u8bdd\u3001\u6301\u4e45\u4f1a\u8bdd\u3001\u6587\u4ef6\u4ea4\u4ed8\u3001\u540e\u53f0\u4efb\u52a1\u548c Docker Chrome \u771f\u5b9e\u6d4f\u89c8\u5668\u8bbf\u95ee\u3002",
-    "id": "mhgd3250905/ugk-claw-personal",
-    "language": "TypeScript",
-    "name": "mhgd3250905/ugk-claw-personal",
-    "stars": 2,
-    "updated_at": "2026-06-12T00:12:07Z",
-    "url": "https://github.com/mhgd3250905/ugk-claw-personal"
-  },
-  {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
     "id": "rudramishra4117/ComfyUI-None-upup",
     "language": "JavaScript",
@@ -286,167 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T00:07:46Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T00:05:29Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4327,
-    "updated_at": "2026-06-12T00:23:12Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 224,
-    "updated_at": "2026-06-12T00:01:01Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "",
-    "id": "Ali-Shady/claude-agent-desktop",
-    "language": "TypeScript",
-    "name": "Ali-Shady/claude-agent-desktop",
-    "stars": 1,
-    "updated_at": "2026-06-11T23:59:22Z",
-    "url": "https://github.com/Ali-Shady/claude-agent-desktop"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 218,
-    "updated_at": "2026-06-12T00:44:17Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-06-11T23:55:52Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-06-11T23:52:08Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-06-11T23:48:28Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "birken-embalmment848/agent-lightning",
-    "language": "Python",
-    "name": "birken-embalmment848/agent-lightning",
-    "stars": 3,
-    "updated_at": "2026-06-11T23:46:47Z",
-    "url": "https://github.com/birken-embalmment848/agent-lightning"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-06-11T23:43:29Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
-    "id": "pachipalabharath/bb-applescript-mcp-server",
-    "language": "TypeScript",
-    "name": "pachipalabharath/bb-applescript-mcp-server",
-    "stars": 3,
-    "updated_at": "2026-06-11T23:39:50Z",
-    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-11T23:37:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-06-11T23:36:33Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-06-11T23:32:20Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f Career trajectory exploration system \u2014 Framework that builds and assesses valid career paths through optimization, pl",
-    "id": "jery04/LLM-Pathway-Evaluator",
-    "language": "Python",
-    "name": "jery04/LLM-Pathway-Evaluator",
-    "stars": 0,
-    "updated_at": "2026-06-11T23:29:33Z",
-    "url": "https://github.com/jery04/LLM-Pathway-Evaluator"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-06-11T23:27:19Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 2,
-    "updated_at": "2026-06-11T23:24:19Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-11T23:22:41Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
   }
 ]
