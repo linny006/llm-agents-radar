@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 7,
+    "updated_at": "2026-06-12T12:15:15Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "Feed LLMs financial data and interactive charts in one call \u2014 an MCP server for A-share quotes, financials, and macro in",
+    "id": "hanlinlibham/findatamcp",
+    "language": "Python",
+    "name": "hanlinlibham/findatamcp",
+    "stars": 1,
+    "updated_at": "2026-06-12T12:13:47Z",
+    "url": "https://github.com/hanlinlibham/findatamcp"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-12T12:09:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-12T12:05:36Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "AI-powered go-to-market analysis for game publishers \u2014 a dependency-aware pipeline with cascade updates, LLM-as-judge qu",
     "id": "Lancel0tz/gtm-agent",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-12T11:57:10Z",
+    "updated_at": "2026-06-12T12:14:50Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/eggbrid2/mobileClaw"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-12T11:45:12Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-12T11:40:12Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-12T11:54:03Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:27:57Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-12T10:27:42Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:26:56Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
