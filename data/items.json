@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26714,
+    "updated_at": "2026-06-12T04:41:32Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Python",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-06-12T04:40:13Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-12T04:39:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T03:40:43Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-12T03:40:06Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-12T03:37:26Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 1,
-    "updated_at": "2026-06-12T03:37:16Z",
-    "url": "https://github.com/Sajal2702/agentbench"
   }
 ]
