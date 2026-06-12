@@ -1,12 +1,102 @@
 [
   {
-    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
-    "id": "XederaBills/llm-powered-data-analysis",
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-12T08:45:02Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
     "language": "Python",
-    "name": "XederaBills/llm-powered-data-analysis",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-12T08:44:41Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26723,
+    "updated_at": "2026-06-12T08:44:26Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 5,
+    "updated_at": "2026-06-12T08:43:50Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-12T08:43:21Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 4,
+    "updated_at": "2026-06-12T08:42:36Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-12T08:42:23Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-12T08:41:19Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-12T08:40:34Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u8d85\u7ea7\u722c\u866b\u667a\u80fd\u4f53 \u2014 \u81ea\u8fdb\u5316AI\u722c\u866b\u7cfb\u7edf\uff5c\u56db\u539f\u751f\u5f15\u64ce(Go/Python/Java/Rust)\uff5cJS\u9006\u5411(AST\u53cd\u6df7\u6dc6\u00b7Hook\u6ce8\u5165\u00b7\u7b7e\u540d\u8ffd\u8e2a\u00b7WASM\u89e3\u6790)\uff5c\u516d\u9636\u6bb5\u8fdb\u5316\u95ed\u73af(\u89c4\u5212\u00b7\u6279\u5224\u00b7\u6267\u884c\u00b7\u81ea\u4fee\u590d\u00b7\u8fdb\u5316\u00b7\u53cd\u601d)\uff5c\u81ea\u9002\u5e94\u53cd\u68c0\u6d4b\u00b7\u6307\u7eb9\u8f6e\u6362\u00b7\u884c",
+    "id": "Lyx3314844-03/mond-spider-agent",
+    "language": "\u2014",
+    "name": "Lyx3314844-03/mond-spider-agent",
     "stars": 0,
-    "updated_at": "2026-06-12T08:29:17Z",
-    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+    "updated_at": "2026-06-12T08:37:26Z",
+    "url": "https://github.com/Lyx3314844-03/mond-spider-agent"
+  },
+  {
+    "description": "An \"LLM wiki\" upgraded to a real database \u2014 typed entities, graph relations, HTTP API, and a built-in natural-language a",
+    "id": "dimknaf/braindb",
+    "language": "Python",
+    "name": "dimknaf/braindb",
+    "stars": 69,
+    "updated_at": "2026-06-12T08:37:23Z",
+    "url": "https://github.com/dimknaf/braindb"
   },
   {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "samurai-bot/bss-cli",
     "stars": 1,
-    "updated_at": "2026-06-12T08:28:56Z",
+    "updated_at": "2026-06-12T08:32:42Z",
     "url": "https://github.com/samurai-bot/bss-cli"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-12T08:29:17Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -43,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-12T08:20:38Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 5,
-    "updated_at": "2026-06-12T08:18:48Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u8d85\u7ea7\u722c\u866b\u667a\u80fd\u4f53 \u2014 \u81ea\u8fdb\u5316AI\u722c\u866b\u7cfb\u7edf\uff5c\u56db\u539f\u751f\u5f15\u64ce(Go/Python/Java/Rust)\uff5cJS\u9006\u5411(AST\u53cd\u6df7\u6dc6\u00b7Hook\u6ce8\u5165\u00b7\u7b7e\u540d\u8ffd\u8e2a\u00b7WASM\u89e3\u6790)\uff5c\u516d\u9636\u6bb5\u8fdb\u5316\u95ed\u73af(\u89c4\u5212\u00b7\u6279\u5224\u00b7\u6267\u884c\u00b7\u81ea\u4fee\u590d\u00b7\u8fdb\u5316\u00b7\u53cd\u601d)\uff5c\u81ea\u9002\u5e94\u53cd\u68c0\u6d4b\u00b7\u6307\u7eb9\u8f6e\u6362\u00b7\u884c",
-    "id": "Lyx3314844-03/mond-spider-agent",
-    "language": "\u2014",
-    "name": "Lyx3314844-03/mond-spider-agent",
-    "stars": 0,
-    "updated_at": "2026-06-12T08:16:49Z",
-    "url": "https://github.com/Lyx3314844-03/mond-spider-agent"
   },
   {
     "description": "AI Harness build on top of typescript",
@@ -178,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-06-12T08:00:16Z",
     "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
-    "id": "randomittin/heimdall",
-    "language": "Shell",
-    "name": "randomittin/heimdall",
-    "stars": 4,
-    "updated_at": "2026-06-12T08:00:12Z",
-    "url": "https://github.com/randomittin/heimdall"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -376,77 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-12T07:39:01Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:37:45Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:37:16Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:36:29Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:36:14Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-12T07:35:10Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:35:42Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:32:30Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-12T07:32:02Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
