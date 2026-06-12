@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-12T02:14:09Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-12T02:11:17Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
+    "language": "Python",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-12T02:10:55Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
+  },
+  {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 5,
+    "updated_at": "2026-06-12T02:10:08Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-12T02:09:53Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-12T02:09:06Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-12T02:07:43Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
     "id": "Zeeechenn/MingCang",
     "language": "Python",
@@ -49,7 +112,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 219,
+    "stars": 220,
     "updated_at": "2026-06-12T01:47:33Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-12T01:03:37Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-12T01:02:48Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 224,
-    "updated_at": "2026-06-12T01:02:43Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-12T01:02:40Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-12T01:01:36Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-12T00:59:22Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-12T00:58:23Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-12T00:57:31Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
