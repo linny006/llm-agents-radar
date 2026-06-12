@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI-powered go-to-market analysis for game publishers \u2014 a dependency-aware pipeline with cascade updates, LLM-as-judge qu",
+    "id": "Lancel0tz/gtm-agent",
+    "language": "TypeScript",
+    "name": "Lancel0tz/gtm-agent",
+    "stars": 0,
+    "updated_at": "2026-06-12T11:58:22Z",
+    "url": "https://github.com/Lancel0tz/gtm-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 780,
+    "updated_at": "2026-06-12T11:57:10Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
     "id": "eggbrid2/mobileClaw",
     "language": "Kotlin",
     "name": "eggbrid2/mobileClaw",
     "stars": 286,
-    "updated_at": "2026-06-12T11:42:12Z",
+    "updated_at": "2026-06-12T11:51:20Z",
     "url": "https://github.com/eggbrid2/mobileClaw"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 14,
+    "updated_at": "2026-06-12T11:45:12Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-12T11:27:13Z",
+    "updated_at": "2026-06-12T11:54:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-06-12T11:10:15Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 14,
-    "updated_at": "2026-06-12T11:45:12Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Long-term memory for AI coding assistants. Rust CLI with semantic search, Agent Skill integration, and local deployment.",
@@ -405,15 +423,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-12T11:33:20Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T10:26:56Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-12T10:26:37Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
