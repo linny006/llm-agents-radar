@@ -1,5 +1,95 @@
 [
   {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-13T20:30:13Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-06-13T20:28:27Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-13T20:26:44Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-06-13T20:24:44Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 130,
+    "updated_at": "2026-06-13T20:27:19Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T20:21:28Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-06-13T20:20:14Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-06-13T20:19:57Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-06-13T20:16:59Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T20:16:14Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
     "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
     "id": "nalcapital/ComfyUI_RH_Univideo",
     "language": "Python",
@@ -68,7 +158,7 @@
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-13T20:09:20Z",
+    "updated_at": "2026-06-13T20:24:43Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
@@ -315,15 +405,6 @@
     "url": "https://github.com/birken-embalmment848/agent-lightning"
   },
   {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-13T19:30:04Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T19:16:46Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-06-13T19:16:32Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-06-13T19:11:53Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 2,
-    "updated_at": "2026-06-13T19:08:56Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-13T19:07:12Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-13T19:04:12Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-06-13T19:03:41Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-06-13T19:03:06Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-06-13T19:02:30Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
-    "id": "mikehubers/Awesome-AI-For-Security",
-    "language": "\u2014",
-    "name": "mikehubers/Awesome-AI-For-Security",
-    "stars": 3,
-    "updated_at": "2026-06-13T19:01:29Z",
-    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
   }
 ]
