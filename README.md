@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 22:17 UTC
+> ⏰ Last updated: 2026-06-13 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 130 | TypeScript | 2026-06-13 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 2 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 1 | — | 2026-06-13 | Easy-to-use, high-efficiency threat modeling agent skills. |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-13 | AI-powered image generation and chat studio |
-| 5 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-13 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) | 73 | — | 2026-06-13 |  An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.  |
-| 8 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-13 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 9 | [gptme/gptme](https://github.com/gptme/gptme) | 4330 | Python | 2026-06-13 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 11 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 1 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 2 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 3 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-13 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
+| 4 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 130 | TypeScript | 2026-06-13 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 5 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 1 | — | 2026-06-13 | Easy-to-use, high-efficiency threat modeling agent skills. |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-13 | AI-powered image generation and chat studio |
+| 8 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-13 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 10 | [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) | 73 | — | 2026-06-13 |  An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.  |
+| 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4330 | Python | 2026-06-13 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 12 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 0 | TypeScript | 2026-06-13 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
 | 13 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 65 | TypeScript | 2026-06-13 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 14 | [Afillex/GraphMaker](https://github.com/Afillex/GraphMaker) | 0 | JavaScript | 2026-06-13 | AI-agent playground for step-by-step proof visualizations: C++ state-machine engine + Node REST/WebSocket layer + browse |
