@@ -1,5 +1,77 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:13:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83c\udfa5 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e",
+    "id": "nalcapital/ComfyUI_RH_Univideo",
+    "language": "Python",
+    "name": "nalcapital/ComfyUI_RH_Univideo",
+    "stars": 1,
+    "updated_at": "2026-06-13T06:13:51Z",
+    "url": "https://github.com/nalcapital/ComfyUI_RH_Univideo"
+  },
+  {
+    "description": "\ud83d\udd0a Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the",
+    "id": "huydeptraivaio/ComfyUI-NovaSR",
+    "language": "Python",
+    "name": "huydeptraivaio/ComfyUI-NovaSR",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:11:17Z",
+    "url": "https://github.com/huydeptraivaio/ComfyUI-NovaSR"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:07:56Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-13T06:07:33Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-06-13T06:07:22Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 7,
+    "updated_at": "2026-06-13T06:09:45Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
+    "description": "\ud83c\udf10 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni",
+    "id": "ilaymalka/scraping-browser",
+    "language": "\u2014",
+    "name": "ilaymalka/scraping-browser",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:00:34Z",
+    "url": "https://github.com/ilaymalka/scraping-browser"
+  },
+  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -32,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-13T05:57:03Z",
+    "updated_at": "2026-06-13T06:07:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-13T05:19:51Z",
+    "updated_at": "2026-06-13T06:09:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -275,7 +347,7 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 64,
-    "updated_at": "2026-06-13T05:03:41Z",
+    "updated_at": "2026-06-13T06:14:53Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -311,7 +383,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 21,
-    "updated_at": "2026-06-13T04:51:52Z",
+    "updated_at": "2026-06-13T06:12:04Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T04:39:59Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-06-13T04:39:27Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-06-13T04:38:29Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-06-13T04:38:00Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
-    "id": "mikehubers/Awesome-AI-For-Security",
-    "language": "\u2014",
-    "name": "mikehubers/Awesome-AI-For-Security",
-    "stars": 3,
-    "updated_at": "2026-06-13T04:36:37Z",
-    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-06-13T04:35:24Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Terminal coding agent for LibreChat-hosted LLMs: browser-session auth (no API key), streaming, file and bash tools",
-    "id": "mstampfli/librechat-agent",
-    "language": "Python",
-    "name": "mstampfli/librechat-agent",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:27:43Z",
-    "url": "https://github.com/mstampfli/librechat-agent"
-  },
-  {
-    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
-    "id": "XederaBills/llm-powered-data-analysis",
-    "language": "Python",
-    "name": "XederaBills/llm-powered-data-analysis",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:20:00Z",
-    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5131,
-    "updated_at": "2026-06-13T05:55:36Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
