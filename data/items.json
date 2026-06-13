@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-13T04:44:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-13T04:43:52Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-13T04:39:59Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
+    "language": "Python",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-13T04:39:27Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
+  },
+  {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 5,
+    "updated_at": "2026-06-13T04:38:29Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-13T04:38:00Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-13T04:36:37Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-13T04:35:24Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-13T04:33:56Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Terminal coding agent for LibreChat-hosted LLMs: browser-session auth (no API key), streaming, file and bash tools",
     "id": "mstampfli/librechat-agent",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/mstampfli/librechat-agent"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
+    "description": "\u901a\u7528\u4f01\u4e1a\u7ea7\u6570\u636e\u5206\u6790 Agent\uff1aClaude \u5199\u5e76\u6267\u884c pandas/DuckDB SQL \u56de\u7b54\u4e1a\u52a1\u95ee\u9898\uff0c\u8de8\u6e90 join\uff0c\u8f93\u51fa\u7ed3\u8bba\u5148\u884c\u7684 HTML+Word \u62a5\u544a\u3002General-purpose data-analysis agent th",
+    "id": "nothingbody/enterprise-data-analysis-skill",
     "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-13T04:26:11Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
+    "name": "nothingbody/enterprise-data-analysis-skill",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:25:50Z",
+    "url": "https://github.com/nothingbody/enterprise-data-analysis-skill"
   },
   {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-13T03:28:12Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:27:20Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:27:06Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:26:06Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:23:06Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:23:01Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:22:18Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:22:07Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:19:56Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:18:34Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
