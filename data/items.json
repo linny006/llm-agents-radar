@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 4,
+    "updated_at": "2026-06-13T00:51:57Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
     "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T00:35:37Z",
     "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 4,
-    "updated_at": "2026-06-13T00:30:56Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",

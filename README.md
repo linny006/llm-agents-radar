@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 00:45 UTC
+> ⏰ Last updated: 2026-06-13 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 0 | — | 2026-06-13 | Easy-to-use, high-efficiency threat modeling agent skills. |
-| 2 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-13 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 3 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
-| 4 | [kevinchennewbee/PenglaiAgent](https://github.com/kevinchennewbee/PenglaiAgent) | 4 | Python | 2026-06-13 | 蓬莱 Penglai — 住在你飞书和微信里的中文 AI 管家 · Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched) |
+| 1 | [kevinchennewbee/PenglaiAgent](https://github.com/kevinchennewbee/PenglaiAgent) | 4 | Python | 2026-06-13 | 蓬莱 Penglai — 住在你飞书和微信里的中文 AI 管家 · Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched) |
+| 2 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 0 | — | 2026-06-13 | Easy-to-use, high-efficiency threat modeling agent skills. |
+| 3 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-13 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
+| 4 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
 | 5 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
 | 6 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 7 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-06-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
