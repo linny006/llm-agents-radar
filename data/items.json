@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local LLM BenchMarking",
+    "id": "1337hero/scaffold-bench",
+    "language": "TypeScript",
+    "name": "1337hero/scaffold-bench",
+    "stars": 3,
+    "updated_at": "2026-06-13T04:58:16Z",
+    "url": "https://github.com/1337hero/scaffold-bench"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-13T04:55:55Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 21,
+    "updated_at": "2026-06-13T04:51:52Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:49:46Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "\u901a\u7528\u4f01\u4e1a\u7ea7\u6570\u636e\u5206\u6790 Agent\uff1aClaude \u5199\u5e76\u6267\u884c pandas/DuckDB SQL \u56de\u7b54\u4e1a\u52a1\u95ee\u9898\uff0c\u8de8\u6e90 join\uff0c\u8f93\u51fa\u7ed3\u8bba\u5148\u884c\u7684 HTML+Word \u62a5\u544a\u3002General-purpose data-analysis agent th",
+    "id": "nothingbody/enterprise-data-analysis-skill",
+    "language": "Python",
+    "name": "nothingbody/enterprise-data-analysis-skill",
+    "stars": 0,
+    "updated_at": "2026-06-13T04:47:35Z",
+    "url": "https://github.com/nothingbody/enterprise-data-analysis-skill"
+  },
+  {
+    "description": "Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus \u2014 a living star map w",
+    "id": "CONSTELLATION-ENGINE/constellation-engine",
+    "language": "JavaScript",
+    "name": "CONSTELLATION-ENGINE/constellation-engine",
+    "stars": 60,
+    "updated_at": "2026-06-13T04:46:43Z",
+    "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 2,
+    "updated_at": "2026-06-13T04:46:37Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/mstampfli/librechat-agent"
   },
   {
-    "description": "\u901a\u7528\u4f01\u4e1a\u7ea7\u6570\u636e\u5206\u6790 Agent\uff1aClaude \u5199\u5e76\u6267\u884c pandas/DuckDB SQL \u56de\u7b54\u4e1a\u52a1\u95ee\u9898\uff0c\u8de8\u6e90 join\uff0c\u8f93\u51fa\u7ed3\u8bba\u5148\u884c\u7684 HTML+Word \u62a5\u544a\u3002General-purpose data-analysis agent th",
-    "id": "nothingbody/enterprise-data-analysis-skill",
-    "language": "Python",
-    "name": "nothingbody/enterprise-data-analysis-skill",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:25:50Z",
-    "url": "https://github.com/nothingbody/enterprise-data-analysis-skill"
-  },
-  {
     "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
     "id": "XederaBills/llm-powered-data-analysis",
     "language": "Python",
@@ -121,7 +175,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12813,
+    "stars": 12812,
     "updated_at": "2026-06-13T04:07:46Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T03:33:47Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-13T03:33:23Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:33:20Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:32:47Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:32:32Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-13T03:28:21Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-13T03:28:12Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
   }
 ]
