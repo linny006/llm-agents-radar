@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 130,
+    "updated_at": "2026-06-13T21:40:48Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "vstorm-co/awesome-pydantic-ai",
+    "stars": 73,
+    "updated_at": "2026-06-13T21:40:16Z",
+    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-13T21:44:56Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:37:11Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4330,
+    "updated_at": "2026-06-13T21:38:23Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-13T21:33:56Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
     "id": "Marcos-Auguusto/superx-agentic-orchestrator",
     "language": "HTML",
@@ -18,21 +72,12 @@
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 130,
-    "updated_at": "2026-06-13T21:27:50Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 65,
-    "updated_at": "2026-06-13T21:24:03Z",
+    "updated_at": "2026-06-13T21:30:25Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T21:11:06Z",
     "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-13T21:23:39Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -387,15 +423,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4330,
-    "updated_at": "2026-06-13T20:57:23Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-13T20:45:24Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-13T20:45:10Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-13T20:44:13Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-13T21:12:31Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
