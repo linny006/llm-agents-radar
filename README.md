@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 06:15 UTC
+> ⏰ Last updated: 2026-06-13 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [nalcapital/ComfyUI_RH_Univideo](https://github.com/nalcapital/ComfyUI_RH_Univideo) | 1 | Python | 2026-06-13 | 🎥 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e |
-| 3 | [huydeptraivaio/ComfyUI-NovaSR](https://github.com/huydeptraivaio/ComfyUI-NovaSR) | 0 | Python | 2026-06-13 | 🔊 Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the |
-| 4 | [Emiola033/LLM_Agent](https://github.com/Emiola033/LLM_Agent) | 0 | HTML | 2026-06-13 | 🤖 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly |
-| 5 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-06-13 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
-| 6 | [xaeksx/ComfyUI-AudioSR](https://github.com/xaeksx/ComfyUI-AudioSR) | 6 | Python | 2026-06-13 | 🎶 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list |
-| 7 | [Zeeechenn/MingCang](https://github.com/Zeeechenn/MingCang) | 7 | Python | 2026-06-13 | 本地优先的个人 A 股研究决策工作台 · 案卷式研究闭环：进口判断→证伪→复盘→记忆。人做决策，AI 做广度/证伪/风险。A local-first personal A-share research OS. |
-| 8 | [ilaymalka/scraping-browser](https://github.com/ilaymalka/scraping-browser) | 0 | — | 2026-06-13 | 🌐 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni |
-| 9 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-06-13 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
-| 10 | [Danisxxx/comfyUI-LongLook](https://github.com/Danisxxx/comfyUI-LongLook) | 1 | Python | 2026-06-13 | 🎥 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations  |
-| 11 | [hasting323/AutoGLM-For-Android](https://github.com/hasting323/AutoGLM-For-Android) | 4 | Kotlin | 2026-06-13 | 🤖 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc |
-| 12 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-13 | AI-powered image generation and chat studio |
-| 13 | [axxafo/awesome-agent-benchmarks](https://github.com/axxafo/awesome-agent-benchmarks) | 3 | — | 2026-06-13 | 🧠 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in |
-| 14 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-06-13 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
-| 15 | [villcaf175/PocketFlow-Zig](https://github.com/villcaf175/PocketFlow-Zig) | 1 | Zig | 2026-06-13 | 🚀 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type |
-| 16 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8542 | JavaScript | 2026-06-13 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 17 | [azzan1235/agentic_rag_system](https://github.com/azzan1235/agentic_rag_system) | 0 | Python | 2026-06-13 | 🔍 Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea |
-| 18 | [rudramishra4117/ComfyUI-None-upup](https://github.com/rudramishra4117/ComfyUI-None-upup) | 2 | JavaScript | 2026-06-13 | 🎨 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video |
-| 19 | [Saran1536/ComfyUI-LoaderUtils](https://github.com/Saran1536/ComfyUI-LoaderUtils) | 1 | Python | 2026-06-13 | 🔄 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m |
-| 20 | [adityasingh0z3/obsidian-mcp-server](https://github.com/adityasingh0z3/obsidian-mcp-server) | 0 | TypeScript | 2026-06-13 | 🖥️ Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal |
-| 21 | [pchi123/Paper2Slides](https://github.com/pchi123/Paper2Slides) | 3 | Python | 2026-06-13 | 📊 Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va |
-| 22 | [sumit7235/Domfie](https://github.com/sumit7235/Domfie) | 1 | Jupyter Notebook | 2026-06-13 | 🛠️ Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data |
-| 23 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-06-13 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
-| 24 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-06-13 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
-| 25 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 26 | [PCJIRON/VDA](https://github.com/PCJIRON/VDA) | 1 | Python | 2026-06-13 | VDA (Virtual Desktop Assistant) is a powerful, local, AI-driven assistant that controls your computer like a human. It f |
-| 27 | [Ali-Shady/claude-agent-desktop](https://github.com/Ali-Shady/claude-agent-desktop) | 1 | TypeScript | 2026-06-13 |  |
-| 28 | [brittonhayes/vala](https://github.com/brittonhayes/vala) | 1 | Go | 2026-06-13 | A threat hunter that lives in your terminal with memories in Notion. |
-| 29 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
-| 30 | [yigido41/agentic-ai](https://github.com/yigido41/agentic-ai) | 2 | Python | 2026-06-13 | 🤖 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte |
-| 31 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 130 | TypeScript | 2026-06-13 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 32 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 7 | Go | 2026-06-13 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 33 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 34 | [Daniyal-GraphicDesigner/ai-trading-agent](https://github.com/Daniyal-GraphicDesigner/ai-trading-agent) | 2 | CSS | 2026-06-13 | 🤖 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m |
-| 35 | [birken-embalmment848/agent-lightning](https://github.com/birken-embalmment848/agent-lightning) | 3 | Python | 2026-06-13 |  |
-| 36 | [secondorderai/ouroboros](https://github.com/secondorderai/ouroboros) | 2 | TypeScript | 2026-06-13 | Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer |
-| 37 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-06-13 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
-| 38 | [pachipalabharath/bb-applescript-mcp-server](https://github.com/pachipalabharath/bb-applescript-mcp-server) | 3 | TypeScript | 2026-06-13 | 🌐 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e |
-| 39 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 64 | TypeScript | 2026-06-13 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
-| 40 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-06-13 |  |
-| 41 | [1337hero/scaffold-bench](https://github.com/1337hero/scaffold-bench) | 3 | TypeScript | 2026-06-13 | Local LLM BenchMarking |
-| 42 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 2 | Python | 2026-06-13 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
-| 43 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 21 | TypeScript | 2026-06-13 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 44 | [DAUS089/agentforge](https://github.com/DAUS089/agentforge) | 0 | Python | 2026-06-13 |  |
-| 45 | [nothingbody/enterprise-data-analysis-skill](https://github.com/nothingbody/enterprise-data-analysis-skill) | 0 | Python | 2026-06-13 | 通用企业级数据分析 Agent：Claude 写并执行 pandas/DuckDB SQL 回答业务问题，跨源 join，输出结论先行的 HTML+Word 报告。General-purpose data-analysis agent th |
-| 46 | [CONSTELLATION-ENGINE/constellation-engine](https://github.com/CONSTELLATION-ENGINE/constellation-engine) | 60 | JavaScript | 2026-06-13 | Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus — a living star map w |
-| 47 | [ElfER020/DeepCode](https://github.com/ElfER020/DeepCode) | 2 | Python | 2026-06-13 | 🔍 Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance |
-| 48 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 15 | Python | 2026-06-13 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 49 | [kimmmmyy223/llm-batch](https://github.com/kimmmmyy223/llm-batch) | 1 | Go | 2026-06-13 | 🚀 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with  |
-| 50 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-06-13 |  |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 5 | Python | 2026-06-13 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 2 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 7 | Go | 2026-06-13 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 3 | [gfranrp/Auto-Pentest-LLM](https://github.com/gfranrp/Auto-Pentest-LLM) | 5 | Python | 2026-06-13 | 🔍 Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and  |
+| 4 | [Eternego-AI/eternego](https://github.com/Eternego-AI/eternego) | 12 | Python | 2026-06-13 | The Eternego codebase |
+| 5 | [mohahasan/ios-agentic-skills](https://github.com/mohahasan/ios-agentic-skills) | 3 | JavaScript | 2026-06-13 | 🔍 Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati |
+| 6 | [dogunkim/llmnet](https://github.com/dogunkim/llmnet) | 0 | TypeScript | 2026-06-13 | 🔍 Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge  |
+| 7 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-06-13 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
+| 8 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 21 | TypeScript | 2026-06-13 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 9 | [UrRafiFirdaus/ComfyUI_FL-HeartMuLa](https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa) | 0 | HTML | 2026-06-13 | 🎶 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL |
+| 10 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5131 | Python | 2026-06-13 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 11 | [Toywa/awesome-pydantic-ai](https://github.com/Toywa/awesome-pydantic-ai) | 0 | — | 2026-06-13 | 🤖 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured |
+| 12 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 64 | TypeScript | 2026-06-13 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
+| 13 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 14 | [nalcapital/ComfyUI_RH_Univideo](https://github.com/nalcapital/ComfyUI_RH_Univideo) | 1 | Python | 2026-06-13 | 🎥 Transform your video editing with ComfyUI nodes for UniVideo, enabling seamless video understanding, generation, and e |
+| 15 | [huydeptraivaio/ComfyUI-NovaSR](https://github.com/huydeptraivaio/ComfyUI-NovaSR) | 0 | Python | 2026-06-13 | 🔊 Boost audio quality with ComfyUI-NovaSR, an ultra-fast custom node delivering superior sound resolution powered by the |
+| 16 | [Emiola033/LLM_Agent](https://github.com/Emiola033/LLM_Agent) | 0 | HTML | 2026-06-13 | 🤖 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly |
+| 17 | [faheela-786/ComfyUI-qwenmultiangle](https://github.com/faheela-786/ComfyUI-qwenmultiangle) | 2 | — | 2026-06-13 | 🎥 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp |
+| 18 | [xaeksx/ComfyUI-AudioSR](https://github.com/xaeksx/ComfyUI-AudioSR) | 6 | Python | 2026-06-13 | 🎶 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list |
+| 19 | [Zeeechenn/MingCang](https://github.com/Zeeechenn/MingCang) | 7 | Python | 2026-06-13 | 本地优先的个人 A 股研究决策工作台 · 案卷式研究闭环：进口判断→证伪→复盘→记忆。人做决策，AI 做广度/证伪/风险。A local-first personal A-share research OS. |
+| 20 | [ilaymalka/scraping-browser](https://github.com/ilaymalka/scraping-browser) | 0 | — | 2026-06-13 | 🌐 Automate dynamic web scraping with Scraping Browser, a fully managed headless browser solution using Puppeteer, Seleni |
+| 21 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-06-13 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
+| 22 | [Danisxxx/comfyUI-LongLook](https://github.com/Danisxxx/comfyUI-LongLook) | 1 | Python | 2026-06-13 | 🎥 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations  |
+| 23 | [hasting323/AutoGLM-For-Android](https://github.com/hasting323/AutoGLM-For-Android) | 4 | Kotlin | 2026-06-13 | 🤖 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc |
+| 24 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-13 | AI-powered image generation and chat studio |
+| 25 | [axxafo/awesome-agent-benchmarks](https://github.com/axxafo/awesome-agent-benchmarks) | 3 | — | 2026-06-13 | 🧠 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in |
+| 26 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-06-13 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
+| 27 | [villcaf175/PocketFlow-Zig](https://github.com/villcaf175/PocketFlow-Zig) | 1 | Zig | 2026-06-13 | 🚀 Build LLM-powered workflows with PocketFlow-Zig, a lightweight framework leveraging Zig's features for efficient, type |
+| 28 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8542 | JavaScript | 2026-06-13 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 29 | [azzan1235/agentic_rag_system](https://github.com/azzan1235/agentic_rag_system) | 0 | Python | 2026-06-13 | 🔍 Enhance retrieval with the Agentic RAG System, featuring intelligent query routing, self-correcting retrieval, and rea |
+| 30 | [rudramishra4117/ComfyUI-None-upup](https://github.com/rudramishra4117/ComfyUI-None-upup) | 2 | JavaScript | 2026-06-13 | 🎨 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video |
+| 31 | [Saran1536/ComfyUI-LoaderUtils](https://github.com/Saran1536/ComfyUI-LoaderUtils) | 1 | Python | 2026-06-13 | 🔄 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m |
+| 32 | [adityasingh0z3/obsidian-mcp-server](https://github.com/adityasingh0z3/obsidian-mcp-server) | 0 | TypeScript | 2026-06-13 | 🖥️ Manage your Obsidian vault with this TypeScript MCP server, offering core operations, advanced search, and graph anal |
+| 33 | [pchi123/Paper2Slides](https://github.com/pchi123/Paper2Slides) | 3 | Python | 2026-06-13 | 📊 Transform research papers into professional slides and posters seamlessly and quickly with Paper2Slides, saving you va |
+| 34 | [sumit7235/Domfie](https://github.com/sumit7235/Domfie) | 1 | Jupyter Notebook | 2026-06-13 | 🛠️ Simplify web scraping with Domfie, the self-healing scraper that adapts to changes in the DOM, ensuring reliable data |
+| 35 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-06-13 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 36 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-06-13 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 37 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 38 | [PCJIRON/VDA](https://github.com/PCJIRON/VDA) | 1 | Python | 2026-06-13 | VDA (Virtual Desktop Assistant) is a powerful, local, AI-driven assistant that controls your computer like a human. It f |
+| 39 | [Ali-Shady/claude-agent-desktop](https://github.com/Ali-Shady/claude-agent-desktop) | 1 | TypeScript | 2026-06-13 |  |
+| 40 | [brittonhayes/vala](https://github.com/brittonhayes/vala) | 1 | Go | 2026-06-13 | A threat hunter that lives in your terminal with memories in Notion. |
+| 41 | [Marcos-Auguusto/superx-agentic-orchestrator](https://github.com/Marcos-Auguusto/superx-agentic-orchestrator) | 0 | HTML | 2026-06-13 | SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning |
+| 42 | [yigido41/agentic-ai](https://github.com/yigido41/agentic-ai) | 2 | Python | 2026-06-13 | 🤖 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte |
+| 43 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 130 | TypeScript | 2026-06-13 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 44 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 45 | [Daniyal-GraphicDesigner/ai-trading-agent](https://github.com/Daniyal-GraphicDesigner/ai-trading-agent) | 2 | CSS | 2026-06-13 | 🤖 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m |
+| 46 | [birken-embalmment848/agent-lightning](https://github.com/birken-embalmment848/agent-lightning) | 3 | Python | 2026-06-13 |  |
+| 47 | [secondorderai/ouroboros](https://github.com/secondorderai/ouroboros) | 2 | TypeScript | 2026-06-13 | Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer |
+| 48 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-06-13 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
+| 49 | [pachipalabharath/bb-applescript-mcp-server](https://github.com/pachipalabharath/bb-applescript-mcp-server) | 3 | TypeScript | 2026-06-13 | 🌐 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e |
+| 50 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-06-13 |  |
 <!-- TRACKER_TABLE_END -->
 
 ---

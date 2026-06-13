@@ -1,5 +1,113 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 5,
+    "updated_at": "2026-06-13T06:29:30Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 7,
+    "updated_at": "2026-06-13T06:28:43Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 5,
+    "updated_at": "2026-06-13T06:28:16Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "The Eternego codebase",
+    "id": "Eternego-AI/eternego",
+    "language": "Python",
+    "name": "Eternego-AI/eternego",
+    "stars": 12,
+    "updated_at": "2026-06-13T06:27:33Z",
+    "url": "https://github.com/Eternego-AI/eternego"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T06:23:47Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
+    "id": "dogunkim/llmnet",
+    "language": "TypeScript",
+    "name": "dogunkim/llmnet",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:22:04Z",
+    "url": "https://github.com/dogunkim/llmnet"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-06-13T06:21:34Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 21,
+    "updated_at": "2026-06-13T06:26:40Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:17:44Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5131,
+    "updated_at": "2026-06-13T06:18:06Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
+    "id": "Toywa/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "Toywa/awesome-pydantic-ai",
+    "stars": 0,
+    "updated_at": "2026-06-13T06:16:13Z",
+    "url": "https://github.com/Toywa/awesome-pydantic-ai"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 64,
+    "updated_at": "2026-06-13T06:20:40Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -104,7 +212,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-13T06:07:13Z",
+    "updated_at": "2026-06-13T06:22:00Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -279,15 +387,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 7,
-    "updated_at": "2026-06-13T06:09:18Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -342,15 +441,6 @@
     "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
   },
   {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 64,
-    "updated_at": "2026-06-13T06:14:53Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-13T05:01:04Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Local LLM BenchMarking",
-    "id": "1337hero/scaffold-bench",
-    "language": "TypeScript",
-    "name": "1337hero/scaffold-bench",
-    "stars": 3,
-    "updated_at": "2026-06-13T04:58:16Z",
-    "url": "https://github.com/1337hero/scaffold-bench"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-06-13T04:55:55Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 21,
-    "updated_at": "2026-06-13T06:12:04Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "",
-    "id": "DAUS089/agentforge",
-    "language": "Python",
-    "name": "DAUS089/agentforge",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:49:46Z",
-    "url": "https://github.com/DAUS089/agentforge"
-  },
-  {
-    "description": "\u901a\u7528\u4f01\u4e1a\u7ea7\u6570\u636e\u5206\u6790 Agent\uff1aClaude \u5199\u5e76\u6267\u884c pandas/DuckDB SQL \u56de\u7b54\u4e1a\u52a1\u95ee\u9898\uff0c\u8de8\u6e90 join\uff0c\u8f93\u51fa\u7ed3\u8bba\u5148\u884c\u7684 HTML+Word \u62a5\u544a\u3002General-purpose data-analysis agent th",
-    "id": "nothingbody/enterprise-data-analysis-skill",
-    "language": "Python",
-    "name": "nothingbody/enterprise-data-analysis-skill",
-    "stars": 0,
-    "updated_at": "2026-06-13T04:47:35Z",
-    "url": "https://github.com/nothingbody/enterprise-data-analysis-skill"
-  },
-  {
-    "description": "Most AI agents forget you the moment the tab closes. Constellation Engine gives them a hippocampus \u2014 a living star map w",
-    "id": "CONSTELLATION-ENGINE/constellation-engine",
-    "language": "JavaScript",
-    "name": "CONSTELLATION-ENGINE/constellation-engine",
-    "stars": 60,
-    "updated_at": "2026-06-13T04:46:43Z",
-    "url": "https://github.com/CONSTELLATION-ENGINE/constellation-engine"
-  },
-  {
-    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
-    "id": "ElfER020/DeepCode",
-    "language": "Python",
-    "name": "ElfER020/DeepCode",
-    "stars": 2,
-    "updated_at": "2026-06-13T04:46:37Z",
-    "url": "https://github.com/ElfER020/DeepCode"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-13T04:44:41Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
-    "id": "kimmmmyy223/llm-batch",
-    "language": "Go",
-    "name": "kimmmmyy223/llm-batch",
-    "stars": 1,
-    "updated_at": "2026-06-13T04:43:52Z",
-    "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-13T04:39:59Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
