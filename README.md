@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-13 11:49 UTC
+> ⏰ Last updated: 2026-06-13 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hellomyoh/Agent-Spec-Kit](https://github.com/hellomyoh/Agent-Spec-Kit) | 0 | — | 2026-06-13 | An "LLM wiki" for coding agents — applies Karpathy's idea of a persistent, self-maintained, cross-referenced markdown wi |
-| 2 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 3 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 4 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-13 | A fast and minimal agent library for typescript and rust |
+| 1 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-13 | A fast and minimal agent library for typescript and rust |
+| 2 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 52 | Python | 2026-06-13 | A library-science-inspired personal knowledge management system with LLM agents |
+| 3 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-06-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 4 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-06-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
 | 5 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-06-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
 | 6 | [Quadragesimaaffairedhonneur809/hermes-soul-governance](https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance) | 0 | Python | 2026-06-13 | Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management |
 | 7 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-06-13 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |

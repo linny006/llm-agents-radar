@@ -1,12 +1,21 @@
 [
   {
-    "description": "An \"LLM wiki\" for coding agents \u2014 applies Karpathy's idea of a persistent, self-maintained, cross-referenced markdown wi",
-    "id": "hellomyoh/Agent-Spec-Kit",
-    "language": "\u2014",
-    "name": "hellomyoh/Agent-Spec-Kit",
-    "stars": 0,
-    "updated_at": "2026-06-13T11:48:34Z",
-    "url": "https://github.com/hellomyoh/Agent-Spec-Kit"
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-13T11:53:45Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 52,
+    "updated_at": "2026-06-13T11:50:13Z",
+    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T11:47:14Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-13T11:44:46Z",
-    "url": "https://github.com/codex-mohan/spectra"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
