@@ -1,10 +1,73 @@
 [
   {
+    "description": "",
+    "id": "birken-embalmment848/agent-lightning",
+    "language": "Python",
+    "name": "birken-embalmment848/agent-lightning",
+    "stars": 3,
+    "updated_at": "2026-06-14T01:58:51Z",
+    "url": "https://github.com/birken-embalmment848/agent-lightning"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-14T01:55:08Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-14T01:52:24Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-14T01:49:22Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4330,
+    "updated_at": "2026-06-14T01:48:55Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
+    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "language": "HTML",
+    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-14T01:45:36Z",
+    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-14T01:45:32Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12843,
+    "stars": 12844,
     "updated_at": "2026-06-14T01:43:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -27,6 +90,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 5,
+    "updated_at": "2026-06-14T01:39:33Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
     "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
     "id": "ElfER020/DeepCode",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T01:37:05Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 5,
-    "updated_at": "2026-06-14T01:39:33Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T00:34:58Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-14T00:34:52Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-14T00:34:17Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
-    "id": "isratmim643-ux/VencordAutoPatcher",
-    "language": "C#",
-    "name": "isratmim643-ux/VencordAutoPatcher",
-    "stars": 0,
-    "updated_at": "2026-06-14T00:33:58Z",
-    "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-14T00:32:59Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-14T00:29:48Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-14T00:29:26Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-14T00:28:43Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
