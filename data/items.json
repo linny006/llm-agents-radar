@@ -1,5 +1,41 @@
 [
   {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-14T10:44:32Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Local-first autonomous coding agent (Claude Code/OpenDevin-style) on Ollama qwen2.5-coder \u2014 agent loop, tool calling, Do",
+    "id": "Yad4o/Shawty",
+    "language": "Python",
+    "name": "Yad4o/Shawty",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:42:20Z",
+    "url": "https://github.com/Yad4o/Shawty"
+  },
+  {
+    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:40:10Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Partner AI Agent Runtime",
+    "id": "slhaf/Partner",
+    "language": "Java",
+    "name": "slhaf/Partner",
+    "stars": 1,
+    "updated_at": "2026-06-14T10:30:32Z",
+    "url": "https://github.com/slhaf/Partner"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -9,21 +45,12 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 1,
-    "updated_at": "2026-06-14T10:21:09Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4330,
-    "updated_at": "2026-06-14T10:23:30Z",
+    "updated_at": "2026-06-14T10:39:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T10:15:06Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:13:02Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T09:34:13Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-14T09:33:58Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-14T09:32:22Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
