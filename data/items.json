@@ -1,11 +1,47 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-14T14:37:07Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "SamurAIGPT/awesome-openclaw",
+    "language": "\u2014",
+    "name": "SamurAIGPT/awesome-openclaw",
+    "stars": 957,
+    "updated_at": "2026-06-14T14:36:53Z",
+    "url": "https://github.com/SamurAIGPT/awesome-openclaw"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-14T14:35:57Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain \u2014 pick what you need on a dash",
+    "id": "dorisgyl/design-pack",
+    "language": "JavaScript",
+    "name": "dorisgyl/design-pack",
+    "stars": 0,
+    "updated_at": "2026-06-14T14:33:54Z",
+    "url": "https://github.com/dorisgyl/design-pack"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2625,
-    "updated_at": "2026-06-14T14:29:19Z",
+    "updated_at": "2026-06-14T14:35:22Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-14T14:23:45Z",
     "url": "https://github.com/XederaBills/llm-powered-data-analysis"
-  },
-  {
-    "description": "A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain \u2014 pick what you need on a dash",
-    "id": "dorisgyl/design-pack",
-    "language": "JavaScript",
-    "name": "dorisgyl/design-pack",
-    "stars": 0,
-    "updated_at": "2026-06-14T14:17:36Z",
-    "url": "https://github.com/dorisgyl/design-pack"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T13:30:39Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:29:24Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-14T13:26:29Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-14T13:26:07Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
