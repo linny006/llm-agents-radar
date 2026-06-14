@@ -1,5 +1,23 @@
 [
   {
+    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 1,
+    "updated_at": "2026-06-14T12:16:30Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-14T12:16:18Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "",
     "id": "birken-embalmment848/agent-lightning",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2623,
-    "updated_at": "2026-06-14T12:14:04Z",
+    "updated_at": "2026-06-14T12:15:19Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 203,
     "updated_at": "2026-06-14T11:58:05Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 1,
-    "updated_at": "2026-06-14T11:56:16Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4330,
-    "updated_at": "2026-06-14T11:59:11Z",
+    "updated_at": "2026-06-14T12:20:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T10:01:31Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-06-14T10:00:54Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
