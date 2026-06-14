@@ -1,5 +1,68 @@
 [
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 23,
+    "updated_at": "2026-06-14T16:10:11Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-14T16:10:06Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
+    "id": "ghosthunter8/AgentUI",
+    "language": "JavaScript",
+    "name": "ghosthunter8/AgentUI",
+    "stars": 0,
+    "updated_at": "2026-06-14T16:08:35Z",
+    "url": "https://github.com/ghosthunter8/AgentUI"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-14T16:06:56Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
+    "id": "gfranrp/Auto-Pentest-LLM",
+    "language": "Python",
+    "name": "gfranrp/Auto-Pentest-LLM",
+    "stars": 6,
+    "updated_at": "2026-06-14T16:05:00Z",
+    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
+  },
+  {
+    "description": "Local AI Agent Runtime",
+    "id": "raym33/r",
+    "language": "Python",
+    "name": "raym33/r",
+    "stars": 14,
+    "updated_at": "2026-06-14T16:01:52Z",
+    "url": "https://github.com/raym33/r"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 3,
+    "updated_at": "2026-06-14T16:01:19Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
     "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
     "id": "dogunkim/llmnet",
     "language": "TypeScript",
@@ -108,15 +171,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 23,
-    "updated_at": "2026-06-14T15:41:55Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
     "id": "hasting323/AutoGLM-For-Android",
     "language": "Kotlin",
@@ -151,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-06-14T15:38:05Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Local AI Agent Runtime",
-    "id": "raym33/r",
-    "language": "Python",
-    "name": "raym33/r",
-    "stars": 14,
-    "updated_at": "2026-06-14T15:36:03Z",
-    "url": "https://github.com/raym33/r"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T14:43:16Z",
     "url": "https://github.com/kimmmmyy223/llm-batch"
-  },
-  {
-    "description": "Hermes-native LLM agent that bets FIFA World Cup 2026 markets on Kalshi using narrative reasoning over live X data, with",
-    "id": "gschex4/kairos",
-    "language": "Python",
-    "name": "gschex4/kairos",
-    "stars": 0,
-    "updated_at": "2026-06-14T14:40:01Z",
-    "url": "https://github.com/gschex4/kairos"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-06-14T14:39:34Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
-    "id": "MohamedEmad219/ai-agents-reality-check",
-    "language": "Python",
-    "name": "MohamedEmad219/ai-agents-reality-check",
-    "stars": 1,
-    "updated_at": "2026-06-14T14:39:34Z",
-    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
-  },
-  {
-    "description": "\u5927\u8111(Claude)\u51fa\u89c4\u683c \u00b7 \u624b(\u672c\u5730\u6a21\u578b)\u6267\u884c \u00b7 \u62a4\u680f\u515c\u5e95 \u2014\u2014 \u4e00\u5957\u7701 cc token \u7684\u7f16\u7801\u5de5\u4f5c\u6d41",
-    "id": "Song-ic/Qwen-Agent",
-    "language": "Python",
-    "name": "Song-ic/Qwen-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-14T14:39:10Z",
-    "url": "https://github.com/Song-ic/Qwen-Agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
-    "id": "Bhavya0007/AI-Agents-Hub",
-    "language": "Jupyter Notebook",
-    "name": "Bhavya0007/AI-Agents-Hub",
-    "stars": 5,
-    "updated_at": "2026-06-14T14:38:20Z",
-    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
   }
 ]
