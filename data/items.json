@@ -1,5 +1,23 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4330,
+    "updated_at": "2026-06-14T04:42:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:39:50Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
     "description": "OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat",
     "id": "Ayush-Kumar0207/PatchCascade-SOC",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-06-14T04:25:03Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-14T04:23:24Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T03:04:45Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:04:32Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
