@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-14T19:13:29Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-14T16:50:19Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-14T16:48:29Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
