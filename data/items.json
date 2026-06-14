@@ -1,11 +1,38 @@
 [
   {
+    "description": "OpenEnv-compliant RL environment for autonomous vulnerability patch management. Trains AI agents to balance security pat",
+    "id": "Ayush-Kumar0207/PatchCascade-SOC",
+    "language": "Python",
+    "name": "Ayush-Kumar0207/PatchCascade-SOC",
+    "stars": 0,
+    "updated_at": "2026-06-14T04:26:02Z",
+    "url": "https://github.com/Ayush-Kumar0207/PatchCascade-SOC"
+  },
+  {
+    "description": "Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic \u2014 with live argument mapping, fact-check bad",
+    "id": "richer-richard/socratic-council",
+    "language": "TypeScript",
+    "name": "richer-richard/socratic-council",
+    "stars": 6,
+    "updated_at": "2026-06-14T04:25:58Z",
+    "url": "https://github.com/richer-richard/socratic-council"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-14T04:25:03Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-14T03:56:04Z",
+    "updated_at": "2026-06-14T04:23:24Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
@@ -14,8 +41,17 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 66,
-    "updated_at": "2026-06-14T04:07:59Z",
+    "updated_at": "2026-06-14T04:24:00Z",
     "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5138,
+    "updated_at": "2026-06-14T04:20:27Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T03:04:32Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "SuperX Autonomous AI Agent 2026: 14 Specialized Coders, 10x Parallel Execution & Adaptive Skill Learning",
-    "id": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "language": "HTML",
-    "name": "Marcos-Auguusto/superx-agentic-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:04:18Z",
-    "url": "https://github.com/Marcos-Auguusto/superx-agentic-orchestrator"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-14T03:02:37Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-14T03:00:17Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-14T02:59:46Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
