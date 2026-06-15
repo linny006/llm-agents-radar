@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u57fa\u4e8e LLM Agent \u7684\u667a\u80fd\u63a5\u53e3\u6d4b\u8bd5\u5e73\u53f0\uff1aRAG \u6587\u6863\u95ee\u7b54 / \u7528\u4f8b\u81ea\u52a8\u751f\u6210\u4e0e\u8bc4\u5ba1 / LangGraph \u591aAgent\u5de5\u4f5c\u6d41 / \u5931\u8d25\u5f52\u56e0\u5206\u6790 / pytest \u56de\u5f52\u811a\u672c\u6c89\u6dc0\uff0c\u652f\u6301\u591a\u6a21\u578b\u5207\u6362\u4e0e\u591a\u88ab\u6d4b\u7cfb\u7edf\u96f6\u4ee3\u7801\u63a5\u5165",
+    "id": "gzq6665/testpilot",
+    "language": "Python",
+    "name": "gzq6665/testpilot",
+    "stars": 1,
+    "updated_at": "2026-06-15T01:10:06Z",
+    "url": "https://github.com/gzq6665/testpilot"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-15T01:05:43Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
+    "description": "DGX Spark Qwen3.5-122B-A10B local super-agent with 262K context, ~40 TPS, OpenAI-compatible vLLM serving, Claude Code an",
+    "id": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "language": "Python",
+    "name": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "stars": 0,
+    "updated_at": "2026-06-15T01:05:30Z",
+    "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
     "stars": 12864,
-    "updated_at": "2026-06-15T00:59:37Z",
+    "updated_at": "2026-06-15T01:00:45Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4040,
-    "updated_at": "2026-06-15T00:25:36Z",
+    "updated_at": "2026-06-15T01:04:51Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 4332,
     "updated_at": "2026-06-15T00:57:07Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "DGX Spark Qwen3.5-122B-A10B local super-agent with 262K context, ~40 TPS, OpenAI-compatible vLLM serving, Claude Code an",
-    "id": "airawatraj/dgx-spark-qwen-omni-super-agent",
-    "language": "Python",
-    "name": "airawatraj/dgx-spark-qwen-omni-super-agent",
-    "stars": 0,
-    "updated_at": "2026-06-15T00:17:50Z",
-    "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-14T23:14:54Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-14T23:14:38Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-14T23:13:40Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
