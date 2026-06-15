@@ -1,12 +1,84 @@
 [
   {
-    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
-    "id": "XederaBills/llm-powered-data-analysis",
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:28:16Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83e\udd16 Benchmark AI agent capabilities, bridging the gap between hype and reality with clear metrics and insights for informe",
+    "id": "MohamedEmad219/ai-agents-reality-check",
     "language": "Python",
-    "name": "XederaBills/llm-powered-data-analysis",
+    "name": "MohamedEmad219/ai-agents-reality-check",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:27:55Z",
+    "url": "https://github.com/MohamedEmad219/ai-agents-reality-check"
+  },
+  {
+    "description": "\ud83e\udd16 Build and explore powerful AI agents that solve real-world tasks using tools, memory, and reasoning within a collabora",
+    "id": "Bhavya0007/AI-Agents-Hub",
+    "language": "Jupyter Notebook",
+    "name": "Bhavya0007/AI-Agents-Hub",
+    "stars": 5,
+    "updated_at": "2026-06-15T14:27:08Z",
+    "url": "https://github.com/Bhavya0007/AI-Agents-Hub"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-15T14:26:57Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4332,
+    "updated_at": "2026-06-15T14:28:58Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Discover essential tools and resources that leverage AI for enhancing cybersecurity, focusing on modern technologies ",
+    "id": "mikehubers/Awesome-AI-For-Security",
+    "language": "\u2014",
+    "name": "mikehubers/Awesome-AI-For-Security",
+    "stars": 3,
+    "updated_at": "2026-06-15T14:25:40Z",
+    "url": "https://github.com/mikehubers/Awesome-AI-For-Security"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:24:43Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 0,
-    "updated_at": "2026-06-15T14:12:43Z",
-    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+    "updated_at": "2026-06-15T14:20:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:16:58Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -16,6 +88,15 @@
     "stars": 15,
     "updated_at": "2026-06-15T14:15:03Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:12:43Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -63,15 +144,6 @@
     "url": "https://github.com/1850298154/memory_agent_hub"
   },
   {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:46:12Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
-  },
-  {
     "description": "AI Systems Engineering Workbench for Test Automation \u2014 structured generation, explainable healing, evaluation, observabi",
     "id": "yashwant-das/testing-llm-automation-engine",
     "language": "Python",
@@ -85,7 +157,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6142,
+    "stars": 6143,
     "updated_at": "2026-06-15T13:43:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -121,7 +193,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12886,
+    "stars": 12887,
     "updated_at": "2026-06-15T13:35:30Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -302,7 +374,7 @@
     "language": "TypeScript",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-15T12:45:12Z",
+    "updated_at": "2026-06-15T14:25:57Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T12:37:25Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:33:18Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 780,
-    "updated_at": "2026-06-15T13:53:27Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:31:45Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:30:05Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:29:03Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:27:45Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8694,
-    "updated_at": "2026-06-15T12:27:30Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Coherent Workspace \u2014 the data plane for shared agent state",
-    "id": "hipvlady/agent-coherence",
-    "language": "Python",
-    "name": "hipvlady/agent-coherence",
-    "stars": 9,
-    "updated_at": "2026-06-15T12:29:43Z",
-    "url": "https://github.com/hipvlady/agent-coherence"
   }
 ]
