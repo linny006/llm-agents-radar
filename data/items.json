@@ -1,11 +1,20 @@
 [
   {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 12,
+    "updated_at": "2026-06-15T07:15:05Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
     "description": "\ud83e\udd52 Pickle \u2014 MCP server + skills for managers. Audits team performance across ClickUp, Slack, and Microsoft Teams. Compare",
     "id": "adityaarsharma/pickle",
     "language": "HTML",
     "name": "adityaarsharma/pickle",
     "stars": 3,
-    "updated_at": "2026-06-15T06:59:24Z",
+    "updated_at": "2026-06-15T07:05:32Z",
     "url": "https://github.com/adityaarsharma/pickle"
   },
   {
@@ -27,12 +36,21 @@
     "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 134,
+    "updated_at": "2026-06-15T06:49:18Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 7,
-    "updated_at": "2026-06-15T06:45:27Z",
+    "updated_at": "2026-06-15T07:02:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 204,
     "updated_at": "2026-06-15T06:39:32Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 12,
-    "updated_at": "2026-06-15T06:39:59Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T05:44:49Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide automated, context-aware code reviews for GitLab Merge Requests using AI that analyzes the codebase and past con",
-    "id": "willton-easy/gitlab-review-agent",
-    "language": "Go",
-    "name": "willton-easy/gitlab-review-agent",
-    "stars": 1,
-    "updated_at": "2026-06-15T05:44:29Z",
-    "url": "https://github.com/willton-easy/gitlab-review-agent"
   }
 ]
