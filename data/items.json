@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:40:25Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "AI Systems Engineering Workbench for Test Automation \u2014 structured generation, explainable healing, evaluation, observabi",
+    "id": "yashwant-das/testing-llm-automation-engine",
+    "language": "Python",
+    "name": "yashwant-das/testing-llm-automation-engine",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:39:12Z",
+    "url": "https://github.com/yashwant-das/testing-llm-automation-engine"
+  },
+  {
+    "description": "",
+    "id": "DAUS089/agentforge",
+    "language": "Python",
+    "name": "DAUS089/agentforge",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:35:48Z",
+    "url": "https://github.com/DAUS089/agentforge"
+  },
+  {
+    "description": "\ud83e\uddd9 CodeSage \u2014 CodeRabbit \ubca4\uce58\ub9c8\ud0b9 AI \ucf54\ub4dc\ub9ac\ubdf0 \uc5d0\uc774\uc804\ud2b8 (FastAPI + Gemini). GitHub PR \uc790\ub3d9 \uc778\ub77c\uc778 \ub9ac\ubdf0: \uc815\uc801\ubd84\uc11d(ruff)+LLM \ud558\uc774\ube0c\ub9ac\ub4dc, Webhook\u2192Redis Q",
+    "id": "SkyWith628/codesage",
+    "language": "Python",
+    "name": "SkyWith628/codesage",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:33:38Z",
+    "url": "https://github.com/SkyWith628/codesage"
+  },
+  {
+    "description": "\ud83d\udc3b \uc9c1\uad6c\uacf0 \u2014 Amazon US\u2192\ub124\uc774\ubc84 \uc2a4\ub9c8\ud2b8\uc2a4\ud1a0\uc5b4 \ubb34\uc7ac\uace0 \uad6c\ub9e4\ub300\ud589 \uc790\ub3d9\ud654. \ub3c8=\uacb0\uc815\ub860 \ud30c\uc774\ud504\ub77c\uc778, \ud310\ub2e8=\uba40\ud2f0\uc5d0\uc774\uc804\ud2b8(\ud3c9\uac00/\ucf58\ud150\uce20/CS). FastAPI+Next.js \uc5b4\ub4dc\ubbfc. pytest 115.",
+    "id": "SkyWith628/jikgugom",
+    "language": "Python",
+    "name": "SkyWith628/jikgugom",
+    "stars": 0,
+    "updated_at": "2026-06-15T14:33:35Z",
+    "url": "https://github.com/SkyWith628/jikgugom"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:33:35Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 2,
+    "updated_at": "2026-06-15T14:33:02Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
+    "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
+    "id": "kimmmmyy223/llm-batch",
+    "language": "Go",
+    "name": "kimmmmyy223/llm-batch",
+    "stars": 1,
+    "updated_at": "2026-06-15T14:31:10Z",
+    "url": "https://github.com/kimmmmyy223/llm-batch"
+  },
+  {
+    "description": "A lightweight, framework-free AI Agent example. Built without LangChain or LangGraph, it prioritizes readability and sim",
+    "id": "whitejoce/DIY-your-AI-agent",
+    "language": "Python",
+    "name": "whitejoce/DIY-your-AI-agent",
+    "stars": 7,
+    "updated_at": "2026-06-15T14:30:41Z",
+    "url": "https://github.com/whitejoce/DIY-your-AI-agent"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -144,20 +225,11 @@
     "url": "https://github.com/1850298154/memory_agent_hub"
   },
   {
-    "description": "AI Systems Engineering Workbench for Test Automation \u2014 structured generation, explainable healing, evaluation, observabi",
-    "id": "yashwant-das/testing-llm-automation-engine",
-    "language": "Python",
-    "name": "yashwant-das/testing-llm-automation-engine",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:44:16Z",
-    "url": "https://github.com/yashwant-das/testing-llm-automation-engine"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6143,
+    "stars": 6146,
     "updated_at": "2026-06-15T13:43:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T14:25:57Z",
     "url": "https://github.com/rawrter/studio"
-  },
-  {
-    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
-    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "language": "Python",
-    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:44:45Z",
-    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
-  },
-  {
-    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
-    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "language": "Python",
-    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
-    "stars": 2,
-    "updated_at": "2026-06-15T12:44:15Z",
-    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:41:58Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:41:21Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:40:25Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-06-15T12:38:52Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:38:35Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:37:25Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
