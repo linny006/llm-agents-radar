@@ -1,12 +1,39 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-15T13:29:45Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-15T13:24:48Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12884,
+    "stars": 12885,
     "updated_at": "2026-06-15T13:20:20Z",
     "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "AI Systems Engineering Workbench for Test Automation \u2014 structured generation, explainable healing, evaluation, observabi",
+    "id": "yashwant-das/testing-llm-automation-engine",
+    "language": "Python",
+    "name": "yashwant-das/testing-llm-automation-engine",
+    "stars": 0,
+    "updated_at": "2026-06-15T13:20:18Z",
+    "url": "https://github.com/yashwant-das/testing-llm-automation-engine"
   },
   {
     "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
@@ -23,17 +50,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6139,
-    "updated_at": "2026-06-15T13:20:10Z",
+    "updated_at": "2026-06-15T13:25:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "AI Systems Engineering Workbench for Test Automation \u2014 structured generation, explainable healing, evaluation, observabi",
-    "id": "yashwant-das/testing-llm-automation-engine",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "yashwant-das/testing-llm-automation-engine",
-    "stars": 0,
-    "updated_at": "2026-06-15T13:20:18Z",
-    "url": "https://github.com/yashwant-das/testing-llm-automation-engine"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2635,
+    "updated_at": "2026-06-15T13:08:13Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-15T13:18:54Z",
+    "updated_at": "2026-06-15T13:30:16Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2634,
-    "updated_at": "2026-06-15T13:08:13Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-15T12:20:37Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:19:23Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-15T12:19:11Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
