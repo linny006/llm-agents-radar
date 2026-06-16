@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-16T08:58:31Z",
+    "updated_at": "2026-06-16T09:14:42Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-16T09:00:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 255,
+    "updated_at": "2026-06-16T08:56:45Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-16T08:42:39Z",
+    "updated_at": "2026-06-16T09:09:40Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2640,
-    "updated_at": "2026-06-16T08:08:49Z",
+    "updated_at": "2026-06-16T09:10:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T07:50:22Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:47:18Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-16T07:47:06Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
