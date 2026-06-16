@@ -1,12 +1,48 @@
 [
   {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-16T05:59:46Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A Streamlit app that uses OpenAI's LLM for natural language data analysis. Upload CSV files, ask questions in plain Engl",
+    "id": "XederaBills/llm-powered-data-analysis",
+    "language": "Python",
+    "name": "XederaBills/llm-powered-data-analysis",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:59:26Z",
+    "url": "https://github.com/XederaBills/llm-powered-data-analysis"
+  },
+  {
     "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-16T05:45:03Z",
+    "updated_at": "2026-06-16T05:55:21Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-16T05:55:17Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
+    "id": "XieWxx/maxhub-api-skills",
+    "language": "Shell",
+    "name": "XieWxx/maxhub-api-skills",
+    "stars": 6,
+    "updated_at": "2026-06-16T05:46:27Z",
+    "url": "https://github.com/XieWxx/maxhub-api-skills"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:32:20Z",
     "url": "https://github.com/sacid446/unclaw"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-16T05:31:58Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:03:10Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-16T05:02:12Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-16T05:02:05Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:00:08Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
