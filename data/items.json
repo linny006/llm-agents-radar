@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6172,
+    "updated_at": "2026-06-16T21:27:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:20:58Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -34,15 +52,6 @@
     "stars": 12,
     "updated_at": "2026-06-16T21:02:40Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6170,
-    "updated_at": "2026-06-16T21:08:43Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T14:25:00Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:24:19Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
