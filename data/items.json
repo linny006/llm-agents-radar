@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:32:13Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:21:37Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:21:35Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
