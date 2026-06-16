@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 30,
+    "updated_at": "2026-06-16T20:14:18Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:08:00Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-16T20:07:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T19:52:36Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:32:13Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -117,15 +135,6 @@
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:35:33Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:17:13Z",
     "url": "https://github.com/rawrter/studio"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 29,
-    "updated_at": "2026-06-16T17:11:52Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
