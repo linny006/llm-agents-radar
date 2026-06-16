@@ -1,5 +1,77 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 258,
+    "updated_at": "2026-06-16T10:12:39Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:11:18Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-16T10:10:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83c\udf10 Build a Model Context Protocol (MCP) server for seamless integration with LLM applications, enhancing automation and e",
+    "id": "pachipalabharath/bb-applescript-mcp-server",
+    "language": "TypeScript",
+    "name": "pachipalabharath/bb-applescript-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-06-16T10:09:06Z",
+    "url": "https://github.com/pachipalabharath/bb-applescript-mcp-server"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:07:08Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-16T10:06:46Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-16T10:03:49Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "\ud83d\udd0d Improve code quality with DeepCode, an AI-powered tool that identifies bugs and suggests fixes in real-time to enhance",
+    "id": "ElfER020/DeepCode",
+    "language": "Python",
+    "name": "ElfER020/DeepCode",
+    "stars": 2,
+    "updated_at": "2026-06-16T09:58:25Z",
+    "url": "https://github.com/ElfER020/DeepCode"
+  },
+  {
     "description": "\ud83d\ude80 Process JSON data in batches with `llm-batch`, leveraging sequential or parallel modes for efficient interaction with ",
     "id": "kimmmmyy223/llm-batch",
     "language": "Go",
@@ -63,15 +135,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-16T09:30:02Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Evidence-driven LangGraph AutoResearch Agent for delivery assignment optimization.",
     "id": "LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT",
     "language": "Python",
@@ -99,15 +162,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 257,
-    "updated_at": "2026-06-16T09:44:47Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -130,7 +184,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5148,
+    "stars": 5149,
     "updated_at": "2026-06-16T08:40:47Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T08:00:55Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6164,
-    "updated_at": "2026-06-16T08:00:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-16T07:59:36Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build 9 iOS agent skills for SwiftUI, testing, security, and more in one install for AI coding agents",
-    "id": "ebbaunqualified520/ios-agent-skills",
-    "language": "Shell",
-    "name": "ebbaunqualified520/ios-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:59:03Z",
-    "url": "https://github.com/ebbaunqualified520/ios-agent-skills"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:58:58Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:58:24Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:57:59Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
