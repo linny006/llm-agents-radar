@@ -1,12 +1,48 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 8,
+    "updated_at": "2026-06-16T16:14:40Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-16T16:14:37Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:12:32Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6169,
-    "updated_at": "2026-06-16T15:56:28Z",
+    "stars": 6170,
+    "updated_at": "2026-06-16T16:04:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-16T16:03:26Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4332,
-    "updated_at": "2026-06-16T15:35:43Z",
+    "updated_at": "2026-06-16T16:13:11Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:55:28Z",
     "url": "https://github.com/twn39/ddgo-search"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:50:19Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T14:02:45Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:01:59Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:01:55Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:01:41Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
