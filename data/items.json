@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-16T12:21:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 780,
-    "updated_at": "2026-06-16T12:13:38Z",
+    "updated_at": "2026-06-16T12:24:40Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T11:22:03Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. \ud83c\udf88\u4ee3\u7801\u667a\u80fd\u4f53\u80fd\u641e\u5b9a\u6570\u636e\u5bc6\u96c6\u578b\u4efb\u52a1\u5417? ",
-    "id": "ruc-datalab/CoDA-Bench",
-    "language": "Python",
-    "name": "ruc-datalab/CoDA-Bench",
-    "stars": 6,
-    "updated_at": "2026-06-16T11:20:58Z",
-    "url": "https://github.com/ruc-datalab/CoDA-Bench"
   }
 ]
