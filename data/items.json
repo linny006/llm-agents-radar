@@ -1,11 +1,20 @@
 [
   {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 628,
+    "updated_at": "2026-06-16T20:20:02Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 30,
-    "updated_at": "2026-06-16T20:14:18Z",
+    "updated_at": "2026-06-16T20:18:51Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-16T19:56:33Z",
+    "updated_at": "2026-06-16T20:15:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 46,
-    "updated_at": "2026-06-16T19:21:56Z",
+    "updated_at": "2026-06-16T20:23:31Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 12,
     "updated_at": "2026-06-16T18:48:08Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 628,
-    "updated_at": "2026-06-16T18:28:12Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Exploring the Emergence of Complex Systems through Individual Decisions and Relationships",
