@@ -1,11 +1,47 @@
 [
   {
+    "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
+    "id": "twn39/ddgo-search",
+    "language": "Python",
+    "name": "twn39/ddgo-search",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:29:41Z",
+    "url": "https://github.com/twn39/ddgo-search"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-16T02:29:23Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "POC for an internal AI function-calling agent built on Google ADK + Gemini, querying a mock SQLite company database via ",
+    "id": "SupaOhm/mizagent-poc",
+    "language": "Python",
+    "name": "SupaOhm/mizagent-poc",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:21:12Z",
+    "url": "https://github.com/SupaOhm/mizagent-poc"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6161,
+    "updated_at": "2026-06-16T02:16:31Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 71,
-    "updated_at": "2026-06-16T02:15:04Z",
+    "updated_at": "2026-06-16T02:17:52Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T02:14:31Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "POC for an internal AI function-calling agent built on Google ADK + Gemini, querying a mock SQLite company database via ",
-    "id": "SupaOhm/mizagent-poc",
-    "language": "Python",
-    "name": "SupaOhm/mizagent-poc",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:13:47Z",
-    "url": "https://github.com/SupaOhm/mizagent-poc"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T02:11:50Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
-    "id": "twn39/ddgo-search",
-    "language": "Python",
-    "name": "twn39/ddgo-search",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:11:07Z",
-    "url": "https://github.com/twn39/ddgo-search"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -243,15 +261,6 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6161,
-    "updated_at": "2026-06-16T01:49:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T01:47:15Z",
     "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-16T01:47:08Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
