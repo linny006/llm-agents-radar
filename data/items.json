@@ -1,5 +1,32 @@
 [
   {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-16T19:14:29Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
+    "id": "indyfive11/gabagent",
+    "language": "Python",
+    "name": "indyfive11/gabagent",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:10:23Z",
+    "url": "https://github.com/indyfive11/gabagent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:04:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
     "id": "9t29zhmwdh-coder/SwiftAgent",
     "language": "Swift",
@@ -81,15 +108,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-16T18:29:07Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
     "description": "Exploring the Emergence of Complex Systems through Individual Decisions and Relationships",
     "id": "LEE-CHENYU/leviathan",
     "language": "Jupyter Notebook",
@@ -162,15 +180,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:03:18Z",
-    "url": "https://github.com/indyfive11/gabagent"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -214,15 +223,6 @@
     "stars": 5154,
     "updated_at": "2026-06-16T18:35:19Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:30:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
