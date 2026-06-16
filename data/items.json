@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6168,
+    "updated_at": "2026-06-16T14:56:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
+    "id": "twn39/ddgo-search",
+    "language": "Python",
+    "name": "twn39/ddgo-search",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:55:28Z",
+    "url": "https://github.com/twn39/ddgo-search"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:50:19Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:39:19Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
     "id": "Blaz742/web-pentest-lab",
     "language": "\u2014",
@@ -27,13 +63,13 @@
     "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6167,
-    "updated_at": "2026-06-16T14:37:10Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-16T14:37:54Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
@@ -243,15 +279,6 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
-    "id": "twn39/ddgo-search",
-    "language": "Python",
-    "name": "twn39/ddgo-search",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:13:33Z",
-    "url": "https://github.com/twn39/ddgo-search"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T13:56:11Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-16T13:55:58Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1499,
-    "updated_at": "2026-06-16T13:54:50Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-16T13:53:48Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
