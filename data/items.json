@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-16T09:30:02Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Evidence-driven LangGraph AutoResearch Agent for delivery assignment optimization.",
+    "id": "LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT",
+    "language": "Python",
+    "name": "LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT",
+    "stars": 1,
+    "updated_at": "2026-06-16T09:21:31Z",
+    "url": "https://github.com/LianghaoLuo/DELIVERY-AUTORESEARCH-AGENT"
+  },
+  {
     "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 2,
     "updated_at": "2026-06-16T09:14:42Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 241,
+    "updated_at": "2026-06-16T09:07:48Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -22,7 +49,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 255,
+    "stars": 256,
     "updated_at": "2026-06-16T08:56:45Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-16T09:09:40Z",
+    "updated_at": "2026-06-16T09:20:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T07:52:28Z",
     "url": "https://github.com/willton-easy/gitlab-review-agent"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:51:41Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-16T07:51:27Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-16T07:50:22Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
