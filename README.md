@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-16 18:30 UTC
+> ⏰ Last updated: 2026-06-16 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-16 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 2 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-16 | A fast and minimal agent library for typescript and rust |
-| 3 | [LEE-CHENYU/leviathan](https://github.com/LEE-CHENYU/leviathan) | 4 | Jupyter Notebook | 2026-06-16 | Exploring the Emergence of Complex Systems through Individual Decisions and Relationships |
-| 4 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-16 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
-| 5 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-16 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 6 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | HTML | 2026-06-16 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
-| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-16 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 9 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
-| 10 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 244 | Python | 2026-06-16 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 12 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 13 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-16 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
-| 14 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 29 | Rust | 2026-06-16 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 15 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-06-16 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
-| 16 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-16 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 18 | [KarthikSai06/ai-mobile-agent](https://github.com/KarthikSai06/ai-mobile-agent) | 0 | Python | 2026-06-16 | Autonomous LLM-powered Android agent for automation in andorid mobiles  |
-| 19 | [seancpc/MedAgent-EHR](https://github.com/seancpc/MedAgent-EHR) | 0 | Python | 2026-06-16 | Self-hosted agentic AI for clinical tasks on FHIR EHR (Planner–Executor–Verifier + MCP tools). ~88% on Stanford MedAgent |
-| 20 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6170 | Python | 2026-06-16 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | HTML | 2026-06-16 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6170 | Python | 2026-06-16 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 4 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-16 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 5 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-16 | A fast and minimal agent library for typescript and rust |
+| 6 | [LEE-CHENYU/leviathan](https://github.com/LEE-CHENYU/leviathan) | 4 | Jupyter Notebook | 2026-06-16 | Exploring the Emergence of Complex Systems through Individual Decisions and Relationships |
+| 7 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-16 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
+| 8 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-16 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
+| 9 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-16 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 11 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
+| 12 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 244 | Python | 2026-06-16 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 14 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 15 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-16 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
+| 16 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 29 | Rust | 2026-06-16 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
+| 17 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-06-16 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
+| 18 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-16 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 19 | [KarthikSai06/ai-mobile-agent](https://github.com/KarthikSai06/ai-mobile-agent) | 0 | Python | 2026-06-16 | Autonomous LLM-powered Android agent for automation in andorid mobiles  |
+| 20 | [seancpc/MedAgent-EHR](https://github.com/seancpc/MedAgent-EHR) | 0 | Python | 2026-06-16 | Self-hosted agentic AI for clinical tasks on FHIR EHR (Planner–Executor–Verifier + MCP tools). ~88% on Stanford MedAgent |
 | 21 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 9 | Go | 2026-06-16 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 22 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-16 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
 | 23 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 0 | Python | 2026-06-16 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
