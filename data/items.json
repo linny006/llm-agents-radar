@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 Build a local AI agent that searches the web in real-time, ensuring privacy and delivering up-to-date answers directly",
+    "id": "Emiola033/LLM_Agent",
+    "language": "HTML",
+    "name": "Emiola033/LLM_Agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T07:17:45Z",
+    "url": "https://github.com/Emiola033/LLM_Agent"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 6,
+    "updated_at": "2026-06-16T07:17:42Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-16T07:17:15Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83c\udfb6 Enhance audio quality with ComfyUI-AudioSR, a versatile tool for upscaling sounds to 48kHz for better clarity and list",
+    "id": "xaeksx/ComfyUI-AudioSR",
+    "language": "Python",
+    "name": "xaeksx/ComfyUI-AudioSR",
+    "stars": 6,
+    "updated_at": "2026-06-16T07:17:13Z",
+    "url": "https://github.com/xaeksx/ComfyUI-AudioSR"
+  },
+  {
     "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
     "id": "XieWxx/maxhub-api-skills",
     "language": "Shell",
@@ -115,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T07:03:26Z",
     "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 6,
-    "updated_at": "2026-06-16T07:03:07Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:42:05Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:41:30Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:41:09Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-06-16T05:40:48Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
