@@ -1,5 +1,167 @@
 [
   {
+    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-16T05:45:03Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:42:05Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:41:30Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:41:09Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:40:48Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:38:20Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Replace fragile memory compression in Hermes Agents with an immutable governance layer for stable model state management",
+    "id": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "language": "Python",
+    "name": "Quadragesimaaffairedhonneur809/hermes-soul-governance",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:37:47Z",
+    "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:37:42Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:35:45Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Deploy a multi-tenant Hermes Agent SaaS with autonomous chat tools, long-lived sessions, and Kimi K2 integration.",
+    "id": "Amaleespinyedged857/chathermes",
+    "language": "\u2014",
+    "name": "Amaleespinyedged857/chathermes",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:35:42Z",
+    "url": "https://github.com/Amaleespinyedged857/chathermes"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 2,
+    "updated_at": "2026-06-16T05:33:19Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361\uff5cGradio \u7db2\u9801 Demo + CLI \u591a\u8f2a\u5c0d\u8a71\u96d9\u4ecb\u9762",
+    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "language": "Python",
+    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:33:15Z",
+    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
+  },
+  {
+    "description": "Configure custom AI agents for Claude Code without frameworks, runtimes, or additional API costs.",
+    "id": "sacid446/unclaw",
+    "language": "Shell",
+    "name": "sacid446/unclaw",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:32:20Z",
+    "url": "https://github.com/sacid446/unclaw"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-16T05:31:58Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 3,
+    "updated_at": "2026-06-16T05:31:57Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-06-16T05:31:48Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "Upscale images in ComfyUI with this all-in-one node that integrates latent processing, model upscaling, and color correc",
+    "id": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
+    "language": "Python",
+    "name": "Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne",
+    "stars": 0,
+    "updated_at": "2026-06-16T05:31:21Z",
+    "url": "https://github.com/Selinewholesome1690/ComfyUI-HiresFix-Ultra-AllInOne"
+  },
+  {
+    "description": "Generate 3D color LUTs from reference images and apply consistent video color grading using this ComfyUI implementation ",
+    "id": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
+    "language": "Python",
+    "name": "Glorianerespiratory712/ComfyUI-VideoColorGrading",
+    "stars": 2,
+    "updated_at": "2026-06-16T05:30:32Z",
+    "url": "https://github.com/Glorianerespiratory712/ComfyUI-VideoColorGrading"
+  },
+  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -64,21 +226,12 @@
   },
   {
     "description": "LLM agent with LLMOps monitoring, SSH executor, and automated remediation",
-    "id": "wu7947848-code/xFusion-OS-Agent",
+    "id": "wangl-dev/xFusion-OS-Agent",
     "language": "Python",
-    "name": "wu7947848-code/xFusion-OS-Agent",
+    "name": "wangl-dev/xFusion-OS-Agent",
     "stars": 0,
     "updated_at": "2026-06-16T05:22:57Z",
-    "url": "https://github.com/wu7947848-code/xFusion-OS-Agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-16T05:22:40Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "url": "https://github.com/wangl-dev/xFusion-OS-Agent"
   },
   {
     "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
@@ -106,6 +259,15 @@
     "stars": 1,
     "updated_at": "2026-06-16T05:19:11Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 204,
+    "updated_at": "2026-06-16T05:18:00Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -198,15 +360,6 @@
     "url": "https://github.com/isratmim643-ux/VencordAutoPatcher"
   },
   {
-    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-16T05:11:14Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T05:00:08Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Provide a local Swift HTTP server with OpenAI-compatible endpoints that runs tools, returns JSON, and stores files for a",
-    "id": "Giahyu943/AutoSage",
-    "language": "Swift",
-    "name": "Giahyu943/AutoSage",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:57:53Z",
-    "url": "https://github.com/Giahyu943/AutoSage"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:57:22Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-16T04:57:17Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:56:28Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-16T04:55:55Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-16T04:53:29Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "Sajal2702/agentbench",
-    "language": "Python",
-    "name": "Sajal2702/agentbench",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:53:17Z",
-    "url": "https://github.com/Sajal2702/agentbench"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:52:48Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\ude80 Build fast, lightweight web apps with 57 production-ready UI components needing zero dependencies and only one script ",
-    "id": "ghosthunter8/AgentUI",
-    "language": "JavaScript",
-    "name": "ghosthunter8/AgentUI",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:51:13Z",
-    "url": "https://github.com/ghosthunter8/AgentUI"
-  },
-  {
-    "description": "AI agent answering retail analytics questions via hybrid RAG-over-docs + Text-to-SQL over a SQLite (Northwind) DB, orche",
-    "id": "Usman1Abbas/Retail-Analytics-Copilot",
-    "language": "Python",
-    "name": "Usman1Abbas/Retail-Analytics-Copilot",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:50:42Z",
-    "url": "https://github.com/Usman1Abbas/Retail-Analytics-Copilot"
-  },
-  {
-    "description": "ProjectPulse \u2014 AI project-coordination platform: automated repo scaffolding, real-time GitHub activity monitoring, and L",
-    "id": "Usman1Abbas/AI-Project-Management-System",
-    "language": "Python",
-    "name": "Usman1Abbas/AI-Project-Management-System",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:49:55Z",
-    "url": "https://github.com/Usman1Abbas/AI-Project-Management-System"
-  },
-  {
-    "description": "\ud83d\udd0d Automate penetration testing with an intelligent agent that organizes security assessments, leveraging local LLMs and ",
-    "id": "gfranrp/Auto-Pentest-LLM",
-    "language": "Python",
-    "name": "gfranrp/Auto-Pentest-LLM",
-    "stars": 8,
-    "updated_at": "2026-06-16T04:47:47Z",
-    "url": "https://github.com/gfranrp/Auto-Pentest-LLM"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-16T04:44:39Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83d\udd0d Transform your local LLMs into a private, high-speed search engine, providing instant answers from your own knowledge ",
-    "id": "dogunkim/llmnet",
-    "language": "TypeScript",
-    "name": "dogunkim/llmnet",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:43:32Z",
-    "url": "https://github.com/dogunkim/llmnet"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-16T04:43:14Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:40:36Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Explore Pydantic AI frameworks and resources to streamline your generative AI projects with type safety and structured",
-    "id": "Toywa/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "Toywa/awesome-pydantic-ai",
-    "stars": 0,
-    "updated_at": "2026-06-16T04:39:48Z",
-    "url": "https://github.com/Toywa/awesome-pydantic-ai"
   }
 ]
