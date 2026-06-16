@@ -1,5 +1,32 @@
 [
   {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 628,
+    "updated_at": "2026-06-16T18:28:12Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-16T18:29:07Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "Exploring the Emergence of Complex Systems through Individual Decisions and Relationships",
+    "id": "LEE-CHENYU/leviathan",
+    "language": "Jupyter Notebook",
+    "name": "LEE-CHENYU/leviathan",
+    "stars": 4,
+    "updated_at": "2026-06-16T18:27:44Z",
+    "url": "https://github.com/LEE-CHENYU/leviathan"
+  },
+  {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
     "id": "BiBoyang/ForgeLoop",
     "language": "Swift",
@@ -79,15 +106,6 @@
     "stars": 4332,
     "updated_at": "2026-06-16T17:24:04Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 628,
-    "updated_at": "2026-06-16T17:18:45Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-16T18:01:23Z",
+    "updated_at": "2026-06-16T18:22:24Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 957,
     "updated_at": "2026-06-16T14:20:43Z",
     "url": "https://github.com/SamurAIGPT/awesome-openclaw"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:20:23Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Automate tasks with an AI assistant for kanban, calendar, and workflow execution",
-    "id": "pollexpitchshot449/am-agi",
-    "language": "\u2014",
-    "name": "pollexpitchshot449/am-agi",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:16:12Z",
-    "url": "https://github.com/pollexpitchshot449/am-agi"
   }
 ]
