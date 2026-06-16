@@ -1,5 +1,41 @@
 [
   {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-06-16T02:53:58Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "\uc218\uc694\uc608\uce21 \uc2e4\ubb34\uc758 \"\uc218\uc694\uc608\uce21 + \uadfc\uac70 + \uad8c\uc7a5 \uc561\uc158\" \ubcf4\uace0 \ud504\ub85c\uc138\uc2a4\ub97c LangGraph \uae30\ubc18 LLM \uc5d0\uc774\uc804\ud2b8\ub85c \uc790\ub3d9\ud654",
+    "id": "yoon-chung/cargo-demand-agent",
+    "language": "Jupyter Notebook",
+    "name": "yoon-chung/cargo-demand-agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:52:32Z",
+    "url": "https://github.com/yoon-chung/cargo-demand-agent"
+  },
+  {
+    "description": "Stable long-context Cogni-Brain agent on DGX Spark: Qwen3.5-122B-A10B INT4 AutoRound, 262K context, ~40 TPS, 100/100 Too",
+    "id": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "language": "Python",
+    "name": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:49:51Z",
+    "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
+  },
+  {
+    "description": "EVA is an AI-assisted penetration testing agent that enhances offensive security workflows by providing structured attac",
+    "id": "ARCANGEL0/EVA",
+    "language": "Python",
+    "name": "ARCANGEL0/EVA",
+    "stars": 403,
+    "updated_at": "2026-06-16T02:45:14Z",
+    "url": "https://github.com/ARCANGEL0/EVA"
+  },
+  {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
     "id": "larlarua/AutoCVE",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T02:43:50Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "\uc218\uc694\uc608\uce21 \uc2e4\ubb34\uc758 \"\uc218\uc694\uc608\uce21 + \uadfc\uac70 + \uad8c\uc7a5 \uc561\uc158\" \ubcf4\uace0 \ud504\ub85c\uc138\uc2a4\ub97c LangGraph \uae30\ubc18 LLM \uc5d0\uc774\uc804\ud2b8\ub85c \uc790\ub3d9\ud654",
-    "id": "yoon-chung/cargo-demand-agent",
-    "language": "Jupyter Notebook",
-    "name": "yoon-chung/cargo-demand-agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T02:43:31Z",
-    "url": "https://github.com/yoon-chung/cargo-demand-agent"
   },
   {
     "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 71,
-    "updated_at": "2026-06-16T02:37:36Z",
+    "updated_at": "2026-06-16T03:00:08Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T01:39:34Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:39:23Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-16T01:38:20Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Turn your Android device into a low-latency Bluetooth HID gamepad recognized as a native controller by Windows and other",
-    "id": "Bifcen/Pocket-Pad",
-    "language": "\u2014",
-    "name": "Bifcen/Pocket-Pad",
-    "stars": 0,
-    "updated_at": "2026-06-16T01:35:19Z",
-    "url": "https://github.com/Bifcen/Pocket-Pad"
   }
 ]
