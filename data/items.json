@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-16T08:44:34Z",
+    "updated_at": "2026-06-16T08:58:31Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-16T08:45:20Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4332,
-    "updated_at": "2026-06-16T08:43:38Z",
+    "updated_at": "2026-06-16T08:46:08Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 8,
-    "updated_at": "2026-06-16T08:09:57Z",
+    "updated_at": "2026-06-16T08:46:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -256,7 +265,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2639,
+    "stars": 2640,
     "updated_at": "2026-06-16T08:08:49Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-16T07:47:06Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-16T07:46:20Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
