@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 781,
+    "updated_at": "2026-06-16T19:56:33Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:54:43Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-06-16T19:52:36Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
     "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
     "id": "Ghost-White-Guy/Universal-LLM-Agent",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 46,
     "updated_at": "2026-06-16T19:21:56Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:19:31Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   },
   {
     "description": "A fast and minimal agent library for typescript and rust",
@@ -88,15 +106,6 @@
     "stars": 6170,
     "updated_at": "2026-06-16T18:50:24Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:49:43Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:23:43Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:21:37Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
