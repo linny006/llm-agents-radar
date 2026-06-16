@@ -1,11 +1,38 @@
 [
   {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:44:12Z",
+    "url": "https://github.com/larlarua/AutoCVE"
+  },
+  {
+    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-16T02:43:50Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "\uc218\uc694\uc608\uce21 \uc2e4\ubb34\uc758 \"\uc218\uc694\uc608\uce21 + \uadfc\uac70 + \uad8c\uc7a5 \uc561\uc158\" \ubcf4\uace0 \ud504\ub85c\uc138\uc2a4\ub97c LangGraph \uae30\ubc18 LLM \uc5d0\uc774\uc804\ud2b8\ub85c \uc790\ub3d9\ud654",
+    "id": "yoon-chung/cargo-demand-agent",
+    "language": "Jupyter Notebook",
+    "name": "yoon-chung/cargo-demand-agent",
+    "stars": 0,
+    "updated_at": "2026-06-16T02:43:31Z",
+    "url": "https://github.com/yoon-chung/cargo-demand-agent"
+  },
+  {
     "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
     "id": "twn39/ddgo-search",
     "language": "Python",
     "name": "twn39/ddgo-search",
     "stars": 0,
-    "updated_at": "2026-06-16T02:29:41Z",
+    "updated_at": "2026-06-16T02:32:46Z",
     "url": "https://github.com/twn39/ddgo-search"
   },
   {
@@ -41,17 +68,8 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 71,
-    "updated_at": "2026-06-16T02:17:52Z",
+    "updated_at": "2026-06-16T02:37:36Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "VERITY \u2014 The Truth Harness. A zero-dependency harness that FORCES any LLM to verify instead of assume, persist instead o",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-16T02:14:31Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T01:35:19Z",
     "url": "https://github.com/Bifcen/Pocket-Pad"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-16T01:35:16Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 1,
-    "updated_at": "2026-06-16T01:34:33Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
