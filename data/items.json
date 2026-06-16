@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-16T22:28:24Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -36,6 +45,15 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6173,
+    "updated_at": "2026-06-16T21:55:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
     "id": "yohn1985/jarvisbot",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:32:25Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6172,
-    "updated_at": "2026-06-16T21:55:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -106,15 +115,6 @@
     "stars": 15,
     "updated_at": "2026-06-16T20:55:03Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-16T20:24:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
