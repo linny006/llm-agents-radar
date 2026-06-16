@@ -1,12 +1,12 @@
 [
   {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 12,
-    "updated_at": "2026-06-16T17:59:24Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-16T18:07:22Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -14,17 +14,44 @@
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-16T17:55:24Z",
+    "updated_at": "2026-06-16T18:03:41Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "HTML",
+    "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-06-16T17:35:36Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
+    "updated_at": "2026-06-16T18:03:23Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-16T18:00:48Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-16T17:59:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 12,
+    "updated_at": "2026-06-16T17:59:24Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -72,15 +99,6 @@
     "url": "https://github.com/rawrter/studio"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-16T17:15:46Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -106,15 +124,6 @@
     "stars": 23,
     "updated_at": "2026-06-16T17:03:46Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "HTML",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T17:00:52Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-16T17:11:52Z",
+    "updated_at": "2026-06-16T18:01:23Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:16:12Z",
     "url": "https://github.com/pollexpitchshot449/am-agi"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-16T14:14:28Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
