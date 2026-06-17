@@ -1,12 +1,12 @@
 [
   {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T02:45:16Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-17T02:59:18Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -14,8 +14,17 @@
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 30,
-    "updated_at": "2026-06-17T02:44:30Z",
+    "updated_at": "2026-06-17T02:47:03Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:45:16Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T02:44:58Z",
+    "updated_at": "2026-06-17T02:57:42Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -144,15 +153,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-17T00:27:31Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -194,7 +194,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-17T00:55:38Z",
+    "updated_at": "2026-06-17T02:52:28Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
