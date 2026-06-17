@@ -1,5 +1,23 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-17T09:03:11Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T09:00:28Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -22,7 +40,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26931,
+    "stars": 26935,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -36,15 +54,6 @@
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T08:48:21Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
     "id": "Ghost-White-Guy/Universal-LLM-Agent",
     "language": "Python",
@@ -52,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-06-17T08:46:38Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5315,
+    "updated_at": "2026-06-17T08:35:43Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -106,6 +124,15 @@
     "stars": 781,
     "updated_at": "2026-06-17T08:09:48Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6176,
+    "updated_at": "2026-06-17T08:00:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -274,7 +301,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5155,
+    "stars": 5156,
     "updated_at": "2026-06-17T04:21:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -342,15 +369,6 @@
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-17T02:59:18Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -373,7 +391,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1978,
+    "stars": 1979,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -423,15 +441,6 @@
     "url": "https://github.com/ab0991-oss/hermes-ios"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6176,
-    "updated_at": "2026-06-17T08:00:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po",
     "id": "AI-secure/AgentPoison",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 220,
     "updated_at": "2026-06-17T00:27:53Z",
     "url": "https://github.com/AI-secure/AgentPoison"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 3,
-    "updated_at": "2026-06-16T23:54:00Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
