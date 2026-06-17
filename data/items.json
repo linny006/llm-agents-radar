@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-17T15:44:01Z",
+    "updated_at": "2026-06-17T15:59:30Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
+    "id": "caltrackaiteam-pixel/make-claude-perform",
+    "language": "\u2014",
+    "name": "caltrackaiteam-pixel/make-claude-perform",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:59:26Z",
+    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-17T15:57:39Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6185,
+    "updated_at": "2026-06-17T15:56:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -16,15 +43,6 @@
     "stars": 781,
     "updated_at": "2026-06-17T15:36:46Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6185,
-    "updated_at": "2026-06-17T15:42:35Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
@@ -70,15 +88,6 @@
     "stars": 30,
     "updated_at": "2026-06-17T15:13:03Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:54:18Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2652,
-    "updated_at": "2026-06-17T13:34:13Z",
+    "updated_at": "2026-06-17T15:56:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T07:39:54Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 4,
-    "updated_at": "2026-06-17T07:37:08Z",
-    "url": "https://github.com/S3YED/appie-kit"
   }
 ]
