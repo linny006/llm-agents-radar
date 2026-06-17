@@ -1,21 +1,21 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-17T19:30:01Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-17T19:29:07Z",
+    "updated_at": "2026-06-17T19:44:11Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6186,
+    "updated_at": "2026-06-17T19:40:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-17T19:27:21Z",
+    "updated_at": "2026-06-17T19:39:51Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-17T19:32:21Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:58:40Z",
     "url": "https://github.com/EvanAI0331/music-daypart"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6186,
-    "updated_at": "2026-06-17T18:46:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
