@@ -1,5 +1,23 @@
 [
   {
+    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
+    "id": "13331800076/ai-agent-workflow-automation",
+    "language": "Python",
+    "name": "13331800076/ai-agent-workflow-automation",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:25:37Z",
+    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 141,
+    "updated_at": "2026-06-17T10:22:38Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 6,
     "updated_at": "2026-06-17T10:14:37Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
-    "id": "13331800076/ai-agent-workflow-automation",
-    "language": "Python",
-    "name": "13331800076/ai-agent-workflow-automation",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:11:53Z",
-    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2648,
-    "updated_at": "2026-06-17T10:08:40Z",
+    "updated_at": "2026-06-17T10:26:52Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -139,7 +148,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26939,
+    "stars": 26940,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -202,7 +211,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6177,
+    "stars": 6178,
     "updated_at": "2026-06-17T08:00:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -391,7 +400,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -439,14 +448,5 @@
     "stars": 141,
     "updated_at": "2026-06-17T00:46:47Z",
     "url": "https://github.com/haoyiyin/basjoo"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 466,
-    "updated_at": "2026-06-17T03:40:28Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
