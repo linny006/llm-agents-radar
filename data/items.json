@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T05:08:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T05:01:02Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
     "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
     "id": "XieWxx/maxhub-api-skills",
     "language": "Shell",
@@ -16,24 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:58:56Z",
     "url": "https://github.com/13331800076/ai-agent-workflow-automation"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:57:20Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T04:56:36Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -297,6 +297,15 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
+    "description": "[NeurIPS 2024] Official implementation for \"AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po",
+    "id": "AI-secure/AgentPoison",
+    "language": "Python",
+    "name": "AI-secure/AgentPoison",
+    "stars": 220,
+    "updated_at": "2026-06-17T00:27:53Z",
+    "url": "https://github.com/AI-secure/AgentPoison"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T17:17:13Z",
     "url": "https://github.com/rawrter/studio"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 23,
-    "updated_at": "2026-06-17T04:12:13Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   }
 ]

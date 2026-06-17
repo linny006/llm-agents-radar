@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 05:00 UTC
+> ⏰ Last updated: 2026-06-17 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [XieWxx/maxhub-api-skills](https://github.com/XieWxx/maxhub-api-skills) | 6 | Shell | 2026-06-17 | 让 AI 助手轻松获取抖音、TikTok、B 站、小红书等 21 个主流平台的数据｜Enable AI assistants to easily access data from 21 mainstream platforms includ |
-| 2 | [13331800076/ai-agent-workflow-automation](https://github.com/13331800076/ai-agent-workflow-automation) | 0 | Python | 2026-06-17 | A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au |
-| 3 | [FutronPrime/verity-harness](https://github.com/FutronPrime/verity-harness) | 2 | Python | 2026-06-17 | The open-source Fable alternative — a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste |
-| 4 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [FutronPrime/verity-harness](https://github.com/FutronPrime/verity-harness) | 2 | Python | 2026-06-17 | The open-source Fable alternative — a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste |
+| 3 | [XieWxx/maxhub-api-skills](https://github.com/XieWxx/maxhub-api-skills) | 6 | Shell | 2026-06-17 | 让 AI 助手轻松获取抖音、TikTok、B 站、小红书等 21 个主流平台的数据｜Enable AI assistants to easily access data from 21 mainstream platforms includ |
+| 4 | [13331800076/ai-agent-workflow-automation](https://github.com/13331800076/ai-agent-workflow-automation) | 0 | Python | 2026-06-17 | A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au |
 | 5 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 73 | TypeScript | 2026-06-17 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 6 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | HTML | 2026-06-17 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
 | 7 | [fredm23579/mobile-llm-windows-agent](https://github.com/fredm23579/mobile-llm-windows-agent) | 0 | Python | 2026-06-17 | Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement. |
@@ -75,23 +75,23 @@ expired items removed — so you can rely on what you see being current.
 | 31 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 466 | Python | 2026-06-17 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
 | 32 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 0 | Swift | 2026-06-17 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
 | 33 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6176 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 34 | [eshanized/M31A](https://github.com/eshanized/M31A) | 2 | Go | 2026-06-16 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
-| 35 | [helixml/helix](https://github.com/helixml/helix) | 781 | Go | 2026-06-16 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 36 | [dimknaf/braindb](https://github.com/dimknaf/braindb) | 94 | Python | 2026-06-16 | An "LLM wiki" upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language a |
-| 37 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
-| 38 | [puristajs/harness](https://github.com/puristajs/harness) | 5 | TypeScript | 2026-06-16 | AI Harness build on top of typescript |
-| 39 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-16 | AI-powered image generation and chat studio |
-| 40 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-16 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 41 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-16 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 42 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-16 | A fast and minimal agent library for typescript and rust |
-| 43 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-06-16 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
-| 44 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 9 | Go | 2026-06-16 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 45 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-16 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
-| 46 | [LEE-CHENYU/leviathan](https://github.com/LEE-CHENYU/leviathan) | 4 | Jupyter Notebook | 2026-06-16 | Exploring the Emergence of Complex Systems through Individual Decisions and Relationships |
-| 47 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-16 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 48 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 246 | Python | 2026-06-16 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 49 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-16 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
-| 50 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 34 | [AI-secure/AgentPoison](https://github.com/AI-secure/AgentPoison) | 220 | Python | 2026-06-17 | [NeurIPS 2024] Official implementation for "AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Po |
+| 35 | [eshanized/M31A](https://github.com/eshanized/M31A) | 2 | Go | 2026-06-16 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
+| 36 | [helixml/helix](https://github.com/helixml/helix) | 781 | Go | 2026-06-16 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 37 | [dimknaf/braindb](https://github.com/dimknaf/braindb) | 94 | Python | 2026-06-16 | An "LLM wiki" upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language a |
+| 38 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
+| 39 | [puristajs/harness](https://github.com/puristajs/harness) | 5 | TypeScript | 2026-06-16 | AI Harness build on top of typescript |
+| 40 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-16 | AI-powered image generation and chat studio |
+| 41 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-16 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 42 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-16 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
+| 43 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-16 | A fast and minimal agent library for typescript and rust |
+| 44 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-06-16 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
+| 45 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 9 | Go | 2026-06-16 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 46 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-16 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
+| 47 | [LEE-CHENYU/leviathan](https://github.com/LEE-CHENYU/leviathan) | 4 | Jupyter Notebook | 2026-06-16 | Exploring the Emergence of Complex Systems through Individual Decisions and Relationships |
+| 48 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-16 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 49 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 246 | Python | 2026-06-16 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 50 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-16 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
 <!-- TRACKER_TABLE_END -->
 
 ---
