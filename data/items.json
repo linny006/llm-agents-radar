@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-06-17T12:37:26Z",
-    "url": "https://github.com/peijin0405/scout-agent"
+    "updated_at": "2026-06-17T12:58:02Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-17T12:51:43Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
@@ -14,8 +23,26 @@
     "language": "\u2014",
     "name": "garoter-a11y/agent-service-patch",
     "stars": 0,
-    "updated_at": "2026-06-17T12:29:37Z",
+    "updated_at": "2026-06-17T12:50:37Z",
     "url": "https://github.com/garoter-a11y/agent-service-patch"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:50:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:37:26Z",
+    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -49,7 +76,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12933,
+    "stars": 12932,
     "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -108,6 +135,15 @@
     "url": "https://github.com/JohnnyQ-commits/aqueduct"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2650,
+    "updated_at": "2026-06-17T10:26:52Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
     "id": "13331800076/ai-agent-workflow-automation",
     "language": "Python",
@@ -126,20 +162,11 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2648,
-    "updated_at": "2026-06-17T10:26:52Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4334,
+    "stars": 4333,
     "updated_at": "2026-06-17T10:07:01Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -189,15 +216,6 @@
     "url": "https://github.com/jiasiqi312/summer-research-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:15:42Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -205,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T09:03:11Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:56:16Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
@@ -439,14 +448,5 @@
     "stars": 30,
     "updated_at": "2026-06-17T03:43:38Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 17,
-    "updated_at": "2026-06-17T03:29:37Z",
-    "url": "https://github.com/larlarua/AutoCVE"
   }
 ]
