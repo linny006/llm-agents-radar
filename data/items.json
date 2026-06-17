@@ -1,21 +1,21 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T05:08:41Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-17T05:01:02Z",
+    "updated_at": "2026-06-17T05:30:05Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T05:20:57Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
@@ -85,7 +85,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26918,
+    "stars": 26919,
     "updated_at": "2026-06-17T04:21:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -401,7 +401,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 9,
-    "updated_at": "2026-06-16T18:59:02Z",
+    "updated_at": "2026-06-17T05:24:22Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
