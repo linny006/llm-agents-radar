@@ -1,11 +1,56 @@
 [
   {
+    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
+    "id": "garoter-a11y/agent-service-patch",
+    "language": "\u2014",
+    "name": "garoter-a11y/agent-service-patch",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:29:37Z",
+    "url": "https://github.com/garoter-a11y/agent-service-patch"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:29:02Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T12:28:58Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "AI-powered group finance assistant using MCP architecture, Gemini LLM and Streamlit.",
+    "id": "LuGodoy/finance-agent-mcp",
+    "language": "Python",
+    "name": "LuGodoy/finance-agent-mcp",
+    "stars": 17,
+    "updated_at": "2026-06-17T12:28:54Z",
+    "url": "https://github.com/LuGodoy/finance-agent-mcp"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 4,
+    "updated_at": "2026-06-17T12:22:15Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
     "stars": 12933,
-    "updated_at": "2026-06-17T12:15:16Z",
+    "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bodhi-AI",
     "stars": 14,
-    "updated_at": "2026-06-17T12:08:28Z",
+    "updated_at": "2026-06-17T12:24:16Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T12:04:07Z",
+    "updated_at": "2026-06-17T12:16:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:01:28Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
     "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
     "id": "JohnnyQ-commits/aqueduct",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 11,
     "updated_at": "2026-06-17T11:06:23Z",
     "url": "https://github.com/JohnnyQ-commits/aqueduct"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:40:32Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
@@ -202,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26944,
+    "stars": 26945,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -418,35 +445,8 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-17T02:00:34Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 1981,
-    "updated_at": "2026-06-17T01:55:40Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. \ud83c\udf88\u4ee3\u7801\u667a\u80fd\u4f53\u80fd\u641e\u5b9a\u6570\u636e\u5bc6\u96c6\u578b\u4efb\u52a1\u5417? ",
-    "id": "ruc-datalab/CoDA-Bench",
-    "language": "Python",
-    "name": "ruc-datalab/CoDA-Bench",
-    "stars": 7,
-    "updated_at": "2026-06-17T01:34:24Z",
-    "url": "https://github.com/ruc-datalab/CoDA-Bench"
   }
 ]
