@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 11:45 UTC
+> ⏰ Last updated: 2026-06-17 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-17 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
 | 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 20 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-06-17 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
-| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26941 | Python | 2026-06-17 | Build and run agents you can see, understand and trust. |
+| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26944 | Python | 2026-06-17 | Build and run agents you can see, understand and trust. |
 | 22 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-06-17 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
 | 23 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5315 | Python | 2026-06-17 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 24 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-17 | Typed Kotlin DSL framework for AI agent systems. |
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [peterlu14/ai-engineer-journey](https://github.com/peterlu14/ai-engineer-journey) | 0 | Python | 2026-06-17 | 從前端/全端轉 AI Engineer 的實作 + 筆記：RAG、LLM Agent、QLoRA 微調、可觀測性,全部親手做、串本地 LLM。Hands-on applied-AI engineering, built from scrat |
 | 44 | [yohn1985/jarvisbot](https://github.com/yohn1985/jarvisbot) | 0 | Python | 2026-06-17 | Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions — w |
 | 45 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-17 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 46 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 13 | Python | 2026-06-17 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
+| 46 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 15 | Python | 2026-06-17 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
 | 47 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 15 | Python | 2026-06-17 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
 | 48 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1981 | TypeScript | 2026-06-17 | A research agent system deeply rooted in your Zotero library. |
 | 49 | [ruc-datalab/CoDA-Bench](https://github.com/ruc-datalab/CoDA-Bench) | 7 | Python | 2026-06-17 | CoDA-Bench is a benchmark for code agents on data-intensive tasks. 🎈代码智能体能搞定数据密集型任务吗?  |
