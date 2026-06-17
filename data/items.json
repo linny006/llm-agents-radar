@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
+    "id": "garoter-a11y/agent-service-patch",
+    "language": "\u2014",
+    "name": "garoter-a11y/agent-service-patch",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:13:22Z",
+    "url": "https://github.com/garoter-a11y/agent-service-patch"
+  },
+  {
+    "description": "AgenticAnomaly is an indirect prompt injection CTF for testing how agentic security operations center (SOC) workflows ca",
+    "id": "Skrotrot/AgenticAnomaly",
+    "language": "Python",
+    "name": "Skrotrot/AgenticAnomaly",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:12:43Z",
+    "url": "https://github.com/Skrotrot/AgenticAnomaly"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "Batchfile",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:12:16Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-17T13:12:30Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6179,
+    "updated_at": "2026-06-17T13:00:59Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 4,
     "updated_at": "2026-06-17T12:51:43Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
-    "id": "garoter-a11y/agent-service-patch",
-    "language": "\u2014",
-    "name": "garoter-a11y/agent-service-patch",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:50:37Z",
-    "url": "https://github.com/garoter-a11y/agent-service-patch"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -139,7 +175,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2650,
+    "stars": 2651,
     "updated_at": "2026-06-17T10:26:52Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -238,7 +274,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26945,
+    "stars": 26946,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T08:12:57Z",
     "url": "https://github.com/dorisgyl/design-pack"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6179,
-    "updated_at": "2026-06-17T08:00:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T04:10:17Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u5f9e\u524d\u7aef/\u5168\u7aef\u8f49 AI Engineer \u7684\u5be6\u4f5c + \u7b46\u8a18\uff1aRAG\u3001LLM Agent\u3001QLoRA \u5fae\u8abf\u3001\u53ef\u89c0\u6e2c\u6027,\u5168\u90e8\u89aa\u624b\u505a\u3001\u4e32\u672c\u5730 LLM\u3002Hands-on applied-AI engineering, built from scrat",
-    "id": "peterlu14/ai-engineer-journey",
-    "language": "Python",
-    "name": "peterlu14/ai-engineer-journey",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:58:32Z",
-    "url": "https://github.com/peterlu14/ai-engineer-journey"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:48:40Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 30,
-    "updated_at": "2026-06-17T03:43:38Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
