@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 16:27 UTC
+> ⏰ Last updated: 2026-06-17 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
-| 2 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 1 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 2 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
 | 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6185 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
