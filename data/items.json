@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T17:42:33Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:44:09Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:38:29Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 12,
+    "updated_at": "2026-06-17T17:32:43Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-17T17:32:02Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -7,15 +52,6 @@
     "stars": 30,
     "updated_at": "2026-06-17T17:27:27Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T17:25:15Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 0,
-    "updated_at": "2026-06-17T16:49:04Z",
+    "updated_at": "2026-06-17T17:43:55Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 10,
     "updated_at": "2026-06-17T15:34:24Z",
     "url": "https://github.com/theunstopabble/SwadKart"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:40:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -421,32 +448,5 @@
     "stars": 26951,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-06-17T08:46:38Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5316,
-    "updated_at": "2026-06-17T08:35:43Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 12,
-    "updated_at": "2026-06-17T17:20:10Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   }
 ]
