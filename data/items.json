@@ -1,5 +1,41 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:40:38Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:40:10Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 628,
+    "updated_at": "2026-06-17T14:39:52Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T14:32:25Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
     "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
     "language": "Go",
@@ -79,15 +115,6 @@
     "stars": 350,
     "updated_at": "2026-06-17T13:53:30Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T14:28:42Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -184,7 +211,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12938,
+    "stars": 12939,
     "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -198,21 +225,12 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-17T11:41:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-17T11:09:26Z",
+    "updated_at": "2026-06-17T14:43:40Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 61,
     "updated_at": "2026-06-17T07:29:38Z",
     "url": "https://github.com/1850298154/memory_agent_hub"
-  },
-  {
-    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-06-17T05:49:08Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T05:30:05Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   }
 ]
