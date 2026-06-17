@@ -1,11 +1,29 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T11:09:26Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T11:01:28Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
     "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
     "id": "JohnnyQ-commits/aqueduct",
     "language": "Python",
     "name": "JohnnyQ-commits/aqueduct",
     "stars": 11,
-    "updated_at": "2026-06-17T10:59:50Z",
+    "updated_at": "2026-06-17T11:06:23Z",
     "url": "https://github.com/JohnnyQ-commits/aqueduct"
   },
   {
@@ -45,24 +63,6 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T10:14:37Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T10:10:32Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T10:56:16Z",
+    "updated_at": "2026-06-17T11:12:44Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 11:00 UTC
+> ⏰ Last updated: 2026-06-17 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JohnnyQ-commits/aqueduct](https://github.com/JohnnyQ-commits/aqueduct) | 11 | Python | 2026-06-17 | LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating |
-| 2 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 14 | Rust | 2026-06-17 | Bodhi — a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [13331800076/ai-agent-workflow-automation](https://github.com/13331800076/ai-agent-workflow-automation) | 0 | Python | 2026-06-17 | A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au |
-| 5 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 141 | JavaScript | 2026-06-17 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
-| 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 7 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-17 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 2 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-17 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
+| 3 | [JohnnyQ-commits/aqueduct](https://github.com/JohnnyQ-commits/aqueduct) | 11 | Python | 2026-06-17 | LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating |
+| 4 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 14 | Rust | 2026-06-17 | Bodhi — a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [13331800076/ai-agent-workflow-automation](https://github.com/13331800076/ai-agent-workflow-automation) | 0 | Python | 2026-06-17 | A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au |
+| 7 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 141 | JavaScript | 2026-06-17 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
 | 8 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2648 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
 | 9 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
 | 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4334 | Python | 2026-06-17 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
