@@ -1,5 +1,41 @@
 [
   {
+    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
+    "id": "caltrackaiteam-pixel/make-claude-perform",
+    "language": "JavaScript",
+    "name": "caltrackaiteam-pixel/make-claude-perform",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:26:24Z",
+    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 23,
+    "updated_at": "2026-06-17T16:25:07Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-17T16:21:54Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6185,
+    "updated_at": "2026-06-17T16:23:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -36,6 +72,15 @@
     "url": "https://github.com/lpc0387/guided-browser-runner"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2653,
+    "updated_at": "2026-06-17T16:07:15Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -43,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-06-17T16:07:13Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6185,
-    "updated_at": "2026-06-17T16:08:20Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -63,21 +99,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
-    "id": "caltrackaiteam-pixel/make-claude-perform",
-    "language": "JavaScript",
-    "name": "caltrackaiteam-pixel/make-claude-perform",
-    "stars": 0,
-    "updated_at": "2026-06-17T15:59:26Z",
-    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T15:36:46Z",
+    "updated_at": "2026-06-17T16:17:28Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:17:02Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
     "id": "garoter-a11y/agent-service-patch",
     "language": "\u2014",
@@ -169,15 +187,6 @@
     "stars": 351,
     "updated_at": "2026-06-17T13:53:30Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 23,
-    "updated_at": "2026-06-17T15:09:59Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "AgenticAnomaly is an indirect prompt injection CTF for testing how agentic security operations center (SOC) workflows ca",
@@ -288,15 +297,6 @@
     "url": "https://github.com/JohnnyQ-commits/aqueduct"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2652,
-    "updated_at": "2026-06-17T16:07:15Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
     "id": "13331800076/ai-agent-workflow-automation",
     "language": "Python",
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T16:02:08Z",
+    "updated_at": "2026-06-17T16:26:53Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -382,7 +382,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26950,
+    "stars": 26951,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
