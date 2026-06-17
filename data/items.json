@@ -1,5 +1,23 @@
 [
   {
+    "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
+    "id": "bigduu/Bodhi-AI",
+    "language": "Rust",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 14,
+    "updated_at": "2026-06-17T10:43:40Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:40:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
     "id": "13331800076/ai-agent-workflow-automation",
     "language": "Python",
@@ -189,15 +207,6 @@
     "url": "https://github.com/dorisgyl/design-pack"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:07:27Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -295,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:52:25Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
-    "id": "bigduu/Bodhi-AI",
-    "language": "Rust",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 14,
-    "updated_at": "2026-06-17T08:31:09Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
