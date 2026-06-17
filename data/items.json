@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:31:00Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T06:24:47Z",
+    "updated_at": "2026-06-17T06:37:47Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -63,15 +72,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "HTML",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:41:20Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
     "description": "MobileLLM-style model deployed as an autonomous Windows computer-control agent",
     "id": "fredm23579/mobile-llm-windows-agent",
     "language": "Python",
@@ -103,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26920,
+    "stars": 26923,
     "updated_at": "2026-06-17T04:21:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -329,7 +329,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T06:26:43Z",
+    "updated_at": "2026-06-17T06:37:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
