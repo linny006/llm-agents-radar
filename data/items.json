@@ -1,5 +1,32 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-17T07:56:25Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-17T07:55:32Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26926,
+    "updated_at": "2026-06-17T07:52:33Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T07:38:33Z",
+    "updated_at": "2026-06-17T07:57:36Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 26926,
-    "updated_at": "2026-06-17T04:21:04Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -306,15 +324,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-17T02:43:37Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -328,7 +337,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1973,
+    "stars": 1977,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6176,
-    "updated_at": "2026-06-17T00:34:26Z",
+    "updated_at": "2026-06-17T07:55:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T06:06:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 628,
-    "updated_at": "2026-06-16T20:20:02Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   }
 ]
