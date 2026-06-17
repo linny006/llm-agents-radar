@@ -1,12 +1,30 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T09:44:00Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
     "id": "13331800076/ai-agent-workflow-automation",
     "language": "Python",
     "name": "13331800076/ai-agent-workflow-automation",
     "stars": 0,
-    "updated_at": "2026-06-17T09:29:13Z",
+    "updated_at": "2026-06-17T09:42:00Z",
     "url": "https://github.com/13331800076/ai-agent-workflow-automation"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 7,
+    "updated_at": "2026-06-17T09:35:06Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 135,
-    "updated_at": "2026-06-17T09:23:37Z",
+    "updated_at": "2026-06-17T09:43:14Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -85,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26936,
+    "stars": 26938,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -135,15 +153,6 @@
     "url": "https://github.com/dorisgyl/design-pack"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T08:11:13Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -158,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T08:09:48Z",
+    "updated_at": "2026-06-17T09:35:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -166,7 +175,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6176,
+    "stars": 6177,
     "updated_at": "2026-06-17T08:00:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2647,
-    "updated_at": "2026-06-17T07:12:28Z",
+    "updated_at": "2026-06-17T09:35:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T06:52:25Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 7,
-    "updated_at": "2026-06-17T07:03:07Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
@@ -373,7 +373,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
