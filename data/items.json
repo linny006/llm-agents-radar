@@ -1,11 +1,47 @@
 [
   {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-17T04:45:08Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "HTML",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:41:20Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:39:27Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement.",
+    "id": "fredm23579/mobile-llm-windows-agent",
+    "language": "Python",
+    "name": "fredm23579/mobile-llm-windows-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:38:08Z",
+    "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
+  },
+  {
     "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
     "id": "13331800076/ai-agent-workflow-automation",
     "language": "Python",
     "name": "13331800076/ai-agent-workflow-automation",
     "stars": 0,
-    "updated_at": "2026-06-17T04:29:49Z",
+    "updated_at": "2026-06-17T04:34:13Z",
     "url": "https://github.com/13331800076/ai-agent-workflow-automation"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-06-17T04:26:58Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:30:14Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:17:42Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-17T04:16:28Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -115,15 +133,6 @@
     "stars": 30,
     "updated_at": "2026-06-17T03:43:38Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement.",
-    "id": "fredm23579/mobile-llm-windows-agent",
-    "language": "Python",
-    "name": "fredm23579/mobile-llm-windows-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:37:09Z",
-    "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -394,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:55:35Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "HTML",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:53:00Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "Exploring the Emergence of Complex Systems through Individual Decisions and Relationships",
