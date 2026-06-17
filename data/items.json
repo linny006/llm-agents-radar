@@ -1,5 +1,50 @@
 [
   {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-06-17T07:41:06Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-06-17T07:39:54Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 4,
+    "updated_at": "2026-06-17T07:37:08Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "A domain-ontology-driven agentic framework for LLM-based personal-finance reasoning across banking and personal-investme",
+    "id": "Tej-Katika/artha",
+    "language": "Java",
+    "name": "Tej-Katika/artha",
+    "stars": 3,
+    "updated_at": "2026-06-17T07:34:06Z",
+    "url": "https://github.com/Tej-Katika/artha"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 4,
+    "updated_at": "2026-06-17T07:30:54Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
     "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
     "id": "1850298154/memory_agent_hub",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T07:29:11Z",
+    "updated_at": "2026-06-17T07:38:33Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -148,7 +193,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5156,
+    "stars": 5155,
     "updated_at": "2026-06-17T04:21:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -157,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26925,
+    "stars": 26926,
     "updated_at": "2026-06-17T04:21:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -403,50 +448,5 @@
     "stars": 628,
     "updated_at": "2026-06-16T20:20:02Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:52:36Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-06-16T19:17:42Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-06-16T19:10:23Z",
-    "url": "https://github.com/indyfive11/gabagent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 9,
-    "updated_at": "2026-06-17T07:04:42Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-16T18:55:35Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   }
 ]
