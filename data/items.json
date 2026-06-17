@@ -1,12 +1,48 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 466,
+    "updated_at": "2026-06-17T00:41:22Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
     "id": "haoyiyin/basjoo",
     "language": "Python",
     "name": "haoyiyin/basjoo",
     "stars": 139,
-    "updated_at": "2026-06-17T00:28:19Z",
+    "updated_at": "2026-06-17T00:41:14Z",
     "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
+    "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
+    "id": "ab0991-oss/hermes-ios",
+    "language": "Swift",
+    "name": "ab0991-oss/hermes-ios",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:35:51Z",
+    "url": "https://github.com/ab0991-oss/hermes-ios"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-17T00:34:43Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6173,
+    "updated_at": "2026-06-17T00:34:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -16,24 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T00:27:31Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:13:37Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
-    "id": "ab0991-oss/hermes-ios",
-    "language": "Swift",
-    "name": "ab0991-oss/hermes-ios",
-    "stars": 0,
-    "updated_at": "2026-06-17T00:04:01Z",
-    "url": "https://github.com/ab0991-oss/hermes-ios"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -169,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-06-16T22:06:36Z",
     "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6173,
-    "updated_at": "2026-06-16T21:55:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:34:38Z",
     "url": "https://github.com/Quadragesimaaffairedhonneur809/hermes-soul-governance"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:34:32Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
