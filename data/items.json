@@ -1,5 +1,14 @@
 [
   {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T02:21:53Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -22,7 +31,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1972,
+    "stars": 1973,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T01:54:26Z",
+    "updated_at": "2026-06-17T02:27:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -121,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6173,
+    "stars": 6174,
     "updated_at": "2026-06-17T00:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -214,15 +223,6 @@
     "stars": 5,
     "updated_at": "2026-06-16T22:06:36Z",
     "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:52:48Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
     "description": "AI-powered image generation and chat studio",
