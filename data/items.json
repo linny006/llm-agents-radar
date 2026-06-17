@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T10:14:37Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
+    "id": "13331800076/ai-agent-workflow-automation",
+    "language": "Python",
+    "name": "13331800076/ai-agent-workflow-automation",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:11:53Z",
+    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T10:10:32Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2648,
+    "updated_at": "2026-06-17T10:08:40Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T10:03:08Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4334,
+    "updated_at": "2026-06-17T10:07:01Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 135,
     "updated_at": "2026-06-17T09:53:31Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T09:44:00Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
-    "id": "13331800076/ai-agent-workflow-automation",
-    "language": "Python",
-    "name": "13331800076/ai-agent-workflow-automation",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:42:00Z",
-    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
   },
   {
     "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
@@ -81,15 +117,6 @@
     "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T09:00:28Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -133,15 +160,6 @@
     "stars": 5315,
     "updated_at": "2026-06-17T08:35:43Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "HTML",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T08:16:49Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
@@ -261,15 +279,6 @@
     "url": "https://github.com/1850298154/memory_agent_hub"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2647,
-    "updated_at": "2026-06-17T09:51:10Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -382,18 +391,9 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4334,
-    "updated_at": "2026-06-17T03:46:51Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -409,7 +409,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1980,
+    "stars": 1981,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
