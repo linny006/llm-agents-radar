@@ -1,5 +1,32 @@
 [
   {
+    "description": "LLM-driven NetEase Cloud Music player for time-of-day listening",
+    "id": "EvanAI0331/music-daypart",
+    "language": "JavaScript",
+    "name": "EvanAI0331/music-daypart",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:58:40Z",
+    "url": "https://github.com/EvanAI0331/music-daypart"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T18:59:40Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6186,
+    "updated_at": "2026-06-17T18:46:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -81,15 +108,6 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6186,
-    "updated_at": "2026-06-17T18:23:12Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:23:11Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T18:20:37Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -439,14 +448,5 @@
     "stars": 141,
     "updated_at": "2026-06-17T10:22:38Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 135,
-    "updated_at": "2026-06-17T09:53:31Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   }
 ]
