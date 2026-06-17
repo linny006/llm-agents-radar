@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:29:37Z",
+    "url": "https://github.com/larlarua/AutoCVE"
+  },
+  {
+    "description": "Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement.",
+    "id": "fredm23579/mobile-llm-windows-agent",
+    "language": "Python",
+    "name": "fredm23579/mobile-llm-windows-agent",
+    "stars": 0,
+    "updated_at": "2026-06-17T03:26:38Z",
+    "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -27,15 +45,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement.",
-    "id": "fredm23579/mobile-llm-windows-agent",
-    "language": "Python",
-    "name": "fredm23579/mobile-llm-windows-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:14:27Z",
-    "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4334,
-    "updated_at": "2026-06-17T03:11:44Z",
+    "updated_at": "2026-06-17T03:30:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T14:39:14Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-06-16T14:38:43Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
