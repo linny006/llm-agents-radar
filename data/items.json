@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T17:14:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 30,
+    "updated_at": "2026-06-17T17:12:54Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:11:37Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6186,
+    "updated_at": "2026-06-17T17:10:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12939,
+    "updated_at": "2026-06-17T17:02:31Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
+    "id": "caltrackaiteam-pixel/make-claude-perform",
+    "language": "JavaScript",
+    "name": "caltrackaiteam-pixel/make-claude-perform",
+    "stars": 0,
+    "updated_at": "2026-06-17T17:01:41Z",
+    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
+  },
+  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
@@ -9,24 +63,6 @@
     "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T16:56:52Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:54:07Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:49:04Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
-    "id": "caltrackaiteam-pixel/make-claude-perform",
-    "language": "JavaScript",
-    "name": "caltrackaiteam-pixel/make-claude-perform",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:46:51Z",
-    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
   },
   {
     "description": "LLM agent codebase security scanner",
@@ -81,15 +108,6 @@
     "url": "https://github.com/dkimek19/wam-hawk"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 30,
-    "updated_at": "2026-06-17T16:37:23Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -124,15 +142,6 @@
     "stars": 23,
     "updated_at": "2026-06-17T16:29:36Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6186,
-    "updated_at": "2026-06-17T16:23:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -315,15 +324,6 @@
     "url": "https://github.com/yakeworld/Synthos"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12939,
-    "updated_at": "2026-06-17T12:16:19Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
     "id": "bigduu/Bodhi-AI",
     "language": "Rust",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T16:44:47Z",
+    "updated_at": "2026-06-17T17:03:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
