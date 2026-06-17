@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 06:00 UTC
+> ⏰ Last updated: 2026-06-17 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [dimknaf/braindb](https://github.com/dimknaf/braindb) | 94 | Python | 2026-06-16 | An "LLM wiki" upgraded to a real database — typed entities, graph relations, HTTP API, and a built-in natural-language a |
 | 39 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-16 | Typed Kotlin DSL framework for AI agent systems. |
 | 40 | [puristajs/harness](https://github.com/puristajs/harness) | 5 | TypeScript | 2026-06-16 | AI Harness build on top of typescript |
-| 41 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-16 | AI-powered image generation and chat studio |
+| 41 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-17 | AI-powered image generation and chat studio |
 | 42 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-16 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
 | 43 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-16 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
 | 44 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-16 | A fast and minimal agent library for typescript and rust |
