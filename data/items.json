@@ -1,21 +1,21 @@
 [
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 0,
-    "updated_at": "2026-06-17T18:14:01Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-17T18:29:47Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6186,
-    "updated_at": "2026-06-17T18:09:43Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 205,
+    "updated_at": "2026-06-17T18:29:14Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-17T18:09:42Z",
+    "updated_at": "2026-06-17T18:27:23Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -32,17 +32,62 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 0,
-    "updated_at": "2026-06-17T18:07:12Z",
+    "updated_at": "2026-06-17T18:25:38Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:24:32Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:29:06Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6186,
+    "updated_at": "2026-06-17T18:23:12Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:23:11Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T18:20:37Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 205,
-    "updated_at": "2026-06-17T18:06:06Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
+    "name": "lucasmailland/mnemosyne",
+    "stars": 0,
+    "updated_at": "2026-06-17T18:16:52Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -59,17 +104,8 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-17T18:11:59Z",
+    "updated_at": "2026-06-17T18:27:28Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T17:58:45Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:57:36Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:57:26Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2654,
-    "updated_at": "2026-06-17T16:07:15Z",
+    "updated_at": "2026-06-17T18:21:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T14:24:26Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:20:56Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
@@ -405,15 +423,6 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-17T17:03:07Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T09:19:40Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Multi-agent Claude Code workflow for strategic academic research outreach: find professors, evaluate fit, draft personal",
-    "id": "jiasiqi312/summer-research-agent",
-    "language": "Python",
-    "name": "jiasiqi312/summer-research-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T09:16:59Z",
-    "url": "https://github.com/jiasiqi312/summer-research-agent"
   }
 ]
