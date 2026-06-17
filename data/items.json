@@ -1,5 +1,14 @@
 [
   {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T20:12:58Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 6,
     "updated_at": "2026-06-17T19:59:35Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:58:23Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:00 UTC
+> ⏰ Last updated: 2026-06-17 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 2 | [FutronPrime/verity-harness](https://github.com/FutronPrime/verity-harness) | 2 | Python | 2026-06-17 | The open-source Fable alternative — a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste |
+| 1 | [FutronPrime/verity-harness](https://github.com/FutronPrime/verity-harness) | 2 | Python | 2026-06-17 | The open-source Fable alternative — a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste |
+| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 4 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-17 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
 | 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6186 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
