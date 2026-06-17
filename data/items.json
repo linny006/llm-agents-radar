@@ -1,5 +1,23 @@
 [
   {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-17T09:56:12Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 135,
+    "updated_at": "2026-06-17T09:53:31Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 7,
     "updated_at": "2026-06-17T09:35:06Z",
     "url": "https://github.com/kevinchennewbee/PenglaiAgent"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 135,
-    "updated_at": "2026-06-17T09:43:14Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Auto_BI \u2014 LLM-\u0430\u0433\u0435\u043d\u0442: \u0437\u0430\u043f\u0440\u043e\u0441 \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u2192 \u0433\u043e\u0442\u043e\u0432\u044b\u0439 Superset-\u0434\u0430\u0448\u0431\u043e\u0440\u0434 \u043f\u043e\u0432\u0435\u0440\u0445 DWH. IR-first \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d, feasibility-",
@@ -103,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26938,
+    "stars": 26939,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2647,
-    "updated_at": "2026-06-17T09:35:53Z",
+    "updated_at": "2026-06-17T09:51:10Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -373,18 +382,9 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 6,
+    "stars": 8,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-17T03:17:13Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -409,7 +409,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1979,
+    "stars": 1980,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
