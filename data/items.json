@@ -1,11 +1,20 @@
 [
   {
+    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
+    "id": "JohnnyQ-commits/aqueduct",
+    "language": "Python",
+    "name": "JohnnyQ-commits/aqueduct",
+    "stars": 11,
+    "updated_at": "2026-06-17T10:59:50Z",
+    "url": "https://github.com/JohnnyQ-commits/aqueduct"
+  },
+  {
     "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
     "id": "bigduu/Bodhi-AI",
     "language": "Rust",
     "name": "bigduu/Bodhi-AI",
     "stars": 14,
-    "updated_at": "2026-06-17T10:43:40Z",
+    "updated_at": "2026-06-17T11:00:05Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T10:03:08Z",
+    "updated_at": "2026-06-17T10:56:16Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -166,7 +175,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26940,
+    "stars": 26941,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T09:35:21Z",
+    "updated_at": "2026-06-17T10:59:46Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -400,7 +409,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 11,
+    "stars": 13,
     "updated_at": "2026-06-17T03:29:37Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -439,14 +448,5 @@
     "stars": 46,
     "updated_at": "2026-06-17T01:31:15Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
-    "id": "haoyiyin/basjoo",
-    "language": "Python",
-    "name": "haoyiyin/basjoo",
-    "stars": 141,
-    "updated_at": "2026-06-17T00:46:47Z",
-    "url": "https://github.com/haoyiyin/basjoo"
   }
 ]
