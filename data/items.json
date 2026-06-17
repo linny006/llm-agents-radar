@@ -1,5 +1,14 @@
 [
   {
+    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
+    "id": "13331800076/ai-agent-workflow-automation",
+    "language": "Python",
+    "name": "13331800076/ai-agent-workflow-automation",
+    "stars": 0,
+    "updated_at": "2026-06-17T05:32:22Z",
+    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
+  },
+  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
@@ -27,15 +36,6 @@
     "url": "https://github.com/XieWxx/maxhub-api-skills"
   },
   {
-    "description": "A production-style AI agent workflow engine for automating ERP-like web operations with Playwright, tool calling, and au",
-    "id": "13331800076/ai-agent-workflow-automation",
-    "language": "Python",
-    "name": "13331800076/ai-agent-workflow-automation",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:58:56Z",
-    "url": "https://github.com/13331800076/ai-agent-workflow-automation"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -54,7 +54,7 @@
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
-    "description": "Windows Native Agent for Mobile LLM interfacing with strict zero-trust SID policy enforcement.",
+    "description": "MobileLLM-style model deployed as an autonomous Windows computer-control agent",
     "id": "fredm23579/mobile-llm-windows-agent",
     "language": "Python",
     "name": "fredm23579/mobile-llm-windows-agent",
@@ -76,7 +76,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5154,
+    "stars": 5155,
     "updated_at": "2026-06-17T04:21:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -85,7 +85,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26919,
+    "stars": 26920,
     "updated_at": "2026-06-17T04:21:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
