@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 12:39 UTC
+> ⏰ Last updated: 2026-06-17 12:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-06-17 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
 | 26 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26945 | Python | 2026-06-17 | Build and run agents you can see, understand and trust. |
 | 27 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-06-17 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
-| 28 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5315 | Python | 2026-06-17 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 28 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5316 | Python | 2026-06-17 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 29 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-17 | Typed Kotlin DSL framework for AI agent systems. |
 | 30 | [dorisgyl/design-pack](https://github.com/dorisgyl/design-pack) | 0 | JavaScript | 2026-06-17 | A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain — pick what you need on a dash |
 | 31 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6179 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
