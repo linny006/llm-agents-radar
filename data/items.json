@@ -1,21 +1,21 @@
 [
   {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 466,
-    "updated_at": "2026-06-17T00:41:22Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
     "id": "haoyiyin/basjoo",
     "language": "Python",
     "name": "haoyiyin/basjoo",
     "stars": 139,
-    "updated_at": "2026-06-17T00:41:14Z",
+    "updated_at": "2026-06-17T00:46:47Z",
     "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 466,
+    "updated_at": "2026-06-17T00:57:15Z",
+    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
@@ -131,7 +131,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-16T23:12:42Z",
+    "updated_at": "2026-06-17T00:55:38Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
