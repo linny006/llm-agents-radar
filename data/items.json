@@ -1,12 +1,30 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 350,
+    "updated_at": "2026-06-17T13:53:30Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T13:41:06Z",
+    "updated_at": "2026-06-17T13:52:40Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6180,
+    "updated_at": "2026-06-17T13:50:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
@@ -63,13 +81,13 @@
     "url": "https://github.com/puristajs/harness"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6179,
-    "updated_at": "2026-06-17T13:00:59Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Claude Code skill for drafting, reviewing, revising, proofreading, and auditing scientific manuscripts. Calibrated for h",
+    "id": "Rekin226/paper-agent",
+    "language": "\u2014",
+    "name": "Rekin226/paper-agent",
+    "stars": 6,
+    "updated_at": "2026-06-17T12:58:39Z",
+    "url": "https://github.com/Rekin226/paper-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-17T05:00:05Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-17T04:45:08Z",
-    "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "MobileLLM-style model deployed as an autonomous Windows computer-control agent",
-    "id": "fredm23579/mobile-llm-windows-agent",
-    "language": "Python",
-    "name": "fredm23579/mobile-llm-windows-agent",
-    "stars": 0,
-    "updated_at": "2026-06-17T04:38:08Z",
-    "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
   }
 ]
