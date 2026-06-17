@@ -1,12 +1,66 @@
 [
   {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:27:32Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:24:26Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 781,
+    "updated_at": "2026-06-17T14:23:29Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-17T14:05:04Z",
+    "updated_at": "2026-06-17T14:20:56Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6182,
+    "updated_at": "2026-06-17T14:20:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-17T14:17:02Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 30,
+    "updated_at": "2026-06-17T14:15:43Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
@@ -32,26 +86,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T13:52:40Z",
+    "updated_at": "2026-06-17T14:28:42Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6180,
-    "updated_at": "2026-06-17T13:50:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-06-17T14:13:18Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T13:12:43Z",
     "url": "https://github.com/Skrotrot/AgenticAnomaly"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "Batchfile",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:12:16Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   },
   {
     "description": "AI Harness build on top of typescript",
@@ -135,15 +162,6 @@
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T12:29:02Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "AI-powered group finance assistant using MCP architecture, Gemini LLM and Streamlit.",
     "id": "LuGodoy/finance-agent-mcp",
     "language": "Python",
@@ -166,7 +184,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12937,
+    "stars": 12938,
     "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -178,15 +196,6 @@
     "stars": 14,
     "updated_at": "2026-06-17T12:24:16Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 781,
-    "updated_at": "2026-06-17T14:13:56Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-17T05:30:05Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
-    "id": "XieWxx/maxhub-api-skills",
-    "language": "Shell",
-    "name": "XieWxx/maxhub-api-skills",
-    "stars": 6,
-    "updated_at": "2026-06-17T05:00:05Z",
-    "url": "https://github.com/XieWxx/maxhub-api-skills"
   }
 ]
