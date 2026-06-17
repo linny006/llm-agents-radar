@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T13:27:18Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:20:58Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 23,
+    "updated_at": "2026-06-17T13:14:03Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
     "id": "garoter-a11y/agent-service-patch",
     "language": "\u2014",
@@ -13,7 +40,7 @@
     "id": "Skrotrot/AgenticAnomaly",
     "language": "Python",
     "name": "Skrotrot/AgenticAnomaly",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-17T13:12:43Z",
     "url": "https://github.com/Skrotrot/AgenticAnomaly"
   },
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "puristajs/harness",
     "stars": 5,
-    "updated_at": "2026-06-17T13:12:30Z",
+    "updated_at": "2026-06-17T13:26:41Z",
     "url": "https://github.com/puristajs/harness"
   },
   {
@@ -112,7 +139,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12932,
+    "stars": 12934,
     "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -131,7 +158,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T12:16:09Z",
+    "updated_at": "2026-06-17T13:30:24Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T11:41:26Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T11:38:03Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -175,7 +193,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2651,
+    "stars": 2652,
     "updated_at": "2026-06-17T10:26:52Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -274,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26946,
+    "stars": 26947,
     "updated_at": "2026-06-17T08:53:46Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T04:38:08Z",
     "url": "https://github.com/fredm23579/mobile-llm-windows-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5157,
-    "updated_at": "2026-06-17T04:21:27Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-06-17T04:10:17Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
