@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
+    "id": "1850298154/memory_agent_hub",
+    "language": "Python",
+    "name": "1850298154/memory_agent_hub",
+    "stars": 61,
+    "updated_at": "2026-06-17T07:29:38Z",
+    "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 781,
+    "updated_at": "2026-06-17T07:29:11Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -139,7 +157,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26924,
+    "stars": 26925,
     "updated_at": "2026-06-17T04:21:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 781,
-    "updated_at": "2026-06-17T07:05:56Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "An \"LLM wiki\" upgraded to a real database \u2014 typed entities, graph relations, HTTP API, and a built-in natural-language a",
     "id": "dimknaf/braindb",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T18:55:35Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "Exploring the Emergence of Complex Systems through Individual Decisions and Relationships",
-    "id": "LEE-CHENYU/leviathan",
-    "language": "Jupyter Notebook",
-    "name": "LEE-CHENYU/leviathan",
-    "stars": 4,
-    "updated_at": "2026-06-16T18:27:44Z",
-    "url": "https://github.com/LEE-CHENYU/leviathan"
   }
 ]
