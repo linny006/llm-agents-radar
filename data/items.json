@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-17T13:27:18Z",
+    "updated_at": "2026-06-17T13:41:06Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
+    "id": "garoter-a11y/agent-service-patch",
+    "language": "\u2014",
+    "name": "garoter-a11y/agent-service-patch",
+    "stars": 0,
+    "updated_at": "2026-06-17T13:36:20Z",
+    "url": "https://github.com/garoter-a11y/agent-service-patch"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -25,15 +34,6 @@
     "stars": 23,
     "updated_at": "2026-06-17T13:14:03Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Agent\u901a\u7528\u8ba4\u77e5\u670d\u52a1\u6846\u67b6 | \u4e1c\u65b9\u54f2\u5b66\u9a71\u52a8\u7684\u8ba4\u77e5\u5e73\u6743\u65b9\u6cd5\u8bba | 11\u9879\u4e1c\u65b9\u54f2\u5b66\u21927\u73af\u8282Agent\u8ba4\u77e5\u670d\u52a1\u7cfb\u7edf\u5316\u64cd\u4f5c\u6846\u67b6",
-    "id": "garoter-a11y/agent-service-patch",
-    "language": "\u2014",
-    "name": "garoter-a11y/agent-service-patch",
-    "stars": 0,
-    "updated_at": "2026-06-17T13:13:22Z",
-    "url": "https://github.com/garoter-a11y/agent-service-patch"
   },
   {
     "description": "AgenticAnomaly is an indirect prompt injection CTF for testing how agentic security operations center (SOC) workflows ca",
@@ -139,7 +139,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12934,
+    "stars": 12935,
     "updated_at": "2026-06-17T12:16:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -158,7 +158,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 781,
-    "updated_at": "2026-06-17T13:30:24Z",
+    "updated_at": "2026-06-17T13:30:54Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2652,
-    "updated_at": "2026-06-17T10:26:52Z",
+    "updated_at": "2026-06-17T13:34:13Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
