@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:15 UTC
+> ⏰ Last updated: 2026-06-17 20:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -53,7 +53,7 @@ expired items removed — so you can rely on what you see being current.
 | 9 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-17 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
 | 10 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-17 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
 | 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-17 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 12 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 1 | Swift | 2026-06-17 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
+| 12 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 2 | Swift | 2026-06-17 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
 | 13 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-17 | Typed Kotlin DSL framework for AI agent systems. |
 | 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 15 | [HarryHsing/OmniAgent](https://github.com/HarryHsing/OmniAgent) | 0 | Python | 2026-06-17 | OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL- |
