@@ -1,5 +1,14 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T18:40:29Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-17T18:36:26Z",
+    "updated_at": "2026-06-17T18:42:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-17T18:34:43Z",
+    "updated_at": "2026-06-17T18:45:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T18:29:06Z",
     "url": "https://github.com/yohn1985/jarvisbot"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-17T18:40:29Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
