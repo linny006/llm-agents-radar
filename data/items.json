@@ -1,10 +1,19 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-16T23:57:17Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
     "name": "eshanized/M31A",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-16T23:54:00Z",
     "url": "https://github.com/eshanized/M31A"
   },
@@ -124,15 +133,6 @@
     "stars": 94,
     "updated_at": "2026-06-16T22:38:09Z",
     "url": "https://github.com/dimknaf/braindb"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-16T22:28:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
