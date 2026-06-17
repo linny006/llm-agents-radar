@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "13331800076/ai-agent-workflow-automation",
     "stars": 0,
-    "updated_at": "2026-06-17T04:12:11Z",
+    "updated_at": "2026-06-17T04:29:49Z",
     "url": "https://github.com/13331800076/ai-agent-workflow-automation"
+  },
+  {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:28:31Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
+    "id": "XieWxx/maxhub-api-skills",
+    "language": "Shell",
+    "name": "XieWxx/maxhub-api-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T04:26:58Z",
+    "url": "https://github.com/XieWxx/maxhub-api-skills"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-17T04:30:14Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5154,
-    "updated_at": "2026-06-17T04:13:04Z",
+    "updated_at": "2026-06-17T04:21:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26918,
+    "updated_at": "2026-06-17T04:21:04Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-17T04:17:42Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-17T04:16:28Z",
+    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T04:10:17Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-17T04:07:19Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain \u2014 pick what you need on a dash",
@@ -234,15 +279,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-16T23:57:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-06-16T23:54:00Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-17T04:10:09Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -322,15 +349,6 @@
     "stars": 628,
     "updated_at": "2026-06-16T20:20:02Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 1,
-    "updated_at": "2026-06-16T20:08:00Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-06-17T04:12:13Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Autonomous LLM-powered Android agent for automation in andorid mobiles ",
-    "id": "KarthikSai06/ai-mobile-agent",
-    "language": "Python",
-    "name": "KarthikSai06/ai-mobile-agent",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:37:57Z",
-    "url": "https://github.com/KarthikSai06/ai-mobile-agent"
-  },
-  {
-    "description": "Self-hosted agentic AI for clinical tasks on FHIR EHR (Planner\u2013Executor\u2013Verifier + MCP tools). ~88% on Stanford MedAgent",
-    "id": "seancpc/MedAgent-EHR",
-    "language": "Python",
-    "name": "seancpc/MedAgent-EHR",
-    "stars": 0,
-    "updated_at": "2026-06-16T16:35:39Z",
-    "url": "https://github.com/seancpc/MedAgent-EHR"
   }
 ]
