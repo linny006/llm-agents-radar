@@ -76,7 +76,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6186,
+    "stars": 6187,
     "updated_at": "2026-06-17T19:40:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -207,6 +207,15 @@
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2655,
+    "updated_at": "2026-06-17T18:21:43Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -313,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-06-17T16:10:42Z",
     "url": "https://github.com/lpc0387/guided-browser-runner"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2654,
-    "updated_at": "2026-06-17T18:21:43Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-17 20:55 UTC
+> ⏰ Last updated: 2026-06-17 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -50,7 +50,7 @@ expired items removed — so you can rely on what you see being current.
 | 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 8 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-17 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
-| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6186 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6187 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4333 | Python | 2026-06-17 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 11 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 0 | Python | 2026-06-17 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
 | 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
@@ -65,19 +65,19 @@ expired items removed — so you can rely on what you see being current.
 | 21 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-17 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 22 | [yohn1985/jarvisbot](https://github.com/yohn1985/jarvisbot) | 1 | Python | 2026-06-17 | Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions — w |
 | 23 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-17 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 24 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 0 | TypeScript | 2026-06-17 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 25 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-17 | A fast and minimal agent library for typescript and rust |
-| 26 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12938 | Python | 2026-06-17 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 27 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
-| 28 | [dkimek19/whack-a-mole](https://github.com/dkimek19/whack-a-mole) | 0 | Python | 2026-06-17 | LLM agent codebase security scanner |
-| 29 | [helixml/helix](https://github.com/helixml/helix) | 781 | Go | 2026-06-17 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 30 | [dkimek19/wam-hawk](https://github.com/dkimek19/wam-hawk) | 0 | Python | 2026-06-17 | Runtime security monitor for LLM agents. Wraps any OpenAI-compatible client to detect prompt injection, exfiltration, an |
-| 31 | [1850298154/memory_agent_hub](https://github.com/1850298154/memory_agent_hub) | 61 | Python | 2026-06-17 | 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合 |
-| 32 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-17 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
-| 33 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 34 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
-| 35 | [lpc0387/guided-browser-runner](https://github.com/lpc0387/guided-browser-runner) | 1 | Python | 2026-06-17 |  |
-| 36 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2654 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
+| 24 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2655 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
+| 25 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 0 | TypeScript | 2026-06-17 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 26 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-17 | A fast and minimal agent library for typescript and rust |
+| 27 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12938 | Python | 2026-06-17 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 28 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
+| 29 | [dkimek19/whack-a-mole](https://github.com/dkimek19/whack-a-mole) | 0 | Python | 2026-06-17 | LLM agent codebase security scanner |
+| 30 | [helixml/helix](https://github.com/helixml/helix) | 781 | Go | 2026-06-17 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 31 | [dkimek19/wam-hawk](https://github.com/dkimek19/wam-hawk) | 0 | Python | 2026-06-17 | Runtime security monitor for LLM agents. Wraps any OpenAI-compatible client to detect prompt injection, exfiltration, an |
+| 32 | [1850298154/memory_agent_hub](https://github.com/1850298154/memory_agent_hub) | 61 | Python | 2026-06-17 | 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合 |
+| 33 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-17 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
+| 34 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 35 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-17 | A productive AI coworker that learns, self-improves, and ships work. |
+| 36 | [lpc0387/guided-browser-runner](https://github.com/lpc0387/guided-browser-runner) | 1 | Python | 2026-06-17 |  |
 | 37 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 15 | Python | 2026-06-17 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
 | 38 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 10 | JavaScript | 2026-06-17 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
 | 39 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 628 | TypeScript | 2026-06-17 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
