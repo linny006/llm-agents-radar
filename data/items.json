@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-17T06:52:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-17T06:49:45Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 7,
+    "updated_at": "2026-06-17T06:49:01Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
@@ -16,6 +43,15 @@
     "stars": 15,
     "updated_at": "2026-06-17T06:37:47Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
+    "id": "bigduu/Bodhi-AI",
+    "language": "Rust",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 14,
+    "updated_at": "2026-06-17T06:03:02Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 7,
-    "updated_at": "2026-06-17T02:34:49Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 1973,
     "updated_at": "2026-06-17T01:55:40Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:43:19Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "CoDA-Bench is a benchmark for code agents on data-intensive tasks. \ud83c\udf88\u4ee3\u7801\u667a\u80fd\u4f53\u80fd\u641e\u5b9a\u6570\u636e\u5bc6\u96c6\u578b\u4efb\u52a1\u5417? ",
@@ -410,7 +428,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 9,
-    "updated_at": "2026-06-17T05:24:22Z",
+    "updated_at": "2026-06-17T06:54:56Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-16T18:27:44Z",
     "url": "https://github.com/LEE-CHENYU/leviathan"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-16T18:00:48Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 246,
-    "updated_at": "2026-06-16T17:32:18Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
