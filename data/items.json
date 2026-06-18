@@ -1,12 +1,21 @@
 [
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
     "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5160,
-    "updated_at": "2026-06-18T04:14:17Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
+    "name": "agentscope-ai/agentscope",
+    "stars": 26965,
+    "updated_at": "2026-06-18T04:26:21Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T04:24:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-18T04:09:56Z",
+    "updated_at": "2026-06-18T04:22:24Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -23,8 +32,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T04:02:14Z",
+    "updated_at": "2026-06-18T04:22:21Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5161,
+    "updated_at": "2026-06-18T04:14:17Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -36,21 +54,12 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 26965,
-    "updated_at": "2026-06-18T03:58:40Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T03:57:35Z",
+    "updated_at": "2026-06-18T04:28:34Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -58,7 +67,7 @@
     "id": "HarryHsing/OmniAgent",
     "language": "Python",
     "name": "HarryHsing/OmniAgent",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-06-18T03:56:22Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
   },
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 276,
-    "updated_at": "2026-06-18T02:38:38Z",
+    "updated_at": "2026-06-18T04:28:27Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T02:11:15Z",
     "url": "https://github.com/twn39/ddgo-search"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T02:01:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
