@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12944,
+    "updated_at": "2026-06-18T06:26:09Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-18T06:24:31Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T06:20:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -9,21 +36,12 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T06:00:26Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 276,
-    "updated_at": "2026-06-18T05:50:30Z",
+    "updated_at": "2026-06-18T06:25:15Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -85,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26968,
+    "stars": 26969,
     "updated_at": "2026-06-18T04:38:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -142,15 +160,6 @@
     "stars": 30,
     "updated_at": "2026-06-18T03:26:59Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-18T03:20:38Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -232,15 +241,6 @@
     "stars": 1985,
     "updated_at": "2026-06-18T00:45:09Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12944,
-    "updated_at": "2026-06-18T00:40:42Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
@@ -346,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6190,
+    "stars": 6191,
     "updated_at": "2026-06-17T19:40:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-18T05:59:34Z",
+    "updated_at": "2026-06-18T06:15:40Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
