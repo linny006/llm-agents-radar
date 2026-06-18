@@ -1,10 +1,19 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 66,
+    "updated_at": "2026-06-18T09:17:50Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
     "id": "omohikane/saku",
     "language": "Python",
     "name": "omohikane/saku",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-18T09:14:42Z",
     "url": "https://github.com/omohikane/saku"
   },
@@ -61,15 +70,6 @@
     "stars": 2661,
     "updated_at": "2026-06-18T08:41:06Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 66,
-    "updated_at": "2026-06-18T08:40:06Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",

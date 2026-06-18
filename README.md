@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 09:15 UTC
+> ⏰ Last updated: 2026-06-18 09:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [omohikane/saku](https://github.com/omohikane/saku) | 0 | Python | 2026-06-18 | 🌑 SAKU (朔) — A self-evolving local AI agent with persistent personality and Markdown memory |
-| 2 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12943 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-18 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 4 | [bigduu/Nova](https://github.com/bigduu/Nova) | 1 | Rust | 2026-06-18 | Give an LLM agent control of the macOS desktop — a single self-contained Rust binary (no Python/JS stack) that speaks MC |
-| 5 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-18 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 6 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-18 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
-| 7 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2661 | Python | 2026-06-18 | SRE Agent - CNCF Sandbox Project |
-| 8 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 66 | Python | 2026-06-18 | A library-science-inspired personal knowledge management system with LLM agents |
+| 1 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 66 | Python | 2026-06-18 | A library-science-inspired personal knowledge management system with LLM agents |
+| 2 | [omohikane/saku](https://github.com/omohikane/saku) | 1 | Python | 2026-06-18 | 🌑 SAKU (朔) — A self-evolving local AI agent with persistent personality and Markdown memory |
+| 3 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12943 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-18 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 5 | [bigduu/Nova](https://github.com/bigduu/Nova) | 1 | Rust | 2026-06-18 | Give an LLM agent control of the macOS desktop — a single self-contained Rust binary (no Python/JS stack) that speaks MC |
+| 6 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-18 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
+| 7 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-18 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
+| 8 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2661 | Python | 2026-06-18 | SRE Agent - CNCF Sandbox Project |
 | 9 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
 | 10 | [XieWxx/maxhub-api-skills](https://github.com/XieWxx/maxhub-api-skills) | 6 | Shell | 2026-06-18 | 让 AI 助手轻松获取抖音、TikTok、B 站、小红书等 21 个主流平台的数据｜Enable AI assistants to easily access data from 21 mainstream platforms includ |
 | 11 | [auto-use/Auto-Use](https://github.com/auto-use/Auto-Use) | 117 | Python | 2026-06-18 | Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end. |
