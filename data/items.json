@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:35:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8706,
+    "updated_at": "2026-06-18T12:35:15Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:31:06Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T12:20:28Z",
+    "updated_at": "2026-06-18T12:33:44Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:23:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
     "id": "HarryHsing/OmniAgent",
     "language": "Python",
@@ -229,7 +247,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12944,
+    "stars": 12945,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T01:08:51Z",
     "url": "https://github.com/gzq6665/testpilot"
-  },
-  {
-    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
-    "id": "1850298154/memory_agent_hub",
-    "language": "Python",
-    "name": "1850298154/memory_agent_hub",
-    "stars": 61,
-    "updated_at": "2026-06-18T00:57:55Z",
-    "url": "https://github.com/1850298154/memory_agent_hub"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 1991,
-    "updated_at": "2026-06-18T00:45:09Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
