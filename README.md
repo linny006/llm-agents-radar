@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 02:30 UTC
+> ⏰ Last updated: 2026-06-18 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,12 +49,12 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 73 | TypeScript | 2026-06-18 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 6 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-06-18 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
 | 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 8 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 135 | TypeScript | 2026-06-18 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 8 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-18 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 10 | [gzq6665/testpilot](https://github.com/gzq6665/testpilot) | 3 | Python | 2026-06-18 | 基于 LLM Agent 的智能接口测试平台：RAG 文档问答 / 用例自动生成与评审 / LangGraph 多Agent工作流 / 失败归因分析 / pytest 回归脚本沉淀，支持多模型切换与多被测系统零代码接入 |
 | 11 | [1850298154/memory_agent_hub](https://github.com/1850298154/memory_agent_hub) | 61 | Python | 2026-06-18 | 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合 |
 | 12 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1984 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
-| 13 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12942 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 13 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12943 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 14 | [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) | 168 | JavaScript | 2026-06-18 | Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag |
 | 15 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 466 | Python | 2026-06-18 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
 | 16 | [dorisgyl/design-pack](https://github.com/dorisgyl/design-pack) | 0 | JavaScript | 2026-06-18 | A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain — pick what you need on a dash |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [Rekin226/paper-agent](https://github.com/Rekin226/paper-agent) | 6 | — | 2026-06-17 | Claude Code plugin to draft, review, revise, proofread, and audit quantitative-science journal manuscripts at submission |
 | 28 | [FutronPrime/verity-harness](https://github.com/FutronPrime/verity-harness) | 2 | Python | 2026-06-17 | The open-source Fable alternative — a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste |
 | 29 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-17 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 30 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6189 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 30 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6190 | Python | 2026-06-17 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 31 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 0 | Python | 2026-06-17 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
 | 32 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 2 | Swift | 2026-06-17 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
 | 33 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-17 | Typed Kotlin DSL framework for AI agent systems. |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-17 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 40 | [yohn1985/jarvisbot](https://github.com/yohn1985/jarvisbot) | 1 | Python | 2026-06-17 | Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions — w |
 | 41 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-17 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 42 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2657 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
+| 42 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2658 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
 | 43 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-17 | A fast and minimal agent library for typescript and rust |
 | 44 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
 | 45 | [dkimek19/whack-a-mole](https://github.com/dkimek19/whack-a-mole) | 0 | Python | 2026-06-17 | LLM agent codebase security scanner |
