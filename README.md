@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 23:15 UTC
+> ⏰ Last updated: 2026-06-18 23:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -78,7 +78,7 @@ expired items removed — so you can rely on what you see being current.
 | 34 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-18 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
 | 35 | [Yanu403/digital-mate](https://github.com/Yanu403/digital-mate) | 0 | Python | 2026-06-18 | 🤖 AI-powered Digital Marketing Assistant — content creation, strategy, research & analytics via Telegram. Bilingual EN/I |
 | 36 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-18 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 37 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26988 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
+| 37 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26989 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
 | 38 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-18 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 39 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-18 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
 | 40 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 3 | — | 2026-06-18 | ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent |
