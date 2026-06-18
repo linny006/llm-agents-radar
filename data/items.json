@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T12:53:11Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
+    "id": "omohikane/saku",
+    "language": "Python",
+    "name": "omohikane/saku",
+    "stars": 1,
+    "updated_at": "2026-06-18T12:45:30Z",
+    "url": "https://github.com/omohikane/saku"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -40,7 +58,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 70,
+    "stars": 71,
     "updated_at": "2026-06-18T12:20:02Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -79,15 +97,6 @@
     "stars": 353,
     "updated_at": "2026-06-18T11:47:18Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T12:40:04Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -162,15 +171,6 @@
     "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
-    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
-    "id": "omohikane/saku",
-    "language": "Python",
-    "name": "omohikane/saku",
-    "stars": 1,
-    "updated_at": "2026-06-18T10:05:16Z",
-    "url": "https://github.com/omohikane/saku"
-  },
-  {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
     "id": "madderscientist/WebAI2API",
     "language": "TypeScript",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-18T10:00:38Z",
+    "updated_at": "2026-06-18T12:58:34Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "auto-use/Auto-Use",
     "stars": 117,
-    "updated_at": "2026-06-18T12:36:37Z",
+    "updated_at": "2026-06-18T12:55:41Z",
     "url": "https://github.com/auto-use/Auto-Use"
   },
   {
