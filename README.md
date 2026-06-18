@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 07:00 UTC
+> ⏰ Last updated: 2026-06-18 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-18 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
-| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-18 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
 | 3 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 277 | Go | 2026-06-18 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 4 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26972 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
+| 4 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26973 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
 | 5 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-18 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 6 | [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) | 168 | JavaScript | 2026-06-18 | Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag |
 | 7 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 73 | TypeScript | 2026-06-18 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 6 | Python | 2026-06-18 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
 | 27 | [gzq6665/testpilot](https://github.com/gzq6665/testpilot) | 3 | Python | 2026-06-18 | 基于 LLM Agent 的智能接口测试平台：RAG 文档问答 / 用例自动生成与评审 / LangGraph 多Agent工作流 / 失败归因分析 / pytest 回归脚本沉淀，支持多模型切换与多被测系统零代码接入 |
 | 28 | [1850298154/memory_agent_hub](https://github.com/1850298154/memory_agent_hub) | 61 | Python | 2026-06-18 | 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合 |
-| 29 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1987 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
+| 29 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1989 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
 | 30 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 466 | Python | 2026-06-18 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
 | 31 | [dorisgyl/design-pack](https://github.com/dorisgyl/design-pack) | 0 | JavaScript | 2026-06-18 | A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain — pick what you need on a dash |
 | 32 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-18 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-18 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 48 | [yohn1985/jarvisbot](https://github.com/yohn1985/jarvisbot) | 1 | Python | 2026-06-17 | Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions — w |
 | 49 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-17 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 50 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2659 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
+| 50 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2660 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
 <!-- TRACKER_TABLE_END -->
 
 ---

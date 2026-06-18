@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T07:12:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T06:57:57Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T06:56:58Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -31,7 +31,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26972,
+    "stars": 26973,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -256,7 +256,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1987,
+    "stars": 1989,
     "updated_at": "2026-06-18T00:45:09Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -419,7 +419,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-18T06:47:00Z",
+    "updated_at": "2026-06-18T07:09:43Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -445,7 +445,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2659,
+    "stars": 2660,
     "updated_at": "2026-06-17T18:21:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   }
