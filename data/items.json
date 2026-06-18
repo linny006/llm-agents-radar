@@ -1,12 +1,30 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-18T04:43:21Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26965,
-    "updated_at": "2026-06-18T04:26:21Z",
+    "stars": 26966,
+    "updated_at": "2026-06-18T04:38:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-18T04:33:23Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5161,
-    "updated_at": "2026-06-18T04:14:17Z",
+    "updated_at": "2026-06-18T04:31:58Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -54,20 +72,11 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-18T04:28:34Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
     "id": "HarryHsing/OmniAgent",
     "language": "Python",
     "name": "HarryHsing/OmniAgent",
-    "stars": 5,
+    "stars": 8,
     "updated_at": "2026-06-18T03:56:22Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:46:35Z",
     "url": "https://github.com/dkimek19/whack-a-mole"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 781,
-    "updated_at": "2026-06-17T17:46:35Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
