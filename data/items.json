@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 353,
+    "updated_at": "2026-06-18T11:47:18Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -202,7 +211,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12942,
+    "stars": 12943,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -256,7 +265,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6194,
+    "stars": 6195,
     "updated_at": "2026-06-18T08:01:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 466,
     "updated_at": "2026-06-18T00:30:59Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain \u2014 pick what you need on a dash",
-    "id": "dorisgyl/design-pack",
-    "language": "JavaScript",
-    "name": "dorisgyl/design-pack",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:30:18Z",
-    "url": "https://github.com/dorisgyl/design-pack"
   }
 ]
