@@ -1,11 +1,38 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 80,
+    "updated_at": "2026-06-18T16:42:42Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
+    "id": "Evil-Bane/eyebrowse",
+    "language": "Python",
+    "name": "Evil-Bane/eyebrowse",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:41:06Z",
+    "url": "https://github.com/Evil-Bane/eyebrowse"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-18T16:41:11Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
     "id": "Yanu403/digital-mate",
     "language": "Python",
     "name": "Yanu403/digital-mate",
     "stars": 0,
-    "updated_at": "2026-06-18T16:27:00Z",
+    "updated_at": "2026-06-18T16:35:42Z",
     "url": "https://github.com/Yanu403/digital-mate"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:24:08Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 80,
-    "updated_at": "2026-06-18T16:20:58Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -108,6 +126,15 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6198,
+    "updated_at": "2026-06-18T15:31:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -117,15 +144,6 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6197,
-    "updated_at": "2026-06-18T15:31:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 15,
     "updated_at": "2026-06-18T15:15:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-18T16:01:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 782,
-    "updated_at": "2026-06-18T16:25:28Z",
+    "updated_at": "2026-06-18T16:37:52Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -369,15 +378,6 @@
     "url": "https://github.com/madderscientist/WebAI2API"
   },
   {
-    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
-    "id": "Evil-Bane/eyebrowse",
-    "language": "Python",
-    "name": "Evil-Bane/eyebrowse",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:49:55Z",
-    "url": "https://github.com/Evil-Bane/eyebrowse"
-  },
-  {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
@@ -391,7 +391,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5160,
+    "stars": 5161,
     "updated_at": "2026-06-18T09:28:40Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
