@@ -1,11 +1,38 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T18:15:05Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 80,
+    "updated_at": "2026-06-18T18:14:28Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:10:31Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T17:59:44Z",
+    "updated_at": "2026-06-18T18:03:07Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -41,17 +68,8 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 7,
-    "updated_at": "2026-06-18T18:00:18Z",
+    "updated_at": "2026-06-18T18:01:20Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 80,
-    "updated_at": "2026-06-18T17:37:27Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-18T17:57:37Z",
+    "updated_at": "2026-06-18T18:15:01Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 12,
-    "updated_at": "2026-06-18T17:07:06Z",
+    "updated_at": "2026-06-18T18:02:32Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 782,
-    "updated_at": "2026-06-18T16:50:47Z",
+    "updated_at": "2026-06-18T18:11:00Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T18:00:14Z",
+    "updated_at": "2026-06-18T18:04:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -229,7 +247,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 58,
+    "stars": 59,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -241,15 +259,6 @@
     "stars": 73,
     "updated_at": "2026-06-18T15:30:22Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T15:15:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -346,7 +355,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8706,
+    "stars": 8707,
     "updated_at": "2026-06-18T12:35:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -439,14 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-18T10:03:10Z",
     "url": "https://github.com/madderscientist/WebAI2API"
-  },
-  {
-    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
-    "id": "jeinlee1991/chinese-llm-benchmark",
-    "language": "\u2014",
-    "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6179,
-    "updated_at": "2026-06-18T09:34:07Z",
-    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   }
 ]
