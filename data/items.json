@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6197,
+    "updated_at": "2026-06-18T15:21:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-18T15:30:17Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T15:15:29Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -36,15 +63,6 @@
     "url": "https://github.com/frissonitte/wbc-analyzer"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T15:13:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -79,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T14:48:48Z",
     "url": "https://github.com/mingger77/research-skills"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6197,
-    "updated_at": "2026-06-18T14:56:27Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
@@ -439,14 +448,5 @@
     "stars": 26983,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 169,
-    "updated_at": "2026-06-18T06:42:42Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   }
 ]
