@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-18T09:58:49Z",
+    "updated_at": "2026-06-18T10:10:01Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
+    "id": "omohikane/saku",
+    "language": "Python",
+    "name": "omohikane/saku",
+    "stars": 1,
+    "updated_at": "2026-06-18T10:05:16Z",
+    "url": "https://github.com/omohikane/saku"
   },
   {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "madderscientist/WebAI2API",
     "stars": 14,
-    "updated_at": "2026-06-18T09:53:28Z",
+    "updated_at": "2026-06-18T10:03:10Z",
     "url": "https://github.com/madderscientist/WebAI2API"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 66,
+    "updated_at": "2026-06-18T10:03:16Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
+    "id": "rawrter/studio",
+    "language": "Python",
+    "name": "rawrter/studio",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:00:38Z",
+    "url": "https://github.com/rawrter/studio"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T09:53:17Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 66,
-    "updated_at": "2026-06-18T09:50:47Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
@@ -59,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-18T09:35:29Z",
+    "updated_at": "2026-06-18T10:15:02Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 6179,
     "updated_at": "2026-06-18T09:34:07Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
-    "id": "rawrter/studio",
-    "language": "Python",
-    "name": "rawrter/studio",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:56:59Z",
-    "url": "https://github.com/rawrter/studio"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -115,15 +124,6 @@
     "stars": 13,
     "updated_at": "2026-06-18T09:22:31Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
-    "id": "omohikane/saku",
-    "language": "Python",
-    "name": "omohikane/saku",
-    "stars": 1,
-    "updated_at": "2026-06-18T09:14:42Z",
-    "url": "https://github.com/omohikane/saku"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -400,7 +400,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1990,
+    "stars": 1991,
     "updated_at": "2026-06-18T00:45:09Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
