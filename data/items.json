@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T17:29:12Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-18T17:27:48Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-18T17:21:58Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -25,15 +52,6 @@
     "stars": 12,
     "updated_at": "2026-06-18T17:07:06Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-18T17:01:26Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -103,7 +121,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26985,
+    "stars": 26986,
     "updated_at": "2026-06-18T16:25:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T16:04:24Z",
+    "updated_at": "2026-06-18T17:23:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 58,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6199,
-    "updated_at": "2026-06-18T15:31:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -304,15 +313,6 @@
     "stars": 117,
     "updated_at": "2026-06-18T16:55:56Z",
     "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T14:58:17Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
