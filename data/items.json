@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 30,
+    "updated_at": "2026-06-17T23:53:24Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 135,
+    "updated_at": "2026-06-17T23:47:40Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T23:39:27Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 30,
-    "updated_at": "2026-06-17T23:34:33Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4332,
-    "updated_at": "2026-06-17T22:15:53Z",
+    "updated_at": "2026-06-17T23:58:04Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T12:37:26Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "AI-powered group finance assistant using MCP architecture, Gemini LLM and Streamlit.",
-    "id": "LuGodoy/finance-agent-mcp",
-    "language": "Python",
-    "name": "LuGodoy/finance-agent-mcp",
-    "stars": 17,
-    "updated_at": "2026-06-17T12:28:54Z",
-    "url": "https://github.com/LuGodoy/finance-agent-mcp"
   }
 ]
