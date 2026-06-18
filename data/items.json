@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T04:51:38Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -25,15 +34,6 @@
     "stars": 136,
     "updated_at": "2026-06-18T04:33:23Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T04:24:04Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -76,7 +76,7 @@
     "id": "HarryHsing/OmniAgent",
     "language": "Python",
     "name": "HarryHsing/OmniAgent",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-06-18T03:56:22Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
   },
