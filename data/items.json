@@ -1,12 +1,66 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:44:45Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 79,
+    "updated_at": "2026-06-18T14:42:51Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "A methodology skill for AI Agent (Claude Code) to conduct reproducible research with Python.",
+    "id": "mingger77/research-skills",
+    "language": "\u2014",
+    "name": "mingger77/research-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:37:34Z",
+    "url": "https://github.com/mingger77/research-skills"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:37:13Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-18T14:36:51Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
     "name": "Yuan-ManX/SparkLabs",
     "stars": 6,
-    "updated_at": "2026-06-18T14:28:18Z",
+    "updated_at": "2026-06-18T14:32:32Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:32:24Z",
+    "url": "https://github.com/Yanu403/digital-mate"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -16,15 +70,6 @@
     "stars": 30,
     "updated_at": "2026-06-18T14:20:54Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:18:06Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -41,17 +86,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 782,
-    "updated_at": "2026-06-18T14:10:00Z",
+    "updated_at": "2026-06-18T14:42:26Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 79,
-    "updated_at": "2026-06-18T13:57:55Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -61,15 +97,6 @@
     "stars": 628,
     "updated_at": "2026-06-18T14:21:59Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 0,
-    "updated_at": "2026-06-18T13:45:24Z",
-    "url": "https://github.com/Yanu403/digital-mate"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "auto-use/Auto-Use",
     "stars": 117,
-    "updated_at": "2026-06-18T13:14:58Z",
+    "updated_at": "2026-06-18T14:43:42Z",
     "url": "https://github.com/auto-use/Auto-Use"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-18T13:47:38Z",
+    "updated_at": "2026-06-18T14:39:11Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -268,6 +295,15 @@
     "stars": 6179,
     "updated_at": "2026-06-18T09:34:07Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5160,
+    "updated_at": "2026-06-18T09:28:40Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -373,7 +409,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26981,
+    "stars": 26982,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,41 +448,5 @@
     "stars": 15,
     "updated_at": "2026-06-18T06:00:42Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-18T09:31:36Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-06-18T04:43:21Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5159,
-    "updated_at": "2026-06-18T09:28:40Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "Shell",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-06-18T02:53:19Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   }
 ]
