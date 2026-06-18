@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T11:13:37Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-18T11:12:38Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -25,24 +43,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T10:43:30Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T10:50:58Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-06-18T10:30:24Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Give an LLM agent control of the macOS desktop \u2014 a single self-contained Rust binary (no Python/JS stack) that speaks MC",
@@ -76,7 +76,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 66,
+    "stars": 67,
     "updated_at": "2026-06-18T10:03:16Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -149,7 +149,7 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-06-18T09:24:18Z",
+    "updated_at": "2026-06-18T11:12:01Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-18T08:57:32Z",
+    "updated_at": "2026-06-18T11:07:52Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2661,
-    "updated_at": "2026-06-18T09:30:13Z",
+    "updated_at": "2026-06-18T11:09:27Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -241,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:11:01Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6194,
+    "updated_at": "2026-06-18T08:01:22Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T00:29:39Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:22:48Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
