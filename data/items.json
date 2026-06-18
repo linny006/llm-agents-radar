@@ -1,5 +1,23 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-18T01:24:42Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-18T01:16:50Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u57fa\u4e8e LLM Agent \u7684\u667a\u80fd\u63a5\u53e3\u6d4b\u8bd5\u5e73\u53f0\uff1aRAG \u6587\u6863\u95ee\u7b54 / \u7528\u4f8b\u81ea\u52a8\u751f\u6210\u4e0e\u8bc4\u5ba1 / LangGraph \u591aAgent\u5de5\u4f5c\u6d41 / \u5931\u8d25\u5f52\u56e0\u5206\u6790 / pytest \u56de\u5f52\u811a\u672c\u6c89\u6dc0\uff0c\u652f\u6301\u591a\u6a21\u578b\u5207\u6362\u4e0e\u591a\u88ab\u6d4b\u7cfb\u7edf\u96f6\u4ee3\u7801\u63a5\u5165",
     "id": "gzq6665/testpilot",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T01:08:51Z",
     "url": "https://github.com/gzq6665/testpilot"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:00:39Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
@@ -67,7 +76,7 @@
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-18T00:29:39Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4332,
-    "updated_at": "2026-06-18T01:13:36Z",
+    "updated_at": "2026-06-18T01:24:28Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 135,
     "updated_at": "2026-06-17T23:47:40Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:39:27Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
