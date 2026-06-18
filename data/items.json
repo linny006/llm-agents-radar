@@ -1,5 +1,23 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:25:28Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-18T18:19:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 80,
-    "updated_at": "2026-06-18T18:14:28Z",
+    "updated_at": "2026-06-18T18:15:20Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -72,15 +90,6 @@
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-18T17:27:48Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "The consciousness engine for The Obelisk \ud83e\udde0",
     "id": "ohnodev/obelisk-core",
     "language": "TypeScript",
@@ -131,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 782,
-    "updated_at": "2026-06-18T18:11:00Z",
+    "updated_at": "2026-06-18T18:28:10Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:49:42Z",
     "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
-    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
-    "id": "Evil-Bane/eyebrowse",
-    "language": "Python",
-    "name": "Evil-Bane/eyebrowse",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:41:06Z",
-    "url": "https://github.com/Evil-Bane/eyebrowse"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T18:04:24Z",
+    "updated_at": "2026-06-18T18:28:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
