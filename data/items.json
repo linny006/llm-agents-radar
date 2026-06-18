@@ -1,5 +1,14 @@
 [
   {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-18T21:13:43Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
     "id": "Maximooch/penguin",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T21:08:29Z",
+    "updated_at": "2026-06-18T21:14:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-18T12:19:50Z",
     "url": "https://github.com/theunstopabble/SwadKart"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 353,
-    "updated_at": "2026-06-18T11:47:18Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
