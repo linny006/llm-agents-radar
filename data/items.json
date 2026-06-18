@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
+    "id": "auto-use/Auto-Use",
+    "language": "Python",
+    "name": "auto-use/Auto-Use",
+    "stars": 117,
+    "updated_at": "2026-06-18T08:29:05Z",
+    "url": "https://github.com/auto-use/Auto-Use"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -32,8 +41,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T08:11:16Z",
+    "updated_at": "2026-06-18T08:21:37Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 278,
+    "updated_at": "2026-06-18T07:57:08Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -63,15 +81,6 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 277,
-    "updated_at": "2026-06-18T07:57:08Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
@@ -94,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26975,
+    "stars": 26974,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T05:27:28Z",
+    "updated_at": "2026-06-18T08:19:22Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 205,
     "updated_at": "2026-06-18T07:09:43Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:29:06Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
   }
 ]
