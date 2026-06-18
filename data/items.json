@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-18T19:58:10Z",
+    "updated_at": "2026-06-18T20:14:35Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-18T20:03:45Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-06-18T19:57:44Z",
+    "updated_at": "2026-06-18T20:15:14Z",
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T19:38:12Z",
+    "updated_at": "2026-06-18T20:09:02Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 1500,
     "updated_at": "2026-06-18T18:53:20Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-18T18:49:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -265,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26987,
+    "stars": 26988,
     "updated_at": "2026-06-18T16:25:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2662,
-    "updated_at": "2026-06-18T19:04:38Z",
+    "updated_at": "2026-06-18T20:07:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {

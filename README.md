@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 20:00 UTC
+> ⏰ Last updated: 2026-06-18 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-18 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 2 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-18 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
-| 3 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-18 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [gptme/gptme](https://github.com/gptme/gptme) | 4333 | Python | 2026-06-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 7 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
-| 8 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1990 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
-| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 10 | [helixml/helix](https://github.com/helixml/helix) | 782 | Go | 2026-06-18 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 11 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 2 | Swift | 2026-06-18 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
-| 12 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 2 | Python | 2026-06-18 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 13 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1500 | Python | 2026-06-18 | The LLM Anti-Framework |
-| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6200 | Python | 2026-06-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6200 | Python | 2026-06-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 3 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-18 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
+| 4 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-18 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4333 | Python | 2026-06-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
+| 9 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1990 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
+| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 11 | [helixml/helix](https://github.com/helixml/helix) | 782 | Go | 2026-06-18 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 12 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 2 | Swift | 2026-06-18 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
+| 13 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 2 | Python | 2026-06-18 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 14 | [Mirascope/mirascope](https://github.com/Mirascope/mirascope) | 1500 | Python | 2026-06-18 | The LLM Anti-Framework |
 | 15 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-18 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 16 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-18 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
 | 17 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-18 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-06-18 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
 | 28 | [Yanu403/digital-mate](https://github.com/Yanu403/digital-mate) | 0 | Python | 2026-06-18 | 🤖 AI-powered Digital Marketing Assistant — content creation, strategy, research & analytics via Telegram. Bilingual EN/I |
 | 29 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-18 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 30 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26987 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
+| 30 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26988 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
 | 31 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 247 | Python | 2026-06-18 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
 | 32 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-18 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 33 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-18 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
