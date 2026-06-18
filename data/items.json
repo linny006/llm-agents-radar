@@ -1,11 +1,29 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 79,
+    "updated_at": "2026-06-18T13:57:55Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 628,
+    "updated_at": "2026-06-18T13:54:32Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 30,
-    "updated_at": "2026-06-18T13:28:18Z",
+    "updated_at": "2026-06-18T13:51:57Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T13:23:35Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 628,
-    "updated_at": "2026-06-18T13:42:08Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -97,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-06-18T12:23:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 79,
-    "updated_at": "2026-06-18T12:20:02Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-18T13:25:39Z",
+    "updated_at": "2026-06-18T13:47:38Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -328,7 +328,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 280,
+    "stars": 281,
     "updated_at": "2026-06-18T07:57:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -367,6 +367,15 @@
     "stars": 73,
     "updated_at": "2026-06-18T06:35:11Z",
     "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Multi-Agent AI Assistant Platform \u2014 Rust + Python + React",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 41,
+    "updated_at": "2026-06-18T06:01:40Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -439,14 +448,5 @@
     "stars": 4333,
     "updated_at": "2026-06-18T05:36:44Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
-    "id": "twn39/ddgo-search",
-    "language": "Python",
-    "name": "twn39/ddgo-search",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:11:15Z",
-    "url": "https://github.com/twn39/ddgo-search"
   }
 ]
