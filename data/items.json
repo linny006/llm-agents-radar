@@ -1,21 +1,12 @@
 [
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:41:26Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
     "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 66,
-    "updated_at": "2026-06-18T09:38:23Z",
-    "url": "https://github.com/shenmintao/marginalia"
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:58:49Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
@@ -23,8 +14,44 @@
     "language": "TypeScript",
     "name": "madderscientist/WebAI2API",
     "stars": 14,
-    "updated_at": "2026-06-18T09:35:36Z",
+    "updated_at": "2026-06-18T09:53:28Z",
     "url": "https://github.com/madderscientist/WebAI2API"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-06-18T09:53:17Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 66,
+    "updated_at": "2026-06-18T09:50:47Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
+    "id": "Evil-Bane/eyebrowse",
+    "language": "Python",
+    "name": "Evil-Bane/eyebrowse",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:49:55Z",
+    "url": "https://github.com/Evil-Bane/eyebrowse"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:41:26Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -45,21 +72,12 @@
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
   {
-    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
-    "id": "Evil-Bane/eyebrowse",
-    "language": "Python",
-    "name": "Evil-Bane/eyebrowse",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:28:42Z",
-    "url": "https://github.com/Evil-Bane/eyebrowse"
-  },
-  {
     "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
     "id": "rawrter/studio",
     "language": "Python",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-18T09:28:35Z",
+    "updated_at": "2026-06-18T09:56:59Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -112,7 +130,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12943,
+    "stars": 12942,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -216,20 +234,11 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-18T07:16:24Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26979,
+    "stars": 26980,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -322,6 +331,15 @@
     "stars": 30,
     "updated_at": "2026-06-18T03:26:59Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "Shell",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:53:19Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-17T22:46:50Z",
     "url": "https://github.com/raym33/r"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 3,
-    "updated_at": "2026-06-17T21:10:24Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-06-17T21:07:29Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   }
 ]
