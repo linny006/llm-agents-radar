@@ -1,5 +1,50 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 66,
+    "updated_at": "2026-06-18T08:40:06Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2660,
+    "updated_at": "2026-06-18T08:41:06Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T08:32:48Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
+    "id": "XieWxx/maxhub-api-skills",
+    "language": "Shell",
+    "name": "XieWxx/maxhub-api-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T08:32:45Z",
+    "url": "https://github.com/XieWxx/maxhub-api-skills"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:32:39Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
     "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
     "id": "auto-use/Auto-Use",
     "language": "Python",
@@ -9,24 +54,6 @@
     "url": "https://github.com/auto-use/Auto-Use"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 66,
-    "updated_at": "2026-06-18T08:12:35Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:11:54Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:11:01Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T08:21:37Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T08:19:22Z",
+    "updated_at": "2026-06-18T08:45:14Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T18:39:03Z",
     "url": "https://github.com/indyfive11/gabagent"
-  },
-  {
-    "description": "AgenticAnomaly is an indirect prompt injection CTF for testing how agentic security operations center (SOC) workflows ca",
-    "id": "Skrotrot/AgenticAnomaly",
-    "language": "Python",
-    "name": "Skrotrot/AgenticAnomaly",
-    "stars": 1,
-    "updated_at": "2026-06-17T18:31:37Z",
-    "url": "https://github.com/Skrotrot/AgenticAnomaly"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 205,
-    "updated_at": "2026-06-18T07:09:43Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
