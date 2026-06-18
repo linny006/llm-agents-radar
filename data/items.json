@@ -1,12 +1,30 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-18T19:43:16Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T19:24:34Z",
+    "updated_at": "2026-06-18T19:38:12Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 1990,
+    "updated_at": "2026-06-18T19:31:19Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -220,7 +238,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26987,
+    "stars": 26986,
     "updated_at": "2026-06-18T16:25:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 205,
-    "updated_at": "2026-06-18T16:14:33Z",
+    "updated_at": "2026-06-18T19:39:52Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -257,17 +275,8 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-18T19:19:50Z",
+    "updated_at": "2026-06-18T19:42:45Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-18T19:29:24Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-18T11:12:38Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 3,
-    "updated_at": "2026-06-18T10:43:30Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
