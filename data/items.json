@@ -1,10 +1,19 @@
 [
   {
+    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
+    "id": "1850298154/memory_agent_hub",
+    "language": "Python",
+    "name": "1850298154/memory_agent_hub",
+    "stars": 61,
+    "updated_at": "2026-06-18T00:57:55Z",
+    "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12941,
+    "stars": 12942,
     "updated_at": "2026-06-18T00:40:42Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-17T22:53:58Z",
+    "updated_at": "2026-06-18T00:54:07Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-17T16:38:18Z",
     "url": "https://github.com/dkimek19/wam-hawk"
-  },
-  {
-    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
-    "id": "1850298154/memory_agent_hub",
-    "language": "Python",
-    "name": "1850298154/memory_agent_hub",
-    "stars": 61,
-    "updated_at": "2026-06-17T16:34:09Z",
-    "url": "https://github.com/1850298154/memory_agent_hub"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
