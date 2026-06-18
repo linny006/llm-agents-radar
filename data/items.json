@@ -1,11 +1,20 @@
 [
   {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-06-18T05:29:24Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T05:12:50Z",
+    "updated_at": "2026-06-18T05:27:28Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T05:08:35Z",
+    "updated_at": "2026-06-18T05:23:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T17:32:02Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "The unified Claude Code framework \u2014 synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and ",
-    "id": "caltrackaiteam-pixel/make-claude-perform",
-    "language": "JavaScript",
-    "name": "caltrackaiteam-pixel/make-claude-perform",
-    "stars": 0,
-    "updated_at": "2026-06-17T17:01:41Z",
-    "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
   }
 ]
