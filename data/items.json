@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T14:52:50Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 782,
+    "updated_at": "2026-06-18T14:52:29Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
+    "id": "th3vib3coder/vibe-science",
+    "language": "JavaScript",
+    "name": "th3vib3coder/vibe-science",
+    "stars": 12,
+    "updated_at": "2026-06-18T14:49:44Z",
+    "url": "https://github.com/th3vib3coder/vibe-science"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-18T14:49:25Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "A methodology skill for AI Agent (Claude Code) to conduct reproducible research with Python.",
+    "id": "mingger77/research-skills",
+    "language": "\u2014",
+    "name": "mingger77/research-skills",
+    "stars": 1,
+    "updated_at": "2026-06-18T14:48:48Z",
+    "url": "https://github.com/mingger77/research-skills"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6197,
+    "updated_at": "2026-06-18T14:56:27Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -16,24 +70,6 @@
     "stars": 79,
     "updated_at": "2026-06-18T14:42:51Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "A methodology skill for AI Agent (Claude Code) to conduct reproducible research with Python.",
-    "id": "mingger77/research-skills",
-    "language": "\u2014",
-    "name": "mingger77/research-skills",
-    "stars": 1,
-    "updated_at": "2026-06-18T14:37:34Z",
-    "url": "https://github.com/mingger77/research-skills"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:37:13Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -81,15 +117,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 782,
-    "updated_at": "2026-06-18T14:42:26Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T12:53:11Z",
+    "updated_at": "2026-06-18T14:58:17Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -139,7 +166,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8707,
+    "stars": 8708,
     "updated_at": "2026-06-18T12:35:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -346,7 +373,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12947,
+    "stars": 12948,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -376,15 +403,6 @@
     "stars": 7,
     "updated_at": "2026-06-18T08:32:45Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6197,
-    "updated_at": "2026-06-18T08:01:22Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -418,7 +436,7 @@
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
     "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 168,
+    "stars": 169,
     "updated_at": "2026-06-18T06:42:42Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
@@ -430,23 +448,5 @@
     "stars": 73,
     "updated_at": "2026-06-18T06:35:11Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 41,
-    "updated_at": "2026-06-18T06:01:40Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T06:00:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
