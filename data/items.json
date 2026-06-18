@@ -1,5 +1,59 @@
 [
   {
+    "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
+    "id": "Evil-Bane/eyebrowse",
+    "language": "Python",
+    "name": "Evil-Bane/eyebrowse",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:28:42Z",
+    "url": "https://github.com/Evil-Bane/eyebrowse"
+  },
+  {
+    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
+    "id": "rawrter/studio",
+    "language": "Python",
+    "name": "rawrter/studio",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:28:35Z",
+    "url": "https://github.com/rawrter/studio"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:24:28Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-06-18T09:24:18Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-18T09:23:30Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
+    "id": "HarryHsing/OmniAgent",
+    "language": "Python",
+    "name": "HarryHsing/OmniAgent",
+    "stars": 13,
+    "updated_at": "2026-06-18T09:22:31Z",
+    "url": "https://github.com/HarryHsing/OmniAgent"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2661,
-    "updated_at": "2026-06-18T08:41:06Z",
+    "updated_at": "2026-06-18T09:30:13Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -85,7 +139,7 @@
     "id": "XieWxx/maxhub-api-skills",
     "language": "Shell",
     "name": "XieWxx/maxhub-api-skills",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-06-18T08:32:45Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
   },
@@ -112,7 +166,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 279,
+    "stars": 280,
     "updated_at": "2026-06-18T07:57:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-18T07:46:56Z",
+    "updated_at": "2026-06-18T09:20:42Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -153,20 +207,11 @@
     "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:57:57Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26977,
+    "stars": 26978,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -216,15 +261,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-06-18T05:29:24Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -232,15 +268,6 @@
     "stars": 136,
     "updated_at": "2026-06-18T08:45:14Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-18T05:03:42Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -257,17 +284,8 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5159,
-    "updated_at": "2026-06-18T04:31:58Z",
+    "updated_at": "2026-06-18T09:28:40Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
-    "id": "HarryHsing/OmniAgent",
-    "language": "Python",
-    "name": "HarryHsing/OmniAgent",
-    "stars": 13,
-    "updated_at": "2026-06-18T03:56:22Z",
-    "url": "https://github.com/HarryHsing/OmniAgent"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 246,
-    "updated_at": "2026-06-18T03:36:15Z",
+    "updated_at": "2026-06-18T09:26:56Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
@@ -346,7 +364,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1989,
+    "stars": 1990,
     "updated_at": "2026-06-18T00:45:09Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -430,23 +448,5 @@
     "stars": 6193,
     "updated_at": "2026-06-18T08:01:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-17T19:25:18Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
-    "id": "ab0991-oss/hermes-ios",
-    "language": "Swift",
-    "name": "ab0991-oss/hermes-ios",
-    "stars": 2,
-    "updated_at": "2026-06-17T19:07:42Z",
-    "url": "https://github.com/ab0991-oss/hermes-ios"
   }
 ]
