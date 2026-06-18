@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 4,
+    "updated_at": "2026-06-18T21:08:41Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-18T21:08:29Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-18T21:07:16Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
     "id": "yakeworld/Synthos",
     "language": "Python",
     "name": "yakeworld/Synthos",
     "stars": 4,
-    "updated_at": "2026-06-18T20:58:26Z",
+    "updated_at": "2026-06-18T21:06:59Z",
     "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-18T21:06:21Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-18T21:03:53Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -36,15 +81,6 @@
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-18T20:32:00Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-18T20:03:45Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:52:24Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-18T19:58:02Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A research agent system deeply rooted in your Zotero library.",
@@ -158,7 +176,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T18:47:53Z",
+    "updated_at": "2026-06-18T21:02:55Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 24,
     "updated_at": "2026-06-18T18:41:08Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:32:46Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -439,14 +448,5 @@
     "stars": 353,
     "updated_at": "2026-06-18T11:47:18Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2662,
-    "updated_at": "2026-06-18T20:07:37Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
