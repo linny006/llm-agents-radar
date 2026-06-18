@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-18T22:10:01Z",
+    "updated_at": "2026-06-18T22:28:54Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-18T22:16:24Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6200,
-    "updated_at": "2026-06-18T21:21:30Z",
+    "updated_at": "2026-06-18T22:24:44Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-18T22:08:06Z",
+    "updated_at": "2026-06-18T22:29:41Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -427,7 +436,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8707,
+    "stars": 8708,
     "updated_at": "2026-06-18T12:35:15Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-18T12:23:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
-    "id": "theunstopabble/SwadKart",
-    "language": "JavaScript",
-    "name": "theunstopabble/SwadKart",
-    "stars": 10,
-    "updated_at": "2026-06-18T12:19:50Z",
-    "url": "https://github.com/theunstopabble/SwadKart"
   }
 ]
