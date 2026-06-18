@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-18T02:58:40Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-18T02:58:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T02:53:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 30,
+    "updated_at": "2026-06-18T02:47:09Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
+    "id": "HarryHsing/OmniAgent",
+    "language": "Python",
+    "name": "HarryHsing/OmniAgent",
+    "stars": 2,
+    "updated_at": "2026-06-18T02:46:35Z",
+    "url": "https://github.com/HarryHsing/OmniAgent"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 1,
     "updated_at": "2026-06-18T02:45:09Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 276,
+    "updated_at": "2026-06-18T02:38:38Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 73,
-    "updated_at": "2026-06-18T01:46:40Z",
+    "updated_at": "2026-06-18T02:59:03Z",
     "url": "https://github.com/sandydasari/openacme"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T01:43:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-18T01:37:05Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -112,7 +157,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12943,
+    "stars": 12945,
     "updated_at": "2026-06-18T00:40:42Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -171,24 +216,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 30,
-    "updated_at": "2026-06-18T00:28:24Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-17T23:20:22Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
     "id": "BiBoyang/ForgeLoop",
     "language": "Swift",
@@ -205,15 +232,6 @@
     "stars": 14,
     "updated_at": "2026-06-17T22:46:50Z",
     "url": "https://github.com/raym33/r"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-17T22:46:08Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -295,15 +313,6 @@
     "stars": 12,
     "updated_at": "2026-06-17T19:07:26Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
-    "id": "HarryHsing/OmniAgent",
-    "language": "Python",
-    "name": "HarryHsing/OmniAgent",
-    "stars": 1,
-    "updated_at": "2026-06-17T19:01:13Z",
-    "url": "https://github.com/HarryHsing/OmniAgent"
   },
   {
     "description": "LLM-driven NetEase Cloud Music player for time-of-day listening",
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-06-17T16:29:36Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "",
-    "id": "lpc0387/guided-browser-runner",
-    "language": "Python",
-    "name": "lpc0387/guided-browser-runner",
-    "stars": 1,
-    "updated_at": "2026-06-17T16:10:42Z",
-    "url": "https://github.com/lpc0387/guided-browser-runner"
   }
 ]
