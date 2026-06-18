@@ -1,5 +1,23 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 205,
+    "updated_at": "2026-06-18T16:14:33Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
+    "id": "rawrter/studio",
+    "language": "Python",
+    "name": "rawrter/studio",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:08:50Z",
+    "url": "https://github.com/rawrter/studio"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -40,7 +58,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 56,
+    "stars": 57,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -49,7 +67,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 79,
+    "stars": 80,
     "updated_at": "2026-06-18T15:47:35Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -342,15 +360,6 @@
     "url": "https://github.com/madderscientist/WebAI2API"
   },
   {
-    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
-    "id": "rawrter/studio",
-    "language": "Python",
-    "name": "rawrter/studio",
-    "stars": 0,
-    "updated_at": "2026-06-18T14:39:11Z",
-    "url": "https://github.com/rawrter/studio"
-  },
-  {
     "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
     "id": "Evil-Bane/eyebrowse",
     "language": "Python",
@@ -412,15 +421,6 @@
     "stars": 12949,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 205,
-    "updated_at": "2026-06-18T11:07:52Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
