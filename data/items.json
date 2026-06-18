@@ -1,5 +1,23 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-18T02:30:06Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-18T02:24:29Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A highly resilient, token-efficient, and feature-rich Command Line Interface (CLI) wrapper around the DuckDuckGo Search ",
     "id": "twn39/ddgo-search",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-18T01:34:35Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -88,6 +97,15 @@
     "stars": 61,
     "updated_at": "2026-06-18T00:57:55Z",
     "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
+    "description": "A research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 1984,
+    "updated_at": "2026-06-18T00:45:09Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:13:14Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4332,
-    "updated_at": "2026-06-18T01:24:28Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-17T16:10:42Z",
     "url": "https://github.com/lpc0387/guided-browser-runner"
-  },
-  {
-    "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
-    "id": "theunstopabble/SwadKart",
-    "language": "JavaScript",
-    "name": "theunstopabble/SwadKart",
-    "stars": 10,
-    "updated_at": "2026-06-17T15:34:24Z",
-    "url": "https://github.com/theunstopabble/SwadKart"
   }
 ]
