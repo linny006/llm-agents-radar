@@ -1,11 +1,47 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-18T12:23:57Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 69,
+    "updated_at": "2026-06-18T12:20:02Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-18T12:19:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-18T12:15:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
     "id": "theunstopabble/SwadKart",
     "language": "JavaScript",
     "name": "theunstopabble/SwadKart",
     "stars": 10,
-    "updated_at": "2026-06-18T12:14:40Z",
+    "updated_at": "2026-06-18T12:19:50Z",
     "url": "https://github.com/theunstopabble/SwadKart"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T11:41:43Z",
+    "updated_at": "2026-06-18T12:20:28Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-18T11:36:31Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -70,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T11:12:38Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-18T12:09:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T10:05:16Z",
     "url": "https://github.com/omohikane/saku"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 67,
-    "updated_at": "2026-06-18T10:03:16Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "\u5bf9\u7f51\u9875deepseek\u7684\u5c01\u88c5\uff0c\u5b9e\u73b0\u514d\u8d39API\u8c03\u7528\u3002\u652f\u6301 OpenAI completions / responses socket\u3002\u53ef\u5de5\u5177\u8c03\u7528\uff0c\u53ef\u63a5\u5165codex\u3001copilot\u3002\u8f7b\u91cf\u81ea\u7528",
@@ -259,15 +268,6 @@
     "stars": 117,
     "updated_at": "2026-06-18T08:29:05Z",
     "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:11:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
