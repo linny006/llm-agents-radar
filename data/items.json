@@ -1,11 +1,20 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T06:00:42Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T05:59:09Z",
+    "updated_at": "2026-06-18T06:00:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-06-18T05:45:57Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T05:36:20Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -229,7 +229,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1984,
+    "stars": 1985,
     "updated_at": "2026-06-18T00:45:09Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
