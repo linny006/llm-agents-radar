@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-18T22:28:54Z",
+    "updated_at": "2026-06-18T22:42:35Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
+    "id": "auto-use/Auto-Use",
+    "language": "Python",
+    "name": "auto-use/Auto-Use",
+    "stars": 117,
+    "updated_at": "2026-06-18T22:34:00Z",
+    "url": "https://github.com/auto-use/Auto-Use"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T22:05:23Z",
+    "updated_at": "2026-06-18T22:41:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-18T22:29:41Z",
+    "updated_at": "2026-06-18T22:44:25Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -412,15 +421,6 @@
     "stars": 628,
     "updated_at": "2026-06-18T14:21:59Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
-    "id": "auto-use/Auto-Use",
-    "language": "Python",
-    "name": "auto-use/Auto-Use",
-    "stars": 117,
-    "updated_at": "2026-06-18T21:43:14Z",
-    "url": "https://github.com/auto-use/Auto-Use"
   },
   {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
