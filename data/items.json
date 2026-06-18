@@ -1,5 +1,23 @@
 [
   {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 4,
+    "updated_at": "2026-06-18T20:58:26Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:57:43Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -54,15 +72,6 @@
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
-    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
-    "id": "yakeworld/Synthos",
-    "language": "Python",
-    "name": "yakeworld/Synthos",
-    "stars": 4,
-    "updated_at": "2026-06-18T20:19:32Z",
-    "url": "https://github.com/yakeworld/Synthos"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:52:24Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:50:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -275,7 +275,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-18T19:28:08Z",
+    "updated_at": "2026-06-18T20:45:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
