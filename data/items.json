@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T05:42:26Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 15,
+    "updated_at": "2026-06-18T05:36:20Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
@@ -27,15 +45,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 15,
-    "updated_at": "2026-06-18T04:51:38Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -49,7 +58,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26967,
+    "stars": 26968,
     "updated_at": "2026-06-18T04:38:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -61,15 +70,6 @@
     "stars": 6,
     "updated_at": "2026-06-18T04:22:24Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T04:22:21Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -94,7 +94,7 @@
     "id": "HarryHsing/OmniAgent",
     "language": "Python",
     "name": "HarryHsing/OmniAgent",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-06-18T03:56:22Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
   },
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T05:23:57Z",
+    "updated_at": "2026-06-18T05:36:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -229,7 +229,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12945,
+    "stars": 12944,
     "updated_at": "2026-06-18T00:40:42Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },

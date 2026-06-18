@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 05:30 UTC
+> ⏰ Last updated: 2026-06-18 05:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-06-18 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
-| 2 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-18 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 15 | Python | 2026-06-18 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 5 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-18 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 6 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26967 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
-| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-18 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-18 | A productive AI coworker that learns, self-improves, and ships work. |
+| 2 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 15 | Python | 2026-06-18 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
+| 3 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-06-18 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
+| 4 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-18 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 6 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-18 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26968 | Python | 2026-06-18 | Build and run agents you can see, understand and trust. |
+| 8 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-18 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 9 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5161 | Python | 2026-06-18 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 10 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-18 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 11 | [HarryHsing/OmniAgent](https://github.com/HarryHsing/OmniAgent) | 9 | Python | 2026-06-18 | OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL- |
+| 11 | [HarryHsing/OmniAgent](https://github.com/HarryHsing/OmniAgent) | 11 | Python | 2026-06-18 | OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL- |
 | 12 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 246 | Python | 2026-06-18 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
 | 13 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-18 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
 | 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [gzq6665/testpilot](https://github.com/gzq6665/testpilot) | 3 | Python | 2026-06-18 | 基于 LLM Agent 的智能接口测试平台：RAG 文档问答 / 用例自动生成与评审 / LangGraph 多Agent工作流 / 失败归因分析 / pytest 回归脚本沉淀，支持多模型切换与多被测系统零代码接入 |
 | 24 | [1850298154/memory_agent_hub](https://github.com/1850298154/memory_agent_hub) | 61 | Python | 2026-06-18 | 2026 swarm Agent 年，swarm Agent 、Agent team、 ai coding、skill、memory、evolve、agentic RL 等 AI Agent集合 |
 | 25 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 1984 | TypeScript | 2026-06-18 | A research agent system deeply rooted in your Zotero library. |
-| 26 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12945 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 26 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12944 | Python | 2026-06-18 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 27 | [Shiyao-Huang/awesome-agent-evolution](https://github.com/Shiyao-Huang/awesome-agent-evolution) | 168 | JavaScript | 2026-06-18 | Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag |
 | 28 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 466 | Python | 2026-06-18 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
 | 29 | [dorisgyl/design-pack](https://github.com/dorisgyl/design-pack) | 0 | JavaScript | 2026-06-18 | A NevoFlux browser pack of modern design requirements, specs & templates stored in GBrain — pick what you need on a dash |
