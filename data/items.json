@@ -1,12 +1,57 @@
 [
   {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-06-18T17:00:00Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 24,
+    "updated_at": "2026-06-18T16:58:59Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 4,
+    "updated_at": "2026-06-18T16:58:31Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 80,
-    "updated_at": "2026-06-18T16:42:42Z",
+    "updated_at": "2026-06-18T16:52:45Z",
     "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 782,
+    "updated_at": "2026-06-18T16:50:47Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 0,
+    "updated_at": "2026-06-18T16:49:42Z",
+    "url": "https://github.com/Yanu403/digital-mate"
   },
   {
     "description": "Stealthy, LLM-drivable browser-control engine: a Python library + an 85-tool MCP server on stealth Chromium (CloakBrowse",
@@ -27,15 +72,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 0,
-    "updated_at": "2026-06-18T16:35:42Z",
-    "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-06-18T16:24:08Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 247,
+    "updated_at": "2026-06-18T16:19:03Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -117,15 +162,6 @@
     "url": "https://github.com/larlarua/AutoCVE"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 247,
-    "updated_at": "2026-06-18T16:19:03Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T15:02:01Z",
     "url": "https://github.com/frissonitte/wbc-analyzer"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 782,
-    "updated_at": "2026-06-18T16:37:52Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "auto-use/Auto-Use",
     "stars": 117,
-    "updated_at": "2026-06-18T14:43:42Z",
+    "updated_at": "2026-06-18T16:55:56Z",
     "url": "https://github.com/auto-use/Auto-Use"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-06-18T09:22:31Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12949,
-    "updated_at": "2026-06-18T09:14:19Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-18T08:49:12Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
-    "id": "XieWxx/maxhub-api-skills",
-    "language": "Shell",
-    "name": "XieWxx/maxhub-api-skills",
-    "stars": 7,
-    "updated_at": "2026-06-18T08:32:45Z",
-    "url": "https://github.com/XieWxx/maxhub-api-skills"
   }
 ]
