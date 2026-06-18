@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-18T05:12:50Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-18T05:03:42Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -22,18 +40,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26966,
+    "stars": 26967,
     "updated_at": "2026-06-18T04:38:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-18T04:33:23Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -68,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-18T03:58:53Z",
+    "updated_at": "2026-06-18T05:14:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-18T04:00:18Z",
+    "updated_at": "2026-06-18T05:08:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -259,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-06-18T00:22:48Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-18T00:13:14Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
@@ -423,6 +423,15 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 782,
+    "updated_at": "2026-06-17T17:46:35Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "A fast and minimal agent library for typescript and rust",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T17:01:41Z",
     "url": "https://github.com/caltrackaiteam-pixel/make-claude-perform"
-  },
-  {
-    "description": "LLM agent codebase security scanner",
-    "id": "dkimek19/whack-a-mole",
-    "language": "Python",
-    "name": "dkimek19/whack-a-mole",
-    "stars": 0,
-    "updated_at": "2026-06-17T16:46:35Z",
-    "url": "https://github.com/dkimek19/whack-a-mole"
   }
 ]
