@@ -1,12 +1,48 @@
 [
   {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 247,
+    "updated_at": "2026-06-18T20:28:25Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T20:25:10Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-18T20:14:35Z",
+    "updated_at": "2026-06-18T20:25:02Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-18T20:21:00Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 4,
+    "updated_at": "2026-06-18T20:19:32Z",
+    "url": "https://github.com/yakeworld/Synthos"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -16,15 +52,6 @@
     "stars": 6200,
     "updated_at": "2026-06-18T20:03:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-18T20:15:14Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -61,15 +88,6 @@
     "stars": 4333,
     "updated_at": "2026-06-18T19:58:02Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T20:09:02Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A research agent system deeply rooted in your Zotero library.",
@@ -270,15 +288,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 247,
-    "updated_at": "2026-06-18T16:19:03Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2662,
     "updated_at": "2026-06-18T20:07:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
-    "id": "yohn1985/jarvisbot",
-    "language": "Python",
-    "name": "yohn1985/jarvisbot",
-    "stars": 1,
-    "updated_at": "2026-06-18T11:37:23Z",
-    "url": "https://github.com/yohn1985/jarvisbot"
   }
 ]
