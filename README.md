@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 02:00 UTC
+> ⏰ Last updated: 2026-06-18 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 0 | Python | 2026-06-17 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
 | 31 | [ab0991-oss/hermes-ios](https://github.com/ab0991-oss/hermes-ios) | 2 | Swift | 2026-06-17 | Native iOS app for your self-hosted Hermes agent — live chat, approvals, push, Live Activities. Pairs with a hermes-agen |
 | 32 | [Deep-CodeAI/Agents.KT](https://github.com/Deep-CodeAI/Agents.KT) | 12 | Kotlin | 2026-06-17 | Typed Kotlin DSL framework for AI agent systems. |
-| 33 | [HarryHsing/OmniAgent](https://github.com/HarryHsing/OmniAgent) | 0 | Python | 2026-06-17 | OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL- |
+| 33 | [HarryHsing/OmniAgent](https://github.com/HarryHsing/OmniAgent) | 1 | Python | 2026-06-17 | OmniAgent (ICML 2026): the first native omni-modal agent for active video perception — a 7B agent that beats Qwen2.5-VL- |
 | 34 | [EvanAI0331/music-daypart](https://github.com/EvanAI0331/music-daypart) | 0 | JavaScript | 2026-06-17 | LLM-driven NetEase Cloud Music player for time-of-day listening |
 | 35 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-06-17 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
 | 36 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-17 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
@@ -82,14 +82,14 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 205 | TypeScript | 2026-06-17 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
 | 39 | [yohn1985/jarvisbot](https://github.com/yohn1985/jarvisbot) | 1 | Python | 2026-06-17 | Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions — w |
 | 40 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-17 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 41 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2656 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
+| 41 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2657 | Python | 2026-06-17 | SRE Agent - CNCF Sandbox Project |
 | 42 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-17 | A fast and minimal agent library for typescript and rust |
 | 43 | [caltrackaiteam-pixel/make-claude-perform](https://github.com/caltrackaiteam-pixel/make-claude-perform) | 0 | JavaScript | 2026-06-17 | The unified Claude Code framework — synthesizing the best of superpowers, everything-claude-code, GSD, claude-flow, and  |
 | 44 | [dkimek19/whack-a-mole](https://github.com/dkimek19/whack-a-mole) | 0 | Python | 2026-06-17 | LLM agent codebase security scanner |
 | 45 | [helixml/helix](https://github.com/helixml/helix) | 781 | Go | 2026-06-17 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 46 | [dkimek19/wam-hawk](https://github.com/dkimek19/wam-hawk) | 0 | Python | 2026-06-17 | Runtime security monitor for LLM agents. Wraps any OpenAI-compatible client to detect prompt injection, exfiltration, an |
 | 47 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-17 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
-| 48 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 23 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 48 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-17 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
 | 49 | [lpc0387/guided-browser-runner](https://github.com/lpc0387/guided-browser-runner) | 1 | Python | 2026-06-17 |  |
 | 50 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 10 | JavaScript | 2026-06-17 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
 <!-- TRACKER_TABLE_END -->
