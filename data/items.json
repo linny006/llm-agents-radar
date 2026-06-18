@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T11:30:09Z",
+    "updated_at": "2026-06-18T11:41:43Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2661,
+    "updated_at": "2026-06-18T11:42:19Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Jarvis wakes on its own, learns from every problem it meets, asks when it's stuck, and red-teams its own conclusions \u2014 w",
+    "id": "yohn1985/jarvisbot",
+    "language": "Python",
+    "name": "yohn1985/jarvisbot",
+    "stars": 1,
+    "updated_at": "2026-06-18T11:37:23Z",
+    "url": "https://github.com/yohn1985/jarvisbot"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-18T11:17:03Z",
+    "updated_at": "2026-06-18T11:36:31Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-18T11:30:37Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
@@ -126,15 +153,6 @@
     "url": "https://github.com/Evil-Bane/eyebrowse"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T09:41:26Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
     "id": "jeinlee1991/chinese-llm-benchmark",
     "language": "\u2014",
@@ -184,7 +202,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12943,
+    "stars": 12942,
     "updated_at": "2026-06-18T09:14:19Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T08:49:12Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2661,
-    "updated_at": "2026-06-18T11:09:27Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T00:30:18Z",
     "url": "https://github.com/dorisgyl/design-pack"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-18T00:29:39Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   }
 ]
