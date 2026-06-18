@@ -1,11 +1,29 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-18T23:44:55Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:39:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 30,
-    "updated_at": "2026-06-18T23:09:10Z",
+    "updated_at": "2026-06-18T23:33:12Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
@@ -25,24 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T23:02:28Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:45:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-18T22:42:35Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-18T23:29:06Z",
+    "updated_at": "2026-06-18T23:44:04Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
