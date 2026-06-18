@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 66,
-    "updated_at": "2026-06-18T07:59:50Z",
+    "updated_at": "2026-06-18T08:12:35Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -14,8 +14,26 @@
     "language": "Swift",
     "name": "BiBoyang/ForgeLoop",
     "stars": 0,
-    "updated_at": "2026-06-18T07:59:33Z",
+    "updated_at": "2026-06-18T08:11:54Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-18T08:11:01Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-18T08:11:16Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -52,15 +70,6 @@
     "stars": 277,
     "updated_at": "2026-06-18T07:57:08Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-18T07:57:34Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
@@ -225,15 +234,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-18T02:58:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6193,
-    "updated_at": "2026-06-18T07:56:37Z",
+    "updated_at": "2026-06-18T08:01:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
