@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-18T10:59:19Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-18T10:58:45Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-18T10:44:47Z",
+    "updated_at": "2026-06-18T10:50:58Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T10:23:40Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-18T10:21:48Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
@@ -256,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26980,
+    "stars": 26981,
     "updated_at": "2026-06-18T06:48:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -277,15 +286,6 @@
     "stars": 73,
     "updated_at": "2026-06-18T06:35:11Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-18T06:30:59Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
