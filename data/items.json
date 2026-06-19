@@ -1,5 +1,23 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 86,
+    "updated_at": "2026-06-19T11:58:56Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12960,
+    "updated_at": "2026-06-19T11:53:07Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
     "id": "BiBoyang/ForgeLoop",
     "language": "Swift",
@@ -9,21 +27,12 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 86,
-    "updated_at": "2026-06-19T11:42:45Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 783,
-    "updated_at": "2026-06-19T11:35:07Z",
+    "updated_at": "2026-06-19T11:48:12Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-06-19T07:40:41Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
-    "id": "rawrter/studio",
-    "language": "Python",
-    "name": "rawrter/studio",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:07:25Z",
-    "url": "https://github.com/rawrter/studio"
   },
   {
     "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
