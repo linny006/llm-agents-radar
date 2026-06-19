@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 11:00 UTC
+> ⏰ Last updated: 2026-06-19 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,33 +43,33 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-19 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
-| 2 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-19 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
-| 3 | [SkyWith628/codesage](https://github.com/SkyWith628/codesage) | 1 | Python | 2026-06-19 | 🧙 CodeSage — CodeRabbit 벤치마킹 AI 코드리뷰 에이전트 (FastAPI + Gemini). GitHub PR 자동 인라인 리뷰: 정적분석(ruff)+LLM 하이브리드, Webhook→Redis Q |
-| 4 | [SkyWith628/jikgugom](https://github.com/SkyWith628/jikgugom) | 1 | Python | 2026-06-19 | 🐻 직구곰 — Amazon US→네이버 스마트스토어 무재고 구매대행 자동화. 돈=결정론 파이프라인, 판단=멀티에이전트(평가/콘텐츠/CS). FastAPI+Next.js 어드민. pytest 115. |
-| 5 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-19 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
-| 6 | [helixml/helix](https://github.com/helixml/helix) | 783 | Go | 2026-06-19 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 8 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 10 | JavaScript | 2026-06-19 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7  |
-| 9 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 16 | Shell | 2026-06-19 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install |
-| 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-19 | A productive AI coworker that learns, self-improves, and ships work. |
-| 12 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 84 | Python | 2026-06-19 | A library-science-inspired personal knowledge management system with LLM agents |
-| 13 | [Song-ic/Qwen-Agent](https://github.com/Song-ic/Qwen-Agent) | 0 | Python | 2026-06-19 | 大脑(Claude)出规格 · 手(本地模型)执行 · 护栏兜底 —— 一套省 cc token 的编码工作流 |
-| 14 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-19 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 15 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5320 | Python | 2026-06-19 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 16 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-19 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
-| 17 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-19 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 18 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-19 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 19 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 20 | [ArtLjn/farm-manager-design-spec](https://github.com/ArtLjn/farm-manager-design-spec) | 0 | — | 2026-06-19 | Unified design spec for an LLM agent platform — architecture decisions, module boundaries, API contracts, and coding sta |
-| 21 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 41 | Rust | 2026-06-19 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 22 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-19 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 23 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-19 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 24 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-19 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 25 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 3 | — | 2026-06-19 | ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent |
-| 26 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-19 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
-| 27 | [S3YED/appie-kit](https://github.com/S3YED/appie-kit) | 4 | Python | 2026-06-19 | Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop |
-| 28 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-19 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
+| 4 | [SkyWith628/codesage](https://github.com/SkyWith628/codesage) | 1 | Python | 2026-06-19 | 🧙 CodeSage — CodeRabbit 벤치마킹 AI 코드리뷰 에이전트 (FastAPI + Gemini). GitHub PR 자동 인라인 리뷰: 정적분석(ruff)+LLM 하이브리드, Webhook→Redis Q |
+| 5 | [SkyWith628/jikgugom](https://github.com/SkyWith628/jikgugom) | 1 | Python | 2026-06-19 | 🐻 직구곰 — Amazon US→네이버 스마트스토어 무재고 구매대행 자동화. 돈=결정론 파이프라인, 판단=멀티에이전트(평가/콘텐츠/CS). FastAPI+Next.js 어드민. pytest 115. |
+| 6 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-19 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
+| 7 | [helixml/helix](https://github.com/helixml/helix) | 783 | Go | 2026-06-19 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 9 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 10 | JavaScript | 2026-06-19 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7  |
+| 10 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 16 | Shell | 2026-06-19 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install |
+| 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-19 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 12 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-19 | A productive AI coworker that learns, self-improves, and ships work. |
+| 13 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 86 | Python | 2026-06-19 | A library-science-inspired personal knowledge management system with LLM agents |
+| 14 | [Song-ic/Qwen-Agent](https://github.com/Song-ic/Qwen-Agent) | 0 | Python | 2026-06-19 | 大脑(Claude)出规格 · 手(本地模型)执行 · 护栏兜底 —— 一套省 cc token 的编码工作流 |
+| 15 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-19 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
+| 16 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5320 | Python | 2026-06-19 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 17 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-19 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
+| 18 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-19 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 19 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-06-19 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 20 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 21 | [ArtLjn/farm-manager-design-spec](https://github.com/ArtLjn/farm-manager-design-spec) | 0 | — | 2026-06-19 | Unified design spec for an LLM agent platform — architecture decisions, module boundaries, API contracts, and coding sta |
+| 22 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 41 | Rust | 2026-06-19 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 23 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-19 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 24 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-19 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
+| 25 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-19 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 26 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 3 | — | 2026-06-19 | ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent |
+| 27 | [rawrter/studio](https://github.com/rawrter/studio) | 0 | Python | 2026-06-19 | The app you run Rowter in — chat, knowledge bases, memory, plugins, settings. One command to boot. |
+| 28 | [S3YED/appie-kit](https://github.com/S3YED/appie-kit) | 4 | Python | 2026-06-19 | Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop |
 | 29 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5164 | Python | 2026-06-19 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 30 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 31 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2670 | Python | 2026-06-19 | SRE Agent - CNCF Sandbox Project |
@@ -85,7 +85,7 @@ expired items removed — so you can rely on what you see being current.
 | 41 | [Yanu403/digital-mate](https://github.com/Yanu403/digital-mate) | 0 | Python | 2026-06-19 | 🤖 AI-powered Digital Marketing Assistant — content creation, strategy, research & analytics via Telegram. Bilingual EN/I |
 | 42 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 355 | Go | 2026-06-19 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 43 | [willim9313/ds-cast](https://github.com/willim9313/ds-cast) | 0 | Python | 2026-06-19 | A Claude-Code-native re-implementation of DS-STAR: a plan → code → execute → verify → route data-science agent built on  |
-| 44 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26997 | Python | 2026-06-19 | Build and run agents you can see, understand and trust. |
+| 44 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 26998 | Python | 2026-06-19 | Build and run agents you can see, understand and trust. |
 | 45 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 73 | TypeScript | 2026-06-19 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 46 | [ohnodev/obelisk-core](https://github.com/ohnodev/obelisk-core) | 5 | TypeScript | 2026-06-19 | The consciousness engine for The Obelisk 🧠 |
 | 47 | [omarkhandji-commits/midas](https://github.com/omarkhandji-commits/midas) | 1 | Python | 2026-06-19 | Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP |

@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-06-19T10:56:01Z",
+    "updated_at": "2026-06-19T11:14:30Z",
     "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T11:13:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
@@ -50,7 +59,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 783,
-    "updated_at": "2026-06-19T10:43:20Z",
+    "updated_at": "2026-06-19T11:09:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -103,7 +112,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 84,
+    "stars": 86,
     "updated_at": "2026-06-19T10:23:52Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -241,15 +250,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T07:27:02Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T06:52:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -391,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26997,
+    "stars": 26998,
     "updated_at": "2026-06-19T02:55:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
