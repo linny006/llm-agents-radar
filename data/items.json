@@ -1,11 +1,47 @@
 [
   {
+    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
+    "id": "indyfive11/gabagent",
+    "language": "Python",
+    "name": "indyfive11/gabagent",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:09:00Z",
+    "url": "https://github.com/indyfive11/gabagent"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:08:37Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-19T18:05:20Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:04:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-19T18:00:07Z",
+    "updated_at": "2026-06-19T18:00:58Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -18,15 +54,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:55:59Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 93,
     "updated_at": "2026-06-19T17:49:26Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-19T17:59:49Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -139,7 +157,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-06-19T16:16:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -151,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T16:02:16Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:58:11Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A local-native autonomous agent that plays games \u2014 turn-based, idle, text \u2014 and forms its own memory, opinions, and sens",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T07:40:41Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 4,
-    "updated_at": "2026-06-19T07:27:02Z",
-    "url": "https://github.com/S3YED/appie-kit"
   }
 ]
