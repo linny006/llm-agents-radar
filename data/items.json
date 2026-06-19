@@ -1,10 +1,46 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:58:11Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T15:56:45Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-19T15:48:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "",
+    "id": "maxwellcsutton/Homunculus",
+    "language": "TypeScript",
+    "name": "maxwellcsutton/Homunculus",
+    "stars": 0,
+    "updated_at": "2026-06-19T15:43:29Z",
+    "url": "https://github.com/maxwellcsutton/Homunculus"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6204,
+    "stars": 6205,
     "updated_at": "2026-06-19T15:37:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -45,6 +81,15 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 784,
+    "updated_at": "2026-06-19T14:56:20Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T14:22:20Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 783,
-    "updated_at": "2026-06-19T14:56:20Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -148,7 +184,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 89,
+    "stars": 90,
     "updated_at": "2026-06-19T13:26:24Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:25:33Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:54:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -279,15 +306,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-19T10:25:27Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\u5927\u8111(Claude)\u51fa\u89c4\u683c \u00b7 \u624b(\u672c\u5730\u6a21\u578b)\u6267\u884c \u00b7 \u62a4\u680f\u515c\u5e95 \u2014\u2014 \u4e00\u5957\u7701 cc token \u7684\u7f16\u7801\u5de5\u4f5c\u6d41",
     "id": "Song-ic/Qwen-Agent",
     "language": "Python",
@@ -295,6 +313,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T10:18:13Z",
     "url": "https://github.com/Song-ic/Qwen-Agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5165,
+    "updated_at": "2026-06-19T10:06:12Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -396,15 +423,6 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5164,
-    "updated_at": "2026-06-19T10:06:12Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -423,15 +441,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:09:41Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
     "id": "ThreeFish-AI/negentropy",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-06-19T14:36:07Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 248,
-    "updated_at": "2026-06-19T04:33:49Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
