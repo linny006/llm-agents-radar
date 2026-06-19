@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:54:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -72,15 +81,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-18T21:59:32Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -140,7 +140,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-18T23:44:04Z",
+    "updated_at": "2026-06-18T23:57:25Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -221,7 +221,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-18T21:19:01Z",
+    "updated_at": "2026-06-18T23:57:02Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {

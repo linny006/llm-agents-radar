@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-18 23:45 UTC
+> ⏰ Last updated: 2026-06-19 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-18 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 3 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-18 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 4 | [hoshiyomiX/stellar-frameworks](https://github.com/hoshiyomiX/stellar-frameworks) | 0 | Shell | 2026-06-18 | Universal task workflow for LLM agents — phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [auto-use/Auto-Use](https://github.com/auto-use/Auto-Use) | 117 | Python | 2026-06-18 | Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end. |
-| 7 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-18 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
-| 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-18 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 4 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 30 | Rust | 2026-06-18 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
+| 5 | [hoshiyomiX/stellar-frameworks](https://github.com/hoshiyomiX/stellar-frameworks) | 0 | Shell | 2026-06-18 | Universal task workflow for LLM agents — phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [auto-use/Auto-Use](https://github.com/auto-use/Auto-Use) | 117 | Python | 2026-06-18 | Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end. |
+| 8 | [aureliocpr-ctrl/hippoagent](https://github.com/aureliocpr-ctrl/hippoagent) | 0 | Python | 2026-06-18 | Engram (formerly HippoAgent) — persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired  |
+| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 10 | [gptme/gptme](https://github.com/gptme/gptme) | 4333 | Python | 2026-06-18 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6200 | Python | 2026-06-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 12 | [codex-mohan/spectra](https://github.com/codex-mohan/spectra) | 1 | TypeScript | 2026-06-18 | A fast and minimal agent library for typescript and rust |
