@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-06-19T01:14:55Z",
+    "updated_at": "2026-06-19T01:26:49Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-19T01:28:33Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:23:00Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:23:34Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -23,17 +50,8 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-19T01:12:24Z",
+    "updated_at": "2026-06-19T01:30:05Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:13:38Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
@@ -108,15 +126,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:39:07Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:16:24Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-19T01:05:15Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -391,7 +391,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 65,
+    "stars": 67,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
