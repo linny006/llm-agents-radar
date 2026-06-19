@@ -1,5 +1,14 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2671,
+    "updated_at": "2026-06-19T14:36:47Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -135,15 +144,6 @@
     "url": "https://github.com/larlarua/AutoCVE"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2670,
-    "updated_at": "2026-06-19T14:25:24Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -274,7 +274,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5320,
+    "stars": 5321,
     "updated_at": "2026-06-19T09:38:09Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 7,
-    "updated_at": "2026-06-19T14:25:04Z",
+    "updated_at": "2026-06-19T14:36:07Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
