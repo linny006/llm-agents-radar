@@ -1,5 +1,14 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:43:19Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 4333,
     "updated_at": "2026-06-19T05:26:09Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T05:26:19Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -148,7 +148,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 353,
+    "stars": 354,
     "updated_at": "2026-06-19T03:29:39Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -176,7 +176,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-19T03:14:36Z",
+    "updated_at": "2026-06-19T05:38:46Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -328,7 +328,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2665,
+    "stars": 2666,
     "updated_at": "2026-06-18T20:07:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
