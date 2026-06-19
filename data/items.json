@@ -1,11 +1,65 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-19T07:44:36Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:42:18Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T07:43:34Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-06-19T07:40:41Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
+    "id": "rawrter/studio",
+    "language": "Python",
+    "name": "rawrter/studio",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:38:22Z",
+    "url": "https://github.com/rawrter/studio"
+  },
+  {
+    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
+    "id": "ArtLjn/farm-manager-design-spec",
+    "language": "\u2014",
+    "name": "ArtLjn/farm-manager-design-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T07:32:35Z",
+    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-19T07:30:07Z",
+    "updated_at": "2026-06-19T07:44:37Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T07:26:03Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -54,21 +99,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 3,
-    "updated_at": "2026-06-19T06:48:58Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 24,
-    "updated_at": "2026-06-19T07:21:06Z",
+    "updated_at": "2026-06-19T07:44:08Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 248,
     "updated_at": "2026-06-19T04:33:49Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:31:29Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -421,32 +448,5 @@
     "stars": 1500,
     "updated_at": "2026-06-18T18:53:20Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 2,
-    "updated_at": "2026-06-18T18:10:31Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "MR. Video: MapReduce is the Principle for Long Video Understanding",
-    "id": "ziqipang/MR-Video",
-    "language": "Python",
-    "name": "ziqipang/MR-Video",
-    "stars": 31,
-    "updated_at": "2026-06-18T17:46:35Z",
-    "url": "https://github.com/ziqipang/MR-Video"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 46,
-    "updated_at": "2026-06-18T17:40:42Z",
-    "url": "https://github.com/puremachinery/carapace"
   }
 ]
