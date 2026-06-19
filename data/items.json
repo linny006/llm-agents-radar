@@ -1,5 +1,23 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 82,
+    "updated_at": "2026-06-19T10:13:33Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 783,
+    "updated_at": "2026-06-19T10:09:44Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-19T09:31:46Z",
+    "updated_at": "2026-06-19T10:05:48Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T09:11:39Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 783,
-    "updated_at": "2026-06-19T09:58:11Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "rawrter/studio",
     "stars": 0,
-    "updated_at": "2026-06-19T09:25:44Z",
+    "updated_at": "2026-06-19T10:07:25Z",
     "url": "https://github.com/rawrter/studio"
   },
   {
@@ -187,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-06-19T07:27:02Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 81,
-    "updated_at": "2026-06-19T09:54:17Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5164,
-    "updated_at": "2026-06-19T09:53:55Z",
+    "updated_at": "2026-06-19T10:06:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
