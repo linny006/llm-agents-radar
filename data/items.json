@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "migkapa/flyputer",
+    "language": "Python",
+    "name": "migkapa/flyputer",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:58:29Z",
+    "url": "https://github.com/migkapa/flyputer"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T16:57:35Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -54,15 +72,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T16:02:35Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-19T15:36:14Z",
+    "updated_at": "2026-06-19T16:59:33Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -247,7 +256,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12964,
+    "stars": 12965,
     "updated_at": "2026-06-19T11:53:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-19T07:27:02Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-06-19T05:52:37Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
