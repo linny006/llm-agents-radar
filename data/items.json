@@ -1,11 +1,20 @@
 [
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5320,
+    "updated_at": "2026-06-19T09:38:09Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-19T09:29:55Z",
+    "updated_at": "2026-06-19T09:31:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 783,
-    "updated_at": "2026-06-19T09:15:00Z",
+    "updated_at": "2026-06-19T09:43:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4332,
-    "updated_at": "2026-06-19T08:51:07Z",
+    "updated_at": "2026-06-19T09:31:40Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -211,7 +220,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2669,
+    "stars": 2670,
     "updated_at": "2026-06-19T05:58:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 7,
-    "updated_at": "2026-06-19T09:20:48Z",
+    "updated_at": "2026-06-19T09:44:53Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1992,
     "updated_at": "2026-06-18T19:31:19Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
-    "id": "ab0991-oss/hermes-ios",
-    "language": "Swift",
-    "name": "ab0991-oss/hermes-ios",
-    "stars": 2,
-    "updated_at": "2026-06-18T19:13:36Z",
-    "url": "https://github.com/ab0991-oss/hermes-ios"
   }
 ]
