@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:09:17Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
+    "id": "ZelinZhou-THU/stem-tutor-agent",
+    "language": "Python",
+    "name": "ZelinZhou-THU/stem-tutor-agent",
+    "stars": 4,
+    "updated_at": "2026-06-19T14:05:26Z",
+    "url": "https://github.com/ZelinZhou-THU/stem-tutor-agent"
+  },
+  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 783,
-    "updated_at": "2026-06-19T13:59:50Z",
+    "updated_at": "2026-06-19T14:10:28Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -108,21 +126,12 @@
     "url": "https://github.com/larlarua/AutoCVE"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:25:03Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2670,
-    "updated_at": "2026-06-19T12:09:39Z",
+    "updated_at": "2026-06-19T14:02:27Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -427,7 +436,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 355,
+    "stars": 356,
     "updated_at": "2026-06-19T03:29:39Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:20:44Z",
     "url": "https://github.com/willim9313/ds-cast"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 26998,
-    "updated_at": "2026-06-19T02:55:23Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
