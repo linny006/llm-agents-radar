@@ -1,12 +1,12 @@
 [
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-19T19:55:03Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "id": "kargnas/mac-optimizer-loop",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizer-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:13:08Z",
+    "url": "https://github.com/kargnas/mac-optimizer-loop"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -14,17 +14,53 @@
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-19T19:51:24Z",
+    "updated_at": "2026-06-19T20:12:08Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
-    "id": "kargnas/mac-optimizer-loop",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizer-loop",
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-19T20:05:45Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-19T20:05:33Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-19T20:01:43Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-06-19T19:45:07Z",
-    "url": "https://github.com/kargnas/mac-optimizer-loop"
+    "updated_at": "2026-06-19T20:01:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6207,
+    "updated_at": "2026-06-19T20:01:08Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T19:38:32Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6207,
-    "updated_at": "2026-06-19T19:27:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
@@ -106,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T18:05:20Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:04:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T09:15:15Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
-    "id": "ArtLjn/farm-manager-design-spec",
-    "language": "\u2014",
-    "name": "ArtLjn/farm-manager-design-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T08:43:39Z",
-    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 42,
-    "updated_at": "2026-06-19T08:20:43Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
