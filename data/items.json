@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6200,
+    "updated_at": "2026-06-19T03:40:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -18,13 +27,13 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "A Claude-Code-native re-implementation of DS-STAR: a plan \u2192 code \u2192 execute \u2192 verify \u2192 route data-science agent built on ",
+    "id": "willim9313/ds-cast",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6200,
-    "updated_at": "2026-06-19T03:28:24Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "willim9313/ds-cast",
+    "stars": 0,
+    "updated_at": "2026-06-19T03:22:01Z",
+    "url": "https://github.com/willim9313/ds-cast"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-19T03:22:15Z",
+    "updated_at": "2026-06-19T03:41:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -274,7 +283,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2663,
+    "stars": 2664,
     "updated_at": "2026-06-18T20:07:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -292,7 +301,7 @@
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
-    "stars": 782,
+    "stars": 783,
     "updated_at": "2026-06-18T19:19:48Z",
     "url": "https://github.com/helixml/helix"
   },
@@ -427,7 +436,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 69,
+    "stars": 70,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-18T15:02:01Z",
     "url": "https://github.com/frissonitte/wbc-analyzer"
-  },
-  {
-    "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
-    "id": "th3vib3coder/vibe-science",
-    "language": "JavaScript",
-    "name": "th3vib3coder/vibe-science",
-    "stars": 12,
-    "updated_at": "2026-06-18T14:49:44Z",
-    "url": "https://github.com/th3vib3coder/vibe-science"
   }
 ]
