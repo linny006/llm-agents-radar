@@ -1,11 +1,20 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-19T16:19:20Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 91,
-    "updated_at": "2026-06-19T16:14:41Z",
+    "stars": 92,
+    "updated_at": "2026-06-19T16:18:17Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -14,17 +23,8 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 24,
-    "updated_at": "2026-06-19T16:12:03Z",
+    "updated_at": "2026-06-19T16:16:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-19T16:06:28Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -238,7 +238,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12963,
+    "stars": 12964,
     "updated_at": "2026-06-19T11:53:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
