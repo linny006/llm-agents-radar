@@ -1,12 +1,39 @@
 [
   {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 12,
+    "updated_at": "2026-06-19T13:27:56Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6204,
-    "updated_at": "2026-06-19T13:12:57Z",
+    "updated_at": "2026-06-19T13:29:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:25:33Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 783,
+    "updated_at": "2026-06-19T13:25:22Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 86,
-    "updated_at": "2026-06-19T13:07:51Z",
+    "updated_at": "2026-06-19T13:26:24Z",
     "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 0,
+    "updated_at": "2026-06-19T13:02:33Z",
+    "url": "https://github.com/denisotree/veles"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T12:54:10Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-06-19T12:53:48Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -72,15 +99,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 783,
-    "updated_at": "2026-06-19T13:08:35Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 2670,
     "updated_at": "2026-06-19T12:09:39Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 12,
-    "updated_at": "2026-06-19T12:04:11Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "willim9313/ds-cast",
     "stars": 0,
-    "updated_at": "2026-06-19T03:22:01Z",
+    "updated_at": "2026-06-19T13:20:44Z",
     "url": "https://github.com/willim9313/ds-cast"
   },
   {
@@ -418,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26997,
+    "stars": 26998,
     "updated_at": "2026-06-19T02:55:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-19T02:55:46Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
-    "id": "omarkhandji-commits/midas",
-    "language": "Python",
-    "name": "omarkhandji-commits/midas",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:01:56Z",
-    "url": "https://github.com/omarkhandji-commits/midas"
   }
 ]
