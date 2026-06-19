@@ -1,5 +1,14 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-19T20:28:40Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:12:08Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-19T20:05:45Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "migkapa/flyputer",
     "stars": 0,
-    "updated_at": "2026-06-19T18:51:39Z",
+    "updated_at": "2026-06-19T20:25:23Z",
     "url": "https://github.com/migkapa/flyputer"
   },
   {
