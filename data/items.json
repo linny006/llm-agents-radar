@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T14:22:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 783,
+    "updated_at": "2026-06-19T14:20:43Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:57:51Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 783,
-    "updated_at": "2026-06-19T14:10:28Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2670,
-    "updated_at": "2026-06-19T14:02:27Z",
+    "updated_at": "2026-06-19T14:23:19Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -139,7 +148,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12961,
+    "stars": 12962,
     "updated_at": "2026-06-19T11:53:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:14:30Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T11:13:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83e\uddd9 CodeSage \u2014 CodeRabbit \ubca4\uce58\ub9c8\ud0b9 AI \ucf54\ub4dc\ub9ac\ubdf0 \uc5d0\uc774\uc804\ud2b8 (FastAPI + Gemini). GitHub PR \uc790\ub3d9 \uc778\ub77c\uc778 \ub9ac\ubdf0: \uc815\uc801\ubd84\uc11d(ruff)+LLM \ud558\uc774\ube0c\ub9ac\ub4dc, Webhook\u2192Redis Q",
