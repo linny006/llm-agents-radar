@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 16:30 UTC
+> ⏰ Last updated: 2026-06-19 16:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,23 +43,23 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 15 | Python | 2026-06-19 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 92 | Python | 2026-06-19 | A library-science-inspired personal knowledge management system with LLM agents |
-| 3 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-19 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 5 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-19 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 6 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-19 | AI-powered image generation and chat studio |
-| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 8 | [maxwellcsutton/Homunculus](https://github.com/maxwellcsutton/Homunculus) | 0 | TypeScript | 2026-06-19 | A local-native autonomous agent that plays games — turn-based, idle, text — and forms its own memory, opinions, and sens |
-| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6206 | Python | 2026-06-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 10 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-19 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 11 | [ohnodev/obelisk-core](https://github.com/ohnodev/obelisk-core) | 5 | TypeScript | 2026-06-19 | The consciousness engine for The Obelisk 🧠 |
-| 12 | [Gene-Liu-portfolio/ctbc-payment-advisor](https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor) | 0 | Python | 2026-06-19 | 以 MCP × Groq LLM 為核心的信用卡支付建議系統｜支援中信 × 富邦 13 張熱門卡 |
-| 13 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-19 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 14 | [helixml/helix](https://github.com/helixml/helix) | 784 | Go | 2026-06-19 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 16 | [slhaf/Partner](https://github.com/slhaf/Partner) | 2 | Java | 2026-06-19 | Partner AI Agent Runtime |
-| 17 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2672 | Python | 2026-06-19 | SRE Agent - CNCF Sandbox Project |
-| 18 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 92 | Python | 2026-06-19 | A library-science-inspired personal knowledge management system with LLM agents |
+| 4 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 24 | TypeScript | 2026-06-19 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-19 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-19 | AI-powered image generation and chat studio |
+| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 9 | [maxwellcsutton/Homunculus](https://github.com/maxwellcsutton/Homunculus) | 0 | TypeScript | 2026-06-19 | A local-native autonomous agent that plays games — turn-based, idle, text — and forms its own memory, opinions, and sens |
+| 10 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6206 | Python | 2026-06-19 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 11 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-19 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 12 | [ohnodev/obelisk-core](https://github.com/ohnodev/obelisk-core) | 5 | TypeScript | 2026-06-19 | The consciousness engine for The Obelisk 🧠 |
+| 13 | [Gene-Liu-portfolio/ctbc-payment-advisor](https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor) | 0 | Python | 2026-06-19 | 以 MCP × Groq LLM 為核心的信用卡支付建議系統｜支援中信 × 富邦 13 張熱門卡 |
+| 14 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-19 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 15 | [helixml/helix](https://github.com/helixml/helix) | 784 | Go | 2026-06-19 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 17 | [slhaf/Partner](https://github.com/slhaf/Partner) | 2 | Java | 2026-06-19 | Partner AI Agent Runtime |
+| 18 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2672 | Python | 2026-06-19 | SRE Agent - CNCF Sandbox Project |
 | 19 | [ZelinZhou-THU/stem-tutor-agent](https://github.com/ZelinZhou-THU/stem-tutor-agent) | 4 | Python | 2026-06-19 | Your math is wrong. Here's exactly where and why! 🔬 AI agent that verifies every step of a student solution, pinpoints t |
 | 20 | [denisotree/veles](https://github.com/denisotree/veles) | 0 | Python | 2026-06-19 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
 | 21 | [auto-use/Auto-Use](https://github.com/auto-use/Auto-Use) | 117 | Python | 2026-06-19 | Auto-Use Computer Use — drives your OS, browser, scours the web, writes your code. One agent, end to end. |

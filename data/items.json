@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-19T16:19:20Z",
+    "updated_at": "2026-06-19T16:44:16Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T16:43:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
@@ -151,15 +160,6 @@
     "stars": 2672,
     "updated_at": "2026-06-19T14:36:47Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:22:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5165,
-    "updated_at": "2026-06-19T10:06:12Z",
+    "updated_at": "2026-06-19T16:36:09Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
