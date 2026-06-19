@@ -1,12 +1,39 @@
 [
   {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:15:08Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T09:11:39Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 783,
-    "updated_at": "2026-06-19T08:59:59Z",
+    "updated_at": "2026-06-19T09:15:00Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T09:03:40Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-19T08:52:51Z",
+    "updated_at": "2026-06-19T09:06:52Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:48:01Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
@@ -135,21 +153,12 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:25:01Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 80,
-    "updated_at": "2026-06-19T07:04:47Z",
+    "stars": 81,
+    "updated_at": "2026-06-19T09:14:26Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -184,7 +193,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2668,
+    "stars": 2669,
     "updated_at": "2026-06-19T05:58:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T04:29:15Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:04:11Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -365,7 +365,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-19T08:39:25Z",
+    "updated_at": "2026-06-19T09:15:15Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
