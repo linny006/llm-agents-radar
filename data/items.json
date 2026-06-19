@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-19T06:00:02Z",
+    "updated_at": "2026-06-19T06:12:50Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:11:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -194,7 +203,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-19T05:38:46Z",
+    "updated_at": "2026-06-19T06:01:12Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T05:26:15Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:21:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -392,7 +392,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 24,
-    "updated_at": "2026-06-18T18:41:08Z",
+    "updated_at": "2026-06-19T06:14:23Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
