@@ -1,12 +1,30 @@
 [
   {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-19T22:08:52Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
     "id": "omarkhandji-commits/midas",
     "language": "Python",
     "name": "omarkhandji-commits/midas",
     "stars": 1,
-    "updated_at": "2026-06-19T21:37:51Z",
+    "updated_at": "2026-06-19T22:07:17Z",
     "url": "https://github.com/omarkhandji-commits/midas"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-19T22:05:05Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T21:31:49Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-19T21:31:07Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-06-19T10:35:12Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-19T10:34:18Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
