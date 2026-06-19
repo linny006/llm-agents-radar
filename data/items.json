@@ -1,5 +1,14 @@
 [
   {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 46,
+    "updated_at": "2026-06-19T16:47:02Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-19T05:52:37Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T05:25:10Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
