@@ -1,5 +1,23 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T04:10:02Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T04:04:11Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
     "id": "Yanu403/digital-mate",
     "language": "Python",
@@ -99,15 +117,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T02:55:46Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 80,
-    "updated_at": "2026-06-19T02:23:03Z",
+    "updated_at": "2026-06-19T04:05:23Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:21:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:54:14Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -436,7 +436,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 71,
+    "stars": 74,
     "updated_at": "2026-06-18T15:56:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
