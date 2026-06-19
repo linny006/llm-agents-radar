@@ -1,5 +1,50 @@
 [
   {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-19T18:45:01Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T18:42:00Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-19T18:41:23Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 2,
+    "updated_at": "2026-06-19T18:39:53Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 93,
+    "updated_at": "2026-06-19T18:33:49Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T18:27:08Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:22:53Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:00:58Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 6206,
     "updated_at": "2026-06-19T17:59:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 93,
-    "updated_at": "2026-06-19T17:49:26Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5166,
-    "updated_at": "2026-06-19T17:25:56Z",
+    "updated_at": "2026-06-19T18:45:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-19T11:30:43Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 136,
     "updated_at": "2026-06-19T08:54:48Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 3,
-    "updated_at": "2026-06-19T07:40:41Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   }
 ]
