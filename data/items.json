@@ -1,12 +1,48 @@
 [
   {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "id": "kargnas/mac-optimizer-loop",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizer-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:45:07Z",
+    "url": "https://github.com/kargnas/mac-optimizer-loop"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-19T19:28:49Z",
+    "updated_at": "2026-06-19T19:41:52Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:41:32Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-19T19:40:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-19T19:38:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -25,24 +61,6 @@
     "stars": 95,
     "updated_at": "2026-06-19T19:25:01Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-19T19:21:26Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T18:47:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -133,15 +151,6 @@
     "stars": 784,
     "updated_at": "2026-06-19T17:26:34Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T17:13:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "",
@@ -301,7 +310,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 109,
+    "stars": 110,
     "updated_at": "2026-06-19T12:46:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -439,14 +448,5 @@
     "stars": 42,
     "updated_at": "2026-06-19T08:20:43Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-19T08:54:48Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   }
 ]
