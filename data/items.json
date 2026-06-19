@@ -1,11 +1,56 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:14:55Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 26990,
+    "updated_at": "2026-06-19T01:12:36Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-19T01:12:24Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T01:13:38Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
+    "id": "hoshiyomiX/stellar-frameworks",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-frameworks",
+    "stars": 0,
+    "updated_at": "2026-06-19T01:08:20Z",
+    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
+  },
+  {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
     "id": "omarkhandji-commits/midas",
     "language": "Python",
     "name": "omarkhandji-commits/midas",
     "stars": 0,
-    "updated_at": "2026-06-19T00:56:47Z",
+    "updated_at": "2026-06-19T01:01:56Z",
     "url": "https://github.com/omarkhandji-commits/midas"
   },
   {
@@ -18,15 +63,6 @@
     "url": "https://github.com/migkapa/flyputer"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:50:46Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T00:43:25Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T00:42:45Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -99,15 +126,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:08:11Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-19T00:47:16Z",
+    "updated_at": "2026-06-19T01:05:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T20:36:09Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-19T00:58:06Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 7,
-    "updated_at": "2026-06-19T00:59:25Z",
+    "updated_at": "2026-06-19T01:07:59Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 10,
     "updated_at": "2026-06-18T20:45:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 26989,
-    "updated_at": "2026-06-18T16:25:55Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
