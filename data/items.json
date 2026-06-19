@@ -1,12 +1,12 @@
 [
   {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-19T12:45:06Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T12:54:10Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
@@ -14,8 +14,26 @@
     "language": "Shell",
     "name": "hoshiyomiX/stellar-frameworks",
     "stars": 0,
-    "updated_at": "2026-06-19T12:39:50Z",
+    "updated_at": "2026-06-19T12:53:48Z",
     "url": "https://github.com/hoshiyomiX/stellar-frameworks"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-19T12:47:02Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 109,
+    "updated_at": "2026-06-19T12:46:04Z",
+    "url": "https://github.com/larlarua/AutoCVE"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -234,15 +252,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T09:11:39Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
     "id": "ArtLjn/farm-manager-design-spec",
     "language": "\u2014",
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 24,
-    "updated_at": "2026-06-19T08:12:07Z",
+    "updated_at": "2026-06-19T12:54:54Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -274,7 +283,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6202,
+    "stars": 6203,
     "updated_at": "2026-06-19T07:54:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T01:01:56Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "",
-    "id": "migkapa/flyputer",
-    "language": "Python",
-    "name": "migkapa/flyputer",
-    "stars": 0,
-    "updated_at": "2026-06-19T00:48:26Z",
-    "url": "https://github.com/migkapa/flyputer"
   }
 ]
