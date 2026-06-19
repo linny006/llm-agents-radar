@@ -1,11 +1,29 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:26:08Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 41,
+    "updated_at": "2026-06-19T08:20:43Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-19T08:14:38Z",
+    "updated_at": "2026-06-19T08:16:50Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -126,6 +144,15 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5164,
+    "updated_at": "2026-06-19T06:42:52Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -142,15 +169,6 @@
     "stars": 2668,
     "updated_at": "2026-06-19T05:58:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 41,
-    "updated_at": "2026-06-19T05:57:31Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
@@ -214,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-06-19T06:37:07Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5163,
-    "updated_at": "2026-06-19T06:42:52Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -322,15 +331,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T02:55:46Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-19T01:36:00Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
