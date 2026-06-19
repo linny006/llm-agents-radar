@@ -1,5 +1,32 @@
 [
   {
+    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
+    "id": "ArtLjn/farm-manager-design-spec",
+    "language": "\u2014",
+    "name": "ArtLjn/farm-manager-design-spec",
+    "stars": 0,
+    "updated_at": "2026-06-19T08:43:39Z",
+    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T08:39:09Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-19T08:34:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -16,24 +43,6 @@
     "stars": 41,
     "updated_at": "2026-06-19T08:20:43Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T08:16:50Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-19T08:12:53Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T07:38:22Z",
     "url": "https://github.com/rawrter/studio"
-  },
-  {
-    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
-    "id": "ArtLjn/farm-manager-design-spec",
-    "language": "\u2014",
-    "name": "ArtLjn/farm-manager-design-spec",
-    "stars": 0,
-    "updated_at": "2026-06-19T07:32:35Z",
-    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
   },
   {
     "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-19T05:26:09Z",
+    "updated_at": "2026-06-19T08:35:53Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -356,7 +356,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-19T05:26:15Z",
+    "updated_at": "2026-06-19T08:39:25Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
