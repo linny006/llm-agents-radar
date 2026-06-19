@@ -1,12 +1,30 @@
 [
   {
-    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
-    "id": "ThreeFish-AI/negentropy",
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
     "language": "Python",
-    "name": "ThreeFish-AI/negentropy",
-    "stars": 7,
-    "updated_at": "2026-06-19T04:59:14Z",
-    "url": "https://github.com/ThreeFish-AI/negentropy"
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T05:09:41Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
+    "id": "hoshiyomiX/stellar-frameworks",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-frameworks",
+    "stars": 0,
+    "updated_at": "2026-06-19T05:07:57Z",
+    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-19T05:06:30Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -14,8 +32,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-19T04:53:48Z",
+    "updated_at": "2026-06-19T05:05:13Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "An agentic system built on a \"One Root, Five Wings\" architecture, dedicated to combating the entropy production of infom",
+    "id": "ThreeFish-AI/negentropy",
+    "language": "Python",
+    "name": "ThreeFish-AI/negentropy",
+    "stars": 7,
+    "updated_at": "2026-06-19T04:59:14Z",
+    "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -43,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-06-19T04:41:32Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T04:37:28Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T03:55:56Z",
     "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-19T03:56:13Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T01:36:00Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
-    "id": "hoshiyomiX/stellar-frameworks",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-frameworks",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:08:20Z",
-    "url": "https://github.com/hoshiyomiX/stellar-frameworks"
   },
   {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
