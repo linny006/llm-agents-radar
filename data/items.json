@@ -1,5 +1,23 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-06-19T15:24:52Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-19T15:21:16Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
     "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
     "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-19T15:02:51Z",
+    "updated_at": "2026-06-19T15:30:05Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 0,
-    "updated_at": "2026-06-19T13:57:51Z",
+    "updated_at": "2026-06-19T15:26:39Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -130,7 +148,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 87,
+    "stars": 88,
     "updated_at": "2026-06-19T13:26:24Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -430,23 +448,5 @@
     "stars": 248,
     "updated_at": "2026-06-19T04:33:49Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-06-19T04:29:15Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 0,
-    "updated_at": "2026-06-19T03:55:56Z",
-    "url": "https://github.com/Yanu403/digital-mate"
   }
 ]
