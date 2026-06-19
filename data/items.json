@@ -1,11 +1,20 @@
 [
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 24,
+    "updated_at": "2026-06-19T06:21:21Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-19T06:12:50Z",
+    "updated_at": "2026-06-19T06:16:47Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "ThreeFish-AI/negentropy",
     "stars": 7,
-    "updated_at": "2026-06-19T04:59:14Z",
+    "updated_at": "2026-06-19T06:25:26Z",
     "url": "https://github.com/ThreeFish-AI/negentropy"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5163,
-    "updated_at": "2026-06-19T04:42:43Z",
+    "updated_at": "2026-06-19T06:25:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-19T06:01:12Z",
+    "updated_at": "2026-06-19T06:26:15Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -211,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26993,
+    "stars": 26994,
     "updated_at": "2026-06-19T02:55:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -385,15 +394,6 @@
     "stars": 1500,
     "updated_at": "2026-06-18T18:53:20Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 24,
-    "updated_at": "2026-06-19T06:14:23Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
