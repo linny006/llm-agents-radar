@@ -1,12 +1,21 @@
 [
   {
-    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
-    "id": "akatzmann/slash-agent",
+    "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
+    "id": "omarkhandji-commits/midas",
     "language": "Python",
-    "name": "akatzmann/slash-agent",
-    "stars": 5,
-    "updated_at": "2026-06-19T21:23:53Z",
-    "url": "https://github.com/akatzmann/slash-agent"
+    "name": "omarkhandji-commits/midas",
+    "stars": 1,
+    "updated_at": "2026-06-19T21:37:51Z",
+    "url": "https://github.com/omarkhandji-commits/midas"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:37:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-06-19T21:22:38Z",
+    "updated_at": "2026-06-19T21:32:57Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-19T21:31:49Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-19T21:31:07Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
+    "id": "akatzmann/slash-agent",
+    "language": "Python",
+    "name": "akatzmann/slash-agent",
+    "stars": 5,
+    "updated_at": "2026-06-19T21:33:39Z",
+    "url": "https://github.com/akatzmann/slash-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -72,24 +108,6 @@
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:37:56Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:15:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
     "id": "kargnas/mac-optimizer-loop",
     "language": "Swift",
@@ -112,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6209,
+    "stars": 6210,
     "updated_at": "2026-06-19T20:01:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -430,23 +448,5 @@
     "stars": 4333,
     "updated_at": "2026-06-19T10:34:18Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 16,
-    "updated_at": "2026-06-19T10:30:49Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "\u5927\u8111(Claude)\u51fa\u89c4\u683c \u00b7 \u624b(\u672c\u5730\u6a21\u578b)\u6267\u884c \u00b7 \u62a4\u680f\u515c\u5e95 \u2014\u2014 \u4e00\u5957\u7701 cc token \u7684\u7f16\u7801\u5de5\u4f5c\u6d41",
-    "id": "Song-ic/Qwen-Agent",
-    "language": "Python",
-    "name": "Song-ic/Qwen-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-19T10:18:13Z",
-    "url": "https://github.com/Song-ic/Qwen-Agent"
   }
 ]
