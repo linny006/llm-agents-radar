@@ -1,11 +1,20 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-19T12:45:06Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with adaptive complexity tiers (Minimal/Simple/Standard/Com",
     "id": "hoshiyomiX/stellar-frameworks",
     "language": "Shell",
     "name": "hoshiyomiX/stellar-frameworks",
     "stars": 0,
-    "updated_at": "2026-06-19T12:30:10Z",
+    "updated_at": "2026-06-19T12:39:50Z",
     "url": "https://github.com/hoshiyomiX/stellar-frameworks"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T00:48:26Z",
     "url": "https://github.com/migkapa/flyputer"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 30,
-    "updated_at": "2026-06-18T23:33:12Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
