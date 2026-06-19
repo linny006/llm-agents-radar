@@ -1,12 +1,57 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:28:27Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-19T22:27:31Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:26:21Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
     "id": "dannyphantomx64/aether-code",
     "language": "JavaScript",
     "name": "dannyphantomx64/aether-code",
     "stars": 2,
-    "updated_at": "2026-06-19T22:08:52Z",
+    "updated_at": "2026-06-19T22:16:43Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
+    "id": "frissonitte/wbc-analyzer",
+    "language": "Python",
+    "name": "frissonitte/wbc-analyzer",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:15:43Z",
+    "url": "https://github.com/frissonitte/wbc-analyzer"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:15:30Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
@@ -45,15 +90,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:31:49Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
     "id": "akatzmann/slash-agent",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T21:33:39Z",
     "url": "https://github.com/akatzmann/slash-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:17:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "One-Stop Personal Health AI Agent \"Say Hi to Healthy Me\"",
@@ -126,20 +153,11 @@
     "url": "https://github.com/kargnas/mac-optimizer-loop"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-19T20:05:33Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6210,
+    "stars": 6211,
     "updated_at": "2026-06-19T20:01:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -151,15 +169,6 @@
     "stars": 96,
     "updated_at": "2026-06-19T19:25:01Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T18:42:00Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T10:40:12Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 10,
-    "updated_at": "2026-06-19T10:35:12Z",
-    "url": "https://github.com/sehoon787/my-claude"
   }
 ]
