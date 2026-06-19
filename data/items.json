@@ -1,12 +1,12 @@
 [
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
+    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
+    "id": "frissonitte/wbc-analyzer",
     "language": "Python",
-    "name": "rohithkandula19/Ronin",
+    "name": "frissonitte/wbc-analyzer",
     "stars": 1,
-    "updated_at": "2026-06-19T22:28:27Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
+    "updated_at": "2026-06-19T22:36:07Z",
+    "url": "https://github.com/frissonitte/wbc-analyzer"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 16,
-    "updated_at": "2026-06-19T22:27:31Z",
+    "updated_at": "2026-06-19T22:36:30Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T22:35:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-19T22:28:27Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -34,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T22:16:43Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
-    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
-    "id": "frissonitte/wbc-analyzer",
-    "language": "Python",
-    "name": "frissonitte/wbc-analyzer",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:15:43Z",
-    "url": "https://github.com/frissonitte/wbc-analyzer"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -70,15 +79,6 @@
     "stars": 136,
     "updated_at": "2026-06-19T22:05:05Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T21:37:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-19 22:30 UTC
+> ⏰ Last updated: 2026-06-19 22:37 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-19 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 1 | [frissonitte/wbc-analyzer](https://github.com/frissonitte/wbc-analyzer) | 1 | Python | 2026-06-19 | AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect |
 | 2 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 16 | Python | 2026-06-19 | Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-19 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
-| 5 | [frissonitte/wbc-analyzer](https://github.com/frissonitte/wbc-analyzer) | 1 | Python | 2026-06-19 | AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect |
-| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 7 | [omarkhandji-commits/midas](https://github.com/omarkhandji-commits/midas) | 1 | Python | 2026-06-19 | Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP |
-| 8 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-19 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-06-19 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-19 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [omarkhandji-commits/midas](https://github.com/omarkhandji-commits/midas) | 1 | Python | 2026-06-19 | Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP |
+| 9 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-19 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 10 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-19 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 11 | [akatzmann/slash-agent](https://github.com/akatzmann/slash-agent) | 5 | Python | 2026-06-19 | Native LLM Copilot for Your Terminal – **No Daemons. Zero Idle Memory. 100% On-Demand.** |
 | 12 | [thinkwee/HiMe](https://github.com/thinkwee/HiMe) | 41 | Python | 2026-06-19 | One-Stop Personal Health AI Agent "Say Hi to Healthy Me" |
