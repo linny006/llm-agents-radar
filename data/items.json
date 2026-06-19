@@ -1,21 +1,39 @@
 [
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 24,
-    "updated_at": "2026-06-19T06:21:21Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-19T06:16:47Z",
+    "updated_at": "2026-06-19T06:58:26Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-19T06:52:49Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 3,
+    "updated_at": "2026-06-19T06:48:58Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 24,
+    "updated_at": "2026-06-19T06:54:01Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -25,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-06-19T06:11:29Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2667,
+    "updated_at": "2026-06-19T05:58:32Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-19T06:31:18Z",
+    "updated_at": "2026-06-19T06:56:24Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -220,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 26994,
+    "stars": 26995,
     "updated_at": "2026-06-19T02:55:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -250,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-06-19T02:55:46Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T01:49:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -351,15 +369,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2666,
-    "updated_at": "2026-06-19T05:58:32Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "A research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 205,
     "updated_at": "2026-06-19T05:16:23Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "The app you run Rowter in \u2014 chat, knowledge bases, memory, plugins, settings. One command to boot.",
-    "id": "rawrter/studio",
-    "language": "Python",
-    "name": "rawrter/studio",
-    "stars": 0,
-    "updated_at": "2026-06-18T23:28:46Z",
-    "url": "https://github.com/rawrter/studio"
   }
 ]
