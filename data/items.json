@@ -1,5 +1,32 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-19T17:13:40Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-19T17:12:00Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-19T17:15:18Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
     "description": "",
     "id": "migkapa/flyputer",
     "language": "Python",
@@ -45,12 +72,21 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5166,
+    "updated_at": "2026-06-19T16:36:09Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
     "stars": 92,
-    "updated_at": "2026-06-19T16:18:17Z",
+    "updated_at": "2026-06-19T17:01:40Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-19T16:59:33Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
     "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
     "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
     "language": "Python",
@@ -149,17 +176,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 784,
-    "updated_at": "2026-06-19T14:56:20Z",
+    "updated_at": "2026-06-19T17:15:12Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T14:51:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Partner AI Agent Runtime",
@@ -256,7 +274,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12965,
+    "stars": 12966,
     "updated_at": "2026-06-19T11:53:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -351,15 +369,6 @@
     "url": "https://github.com/Song-ic/Qwen-Agent"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5165,
-    "updated_at": "2026-06-19T16:36:09Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -385,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-06-19T09:25:51Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-19T09:24:43Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
