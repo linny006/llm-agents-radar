@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6204,
+    "updated_at": "2026-06-19T15:37:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-19T15:21:16Z",
+    "updated_at": "2026-06-19T15:36:14Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 10,
     "updated_at": "2026-06-19T15:30:05Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6204,
-    "updated_at": "2026-06-19T14:53:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -148,7 +148,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 88,
+    "stars": 89,
     "updated_at": "2026-06-19T13:26:24Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
