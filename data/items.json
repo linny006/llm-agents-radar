@@ -1,5 +1,23 @@
 [
   {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-06-20T17:16:24Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 357,
+    "updated_at": "2026-06-20T17:16:11Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T17:12:05Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
-    "id": "XiaoChu-1208/inner-coordinates",
-    "language": "Shell",
-    "name": "XiaoChu-1208/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:11:43Z",
-    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:27:39Z",
     "url": "https://github.com/kargnas/mac-optimizing-looper"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 357,
-    "updated_at": "2026-06-20T17:14:54Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",

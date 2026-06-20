@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 17:15 UTC
+> ⏰ Last updated: 2026-06-20 17:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denisotree/veles](https://github.com/denisotree/veles) | 0 | Python | 2026-06-20 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
-| 2 | [XiaoChu-1208/inner-coordinates](https://github.com/XiaoChu-1208/inner-coordinates) | 0 | Shell | 2026-06-20 | Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 5 | [omarkhandji-commits/midas](https://github.com/omarkhandji-commits/midas) | 1 | Python | 2026-06-20 | Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 75 | TypeScript | 2026-06-20 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
-| 8 | [kargnas/mac-optimizing-looper](https://github.com/kargnas/mac-optimizing-looper) | 0 | Swift | 2026-06-20 | A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri |
-| 9 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 357 | Go | 2026-06-20 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 1 | [XiaoChu-1208/inner-coordinates](https://github.com/XiaoChu-1208/inner-coordinates) | 1 | Shell | 2026-06-20 | Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk |
+| 2 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 357 | Go | 2026-06-20 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 3 | [denisotree/veles](https://github.com/denisotree/veles) | 0 | Python | 2026-06-20 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 6 | [omarkhandji-commits/midas](https://github.com/omarkhandji-commits/midas) | 1 | Python | 2026-06-20 | Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 75 | TypeScript | 2026-06-20 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
+| 9 | [kargnas/mac-optimizing-looper](https://github.com/kargnas/mac-optimizing-looper) | 0 | Swift | 2026-06-20 | A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri |
 | 10 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 25 | TypeScript | 2026-06-20 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
 | 11 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2675 | Python | 2026-06-20 | SRE Agent - CNCF Sandbox Project |
 | 12 | [BiBoyang/ForgeLoop](https://github.com/BiBoyang/ForgeLoop) | 0 | Swift | 2026-06-20 | Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics. |
