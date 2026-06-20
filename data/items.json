@@ -1,5 +1,23 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 357,
+    "updated_at": "2026-06-20T14:16:01Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-20T14:15:27Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -54,15 +72,6 @@
     "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:16:34Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -94,7 +103,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12973,
+    "stars": 12974,
     "updated_at": "2026-06-20T13:03:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5172,
-    "updated_at": "2026-06-20T14:06:54Z",
+    "updated_at": "2026-06-20T14:29:20Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -391,7 +400,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 27,
+    "stars": 29,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
@@ -439,14 +448,5 @@
     "stars": 2674,
     "updated_at": "2026-06-19T22:48:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
-    "id": "frissonitte/wbc-analyzer",
-    "language": "Python",
-    "name": "frissonitte/wbc-analyzer",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:36:07Z",
-    "url": "https://github.com/frissonitte/wbc-analyzer"
   }
 ]
