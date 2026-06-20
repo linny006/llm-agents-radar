@@ -1,5 +1,14 @@
 [
   {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T09:21:20Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -13,7 +22,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5169,
+    "stars": 5170,
     "updated_at": "2026-06-20T09:12:52Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -135,15 +144,6 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T07:38:28Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -185,7 +185,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 283,
-    "updated_at": "2026-06-20T09:06:19Z",
+    "updated_at": "2026-06-20T09:20:22Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
