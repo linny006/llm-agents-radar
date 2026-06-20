@@ -1,5 +1,32 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:11:47Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-20T00:04:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T00:01:01Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -63,15 +90,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T22:50:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
     "id": "frissonitte/wbc-analyzer",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:28:27Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-19T22:16:43Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T10:40:19Z",
     "url": "https://github.com/SkyWith628/codesage"
-  },
-  {
-    "description": "\ud83d\udc3b \uc9c1\uad6c\uacf0 \u2014 Amazon US\u2192\ub124\uc774\ubc84 \uc2a4\ub9c8\ud2b8\uc2a4\ud1a0\uc5b4 \ubb34\uc7ac\uace0 \uad6c\ub9e4\ub300\ud589 \uc790\ub3d9\ud654. \ub3c8=\uacb0\uc815\ub860 \ud30c\uc774\ud504\ub77c\uc778, \ud310\ub2e8=\uba40\ud2f0\uc5d0\uc774\uc804\ud2b8(\ud3c9\uac00/\ucf58\ud150\uce20/CS). FastAPI+Next.js \uc5b4\ub4dc\ubbfc. pytest 115.",
-    "id": "SkyWith628/jikgugom",
-    "language": "Python",
-    "name": "SkyWith628/jikgugom",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:40:17Z",
-    "url": "https://github.com/SkyWith628/jikgugom"
   }
 ]
