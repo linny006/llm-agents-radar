@@ -5,8 +5,17 @@
     "language": "JavaScript",
     "name": "dannyphantomx64/aether-code",
     "stars": 2,
-    "updated_at": "2026-06-20T04:23:36Z",
+    "updated_at": "2026-06-20T04:36:16Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:35:45Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-06-19T13:27:56Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-06-19T13:25:33Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
