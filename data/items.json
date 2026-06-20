@@ -1,5 +1,23 @@
 [
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:12:05Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-06-20T17:11:43Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -36,15 +54,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:57:42Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -68,7 +77,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 357,
-    "updated_at": "2026-06-20T16:25:40Z",
+    "updated_at": "2026-06-20T17:14:54Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-20T16:51:18Z",
+    "updated_at": "2026-06-20T17:08:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-06-20T05:31:58Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
-    "id": "randomittin/heimdall",
-    "language": "Shell",
-    "name": "randomittin/heimdall",
-    "stars": 4,
-    "updated_at": "2026-06-20T04:51:11Z",
-    "url": "https://github.com/randomittin/heimdall"
   }
 ]
