@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:53:29Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:52:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
     "id": "omarkhandji-commits/midas",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 0,
-    "updated_at": "2026-06-20T16:37:43Z",
+    "updated_at": "2026-06-20T16:57:42Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -36,7 +54,7 @@
     "url": "https://github.com/sandydasari/openacme"
   },
   {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
     "id": "kargnas/mac-optimizing-looper",
     "language": "Swift",
     "name": "kargnas/mac-optimizing-looper",
@@ -108,24 +126,6 @@
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:13:47Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-20T15:13:14Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Octomind Agents Registry",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-20T16:23:24Z",
+    "updated_at": "2026-06-20T16:51:18Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
