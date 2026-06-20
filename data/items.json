@@ -1,5 +1,14 @@
 [
   {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T04:11:16Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
     "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
     "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 5168,
     "updated_at": "2026-06-20T03:56:31Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T03:56:14Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -112,7 +112,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 16,
-    "updated_at": "2026-06-19T22:54:44Z",
+    "updated_at": "2026-06-20T04:13:52Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
