@@ -1,5 +1,23 @@
 [
   {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 4,
+    "updated_at": "2026-06-20T15:29:35Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 75,
+    "updated_at": "2026-06-20T15:29:27Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T15:13:14Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 75,
-    "updated_at": "2026-06-20T15:13:07Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "Octomind Agents Registry",
@@ -178,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T11:41:08Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 4,
-    "updated_at": "2026-06-20T15:04:17Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
     "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
@@ -445,7 +445,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   }
