@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
+    "id": "dzianisv/opencode-plugins",
+    "language": "TypeScript",
+    "name": "dzianisv/opencode-plugins",
+    "stars": 9,
+    "updated_at": "2026-06-20T10:38:37Z",
+    "url": "https://github.com/dzianisv/opencode-plugins"
+  },
+  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -85,7 +94,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5170,
+    "stars": 5171,
     "updated_at": "2026-06-20T09:12:52Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T10:13:45Z",
+    "updated_at": "2026-06-20T10:32:40Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-19T20:50:06Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
-    "id": "kargnas/mac-optimizer-loop",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizer-loop",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:13:08Z",
-    "url": "https://github.com/kargnas/mac-optimizer-loop"
   }
 ]
