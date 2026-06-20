@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:42:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:39:36Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 0,
+    "updated_at": "2026-06-20T15:36:53Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 25,
+    "updated_at": "2026-06-20T15:42:38Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:52:07Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T14:47:41Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
-    "id": "kargnas/mac-optimizing-looper",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizing-looper",
-    "stars": 0,
-    "updated_at": "2026-06-20T14:57:17Z",
-    "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
     "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 357,
-    "updated_at": "2026-06-20T14:16:01Z",
+    "updated_at": "2026-06-20T15:45:13Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 4333,
     "updated_at": "2026-06-20T14:05:00Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:49:07Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5172,
-    "updated_at": "2026-06-20T14:34:20Z",
+    "updated_at": "2026-06-20T15:44:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 103,
     "updated_at": "2026-06-20T02:34:04Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
-    "id": "rzhub/GateMem",
-    "language": "Python",
-    "name": "rzhub/GateMem",
-    "stars": 31,
-    "updated_at": "2026-06-20T01:38:16Z",
-    "url": "https://github.com/rzhub/GateMem"
   }
 ]
