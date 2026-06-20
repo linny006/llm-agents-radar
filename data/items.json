@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-20T08:27:52Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:16:51Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
@@ -99,15 +117,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:14:32Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "\u623f\u4ef2\u7b2c\u4e8c\u5927\u8166 \u2014 Hermes-Agent + mem0 + LINE \u7684\u623f\u4ef2 AI \u7b2c\u4e8c\u5927\u8166\uff1bSpec-Driven (STDD\u00d7VDD) + \u53f0\u7063 open data MCP + VM/GKE \u90e8\u7f72",
     "id": "trionnemesis/AIhouskeeperagent",
     "language": "Python",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:21:42Z",
     "url": "https://github.com/Yahiaelgayarrr/Crowd-Analysis-System"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-20T06:19:53Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-20T03:08:54Z",
+    "updated_at": "2026-06-20T08:15:37Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
