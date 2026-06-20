@@ -1,12 +1,30 @@
 [
   {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
+    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
+    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "language": "Python",
+    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "stars": 0,
+    "updated_at": "2026-06-20T04:00:10Z",
+    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-06-20T03:44:05Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T03:59:45Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5168,
+    "updated_at": "2026-06-20T03:56:31Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
@@ -14,8 +32,17 @@
     "language": "JavaScript",
     "name": "dannyphantomx64/aether-code",
     "stars": 2,
-    "updated_at": "2026-06-20T03:38:03Z",
+    "updated_at": "2026-06-20T03:56:14Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-20T03:45:48Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -25,15 +52,6 @@
     "stars": 10,
     "updated_at": "2026-06-20T03:31:22Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:30:25Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -130,7 +148,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6217,
+    "stars": 6218,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -261,15 +279,6 @@
     "url": "https://github.com/kargnas/mac-optimizer-loop"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5168,
-    "updated_at": "2026-06-19T18:45:17Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -360,15 +369,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
-    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "language": "Python",
-    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:11:40Z",
-    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
     "description": "Partner AI Agent Runtime",
     "id": "slhaf/Partner",
     "language": "Java",
@@ -385,6 +385,15 @@
     "stars": 2672,
     "updated_at": "2026-06-19T22:48:48Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+    "id": "microsoft/OpenRCA",
+    "language": "Python",
+    "name": "microsoft/OpenRCA",
+    "stars": 363,
+    "updated_at": "2026-06-19T14:09:48Z",
+    "url": "https://github.com/microsoft/OpenRCA"
   },
   {
     "description": "Your math is wrong. Here's exactly where and why! \ud83d\udd2c AI agent that verifies every step of a student solution, pinpoints t",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T13:25:33Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-19T12:47:02Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
   }
 ]
