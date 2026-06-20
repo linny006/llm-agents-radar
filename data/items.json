@@ -1,12 +1,39 @@
 [
   {
+    "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
+    "id": "th3vib3coder/vibe-science",
+    "language": "JavaScript",
+    "name": "th3vib3coder/vibe-science",
+    "stars": 12,
+    "updated_at": "2026-06-20T23:42:13Z",
+    "url": "https://github.com/th3vib3coder/vibe-science"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:37:18Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
     "name": "yosh95/llm-secure-cli",
     "stars": 1,
-    "updated_at": "2026-06-20T23:29:17Z",
+    "updated_at": "2026-06-20T23:36:14Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T23:33:18Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
@@ -63,15 +90,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:32:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
     "id": "BiBoyang/ForgeLoop",
     "language": "Swift",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T22:31:04Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:15:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T23:20:51Z",
+    "updated_at": "2026-06-20T23:31:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T18:31:02Z",
     "url": "https://github.com/Kengston/personal-llm-wiki"
-  },
-  {
-    "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
-    "id": "th3vib3coder/vibe-science",
-    "language": "JavaScript",
-    "name": "th3vib3coder/vibe-science",
-    "stars": 12,
-    "updated_at": "2026-06-20T18:00:05Z",
-    "url": "https://github.com/th3vib3coder/vibe-science"
   },
   {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
@@ -337,7 +337,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12977,
+    "stars": 12975,
     "updated_at": "2026-06-20T13:03:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
