@@ -1,5 +1,32 @@
 [
   {
+    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
+    "id": "aureliocpr-ctrl/hippoagent",
+    "language": "Python",
+    "name": "aureliocpr-ctrl/hippoagent",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:56:32Z",
+    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T08:50:12Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:46:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -72,15 +99,6 @@
     "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:50:29Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
     "id": "dannyphantomx64/aether-code",
     "language": "JavaScript",
@@ -112,7 +130,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 1998,
+    "stars": 1999,
     "updated_at": "2026-06-20T07:28:59Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-20T08:36:18Z",
+    "updated_at": "2026-06-20T08:56:31Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
-    "id": "aureliocpr-ctrl/hippoagent",
-    "language": "Python",
-    "name": "aureliocpr-ctrl/hippoagent",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:12:29Z",
-    "url": "https://github.com/aureliocpr-ctrl/hippoagent"
-  },
-  {
     "description": "Manusclaw: Unleash self-reasoning CLI beasts to execute code, browse the web, and dominate tasks \u2014 across 12+ messaging ",
     "id": "ManusAgents/ManusClaw",
     "language": "Python",
@@ -279,15 +288,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:07:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
     "id": "randomittin/heimdall",
     "language": "Shell",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5169,
-    "updated_at": "2026-06-20T03:56:31Z",
+    "updated_at": "2026-06-20T08:51:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -337,7 +337,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
