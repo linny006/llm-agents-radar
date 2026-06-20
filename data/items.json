@@ -1,11 +1,38 @@
 [
   {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-20T03:44:05Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T03:38:03Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-20T03:31:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-20T03:28:10Z",
+    "updated_at": "2026-06-20T03:30:25Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T03:18:30Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T03:13:11Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -58,7 +76,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 99,
+    "stars": 100,
     "updated_at": "2026-06-20T02:34:04Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -112,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6216,
+    "stars": 6217,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -288,15 +306,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-20T03:15:04Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-19T12:47:02Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 112,
-    "updated_at": "2026-06-19T12:46:04Z",
-    "url": "https://github.com/larlarua/AutoCVE"
   }
 ]
