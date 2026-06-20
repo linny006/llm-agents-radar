@@ -1,12 +1,39 @@
 [
   {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:00:08Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:58:59Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-20T07:42:58Z",
+    "updated_at": "2026-06-20T07:50:07Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:50:29Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
@@ -16,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T07:38:28Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:36:15Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
@@ -61,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T07:28:09Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T07:29:19Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -142,15 +151,6 @@
     "stars": 117,
     "updated_at": "2026-06-20T06:29:59Z",
     "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-20T06:24:29Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
@@ -257,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-20T05:20:37Z",
+    "updated_at": "2026-06-20T07:59:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -310,7 +310,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12970,
+    "stars": 12969,
     "updated_at": "2026-06-20T02:43:47Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
