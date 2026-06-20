@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
+    "id": "auto-use/Auto-Use",
+    "language": "Python",
+    "name": "auto-use/Auto-Use",
+    "stars": 117,
+    "updated_at": "2026-06-20T06:29:59Z",
+    "url": "https://github.com/auto-use/Auto-Use"
+  },
+  {
+    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
+    "id": "ArtLjn/farm-manager-design-spec",
+    "language": "\u2014",
+    "name": "ArtLjn/farm-manager-design-spec",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:25:29Z",
+    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:24:29Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 52,
+    "updated_at": "2026-06-20T06:21:47Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "Real-time crowd analysis and safety monitoring system using computer vision, zone-based risk classification, anomaly det",
+    "id": "Yahiaelgayarrr/Crowd-Analysis-System",
+    "language": "Jupyter Notebook",
+    "name": "Yahiaelgayarrr/Crowd-Analysis-System",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:21:42Z",
+    "url": "https://github.com/Yahiaelgayarrr/Crowd-Analysis-System"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-20T06:19:53Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -99,15 +153,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-20T06:01:58Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T05:31:01Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:29:39Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
     "stars": 1998,
-    "updated_at": "2026-06-20T05:58:32Z",
+    "updated_at": "2026-06-20T06:29:03Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
@@ -176,7 +212,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-20T04:46:20Z",
+    "updated_at": "2026-06-20T06:23:49Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -283,7 +319,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6218,
+    "stars": 6219,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:25:23Z",
     "url": "https://github.com/migkapa/flyputer"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 46,
-    "updated_at": "2026-06-19T16:47:02Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 25,
-    "updated_at": "2026-06-19T16:16:17Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A local-native autonomous agent that plays games \u2014 turn-based, idle, text \u2014 and forms its own memory, opinions, and sens",
-    "id": "maxwellcsutton/Homunculus",
-    "language": "TypeScript",
-    "name": "maxwellcsutton/Homunculus",
-    "stars": 0,
-    "updated_at": "2026-06-19T15:43:29Z",
-    "url": "https://github.com/maxwellcsutton/Homunculus"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-06-19T15:24:52Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
