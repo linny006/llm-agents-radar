@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T14:52:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
     "name": "Yuan-ManX/SparkLabs",
     "stars": 6,
-    "updated_at": "2026-06-20T14:45:05Z",
+    "updated_at": "2026-06-20T14:50:28Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
+    "id": "omarkhandji-commits/midas",
+    "language": "Python",
+    "name": "omarkhandji-commits/midas",
+    "stars": 1,
+    "updated_at": "2026-06-20T14:47:41Z",
+    "url": "https://github.com/omarkhandji-commits/midas"
   },
   {
     "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
@@ -14,7 +32,7 @@
     "language": "Swift",
     "name": "kargnas/mac-optimizing-looper",
     "stars": 0,
-    "updated_at": "2026-06-20T14:43:43Z",
+    "updated_at": "2026-06-20T14:57:17Z",
     "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
@@ -79,15 +97,6 @@
     "stars": 43,
     "updated_at": "2026-06-20T13:47:12Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T13:39:45Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -409,7 +418,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 102,
+    "stars": 103,
     "updated_at": "2026-06-20T02:34:04Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
@@ -439,14 +448,5 @@
     "stars": 6223,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:02:32Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   }
 ]
