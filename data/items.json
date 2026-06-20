@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:53:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
     "id": "rzhub/GateMem",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T01:30:42Z",
+    "updated_at": "2026-06-20T01:51:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -49,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6214,
+    "stars": 6215,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T00:04:07Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:44:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -211,7 +211,7 @@
     "id": "shenmintao/marginalia",
     "language": "Python",
     "name": "shenmintao/marginalia",
-    "stars": 97,
+    "stars": 98,
     "updated_at": "2026-06-19T19:25:01Z",
     "url": "https://github.com/shenmintao/marginalia"
   },
