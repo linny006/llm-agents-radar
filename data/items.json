@@ -1,5 +1,14 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:05:05Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -139,7 +148,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12972,
+    "stars": 12974,
     "updated_at": "2026-06-20T08:40:12Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 283,
-    "updated_at": "2026-06-20T11:20:58Z",
+    "updated_at": "2026-06-20T12:06:24Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-19T21:33:39Z",
     "url": "https://github.com/akatzmann/slash-agent"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-19T21:32:57Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
