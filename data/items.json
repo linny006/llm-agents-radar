@@ -1,12 +1,30 @@
 [
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:54:40Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
+    "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
+    "id": "rzhub/GateMem",
+    "language": "Python",
+    "name": "rzhub/GateMem",
+    "stars": 10,
+    "updated_at": "2026-06-20T01:12:10Z",
+    "url": "https://github.com/rzhub/GateMem"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:11:19Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6214,
+    "updated_at": "2026-06-20T01:11:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
@@ -14,8 +32,26 @@
     "language": "JavaScript",
     "name": "dannyphantomx64/aether-code",
     "stars": 2,
-    "updated_at": "2026-06-20T00:29:27Z",
+    "updated_at": "2026-06-20T01:09:32Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:02:32Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:54:40Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -54,15 +90,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:29:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:36:07Z",
     "url": "https://github.com/frissonitte/wbc-analyzer"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-19T22:28:27Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:13:08Z",
     "url": "https://github.com/kargnas/mac-optimizer-loop"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6213,
-    "updated_at": "2026-06-19T20:01:08Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T11:14:30Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "\ud83e\uddd9 CodeSage \u2014 CodeRabbit \ubca4\uce58\ub9c8\ud0b9 AI \ucf54\ub4dc\ub9ac\ubdf0 \uc5d0\uc774\uc804\ud2b8 (FastAPI + Gemini). GitHub PR \uc790\ub3d9 \uc778\ub77c\uc778 \ub9ac\ubdf0: \uc815\uc801\ubd84\uc11d(ruff)+LLM \ud558\uc774\ube0c\ub9ac\ub4dc, Webhook\u2192Redis Q",
-    "id": "SkyWith628/codesage",
-    "language": "Python",
-    "name": "SkyWith628/codesage",
-    "stars": 1,
-    "updated_at": "2026-06-19T10:40:19Z",
-    "url": "https://github.com/SkyWith628/codesage"
   }
 ]
