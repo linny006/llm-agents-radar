@@ -1,21 +1,21 @@
 [
   {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-20T08:00:08Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
     "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-06-20T07:58:59Z",
+    "updated_at": "2026-06-20T08:11:02Z",
     "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-20T08:08:21Z",
+    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
@@ -23,8 +23,17 @@
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-20T07:50:07Z",
+    "updated_at": "2026-06-20T08:04:13Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-20T08:00:08Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:53:19Z",
     "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 73,
-    "updated_at": "2026-06-20T06:52:26Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
@@ -257,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-20T07:59:03Z",
+    "updated_at": "2026-06-20T08:11:51Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
