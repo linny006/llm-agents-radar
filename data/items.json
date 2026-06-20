@@ -1,5 +1,14 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 98,
+    "updated_at": "2026-06-20T02:34:04Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:13:08Z",
     "url": "https://github.com/kargnas/mac-optimizer-loop"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 98,
-    "updated_at": "2026-06-19T19:25:01Z",
-    "url": "https://github.com/shenmintao/marginalia"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
