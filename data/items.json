@@ -1,5 +1,14 @@
 [
   {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T10:05:37Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-20T09:50:55Z",
+    "updated_at": "2026-06-20T10:06:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T09:32:10Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T09:21:20Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -112,7 +112,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12971,
+    "stars": 12972,
     "updated_at": "2026-06-20T08:40:12Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T08:32:51Z",
+    "updated_at": "2026-06-20T10:13:45Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-20T08:15:37Z",
+    "updated_at": "2026-06-20T10:11:30Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
