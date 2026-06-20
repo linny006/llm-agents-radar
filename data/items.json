@@ -1,5 +1,41 @@
 [
   {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T06:54:34Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
+    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "language": "Python",
+    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
+    "stars": 0,
+    "updated_at": "2026-06-20T06:53:19Z",
+    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 73,
+    "updated_at": "2026-06-20T06:52:26Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-20T06:51:20Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
     "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
     "id": "ArtLjn/farm-manager-design-spec",
     "language": "\u2014",
@@ -117,15 +153,6 @@
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:57:40Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
     "description": "PRD-to-Rust pipeline: a Claude Code skill + companion binary that ship code only when 7 digest-bound receipts agree",
     "id": "j0yen/autobuilder",
     "language": "Rust",
@@ -169,15 +196,6 @@
     "stars": 16,
     "updated_at": "2026-06-20T05:31:58Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:31:01Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -225,15 +243,6 @@
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
-    "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
-    "id": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "language": "Python",
-    "name": "Gene-Liu-portfolio/ctbc-payment-advisor",
-    "stars": 0,
-    "updated_at": "2026-06-20T04:00:10Z",
-    "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 282,
-    "updated_at": "2026-06-20T02:54:43Z",
+    "updated_at": "2026-06-20T06:53:20Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -292,7 +301,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
@@ -439,14 +448,5 @@
     "stars": 784,
     "updated_at": "2026-06-19T17:26:34Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "",
-    "id": "migkapa/flyputer",
-    "language": "Python",
-    "name": "migkapa/flyputer",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:25:23Z",
-    "url": "https://github.com/migkapa/flyputer"
   }
 ]
