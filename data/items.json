@@ -1,11 +1,29 @@
 [
   {
+    "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
+    "id": "rzhub/GateMem",
+    "language": "Python",
+    "name": "rzhub/GateMem",
+    "stars": 10,
+    "updated_at": "2026-06-20T01:38:16Z",
+    "url": "https://github.com/rzhub/GateMem"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:33:16Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T01:22:08Z",
+    "updated_at": "2026-06-20T01:30:42Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-06-20T01:16:43Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
-    "id": "rzhub/GateMem",
-    "language": "Python",
-    "name": "rzhub/GateMem",
-    "stars": 10,
-    "updated_at": "2026-06-20T01:12:10Z",
-    "url": "https://github.com/rzhub/GateMem"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:44:15Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:17:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -427,7 +427,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12967,
+    "stars": 12969,
     "updated_at": "2026-06-19T11:53:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
