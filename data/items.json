@@ -1,5 +1,14 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-20T11:57:33Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -50,7 +59,7 @@
     "language": "Rust",
     "name": "Dr1mH4X/TeamSpeakClaw",
     "stars": 4,
-    "updated_at": "2026-06-20T10:57:10Z",
+    "updated_at": "2026-06-20T11:57:55Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T10:27:22Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-20T11:56:08Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
