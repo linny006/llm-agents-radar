@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T09:13:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5169,
+    "updated_at": "2026-06-20T09:12:52Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-20T09:08:10Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-20T09:04:57Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "Engram (formerly HippoAgent) \u2014 persistent memory layer for Claude Code and any LLM agent. Hippocampal-cortical inspired ",
     "id": "aureliocpr-ctrl/hippoagent",
     "language": "Python",
@@ -117,15 +153,6 @@
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T07:32:24Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -144,15 +171,6 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-20T08:56:31Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "\u623f\u4ef2\u7b2c\u4e8c\u5927\u8166 \u2014 Hermes-Agent + mem0 + LINE \u7684\u623f\u4ef2 AI \u7b2c\u4e8c\u5927\u8166\uff1bSpec-Driven (STDD\u00d7VDD) + \u53f0\u7063 open data MCP + VM/GKE \u90e8\u7f72",
     "id": "trionnemesis/AIhouskeeperagent",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 283,
-    "updated_at": "2026-06-20T07:36:05Z",
+    "updated_at": "2026-06-20T09:06:19Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-20T08:11:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
     "id": "randomittin/heimdall",
     "language": "Shell",
@@ -295,15 +304,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T04:51:11Z",
     "url": "https://github.com/randomittin/heimdall"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5169,
-    "updated_at": "2026-06-20T08:51:51Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -337,7 +337,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 22,
+    "stars": 24,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
