@@ -1,5 +1,23 @@
 [
   {
+    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
+    "id": "ArtLjn/farm-manager-design-spec",
+    "language": "\u2014",
+    "name": "ArtLjn/farm-manager-design-spec",
+    "stars": 1,
+    "updated_at": "2026-06-20T06:36:33Z",
+    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-20T06:33:26Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
     "id": "auto-use/Auto-Use",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 117,
     "updated_at": "2026-06-20T06:29:59Z",
     "url": "https://github.com/auto-use/Auto-Use"
-  },
-  {
-    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
-    "id": "ArtLjn/farm-manager-design-spec",
-    "language": "\u2014",
-    "name": "ArtLjn/farm-manager-design-spec",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:25:29Z",
-    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
@@ -203,17 +212,8 @@
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
     "stars": 1998,
-    "updated_at": "2026-06-20T06:29:03Z",
+    "updated_at": "2026-06-20T06:37:29Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-20T06:23:49Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
