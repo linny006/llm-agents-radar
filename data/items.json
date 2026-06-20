@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12969,
+    "updated_at": "2026-06-20T02:43:47Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -67,7 +76,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6215,
+    "stars": 6216,
     "updated_at": "2026-06-20T01:11:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -421,15 +430,6 @@
     "stars": 111,
     "updated_at": "2026-06-19T12:46:04Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12969,
-    "updated_at": "2026-06-19T11:53:07Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
