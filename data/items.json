@@ -1,5 +1,32 @@
 [
   {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:27:39Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 357,
+    "updated_at": "2026-06-20T16:25:40Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 75,
+    "updated_at": "2026-06-20T16:19:21Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -7,15 +34,6 @@
     "stars": 25,
     "updated_at": "2026-06-20T16:13:39Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
-    "id": "kargnas/mac-optimizing-looper",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizing-looper",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:11:40Z",
-    "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-20T15:55:15Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 357,
-    "updated_at": "2026-06-20T15:53:14Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
@@ -88,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T15:48:17Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
-    "id": "sandydasari/openacme",
-    "language": "TypeScript",
-    "name": "sandydasari/openacme",
-    "stars": 75,
-    "updated_at": "2026-06-20T15:29:27Z",
-    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -167,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-20T14:05:00Z",
+    "updated_at": "2026-06-20T16:23:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
