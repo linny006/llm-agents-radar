@@ -1,5 +1,14 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-20T23:29:17Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
     "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
     "id": "blckaddr/spring-ai-agent-by-example",
     "language": "Java",
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-20T22:57:48Z",
+    "updated_at": "2026-06-20T23:20:51Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 9,
     "updated_at": "2026-06-20T10:38:37Z",
     "url": "https://github.com/dzianisv/opencode-plugins"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-20T10:27:22Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
