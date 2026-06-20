@@ -5,15 +5,42 @@
     "language": "Python",
     "name": "aureliocpr-ctrl/hippoagent",
     "stars": 0,
-    "updated_at": "2026-06-20T12:44:41Z",
+    "updated_at": "2026-06-20T12:52:47Z",
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
+  },
+  {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude what's overloading your Mac and suggests one-click, risk-che",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:52:08Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:48:55Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T12:48:45Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
     "name": "sandydasari/openacme",
-    "stars": 73,
+    "stars": 74,
     "updated_at": "2026-06-20T12:24:27Z",
     "url": "https://github.com/sandydasari/openacme"
   },
@@ -25,24 +52,6 @@
     "stars": 10,
     "updated_at": "2026-06-20T12:33:40Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-06-20T12:05:05Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T11:43:29Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:07:17Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
-    "id": "akatzmann/slash-agent",
-    "language": "Python",
-    "name": "akatzmann/slash-agent",
-    "stars": 6,
-    "updated_at": "2026-06-19T21:33:39Z",
-    "url": "https://github.com/akatzmann/slash-agent"
   }
 ]
