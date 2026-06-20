@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-20 00:45 UTC
+> ⏰ Last updated: 2026-06-20 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-20 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
-| 2 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-20 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 1 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-20 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 2 | [dannyphantomx64/aether-code](https://github.com/dannyphantomx64/aether-code) | 2 | JavaScript | 2026-06-20 | Uncensored AI coding agent for your terminal — Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio,  |
 | 3 | [yosh95/llm-secure-cli](https://github.com/yosh95/llm-secure-cli) | 1 | Rust | 2026-06-20 | llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo |
 | 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-06-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 46 | Rust | 2026-06-19 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
 | 31 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5166 | Python | 2026-06-19 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 32 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 25 | TypeScript | 2026-06-19 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 33 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-19 | AI-powered image generation and chat studio |
+| 33 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-20 | AI-powered image generation and chat studio |
 | 34 | [maxwellcsutton/Homunculus](https://github.com/maxwellcsutton/Homunculus) | 0 | TypeScript | 2026-06-19 | A local-native autonomous agent that plays games — turn-based, idle, text — and forms its own memory, opinions, and sens |
 | 35 | [dsswift/ion](https://github.com/dsswift/ion) | 2 | Go | 2026-06-19 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
 | 36 | [Gene-Liu-portfolio/ctbc-payment-advisor](https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor) | 0 | Python | 2026-06-19 | 以 MCP × Groq LLM 為核心的信用卡支付建議系統｜支援中信 × 富邦 13 張熱門卡 |

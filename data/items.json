@@ -1,5 +1,14 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T00:54:40Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
     "id": "dannyphantomx64/aether-code",
     "language": "JavaScript",
@@ -7,15 +16,6 @@
     "stars": 2,
     "updated_at": "2026-06-20T00:29:27Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T00:30:11Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-19T16:02:16Z",
+    "updated_at": "2026-06-20T00:50:41Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
