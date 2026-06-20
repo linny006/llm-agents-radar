@@ -5,8 +5,35 @@
     "language": "JavaScript",
     "name": "dannyphantomx64/aether-code",
     "stars": 2,
-    "updated_at": "2026-06-20T04:11:16Z",
+    "updated_at": "2026-06-20T04:23:36Z",
     "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-20T04:22:13Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-20T04:17:46Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 16,
+    "updated_at": "2026-06-20T04:15:40Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\u4ee5 MCP \u00d7 Groq LLM \u70ba\u6838\u5fc3\u7684\u4fe1\u7528\u5361\u652f\u4ed8\u5efa\u8b70\u7cfb\u7d71\uff5c\u652f\u63f4\u4e2d\u4fe1 \u00d7 \u5bcc\u90a6 13 \u5f35\u71b1\u9580\u5361",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T04:00:10Z",
     "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-20T03:59:45Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-20T03:31:22Z",
+    "updated_at": "2026-06-20T04:16:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 16,
-    "updated_at": "2026-06-20T04:13:52Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
     "id": "frissonitte/wbc-analyzer",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-19T22:07:17Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-19T22:05:05Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
