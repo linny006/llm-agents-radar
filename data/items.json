@@ -1,5 +1,41 @@
 [
   {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-20T05:29:39Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
+    "id": "dannyphantomx64/aether-code",
+    "language": "JavaScript",
+    "name": "dannyphantomx64/aether-code",
+    "stars": 2,
+    "updated_at": "2026-06-20T05:22:57Z",
+    "url": "https://github.com/dannyphantomx64/aether-code"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-20T05:21:14Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-20T05:20:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
     "id": "FutronPrime/verity-harness",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:07:32Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T05:06:22Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   },
   {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 16,
-    "updated_at": "2026-06-20T04:15:40Z",
+    "updated_at": "2026-06-20T05:30:09Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -85,7 +112,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5168,
+    "stars": 5169,
     "updated_at": "2026-06-20T03:56:31Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -97,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-06-20T03:45:48Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-20T04:16:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -166,7 +184,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 15,
+    "stars": 20,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
@@ -333,15 +351,6 @@
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-19T17:42:02Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T15:26:39Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
-    "id": "auto-use/Auto-Use",
-    "language": "Python",
-    "name": "auto-use/Auto-Use",
-    "stars": 117,
-    "updated_at": "2026-06-19T23:27:17Z",
-    "url": "https://github.com/auto-use/Auto-Use"
   }
 ]
