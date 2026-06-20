@@ -1,5 +1,32 @@
 [
   {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:43:32Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:35:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-20T20:30:28Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba",
     "id": "MMUZAMMUL/AgiForge",
     "language": "JavaScript",
@@ -27,24 +54,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:37:02Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-20T19:36:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:16:22Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-20T19:14:21Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
   },
   {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
