@@ -1,5 +1,32 @@
 [
   {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-06-20T22:09:39Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 4,
+    "updated_at": "2026-06-20T22:05:29Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-20T22:08:47Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -360,15 +387,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-20T10:32:40Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T06:53:19Z",
     "url": "https://github.com/Gene-Liu-portfolio/ctbc-payment-advisor"
-  },
-  {
-    "description": "Unified design spec for an LLM agent platform \u2014 architecture decisions, module boundaries, API contracts, and coding sta",
-    "id": "ArtLjn/farm-manager-design-spec",
-    "language": "\u2014",
-    "name": "ArtLjn/farm-manager-design-spec",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:36:33Z",
-    "url": "https://github.com/ArtLjn/farm-manager-design-spec"
-  },
-  {
-    "description": "Auto-Use Computer Use \u2014 drives your OS, browser, scours the web, writes your code. One agent, end to end.",
-    "id": "auto-use/Auto-Use",
-    "language": "Python",
-    "name": "auto-use/Auto-Use",
-    "stars": 117,
-    "updated_at": "2026-06-20T18:36:24Z",
-    "url": "https://github.com/auto-use/Auto-Use"
   }
 ]
