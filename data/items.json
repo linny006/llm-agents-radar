@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "sandydasari/openacme",
     "stars": 75,
-    "updated_at": "2026-06-20T13:56:46Z",
+    "updated_at": "2026-06-20T14:14:55Z",
     "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-20T14:05:00Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -85,7 +94,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12974,
+    "stars": 12973,
     "updated_at": "2026-06-20T13:03:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5172,
-    "updated_at": "2026-06-20T13:59:43Z",
+    "updated_at": "2026-06-20T14:06:54Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -369,15 +378,6 @@
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-20T13:08:20Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -391,7 +391,7 @@
     "id": "rzhub/GateMem",
     "language": "Python",
     "name": "rzhub/GateMem",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
   },
