@@ -1,5 +1,14 @@
 [
   {
+    "description": "Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba",
+    "id": "MMUZAMMUL/AgiForge",
+    "language": "JavaScript",
+    "name": "MMUZAMMUL/AgiForge",
+    "stars": 0,
+    "updated_at": "2026-06-20T20:25:42Z",
+    "url": "https://github.com/MMUZAMMUL/AgiForge"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T19:14:21Z",
     "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
-    "description": "Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba",
-    "id": "MMUZAMMUL/AgiForge",
-    "language": "JavaScript",
-    "name": "MMUZAMMUL/AgiForge",
-    "stars": 0,
-    "updated_at": "2026-06-20T20:09:10Z",
-    "url": "https://github.com/MMUZAMMUL/AgiForge"
   },
   {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
