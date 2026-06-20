@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 12970,
+    "updated_at": "2026-06-20T08:40:12Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-20T08:32:51Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 136,
-    "updated_at": "2026-06-20T07:21:03Z",
+    "updated_at": "2026-06-20T08:36:18Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -306,15 +324,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12969,
-    "updated_at": "2026-06-20T02:43:47Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -331,15 +340,6 @@
     "stars": 21,
     "updated_at": "2026-06-20T01:38:16Z",
     "url": "https://github.com/rzhub/GateMem"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:51:08Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
