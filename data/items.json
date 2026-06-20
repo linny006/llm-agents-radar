@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:22:08Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 3,
+    "updated_at": "2026-06-20T01:16:43Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
     "id": "rzhub/GateMem",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:44:15Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 3,
-    "updated_at": "2026-06-19T23:30:56Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -207,6 +216,15 @@
     "url": "https://github.com/shenmintao/marginalia"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5168,
+    "updated_at": "2026-06-19T18:45:17Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -279,15 +297,6 @@
     "url": "https://github.com/puremachinery/carapace"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5166,
-    "updated_at": "2026-06-19T18:45:17Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -295,15 +304,6 @@
     "stars": 25,
     "updated_at": "2026-06-19T16:16:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-20T00:50:41Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A local-native autonomous agent that plays games \u2014 turn-based, idle, text \u2014 and forms its own memory, opinions, and sens",
