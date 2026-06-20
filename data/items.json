@@ -1,5 +1,41 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-20T07:14:32Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "\u623f\u4ef2\u7b2c\u4e8c\u5927\u8166 \u2014 Hermes-Agent + mem0 + LINE \u7684\u623f\u4ef2 AI \u7b2c\u4e8c\u5927\u8166\uff1bSpec-Driven (STDD\u00d7VDD) + \u53f0\u7063 open data MCP + VM/GKE \u90e8\u7f72",
+    "id": "trionnemesis/AIhouskeeperagent",
+    "language": "Python",
+    "name": "trionnemesis/AIhouskeeperagent",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:09:50Z",
+    "url": "https://github.com/trionnemesis/AIhouskeeperagent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 283,
+    "updated_at": "2026-06-20T07:15:07Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-20T07:02:54Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
     "id": "dannyphantomx64/aether-code",
     "language": "JavaScript",
@@ -117,15 +153,6 @@
     "url": "https://github.com/aureliocpr-ctrl/hippoagent"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-20T06:09:45Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "Manusclaw: Unleash self-reasoning CLI beasts to execute code, browse the web, and dominate tasks \u2014 across 12+ messaging ",
     "id": "ManusAgents/ManusClaw",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T05:52:22Z",
     "url": "https://github.com/j0yen/autobuilder"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-20T05:43:39Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -268,15 +286,6 @@
     "stars": 4333,
     "updated_at": "2026-06-20T03:08:54Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 282,
-    "updated_at": "2026-06-20T06:53:20Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-06-19T18:05:20Z",
     "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 784,
-    "updated_at": "2026-06-19T17:26:34Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
