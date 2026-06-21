@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "kevinchennewbee/PenglaiAgent",
     "stars": 8,
-    "updated_at": "2026-06-21T01:43:58Z",
+    "updated_at": "2026-06-21T02:09:43Z",
     "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "Powered by Deepseek/Qwen/Chatgpt/Gemini. Purely vision recognize and auto UI control AI agent. ",
+    "id": "developer1ab/Pocopaw",
+    "language": "Kotlin",
+    "name": "developer1ab/Pocopaw",
+    "stars": 3,
+    "updated_at": "2026-06-21T02:08:12Z",
+    "url": "https://github.com/developer1ab/Pocopaw"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:07:49Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-21T02:03:28Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -63,15 +90,6 @@
     "url": "https://github.com/Kengston/personal-llm-wiki"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:48:39Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Adversarial agent loops for verifiable vibe researching. Claude Code plugin. Falsification-first, not production-first.",
     "id": "th3vib3coder/vibe-science",
     "language": "JavaScript",
@@ -79,15 +97,6 @@
     "stars": 12,
     "updated_at": "2026-06-20T23:42:13Z",
     "url": "https://github.com/th3vib3coder/vibe-science"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-20T23:37:18Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -355,7 +364,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12975,
+    "stars": 12976,
     "updated_at": "2026-06-20T13:03:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-20T08:04:13Z",
     "url": "https://github.com/FutronPrime/verity-harness"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-06-20T07:34:42Z",
-    "url": "https://github.com/mensfeld/pocketrb"
   }
 ]
