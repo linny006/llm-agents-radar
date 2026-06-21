@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 06:00 UTC
+> ⏰ Last updated: 2026-06-21 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [WAPA0012/cc-loop-engineering](https://github.com/WAPA0012/cc-loop-engineering) | 0 | Shell | 2026-06-21 | Autonomous coding loop engine — solo worker or multi-agent team. GLM-5.2[1m], MCP search, mechanical gate, human-in-the- |
-| 2 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-21 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
-| 3 | [MMUZAMMUL/AgiForge](https://github.com/MMUZAMMUL/AgiForge) | 0 | JavaScript | 2026-06-21 | Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba |
-| 4 | [kargnas/mac-optimizing-looper](https://github.com/kargnas/mac-optimizing-looper) | 0 | Swift | 2026-06-21 | A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri |
-| 5 | [XiaoChu-1208/inner-coordinates](https://github.com/XiaoChu-1208/inner-coordinates) | 1 | Shell | 2026-06-21 | Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-06-21 | Umbrella monorepo for Bodhi AI — a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo |
-| 8 | [KCNyu/clawock](https://github.com/KCNyu/clawock) | 2 | Python | 2026-06-21 | Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a  |
-| 9 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-21 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 10 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | HTML | 2026-06-21 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
-| 11 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-21 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 10 | Go | 2026-06-21 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 2 | [kargnas/mac-optimizing-looper](https://github.com/kargnas/mac-optimizing-looper) | 0 | Swift | 2026-06-21 | A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri |
+| 3 | [WAPA0012/cc-loop-engineering](https://github.com/WAPA0012/cc-loop-engineering) | 0 | Shell | 2026-06-21 | Autonomous coding loop engine — solo worker or multi-agent team. GLM-5.2[1m], MCP search, mechanical gate, human-in-the- |
+| 4 | [peijin0405/scout-agent](https://github.com/peijin0405/scout-agent) | 0 | Python | 2026-06-21 | AI agent that automates interview scheduling — from sending invites to calendar-confirmed bookings, powered by Claude to |
+| 5 | [MMUZAMMUL/AgiForge](https://github.com/MMUZAMMUL/AgiForge) | 0 | JavaScript | 2026-06-21 | Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba |
+| 6 | [XiaoChu-1208/inner-coordinates](https://github.com/XiaoChu-1208/inner-coordinates) | 1 | Shell | 2026-06-21 | Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-06-21 | Umbrella monorepo for Bodhi AI — a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo |
+| 9 | [KCNyu/clawock](https://github.com/KCNyu/clawock) | 2 | Python | 2026-06-21 | Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a  |
+| 10 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-21 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 11 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | HTML | 2026-06-21 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
 | 12 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 136 | TypeScript | 2026-06-21 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 13 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-21 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 14 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5177 | Python | 2026-06-21 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [betmoar/cc-repete-plugin](https://github.com/betmoar/cc-repete-plugin) | 0 | Shell | 2026-06-20 | Self-evolving autonomous loops for Claude Code. A Stop-hook engine that iterates an agent toward a verifiable goal — evo |
 | 48 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 43 | Rust | 2026-06-20 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
 | 49 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 0 | Python | 2026-06-20 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 50 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12977 | Python | 2026-06-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 50 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 12978 | Python | 2026-06-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 <!-- TRACKER_TABLE_END -->
 
 ---
