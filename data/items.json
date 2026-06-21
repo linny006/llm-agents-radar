@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-21T05:41:09Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:40:23Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:42:31Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-06-21T05:38:23Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "HTML",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:38:20Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-21T05:36:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u81ea\u4e3b\u5faa\u73af\u7f16\u7801\u5f15\u64ce \u2014 \u4e00\u4e2a worker \u5168\u6743\u5904\u7406\u4efb\u52a1\uff08solo\uff09\uff0c\u6216\u591a\u89d2\u8272\u534f\u4f5c\uff08team\uff09\u3002\u652f\u6301 GLM-5.2[1m]\u3001MCP \u641c\u7d22\u3001\u673a\u68b0\u9a8c\u8bc1 gate\u3001\u4eba\u673a\u534f\u4f5c\u3002",
+    "id": "WAPA0012/cc-loop",
+    "language": "Shell",
+    "name": "WAPA0012/cc-loop",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:32:22Z",
+    "url": "https://github.com/WAPA0012/cc-loop"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -18,15 +81,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
-    "id": "XiaoChu-1208/inner-coordinates",
-    "language": "Shell",
-    "name": "XiaoChu-1208/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:22:14Z",
-    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
-  },
-  {
     "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
     "id": "kargnas/mac-optimizing-looper",
     "language": "Swift",
@@ -36,15 +90,6 @@
     "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "HTML",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:00:28Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
     "description": "Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba",
     "id": "MMUZAMMUL/AgiForge",
     "language": "JavaScript",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:17:48Z",
     "url": "https://github.com/MMUZAMMUL/AgiForge"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:26:15Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -115,15 +151,6 @@
     "stars": 8,
     "updated_at": "2026-06-21T05:07:59Z",
     "url": "https://github.com/kevinchennewbee/PenglaiAgent"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:22:19Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -414,15 +441,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-20T20:04:00Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 283,
     "updated_at": "2026-06-20T12:06:24Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-06-20T11:41:08Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Reflection/judge layer for OpenCode & Claude Code \u2014 catches premature stops, enforces workflow gates (tests, CI, PRs). 7",
-    "id": "dzianisv/opencode-plugins",
-    "language": "TypeScript",
-    "name": "dzianisv/opencode-plugins",
-    "stars": 9,
-    "updated_at": "2026-06-20T10:38:37Z",
-    "url": "https://github.com/dzianisv/opencode-plugins"
   }
 ]
