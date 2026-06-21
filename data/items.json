@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T19:55:19Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-21T19:50:24Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
+    "id": "KazKozDev/langgraph-self-evolving-agent",
+    "language": "Python",
+    "name": "KazKozDev/langgraph-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-06-21T19:48:37Z",
+    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-21T19:46:21Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "This Chatbot helps farmers make informed decisions by leveraging the power of LLM Model from OpenAI.",
     "id": "mohammed97ashraf/LLM_Agri_Bot",
     "language": "Python",
@@ -369,15 +405,6 @@
     "url": "https://github.com/Jssu8541/ouro-loop"
   },
   {
-    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
-    "id": "KazKozDev/langgraph-self-evolving-agent",
-    "language": "Python",
-    "name": "KazKozDev/langgraph-self-evolving-agent",
-    "stars": 1,
-    "updated_at": "2026-06-21T18:02:31Z",
-    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
-  },
-  {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
     "id": "mriazi1982/octopai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T17:56:47Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:55:45Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:52:56Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-21T17:52:16Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
