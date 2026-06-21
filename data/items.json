@@ -1,12 +1,21 @@
 [
   {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
-    "id": "kargnas/mac-optimizing-looper",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizing-looper",
-    "stars": 0,
-    "updated_at": "2026-06-21T05:13:06Z",
-    "url": "https://github.com/kargnas/mac-optimizing-looper"
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-21T05:26:33Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-21T05:22:14Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
@@ -14,8 +23,17 @@
     "language": "Shell",
     "name": "XiaoChu-1208/inner-coordinates",
     "stars": 1,
-    "updated_at": "2026-06-21T05:10:49Z",
+    "updated_at": "2026-06-21T05:22:14Z",
     "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 0,
+    "updated_at": "2026-06-21T05:24:47Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -32,7 +50,7 @@
     "language": "JavaScript",
     "name": "MMUZAMMUL/AgiForge",
     "stars": 0,
-    "updated_at": "2026-06-21T04:55:59Z",
+    "updated_at": "2026-06-21T05:17:48Z",
     "url": "https://github.com/MMUZAMMUL/AgiForge"
   },
   {
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-21T04:42:36Z",
+    "updated_at": "2026-06-21T05:26:15Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/labsin-uncuyo/Trident"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-20T20:30:28Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-20T10:38:37Z",
     "url": "https://github.com/dzianisv/opencode-plugins"
-  },
-  {
-    "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
-    "id": "dannyphantomx64/aether-code",
-    "language": "JavaScript",
-    "name": "dannyphantomx64/aether-code",
-    "stars": 2,
-    "updated_at": "2026-06-20T10:05:37Z",
-    "url": "https://github.com/dannyphantomx64/aether-code"
   }
 ]
