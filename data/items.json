@@ -1,5 +1,23 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5175,
+    "updated_at": "2026-06-21T04:27:00Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-21T04:23:12Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
     "id": "hejun789/docintel",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-06-21T04:00:27Z",
     "url": "https://github.com/developer1ab/Pocopaw"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-21T03:52:37Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -230,7 +239,7 @@
     "language": "JavaScript",
     "name": "MMUZAMMUL/AgiForge",
     "stars": 0,
-    "updated_at": "2026-06-20T20:25:42Z",
+    "updated_at": "2026-06-21T04:18:52Z",
     "url": "https://github.com/MMUZAMMUL/AgiForge"
   },
   {
@@ -320,17 +329,8 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2678,
-    "updated_at": "2026-06-20T16:06:59Z",
+    "updated_at": "2026-06-21T04:16:05Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5175,
-    "updated_at": "2026-06-20T15:44:22Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Octomind Agents Registry",
@@ -446,7 +446,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-21T03:58:13Z",
+    "updated_at": "2026-06-21T04:29:12Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   }
 ]
