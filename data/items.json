@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-21T02:28:32Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
     "id": "kevinchennewbee/PenglaiAgent",
     "language": "Python",
     "name": "kevinchennewbee/PenglaiAgent",
     "stars": 8,
-    "updated_at": "2026-06-21T02:09:43Z",
+    "updated_at": "2026-06-21T02:20:48Z",
     "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Kotlin",
     "name": "developer1ab/Pocopaw",
     "stars": 3,
-    "updated_at": "2026-06-21T02:08:12Z",
+    "updated_at": "2026-06-21T02:17:55Z",
     "url": "https://github.com/developer1ab/Pocopaw"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T02:03:28Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-21T01:45:09Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
