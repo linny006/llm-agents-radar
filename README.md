@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 02:45 UTC
+> ⏰ Last updated: 2026-06-21 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kevinchennewbee/PenglaiAgent](https://github.com/kevinchennewbee/PenglaiAgent) | 8 | Python | 2026-06-21 | 蓬莱 Penglai — 住在你飞书和微信里的中文 AI 管家 · Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched) |
-| 2 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-21 | AI-powered image generation and chat studio |
+| 1 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 2 | TypeScript | 2026-06-21 | AI-powered image generation and chat studio |
+| 2 | [kevinchennewbee/PenglaiAgent](https://github.com/kevinchennewbee/PenglaiAgent) | 8 | Python | 2026-06-21 | 蓬莱 Penglai — 住在你飞书和微信里的中文 AI 管家 · Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched) |
 | 3 | [developer1ab/Pocopaw](https://github.com/developer1ab/Pocopaw) | 3 | Kotlin | 2026-06-21 | Powered by Deepseek/Qwen/Chatgpt/Gemini. Purely vision recognize and auto UI control AI agent.  |
 | 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
