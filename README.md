@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-21 00:45 UTC
+> ⏰ Last updated: 2026-06-21 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-06-20 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 21 | [MMUZAMMUL/AgiForge](https://github.com/MMUZAMMUL/AgiForge) | 0 | JavaScript | 2026-06-20 | Free Multi agent AI  platform orchestrating 247 specialized agents across 16 domains with multi-agent pipelines, AI deba |
 | 22 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 4 | Rust | 2026-06-20 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
-| 23 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-20 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 23 | [gptme/gptme](https://github.com/gptme/gptme) | 4332 | Python | 2026-06-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 24 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 77 | TypeScript | 2026-06-20 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 25 | [XiaoChu-1208/inner-coordinates](https://github.com/XiaoChu-1208/inner-coordinates) | 1 | Shell | 2026-06-20 | Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk |
 | 26 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 357 | Go | 2026-06-20 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
