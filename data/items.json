@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-06-21T22:14:58Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-21T22:13:01Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 5,
+    "updated_at": "2026-06-21T22:11:33Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T22:11:21Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
+    "id": "shoal-rat/astra-ksp",
+    "language": "Python",
+    "name": "shoal-rat/astra-ksp",
+    "stars": 1,
+    "updated_at": "2026-06-21T22:06:22Z",
+    "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T22:04:58Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-21T22:04:06Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-21T22:02:26Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-06-21T21:58:13Z",
+    "updated_at": "2026-06-21T22:00:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T21:56:11Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-21T21:56:02Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T20:44:03Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Easy-to-use, high-efficiency threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:43:41Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-21T20:43:27Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:42:35Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-21T20:41:15Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:39:55Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-21T20:39:14Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-21T20:39:01Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
