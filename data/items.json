@@ -1,5 +1,41 @@
 [
   {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:07:25Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
+  },
+  {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-06-21T07:05:55Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:05:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-21T07:02:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
     "id": "sandydasari/openacme",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "JavaScript",
     "name": "MMUZAMMUL/AgiForge",
     "stars": 0,
-    "updated_at": "2026-06-21T06:53:24Z",
+    "updated_at": "2026-06-21T07:13:21Z",
     "url": "https://github.com/MMUZAMMUL/AgiForge"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-06-21T06:52:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
-    "id": "kargnas/mac-optimizing-looper",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizing-looper",
-    "stars": 0,
-    "updated_at": "2026-06-21T06:43:05Z",
-    "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T05:54:49Z",
     "url": "https://github.com/WAPA0012/cc-loop-engineering"
-  },
-  {
-    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
-    "id": "XiaoChu-1208/inner-coordinates",
-    "language": "Shell",
-    "name": "XiaoChu-1208/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-06-21T05:48:54Z",
-    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -196,24 +214,6 @@
     "stars": 4333,
     "updated_at": "2026-06-21T03:10:40Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:07:49Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-21T02:03:28Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
