@@ -1,11 +1,47 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:42:57Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:37:55Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:33:48Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
+    "id": "BiBoyang/ForgeLoop",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoop",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:32:31Z",
+    "url": "https://github.com/BiBoyang/ForgeLoop"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4333,
-    "updated_at": "2026-06-21T09:29:49Z",
+    "updated_at": "2026-06-21T09:31:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "puristajs/harness",
     "stars": 5,
-    "updated_at": "2026-06-21T09:30:12Z",
+    "updated_at": "2026-06-21T09:31:46Z",
     "url": "https://github.com/puristajs/harness"
   },
   {
@@ -193,7 +229,7 @@
     "id": "kargnas/mac-optimizing-looper",
     "language": "Swift",
     "name": "kargnas/mac-optimizing-looper",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-06-21T07:07:25Z",
     "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
@@ -369,15 +405,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Swift coding-agent project with layered architecture, streaming, tool execution, and cancellation semantics.",
-    "id": "BiBoyang/ForgeLoop",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoop",
-    "stars": 0,
-    "updated_at": "2026-06-20T22:31:04Z",
-    "url": "https://github.com/BiBoyang/ForgeLoop"
-  },
-  {
     "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
     "id": "yakeworld/Synthos",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-06-20T19:12:32Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 357,
-    "updated_at": "2026-06-20T17:47:07Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 0,
-    "updated_at": "2026-06-20T17:12:05Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Self-hosted AI agent for safe LLM workflows: approvals, receipts, budget controls, local dashboard, CLI, Ollama, and MCP",
-    "id": "omarkhandji-commits/midas",
-    "language": "Python",
-    "name": "omarkhandji-commits/midas",
-    "stars": 1,
-    "updated_at": "2026-06-20T16:44:13Z",
-    "url": "https://github.com/omarkhandji-commits/midas"
   }
 ]
