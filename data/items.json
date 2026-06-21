@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-21T03:52:37Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -45,15 +54,6 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-21T03:43:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Powered by Deepseek/Qwen/Chatgpt/Gemini. Purely vision recognize and auto UI control AI agent. ",
     "id": "developer1ab/Pocopaw",
     "language": "Kotlin",
@@ -86,7 +86,7 @@
     "language": "Shell",
     "name": "hoshiyomiX/stellar-trails",
     "stars": 0,
-    "updated_at": "2026-06-21T00:33:02Z",
+    "updated_at": "2026-06-21T03:50:48Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
@@ -382,7 +382,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 12976,
+    "stars": 12977,
     "updated_at": "2026-06-20T13:03:40Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -437,7 +437,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-21T03:28:43Z",
+    "updated_at": "2026-06-21T03:58:13Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
