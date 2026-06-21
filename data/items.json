@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
+    "id": "hejun789/docintel",
+    "language": "Python",
+    "name": "hejun789/docintel",
+    "stars": 1,
+    "updated_at": "2026-06-21T04:08:05Z",
+    "url": "https://github.com/hejun789/docintel"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-06-21T04:02:49Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Powered by Deepseek/Qwen/Chatgpt/Gemini. Purely vision recognize and auto UI control AI agent. ",
+    "id": "developer1ab/Pocopaw",
+    "language": "Kotlin",
+    "name": "developer1ab/Pocopaw",
+    "stars": 3,
+    "updated_at": "2026-06-21T04:00:27Z",
+    "url": "https://github.com/developer1ab/Pocopaw"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -54,15 +81,6 @@
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
   },
   {
-    "description": "Powered by Deepseek/Qwen/Chatgpt/Gemini. Purely vision recognize and auto UI control AI agent. ",
-    "id": "developer1ab/Pocopaw",
-    "language": "Kotlin",
-    "name": "developer1ab/Pocopaw",
-    "stars": 3,
-    "updated_at": "2026-06-21T02:17:55Z",
-    "url": "https://github.com/developer1ab/Pocopaw"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-21T02:03:28Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-06-21T03:50:48Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-21T03:58:13Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-20T23:14:08Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   }
 ]
