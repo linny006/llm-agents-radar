@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
+    "id": "Kengston/personal-llm-wiki",
+    "language": "TypeScript",
+    "name": "Kengston/personal-llm-wiki",
+    "stars": 1,
+    "updated_at": "2026-06-21T00:11:53Z",
+    "url": "https://github.com/Kengston/personal-llm-wiki"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 4,
-    "updated_at": "2026-06-20T23:56:44Z",
+    "updated_at": "2026-06-21T00:10:59Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -121,7 +130,7 @@
     "id": "yakeworld/Synthos",
     "language": "Python",
     "name": "yakeworld/Synthos",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-06-20T22:15:29Z",
     "url": "https://github.com/yakeworld/Synthos"
   },
@@ -205,15 +214,6 @@
     "stars": 77,
     "updated_at": "2026-06-20T18:41:31Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
-    "id": "Kengston/personal-llm-wiki",
-    "language": "TypeScript",
-    "name": "Kengston/personal-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-06-20T23:56:26Z",
-    "url": "https://github.com/Kengston/personal-llm-wiki"
   },
   {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
