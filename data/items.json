@@ -1,5 +1,23 @@
 [
   {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1501,
+    "updated_at": "2026-06-21T07:44:42Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 43,
+    "updated_at": "2026-06-21T07:33:19Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
     "id": "XiaoChu-1208/inner-coordinates",
     "language": "Shell",
@@ -50,7 +68,7 @@
     "language": "JavaScript",
     "name": "MMUZAMMUL/AgiForge",
     "stars": 0,
-    "updated_at": "2026-06-21T07:13:21Z",
+    "updated_at": "2026-06-21T07:34:26Z",
     "url": "https://github.com/MMUZAMMUL/AgiForge"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/betmoar/cc-repete-plugin"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 43,
-    "updated_at": "2026-06-20T13:47:12Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T13:15:46Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 12979,
-    "updated_at": "2026-06-20T13:03:40Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
