@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 171,
+    "updated_at": "2026-06-21T09:11:50Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
     "id": "XiaoChu-1208/inner-coordinates",
     "language": "Shell",
@@ -252,15 +261,6 @@
     "url": "https://github.com/developer1ab/Pocopaw"
   },
   {
-    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
-    "id": "Shiyao-Huang/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "Shiyao-Huang/awesome-agent-evolution",
-    "stars": 171,
-    "updated_at": "2026-06-21T03:14:51Z",
-    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2678,
-    "updated_at": "2026-06-21T04:16:05Z",
+    "updated_at": "2026-06-21T09:09:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
