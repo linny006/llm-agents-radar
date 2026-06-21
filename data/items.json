@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:14:10Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:12:49Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: g",
+    "id": "MADEVAL/RankWise",
+    "language": "\u2014",
+    "name": "MADEVAL/RankWise",
+    "stars": 0,
+    "updated_at": "2026-06-21T17:12:44Z",
+    "url": "https://github.com/MADEVAL/RankWise"
+  },
+  {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-06-21T17:07:42Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-21T17:05:33Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-21T17:00:10Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-21T15:39:39Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
-    "id": "XiaoChu-1208/inner-coordinates",
-    "language": "Shell",
-    "name": "XiaoChu-1208/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:39:13Z",
-    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:38:44Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-21T15:38:33Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:37:35Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-21T15:34:57Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-21T15:34:09Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
