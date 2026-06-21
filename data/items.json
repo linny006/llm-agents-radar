@@ -1,5 +1,95 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4333,
+    "updated_at": "2026-06-21T09:29:49Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:29:49Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-21T09:30:12Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 136,
+    "updated_at": "2026-06-21T09:28:24Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-21T09:25:21Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-21T09:19:00Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:18:13Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-21T09:17:48Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-21T09:17:40Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-21T09:16:28Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -18,24 +108,6 @@
     "url": "https://github.com/XiaoChu-1208/inner-coordinates"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 136,
-    "updated_at": "2026-06-21T08:33:20Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-21T08:30:27Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T08:14:43Z",
     "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-06-21T09:04:17Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -106,15 +169,6 @@
     "stars": 10,
     "updated_at": "2026-06-21T07:54:46Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-21T07:51:25Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "GateMem: a benchmark and evaluation toolkit for memory governance in multi-principal shared-memory LLM agents.",
@@ -261,21 +315,12 @@
     "url": "https://github.com/developer1ab/Pocopaw"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4333,
-    "updated_at": "2026-06-21T03:10:40Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 4,
-    "updated_at": "2026-06-21T00:26:16Z",
+    "updated_at": "2026-06-21T09:22:29Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-20T16:44:13Z",
     "url": "https://github.com/omarkhandji-commits/midas"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 25,
-    "updated_at": "2026-06-20T16:13:39Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2678,
-    "updated_at": "2026-06-21T09:09:38Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Octomind Agents Registry",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-06-20T15:07:18Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-20T14:50:28Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
-    "id": "frissonitte/wbc-analyzer",
-    "language": "Python",
-    "name": "frissonitte/wbc-analyzer",
-    "stars": 1,
-    "updated_at": "2026-06-20T14:33:22Z",
-    "url": "https://github.com/frissonitte/wbc-analyzer"
   }
 ]
