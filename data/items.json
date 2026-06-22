@@ -1,5 +1,23 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-22T22:18:44Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6237,
+    "updated_at": "2026-06-22T22:12:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Build a local autonomous coding agent on your computer using NVIDIA NIM APIs to write code and control your browser.",
     "id": "meridelstern626/AgentStudio",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T22:11:47Z",
     "url": "https://github.com/meridelstern626/AgentStudio"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6236,
-    "updated_at": "2026-06-22T22:12:37Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 786,
-    "updated_at": "2026-06-22T22:07:38Z",
+    "updated_at": "2026-06-22T22:29:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T22:06:24Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-22T22:06:16Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -338,7 +338,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-22T21:40:27Z",
+    "updated_at": "2026-06-22T22:24:10Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
