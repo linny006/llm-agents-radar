@@ -1,12 +1,120 @@
 [
   {
+    "description": "\u4e00\u4e2a agent skill\uff08\u4efb\u4f55 AI agent \u90fd\u80fd\u7528\uff09\uff1a\u628a\u4f60\u7ed9\u7684 Instagram Reel \u94fe\u63a5\u81ea\u52a8\u4e0b\u8f7d\u3001\u7ffb\u8bd1\u6587\u6848\u3001\u8f6c\u8f7d\u5230 B \u7ad9\uff08\u542b\u4e0a\u4f20\u540e\u9a8c\u771f\uff09\u3002\u4f60\u7ed9\u94fe\u63a5\u5b83\u5c31\u529e\u2014\u2014\u4e0d\u6293\u53d6\u3001\u4e0d\u7b5b\u9009\u3001\u4e0d\u53bb\u91cd\u3002",
+    "id": "ArvinYin1/ig-link-bili-skill",
+    "language": "Python",
+    "name": "ArvinYin1/ig-link-bili-skill",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:44:33Z",
+    "url": "https://github.com/ArvinYin1/ig-link-bili-skill"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:44:17Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-22T15:27:28Z",
+    "updated_at": "2026-06-22T15:43:15Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:42:56Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:41:46Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6232,
+    "updated_at": "2026-06-22T15:40:48Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:39:50Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:38:03Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 206,
+    "updated_at": "2026-06-22T15:37:18Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-22T15:39:56Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:34:19Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:33:08Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:31:26Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -16,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-22T15:26:31Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\u4e00\u4e2a agent skill\uff08\u4efb\u4f55 AI agent \u90fd\u80fd\u7528\uff09\uff1a\u628a\u4f60\u7ed9\u7684 Instagram Reel \u94fe\u63a5\u81ea\u52a8\u4e0b\u8f7d\u3001\u7ffb\u8bd1\u6587\u6848\u3001\u8f6c\u8f7d\u5230 B \u7ad9\uff08\u542b\u4e0a\u4f20\u540e\u9a8c\u771f\uff09\u3002\u4f60\u7ed9\u94fe\u63a5\u5b83\u5c31\u529e\u2014\u2014\u4e0d\u6293\u53d6\u3001\u4e0d\u7b5b\u9009\u3001\u4e0d\u53bb\u91cd\u3002",
-    "id": "ArvinYin1/ig-link-bili-skill",
-    "language": "Python",
-    "name": "ArvinYin1/ig-link-bili-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T15:24:53Z",
-    "url": "https://github.com/ArvinYin1/ig-link-bili-skill"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -88,15 +187,6 @@
     "stars": 259,
     "updated_at": "2026-06-22T15:05:25Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 2,
-    "updated_at": "2026-06-22T15:03:31Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "",
@@ -171,15 +261,6 @@
     "url": "https://github.com/DivyanshuVortex/vortex"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-06-22T14:38:17Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -225,15 +306,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6231,
-    "updated_at": "2026-06-22T14:01:46Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:53:45Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 786,
-    "updated_at": "2026-06-22T15:22:13Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Control Google Jules from LLM agents with a reusable skill, API helper, and ops guides.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:42:35Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-06-22T12:36:56Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 3,
-    "updated_at": "2026-06-22T12:35:02Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:34:49Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-22T12:33:27Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:31:01Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:30:04Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:27:32Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
