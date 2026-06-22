@@ -1,5 +1,23 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:53:45Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-22T13:58:22Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Control Google Jules from LLM agents with a reusable skill, API helper, and ops guides.",
     "id": "Hanjo92/google-jules-skill",
     "language": "Python",
@@ -67,18 +85,9 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2692,
+    "stars": 2693,
     "updated_at": "2026-06-22T13:24:08Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 786,
-    "updated_at": "2026-06-22T13:40:24Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4334,
-    "updated_at": "2026-06-22T12:54:15Z",
+    "updated_at": "2026-06-22T13:57:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-22T11:58:30Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 43,
-    "updated_at": "2026-06-22T11:57:45Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
