@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
+    "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-06-21T23:35:37Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+    "updated_at": "2026-06-22T00:00:02Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-21T23:57:16Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "shoal-rat/astra-ksp",
     "stars": 1,
-    "updated_at": "2026-06-21T23:31:57Z",
+    "updated_at": "2026-06-21T23:56:20Z",
     "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
+    "id": "blckaddr/spring-ai-agent-by-example",
+    "language": "Java",
+    "name": "blckaddr/spring-ai-agent-by-example",
+    "stars": 0,
+    "updated_at": "2026-06-21T23:50:50Z",
+    "url": "https://github.com/blckaddr/spring-ai-agent-by-example"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-21T23:35:37Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -342,15 +369,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-21T22:48:29Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-21T22:42:18Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
-    "id": "blckaddr/spring-ai-agent-by-example",
-    "language": "Java",
-    "name": "blckaddr/spring-ai-agent-by-example",
-    "stars": 0,
-    "updated_at": "2026-06-21T22:41:39Z",
-    "url": "https://github.com/blckaddr/spring-ai-agent-by-example"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-21T22:40:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
