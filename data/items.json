@@ -1,5 +1,68 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:27:28Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:26:31Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\u4e00\u4e2a agent skill\uff08\u4efb\u4f55 AI agent \u90fd\u80fd\u7528\uff09\uff1a\u628a\u4f60\u7ed9\u7684 Instagram Reel \u94fe\u63a5\u81ea\u52a8\u4e0b\u8f7d\u3001\u7ffb\u8bd1\u6587\u6848\u3001\u8f6c\u8f7d\u5230 B \u7ad9\uff08\u542b\u4e0a\u4f20\u540e\u9a8c\u771f\uff09\u3002\u4f60\u7ed9\u94fe\u63a5\u5b83\u5c31\u529e\u2014\u2014\u4e0d\u6293\u53d6\u3001\u4e0d\u7b5b\u9009\u3001\u4e0d\u53bb\u91cd\u3002",
+    "id": "ArvinYin1/ig-link-bili-skill",
+    "language": "Python",
+    "name": "ArvinYin1/ig-link-bili-skill",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:24:53Z",
+    "url": "https://github.com/ArvinYin1/ig-link-bili-skill"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-22T15:21:22Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:18:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-22T15:17:04Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-22T15:15:33Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 259,
     "updated_at": "2026-06-22T15:05:25Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-22T15:05:09Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
   },
   {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
@@ -194,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 786,
-    "updated_at": "2026-06-22T15:02:13Z",
+    "updated_at": "2026-06-22T15:22:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:27:32Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:29:13Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:26:53Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:26:36Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:25:13Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-22T12:17:44Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:15:30Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   }
 ]
