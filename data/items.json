@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u041d\u0430\u0431\u043e\u0440 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 Claude Code: \u0441\u043a\u0432\u043e\u0437\u043d\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044f \u043e\u0431\u043b\u0438\u0433\u0430\u0446\u0438\u0439 \u0420\u0424 \u2014 \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0431\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043e\u0442\u0447\u0451\u0442\u043e\u0432 (\u0422\u0411\u0430\u043d\u043a/\u0410\u043b\u044c\u0444\u0430/\u0421\u0431\u0435\u0440), \u0440\u0435\u0441\u0451\u0440\u0447",
+    "id": "TimurTsedik/ru-market-analyst",
+    "language": "\u2014",
+    "name": "TimurTsedik/ru-market-analyst",
+    "stars": 1,
+    "updated_at": "2026-06-22T09:29:30Z",
+    "url": "https://github.com/TimurTsedik/ru-market-analyst"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-22T09:26:33Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI-powered customer support platform for e-commerce, with a React frontend,   NestJS backend, Supabase persistence, admi",
+    "id": "amlaksil/shopassist-ai",
+    "language": "TypeScript",
+    "name": "amlaksil/shopassist-ai",
+    "stars": 0,
+    "updated_at": "2026-06-22T09:22:32Z",
+    "url": "https://github.com/amlaksil/shopassist-ai"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 786,
-    "updated_at": "2026-06-22T09:15:06Z",
+    "updated_at": "2026-06-22T09:21:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T08:13:40Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "AI-powered customer support platform for e-commerce, with a React frontend,   NestJS backend, Supabase persistence, admi",
-    "id": "amlaksil/shopassist-ai",
-    "language": "TypeScript",
-    "name": "amlaksil/shopassist-ai",
-    "stars": 0,
-    "updated_at": "2026-06-22T08:13:18Z",
-    "url": "https://github.com/amlaksil/shopassist-ai"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-22T08:13:00Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-22T08:06:32Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
