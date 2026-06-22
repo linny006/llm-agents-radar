@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-22 04:45 UTC
+> ⏰ Last updated: 2026-06-22 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,7 +43,7 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5182 | Python | 2026-06-22 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27054 | Python | 2026-06-22 | Build and run agents you can see, understand and trust. |
+| 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27055 | Python | 2026-06-22 | Build and run agents you can see, understand and trust. |
 | 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 4 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-06-22 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
 | 5 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 13 | Python | 2026-06-22 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
