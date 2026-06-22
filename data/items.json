@@ -1,5 +1,32 @@
 [
   {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-22T00:12:40Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
+    "id": "blckaddr/spring-ai-agent-by-example",
+    "language": "Java",
+    "name": "blckaddr/spring-ai-agent-by-example",
+    "stars": 0,
+    "updated_at": "2026-06-22T00:07:33Z",
+    "url": "https://github.com/blckaddr/spring-ai-agent-by-example"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 4,
+    "updated_at": "2026-06-22T00:05:16Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,15 +54,6 @@
     "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
-    "description": "A Spring AI + MCP agent built phase by phase \u2014 a hands-on lesson in how agentic tool-calling loops really work: recovery",
-    "id": "blckaddr/spring-ai-agent-by-example",
-    "language": "Java",
-    "name": "blckaddr/spring-ai-agent-by-example",
-    "stars": 0,
-    "updated_at": "2026-06-21T23:50:50Z",
-    "url": "https://github.com/blckaddr/spring-ai-agent-by-example"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -52,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-06-21T23:28:40Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 2,
-    "updated_at": "2026-06-21T23:24:04Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 4,
-    "updated_at": "2026-06-21T23:23:33Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
