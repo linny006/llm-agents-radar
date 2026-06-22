@@ -1,5 +1,59 @@
 [
   {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-06-22T16:14:05Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6232,
+    "updated_at": "2026-06-22T16:14:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-22T16:12:49Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-22T16:12:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-06-22T16:09:57Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-22T16:09:10Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
     "id": "KCNyu/clawock",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T15:58:40Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6232,
-    "updated_at": "2026-06-22T15:56:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-22T14:08:58Z",
+    "updated_at": "2026-06-22T16:09:32Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T13:53:45Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Control Google Jules from LLM agents with a reusable skill, API helper, and ops guides.",
-    "id": "Hanjo92/google-jules-skill",
-    "language": "Python",
-    "name": "Hanjo92/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:39:24Z",
-    "url": "https://github.com/Hanjo92/google-jules-skill"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-22T13:35:54Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
-    "id": "Lyz103/LLM-Agent-Paper-daily",
-    "language": "Python",
-    "name": "Lyz103/LLM-Agent-Paper-daily",
-    "stars": 20,
-    "updated_at": "2026-06-22T13:35:17Z",
-    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
-  },
-  {
-    "description": "Typed Kotlin DSL framework for AI agent systems.",
-    "id": "Deep-CodeAI/Agents.KT",
-    "language": "Kotlin",
-    "name": "Deep-CodeAI/Agents.KT",
-    "stars": 12,
-    "updated_at": "2026-06-22T14:24:05Z",
-    "url": "https://github.com/Deep-CodeAI/Agents.KT"
-  },
-  {
-    "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
-    "id": "hejun789/docintel",
-    "language": "Python",
-    "name": "hejun789/docintel",
-    "stars": 1,
-    "updated_at": "2026-06-22T13:32:53Z",
-    "url": "https://github.com/hejun789/docintel"
   }
 ]
