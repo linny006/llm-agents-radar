@@ -1,5 +1,104 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-06-22T18:29:03Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-06-22T18:28:01Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-22T18:27:47Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
+    "id": "shoal-rat/astra-ksp",
+    "language": "Python",
+    "name": "shoal-rat/astra-ksp",
+    "stars": 1,
+    "updated_at": "2026-06-22T18:26:04Z",
+    "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6234,
+    "updated_at": "2026-06-22T18:30:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-22T18:22:31Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-22T18:18:12Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 17,
+    "updated_at": "2026-06-22T18:17:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 4,
+    "updated_at": "2026-06-22T18:17:17Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-22T18:17:15Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 1,
+    "updated_at": "2026-06-22T18:15:29Z",
+    "url": "https://github.com/Yanu403/digital-mate"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -90,24 +189,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 1,
-    "updated_at": "2026-06-22T17:51:47Z",
-    "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6234,
-    "updated_at": "2026-06-22T18:14:10Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -169,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-06-22T17:31:51Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
-    "id": "shoal-rat/astra-ksp",
-    "language": "Python",
-    "name": "shoal-rat/astra-ksp",
-    "stars": 1,
-    "updated_at": "2026-06-22T17:30:56Z",
-    "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -306,15 +378,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-22T18:10:14Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -369,15 +432,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:41:55Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-22T16:36:57Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:36:00Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
-    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "language": "Python",
-    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
-    "stars": 1,
-    "updated_at": "2026-06-22T16:35:17Z",
-    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:34:29Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:33:54Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-06-22T16:33:37Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-22T16:33:33Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
   }
 ]
