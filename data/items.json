@@ -1,11 +1,56 @@
 [
   {
+    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
+    "id": "DivyanshuVortex/vortex",
+    "language": "TypeScript",
+    "name": "DivyanshuVortex/vortex",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:24:38Z",
+    "url": "https://github.com/DivyanshuVortex/vortex"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2691,
+    "updated_at": "2026-06-22T13:24:08Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-22T13:22:29Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6230,
+    "updated_at": "2026-06-22T13:27:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
+    "language": "Python",
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-06-22T13:20:06Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
+  },
+  {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
     "id": "bitranox/vnc-remote-control",
     "language": "Python",
     "name": "bitranox/vnc-remote-control",
     "stars": 0,
-    "updated_at": "2026-06-22T13:14:36Z",
+    "updated_at": "2026-06-22T13:18:12Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "Dr1mH4X/TeamSpeakClaw",
     "stars": 4,
-    "updated_at": "2026-06-22T13:11:56Z",
+    "updated_at": "2026-06-22T13:26:39Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
@@ -27,15 +72,6 @@
     "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 786,
-    "updated_at": "2026-06-22T13:02:38Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -45,21 +81,12 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Safe execution harness for LLM agents operating on local workspaces.",
-    "id": "zhangyi-nb1/localflow",
-    "language": "Python",
-    "name": "zhangyi-nb1/localflow",
-    "stars": 0,
-    "updated_at": "2026-06-22T12:51:12Z",
-    "url": "https://github.com/zhangyi-nb1/localflow"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-22T13:15:13Z",
+    "updated_at": "2026-06-22T13:29:59Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-22T12:43:22Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2690,
-    "updated_at": "2026-06-22T13:08:08Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 0,
-    "updated_at": "2026-06-22T12:36:06Z",
+    "updated_at": "2026-06-22T13:27:32Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T11:44:46Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-22T11:44:34Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-22T11:43:24Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
