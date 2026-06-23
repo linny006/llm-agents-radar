@@ -1,12 +1,12 @@
 [
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
     "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 2,
-    "updated_at": "2026-06-23T15:44:10Z",
-    "url": "https://github.com/KCNyu/clawock"
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-06-23T15:56:00Z",
+    "url": "https://github.com/Wenri/TaskSolver"
   },
   {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 17,
-    "updated_at": "2026-06-23T15:42:10Z",
+    "updated_at": "2026-06-23T15:54:19Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-23T15:50:34Z",
+    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-23T14:32:28Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-23T14:31:16Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
