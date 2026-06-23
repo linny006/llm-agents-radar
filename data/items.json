@@ -1,11 +1,20 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-06-23T21:09:56Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "The consciousness engine for The Obelisk \ud83e\udde0",
     "id": "ohnodev/obelisk-core",
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-23T20:59:38Z",
+    "updated_at": "2026-06-23T21:07:42Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T19:41:15Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-06-23T19:40:22Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
