@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-23T05:44:12Z",
+    "updated_at": "2026-06-23T05:52:17Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-23T05:47:00Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
@@ -16,15 +25,6 @@
     "stars": 10,
     "updated_at": "2026-06-23T05:42:55Z",
     "url": "https://github.com/theunstopabble/SwadKart"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-23T05:35:46Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
