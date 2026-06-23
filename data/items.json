@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-23T13:27:29Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A-MEM memory plugin for OpenClaw \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval & LLM evolution",
+    "id": "heichaowo/openclaw-amem",
+    "language": "TypeScript",
+    "name": "heichaowo/openclaw-amem",
+    "stars": 1,
+    "updated_at": "2026-06-23T13:22:47Z",
+    "url": "https://github.com/heichaowo/openclaw-amem"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-06-23T13:08:25Z",
+    "updated_at": "2026-06-23T13:28:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-23T12:58:01Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-23T12:57:50Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T12:44:25Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "A-MEM memory plugin for OpenClaw \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval & LLM evolution",
-    "id": "heichaowo/openclaw-amem",
-    "language": "TypeScript",
-    "name": "heichaowo/openclaw-amem",
-    "stars": 1,
-    "updated_at": "2026-06-23T12:43:58Z",
-    "url": "https://github.com/heichaowo/openclaw-amem"
   },
   {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
