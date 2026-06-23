@@ -1,5 +1,68 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 300,
+    "updated_at": "2026-06-23T08:14:01Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-06-23T08:12:47Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 138,
+    "updated_at": "2026-06-23T08:12:31Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-23T08:07:06Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83c\udfe0 \u5c0f\u7eff\u7ba1\u5bb6 \u00b7 \u5168\u672c\u5730\u5bb6\u5ead\u611f\u77e5 Agent:\u7aef\u4fa7\u6444\u50cf\u5934\u611f\u77e5(\u4eba\u8138/\u52a8\u4f5c/\u8dcc\u5012/\u58f0\u5b66)\u2192 \u7ea7\u8054\u8bed\u4e49\u6f0f\u6597 \u2192 \u53ef\u63d2\u62d4 LLM \u51b3\u7b56(Claude/Ollama)\u2192 \u4e3b\u52a8\u901a\u77e5\u4e0e\u8bbe\u5907\u8054\u52a8\u3002\u9690\u79c1\u4f18\u5148,\u89c6\u9891\u4e0d\u4e0a\u4e91\u3002",
+    "id": "songyang753-cloud/ugreen-home-guard",
+    "language": "Python",
+    "name": "songyang753-cloud/ugreen-home-guard",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:06:50Z",
+    "url": "https://github.com/songyang753-cloud/ugreen-home-guard"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-23T08:05:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-23T08:04:57Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Build a local autonomous coding agent on your computer using NVIDIA NIM APIs to write code and control your browser.",
     "id": "meridelstern626/AgentStudio",
     "language": "Python",
@@ -261,15 +324,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 2,
-    "updated_at": "2026-06-23T07:33:35Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "Ensure Vencord stays compatible by automatically patching updates that could break it in Discord.",
     "id": "isratmim643-ux/VencordAutoPatcher",
     "language": "C#",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-23T07:19:52Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-23T07:19:43Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:19:08Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-23T07:18:32Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-23T07:16:27Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-23T07:15:31Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2696,
-    "updated_at": "2026-06-23T07:32:25Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
