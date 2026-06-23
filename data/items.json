@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-23T16:29:43Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-23T16:27:01Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-23T16:24:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 360,
+    "updated_at": "2026-06-23T16:18:54Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Wenri/TaskSolver",
     "stars": 0,
-    "updated_at": "2026-06-23T16:09:04Z",
+    "updated_at": "2026-06-23T16:19:25Z",
     "url": "https://github.com/Wenri/TaskSolver"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-06-23T14:42:29Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-23T14:40:05Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-23T14:39:20Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "Shell",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-06-23T14:38:13Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "LLM-driven RPG Agent Runtime \u2014 NPC companions with scoped perception, memory isolation, and deterministic game-state con",
-    "id": "yukinorin775780/BG3-LLM-Agent",
-    "language": "Python",
-    "name": "yukinorin775780/BG3-LLM-Agent",
-    "stars": 0,
-    "updated_at": "2026-06-23T14:38:03Z",
-    "url": "https://github.com/yukinorin775780/BG3-LLM-Agent"
   }
 ]
