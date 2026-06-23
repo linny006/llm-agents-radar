@@ -1,12 +1,30 @@
 [
   {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 2,
+    "updated_at": "2026-06-23T15:44:10Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 17,
-    "updated_at": "2026-06-23T15:29:41Z",
+    "updated_at": "2026-06-23T15:42:10Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
+    "id": "JohnnyQ-commits/aqueduct",
+    "language": "Python",
+    "name": "JohnnyQ-commits/aqueduct",
+    "stars": 11,
+    "updated_at": "2026-06-23T15:35:54Z",
+    "url": "https://github.com/JohnnyQ-commits/aqueduct"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T15:23:27Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
-    "id": "JohnnyQ-commits/aqueduct",
-    "language": "Python",
-    "name": "JohnnyQ-commits/aqueduct",
-    "stars": 11,
-    "updated_at": "2026-06-23T15:23:23Z",
-    "url": "https://github.com/JohnnyQ-commits/aqueduct"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-06-23T15:08:19Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 2,
-    "updated_at": "2026-06-23T15:06:35Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
