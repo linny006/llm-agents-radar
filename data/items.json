@@ -1,11 +1,29 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-24T22:28:45Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-24T22:24:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 2,
-    "updated_at": "2026-06-24T22:14:22Z",
+    "updated_at": "2026-06-24T22:21:15Z",
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
@@ -284,7 +302,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-24T22:15:00Z",
+    "updated_at": "2026-06-24T22:28:24Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T21:29:29Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-24T21:28:44Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-24T21:22:14Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
