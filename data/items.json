@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-24T05:11:34Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 105,
+    "updated_at": "2026-06-24T05:10:00Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 4,
+    "updated_at": "2026-06-24T05:07:42Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-24T05:07:24Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-24T05:04:47Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-24T05:04:21Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -50,7 +104,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-24T04:54:21Z",
+    "updated_at": "2026-06-24T05:14:06Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T04:18:14Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-06-24T04:16:36Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:48:44Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "\u623f\u4ef2\u7b2c\u4e8c\u5927\u8166 \u2014 Hermes-Agent + mem0 + LINE \u7684\u623f\u4ef2 AI \u7b2c\u4e8c\u5927\u8166\uff1bSpec-Driven (STDD\u00d7VDD) + \u53f0\u7063 open data MCP + VM/GKE \u90e8\u7f72",
-    "id": "trionnemesis/AIhouskeeperagent",
-    "language": "Python",
-    "name": "trionnemesis/AIhouskeeperagent",
-    "stars": 0,
-    "updated_at": "2026-06-24T03:47:46Z",
-    "url": "https://github.com/trionnemesis/AIhouskeeperagent"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1503,
-    "updated_at": "2026-06-24T03:47:55Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-24T03:46:12Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-24T03:46:01Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-24T03:45:27Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
