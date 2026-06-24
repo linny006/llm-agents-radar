@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-06-24T07:59:40Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 138,
+    "updated_at": "2026-06-24T07:58:15Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-06-24T07:55:32Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-06-24T07:52:49Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-24T07:47:57Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 624,
+    "updated_at": "2026-06-24T07:47:48Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "AI-driven Android UI test automation \u2014 plain-language cases run by an agent on real devices over any network (no ADB/scr",
+    "id": "rejigtian/Smart-AI-Bot",
+    "language": "Python",
+    "name": "rejigtian/Smart-AI-Bot",
+    "stars": 6,
+    "updated_at": "2026-06-24T07:46:02Z",
+    "url": "https://github.com/rejigtian/Smart-AI-Bot"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -27,22 +90,13 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-24T07:41:29Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
     "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 138,
-    "updated_at": "2026-06-24T07:39:38Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
+    "name": "sandydasari/openacme",
+    "stars": 80,
+    "updated_at": "2026-06-24T07:40:32Z",
+    "url": "https://github.com/sandydasari/openacme"
   },
   {
     "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
@@ -115,15 +169,6 @@
     "stars": 105,
     "updated_at": "2026-06-24T07:08:44Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 624,
-    "updated_at": "2026-06-24T07:04:27Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "The consciousness engine for The Obelisk \ud83e\udde0",
@@ -256,7 +301,7 @@
     "id": "Bastioned-successor320/learn-nanobot",
     "language": "Python",
     "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-06-24T06:28:25Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T06:11:02Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:09:51Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:09:38Z",
-    "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:07:15Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-24T06:06:27Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-24T06:06:22Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
