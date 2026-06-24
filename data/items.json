@@ -1,5 +1,32 @@
 [
   {
+    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
+    "id": "KazKozDev/langgraph-self-evolving-agent",
+    "language": "Python",
+    "name": "KazKozDev/langgraph-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-06-24T12:44:33Z",
+    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 4,
+    "updated_at": "2026-06-24T12:41:12Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-06-24T12:38:27Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
     "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
     "id": "shoal-rat/astra-ksp",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4339,
-    "updated_at": "2026-06-24T12:28:47Z",
+    "updated_at": "2026-06-24T12:31:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -23,17 +50,8 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2710,
-    "updated_at": "2026-06-24T12:24:58Z",
+    "updated_at": "2026-06-24T12:30:55Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
-    "id": "KazKozDev/langgraph-self-evolving-agent",
-    "language": "Python",
-    "name": "KazKozDev/langgraph-self-evolving-agent",
-    "stars": 1,
-    "updated_at": "2026-06-24T12:19:25Z",
-    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
   },
   {
     "description": "AI-powered Liu Yao (\u516d\u723b) divination agent with classical text RAG, long-term memory, and interactive hexagram editor. \u57fa\u4e8e ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T11:01:22Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-24T11:00:36Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-06-24T10:58:15Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   }
 ]
