@@ -1,5 +1,77 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-24T20:28:23Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-24T20:27:07Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-24T20:25:31Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-24T20:28:43Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4338,
+    "updated_at": "2026-06-24T20:26:10Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 622,
+    "updated_at": "2026-06-24T20:23:48Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-24T20:23:50Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 80,
+    "updated_at": "2026-06-24T20:19:43Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
     "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
     "id": "shoal-rat/astra-ksp",
     "language": "Python",
@@ -108,15 +180,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-24T19:55:15Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
     "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
     "language": "Python",
@@ -196,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T19:42:05Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 622,
-    "updated_at": "2026-06-24T20:01:12Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T19:19:26Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-24T19:19:13Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6267,
-    "updated_at": "2026-06-24T19:17:49Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-24T19:16:44Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-24T19:16:37Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-24T19:15:59Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Self-hosted AI agent orchestration platform with Docker deployment, ReAct runtime, multi-adapter chat (Telegram/WebUI et",
-    "id": "WhaleMesh/WhaleBot",
-    "language": "Go",
-    "name": "WhaleMesh/WhaleBot",
-    "stars": 3,
-    "updated_at": "2026-06-24T19:15:33Z",
-    "url": "https://github.com/WhaleMesh/WhaleBot"
   }
 ]
