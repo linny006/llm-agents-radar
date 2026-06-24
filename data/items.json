@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "shoal-rat/astra-ksp",
     "stars": 1,
-    "updated_at": "2026-06-24T01:43:47Z",
+    "updated_at": "2026-06-24T01:56:54Z",
     "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 786,
+    "updated_at": "2026-06-24T01:54:57Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T00:43:24Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 4,
-    "updated_at": "2026-06-24T00:43:23Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
