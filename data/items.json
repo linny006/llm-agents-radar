@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-24T20:03:57Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "arcadeai-labs/agent-library",
     "stars": 28,
-    "updated_at": "2026-06-24T19:49:28Z",
+    "updated_at": "2026-06-24T20:03:33Z",
     "url": "https://github.com/arcadeai-labs/agent-library"
   },
   {
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 622,
-    "updated_at": "2026-06-24T19:43:23Z",
+    "updated_at": "2026-06-24T20:01:12Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T19:21:12Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-24T19:20:07Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
