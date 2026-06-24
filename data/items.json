@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-24T05:30:10Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "A-MEM memory plugin for OpenClaw \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval & LLM evolution",
+    "id": "heichaowo/openclaw-amem",
+    "language": "TypeScript",
+    "name": "heichaowo/openclaw-amem",
+    "stars": 1,
+    "updated_at": "2026-06-24T05:28:56Z",
+    "url": "https://github.com/heichaowo/openclaw-amem"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-24T05:28:22Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-24T05:28:05Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-24T05:27:52Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-24T05:27:51Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
+    "id": "KazKozDev/langgraph-self-evolving-agent",
+    "language": "Python",
+    "name": "KazKozDev/langgraph-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-06-24T05:21:12Z",
+    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-24T05:20:49Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-06-24T05:15:38Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -88,33 +169,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T04:52:06Z",
     "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
-    "description": "A-MEM memory plugin for OpenClaw \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval & LLM evolution",
-    "id": "heichaowo/openclaw-amem",
-    "language": "TypeScript",
-    "name": "heichaowo/openclaw-amem",
-    "stars": 1,
-    "updated_at": "2026-06-24T04:51:39Z",
-    "url": "https://github.com/heichaowo/openclaw-amem"
-  },
-  {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-24T05:14:06Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
-    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
-    "id": "KazKozDev/langgraph-self-evolving-agent",
-    "language": "Python",
-    "name": "KazKozDev/langgraph-self-evolving-agent",
-    "stars": 1,
-    "updated_at": "2026-06-24T04:40:50Z",
-    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T03:54:58Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-24T03:54:03Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-24T03:51:27Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-24T03:50:39Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5194,
-    "updated_at": "2026-06-24T03:50:39Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-24T03:50:29Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-24T03:48:44Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
