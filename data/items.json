@@ -1,12 +1,75 @@
 [
   {
+    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
+    "id": "FutronPrime/verity-harness",
+    "language": "Python",
+    "name": "FutronPrime/verity-harness",
+    "stars": 2,
+    "updated_at": "2026-06-24T15:11:58Z",
+    "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-24T15:10:11Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-24T15:08:53Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-24T15:07:16Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6261,
-    "updated_at": "2026-06-24T14:46:52Z",
+    "stars": 6262,
+    "updated_at": "2026-06-24T15:05:24Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-24T15:04:03Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-24T15:03:40Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
+    "id": "shoal-rat/astra-ksp",
+    "language": "Python",
+    "name": "shoal-rat/astra-ksp",
+    "stars": 1,
+    "updated_at": "2026-06-24T15:02:11Z",
+    "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T14:46:00Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
-    "id": "shoal-rat/astra-ksp",
-    "language": "Python",
-    "name": "shoal-rat/astra-ksp",
-    "stars": 1,
-    "updated_at": "2026-06-24T14:43:33Z",
-    "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
     "description": "AlgoTune is a NeurIPS 2025 benchmark made up of 154 math, physics, and computer science problems. The goal is write code",
@@ -81,15 +135,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-24T14:34:24Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T14:33:53Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "The open-source Fable alternative \u2014 a zero-dependency harness that makes ANY LLM verify instead of assume, persist inste",
-    "id": "FutronPrime/verity-harness",
-    "language": "Python",
-    "name": "FutronPrime/verity-harness",
-    "stars": 2,
-    "updated_at": "2026-06-24T14:32:49Z",
-    "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T13:58:04Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-24T13:57:47Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "K-Storm multi-agent research brainstorming",
-    "id": "ShakeYoung/K-Storm",
-    "language": "Python",
-    "name": "ShakeYoung/K-Storm",
-    "stars": 5,
-    "updated_at": "2026-06-24T13:57:37Z",
-    "url": "https://github.com/ShakeYoung/K-Storm"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-24T13:57:11Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-24T13:56:37Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
