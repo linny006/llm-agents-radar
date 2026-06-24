@@ -1,12 +1,30 @@
 [
   {
+    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
+    "id": "KazKozDev/langgraph-self-evolving-agent",
+    "language": "Python",
+    "name": "KazKozDev/langgraph-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-06-24T09:41:17Z",
+    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-24T09:29:22Z",
+    "updated_at": "2026-06-24T09:33:13Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Multi-agent orchestration runtime with task board, flow engine, budget control, MCP integration and real-time dashboard.",
+    "id": "swoelffel/claw-pilot",
+    "language": "TypeScript",
+    "name": "swoelffel/claw-pilot",
+    "stars": 10,
+    "updated_at": "2026-06-24T09:33:05Z",
+    "url": "https://github.com/swoelffel/claw-pilot"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T09:24:34Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "A self-improving LLM agent on LangGraph that learns from experience, writes & tests its own tools, and gets measurably b",
-    "id": "KazKozDev/langgraph-self-evolving-agent",
-    "language": "Python",
-    "name": "KazKozDev/langgraph-self-evolving-agent",
-    "stars": 1,
-    "updated_at": "2026-06-24T09:22:02Z",
-    "url": "https://github.com/KazKozDev/langgraph-self-evolving-agent"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T08:36:00Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "AI-driven Android UI test automation \u2014 plain-language cases run by an agent on real devices over any network (no ADB/scr",
-    "id": "rejigtian/Smart-AI-Bot",
-    "language": "Python",
-    "name": "rejigtian/Smart-AI-Bot",
-    "stars": 6,
-    "updated_at": "2026-06-24T08:33:30Z",
-    "url": "https://github.com/rejigtian/Smart-AI-Bot"
   }
 ]
