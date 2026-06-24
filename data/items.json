@@ -1,12 +1,21 @@
 [
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:28:59Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-24T17:44:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-24T17:42:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "KCNyu/clawock",
     "stars": 3,
-    "updated_at": "2026-06-24T17:25:54Z",
+    "updated_at": "2026-06-24T17:42:03Z",
     "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
+    "id": "JohnnyQ-commits/aqueduct",
+    "language": "Python",
+    "name": "JohnnyQ-commits/aqueduct",
+    "stars": 11,
+    "updated_at": "2026-06-24T17:35:11Z",
+    "url": "https://github.com/JohnnyQ-commits/aqueduct"
+  },
+  {
+    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
+    "id": "shoal-rat/astra-ksp",
+    "language": "Python",
+    "name": "shoal-rat/astra-ksp",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:30:41Z",
+    "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:28:59Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T17:01:45Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
-    "id": "shoal-rat/astra-ksp",
-    "language": "Python",
-    "name": "shoal-rat/astra-ksp",
-    "stars": 1,
-    "updated_at": "2026-06-24T17:00:11Z",
-    "url": "https://github.com/shoal-rat/astra-ksp"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T16:54:14Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:51:45Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-24T17:28:56Z",
+    "updated_at": "2026-06-24T17:33:55Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T16:15:29Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:13:11Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-24T16:12:56Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
