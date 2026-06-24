@@ -1,12 +1,39 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:28:59Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
     "id": "KCNyu/clawock",
     "language": "Python",
     "name": "KCNyu/clawock",
     "stars": 3,
-    "updated_at": "2026-06-24T17:14:16Z",
+    "updated_at": "2026-06-24T17:25:54Z",
     "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "Reverse-figma GUI automation: learn an app's coordinate map once, then run whole workflows from memory. A Claude Code sk",
+    "id": "XiaoChu-1208/inner-coordinates",
+    "language": "Shell",
+    "name": "XiaoChu-1208/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-06-24T17:25:15Z",
+    "url": "https://github.com/XiaoChu-1208/inner-coordinates"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 13,
+    "updated_at": "2026-06-24T17:23:54Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -148,7 +175,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6262,
+    "stars": 6263,
     "updated_at": "2026-06-24T16:44:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-24T17:09:37Z",
+    "updated_at": "2026-06-24T17:28:56Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T16:12:56Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-24T16:12:11Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-06-24T16:05:41Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-24T16:05:10Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
