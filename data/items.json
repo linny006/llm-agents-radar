@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "shoal-rat/astra-ksp",
     "stars": 1,
-    "updated_at": "2026-06-24T01:56:54Z",
+    "updated_at": "2026-06-24T02:14:21Z",
     "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 1,
+    "updated_at": "2026-06-24T02:11:09Z",
+    "url": "https://github.com/Yanu403/digital-mate"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-06-24T02:04:57Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-24T02:03:08Z",
+    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T01:34:16Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-24T01:32:09Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-24T00:47:59Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-06-24T00:44:16Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-06-24T00:43:24Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
