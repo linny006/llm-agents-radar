@@ -1,5 +1,32 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 2,
+    "updated_at": "2026-06-24T22:57:00Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Autonomous ML experimentation: an LLM agent proposes, runs, and analyzes experiments on any model or task, with versione",
+    "id": "a0merr/autolab",
+    "language": "Python",
+    "name": "a0merr/autolab",
+    "stars": 0,
+    "updated_at": "2026-06-24T22:56:07Z",
+    "url": "https://github.com/a0merr/autolab"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6267,
+    "updated_at": "2026-06-24T22:55:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
     "id": "KCNyu/clawock",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-06-24T22:52:12Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 2,
-    "updated_at": "2026-06-24T22:49:01Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T22:33:57Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6267,
-    "updated_at": "2026-06-24T22:33:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-24T22:51:52Z",
+    "updated_at": "2026-06-24T22:57:23Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T21:35:20Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Applied AI/ML portfolio. Featured: a multi-modal product classifier benchmarked honestly against an image-only baseline ",
-    "id": "buzinarov/ia-projects",
-    "language": "Jupyter Notebook",
-    "name": "buzinarov/ia-projects",
-    "stars": 0,
-    "updated_at": "2026-06-24T21:34:52Z",
-    "url": "https://github.com/buzinarov/ia-projects"
   }
 ]
