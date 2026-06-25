@@ -1,5 +1,41 @@
 [
   {
+    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
+    "id": "aldok10/zara-agent-opc",
+    "language": "JavaScript",
+    "name": "aldok10/zara-agent-opc",
+    "stars": 0,
+    "updated_at": "2026-06-25T17:54:44Z",
+    "url": "https://github.com/aldok10/zara-agent-opc"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 28,
+    "updated_at": "2026-06-25T17:52:44Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-25T17:52:37Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-25T17:51:06Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
     "id": "rudramishra4117/ComfyUI-None-upup",
     "language": "JavaScript",
@@ -27,6 +63,15 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-25T17:46:01Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -36,13 +81,13 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
-    "id": "aldok10/zara-agent-opc",
-    "language": "JavaScript",
-    "name": "aldok10/zara-agent-opc",
+    "description": "\u6821\u56ed\u4fe1\u606f\u805a\u5408\u667a\u80fd\u4f53\uff1a\u591a\u6e90\u91c7\u96c6 + LLM Agent \u5faa\u73af + \u8054\u7f51\u641c\u7d22\uff0c\u81ea\u52a8\u63a8\u9001\u6821\u56ed\u516c\u544a/\u63a8\u6587/\u8bfe\u8868\u5230 QQ \u7fa4",
+    "id": "p353019433-maker/-Agent-campus-bot",
+    "language": "Python",
+    "name": "p353019433-maker/-Agent-campus-bot",
     "stars": 0,
-    "updated_at": "2026-06-25T17:38:29Z",
-    "url": "https://github.com/aldok10/zara-agent-opc"
+    "updated_at": "2026-06-25T17:37:43Z",
+    "url": "https://github.com/p353019433-maker/-Agent-campus-bot"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -72,15 +117,6 @@
     "url": "https://github.com/KCNyu/clawock"
   },
   {
-    "description": "\u6821\u56ed\u4fe1\u606f\u805a\u5408\u667a\u80fd\u4f53\uff1a\u591a\u6e90\u91c7\u96c6 + LLM Agent \u5faa\u73af + \u8054\u7f51\u641c\u7d22\uff0c\u81ea\u52a8\u63a8\u9001\u6821\u56ed\u516c\u544a/\u63a8\u6587/\u8bfe\u8868\u5230 QQ \u7fa4",
-    "id": "p353019433-maker/-Agent-campus-bot",
-    "language": "Python",
-    "name": "p353019433-maker/-Agent-campus-bot",
-    "stars": 0,
-    "updated_at": "2026-06-25T17:37:43Z",
-    "url": "https://github.com/p353019433-maker/-Agent-campus-bot"
-  },
-  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T17:26:54Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 28,
-    "updated_at": "2026-06-25T17:25:58Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -214,15 +241,6 @@
     "stars": 786,
     "updated_at": "2026-06-25T17:00:53Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:53:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-25T16:19:08Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-06-25T16:18:50Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-06-25T16:13:50Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
