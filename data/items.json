@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-25T16:53:40Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -239,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 786,
-    "updated_at": "2026-06-25T16:25:57Z",
+    "updated_at": "2026-06-25T16:59:45Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-25T15:52:07Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-25T15:51:59Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
