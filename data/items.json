@@ -1,5 +1,86 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:27:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-25T08:20:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:20:10Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:17:24Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:16:41Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Transformer for Molecules: A Generative Model + LLM Agent driven by Molecular Properties",
+    "id": "rangsimanketkaew/TransforMol",
+    "language": "Jupyter Notebook",
+    "name": "rangsimanketkaew/TransforMol",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:16:30Z",
+    "url": "https://github.com/rangsimanketkaew/TransforMol"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:16:20Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-25T08:28:45Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-06-25T08:15:57Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -25,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-25T08:11:52Z",
     "url": "https://github.com/randomittin/heimdall"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-25T08:14:23Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -169,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-06-25T07:55:22Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6275,
+    "updated_at": "2026-06-25T07:54:58Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
@@ -367,86 +448,5 @@
     "stars": 43,
     "updated_at": "2026-06-25T07:34:30Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-25T07:33:51Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 4,
-    "updated_at": "2026-06-25T07:29:28Z",
-    "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-25T07:27:08Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-25T07:26:01Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:24:46Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-06-25T07:23:45Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-06-25T07:21:27Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1504,
-    "updated_at": "2026-06-25T07:18:56Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-06-25T07:18:49Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
