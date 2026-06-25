@@ -1,11 +1,29 @@
 [
   {
+    "description": "A Generative Transformer Model + LLM Agent as an Expert for Molecules",
+    "id": "rangsimanketkaew/TransforMol",
+    "language": "Jupyter Notebook",
+    "name": "rangsimanketkaew/TransforMol",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:28:29Z",
+    "url": "https://github.com/rangsimanketkaew/TransforMol"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:23:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-06-25T11:14:06Z",
+    "updated_at": "2026-06-25T11:16:56Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 786,
-    "updated_at": "2026-06-25T11:12:40Z",
+    "updated_at": "2026-06-25T11:27:45Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -97,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-25T11:03:58Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "End-to-end LLM agent that watches Reddit for brand mentions, triggers crisis alerts in minutes, and ships a daily insigh",
+    "id": "liyading1818/reddit-brand-monitor",
+    "language": "Python",
+    "name": "liyading1818/reddit-brand-monitor",
+    "stars": 0,
+    "updated_at": "2026-06-25T11:03:08Z",
+    "url": "https://github.com/liyading1818/reddit-brand-monitor"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-06-25T10:53:55Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Transformer for Molecules: A Generative Model + LLM Agent driven by Molecular Properties",
-    "id": "rangsimanketkaew/TransforMol",
-    "language": "Jupyter Notebook",
-    "name": "rangsimanketkaew/TransforMol",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:53:52Z",
-    "url": "https://github.com/rangsimanketkaew/TransforMol"
   },
   {
     "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-25T11:04:47Z",
+    "updated_at": "2026-06-25T11:19:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-25T10:24:32Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
-    "id": "DivyanshuVortex/vortex",
-    "language": "TypeScript",
-    "name": "DivyanshuVortex/vortex",
-    "stars": 0,
-    "updated_at": "2026-06-25T10:22:00Z",
-    "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-25T10:17:55Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
