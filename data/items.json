@@ -1,5 +1,32 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 363,
+    "updated_at": "2026-06-25T14:22:06Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-06-25T14:19:31Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "SEO Content Engine for LLMs - a prompt-engineering system that turns any capable AI into a world-class SEO strategist: g",
+    "id": "MADEVAL/RankWise",
+    "language": "\u2014",
+    "name": "MADEVAL/RankWise",
+    "stars": 0,
+    "updated_at": "2026-06-25T14:16:17Z",
+    "url": "https://github.com/MADEVAL/RankWise"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-06-25T14:00:15Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-06-25T13:58:59Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -157,7 +175,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5210,
+    "stars": 5211,
     "updated_at": "2026-06-25T13:26:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 1505,
     "updated_at": "2026-06-25T12:52:48Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-06-25T12:52:27Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-25T12:52:22Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
