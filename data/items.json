@@ -1,5 +1,14 @@
 [
   {
+    "description": "Turn any LLM into a local PC-controlling agent",
+    "id": "agustinvillegas/AgentFrame",
+    "language": "Python",
+    "name": "agustinvillegas/AgentFrame",
+    "stars": 0,
+    "updated_at": "2026-06-26T21:01:01Z",
+    "url": "https://github.com/agustinvillegas/AgentFrame"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -130,7 +139,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6294,
+    "stars": 6295,
     "updated_at": "2026-06-26T20:30:23Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 142,
     "updated_at": "2026-06-26T16:52:42Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 144,
-    "updated_at": "2026-06-26T16:44:59Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   }
 ]
