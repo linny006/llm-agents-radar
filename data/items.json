@@ -1,11 +1,38 @@
 [
   {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-06-26T17:22:04Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-26T17:21:50Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-26T17:20:35Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
     "id": "peijin0405/scout-agent",
     "language": "Python",
     "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-06-26T17:14:47Z",
+    "updated_at": "2026-06-26T17:20:24Z",
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-06-26T17:03:36Z",
     "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-06-26T17:02:15Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -207,15 +225,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-26T15:59:33Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -295,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T15:37:04Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:36:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
