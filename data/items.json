@@ -1,11 +1,65 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-26T06:29:35Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-26T06:28:25Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-26T06:26:48Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\u041d\u0430\u0431\u043e\u0440 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 Claude Code: \u0441\u043a\u0432\u043e\u0437\u043d\u043e\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044f \u043e\u0431\u043b\u0438\u0433\u0430\u0446\u0438\u0439 \u0420\u0424 \u2014 \u043f\u0430\u0440\u0441\u0438\u043d\u0433 \u0431\u0440\u043e\u043a\u0435\u0440\u0441\u043a\u0438\u0445 \u043e\u0442\u0447\u0451\u0442\u043e\u0432 (\u0422\u0411\u0430\u043d\u043a/\u0410\u043b\u044c\u0444\u0430/\u0421\u0431\u0435\u0440... \u0432\u0441\u0435 \u0447",
+    "id": "TimurTsedik/ru-market-analyst",
+    "language": "Python",
+    "name": "TimurTsedik/ru-market-analyst",
+    "stars": 1,
+    "updated_at": "2026-06-26T06:24:23Z",
+    "url": "https://github.com/TimurTsedik/ru-market-analyst"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 206,
+    "updated_at": "2026-06-26T06:23:53Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 1,
+    "updated_at": "2026-06-26T06:22:28Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
     "id": "aldok10/zara-agent-opc",
     "language": "JavaScript",
     "name": "aldok10/zara-agent-opc",
     "stars": 0,
-    "updated_at": "2026-06-26T06:14:35Z",
+    "updated_at": "2026-06-26T06:18:49Z",
     "url": "https://github.com/aldok10/zara-agent-opc"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-06-26T05:34:42Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 1,
-    "updated_at": "2026-06-26T05:34:18Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -178,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T05:14:01Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 206,
-    "updated_at": "2026-06-26T06:13:46Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T04:45:51Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "A realization and convergence engine for cognitive systems (Etta) in LLM-based agents.",
-    "id": "bluem-dev/Grace",
-    "language": "\u2014",
-    "name": "bluem-dev/Grace",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:43:32Z",
-    "url": "https://github.com/bluem-dev/Grace"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-26T04:43:19Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:43:04Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-26T04:42:28Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
