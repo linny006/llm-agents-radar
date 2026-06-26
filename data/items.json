@@ -1,12 +1,30 @@
 [
   {
+    "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
+    "id": "shoal-rat/astra-ksp",
+    "language": "Python",
+    "name": "shoal-rat/astra-ksp",
+    "stars": 1,
+    "updated_at": "2026-06-26T07:15:09Z",
+    "url": "https://github.com/shoal-rat/astra-ksp"
+  },
+  {
     "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
     "id": "aldok10/zara-agent-opc",
     "language": "JavaScript",
     "name": "aldok10/zara-agent-opc",
     "stars": 0,
-    "updated_at": "2026-06-26T07:00:11Z",
+    "updated_at": "2026-06-26T07:11:52Z",
     "url": "https://github.com/aldok10/zara-agent-opc"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-26T07:03:15Z",
+    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T06:36:33Z",
     "url": "https://github.com/TimurTsedik/ru-market-analyst"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-26T06:33:37Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T04:48:32Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-26T04:47:53Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
