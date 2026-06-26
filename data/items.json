@@ -1,5 +1,50 @@
 [
   {
+    "description": "Intern Challenge: LLM agent harness in a 2D grid world \u2014 perceive, act, and unlock the exit door.",
+    "id": "Ali627miya/llm-agent-virtual-world",
+    "language": "Python",
+    "name": "Ali627miya/llm-agent-virtual-world",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:09:18Z",
+    "url": "https://github.com/Ali627miya/llm-agent-virtual-world"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:07:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-26T08:03:05Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
+    "id": "aldok10/zara-agent-opc",
+    "language": "JavaScript",
+    "name": "aldok10/zara-agent-opc",
+    "stars": 0,
+    "updated_at": "2026-06-26T08:01:40Z",
+    "url": "https://github.com/aldok10/zara-agent-opc"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-06-26T08:00:42Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
     "id": "brownjuly2003-code/Auto_BI",
     "language": "Python",
@@ -18,13 +63,13 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
-    "id": "aldok10/zara-agent-opc",
-    "language": "JavaScript",
-    "name": "aldok10/zara-agent-opc",
-    "stars": 0,
-    "updated_at": "2026-06-26T07:54:44Z",
-    "url": "https://github.com/aldok10/zara-agent-opc"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6289,
+    "updated_at": "2026-06-26T07:54:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "ASTRA \u2014 Autonomous Spaceflight Trial & Research Agent: one line of natural language \u2192 a flown Kerbal Space Program 1 mis",
@@ -45,15 +90,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-26T07:32:31Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -70,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-06-26T07:28:06Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-06-26T07:24:52Z",
-    "url": "https://github.com/zty522/partner"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T04:58:28Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-26T04:58:18Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-26T04:57:41Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:53:29Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
