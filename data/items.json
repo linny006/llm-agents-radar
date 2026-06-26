@@ -1,12 +1,48 @@
 [
   {
+    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
+    "id": "aldok10/zara-agent-opc",
+    "language": "JavaScript",
+    "name": "aldok10/zara-agent-opc",
+    "stars": 0,
+    "updated_at": "2026-06-26T06:14:35Z",
+    "url": "https://github.com/aldok10/zara-agent-opc"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-26T06:10:36Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
+    "description": "",
+    "id": "parikhsahil719/nba-draft-prospect-intelligence-agent",
+    "language": "Python",
+    "name": "parikhsahil719/nba-draft-prospect-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-06-26T06:10:16Z",
+    "url": "https://github.com/parikhsahil719/nba-draft-prospect-intelligence-agent"
+  },
+  {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
     "id": "randomittin/heimdall",
     "language": "Shell",
     "name": "randomittin/heimdall",
     "stars": 5,
-    "updated_at": "2026-06-26T05:59:36Z",
+    "updated_at": "2026-06-26T06:08:49Z",
     "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-26T06:02:48Z",
+    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T05:34:18Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-26T05:34:02Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -158,7 +185,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 206,
-    "updated_at": "2026-06-26T06:00:06Z",
+    "updated_at": "2026-06-26T06:13:46Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "",
-    "id": "parikhsahil719/nba-draft-prospect-intelligence-agent",
-    "language": "Python",
-    "name": "parikhsahil719/nba-draft-prospect-intelligence-agent",
-    "stars": 0,
-    "updated_at": "2026-06-26T05:58:50Z",
-    "url": "https://github.com/parikhsahil719/nba-draft-prospect-intelligence-agent"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T04:42:28Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-26T04:41:55Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-26T04:39:32Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
