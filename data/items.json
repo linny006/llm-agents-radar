@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
     "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-06-26T16:59:38Z",
-    "url": "https://github.com/yigido41/agentic-ai"
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-06-26T17:14:47Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
+    "id": "Kengston/personal-llm-wiki",
+    "language": "TypeScript",
+    "name": "Kengston/personal-llm-wiki",
+    "stars": 1,
+    "updated_at": "2026-06-26T17:07:12Z",
+    "url": "https://github.com/Kengston/personal-llm-wiki"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-26T17:03:36Z",
+    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "zty522/partner",
     "stars": 5,
-    "updated_at": "2026-06-26T16:56:24Z",
+    "updated_at": "2026-06-26T17:02:15Z",
     "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-26T16:59:38Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -61,15 +88,6 @@
     "stars": 142,
     "updated_at": "2026-06-26T16:52:42Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-06-26T16:46:52Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-26T16:33:51Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-26T16:33:12Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-26T15:08:58Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-06-26T15:06:31Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
