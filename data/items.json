@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 5,
+    "updated_at": "2026-06-26T05:59:36Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-06-26T05:58:28Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
+    "id": "akatzmann/slash-agent",
+    "language": "Python",
+    "name": "akatzmann/slash-agent",
+    "stars": 8,
+    "updated_at": "2026-06-26T05:57:12Z",
+    "url": "https://github.com/akatzmann/slash-agent"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -131,7 +158,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 206,
-    "updated_at": "2026-06-26T05:23:28Z",
+    "updated_at": "2026-06-26T06:00:06Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -268,6 +295,15 @@
     "stars": 1,
     "updated_at": "2026-06-26T04:57:41Z",
     "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "",
+    "id": "parikhsahil719/nba-draft-prospect-intelligence-agent",
+    "language": "Python",
+    "name": "parikhsahil719/nba-draft-prospect-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-06-26T05:58:50Z",
+    "url": "https://github.com/parikhsahil719/nba-draft-prospect-intelligence-agent"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-26T04:39:32Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-26T04:38:50Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 15,
-    "updated_at": "2026-06-26T04:37:46Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
-    "id": "aldok10/zara-agent-opc",
-    "language": "JavaScript",
-    "name": "aldok10/zara-agent-opc",
-    "stars": 0,
-    "updated_at": "2026-06-26T04:35:44Z",
-    "url": "https://github.com/aldok10/zara-agent-opc"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-26T04:32:06Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
