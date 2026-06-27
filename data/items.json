@@ -1,5 +1,68 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-27T15:12:08Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
+    "id": "theunstopabble/SwadKart",
+    "language": "JavaScript",
+    "name": "theunstopabble/SwadKart",
+    "stars": 10,
+    "updated_at": "2026-06-27T15:10:24Z",
+    "url": "https://github.com/theunstopabble/SwadKart"
+  },
+  {
+    "description": "AI Agent Root Cause Analysis Protocol \u2014 A systematic five-question methodology adapted from Toyota's 5 Whys for diagnosi",
+    "id": "Oxygen56/deep-trace",
+    "language": "\u2014",
+    "name": "Oxygen56/deep-trace",
+    "stars": 1,
+    "updated_at": "2026-06-27T15:06:27Z",
+    "url": "https://github.com/Oxygen56/deep-trace"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4343,
+    "updated_at": "2026-06-27T15:06:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-27T15:02:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 211,
+    "updated_at": "2026-06-27T15:02:47Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 29,
+    "updated_at": "2026-06-27T15:00:42Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-27T14:25:46Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 29,
-    "updated_at": "2026-06-27T14:31:13Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-27T13:46:50Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-27T13:46:23Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-27T13:44:22Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-27T13:43:16Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-27T13:36:37Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-27T13:35:31Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-06-27T13:33:18Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
