@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 144,
+    "updated_at": "2026-06-27T20:19:32Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-27T18:55:39Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-27T18:54:53Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
