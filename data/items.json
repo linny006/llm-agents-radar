@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-27T09:59:33Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -144,15 +153,6 @@
     "url": "https://github.com/FutronPrime/verity-harness"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-27T07:44:33Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "ohnodev/obelisk-core",
     "stars": 5,
-    "updated_at": "2026-06-27T09:30:37Z",
+    "updated_at": "2026-06-27T09:59:49Z",
     "url": "https://github.com/ohnodev/obelisk-core"
   },
   {
