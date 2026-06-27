@@ -1,5 +1,59 @@
 [
   {
+    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
+    "id": "Bobby-Gray/open-tabletop-gm",
+    "language": "Python",
+    "name": "Bobby-Gray/open-tabletop-gm",
+    "stars": 36,
+    "updated_at": "2026-06-27T17:59:50Z",
+    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
+  },
+  {
+    "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
+    "id": "randomittin/heimdall",
+    "language": "Shell",
+    "name": "randomittin/heimdall",
+    "stars": 5,
+    "updated_at": "2026-06-27T17:54:50Z",
+    "url": "https://github.com/randomittin/heimdall"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-27T17:53:50Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-27T17:52:38Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-27T17:51:03Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
+    "id": "ohnodev/obelisk-core",
+    "language": "TypeScript",
+    "name": "ohnodev/obelisk-core",
+    "stars": 5,
+    "updated_at": "2026-06-27T17:50:02Z",
+    "url": "https://github.com/ohnodev/obelisk-core"
+  },
+  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "HTML",
@@ -288,15 +342,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "The consciousness engine for The Obelisk \ud83e\udde0",
-    "id": "ohnodev/obelisk-core",
-    "language": "TypeScript",
-    "name": "ohnodev/obelisk-core",
-    "stars": 5,
-    "updated_at": "2026-06-27T17:26:27Z",
-    "url": "https://github.com/ohnodev/obelisk-core"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T16:40:27Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-27T16:40:15Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-27T16:39:19Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-27T16:37:01Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-27T16:36:10Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "",
-    "id": "parikhsahil719/nba-draft-prospect-intelligence-agent",
-    "language": "Python",
-    "name": "parikhsahil719/nba-draft-prospect-intelligence-agent",
-    "stars": 0,
-    "updated_at": "2026-06-27T16:35:12Z",
-    "url": "https://github.com/parikhsahil719/nba-draft-prospect-intelligence-agent"
   }
 ]
