@@ -1,5 +1,23 @@
 [
   {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-06-28T18:16:26Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-06-28T18:16:09Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
     "id": "Tonyx79/clov-ai",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-28T16:43:30Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A command-line interface for Ollama LLM models, designed for seamless integration with shell scripts and command-line wo",
-    "id": "owpk/jllama-cli",
-    "language": "Java",
-    "name": "owpk/jllama-cli",
-    "stars": 2,
-    "updated_at": "2026-06-28T16:35:34Z",
-    "url": "https://github.com/owpk/jllama-cli"
-  },
-  {
-    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
-    "id": "Bobby-Gray/open-tabletop-gm",
-    "language": "Python",
-    "name": "Bobby-Gray/open-tabletop-gm",
-    "stars": 36,
-    "updated_at": "2026-06-28T16:29:42Z",
-    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
   }
 ]
