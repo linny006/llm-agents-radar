@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 10,
+    "updated_at": "2026-06-28T05:54:08Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "\u672c\u5730 AI \u667a\u80fd\u52a9\u624b \u2014 \u4f60\u7684\u5bb6\u7528 AI \u5de5\u4f5c\u7ad9\u3002Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu",
+    "id": "Fujo930/MemoryQwen",
+    "language": "Python",
+    "name": "Fujo930/MemoryQwen",
+    "stars": 1,
+    "updated_at": "2026-06-28T05:54:02Z",
+    "url": "https://github.com/Fujo930/MemoryQwen"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-28T05:53:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T05:38:40Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u672c\u5730 AI \u667a\u80fd\u52a9\u624b \u2014 \u4f60\u7684\u5bb6\u7528 AI \u5de5\u4f5c\u7ad9\u3002Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu",
-    "id": "Fujo930/MemoryQwen",
-    "language": "Python",
-    "name": "Fujo930/MemoryQwen",
-    "stars": 1,
-    "updated_at": "2026-06-28T05:38:35Z",
-    "url": "https://github.com/Fujo930/MemoryQwen"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T05:36:46Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-28T05:36:35Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-28T04:54:11Z",
     "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 3,
-    "updated_at": "2026-06-28T04:49:17Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
