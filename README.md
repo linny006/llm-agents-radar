@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-28 21:45 UTC
+> ⏰ Last updated: 2026-06-28 21:56 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fujo930/MemoryQwen](https://github.com/Fujo930/MemoryQwen) | 1 | Python | 2026-06-28 | 本地 AI 智能助手 — 你的家用 AI 工作站。Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu |
-| 2 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 3 | Python | 2026-06-28 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 1 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 3 | Python | 2026-06-28 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 2 | [Fujo930/MemoryQwen](https://github.com/Fujo930/MemoryQwen) | 1 | Python | 2026-06-28 | 本地 AI 智能助手 — 你的家用 AI 工作站。Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu |
 | 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-06-28 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 0 | HTML | 2026-06-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-06-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
