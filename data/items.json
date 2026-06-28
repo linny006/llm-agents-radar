@@ -1,5 +1,59 @@
 [
   {
+    "description": "\"An Agentic AI grocery assistant backend powered by LangGraph, LangServe, and PostgreSQL. Features Text-to-SQL query gen",
+    "id": "masoudSarafZadeh/smart-grocery-agent-backend",
+    "language": "Python",
+    "name": "masoudSarafZadeh/smart-grocery-agent-backend",
+    "stars": 0,
+    "updated_at": "2026-06-28T06:43:48Z",
+    "url": "https://github.com/masoudSarafZadeh/smart-grocery-agent-backend"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-28T06:41:51Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-28T06:40:46Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-28T06:39:12Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 328,
+    "updated_at": "2026-06-28T06:39:10Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-28T06:33:18Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "\u672c\u5730 AI \u667a\u80fd\u52a9\u624b \u2014 \u4f60\u7684\u5bb6\u7528 AI \u5de5\u4f5c\u7ad9\u3002Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu",
     "id": "Fujo930/MemoryQwen",
     "language": "Python",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T06:15:34Z",
     "url": "https://github.com/Fujo930/MemoryQwen"
-  },
-  {
-    "description": "\"An Agentic AI grocery assistant backend powered by LangGraph, LangServe, and PostgreSQL. Features Text-to-SQL query gen",
-    "id": "masoudSarafZadeh/smart-grocery-agent-backend",
-    "language": "Python",
-    "name": "masoudSarafZadeh/smart-grocery-agent-backend",
-    "stars": 0,
-    "updated_at": "2026-06-28T06:14:27Z",
-    "url": "https://github.com/masoudSarafZadeh/smart-grocery-agent-backend"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T06:03:49Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-28T06:03:08Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-28T04:59:56Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-06-28T04:59:46Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-06-28T04:59:12Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-28T04:58:42Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-28T04:56:34Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
