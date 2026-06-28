@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:25:26Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 10,
+    "updated_at": "2026-06-28T02:22:54Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:21:35Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:20:43Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 5,
+    "updated_at": "2026-06-28T02:20:37Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-06-28T02:18:30Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:16:58Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 4,
+    "updated_at": "2026-06-28T02:16:18Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:15:34Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
     "id": "Saran1536/ComfyUI-LoaderUtils",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T02:04:17Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 10,
-    "updated_at": "2026-06-28T01:59:33Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T00:13:47Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 3,
-    "updated_at": "2026-06-28T00:13:28Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:12:46Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "OASiS \u2014 an open-source multi-physics and multi-code framework for verified computer simulations. Model Context Protocol ",
-    "id": "Hereon-InstituteMS/OASiS",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/OASiS",
-    "stars": 7,
-    "updated_at": "2026-06-28T00:11:52Z",
-    "url": "https://github.com/Hereon-InstituteMS/OASiS"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:08:53Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:07:57Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:07:50Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:06:56Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:04:16Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
