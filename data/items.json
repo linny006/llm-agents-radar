@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "FutronPrime/verity-harness",
     "stars": 2,
-    "updated_at": "2026-06-28T08:30:01Z",
+    "updated_at": "2026-06-28T08:34:25Z",
     "url": "https://github.com/FutronPrime/verity-harness"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-06-28T08:33:39Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T08:28:12Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 0,
-    "updated_at": "2026-06-28T08:28:01Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
