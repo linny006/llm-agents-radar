@@ -1,5 +1,59 @@
 [
   {
+    "description": "\"An Agentic AI grocery assistant backend powered by LangGraph, LangServe, and PostgreSQL. Features Text-to-SQL query gen",
+    "id": "masoudSarafZadeh/smart-grocery-agent-backend",
+    "language": "Python",
+    "name": "masoudSarafZadeh/smart-grocery-agent-backend",
+    "stars": 0,
+    "updated_at": "2026-06-28T06:14:27Z",
+    "url": "https://github.com/masoudSarafZadeh/smart-grocery-agent-backend"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 624,
+    "updated_at": "2026-06-28T06:13:54Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-06-28T06:13:24Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "\u672c\u5730 AI \u667a\u80fd\u52a9\u624b \u2014 \u4f60\u7684\u5bb6\u7528 AI \u5de5\u4f5c\u7ad9\u3002Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu",
+    "id": "Fujo930/MemoryQwen",
+    "language": "Python",
+    "name": "Fujo930/MemoryQwen",
+    "stars": 1,
+    "updated_at": "2026-06-28T06:04:49Z",
+    "url": "https://github.com/Fujo930/MemoryQwen"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-28T06:03:49Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-28T06:03:08Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
     "id": "yosh95/llm-secure-cli",
     "language": "Rust",
@@ -16,24 +70,6 @@
     "stars": 10,
     "updated_at": "2026-06-28T05:54:08Z",
     "url": "https://github.com/kevinchennewbee/PenglaiAgent"
-  },
-  {
-    "description": "\u672c\u5730 AI \u667a\u80fd\u52a9\u624b \u2014 \u4f60\u7684\u5bb6\u7528 AI \u5de5\u4f5c\u7ad9\u3002Local LLM agent with memory, retrieval, error learning, and GPU guardian. Runs on Ollama/LM Stu",
-    "id": "Fujo930/MemoryQwen",
-    "language": "Python",
-    "name": "Fujo930/MemoryQwen",
-    "stars": 1,
-    "updated_at": "2026-06-28T05:54:02Z",
-    "url": "https://github.com/Fujo930/MemoryQwen"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-28T05:53:49Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-06-28T05:25:38Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "A knowledge cycle for AI agents \u2014 one that grows with the people who shape it. Centered on the scarcity of human attenti",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-06-28T05:24:35Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-28T04:56:34Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-28T04:55:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-28T04:55:46Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-06-28T04:54:11Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   }
 ]
