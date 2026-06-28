@@ -1,12 +1,30 @@
 [
   {
+    "description": "\u300a\u667a\u80fd\u4f53\u5de5\u7a0b\uff1a\u4ece\u4e00\u53e5\u8bdd\u5230\u4e00\u4e2a\u95ed\u73af\u300b\uff08Prompt \u00b7 Context \u00b7 Harness \u00b7 Loop\uff09\uff0c\u672c\u4e66\u5c06\u5927\u8bed\u8a00\u6a21\u578b\u9a71\u52a8\u7684\u667a\u80fd\u4f53\u7cfb\u7edf\u62c6\u89e3\u4e3a\u56db\u79cd\u9012\u8fdb\u7684\u5de5\u7a0b\u8303\u5f0f\uff0c\u56db\u79cd\u8303\u5f0f\u4ece Token \u5230 System\uff0c\u4ece\u4e00\u6b21\u8c03\u7528\u5230\u5b8c\u6574\u7684\u81ea\u4e3b\u95ed\u73af\uff0c\u6784\u6210\u4e86",
+    "id": "LiuZhen515/agent_engineering",
+    "language": "\u2014",
+    "name": "LiuZhen515/agent_engineering",
+    "stars": 1,
+    "updated_at": "2026-06-28T11:42:38Z",
+    "url": "https://github.com/LiuZhen515/agent_engineering"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4343,
-    "updated_at": "2026-06-28T11:28:03Z",
+    "updated_at": "2026-06-28T11:43:33Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-28T11:38:31Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -61,15 +79,6 @@
     "stars": 43,
     "updated_at": "2026-06-28T10:53:15Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:50:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-28T10:05:48Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-28T10:04:33Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
