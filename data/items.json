@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-06-28T02:14:33Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-06-28T02:12:39Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-06-28T02:10:58Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "IQ-free LLM-controller for online automatic modulation recognition (AMR): the LLM plans deterministic RF tools and never",
+    "id": "ZHR-HEU/agentic-amr",
+    "language": "Python",
+    "name": "ZHR-HEU/agentic-amr",
+    "stars": 0,
+    "updated_at": "2026-06-28T02:08:11Z",
+    "url": "https://github.com/ZHR-HEU/agentic-amr"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-06-28T02:04:17Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
     "id": "kevinchennewbee/PenglaiAgent",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-06-28T01:59:28Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "IQ-free LLM-controller for online automatic modulation recognition (AMR): the LLM plans deterministic RF tools and never",
-    "id": "ZHR-HEU/agentic-amr",
-    "language": "Python",
-    "name": "ZHR-HEU/agentic-amr",
-    "stars": 0,
-    "updated_at": "2026-06-28T01:56:32Z",
-    "url": "https://github.com/ZHR-HEU/agentic-amr"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -95,7 +131,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-06-28T01:24:29Z",
+    "updated_at": "2026-06-28T02:11:45Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T00:04:16Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-28T00:03:31Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:03:21Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 1,
-    "updated_at": "2026-06-28T00:03:10Z",
-    "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-06-28T00:01:44Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
