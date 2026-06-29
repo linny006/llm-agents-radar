@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
-    "id": "dwgx/YuKiKo",
-    "language": "Python",
-    "name": "dwgx/YuKiKo",
-    "stars": 21,
-    "updated_at": "2026-06-29T20:14:27Z",
-    "url": "https://github.com/dwgx/YuKiKo"
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-06-29T20:27:06Z",
+    "url": "https://github.com/80x24/nuanua"
   },
   {
     "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "synapseorch-ai/synapse-ai",
     "stars": 292,
-    "updated_at": "2026-06-29T20:11:03Z",
+    "updated_at": "2026-06-29T20:20:02Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
+    "description": "AI QQ bot with OneBot, NapCat, LLM routing, plugins, and WebUI",
+    "id": "dwgx/YuKiKo",
+    "language": "Python",
+    "name": "dwgx/YuKiKo",
+    "stars": 21,
+    "updated_at": "2026-06-29T20:15:38Z",
+    "url": "https://github.com/dwgx/YuKiKo"
   },
   {
     "description": "Cogni-Brain on DGX Spark: Qwen3.5-122B-A10B INT4+FP8 hybrid, DFlash speculative decoding, 262K context, ~54 tok/s, 100/1",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T17:57:50Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-06-29T17:55:56Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
