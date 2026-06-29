@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-29T04:45:34Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T03:50:08Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "The SIMA2-Agent (Scalable, Instructable, Multiworld Agent) is an experimental framework designed to bridge the gap betwe",
-    "id": "hemantjuyal/SIMA2-Agent",
-    "language": "Python",
-    "name": "hemantjuyal/SIMA2-Agent",
-    "stars": 1,
-    "updated_at": "2026-06-29T03:47:26Z",
-    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
   }
 ]
