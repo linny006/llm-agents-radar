@@ -1,5 +1,14 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-06-29T08:57:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T08:40:36Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-06-29T08:39:55Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 15,
-    "updated_at": "2026-06-29T08:44:20Z",
+    "updated_at": "2026-06-29T08:56:42Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
