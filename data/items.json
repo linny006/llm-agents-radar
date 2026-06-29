@@ -1,12 +1,12 @@
 [
   {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-06-29T22:43:29Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
+    "updated_at": "2026-06-29T22:50:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 3,
-    "updated_at": "2026-06-29T22:42:18Z",
+    "updated_at": "2026-06-29T22:46:26Z",
     "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-06-29T22:43:29Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-06-29T21:48:24Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-06-29T21:47:07Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
