@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-29T00:09:48Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T23:13:02Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-28T23:12:17Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
