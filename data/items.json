@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source ESP32 dashboard for monitoring Claude Code and Codex usage, limits, and status in real time.",
+    "id": "alestanalves/TokenMeter",
+    "language": "C",
+    "name": "alestanalves/TokenMeter",
+    "stars": 1,
+    "updated_at": "2026-06-30T21:29:55Z",
+    "url": "https://github.com/alestanalves/TokenMeter"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-06-30T21:18:31Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -7,15 +25,6 @@
     "stars": 169,
     "updated_at": "2026-06-30T21:12:51Z",
     "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
-  },
-  {
-    "description": "Open-source ESP32 dashboard for monitoring Claude Code and Codex usage, limits, and status in real time.",
-    "id": "alestanalves/TokenMeter",
-    "language": "C",
-    "name": "alestanalves/TokenMeter",
-    "stars": 0,
-    "updated_at": "2026-06-30T21:07:08Z",
-    "url": "https://github.com/alestanalves/TokenMeter"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T20:56:15Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-06-30T20:55:02Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
