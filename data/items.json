@@ -1,5 +1,158 @@
 [
   {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 5,
+    "updated_at": "2026-06-30T20:29:44Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:29:24Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:29:14Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:28:17Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:25:29Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-06-30T20:24:40Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:24:26Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-06-30T20:24:17Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:22:42Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "High-performance bridge for local multimodal LLMs in ComfyUI. Decouples vLLM inference from the node graph to improve st",
+    "id": "Creepybits/ComfyUI-vLLM-MultiModal-Agent",
+    "language": "Python",
+    "name": "Creepybits/ComfyUI-vLLM-MultiModal-Agent",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:21:55Z",
+    "url": "https://github.com/Creepybits/ComfyUI-vLLM-MultiModal-Agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:20:57Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 191,
+    "updated_at": "2026-06-30T20:20:23Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-06-30T20:20:03Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-06-30T20:19:48Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:19:13Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-06-30T20:19:09Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-06-30T20:18:49Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -25,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:15:34Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-06-30T20:08:50Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -90,15 +234,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 191,
-    "updated_at": "2026-06-30T19:55:55Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -117,6 +252,15 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6359,
+    "updated_at": "2026-06-30T19:54:34Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -133,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-06-30T19:50:47Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6357,
-    "updated_at": "2026-06-30T19:54:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
@@ -234,15 +369,6 @@
     "url": "https://github.com/yigido41/agentic-ai"
   },
   {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-06-30T19:36:36Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
     "id": "Maximooch/penguin",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T19:12:00Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-06-30T19:10:55Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-06-30T19:09:09Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:52:55Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
-    "id": "nethinwei/fino",
-    "language": "Go",
-    "name": "nethinwei/fino",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:50:44Z",
-    "url": "https://github.com/nethinwei/fino"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-06-30T18:29:13Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-06-30T18:25:34Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-06-30T18:26:13Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-06-30T18:23:49Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Phone-camera inventory agent. In-browser VLM captions frames; Claude decides what to log. Duke AIPI 590.03 (Intelligent ",
-    "id": "nevescloud/tallyho",
-    "language": "JavaScript",
-    "name": "nevescloud/tallyho",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:22:59Z",
-    "url": "https://github.com/nevescloud/tallyho"
-  },
-  {
-    "description": "Vision agent that identifies cats by name using in-browser VLM and Claude. Duke AIPI 590.03 (Intelligent Agents) project",
-    "id": "nevescloud/catwatcher",
-    "language": "JavaScript",
-    "name": "nevescloud/catwatcher",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:22:58Z",
-    "url": "https://github.com/nevescloud/catwatcher"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 787,
-    "updated_at": "2026-06-30T19:10:22Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:13:44Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-06-30T18:13:31Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 31,
-    "updated_at": "2026-06-30T18:10:31Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
