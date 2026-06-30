@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-06-30T19:12:00Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-06-30T19:10:55Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-06-30T19:09:09Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
     "id": "openronin/openronin",
     "language": "TypeScript",
@@ -76,7 +103,7 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 147,
+    "stars": 150,
     "updated_at": "2026-06-30T18:23:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 787,
-    "updated_at": "2026-06-30T18:18:24Z",
+    "updated_at": "2026-06-30T19:10:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 207,
-    "updated_at": "2026-06-30T18:56:31Z",
+    "updated_at": "2026-06-30T19:14:37Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:22:25Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
-    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "language": "Python",
-    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
-    "stars": 4,
-    "updated_at": "2026-06-30T17:22:19Z",
-    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-06-30T17:21:31Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:16:54Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
