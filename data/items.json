@@ -1,5 +1,14 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-06-30T09:51:03Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "\u84ec\u83b1 Penglai \u2014 \u4f4f\u5728\u4f60\u98de\u4e66\u548c\u5fae\u4fe1\u91cc\u7684\u4e2d\u6587 AI \u7ba1\u5bb6 \u00b7 Your personal AI butler in Feishu & WeChat (powered by GenericAgent, kernel untouched)",
     "id": "kevinchennewbee/PenglaiAgent",
     "language": "Python",
@@ -36,15 +45,6 @@
     "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-06-30T09:39:14Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4344,
-    "updated_at": "2026-06-30T09:40:48Z",
+    "updated_at": "2026-06-30T09:56:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -184,7 +184,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13206,
+    "stars": 13208,
     "updated_at": "2026-06-30T09:22:18Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 14,
-    "updated_at": "2026-06-30T09:09:56Z",
+    "updated_at": "2026-06-30T09:53:20Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
