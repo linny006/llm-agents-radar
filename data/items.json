@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
+    "id": "Shiyao-Huang/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "Shiyao-Huang/awesome-agent-evolution",
+    "stars": 169,
+    "updated_at": "2026-06-30T21:12:51Z",
+    "url": "https://github.com/Shiyao-Huang/awesome-agent-evolution"
+  },
+  {
+    "description": "Open-source ESP32 dashboard for monitoring Claude Code and Codex usage, limits, and status in real time.",
+    "id": "alestanalves/TokenMeter",
+    "language": "C",
+    "name": "alestanalves/TokenMeter",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:07:08Z",
+    "url": "https://github.com/alestanalves/TokenMeter"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:04:40Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:03:17Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-06-30T21:00:21Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
     "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
     "language": "Go",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-30T20:19:13Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:18:49Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-06-30T20:17:36Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-06-30T20:16:20Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-30T20:15:34Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-06-30T20:08:33Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
