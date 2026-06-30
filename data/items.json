@@ -1,5 +1,50 @@
 [
   {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 1,
+    "updated_at": "2026-06-30T15:44:45Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-30T15:44:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-06-30T15:43:25Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "Agentic KYC/AML document-review pipeline: real OFAC sanctions screening, provenance on every field, deterministic risk s",
+    "id": "aeoxyz-jpg/AML-KYC-Agent",
+    "language": "Python",
+    "name": "aeoxyz-jpg/AML-KYC-Agent",
+    "stars": 0,
+    "updated_at": "2026-06-30T15:45:14Z",
+    "url": "https://github.com/aeoxyz-jpg/AML-KYC-Agent"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-30T15:32:55Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
     "id": "zty522/partner",
     "language": "Python",
@@ -9,15 +54,6 @@
     "url": "https://github.com/zty522/partner"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-30T15:23:14Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T15:21:44Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-06-30T15:28:52Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -50,17 +77,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 787,
-    "updated_at": "2026-06-30T15:29:59Z",
+    "updated_at": "2026-06-30T15:44:38Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-06-30T15:17:19Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T14:38:10Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-06-30T14:36:36Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-06-30T14:35:33Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
