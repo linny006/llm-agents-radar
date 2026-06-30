@@ -1,5 +1,32 @@
 [
   {
+    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
+    "id": "yosh95/llm-secure-cli",
+    "language": "Rust",
+    "name": "yosh95/llm-secure-cli",
+    "stars": 1,
+    "updated_at": "2026-06-30T02:14:12Z",
+    "url": "https://github.com/yosh95/llm-secure-cli"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-06-30T02:06:37Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-30T02:04:10Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -31,7 +58,7 @@
     "id": "Juwon1405/yushin-trade-showcase",
     "language": "\u2014",
     "name": "Juwon1405/yushin-trade-showcase",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-30T01:52:50Z",
     "url": "https://github.com/Juwon1405/yushin-trade-showcase"
   },
@@ -40,7 +67,7 @@
     "id": "Juwon1405/yushin-watch-showcase",
     "language": "\u2014",
     "name": "Juwon1405/yushin-watch-showcase",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-06-30T01:52:50Z",
     "url": "https://github.com/Juwon1405/yushin-watch-showcase"
   },
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-06-30T01:32:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-30T01:32:15Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
@@ -279,15 +297,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "llm-secure-cli (binary name: llsc) is a high-assurance command-line tool designed for interacting with Large Language Mo",
-    "id": "yosh95/llm-secure-cli",
-    "language": "Rust",
-    "name": "yosh95/llm-secure-cli",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:51:49Z",
-    "url": "https://github.com/yosh95/llm-secure-cli"
-  },
-  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T00:34:40Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-30T00:34:15Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
