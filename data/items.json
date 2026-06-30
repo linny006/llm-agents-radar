@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "openronin/openronin",
     "stars": 8,
-    "updated_at": "2026-06-30T18:38:24Z",
+    "updated_at": "2026-06-30T18:56:33Z",
     "url": "https://github.com/openronin/openronin"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:52:55Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
+    "id": "nethinwei/fino",
+    "language": "Go",
+    "name": "nethinwei/fino",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:50:44Z",
+    "url": "https://github.com/nethinwei/fino"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-06-30T18:47:29Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
@@ -49,7 +76,7 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 141,
+    "stars": 147,
     "updated_at": "2026-06-30T18:23:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
@@ -149,7 +176,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 207,
-    "updated_at": "2026-06-30T17:56:59Z",
+    "updated_at": "2026-06-30T18:56:31Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "A minimal, reliable ReAct agent SDK for Go \u2014 small composable primitives, standard-library only.",
-    "id": "nethinwei/fino",
-    "language": "Go",
-    "name": "nethinwei/fino",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:44:37Z",
-    "url": "https://github.com/nethinwei/fino"
-  },
-  {
     "description": "jailbreak_nano_banana_2_ai",
     "id": "trust-exploit-chain/jailbreak_nano_banana_2_ai",
     "language": "\u2014",
@@ -250,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-06-30T17:42:00Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:41:54Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:16:54Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:15:57Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
