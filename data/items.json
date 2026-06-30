@@ -1,21 +1,21 @@
 [
   {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-06-30T01:44:52Z",
-    "url": "https://github.com/adamskijow/Hob"
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-06-30T01:58:04Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
     "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 6,
-    "updated_at": "2026-06-30T01:44:34Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
+    "name": "Maximooch/penguin",
+    "stars": 5,
+    "updated_at": "2026-06-30T01:53:15Z",
+    "url": "https://github.com/Maximooch/penguin"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -23,26 +23,71 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-06-30T01:41:57Z",
+    "updated_at": "2026-06-30T01:52:51Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Public showcase for YuShin Trade, a private autonomous trading research cockpit",
     "id": "Juwon1405/yushin-trade-showcase",
-    "language": "HTML",
+    "language": "\u2014",
     "name": "Juwon1405/yushin-trade-showcase",
     "stars": 0,
-    "updated_at": "2026-06-30T01:35:44Z",
+    "updated_at": "2026-06-30T01:52:50Z",
     "url": "https://github.com/Juwon1405/yushin-trade-showcase"
   },
   {
     "description": "Public showcase for YuShin Watch, a private AI-assisted luxury watch opportunity monitor",
     "id": "Juwon1405/yushin-watch-showcase",
-    "language": "HTML",
+    "language": "\u2014",
     "name": "Juwon1405/yushin-watch-showcase",
     "stars": 0,
-    "updated_at": "2026-06-30T01:35:44Z",
+    "updated_at": "2026-06-30T01:52:50Z",
     "url": "https://github.com/Juwon1405/yushin-watch-showcase"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-06-30T01:49:03Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:48:29Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 6,
+    "updated_at": "2026-06-30T01:48:26Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-06-30T01:45:47Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-06-30T01:44:52Z",
+    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-06-30T01:32:15Z",
     "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-06-30T01:17:47Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T00:34:15Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:33:26Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-06-30T00:30:42Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-06-30T00:29:39Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2753,
-    "updated_at": "2026-06-30T00:31:02Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
