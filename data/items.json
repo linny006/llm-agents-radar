@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI dev teammate for GitHub. Picks up issues, asks questions, ships PRs, answers your review comments, resolves conflicts",
+    "id": "openronin/openronin",
+    "language": "TypeScript",
+    "name": "openronin/openronin",
+    "stars": 8,
+    "updated_at": "2026-06-30T18:38:24Z",
+    "url": "https://github.com/openronin/openronin"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-06-30T18:34:10Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -31,7 +49,7 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 139,
+    "stars": 141,
     "updated_at": "2026-06-30T18:23:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
@@ -115,15 +133,6 @@
     "stars": 191,
     "updated_at": "2026-06-30T18:07:36Z",
     "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-30T18:06:21Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -283,7 +292,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6356,
+    "stars": 6357,
     "updated_at": "2026-06-30T17:37:14Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-30T17:15:57Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-06-30T17:15:45Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
