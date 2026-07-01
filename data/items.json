@@ -1,5 +1,122 @@
 [
   {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:55:45Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:55:11Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:54:18Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:53:21Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:53:20Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Generate ComfyUI custom nodes for Foundation-1 to create structured text-to-sample music with fast, local audio diffusio",
+    "id": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "language": "Python",
+    "name": "lislegenusthiobacillus199/ComfyUI-Foundation-1",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:52:10Z",
+    "url": "https://github.com/lislegenusthiobacillus199/ComfyUI-Foundation-1"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:51:41Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:50:57Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Small Python Agent runtime with planning, memory, tools, state machine, and multi-agent review.",
+    "id": "jsdnaasd/agent-kernel-lab",
+    "language": "Python",
+    "name": "jsdnaasd/agent-kernel-lab",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:50:47Z",
+    "url": "https://github.com/jsdnaasd/agent-kernel-lab"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-01T16:50:36Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Add consistent identity control to Flux.2 models using PuLID with improved face recognition and native Klein weights int",
+    "id": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "language": "Python",
+    "name": "armi10121-png/ComfyUI-PuLID-Flux2",
+    "stars": 4,
+    "updated_at": "2026-07-01T16:50:31Z",
+    "url": "https://github.com/armi10121-png/ComfyUI-PuLID-Flux2"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:49:46Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
+    "id": "LukeMainwaring/cortexdj",
+    "language": "Python",
+    "name": "LukeMainwaring/cortexdj",
+    "stars": 1,
+    "updated_at": "2026-07-01T16:46:27Z",
+    "url": "https://github.com/LukeMainwaring/cortexdj"
+  },
+  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -319,7 +436,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6375,
+    "stars": 6376,
     "updated_at": "2026-07-01T15:45:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -331,122 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-01T15:41:45Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-01T15:37:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-01T15:37:10Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 0,
-    "updated_at": "2026-07-01T15:36:34Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "An autonomous project queue for an LLM agent: drop a folder with an instructions.md (or send an email/Slack message), a ",
-    "id": "eranto/understudy",
-    "language": "Python",
-    "name": "eranto/understudy",
-    "stars": 6,
-    "updated_at": "2026-07-01T15:35:03Z",
-    "url": "https://github.com/eranto/understudy"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-01T15:32:37Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2771,
-    "updated_at": "2026-07-01T15:29:49Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-01T15:29:38Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 195,
-    "updated_at": "2026-07-01T15:29:27Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
-    "description": "A declarative meta-language for orchestrating multi-agent workflows. Readable by humans. Executable by LLMs. Portable ac",
-    "id": "riktar/slang",
-    "language": "TypeScript",
-    "name": "riktar/slang",
-    "stars": 25,
-    "updated_at": "2026-07-01T15:24:02Z",
-    "url": "https://github.com/riktar/slang"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-01T15:20:33Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2129,
-    "updated_at": "2026-07-01T15:19:47Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-01T15:19:24Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 787,
-    "updated_at": "2026-07-01T15:51:43Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
