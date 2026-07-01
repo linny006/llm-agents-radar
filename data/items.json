@@ -5,8 +5,26 @@
     "language": "Shell",
     "name": "kumo-ai/kumo-coding-agent",
     "stars": 38,
-    "updated_at": "2026-07-01T20:00:13Z",
+    "updated_at": "2026-07-01T20:13:53Z",
     "url": "https://github.com/kumo-ai/kumo-coding-agent"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 3,
+    "updated_at": "2026-07-01T20:03:46Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-01T20:03:27Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 787,
-    "updated_at": "2026-07-01T19:54:39Z",
+    "updated_at": "2026-07-01T20:10:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -293,17 +311,8 @@
     "language": "Python",
     "name": "Maximooch/penguin",
     "stars": 5,
-    "updated_at": "2026-07-01T19:20:54Z",
+    "updated_at": "2026-07-01T20:02:13Z",
     "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-07-01T19:20:06Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "Applied AI/ML portfolio. Featured: a multi-modal product classifier benchmarked honestly against an image-only baseline ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T19:01:25Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6379,
-    "updated_at": "2026-07-01T18:55:18Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
