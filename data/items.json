@@ -1,5 +1,32 @@
 [
   {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:25:35Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-07-01T23:21:08Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-07-01T23:15:28Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "1337hero/scaffold-bench",
     "stars": 4,
-    "updated_at": "2026-07-01T23:07:20Z",
+    "updated_at": "2026-07-01T23:22:48Z",
     "url": "https://github.com/1337hero/scaffold-bench"
   },
   {
@@ -157,7 +184,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 152,
+    "stars": 151,
     "updated_at": "2026-07-01T22:57:59Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -166,18 +193,9 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
+    "stars": 151,
     "updated_at": "2026-07-01T22:57:45Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-07-01T22:57:36Z",
-    "url": "https://github.com/Wenri/TaskSolver"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-01T22:25:28Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-07-01T22:25:06Z",
-    "url": "https://github.com/secondorderai/ouroboros"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-01T22:22:29Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
