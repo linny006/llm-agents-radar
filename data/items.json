@@ -1,12 +1,21 @@
 [
   {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 212,
-    "updated_at": "2026-07-01T21:13:14Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-01T21:29:15Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-01T21:27:54Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
@@ -14,8 +23,71 @@
     "language": "Python",
     "name": "Wenri/TaskSolver",
     "stars": 0,
-    "updated_at": "2026-07-01T21:12:47Z",
+    "updated_at": "2026-07-01T21:26:40Z",
     "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "A safety runtime for tool-using LLM Agents",
+    "id": "haibaoseal/agent-sentinel",
+    "language": "Python",
+    "name": "haibaoseal/agent-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-01T21:26:23Z",
+    "url": "https://github.com/haibaoseal/agent-sentinel"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-01T21:22:30Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-01T21:22:12Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-01T21:19:33Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 52,
+    "updated_at": "2026-07-01T21:16:58Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
+    "id": "akatzmann/slash-agent",
+    "language": "Python",
+    "name": "akatzmann/slash-agent",
+    "stars": 9,
+    "updated_at": "2026-07-01T21:16:22Z",
+    "url": "https://github.com/akatzmann/slash-agent"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 212,
+    "updated_at": "2026-07-01T21:13:14Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -77,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 787,
-    "updated_at": "2026-07-01T21:09:34Z",
+    "updated_at": "2026-07-01T21:23:04Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T20:26:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:22:18Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -198,15 +261,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:45:08Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -268,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-07-01T19:34:39Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Native LLM Copilot for Your Terminal \u2013 **No Daemons. Zero Idle Memory. 100% On-Demand.**",
-    "id": "akatzmann/slash-agent",
-    "language": "Python",
-    "name": "akatzmann/slash-agent",
-    "stars": 9,
-    "updated_at": "2026-07-01T19:34:11Z",
-    "url": "https://github.com/akatzmann/slash-agent"
   },
   {
     "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-01T20:02:13Z",
     "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Applied AI/ML portfolio. Featured: a multi-modal product classifier benchmarked honestly against an image-only baseline ",
-    "id": "buzinarov/ia-projects",
-    "language": "Jupyter Notebook",
-    "name": "buzinarov/ia-projects",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:16:53Z",
-    "url": "https://github.com/buzinarov/ia-projects"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:16:39Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:15:41Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-01T19:15:30Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-01T19:14:30Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
