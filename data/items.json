@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 787,
+    "updated_at": "2026-07-01T10:29:05Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 11,
+    "updated_at": "2026-07-01T10:24:20Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4346,
+    "updated_at": "2026-07-01T10:25:44Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-01T10:23:06Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 0,
-    "updated_at": "2026-07-01T10:15:03Z",
+    "updated_at": "2026-07-01T10:22:09Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 18,
+    "updated_at": "2026-07-01T10:20:50Z",
+    "url": "https://github.com/sehoon787/my-codex"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -79,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-01T10:00:59Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 0,
-    "updated_at": "2026-07-01T10:00:59Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "sky-valley/pi",
     "stars": 7,
-    "updated_at": "2026-07-01T09:50:02Z",
+    "updated_at": "2026-07-01T10:17:23Z",
     "url": "https://github.com/sky-valley/pi"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-01T08:55:20Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-01T08:52:15Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:51:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
-    "id": "m-oonn/rag-aiops-platform",
-    "language": "Python",
-    "name": "m-oonn/rag-aiops-platform",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:49:23Z",
-    "url": "https://github.com/m-oonn/rag-aiops-platform"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-01T08:48:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
