@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-01T15:29:38Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 195,
+    "updated_at": "2026-07-01T15:29:27Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "A declarative meta-language for orchestrating multi-agent workflows. Readable by humans. Executable by LLMs. Portable ac",
+    "id": "riktar/slang",
+    "language": "TypeScript",
+    "name": "riktar/slang",
+    "stars": 25,
+    "updated_at": "2026-07-01T15:24:02Z",
+    "url": "https://github.com/riktar/slang"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-01T15:20:33Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-01T15:19:25Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-01T15:19:24Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 787,
+    "updated_at": "2026-07-01T15:19:10Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5343,
+    "updated_at": "2026-07-01T15:18:09Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-01T15:17:33Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -16,24 +97,6 @@
     "stars": 6,
     "updated_at": "2026-07-01T15:14:04Z",
     "url": "https://github.com/eranto/understudy"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 787,
-    "updated_at": "2026-07-01T15:13:58Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A declarative meta-language for orchestrating multi-agent workflows. Readable by humans. Executable by LLMs. Portable ac",
-    "id": "riktar/slang",
-    "language": "TypeScript",
-    "name": "riktar/slang",
-    "stars": 25,
-    "updated_at": "2026-07-01T15:13:37Z",
-    "url": "https://github.com/riktar/slang"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -61,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-07-01T15:04:08Z",
     "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5343,
-    "updated_at": "2026-07-01T15:01:44Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -225,15 +279,6 @@
     "url": "https://github.com/mezoali100/exforum-auto-poster"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 0,
-    "updated_at": "2026-07-01T14:31:31Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
     "id": "Bowotria/aethercore",
     "language": "Go",
@@ -333,15 +378,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 195,
-    "updated_at": "2026-07-01T14:15:25Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -356,7 +392,7 @@
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
     "stars": 2128,
-    "updated_at": "2026-07-01T14:13:48Z",
+    "updated_at": "2026-07-01T15:19:47Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T14:00:11Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-01T13:59:10Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4346,
-    "updated_at": "2026-07-01T14:01:26Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 5,
-    "updated_at": "2026-07-01T13:59:06Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-01T13:56:37Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
