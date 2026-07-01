@@ -1,5 +1,32 @@
 [
   {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 192,
+    "updated_at": "2026-07-01T02:59:03Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-07-01T02:50:34Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 1,
+    "updated_at": "2026-07-01T02:54:42Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
     "description": "jailbreak_nano_banana_2_ai",
     "id": "trust-exploit-chain/jailbreak_nano_banana_2_ai",
     "language": "\u2014",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T02:33:03Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-07-01T02:32:47Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
@@ -315,15 +333,6 @@
     "url": "https://github.com/laoxs2002/genai-agentes"
   },
   {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 192,
-    "updated_at": "2026-07-01T02:03:53Z",
-    "url": "https://github.com/shenmintao/marginalia"
-  },
-  {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
     "id": "Tonyx79/clov-ai",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-01T01:43:00Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-01T01:41:31Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
