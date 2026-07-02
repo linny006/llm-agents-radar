@@ -1,12 +1,66 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-02T10:55:10Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:54:17Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-02T10:53:05Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 99,
-    "updated_at": "2026-07-02T10:43:38Z",
+    "updated_at": "2026-07-02T10:51:54Z",
     "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Offline fault diagnosis assistant for the AgiBot X2 Ultra humanoid: drop in a log package, get a three-round reviewed di",
+    "id": "zengury/manastone-diag",
+    "language": "Python",
+    "name": "zengury/manastone-diag",
+    "stars": 1,
+    "updated_at": "2026-07-02T10:52:53Z",
+    "url": "https://github.com/zengury/manastone-diag"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-02T10:51:26Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-02T10:47:03Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -72,15 +126,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Offline fault diagnosis assistant for the AgiBot X2 Ultra humanoid: drop in a log package, get a three-round reviewed di",
-    "id": "zengury/manastone-diag",
-    "language": "Python",
-    "name": "zengury/manastone-diag",
-    "stars": 1,
-    "updated_at": "2026-07-02T10:24:28Z",
-    "url": "https://github.com/zengury/manastone-diag"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -108,15 +153,6 @@
     "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-02T10:21:59Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
     "id": "arturkorb3/eva-evolutional-agent",
     "language": "Python",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4346,
-    "updated_at": "2026-07-02T10:42:53Z",
+    "updated_at": "2026-07-02T10:56:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -373,7 +409,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5409,
+    "stars": 5411,
     "updated_at": "2026-07-02T08:10:49Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -412,41 +448,5 @@
     "stars": 6388,
     "updated_at": "2026-07-02T07:56:22Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:54:15Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-02T07:53:14Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:51:49Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-02T07:51:10Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
