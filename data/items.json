@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 787,
+    "updated_at": "2026-07-02T21:45:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-07-02T21:42:51Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T21:21:28Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-07-02T21:32:04Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4349,
-    "updated_at": "2026-07-02T21:09:42Z",
+    "updated_at": "2026-07-02T21:42:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T20:23:07Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-07-02T20:19:04Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
