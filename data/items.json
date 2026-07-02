@@ -1,12 +1,12 @@
 [
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
     "stars": 1,
-    "updated_at": "2026-07-02T02:08:52Z",
-    "url": "https://github.com/b-macker/NAAb"
+    "updated_at": "2026-07-02T02:29:15Z",
+    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "QodeXcli/QodeX",
     "stars": 33,
-    "updated_at": "2026-07-02T02:05:21Z",
+    "updated_at": "2026-07-02T02:26:12Z",
     "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-02T02:08:52Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-02T01:01:12Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-02T01:00:39Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
