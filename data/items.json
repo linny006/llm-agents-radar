@@ -1,12 +1,21 @@
 [
   {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-02T16:29:16Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-07-02T16:14:30Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+    "updated_at": "2026-07-02T16:28:03Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6388,
-    "updated_at": "2026-07-02T16:12:24Z",
+    "updated_at": "2026-07-02T16:19:23Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-02T16:14:30Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -54,20 +72,11 @@
     "url": "https://github.com/mtecnic/cadillac"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-02T16:01:25Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5354,
+    "stars": 5355,
     "updated_at": "2026-07-02T15:47:25Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-07-02T14:41:45Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-02T14:41:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
