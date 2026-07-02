@@ -1,5 +1,14 @@
 [
   {
+    "description": "Skill Scan Agent \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 32,
+    "updated_at": "2026-07-02T08:32:11Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -70,15 +79,6 @@
     "stars": 5399,
     "updated_at": "2026-07-02T08:10:49Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Skill Scan Agent \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 32,
-    "updated_at": "2026-07-02T08:07:48Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
