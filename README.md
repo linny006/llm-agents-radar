@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-02 09:00 UTC
+> ⏰ Last updated: 2026-07-02 09:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 1 | Python | 2026-07-02 | 面向智能座舱的云边协同 Multi-Agent 系统，支持端侧快意图、云端 LLM 规划、跨域 Agent 编排、车控 VAL 安全执行、HMI 流式交互、语义记忆与可观测 Dashboard |
 | 18 | [Stolas34/voice-input-src](https://github.com/Stolas34/voice-input-src) | 0 | — | 2026-07-02 | Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast  |
 | 19 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-02 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
-| 20 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5402 | Python | 2026-07-02 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 20 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5403 | Python | 2026-07-02 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 21 | [shenmintao/marginalia](https://github.com/shenmintao/marginalia) | 198 | Python | 2026-07-02 | A library-science-inspired personal knowledge management system with LLM agents |
 | 22 | [KCNyu/clawock](https://github.com/KCNyu/clawock) | 4 | Python | 2026-07-02 | Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a  |
 | 23 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2138 | TypeScript | 2026-07-02 | A research agent system deeply rooted in your Zotero library. |
