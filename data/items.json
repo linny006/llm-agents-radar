@@ -1,12 +1,39 @@
 [
   {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-07-03T03:43:04Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 4,
+    "updated_at": "2026-07-03T03:34:05Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 22,
-    "updated_at": "2026-07-03T03:28:14Z",
+    "updated_at": "2026-07-03T03:33:12Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5364,
+    "updated_at": "2026-07-03T03:30:18Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-03T03:16:08Z",
+    "updated_at": "2026-07-03T03:44:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T03:02:58Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 4,
-    "updated_at": "2026-07-03T03:02:45Z",
-    "url": "https://github.com/KCNyu/clawock"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T02:14:19Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4349,
-    "updated_at": "2026-07-03T02:47:19Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-03T02:07:18Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
