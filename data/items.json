@@ -1,12 +1,75 @@
 [
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-03T17:29:51Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
-    "name": "yigido41/agentic-ai",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:28:10Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
     "stars": 2,
-    "updated_at": "2026-07-03T17:14:06Z",
-    "url": "https://github.com/yigido41/agentic-ai"
+    "updated_at": "2026-07-03T17:26:44Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-03T17:25:32Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-03T17:23:22Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-03T17:21:37Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-03T17:20:13Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-03T17:18:25Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +77,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-03T17:13:38Z",
+    "updated_at": "2026-07-03T17:16:53Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-03T17:14:06Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -324,15 +396,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 0,
-    "updated_at": "2026-07-03T15:58:04Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
-  },
-  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -378,15 +441,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-03T15:47:20Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T15:47:08Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:45:28Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:44:06Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:44:01Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:42:53Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2781,
-    "updated_at": "2026-07-03T15:48:38Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-03T17:06:23Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   }
 ]
