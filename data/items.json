@@ -1,5 +1,14 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-03T11:56:19Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
     "id": "Shiyao-Huang/awesome-agent-evolution",
     "language": "JavaScript",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-03T11:48:28Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 0,
-    "updated_at": "2026-07-03T11:46:08Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "A drop-in grep that's also code intelligence for LLM agents: precomputed code graph + native semantic search in one Rust",
@@ -86,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 787,
-    "updated_at": "2026-07-03T11:53:51Z",
+    "updated_at": "2026-07-03T12:00:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-03T11:23:35Z",
+    "updated_at": "2026-07-03T11:56:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
