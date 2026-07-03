@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-03T16:44:51Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\u4ece\u96f6\u5199\u4e00\u4e2a\u80fd\u6d3b\u4e0b\u6765\u7684 AI Agent\uff1a15 \u8bfe\u53ef\u8dd1\u4ee3\u7801\uff0c\u673a\u5236\u4ece\u771f\u5b9e\u4ea7\u54c1 Reina \u79fb\u690d | Build a coding agent from scratch \u2014 how Claude Code / Codex / Cursor act",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 50,
+    "updated_at": "2026-07-03T16:42:27Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:41:14Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:40:06Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "arifOS Federation AssetOpsBench Bridge \u2014 IJCAI-25 | Constitutional governance for industrial AI",
     "id": "ariffazil/A2B",
     "language": "Python",
     "name": "ariffazil/A2B",
     "stars": 0,
-    "updated_at": "2026-07-03T16:25:51Z",
+    "updated_at": "2026-07-03T16:39:21Z",
     "url": "https://github.com/ariffazil/A2B"
+  },
+  {
+    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
+    "id": "aldok10/zara-agent-opc",
+    "language": "JavaScript",
+    "name": "aldok10/zara-agent-opc",
+    "stars": 0,
+    "updated_at": "2026-07-03T16:38:26Z",
+    "url": "https://github.com/aldok10/zara-agent-opc"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-03T16:23:56Z",
+    "updated_at": "2026-07-03T16:44:32Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 787,
+    "updated_at": "2026-07-03T16:38:50Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-03T16:13:39Z",
+    "updated_at": "2026-07-03T16:35:42Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
-    "id": "aldok10/zara-agent-opc",
-    "language": "JavaScript",
-    "name": "aldok10/zara-agent-opc",
-    "stars": 0,
-    "updated_at": "2026-07-03T16:15:41Z",
-    "url": "https://github.com/aldok10/zara-agent-opc"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -142,15 +187,6 @@
     "stars": 152,
     "updated_at": "2026-07-03T16:06:43Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-07-03T16:05:03Z",
-    "url": "https://github.com/Wenri/TaskSolver"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4350,
-    "updated_at": "2026-07-03T16:21:55Z",
+    "updated_at": "2026-07-03T16:31:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-03T16:25:57Z",
+    "updated_at": "2026-07-03T16:43:59Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-03T15:05:17Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-03T15:04:53Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-03T15:03:38Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 787,
-    "updated_at": "2026-07-03T16:14:47Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-03T15:01:55Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
