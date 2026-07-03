@@ -1,5 +1,23 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-03T06:28:48Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-03T06:22:14Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "An agentic workspace for exploring, analyzing, visualizing, and annotating EEG/iEEG signals. Includes a tool-using agent",
     "id": "akatsuky999/Waveform-EEG-AIStudio",
     "language": "JavaScript",
@@ -16,15 +34,6 @@
     "stars": 38,
     "updated_at": "2026-07-03T06:12:14Z",
     "url": "https://github.com/HarryHsing/OmniAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-03T06:08:25Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -310,7 +319,7 @@
     "id": "7-e1even/learn-agent",
     "language": "JavaScript",
     "name": "7-e1even/learn-agent",
-    "stars": 0,
+    "stars": 2,
     "updated_at": "2026-07-03T05:37:12Z",
     "url": "https://github.com/7-e1even/learn-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-03T05:19:30Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-03T05:18:37Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
