@@ -1,11 +1,29 @@
 [
   {
+    "description": "LLM agent for Python 2 to 3 migration, verified against a 41-case behavioral oracle benchmark: 95.1% pass rate, byte-ide",
+    "id": "gkhurana21/codeshift",
+    "language": "Python",
+    "name": "gkhurana21/codeshift",
+    "stars": 1,
+    "updated_at": "2026-07-03T21:40:51Z",
+    "url": "https://github.com/gkhurana21/codeshift"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-03T21:35:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
     "id": "metric-space-ai/grepplus-rs",
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-03T21:21:27Z",
+    "updated_at": "2026-07-03T21:33:50Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-03T20:20:39Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-03T20:19:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-07-03T20:18:23Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
