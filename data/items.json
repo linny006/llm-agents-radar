@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-03T15:47:20Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-03T15:47:08Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-03T15:45:28Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2781,
-    "updated_at": "2026-07-03T15:42:35Z",
+    "updated_at": "2026-07-03T15:48:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-03T15:43:09Z",
+    "updated_at": "2026-07-03T15:46:38Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-03T14:07:44Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
-    "id": "eggbrid2/mobileClaw",
-    "language": "Kotlin",
-    "name": "eggbrid2/mobileClaw",
-    "stars": 397,
-    "updated_at": "2026-07-03T14:07:38Z",
-    "url": "https://github.com/eggbrid2/mobileClaw"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-03T14:05:54Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-07-03T14:05:51Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
