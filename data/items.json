@@ -1,11 +1,65 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-03T10:14:34Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-03T10:11:30Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-03T10:06:18Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:02:03Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Linux distribution with a built-in, local-first AI assistant. A global hotkey opens an assistant that manages files, ins",
+    "id": "gonicolas12/My_OS",
+    "language": "Python",
+    "name": "gonicolas12/My_OS",
+    "stars": 1,
+    "updated_at": "2026-07-03T10:01:39Z",
+    "url": "https://github.com/gonicolas12/My_OS"
+  },
+  {
+    "description": "A drop-in grep that's also code intelligence for LLM agents: precomputed code graph + native semantic search in one Rust",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-03T10:00:17Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-03T09:57:55Z",
+    "updated_at": "2026-07-03T10:09:11Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-03T09:57:32Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "A drop-in grep that's also code intelligence for LLM agents: precomputed code graph + native semantic search in one Rust",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-03T09:56:31Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4349,
-    "updated_at": "2026-07-03T09:54:38Z",
+    "updated_at": "2026-07-03T10:13:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -167,7 +212,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8847,
-    "updated_at": "2026-07-03T08:42:55Z",
+    "updated_at": "2026-07-03T10:10:28Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-03T08:02:40Z",
     "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-03T08:02:22Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:58:02Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:57:16Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:57:03Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-03T07:56:51Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
