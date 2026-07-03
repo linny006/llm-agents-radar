@@ -1,5 +1,113 @@
 [
   {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:44:36Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-03T02:44:27Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:43:31Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-03T02:38:49Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:37:27Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-03T02:36:32Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-03T02:36:19Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:34:55Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:34:39Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-03T02:33:58Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-03T02:33:11Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
+    "id": "KCNyu/clawock",
+    "language": "Python",
+    "name": "KCNyu/clawock",
+    "stars": 4,
+    "updated_at": "2026-07-03T02:32:42Z",
+    "url": "https://github.com/KCNyu/clawock"
+  },
+  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -180,15 +288,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 4,
-    "updated_at": "2026-07-03T02:02:40Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -320,7 +419,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-03T01:39:37Z",
+    "updated_at": "2026-07-03T02:45:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 44,
     "updated_at": "2026-07-03T01:31:41Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-03T01:31:12Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-03T01:26:59Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Drive Claude Code on your Mac from your phone: list and resume every session, start new tasks, stream results live.",
-    "id": "yusongcao2004/claude-phone",
-    "language": "Python",
-    "name": "yusongcao2004/claude-phone",
-    "stars": 1,
-    "updated_at": "2026-07-03T01:23:09Z",
-    "url": "https://github.com/yusongcao2004/claude-phone"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-03T01:22:35Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-03T01:20:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-07-03T01:19:53Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-03T01:19:43Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\ud83e\udd16 Embodied personal AI assistant \u2014 StackChan robot \u00d7 Telegram \u00d7 JARVIS dashboard, one brain one memory. Deterministic fi",
-    "id": "owen4sure/jarvis",
-    "language": "Python",
-    "name": "owen4sure/jarvis",
-    "stars": 0,
-    "updated_at": "2026-07-03T01:19:33Z",
-    "url": "https://github.com/owen4sure/jarvis"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-03T01:10:35Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-03T01:09:14Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-03T01:07:25Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
