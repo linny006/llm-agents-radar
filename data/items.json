@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-04T05:01:24Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-04T05:01:06Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-04T05:00:24Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-04T05:00:12Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
     "id": "Ronit0p/AutoGod",
     "language": "Java",
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-04T04:52:15Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-04T04:52:27Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5392,
-    "updated_at": "2026-07-04T03:23:08Z",
+    "updated_at": "2026-07-04T05:01:45Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T02:36:08Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:35:46Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:35:19Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-04T02:33:32Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
   }
 ]
