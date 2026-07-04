@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:27:22Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Turn any LLM into a local PC-controlling agent",
+    "id": "agustinvillegas/AgentFrame",
+    "language": "Python",
+    "name": "agustinvillegas/AgentFrame",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:26:36Z",
+    "url": "https://github.com/agustinvillegas/AgentFrame"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-04T06:22:56Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-04T06:20:06Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-04T06:16:51Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Turn any LLM into a local PC-controlling agent",
-    "id": "agustinvillegas/AgentFrame",
-    "language": "Python",
-    "name": "agustinvillegas/AgentFrame",
-    "stars": 0,
-    "updated_at": "2026-07-04T06:04:14Z",
-    "url": "https://github.com/agustinvillegas/AgentFrame"
-  },
-  {
     "description": "Portable THETA agent workflow skill",
     "id": "CodeSoul-co/theta-skill",
     "language": "Python",
@@ -85,18 +121,18 @@
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4351,
+    "stars": 4352,
     "updated_at": "2026-07-04T05:54:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-04T05:49:51Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "Open AML agent skills library and TCAML Agent Framework for local AML/KYC/KYB workflows.",
+    "id": "tomcustos/tcaml-skills",
+    "language": "\u2014",
+    "name": "tomcustos/tcaml-skills",
+    "stars": 0,
+    "updated_at": "2026-07-04T06:29:36Z",
+    "url": "https://github.com/tomcustos/tcaml-skills"
   },
   {
     "description": "Open survey and evidence map for AI agent evolution, self-evolving agents, memory, skills, harnesses, benchmarks, and ag",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T05:01:06Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-04T05:00:24Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-04T05:00:12Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-04T04:58:25Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-04T04:55:52Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
