@@ -1,12 +1,12 @@
 [
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-04T03:44:54Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:58:14Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 1,
-    "updated_at": "2026-07-04T03:44:47Z",
+    "updated_at": "2026-07-04T03:56:04Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-04T03:50:11Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-04T03:49:03Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-04T03:47:22Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-04T03:44:54Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -40,7 +76,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5390,
+    "stars": 5391,
     "updated_at": "2026-07-04T03:23:08Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-04T01:53:30Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-04T01:52:48Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 7,
-    "updated_at": "2026-07-04T01:51:48Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-04T01:49:05Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "Applied AI/ML portfolio. Featured: a multi-modal product classifier benchmarked honestly against an image-only baseline ",
-    "id": "buzinarov/ia-projects",
-    "language": "Jupyter Notebook",
-    "name": "buzinarov/ia-projects",
-    "stars": 0,
-    "updated_at": "2026-07-04T01:48:40Z",
-    "url": "https://github.com/buzinarov/ia-projects"
   }
 ]
