@@ -1,5 +1,23 @@
 [
   {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 0,
+    "updated_at": "2026-07-04T22:43:17Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-04T22:38:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -36,7 +54,7 @@
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
   },
   {
-    "description": "Evidence grounded career decision safety for high agency operators.",
+    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
     "id": "OnourImpram/vocation-os",
     "language": "TypeScript",
     "name": "OnourImpram/vocation-os",
@@ -238,7 +256,7 @@
     "id": "Hereon-InstituteMS/OASiS",
     "language": "Python",
     "name": "Hereon-InstituteMS/OASiS",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-07-04T21:51:35Z",
     "url": "https://github.com/Hereon-InstituteMS/OASiS"
   },
@@ -266,7 +284,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 2,
-    "updated_at": "2026-07-04T21:50:31Z",
+    "updated_at": "2026-07-04T22:45:10Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T21:41:05Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-04T21:39:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T21:28:22Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-04T21:21:20Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
