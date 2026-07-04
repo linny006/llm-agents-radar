@@ -18,15 +18,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 4,
-    "updated_at": "2026-07-04T08:11:00Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -448,5 +439,14 @@
     "stars": 18,
     "updated_at": "2026-07-04T07:10:30Z",
     "url": "https://github.com/ThreeFish-AI/coding-proxy"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-07-04T07:08:29Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
