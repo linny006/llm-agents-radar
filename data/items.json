@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "brownjuly2003-code/Auto_BI",
     "stars": 0,
-    "updated_at": "2026-07-04T03:06:05Z",
+    "updated_at": "2026-07-04T03:23:58Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5390,
+    "updated_at": "2026-07-04T03:23:08Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Turn any LLM into a local PC-controlling agent",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-04T01:46:00Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-04T01:44:46Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
