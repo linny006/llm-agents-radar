@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-04 08:45 UTC
+> ⏰ Last updated: 2026-07-04 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Dreamaker-TA/EasyCode](https://github.com/Dreamaker-TA/EasyCode) | 2 | Python | 2026-07-04 | Local-first AI coding practice platform with LLM review, code snapshots, timed sessions, and spaced repetition. 本地优先的 AI |
-| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 1 | Python | 2026-07-04 | 面向智能座舱的云边协同 Multi-Agent 系统，支持端侧快意图、云端 LLM 规划、跨域 Agent 编排、车控 VAL 安全执行、HMI 流式交互、语义记忆与可观测 Dashboard |
+| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 1 | Python | 2026-07-04 | 面向智能座舱的云边协同 Multi-Agent 系统，支持端侧快意图、云端 LLM 规划、跨域 Agent 编排、车控 VAL 安全执行、HMI 流式交互、语义记忆与可观测 Dashboard |
+| 2 | [Dreamaker-TA/EasyCode](https://github.com/Dreamaker-TA/EasyCode) | 2 | Python | 2026-07-04 | Local-first AI coding practice platform with LLM review, code snapshots, timed sessions, and spaced repetition. 本地优先的 AI |
 | 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-04 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 4 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-04 | Automate file management and coding tasks in your local directory using small language models. |
 | 5 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-04 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
