@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-07-04T15:45:33Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T13:24:11Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "\ud83d\udcfa AI\u89c6\u9891\u5b66\u4e60\u52a9\u624b: \u81ea\u52a8\u751f\u6210 B\u7ad9/YouTube/\u6296\u97f3/\u672c\u5730\u89c6\u9891\u601d\u7ef4\u5bfc\u56fe\u3001\u7b14\u8bb0\u4e0e\u603b\u7ed3\u3002\u652f\u6301\u64ad\u5ba2\u5206\u6790\u4e0e\u89c6\u9891\u7d22\u5f15\uff0c\u5f00\u6e90\u5e73\u66ff\u3002AI Video Learning Assistant: Auto-generate Mind Maps, Not",
-    "id": "LDJ-creat/video-helper",
-    "language": "Python",
-    "name": "LDJ-creat/video-helper",
-    "stars": 38,
-    "updated_at": "2026-07-04T13:23:58Z",
-    "url": "https://github.com/LDJ-creat/video-helper"
   }
 ]
