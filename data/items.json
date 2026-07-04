@@ -1,11 +1,74 @@
 [
   {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-07-04T10:27:39Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-04T10:27:28Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-04T10:26:48Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-04T10:26:31Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-07-04T10:26:23Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-04T10:24:13Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-04T10:23:51Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-07-04T10:23:07Z",
+    "updated_at": "2026-07-04T10:27:01Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -333,15 +396,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:12:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-04T07:59:32Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:57:27Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-04T07:56:55Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Open AML agent skills library and TCAML Agent Framework for local AML/KYC/KYB workflows.",
-    "id": "tomcustos/tcaml-skills",
-    "language": "Python",
-    "name": "tomcustos/tcaml-skills",
-    "stars": 0,
-    "updated_at": "2026-07-04T08:01:27Z",
-    "url": "https://github.com/tomcustos/tcaml-skills"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-04T08:42:55Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-07-04T07:53:08Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 3,
-    "updated_at": "2026-07-04T07:51:54Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
