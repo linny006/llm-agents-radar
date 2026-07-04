@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "fangzheng698-lang/agent-prod",
     "stars": 2,
-    "updated_at": "2026-07-04T00:28:20Z",
+    "updated_at": "2026-07-04T00:31:28Z",
     "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-07-04T00:30:28Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -133,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-04T00:02:11Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-07-04T00:01:24Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
