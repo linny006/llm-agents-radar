@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-05T03:58:31Z",
+    "updated_at": "2026-07-05T04:13:49Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-05T04:07:25Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-05T04:14:41Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-05T04:06:12Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-05T04:04:43Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-07-05T03:06:53Z",
+    "updated_at": "2026-07-05T04:03:51Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-05T02:48:23Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-05T02:47:37Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 212,
-    "updated_at": "2026-07-05T02:46:19Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-05T02:41:01Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Native iOS app for your self-hosted Hermes agent \u2014 live chat, approvals, push, Live Activities. Pairs with a hermes-agen",
-    "id": "abhibansal-sg/hermes-ios",
-    "language": "Swift",
-    "name": "abhibansal-sg/hermes-ios",
-    "stars": 3,
-    "updated_at": "2026-07-05T02:40:22Z",
-    "url": "https://github.com/abhibansal-sg/hermes-ios"
   }
 ]
