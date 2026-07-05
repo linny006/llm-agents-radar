@@ -1,5 +1,50 @@
 [
   {
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
+    "language": "Python",
+    "name": "eugnmueller-87/SCM-Master",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:14:38Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
+  },
+  {
+    "description": "AI-powered OSINT & security reconnaissance toolkit for Python \u2014 subdomain finder, WAF detector, JWT analyzer, email brea",
+    "id": "Muhammad-Adil-code/Reconx-py",
+    "language": "Python",
+    "name": "Muhammad-Adil-code/Reconx-py",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:14:33Z",
+    "url": "https://github.com/Muhammad-Adil-code/Reconx-py"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-07-05T06:12:00Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:04:12Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
+    "id": "BadTechResearch/santana",
+    "language": "Python",
+    "name": "BadTechResearch/santana",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:01:10Z",
+    "url": "https://github.com/BadTechResearch/santana"
+  },
+  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T05:57:41Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
-    "id": "BadTechResearch/santana",
-    "language": "Python",
-    "name": "BadTechResearch/santana",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:56:31Z",
-    "url": "https://github.com/BadTechResearch/santana"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -97,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T05:50:02Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
-    "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:49:49Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
-  },
-  {
-    "description": "AI-powered OSINT & security reconnaissance toolkit for Python \u2014 subdomain finder, WAF detector, JWT analyzer, email brea",
-    "id": "Muhammad-Adil-code/Reconx-py",
-    "language": "Python",
-    "name": "Muhammad-Adil-code/Reconx-py",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:49:41Z",
-    "url": "https://github.com/Muhammad-Adil-code/Reconx-py"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4351,
-    "updated_at": "2026-07-05T05:54:16Z",
+    "updated_at": "2026-07-05T06:01:30Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-05T05:09:56Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-05T05:09:16Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Safe execution harness for LLM agents operating on local workspaces.",
-    "id": "zhangyi-nb1/localflow",
-    "language": "Python",
-    "name": "zhangyi-nb1/localflow",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:09:15Z",
-    "url": "https://github.com/zhangyi-nb1/localflow"
   }
 ]
