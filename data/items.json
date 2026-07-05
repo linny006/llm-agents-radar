@@ -1,12 +1,12 @@
 [
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
+    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
+    "id": "BadTechResearch/santana",
+    "language": "Python",
+    "name": "BadTechResearch/santana",
     "stars": 0,
-    "updated_at": "2026-07-05T12:02:59Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "updated_at": "2026-07-05T12:14:05Z",
+    "url": "https://github.com/BadTechResearch/santana"
   },
   {
     "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "sreenathvemula/finance-research-agent",
     "stars": 0,
-    "updated_at": "2026-07-05T11:58:47Z",
+    "updated_at": "2026-07-05T12:11:32Z",
     "url": "https://github.com/sreenathvemula/finance-research-agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:05:50Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:05:25Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:02:59Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 14,
-    "updated_at": "2026-07-05T11:44:05Z",
+    "updated_at": "2026-07-05T12:12:38Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T11:41:45Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
-    "id": "BadTechResearch/santana",
-    "language": "Python",
-    "name": "BadTechResearch/santana",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:40:48Z",
-    "url": "https://github.com/BadTechResearch/santana"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T10:40:55Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-05T10:38:03Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-05T10:37:18Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
