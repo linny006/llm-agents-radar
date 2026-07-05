@@ -1,12 +1,12 @@
 [
   {
-    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
-    "id": "eugnmueller-87/SCM-Master",
+    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
+    "id": "BadTechResearch/santana",
     "language": "Python",
-    "name": "eugnmueller-87/SCM-Master",
+    "name": "BadTechResearch/santana",
     "stars": 0,
-    "updated_at": "2026-07-05T06:14:38Z",
-    "url": "https://github.com/eugnmueller-87/SCM-Master"
+    "updated_at": "2026-07-05T06:26:33Z",
+    "url": "https://github.com/BadTechResearch/santana"
   },
   {
     "description": "AI-powered OSINT & security reconnaissance toolkit for Python \u2014 subdomain finder, WAF detector, JWT analyzer, email brea",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "Muhammad-Adil-code/Reconx-py",
     "stars": 0,
-    "updated_at": "2026-07-05T06:14:33Z",
+    "updated_at": "2026-07-05T06:21:56Z",
     "url": "https://github.com/Muhammad-Adil-code/Reconx-py"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 212,
+    "updated_at": "2026-07-05T06:18:52Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:18:34Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:17:15Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Hardware-procurement & asset-lifecycle SCM with an AI decision layer: should-cost, TCO/TSCMC, and an LLM copilot that ad",
+    "id": "eugnmueller-87/SCM-Master",
+    "language": "Python",
+    "name": "eugnmueller-87/SCM-Master",
+    "stars": 0,
+    "updated_at": "2026-07-05T06:14:38Z",
+    "url": "https://github.com/eugnmueller-87/SCM-Master"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -34,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T06:04:12Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
-    "id": "BadTechResearch/santana",
-    "language": "Python",
-    "name": "BadTechResearch/santana",
-    "stars": 0,
-    "updated_at": "2026-07-05T06:01:10Z",
-    "url": "https://github.com/BadTechResearch/santana"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:59:00Z",
-    "url": "https://github.com/Wenri/TaskSolver"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:12:45Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:12:15Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-05T05:09:56Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
