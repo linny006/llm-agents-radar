@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:59:56Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-05T12:59:01Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:55:42Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
+    "id": "qiyueqiu/ORACLE",
+    "language": "JavaScript",
+    "name": "qiyueqiu/ORACLE",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:54:23Z",
+    "url": "https://github.com/qiyueqiu/ORACLE"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:54:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:51:18Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:48:27Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4351,
-    "updated_at": "2026-07-05T12:37:16Z",
+    "updated_at": "2026-07-05T12:52:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:41:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-05T11:39:06Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
-    "id": "qiyueqiu/ORACLE",
-    "language": "JavaScript",
-    "name": "qiyueqiu/ORACLE",
-    "stars": 0,
-    "updated_at": "2026-07-05T11:33:17Z",
-    "url": "https://github.com/qiyueqiu/ORACLE"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T10:51:29Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-05T10:51:07Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-05T10:49:55Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-05T10:47:11Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-05T10:46:28Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-05T10:46:18Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
