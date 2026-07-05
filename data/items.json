@@ -1,12 +1,21 @@
 [
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
     "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "name": "yigido41/agentic-ai",
     "stars": 2,
-    "updated_at": "2026-07-05T09:42:39Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+    "updated_at": "2026-07-05T09:59:26Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:58:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002\u5c06 LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6\u4e0e\u94fe\u4e0a\u8eab\u4efd\u3001\u5ba1\u8ba1\u3001\u4fe1\u8a89\u673a\u5236\u7ed3\u5408\uff1aSolidity \u5408\u7ea6 +",
@@ -14,8 +23,53 @@
     "language": "JavaScript",
     "name": "qiyueqiu/ORACLE",
     "stars": 0,
-    "updated_at": "2026-07-05T09:40:39Z",
+    "updated_at": "2026-07-05T09:56:01Z",
     "url": "https://github.com/qiyueqiu/ORACLE"
+  },
+  {
+    "description": "",
+    "id": "tarunlnmiit/inbox-to-action",
+    "language": "Python",
+    "name": "tarunlnmiit/inbox-to-action",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:55:17Z",
+    "url": "https://github.com/tarunlnmiit/inbox-to-action"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:54:26Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-05T09:49:45Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:45:32Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-05T09:42:39Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4351,
-    "updated_at": "2026-07-05T09:44:44Z",
+    "updated_at": "2026-07-05T09:52:10Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-05T09:31:29Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "",
-    "id": "tarunlnmiit/inbox-to-action",
-    "language": "Python",
-    "name": "tarunlnmiit/inbox-to-action",
-    "stars": 0,
-    "updated_at": "2026-07-05T09:21:51Z",
-    "url": "https://github.com/tarunlnmiit/inbox-to-action"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-05T08:30:36Z",
     "url": "https://github.com/eranto/understudy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:28:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:27:12Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:26:15Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 151,
-    "updated_at": "2026-07-05T08:26:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-05T08:25:58Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
