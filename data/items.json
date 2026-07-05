@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:02:59Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
     "id": "sreenathvemula/finance-research-agent",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2788,
-    "updated_at": "2026-07-05T11:54:07Z",
+    "updated_at": "2026-07-05T12:02:39Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T10:40:55Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-05T10:38:46Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
