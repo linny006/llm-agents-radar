@@ -1,11 +1,20 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 18,
+    "updated_at": "2026-07-05T01:20:41Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 2,
-    "updated_at": "2026-07-05T01:01:02Z",
+    "updated_at": "2026-07-05T01:18:00Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-04T23:43:23Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-04T23:41:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
