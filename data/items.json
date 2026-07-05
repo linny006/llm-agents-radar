@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tarunlnmiit/inbox-to-action",
     "stars": 0,
-    "updated_at": "2026-07-05T09:15:12Z",
+    "updated_at": "2026-07-05T09:21:51Z",
     "url": "https://github.com/tarunlnmiit/inbox-to-action"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4351,
+    "updated_at": "2026-07-05T09:21:35Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -23,7 +32,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-05T09:13:35Z",
+    "updated_at": "2026-07-05T09:15:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-05T08:16:41Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-05T08:16:05Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
