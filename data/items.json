@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI-powered OSINT & security reconnaissance toolkit for Python \u2014 subdomain finder, WAF detector, JWT analyzer, email brea",
+    "id": "Muhammad-Adil-code/Reconx-py",
+    "language": "Python",
+    "name": "Muhammad-Adil-code/Reconx-py",
+    "stars": 0,
+    "updated_at": "2026-07-05T05:31:08Z",
+    "url": "https://github.com/Muhammad-Adil-code/Reconx-py"
+  },
+  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-05T05:28:14Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "AI-powered reconnaissance toolkit \u2014 pip-installable security recon tools + optional natural-language AI agent.",
-    "id": "Muhammad-Adil-code/Reconx-py",
-    "language": "Python",
-    "name": "Muhammad-Adil-code/Reconx-py",
-    "stars": 0,
-    "updated_at": "2026-07-05T05:26:29Z",
-    "url": "https://github.com/Muhammad-Adil-code/Reconx-py"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
