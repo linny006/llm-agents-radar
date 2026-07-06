@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:47:11Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6441,
+    "updated_at": "2026-07-06T20:46:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
@@ -61,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-06T20:29:00Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6441,
-    "updated_at": "2026-07-06T20:28:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-06T19:11:59Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-06T19:11:48Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
