@@ -1,5 +1,23 @@
 [
   {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:14:01Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-06T20:09:45Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
     "id": "enhzoenr2373/Reina",
     "language": "TypeScript",
@@ -198,15 +216,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:32:58Z",
-    "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -214,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T19:28:47Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-06T19:28:15Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
     "description": "Autonomous Claude Code agent \u2014 14 specialized agents, 10-parallel execution, project-specific skill learning, mechanical",
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-06T19:14:53Z",
+    "updated_at": "2026-07-06T20:11:20Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
