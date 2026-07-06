@@ -1,5 +1,50 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-06T23:14:00Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:13:15Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:09:55Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:04:49Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-06T23:01:43Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
     "id": "aussieOS/aussieOS",
     "language": "HTML",
@@ -9,15 +54,6 @@
     "url": "https://github.com/aussieOS/aussieOS"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-07-06T22:58:37Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
     "id": "brownjuly2003-code/Auto_BI",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T22:48:52Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:44:24Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -252,15 +279,6 @@
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:55:56Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
     "id": "Laurenfeminine36/google-jules-skill",
     "language": "Python",
@@ -360,15 +378,6 @@
     "url": "https://github.com/Ronit0p/AutoGod"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:40:59Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T21:27:53Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:25:38Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
