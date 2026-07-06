@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
+    "id": "nightraven4545/SENTINEL",
+    "language": "Jupyter Notebook",
+    "name": "nightraven4545/SENTINEL",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:26:22Z",
+    "url": "https://github.com/nightraven4545/SENTINEL"
+  },
+  {
+    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
+    "id": "ZhihaoZhang97/wcpredict",
+    "language": "Python",
+    "name": "ZhihaoZhang97/wcpredict",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:25:49Z",
+    "url": "https://github.com/ZhihaoZhang97/wcpredict"
+  },
+  {
+    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
+    "id": "enhzoenr2373/Reina",
+    "language": "TypeScript",
+    "name": "enhzoenr2373/Reina",
+    "stars": 0,
+    "updated_at": "2026-07-06T04:17:09Z",
+    "url": "https://github.com/enhzoenr2373/Reina"
+  },
+  {
+    "description": "AI \u9a71\u52a8\u7684\u804a\u5929\u7ba1\u7406\u5de5\u5177\uff0c\u667a\u80fd\u68c0\u6d4b\u8bdd\u9898\u3001\u5206\u6790\u7528\u6237\u753b\u50cf\uff0c\u8f7b\u677e\u641e\u5b9a 99 + \u6d88\u606f\uff01",
+    "id": "Ljzd-PRO/ChatGuardian",
+    "language": "TypeScript",
+    "name": "Ljzd-PRO/ChatGuardian",
+    "stars": 3,
+    "updated_at": "2026-07-06T04:17:06Z",
+    "url": "https://github.com/Ljzd-PRO/ChatGuardian"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -153,15 +189,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
-    "id": "nightraven4545/SENTINEL",
-    "language": "Jupyter Notebook",
-    "name": "nightraven4545/SENTINEL",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:57:48Z",
-    "url": "https://github.com/nightraven4545/SENTINEL"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T03:46:39Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
-    "id": "ZhihaoZhang97/wcpredict",
-    "language": "Python",
-    "name": "ZhihaoZhang97/wcpredict",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:46:00Z",
-    "url": "https://github.com/ZhihaoZhang97/wcpredict"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-06T03:28:53Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-06T03:28:48Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-06T03:28:11Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
