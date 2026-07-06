@@ -1,5 +1,59 @@
 [
   {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-06T11:28:01Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-06T11:25:52Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-06T11:21:26Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
+    "id": "nightraven4545/SENTINEL",
+    "language": "Jupyter Notebook",
+    "name": "nightraven4545/SENTINEL",
+    "stars": 0,
+    "updated_at": "2026-07-06T11:18:45Z",
+    "url": "https://github.com/nightraven4545/SENTINEL"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-06T11:17:04Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-06T11:29:31Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Python LLM-RAG deep agent using LangChain, LangGraph and LangSmith built on Quart web microframework and served using Hy",
     "id": "khteh/rag-agent",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "ZhihaoZhang97/wcpredict",
     "stars": 0,
-    "updated_at": "2026-07-06T11:10:35Z",
+    "updated_at": "2026-07-06T11:19:02Z",
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-06T11:09:01Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "",
@@ -135,15 +180,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-06T11:00:21Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Ship your code, on autopilot. An open source agent that lives on your machines 24/7 and keeps your apps running. \ud83e\udd80",
     "id": "stakpak/agent",
     "language": "Rust",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:55:45Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
-    "id": "nightraven4545/SENTINEL",
-    "language": "Jupyter Notebook",
-    "name": "nightraven4545/SENTINEL",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:52:46Z",
-    "url": "https://github.com/nightraven4545/SENTINEL"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:17:10Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-06T09:16:29Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:12:02Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:10:58Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
