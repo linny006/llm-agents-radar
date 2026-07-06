@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-06T06:29:49Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-06T06:44:08Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-06T06:43:04Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-06T06:42:48Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-06T06:41:52Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
@@ -14,8 +41,98 @@
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-06T06:29:38Z",
+    "updated_at": "2026-07-06T06:38:56Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-06T06:38:53Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-06T06:38:08Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-06T06:37:54Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-07-06T06:36:10Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-07-06T06:33:31Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-06T06:33:21Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-06T06:32:48Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-06T06:32:46Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-07-06T06:32:16Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-06T06:29:49Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   },
   {
     "description": "",
@@ -32,7 +149,7 @@
     "language": "TypeScript",
     "name": "Reina-Agent/Reina",
     "stars": 13,
-    "updated_at": "2026-07-06T06:24:49Z",
+    "updated_at": "2026-07-06T06:33:28Z",
     "url": "https://github.com/Reina-Agent/Reina"
   },
   {
@@ -88,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T06:10:18Z",
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-06T06:09:32Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -284,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2792,
-    "updated_at": "2026-07-06T05:33:25Z",
+    "updated_at": "2026-07-06T06:35:38Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T05:24:27Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-06T05:23:21Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5417,
-    "updated_at": "2026-07-06T05:08:19Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-06T05:06:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4350,
-    "updated_at": "2026-07-06T06:24:15Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u591a\u6a21\u6001 RAG \u667a\u80fd\u4f53\uff1aMCP \u534f\u8bae + GraphRAG + Cross-Encoder \u7cbe\u6392 + \u591a Agent \u7f16\u6392 + RAGAS \u8bc4\u4f30",
-    "id": "Apageoflove/mcp-rag-agent",
-    "language": "Python",
-    "name": "Apageoflove/mcp-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-07-06T04:45:58Z",
-    "url": "https://github.com/Apageoflove/mcp-rag-agent"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 14,
-    "updated_at": "2026-07-06T04:33:14Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
-    "id": "nightraven4545/SENTINEL",
-    "language": "Jupyter Notebook",
-    "name": "nightraven4545/SENTINEL",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:26:22Z",
-    "url": "https://github.com/nightraven4545/SENTINEL"
-  },
-  {
-    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
-    "id": "enhzoenr2373/Reina",
-    "language": "TypeScript",
-    "name": "enhzoenr2373/Reina",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:17:09Z",
-    "url": "https://github.com/enhzoenr2373/Reina"
-  },
-  {
-    "description": "AI \u9a71\u52a8\u7684\u804a\u5929\u7ba1\u7406\u5de5\u5177\uff0c\u667a\u80fd\u68c0\u6d4b\u8bdd\u9898\u3001\u5206\u6790\u7528\u6237\u753b\u50cf\uff0c\u8f7b\u677e\u641e\u5b9a 99 + \u6d88\u606f\uff01",
-    "id": "Ljzd-PRO/ChatGuardian",
-    "language": "TypeScript",
-    "name": "Ljzd-PRO/ChatGuardian",
-    "stars": 3,
-    "updated_at": "2026-07-06T04:17:06Z",
-    "url": "https://github.com/Ljzd-PRO/ChatGuardian"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:13:20Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:11:57Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-07-06T04:10:15Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
