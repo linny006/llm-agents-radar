@@ -1,5 +1,32 @@
 [
   {
+    "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
+    "id": "aussieOS/aussieOS",
+    "language": "HTML",
+    "name": "aussieOS/aussieOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:58:51Z",
+    "url": "https://github.com/aussieOS/aussieOS"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-06T22:58:37Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:48:52Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
     "id": "metric-space-ai/grepplus-rs",
     "language": "Rust",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T22:44:24Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
-  },
-  {
-    "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
-    "id": "aussieOS/aussieOS",
-    "language": "HTML",
-    "name": "aussieOS/aussieOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:32:44Z",
-    "url": "https://github.com/aussieOS/aussieOS"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T21:25:38Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 267,
-    "updated_at": "2026-07-06T21:24:59Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-06T21:24:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
