@@ -1,12 +1,21 @@
 [
   {
-    "description": "Autonomous Playwright browser agent with candidateId execution, object memory, checkpoints, and confirmation gates",
-    "id": "egordushenko/Browser_Agent",
-    "language": "TypeScript",
-    "name": "egordushenko/Browser_Agent",
-    "stars": 0,
-    "updated_at": "2026-07-06T14:26:42Z",
-    "url": "https://github.com/egordushenko/Browser_Agent"
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-06T14:43:10Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4351,
+    "updated_at": "2026-07-06T14:41:40Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
@@ -14,8 +23,35 @@
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-06T14:28:59Z",
+    "updated_at": "2026-07-06T14:41:16Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-06T14:40:13Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-06T14:30:44Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Autonomous Playwright browser agent with candidateId execution, object memory, checkpoints, and confirmation gates",
+    "id": "egordushenko/Browser_Agent",
+    "language": "TypeScript",
+    "name": "egordushenko/Browser_Agent",
+    "stars": 0,
+    "updated_at": "2026-07-06T14:26:42Z",
+    "url": "https://github.com/egordushenko/Browser_Agent"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "kulapoo/opencode-agent-harness",
     "stars": 0,
-    "updated_at": "2026-07-06T14:22:56Z",
+    "updated_at": "2026-07-06T14:44:21Z",
     "url": "https://github.com/kulapoo/opencode-agent-harness"
   },
   {
@@ -67,7 +103,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6436,
+    "stars": 6437,
     "updated_at": "2026-07-06T14:17:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 788,
-    "updated_at": "2026-07-06T14:11:57Z",
+    "updated_at": "2026-07-06T14:34:29Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-06T13:26:16Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:24:23Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-06T13:21:41Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-06T13:21:28Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4351,
-    "updated_at": "2026-07-06T14:22:55Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
