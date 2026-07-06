@@ -1,5 +1,86 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-06T08:30:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-06T08:29:33Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:27:19Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Self-hosted agentic AI for clinical tasks on FHIR EHR (Planner\u2013Executor\u2013Verifier + MCP tools). ~88% on Stanford MedAgent",
+    "id": "seancpc/MedAgent-EHR",
+    "language": "Python",
+    "name": "seancpc/MedAgent-EHR",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:26:06Z",
+    "url": "https://github.com/seancpc/MedAgent-EHR"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-06T08:25:32Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 152,
+    "updated_at": "2026-07-06T08:25:26Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-06T08:18:34Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-06T08:18:19Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 77,
+    "updated_at": "2026-07-06T08:16:07Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -16,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T08:08:51Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-06T08:07:35Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 152,
-    "updated_at": "2026-07-06T08:07:03Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Self-hosted agentic AI for clinical tasks on FHIR EHR (Planner\u2013Executor\u2013Verifier + MCP tools). ~88% on Stanford MedAgent",
-    "id": "seancpc/MedAgent-EHR",
-    "language": "Python",
-    "name": "seancpc/MedAgent-EHR",
-    "stars": 0,
-    "updated_at": "2026-07-06T08:06:35Z",
-    "url": "https://github.com/seancpc/MedAgent-EHR"
   },
   {
     "description": "",
@@ -122,17 +176,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4350,
-    "updated_at": "2026-07-06T08:10:09Z",
+    "updated_at": "2026-07-06T08:15:59Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0",
-    "id": "7-e1even/learn-agent",
-    "language": "JavaScript",
-    "name": "7-e1even/learn-agent",
-    "stars": 76,
-    "updated_at": "2026-07-06T07:23:01Z",
-    "url": "https://github.com/7-e1even/learn-agent"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -403,50 +448,5 @@
     "stars": 14,
     "updated_at": "2026-07-06T06:45:34Z",
     "url": "https://github.com/Reina-Agent/Reina"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-06T06:44:08Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-06T06:43:04Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-06T06:42:48Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:41:52Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-06T06:38:53Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
