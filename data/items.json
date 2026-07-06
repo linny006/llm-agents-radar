@@ -1,5 +1,23 @@
 [
   {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:44:24Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
+    "id": "aussieOS/aussieOS",
+    "language": "HTML",
+    "name": "aussieOS/aussieOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T22:32:44Z",
+    "url": "https://github.com/aussieOS/aussieOS"
+  },
+  {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
     "id": "enhzoenr2373/Reina",
     "language": "TypeScript",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-06T22:18:25Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
-    "id": "aussieOS/aussieOS",
-    "language": "HTML",
-    "name": "aussieOS/aussieOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:17:28Z",
-    "url": "https://github.com/aussieOS/aussieOS"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -322,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T21:44:36Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-06T22:10:34Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
