@@ -1,12 +1,57 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-06T10:41:55Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 80,
+    "updated_at": "2026-07-06T10:38:15Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
     "id": "metric-space-ai/grepplus-rs",
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-06T10:30:13Z",
+    "updated_at": "2026-07-06T10:37:42Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 788,
+    "updated_at": "2026-07-06T10:32:24Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-06T10:30:59Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 2,
+    "updated_at": "2026-07-06T10:30:31Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -16,33 +61,6 @@
     "stars": 10,
     "updated_at": "2026-07-06T10:28:39Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0",
-    "id": "7-e1even/learn-agent",
-    "language": "JavaScript",
-    "name": "7-e1even/learn-agent",
-    "stars": 79,
-    "updated_at": "2026-07-06T10:25:25Z",
-    "url": "https://github.com/7-e1even/learn-agent"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-07-06T10:19:33Z",
-    "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-06T10:15:11Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Umbrella monorepo for Bodhi AI \u2014 a local-first desktop AI agent. Submodule pointers + a release train tie together Bambo",
@@ -279,15 +297,6 @@
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:27:01Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
     "id": "Stolas34/voice-input-src",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T09:04:47Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-06T09:04:04Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
