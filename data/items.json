@@ -1,5 +1,149 @@
 [
   {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-07T18:13:38Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:12:09Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-07T18:11:18Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 32,
+    "updated_at": "2026-07-07T18:11:48Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:09:29Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:09:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:08:54Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:08:31Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-07T18:07:31Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Proof of concept: a CPG trade-promotion deductions agent that adjudicates retailer claims with bounded autonomy \u2014 drafti",
+    "id": "ejochims/deductions-agent-cma",
+    "language": "Python",
+    "name": "ejochims/deductions-agent-cma",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:05:46Z",
+    "url": "https://github.com/ejochims/deductions-agent-cma"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:05:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:02:47Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:01:41Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:01:26Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-07-07T18:00:44Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-07T18:00:25Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -153,15 +297,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 32,
-    "updated_at": "2026-07-07T17:27:25Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -284,7 +419,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-07T17:59:49Z",
+    "updated_at": "2026-07-07T18:14:10Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T16:57:00Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6463,
-    "updated_at": "2026-07-07T16:55:38Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:52:50Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-07T16:50:55Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-07T16:48:06Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-07T16:47:52Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-07T16:45:03Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "AI agent for GitHub repo/account insights",
-    "id": "Vrishali34/gitspy",
-    "language": "Python",
-    "name": "Vrishali34/gitspy",
-    "stars": 1,
-    "updated_at": "2026-07-07T16:43:10Z",
-    "url": "https://github.com/Vrishali34/gitspy"
-  },
-  {
-    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
-    "id": "sukoji/persode",
-    "language": "Python",
-    "name": "sukoji/persode",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:42:08Z",
-    "url": "https://github.com/sukoji/persode"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-07-07T16:37:54Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-07T16:35:14Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-07T16:33:56Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-07-07T17:57:05Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-07T16:32:06Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:24:09Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 15,
-    "updated_at": "2026-07-07T16:21:55Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   }
 ]
