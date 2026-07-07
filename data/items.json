@@ -1,12 +1,39 @@
 [
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-07T19:59:59Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-07-07T19:59:47Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-07T19:40:54Z",
-    "url": "https://github.com/yigido41/agentic-ai"
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-07T19:58:51Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 6,
+    "updated_at": "2026-07-07T19:58:49Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
     "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
@@ -14,8 +41,71 @@
     "language": "Python",
     "name": "kenny0312/videosense-agent",
     "stars": 2,
-    "updated_at": "2026-07-07T19:39:29Z",
+    "updated_at": "2026-07-07T19:58:41Z",
     "url": "https://github.com/kenny0312/videosense-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-07T19:56:25Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-07T19:54:45Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-07T19:53:17Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-07T19:52:02Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-07T19:49:55Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-07T19:48:05Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-07T19:40:54Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -151,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T18:57:42Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-07T18:45:19Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T18:12:09Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-07T18:11:18Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 32,
-    "updated_at": "2026-07-07T18:11:48Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:09:29Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:09:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:08:54Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:08:31Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-07T18:07:31Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Proof of concept: a CPG trade-promotion deductions agent that adjudicates retailer claims with bounded autonomy \u2014 drafti",
-    "id": "ejochims/deductions-agent-cma",
-    "language": "Python",
-    "name": "ejochims/deductions-agent-cma",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:34:50Z",
-    "url": "https://github.com/ejochims/deductions-agent-cma"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-07-07T18:05:22Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
