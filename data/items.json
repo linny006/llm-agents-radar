@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
+    "id": "jkassemi/hey",
+    "language": "Rust",
+    "name": "jkassemi/hey",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:59:15Z",
+    "url": "https://github.com/jkassemi/hey"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:54:51Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,15 +45,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-07T21:38:21Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -49,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6469,
+    "stars": 6468,
     "updated_at": "2026-07-07T21:37:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4352,
-    "updated_at": "2026-07-07T21:50:25Z",
+    "updated_at": "2026-07-07T21:51:55Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T21:17:38Z",
     "url": "https://github.com/arturkorb3/eva-evolutional-agent"
-  },
-  {
-    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
-    "id": "jkassemi/hey",
-    "language": "Rust",
-    "name": "jkassemi/hey",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:15:11Z",
-    "url": "https://github.com/jkassemi/hey"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
