@@ -1,5 +1,32 @@
 [
   {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-07-07T01:15:06Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 2,
+    "updated_at": "2026-07-07T01:14:36Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 2,
+    "updated_at": "2026-07-07T01:13:55Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T00:11:03Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-07T00:05:05Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-07T00:03:55Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 2,
-    "updated_at": "2026-07-07T00:02:12Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
