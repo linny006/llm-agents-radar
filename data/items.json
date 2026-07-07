@@ -1,5 +1,23 @@
 [
   {
+    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
+    "id": "sukoji/persode",
+    "language": "Python",
+    "name": "sukoji/persode",
+    "stars": 0,
+    "updated_at": "2026-07-07T15:45:00Z",
+    "url": "https://github.com/sukoji/persode"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-07T15:31:37Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
     "id": "QodeXcli/QodeX",
     "language": "TypeScript",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T15:23:47Z",
     "url": "https://github.com/paulalarosa/productklini"
-  },
-  {
-    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
-    "id": "sukoji/persode",
-    "language": "Python",
-    "name": "sukoji/persode",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:23:24Z",
-    "url": "https://github.com/sukoji/persode"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-07-07T14:55:32Z",
+    "updated_at": "2026-07-07T15:30:54Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T14:31:18Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-07T14:30:35Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
