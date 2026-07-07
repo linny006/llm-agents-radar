@@ -1,5 +1,104 @@
 [
   {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:57:16Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 293,
+    "updated_at": "2026-07-07T17:56:53Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-07T17:56:29Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:56:16Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:54:20Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-07-07T17:51:14Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-07T17:51:08Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:50:20Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-07-07T17:49:46Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-07T17:47:11Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-07T17:46:23Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -185,7 +284,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-07T17:02:16Z",
+    "updated_at": "2026-07-07T17:59:49Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -320,7 +419,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-07-07T16:33:36Z",
+    "updated_at": "2026-07-07T17:57:05Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 15,
     "updated_at": "2026-07-07T16:21:55Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-07-07T17:43:19Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 382,
-    "updated_at": "2026-07-07T16:17:30Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:13:01Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-07T16:01:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-07T15:59:19Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-07T15:54:11Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-07-07T15:50:22Z",
-    "url": "https://github.com/QodeXcli/QodeX"
-  },
-  {
-    "description": "ProductOS \u2014 sistema pessoal de gest\u00e3o de produto end-to-end com Mentor IA. Do discovery ao handoff: personas, auditorias",
-    "id": "paulalarosa/productklini",
-    "language": "TypeScript",
-    "name": "paulalarosa/productklini",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:23:47Z",
-    "url": "https://github.com/paulalarosa/productklini"
-  },
-  {
-    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
-    "id": "enhzoenr2373/Reina",
-    "language": "TypeScript",
-    "name": "enhzoenr2373/Reina",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:16:51Z",
-    "url": "https://github.com/enhzoenr2373/Reina"
-  },
-  {
-    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
-    "id": "ZhihaoZhang97/wcpredict",
-    "language": "Python",
-    "name": "ZhihaoZhang97/wcpredict",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:16:06Z",
-    "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:12:55Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
