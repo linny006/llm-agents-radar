@@ -1,12 +1,12 @@
 [
   {
-    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
-    "id": "enhzoenr2373/Reina",
-    "language": "TypeScript",
-    "name": "enhzoenr2373/Reina",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:58:58Z",
-    "url": "https://github.com/enhzoenr2373/Reina"
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 18,
+    "updated_at": "2026-07-07T04:15:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "BadTechResearch/santana",
     "stars": 0,
-    "updated_at": "2026-07-07T03:57:30Z",
+    "updated_at": "2026-07-07T04:13:16Z",
     "url": "https://github.com/BadTechResearch/santana"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/grepplus-rs",
+    "language": "Rust",
+    "name": "metric-space-ai/grepplus-rs",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:11:47Z",
+    "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T04:10:59Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
+    "id": "laurykb/AI_for_geopolitics",
+    "language": "Python",
+    "name": "laurykb/AI_for_geopolitics",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:08:11Z",
+    "url": "https://github.com/laurykb/AI_for_geopolitics"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 788,
+    "updated_at": "2026-07-07T04:10:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:00:36Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
+    "id": "enhzoenr2373/Reina",
+    "language": "TypeScript",
+    "name": "enhzoenr2373/Reina",
+    "stars": 0,
+    "updated_at": "2026-07-07T03:58:58Z",
+    "url": "https://github.com/enhzoenr2373/Reina"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:55:16Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/grepplus-rs",
-    "language": "Rust",
-    "name": "metric-space-ai/grepplus-rs",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:54:28Z",
-    "url": "https://github.com/metric-space-ai/grepplus-rs"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -378,15 +423,6 @@
     "url": "https://github.com/Ronit0p/AutoGod"
   },
   {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-07T03:14:02Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T03:11:20Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:10:48Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "An AI strategy consultant (Claude Code agent) that interviews you instead of answering \u2014 structured, hypothesis-driven p",
-    "id": "clark1015/strategy-consultant-agent",
-    "language": "\u2014",
-    "name": "clark1015/strategy-consultant-agent",
-    "stars": 1,
-    "updated_at": "2026-07-07T03:08:57Z",
-    "url": "https://github.com/clark1015/strategy-consultant-agent"
-  },
-  {
-    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
-    "id": "laurykb/AI_for_geopolitics",
-    "language": "Python",
-    "name": "laurykb/AI_for_geopolitics",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:57:11Z",
-    "url": "https://github.com/laurykb/AI_for_geopolitics"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:08:23Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
