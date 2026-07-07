@@ -1,5 +1,41 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:29:03Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
+    "id": "codexceed/avatar-harness",
+    "language": "Python",
+    "name": "codexceed/avatar-harness",
+    "stars": 0,
+    "updated_at": "2026-07-07T21:26:54Z",
+    "url": "https://github.com/codexceed/avatar-harness"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T21:19:26Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
+    "id": "arturkorb3/eva-evolutional-agent",
+    "language": "Python",
+    "name": "arturkorb3/eva-evolutional-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T21:17:38Z",
+    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
+  },
+  {
     "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
     "id": "jkassemi/hey",
     "language": "Rust",
@@ -9,15 +45,6 @@
     "url": "https://github.com/jkassemi/hey"
   },
   {
-    "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
-    "id": "enhzoenr2373/Reina",
-    "language": "TypeScript",
-    "name": "enhzoenr2373/Reina",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:13:02Z",
-    "url": "https://github.com/enhzoenr2373/Reina"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T21:09:31Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:11:45Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -52,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-07T21:05:16Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6468,
+    "updated_at": "2026-07-07T21:04:39Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -99,15 +126,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-07-07T21:01:45Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 2192,
     "updated_at": "2026-07-07T20:58:46Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
-    "id": "codexceed/avatar-harness",
-    "language": "Python",
-    "name": "codexceed/avatar-harness",
-    "stars": 0,
-    "updated_at": "2026-07-07T20:57:48Z",
-    "url": "https://github.com/codexceed/avatar-harness"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T20:56:05Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6467,
-    "updated_at": "2026-07-07T21:04:39Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -275,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4352,
-    "updated_at": "2026-07-07T20:49:31Z",
+    "updated_at": "2026-07-07T21:29:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -295,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:43:54Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-07T20:43:13Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
@@ -448,5 +439,14 @@
     "stars": 0,
     "updated_at": "2026-07-07T20:24:19Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-07T20:23:52Z",
+    "url": "https://github.com/lukky262/ARE"
   }
 ]
