@@ -1,11 +1,38 @@
 [
   {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 4,
+    "updated_at": "2026-07-07T07:25:19Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T07:18:52Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-07T07:16:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 5,
-    "updated_at": "2026-07-07T07:15:05Z",
+    "updated_at": "2026-07-07T07:15:32Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-07-07T07:01:48Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-07T06:59:43Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T06:13:54Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-07T06:13:19Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-07T06:12:44Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
