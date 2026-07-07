@@ -1,5 +1,68 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T11:14:36Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-07T11:12:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-07-07T11:08:53Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:08:01Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 788,
+    "updated_at": "2026-07-07T11:04:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "An AI strategy consultant (Claude Code agent) that interviews you instead of answering \u2014 structured, hypothesis-driven p",
+    "id": "clark1015/strategy-consultant-agent",
+    "language": "\u2014",
+    "name": "clark1015/strategy-consultant-agent",
+    "stars": 1,
+    "updated_at": "2026-07-07T11:04:32Z",
+    "url": "https://github.com/clark1015/strategy-consultant-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-07T11:02:42Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -27,6 +90,15 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 27542,
+    "updated_at": "2026-07-07T10:51:49Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-07T10:51:21Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 27541,
-    "updated_at": "2026-07-07T10:51:49Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "",
@@ -144,15 +207,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-07-07T10:43:44Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "chiam-ck/bss-cli",
     "language": "Python",
@@ -216,15 +270,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-07T10:25:39Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T09:29:39Z",
     "url": "https://github.com/enhzoenr2373/Reina"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-07T09:26:45Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-07T09:08:42Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:07:14Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:06:56Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-07T09:06:01Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-07-07T09:01:13Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
