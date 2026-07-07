@@ -1,12 +1,57 @@
 [
   {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 52,
+    "updated_at": "2026-07-07T18:59:59Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-07T18:59:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Autonomous SRE investigation agent: a governed state machine driven by a language model, acting through reflected Ansibl",
     "id": "msradam/semley",
     "language": "Python",
     "name": "msradam/semley",
     "stars": 0,
-    "updated_at": "2026-07-07T18:45:13Z",
+    "updated_at": "2026-07-07T18:58:57Z",
     "url": "https://github.com/msradam/semley"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-07T18:57:42Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-07T18:53:28Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-07T18:45:19Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Deploy local multi-agent AI teams with MCP and custom skills on your desktop using your own models.",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T18:43:53Z",
     "url": "https://github.com/enhzoenr2373/Reina"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-07T18:41:50Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -113,7 +149,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-07T18:32:48Z",
+    "updated_at": "2026-07-07T18:56:20Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-07T17:51:14Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-07T17:51:08Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-07T17:50:20Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-07T17:49:46Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-07T17:47:11Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
