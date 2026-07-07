@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6461,
-    "updated_at": "2026-07-07T16:08:29Z",
+    "updated_at": "2026-07-07T16:14:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
+    "id": "sukoji/persode",
+    "language": "Python",
+    "name": "sukoji/persode",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:13:07Z",
+    "url": "https://github.com/sukoji/persode"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:13:01Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-07T15:56:12Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
-    "id": "sukoji/persode",
-    "language": "Python",
-    "name": "sukoji/persode",
-    "stars": 0,
-    "updated_at": "2026-07-07T15:47:34Z",
-    "url": "https://github.com/sukoji/persode"
   },
   {
     "description": "ProductOS \u2014 sistema pessoal de gest\u00e3o de produto end-to-end com Mentor IA. Do discovery ao handoff: personas, auditorias",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T14:35:09Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:34:07Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
