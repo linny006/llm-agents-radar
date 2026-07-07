@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI agent for GitHub repo/account insights",
-    "id": "Vrishali34/gitspy",
-    "language": "Python",
-    "name": "Vrishali34/gitspy",
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-07T16:57:35Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
     "stars": 1,
-    "updated_at": "2026-07-07T16:43:10Z",
-    "url": "https://github.com/Vrishali34/gitspy"
+    "updated_at": "2026-07-07T16:57:00Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6461,
+    "updated_at": "2026-07-07T16:55:38Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:52:50Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-07T16:43:04Z",
+    "updated_at": "2026-07-07T16:50:55Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A Minecraft AI agent built with Python, Mineflayer, and Ollama, featuring deterministic task execution, world memory, an",
+    "id": "GaleevArslanDev/OmniAgent",
+    "language": "Python",
+    "name": "GaleevArslanDev/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-07-07T16:48:23Z",
+    "url": "https://github.com/GaleevArslanDev/OmniAgent"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-07T16:48:06Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-07T16:47:52Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-07T16:45:03Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-07T16:45:03Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI agent for GitHub repo/account insights",
+    "id": "Vrishali34/gitspy",
+    "language": "Python",
+    "name": "Vrishali34/gitspy",
+    "stars": 1,
+    "updated_at": "2026-07-07T16:43:10Z",
+    "url": "https://github.com/Vrishali34/gitspy"
   },
   {
     "description": "Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv",
@@ -90,24 +171,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-07T16:28:47Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-07T16:45:03Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -149,17 +212,8 @@
     "language": "Python",
     "name": "eranto/understudy",
     "stars": 6,
-    "updated_at": "2026-07-07T16:15:43Z",
+    "updated_at": "2026-07-07T17:00:16Z",
     "url": "https://github.com/eranto/understudy"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6461,
-    "updated_at": "2026-07-07T16:14:31Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -187,15 +241,6 @@
     "stars": 788,
     "updated_at": "2026-07-07T15:59:19Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-07T15:57:13Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 32,
-    "updated_at": "2026-07-07T15:13:26Z",
+    "updated_at": "2026-07-07T16:48:54Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-07T14:54:46Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:52:48Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:52:45Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2192,
-    "updated_at": "2026-07-07T14:52:30Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-07T14:51:51Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-07-07T14:46:42Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
