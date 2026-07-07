@@ -1,11 +1,20 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-07-07T04:58:29Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 17,
-    "updated_at": "2026-07-07T04:42:53Z",
+    "updated_at": "2026-07-07T04:55:17Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -14,8 +23,17 @@
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-07T04:42:26Z",
+    "updated_at": "2026-07-07T04:46:45Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 788,
+    "updated_at": "2026-07-07T04:57:19Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
@@ -36,21 +54,12 @@
     "url": "https://github.com/peijin0405/scout-agent"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-07T04:44:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
     "id": "laurykb/AI_for_geopolitics",
     "language": "Python",
     "name": "laurykb/AI_for_geopolitics",
     "stars": 0,
-    "updated_at": "2026-07-07T04:38:16Z",
+    "updated_at": "2026-07-07T04:54:30Z",
     "url": "https://github.com/laurykb/AI_for_geopolitics"
   },
   {
@@ -97,6 +106,15 @@
     "stars": 3,
     "updated_at": "2026-07-07T04:10:59Z",
     "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An operating system for coding agents \u2014 reproduce a top-tier model's behavior with structure, not spend. by Sumika",
+    "id": "nikoniko777satoshi-alt/canon-os",
+    "language": "Shell",
+    "name": "nikoniko777satoshi-alt/canon-os",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:03:43Z",
+    "url": "https://github.com/nikoniko777satoshi-alt/canon-os"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-07T03:16:21Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Production-grade LLM agent orchestration framework. LangGraph state machine, multi-tool ReAct loop, multi-turn chat, str",
-    "id": "koate-kpai/gem-agentic-ai",
-    "language": "Python",
-    "name": "koate-kpai/gem-agentic-ai",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:16:20Z",
-    "url": "https://github.com/koate-kpai/gem-agentic-ai"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:14:41Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
