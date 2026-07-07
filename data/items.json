@@ -1,12 +1,147 @@
 [
   {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:43:40Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:42:43Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:42:30Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-07T23:41:32Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:41:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-07T23:38:47Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:38:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
     "stars": 2,
-    "updated_at": "2026-07-07T23:29:52Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+    "updated_at": "2026-07-07T23:38:03Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-07T23:37:51Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:36:08Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
+    "id": "jkassemi/hey",
+    "language": "Rust",
+    "name": "jkassemi/hey",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:35:24Z",
+    "url": "https://github.com/jkassemi/hey"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-07-07T23:33:30Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-07T23:33:15Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-07-07T23:32:46Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-07T23:32:42Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-07T23:31:17Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
@@ -14,8 +149,17 @@
     "language": "Python",
     "name": "Wenri/TaskSolver",
     "stars": 0,
-    "updated_at": "2026-07-07T23:29:42Z",
+    "updated_at": "2026-07-07T23:30:22Z",
     "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-07T23:29:52Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   },
   {
     "description": "",
@@ -189,15 +333,6 @@
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-07T22:46:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -205,15 +340,6 @@
     "stars": 153,
     "updated_at": "2026-07-07T22:43:34Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-07T22:43:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
@@ -306,15 +432,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
-    "id": "jkassemi/hey",
-    "language": "Rust",
-    "name": "jkassemi/hey",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:59:15Z",
-    "url": "https://github.com/jkassemi/hey"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -331,122 +448,5 @@
     "stars": 6468,
     "updated_at": "2026-07-07T21:37:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:32:04Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
-    "id": "codexceed/avatar-harness",
-    "language": "Python",
-    "name": "codexceed/avatar-harness",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:35:33Z",
-    "url": "https://github.com/codexceed/avatar-harness"
-  },
-  {
-    "description": "EVA - a minimal self-evolving agent that safely rewrites, tests, and promotes better versions of itself inside a hardene",
-    "id": "arturkorb3/eva-evolutional-agent",
-    "language": "Python",
-    "name": "arturkorb3/eva-evolutional-agent",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:17:38Z",
-    "url": "https://github.com/arturkorb3/eva-evolutional-agent"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:09:31Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:08:08Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:05:16Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:04:35Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:04:13Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:03:51Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-07-07T21:01:59Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:01:46Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-07T21:01:09Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "A research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2192,
-    "updated_at": "2026-07-07T20:58:46Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
