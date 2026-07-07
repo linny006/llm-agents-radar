@@ -1,12 +1,57 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-07T04:42:53Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
     "id": "metric-space-ai/grepplus-rs",
     "language": "Rust",
     "name": "metric-space-ai/grepplus-rs",
     "stars": 0,
-    "updated_at": "2026-07-07T04:28:59Z",
+    "updated_at": "2026-07-07T04:42:26Z",
     "url": "https://github.com/metric-space-ai/grepplus-rs"
+  },
+  {
+    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
+    "id": "BadTechResearch/santana",
+    "language": "Python",
+    "name": "BadTechResearch/santana",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:41:49Z",
+    "url": "https://github.com/BadTechResearch/santana"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:40:59Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 788,
+    "updated_at": "2026-07-07T04:44:53Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
+    "id": "laurykb/AI_for_geopolitics",
+    "language": "Python",
+    "name": "laurykb/AI_for_geopolitics",
+    "stars": 0,
+    "updated_at": "2026-07-07T04:38:16Z",
+    "url": "https://github.com/laurykb/AI_for_geopolitics"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -25,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-07T04:24:13Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
-    "id": "BadTechResearch/santana",
-    "language": "Python",
-    "name": "BadTechResearch/santana",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:23:18Z",
-    "url": "https://github.com/BadTechResearch/santana"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:22:03Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
@@ -72,24 +99,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
-    "id": "laurykb/AI_for_geopolitics",
-    "language": "Python",
-    "name": "laurykb/AI_for_geopolitics",
-    "stars": 0,
-    "updated_at": "2026-07-07T04:08:11Z",
-    "url": "https://github.com/laurykb/AI_for_geopolitics"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 788,
-    "updated_at": "2026-07-07T04:28:29Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -115,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:55:16Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5498,
+    "updated_at": "2026-07-07T03:54:58Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T03:14:41Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-07T03:12:04Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-07T03:11:55Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
