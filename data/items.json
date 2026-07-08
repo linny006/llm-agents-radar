@@ -1,12 +1,102 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6480,
+    "updated_at": "2026-07-08T15:29:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-08T15:11:23Z",
+    "updated_at": "2026-07-08T15:28:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "HTML",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:28:46Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:28:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:26:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:25:11Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-08T15:20:35Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-08T15:19:19Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Qwen2.5-Coder-14B fine-tuned bash/action agent for Cogni-Brain: ReAct loops, command feedback, workspace-scoped executio",
+    "id": "airawatraj/cognibash",
+    "language": "Python",
+    "name": "airawatraj/cognibash",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:18:56Z",
+    "url": "https://github.com/airawatraj/cognibash"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-08T15:17:36Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-08T15:14:03Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u4f01\u4e1a\u7ea7 RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf + AIOps \u8fd0\u7ef4\u8bca\u65ad Agent(Plan-Execute-Replan / LangGraph / MCP)",
@@ -36,15 +126,6 @@
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6480,
-    "updated_at": "2026-07-08T15:06:46Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -52,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-08T15:06:24Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "HTML",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:58:48Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T14:54:56Z",
     "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-08T14:54:29Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
@@ -121,7 +184,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5449,
+    "stars": 5450,
     "updated_at": "2026-07-08T14:42:00Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -135,21 +198,12 @@
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
   },
   {
-    "description": "Qwen2.5-Coder-14B fine-tuned bash/action agent for Cogni-Brain: ReAct loops, command feedback, workspace-scoped executio",
-    "id": "airawatraj/cognibash",
-    "language": "Python",
-    "name": "airawatraj/cognibash",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:38:37Z",
-    "url": "https://github.com/airawatraj/cognibash"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-08T14:38:00Z",
+    "updated_at": "2026-07-08T15:24:26Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -175,7 +229,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 15971,
+    "stars": 15972,
     "updated_at": "2026-07-08T14:20:20Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-08T14:18:55Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-08T13:23:44Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-08T13:22:51Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:22:05Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:21:28Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-08T13:21:08Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Open-source relational AI framework with identity persistence, memory, and MCP integration. Build relationship-aware AI ",
-    "id": "codependentai/resonant",
-    "language": "TypeScript",
-    "name": "codependentai/resonant",
-    "stars": 42,
-    "updated_at": "2026-07-08T13:21:07Z",
-    "url": "https://github.com/codependentai/resonant"
   }
 ]
