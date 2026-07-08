@@ -1,6 +1,60 @@
 [
   {
     "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-08T06:25:42Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-08T06:23:39Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-08T06:22:50Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-07-08T06:20:02Z",
+    "url": "https://github.com/mensfeld/pocketrb"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-08T06:21:16Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "XAgent \u2014 build, run & monetize AI agents. xagt.ai",
+    "id": "xagentAI/.github",
+    "language": "Shell",
+    "name": "xagentAI/.github",
+    "stars": 0,
+    "updated_at": "2026-07-08T06:16:51Z",
+    "url": "https://github.com/xagentAI/.github"
+  },
+  {
+    "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
     "name": "JortegaR/ai-notes-api",
@@ -54,24 +108,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "XAgent \u2014 build, run & monetize AI agents. xagt.ai",
-    "id": "xagentAI/.github",
-    "language": "Shell",
-    "name": "xagentAI/.github",
-    "stars": 0,
-    "updated_at": "2026-07-08T06:10:38Z",
-    "url": "https://github.com/xagentAI/.github"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-08T06:15:15Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Hall of Mirrors \u2014 free Claude Skill. See how VC, angels, government, grants, accelerators & corporates each read the sam",
     "id": "aussieOS/aussieOS",
     "language": "HTML",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T06:05:42Z",
     "url": "https://github.com/aussieOS/aussieOS"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-08T05:54:13Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 267,
-    "updated_at": "2026-07-08T06:12:22Z",
+    "updated_at": "2026-07-08T06:20:47Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T05:01:22Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-08T04:59:31Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-08T04:56:48Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-08T04:56:44Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
