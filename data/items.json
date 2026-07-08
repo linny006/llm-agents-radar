@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
+    "id": "jkassemi/hey",
+    "language": "Rust",
+    "name": "jkassemi/hey",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:28:39Z",
+    "url": "https://github.com/jkassemi/hey"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-08T01:28:25Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1615,
+    "updated_at": "2026-07-08T01:26:50Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-08T01:26:43Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-08T01:25:23Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-08T01:24:21Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:22:27Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
+    "id": "cizekmilan/llm-large-data-agent",
+    "language": "Python",
+    "name": "cizekmilan/llm-large-data-agent",
+    "stars": 1,
+    "updated_at": "2026-07-08T01:21:14Z",
+    "url": "https://github.com/cizekmilan/llm-large-data-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T01:20:49Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-07-08T01:09:59Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "Local-first agent runtime for durable conversation trees, approvals, projections, distributed sync, and peer-to-peer age",
-    "id": "jkassemi/hey",
-    "language": "Rust",
-    "name": "jkassemi/hey",
-    "stars": 0,
-    "updated_at": "2026-07-08T01:09:48Z",
-    "url": "https://github.com/jkassemi/hey"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -169,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-07-08T00:43:07Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4353,
+    "updated_at": "2026-07-08T00:26:28Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-07T23:53:17Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:51:55Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-07T23:51:05Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:49:31Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:48:55Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:48:36Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-07T23:47:53Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "An operating system for coding agents \u2014 reproduce a top-tier model's behavior with structure, not spend. by Sumika",
-    "id": "nikoniko777satoshi-alt/canon-os",
-    "language": "Shell",
-    "name": "nikoniko777satoshi-alt/canon-os",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:45:46Z",
-    "url": "https://github.com/nikoniko777satoshi-alt/canon-os"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:43:40Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-07T23:42:43Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
