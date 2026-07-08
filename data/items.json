@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 0,
+    "updated_at": "2026-07-08T11:45:22Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 101,
     "updated_at": "2026-07-08T11:37:43Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 0,
-    "updated_at": "2026-07-08T11:36:52Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",

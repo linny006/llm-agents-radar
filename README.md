@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-08 11:45 UTC
+> ⏰ Last updated: 2026-07-08 11:48 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-08 | Open-Source Intelligent Command Layer |
-| 2 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 0 | Python | 2026-07-08 | Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri |
+| 1 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 0 | Python | 2026-07-08 | Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri |
+| 2 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-08 | Open-Source Intelligent Command Layer |
 | 3 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-07-08 | A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning, |
 | 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-08 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-08 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
