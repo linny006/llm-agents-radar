@@ -1,12 +1,39 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 17,
+    "updated_at": "2026-07-08T08:59:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-08T08:39:14Z",
+    "updated_at": "2026-07-08T08:54:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 155,
+    "updated_at": "2026-07-08T08:54:17Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 0,
+    "updated_at": "2026-07-08T08:46:31Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Stateless automated job discovery and scoring service based on your CV",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T08:15:50Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 155,
-    "updated_at": "2026-07-08T08:31:18Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -148,7 +166,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6472,
+    "stars": 6473,
     "updated_at": "2026-07-08T07:57:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 17,
-    "updated_at": "2026-07-08T07:46:08Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T07:27:31Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-08T07:25:46Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
