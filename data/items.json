@@ -1,12 +1,75 @@
 [
   {
+    "description": "ProductOS \u2014 sistema pessoal de gest\u00e3o de produto end-to-end com Mentor IA. Do discovery ao handoff: personas, auditorias",
+    "id": "paulalarosa/productklini",
+    "language": "TypeScript",
+    "name": "paulalarosa/productklini",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:44:02Z",
+    "url": "https://github.com/paulalarosa/productklini"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-08T17:40:22Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "An AI-powered citizen grievance dashboard and analytical mapping platform built in Python using Streamlit, SQLite, and t",
     "id": "SRINIVASTA/peoples-priorities-dashboard",
     "language": "Python",
     "name": "SRINIVASTA/peoples-priorities-dashboard",
     "stars": 0,
-    "updated_at": "2026-07-08T17:29:38Z",
+    "updated_at": "2026-07-08T17:39:33Z",
     "url": "https://github.com/SRINIVASTA/peoples-priorities-dashboard"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-08T17:38:46Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-08T17:37:13Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-08T17:37:00Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-07-08T17:32:13Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-08T17:31:39Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 267,
-    "updated_at": "2026-07-08T17:27:37Z",
+    "updated_at": "2026-07-08T17:43:41Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
@@ -36,21 +99,12 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-08T17:10:03Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-08T17:22:06Z",
+    "updated_at": "2026-07-08T17:43:22Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T16:29:16Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:28:10Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-08T17:29:14Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 167,
-    "updated_at": "2026-07-08T16:25:49Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:25:20Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-08T16:24:36Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-08T16:24:22Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
