@@ -1,10 +1,73 @@
 [
   {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "HTML",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:58:48Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:56:20Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "Qwen3.5-122B Cogni-Brain on DGX Spark: multimodal agent stack, 262K context, ~54 tok/s, 100/100 Tool-Eval.",
+    "id": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "language": "Python",
+    "name": "airawatraj/dgx-spark-qwen-omni-super-agent",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:54:56Z",
+    "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-08T14:54:29Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-07-08T14:54:18Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "\u56db\u5de5\u4f5c\u6d41\u500b\u4eba\u77e5\u8b58\u7ba1\u7406\u6846\u67b6\uff08wiki/project/trend-wiki/personal-km\uff09\u2014\u2014\u8b93 Claude Code/Codex/Antigravity \u7576\u4f60\u7684\u77e5\u8b58\u7de8\u8b6f\u5668\u8207\u7c3f\u8a18\u54e1\uff1b\u7d14 markdown \u7a7a\u9aa8\u67b6\uff0b\u4e00\u9375\u5b89\u88dd\u5305",
+    "id": "reic/agentic-km-framework",
+    "language": "Python",
+    "name": "reic/agentic-km-framework",
+    "stars": 0,
+    "updated_at": "2026-07-08T14:53:05Z",
+    "url": "https://github.com/reic/agentic-km-framework"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 14,
+    "updated_at": "2026-07-08T14:52:36Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5446,
+    "stars": 5447,
     "updated_at": "2026-07-08T14:42:00Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -16,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T14:41:50Z",
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "Qwen3.5-122B Cogni-Brain on DGX Spark: multimodal agent stack, 262K context, ~54 tok/s, 100/100 Tool-Eval.",
-    "id": "airawatraj/dgx-spark-qwen-omni-super-agent",
-    "language": "Python",
-    "name": "airawatraj/dgx-spark-qwen-omni-super-agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:40:52Z",
-    "url": "https://github.com/airawatraj/dgx-spark-qwen-omni-super-agent"
-  },
-  {
-    "description": "\u56db\u5de5\u4f5c\u6d41\u500b\u4eba\u77e5\u8b58\u7ba1\u7406\u6846\u67b6\uff08wiki/project/trend-wiki/personal-km\uff09\u2014\u2014\u8b93 Claude Code/Codex/Antigravity \u7576\u4f60\u7684\u77e5\u8b58\u7de8\u8b6f\u5668\u8207\u7c3f\u8a18\u54e1\uff1b\u7d14 markdown \u7a7a\u9aa8\u67b6\uff0b\u4e00\u9375\u5b89\u88dd\u5305",
-    "id": "reic/agentic-km-framework",
-    "language": "Python",
-    "name": "reic/agentic-km-framework",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:39:26Z",
-    "url": "https://github.com/reic/agentic-km-framework"
   },
   {
     "description": "Qwen2.5-Coder-14B fine-tuned bash/action agent for Cogni-Brain: ReAct loops, command feedback, workspace-scoped executio",
@@ -63,15 +108,6 @@
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-08T14:24:48Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Local LLM BenchMarking",
     "id": "1337hero/scaffold-bench",
     "language": "TypeScript",
@@ -85,7 +121,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6479,
+    "stars": 6480,
     "updated_at": "2026-07-08T14:20:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -94,18 +130,9 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 15970,
+    "stars": 15971,
     "updated_at": "2026-07-08T14:20:20Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:17:43Z",
-    "url": "https://github.com/peijin0405/scout-agent"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -124,15 +151,6 @@
     "stars": 390,
     "updated_at": "2026-07-08T14:12:32Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "HTML",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-07-08T14:28:23Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T13:14:32Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-08T13:13:35Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-08T13:10:38Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
