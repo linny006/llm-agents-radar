@@ -1,5 +1,32 @@
 [
   {
+    "description": "An AI-powered citizen grievance dashboard and analytical mapping platform built in Python using Streamlit, SQLite, and t",
+    "id": "SRINIVASTA/peoples-priorities-dashboard",
+    "language": "Python",
+    "name": "SRINIVASTA/peoples-priorities-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:29:38Z",
+    "url": "https://github.com/SRINIVASTA/peoples-priorities-dashboard"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 267,
+    "updated_at": "2026-07-08T17:27:37Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-08T17:23:42Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-08T17:11:05Z",
+    "updated_at": "2026-07-08T17:22:06Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 3,
-    "updated_at": "2026-07-08T16:27:18Z",
+    "updated_at": "2026-07-08T17:29:14Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T16:24:22Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:22:25Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "ProductOS \u2014 sistema pessoal de gest\u00e3o de produto end-to-end com Mentor IA. Do discovery ao handoff: personas, auditorias",
-    "id": "paulalarosa/productklini",
-    "language": "TypeScript",
-    "name": "paulalarosa/productklini",
-    "stars": 0,
-    "updated_at": "2026-07-08T16:21:26Z",
-    "url": "https://github.com/paulalarosa/productklini"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-08T16:19:40Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
