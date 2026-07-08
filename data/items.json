@@ -1,5 +1,23 @@
 [
   {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 0,
+    "updated_at": "2026-07-08T20:25:24Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 15,
+    "updated_at": "2026-07-08T20:19:17Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
     "id": "yashkulshreshtha/jobkit",
     "language": "JavaScript",
@@ -34,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-07-08T20:02:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 15,
-    "updated_at": "2026-07-08T20:00:51Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T19:29:48Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 0,
-    "updated_at": "2026-07-08T19:29:33Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
