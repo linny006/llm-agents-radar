@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-08T19:58:29Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 155,
+    "updated_at": "2026-07-08T19:48:54Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
     "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
@@ -166,7 +184,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6482,
+    "stars": 6483,
     "updated_at": "2026-07-08T19:18:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -369,15 +387,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 155,
-    "updated_at": "2026-07-08T19:24:41Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T18:48:35Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-08T18:48:01Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
