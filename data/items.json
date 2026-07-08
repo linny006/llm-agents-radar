@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u041a\u0430\u0440\u043a\u0430\u0441 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0433\u043e LLM-\u0430\u0433\u0435\u043d\u0442\u0430: \u0446\u0438\u043a\u043b \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u0435->\u0440\u0435\u0448\u0435\u043d\u0438\u0435->\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435, \u043f\u0430\u043c\u044f\u0442\u044c SQLite, tool-use.",
+    "id": "solist23/autonomous-agent-starter",
+    "language": "Python",
+    "name": "solist23/autonomous-agent-starter",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:11:58Z",
+    "url": "https://github.com/solist23/autonomous-agent-starter"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 206,
+    "updated_at": "2026-07-08T09:09:08Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-08T09:05:14Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:04:16Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-08T09:02:36Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-08T09:01:06Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -9,15 +63,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-08T08:54:01Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -25,15 +70,6 @@
     "stars": 155,
     "updated_at": "2026-07-08T08:54:17Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, context, brief. ~2x f",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 0,
-    "updated_at": "2026-07-08T08:46:31Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Stateless automated job discovery and scoring service based on your CV",
@@ -216,15 +252,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:54:11Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 390,
-    "updated_at": "2026-07-08T07:46:39Z",
+    "updated_at": "2026-07-08T09:00:56Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T07:31:18Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:28:29Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-08T07:27:42Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-08T07:27:31Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
