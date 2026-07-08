@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-08T11:37:43Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 0,
+    "updated_at": "2026-07-08T11:36:52Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-07-08T11:31:24Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -54,15 +81,6 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: the stdlib Python CLI an LLM agent tool-calls to wri",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 0,
-    "updated_at": "2026-07-08T11:12:55Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
     "id": "Elevated-homer201/prompt-gate",
     "language": "\u2014",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-08T11:09:29Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-08T11:08:42Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-08T10:21:40Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "\u4e34\u5e8a\u8bd5\u9a8c AI \u667a\u80fd\u4f53\u5e73\u53f0 Showcase\uff1a\u667a\u80fd\u5ba1\u6838/RAG\u95ee\u7b54/SDV\u6838\u67e5/\u6587\u6863\u8131\u654f/\u667a\u80fd\u5ba2\u670d\uff08\u4ee3\u7801\u5f52\u5c5e\u516c\u53f8\uff0c\u672c\u4ed3\u4e3a\u4e2a\u4eba\u53c2\u4e0e\u8bf4\u660e\uff09",
-    "id": "wly-lizhong/clinical-ai-agent-platform",
-    "language": "\u2014",
-    "name": "wly-lizhong/clinical-ai-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-07-08T10:20:52Z",
-    "url": "https://github.com/wly-lizhong/clinical-ai-agent-platform"
   }
 ]
