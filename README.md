@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 07:00 UTC
+> ⏰ Last updated: 2026-07-09 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -61,7 +61,7 @@ expired items removed — so you can rely on what you see being current.
 | 17 | [weihuaguo270-ops/handwritten-react-agent](https://github.com/weihuaguo270-ops/handwritten-react-agent) | 0 | Python | 2026-07-09 | 手写 ReAct Agent — 零框架实现 LLM Agent 核心循环，覆盖工具调用、记忆、RAG、多 Agent 编排、推理增强、安全沙箱、Eval 评测管线与 Dashboard 可视化全链路。同时提供 LangChain/Lang |
 | 18 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-09 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
 | 19 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 2 | — | 2026-07-09 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
-| 20 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27599 | Python | 2026-07-09 | Build and run agents you can see, understand and trust. |
+| 20 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27601 | Python | 2026-07-09 | Build and run agents you can see, understand and trust. |
 | 21 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-07-09 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
 | 22 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 1 | — | 2026-07-09 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |
 | 23 | [Stolas34/voice-input-src](https://github.com/Stolas34/voice-input-src) | 0 | — | 2026-07-09 | Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast  |
