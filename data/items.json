@@ -1,5 +1,14 @@
 [
   {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 2,
+    "updated_at": "2026-07-09T22:15:09Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
     "description": "A Linux-only, ncurses based TUI AI coding agent.",
     "id": "mikeb26/octium",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T21:12:04Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-09T21:10:19Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
