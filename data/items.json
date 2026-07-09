@@ -1,11 +1,20 @@
 [
   {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:59:37Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
     "name": "Deep-CodeAI/Agents.KT",
     "stars": 14,
-    "updated_at": "2026-07-09T19:45:00Z",
+    "updated_at": "2026-07-09T19:51:09Z",
     "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
@@ -14,17 +23,17 @@
     "language": "TeX",
     "name": "v2-io/agentic-systems",
     "stars": 2,
-    "updated_at": "2026-07-09T19:43:15Z",
+    "updated_at": "2026-07-09T19:50:16Z",
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
     "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:41:04Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-09T19:47:46Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -79,15 +88,6 @@
     "stars": 788,
     "updated_at": "2026-07-09T19:29:04Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-09T19:45:09Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
