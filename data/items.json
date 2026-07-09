@@ -1,5 +1,158 @@
 [
   {
+    "description": "\u56db\u5c42\u8bb0\u5fc6\u5f15\u64ce (Memory Engine) \u2014 \u8ba9 Agent \u8d8a\u7528\u8d8a\u806a\u660e",
+    "id": "qq1009128320-dotcom/memory-engine",
+    "language": "Python",
+    "name": "qq1009128320-dotcom/memory-engine",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:29:37Z",
+    "url": "https://github.com/qq1009128320-dotcom/memory-engine"
+  },
+  {
+    "description": "",
+    "id": "luomeii/yolo-forge",
+    "language": "Python",
+    "name": "luomeii/yolo-forge",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:29:25Z",
+    "url": "https://github.com/luomeii/yolo-forge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:29:21Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:28:34Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "\u56db\u6e21\u8d64\u6c34\u00b7\u7edf\u5e05\u5e2d \u00b7 2.5D \u519b\u4e8b\u6c99\u76d8\u6e38\u620f\uff1aLLM \u5c06\u9886 Agent + \u89c4\u5219\u5f15\u64ce\u552f\u4e00\u88c1\u5224 + \u4e8b\u4ef6\u6d41\u91cd\u653e\uff08FastAPI/Celery + React/PixiJS\uff09",
+    "id": "wly-lizhong/sidu-chishui-wargame",
+    "language": "Python",
+    "name": "wly-lizhong/sidu-chishui-wargame",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:27:20Z",
+    "url": "https://github.com/wly-lizhong/sidu-chishui-wargame"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:27:06Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:26:31Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:26:11Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:25:26Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "A hybrid AI assistant framework linking structural workflow engines and reasoning LLM agents through LangGraph-powered s",
+    "id": "RobbieXie/Bifrost-AI",
+    "language": "Python",
+    "name": "RobbieXie/Bifrost-AI",
+    "stars": 5,
+    "updated_at": "2026-07-09T03:23:19Z",
+    "url": "https://github.com/RobbieXie/Bifrost-AI"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:21:32Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:20:34Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-09T03:20:24Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:19:28Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:16:51Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-09T03:16:01Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-09T03:15:51Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
     "id": "Ronit0p/AutoGod",
     "language": "Java",
@@ -90,21 +243,12 @@
     "url": "https://github.com/weihuaguo270-ops/handwritten-react-agent"
   },
   {
-    "description": "\u56db\u5c42\u8bb0\u5fc6\u5f15\u64ce (Memory Engine) \u2014 \u8ba9 Agent \u8d8a\u7528\u8d8a\u806a\u660e",
-    "id": "qq1009128320-dotcom/memory-engine",
-    "language": "Python",
-    "name": "qq1009128320-dotcom/memory-engine",
-    "stars": 1,
-    "updated_at": "2026-07-09T03:01:15Z",
-    "url": "https://github.com/qq1009128320-dotcom/memory-engine"
-  },
-  {
     "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
     "id": "kenny0312/videosense-agent",
     "language": "Python",
     "name": "kenny0312/videosense-agent",
     "stars": 2,
-    "updated_at": "2026-07-09T03:13:12Z",
+    "updated_at": "2026-07-09T03:30:11Z",
     "url": "https://github.com/kenny0312/videosense-agent"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T02:26:15Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-09T02:22:03Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "OpenFOAM CFD automation Claude Code Skill set - simulate (of-sim), post-process (of-post), diagnose failures (of-doctor)",
-    "id": "swtbkim/openfoam-claude-suite",
-    "language": "Shell",
-    "name": "swtbkim/openfoam-claude-suite",
-    "stars": 0,
-    "updated_at": "2026-07-09T02:20:14Z",
-    "url": "https://github.com/swtbkim/openfoam-claude-suite"
-  },
-  {
-    "description": "An LLM-powered agent with calculator, web search, and sandboxed code execution tools \u2014 FastAPI + Ollama, SSE streaming w",
-    "id": "HonourJAH/ai-agent-api",
-    "language": "Python",
-    "name": "HonourJAH/ai-agent-api",
-    "stars": 0,
-    "updated_at": "2026-07-09T02:19:02Z",
-    "url": "https://github.com/HonourJAH/ai-agent-api"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-09T02:18:00Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-09T02:15:18Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/healthcare-warehouse-agent",
-    "language": "Python",
-    "name": "Ediebah/healthcare-warehouse-agent",
-    "stars": 0,
-    "updated_at": "2026-07-09T02:14:47Z",
-    "url": "https://github.com/Ediebah/healthcare-warehouse-agent"
-  },
-  {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 5,
-    "updated_at": "2026-07-09T02:08:16Z",
-    "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 392,
-    "updated_at": "2026-07-09T02:57:58Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-09T02:07:13Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-09T02:06:05Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-09T02:04:32Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Local LLM BenchMarking",
-    "id": "1337hero/scaffold-bench",
-    "language": "TypeScript",
-    "name": "1337hero/scaffold-bench",
-    "stars": 4,
-    "updated_at": "2026-07-09T01:56:51Z",
-    "url": "https://github.com/1337hero/scaffold-bench"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 8,
-    "updated_at": "2026-07-09T01:50:58Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Feed LLMs financial data and interactive charts in one call \u2014 an MCP server for A-share quotes, financials, and macro in",
-    "id": "hanlinlibham/findatamcp",
-    "language": "Python",
-    "name": "hanlinlibham/findatamcp",
-    "stars": 2,
-    "updated_at": "2026-07-09T01:36:34Z",
-    "url": "https://github.com/hanlinlibham/findatamcp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T01:18:20Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-09T01:12:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
