@@ -1,12 +1,57 @@
 [
   {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 5,
+    "updated_at": "2026-07-09T14:59:13Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6498,
-    "updated_at": "2026-07-09T14:36:51Z",
+    "updated_at": "2026-07-09T14:55:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "EXPERIMENTAL Assist Agent Sandbox supercharges Home Assistant's Assist with a set of tools that let the AI read your hom",
+    "id": "bradsjm/hacs-llm-sandbox",
+    "language": "Python",
+    "name": "bradsjm/hacs-llm-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:49:33Z",
+    "url": "https://github.com/bradsjm/hacs-llm-sandbox"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-09T14:48:21Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-07-09T14:45:52Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:43:55Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -16,15 +61,6 @@
     "stars": 18,
     "updated_at": "2026-07-09T14:34:08Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "EXPERIMENTAL Assist Agent Sandbox supercharges Home Assistant's Assist with a set of tools that let the AI read your hom",
-    "id": "bradsjm/hacs-llm-sandbox",
-    "language": "Python",
-    "name": "bradsjm/hacs-llm-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:33:39Z",
-    "url": "https://github.com/bradsjm/hacs-llm-sandbox"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-09T14:28:41Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-09T14:25:50Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4355,
-    "updated_at": "2026-07-09T14:15:12Z",
+    "updated_at": "2026-07-09T14:57:42Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T13:23:26Z",
     "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-09T13:18:38Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:18:22Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2814,
-    "updated_at": "2026-07-09T13:17:21Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
