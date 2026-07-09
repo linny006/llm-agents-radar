@@ -1,11 +1,20 @@
 [
   {
+    "description": "Python Coding Agent Harness: Agent Loop, tools, multi-agent, sandbox. Formerly micro-agent.",
+    "id": "zengsidou/one-code",
+    "language": "Python",
+    "name": "zengsidou/one-code",
+    "stars": 0,
+    "updated_at": "2026-07-09T17:10:54Z",
+    "url": "https://github.com/zengsidou/one-code"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-09T17:02:13Z",
+    "updated_at": "2026-07-09T17:09:27Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-09T15:41:28Z",
     "url": "https://github.com/rhaist/marq"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-09T15:40:41Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
