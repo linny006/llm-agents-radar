@@ -1,5 +1,41 @@
 [
   {
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 14,
+    "updated_at": "2026-07-09T19:45:00Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-09T19:43:15Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-09T19:41:04Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-09T19:39:54Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -18,15 +54,6 @@
     "url": "https://github.com/kenny0312/videosense-agent"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-09T19:22:00Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "1337hero/scaffold-bench",
     "stars": 4,
-    "updated_at": "2026-07-09T19:19:59Z",
+    "updated_at": "2026-07-09T19:31:53Z",
     "url": "https://github.com/1337hero/scaffold-bench"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 101,
-    "updated_at": "2026-07-09T19:17:42Z",
+    "updated_at": "2026-07-09T19:45:09Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T16:05:42Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-09T16:04:33Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 7,
-    "updated_at": "2026-07-09T16:04:29Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "Open Android AI agent runtime for phone control, app automation, VLM screen reading, skill routing, mini apps, and Mihom",
-    "id": "eggbrid2/mobileClaw",
-    "language": "Kotlin",
-    "name": "eggbrid2/mobileClaw",
-    "stars": 403,
-    "updated_at": "2026-07-09T16:02:41Z",
-    "url": "https://github.com/eggbrid2/mobileClaw"
   }
 ]
