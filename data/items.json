@@ -1,12 +1,102 @@
 [
   {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-09T10:29:22Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-09T10:28:56Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-09T10:28:15Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-09T10:14:43Z",
+    "updated_at": "2026-07-09T10:26:52Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-09T10:26:08Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-09T10:24:27Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2813,
+    "updated_at": "2026-07-09T10:25:30Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-09T10:21:49Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-09T10:21:11Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 8,
+    "updated_at": "2026-07-09T10:20:39Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-09T10:17:24Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T10:07:47Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-09T10:04:56Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "",
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4354,
-    "updated_at": "2026-07-09T09:50:55Z",
+    "updated_at": "2026-07-09T10:16:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T08:53:45Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:53:14Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Astronomy research platform \u2014 AI assistant",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-07-09T08:53:01Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-09T08:52:55Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:51:20Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:50:48Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:50:22Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-09T08:49:35Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:46:36Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:45:23Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
