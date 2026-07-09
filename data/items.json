@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-09T14:34:08Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "EXPERIMENTAL Assist Agent Sandbox supercharges Home Assistant's Assist with a set of tools that let the AI read your hom",
+    "id": "bradsjm/hacs-llm-sandbox",
+    "language": "Python",
+    "name": "bradsjm/hacs-llm-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-09T14:33:39Z",
+    "url": "https://github.com/bradsjm/hacs-llm-sandbox"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-09T14:31:59Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -16,15 +43,6 @@
     "stars": 6,
     "updated_at": "2026-07-09T14:25:50Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "EXPERIMENTAL Assist Agent Sandbox supercharges Home Assistant's Assist with a set of tools that let the AI read your hom",
-    "id": "bradsjm/hacs-llm-sandbox",
-    "language": "Python",
-    "name": "bradsjm/hacs-llm-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:25:19Z",
-    "url": "https://github.com/bradsjm/hacs-llm-sandbox"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T14:06:23Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 18,
-    "updated_at": "2026-07-09T14:29:39Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6497,
-    "updated_at": "2026-07-09T13:32:12Z",
+    "updated_at": "2026-07-09T14:36:51Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2814,
     "updated_at": "2026-07-09T13:17:21Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Agentic quant risk engine: VaR & stress testing, ML anomaly detection (PyTorch autoencoder + IsolationForest), correlati",
-    "id": "nightraven4545/SENTINEL",
-    "language": "Jupyter Notebook",
-    "name": "nightraven4545/SENTINEL",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:15:58Z",
-    "url": "https://github.com/nightraven4545/SENTINEL"
   }
 ]
