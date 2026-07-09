@@ -1,12 +1,102 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-09T15:59:45Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:58:48Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-09T15:57:50Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
+    "id": "fangzheng698-lang/agent-prod",
+    "language": "Python",
+    "name": "fangzheng698-lang/agent-prod",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:56:11Z",
+    "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:55:30Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:53:41Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
     "id": "kenny0312/videosense-agent",
     "language": "Python",
     "name": "kenny0312/videosense-agent",
     "stars": 2,
-    "updated_at": "2026-07-09T15:45:01Z",
+    "updated_at": "2026-07-09T15:51:16Z",
     "url": "https://github.com/kenny0312/videosense-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6499,
+    "updated_at": "2026-07-09T15:56:00Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
+    "id": "Mohitcr7/Credit-Risk-Underwriting-Engine",
+    "language": "Python",
+    "name": "Mohitcr7/Credit-Risk-Underwriting-Engine",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:47:23Z",
+    "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-09T15:46:13Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 0,
+    "updated_at": "2026-07-09T15:45:44Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
@@ -63,15 +153,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-09T15:30:10Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Typed Kotlin DSL framework for AI agent systems.",
     "id": "Deep-CodeAI/Agents.KT",
     "language": "Kotlin",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-09T15:22:55Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6499,
-    "updated_at": "2026-07-09T15:22:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Python Coding Agent Harness: Agent Loop, tools, multi-agent, sandbox. Formerly micro-agent.",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-09T14:06:56Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:06:23Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:05:25Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-09T14:04:21Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-09T14:03:15Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "The open-source agent runtime for the web",
-    "id": "juguang/Goby",
-    "language": "JavaScript",
-    "name": "juguang/Goby",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:00:31Z",
-    "url": "https://github.com/juguang/Goby"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-07-09T15:14:03Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-09T13:56:05Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u624b\u5199 ReAct Agent \u2014 \u96f6\u6846\u67b6\u5b9e\u73b0 LLM Agent \u6838\u5fc3\u5faa\u73af\uff0c\u8986\u76d6\u5de5\u5177\u8c03\u7528\u3001\u8bb0\u5fc6\u3001RAG\u3001\u591a Agent \u7f16\u6392\u3001\u63a8\u7406\u589e\u5f3a\u3001\u5b89\u5168\u6c99\u7bb1\u3001Eval \u8bc4\u6d4b\u7ba1\u7ebf\u4e0e Dashboard \u53ef\u89c6\u5316\u5168\u94fe\u8def\u3002\u540c\u65f6\u63d0\u4f9b LangChain/Lang",
-    "id": "weihuaguo270-ops/handwritten-react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/handwritten-react-agent",
-    "stars": 0,
-    "updated_at": "2026-07-09T13:54:50Z",
-    "url": "https://github.com/weihuaguo270-ops/handwritten-react-agent"
   }
 ]
