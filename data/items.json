@@ -1,5 +1,14 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-07-09T09:43:14Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
     "id": "yashkulshreshtha/jobkit",
     "language": "JavaScript",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-09T09:23:33Z",
+    "updated_at": "2026-07-09T09:30:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4354,
-    "updated_at": "2026-07-09T09:12:39Z",
+    "updated_at": "2026-07-09T09:42:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-09T09:29:59Z",
+    "updated_at": "2026-07-09T09:33:45Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T08:34:47Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-09T08:34:40Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
