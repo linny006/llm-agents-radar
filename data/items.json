@@ -1,5 +1,23 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-09T05:30:29Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-09T05:30:17Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
     "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T03:48:28Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 2,
-    "updated_at": "2026-07-09T03:42:30Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Autonomous coding agent \u2014 a sentence in, a validated app out. Resilience stack with operational gates, completeness CRIT",
-    "id": "mtecnic/cadillac",
-    "language": "Python",
-    "name": "mtecnic/cadillac",
-    "stars": 3,
-    "updated_at": "2026-07-09T03:42:04Z",
-    "url": "https://github.com/mtecnic/cadillac"
   }
 ]
