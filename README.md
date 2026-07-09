@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-09 11:51 UTC
+> ⏰ Last updated: 2026-07-09 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 2 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-09 | AI-powered image generation and chat studio |
-| 3 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2813 | Python | 2026-07-09 | SRE Agent - CNCF Sandbox Project |
-| 4 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-09 | Automate file management and coding tasks in your local directory using small language models. |
-| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 6 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-09 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 7 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-07-09 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
+| 1 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-07-09 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
+| 2 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 3 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-09 | AI-powered image generation and chat studio |
+| 4 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2813 | Python | 2026-07-09 | SRE Agent - CNCF Sandbox Project |
+| 5 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-09 | Automate file management and coding tasks in your local directory using small language models. |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-09 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
 | 8 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-09 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
 | 9 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-09 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
 | 10 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-09 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |

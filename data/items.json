@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-09T11:53:06Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T11:43:35Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-07-09T11:40:45Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
