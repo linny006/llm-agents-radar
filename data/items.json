@@ -1,11 +1,29 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-09T11:51:32Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-09T11:48:00Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2813,
-    "updated_at": "2026-07-09T11:45:02Z",
+    "updated_at": "2026-07-09T11:51:01Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -108,15 +126,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-09T11:35:55Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-09T11:29:48Z",
+    "updated_at": "2026-07-09T11:45:28Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T10:56:06Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-09T10:55:18Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
