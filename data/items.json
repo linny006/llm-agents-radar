@@ -1,5 +1,14 @@
 [
   {
+    "description": "Feed LLMs financial data and interactive charts in one call \u2014 an MCP server for A-share quotes, financials, and macro in",
+    "id": "hanlinlibham/findatamcp",
+    "language": "Python",
+    "name": "hanlinlibham/findatamcp",
+    "stars": 2,
+    "updated_at": "2026-07-09T01:36:34Z",
+    "url": "https://github.com/hanlinlibham/findatamcp"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -16,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-09T01:12:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Feed LLMs financial data and interactive charts in one call \u2014 an MCP server for A-share quotes, financials, and macro in",
-    "id": "hanlinlibham/findatamcp",
-    "language": "Python",
-    "name": "hanlinlibham/findatamcp",
-    "stars": 2,
-    "updated_at": "2026-07-09T00:59:48Z",
-    "url": "https://github.com/hanlinlibham/findatamcp"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
