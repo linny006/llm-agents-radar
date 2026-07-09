@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 5,
-    "updated_at": "2026-07-09T14:59:13Z",
-    "url": "https://github.com/S3YED/appie-kit"
+    "description": "Typed Kotlin DSL framework for AI agent systems.",
+    "id": "Deep-CodeAI/Agents.KT",
+    "language": "Kotlin",
+    "name": "Deep-CodeAI/Agents.KT",
+    "stars": 14,
+    "updated_at": "2026-07-09T15:11:56Z",
+    "url": "https://github.com/Deep-CodeAI/Agents.KT"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,17 +14,26 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6498,
-    "updated_at": "2026-07-09T14:55:30Z",
+    "updated_at": "2026-07-09T15:04:17Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "EXPERIMENTAL Assist Agent Sandbox supercharges Home Assistant's Assist with a set of tools that let the AI read your hom",
-    "id": "bradsjm/hacs-llm-sandbox",
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8878,
+    "updated_at": "2026-07-09T15:03:16Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
     "language": "Python",
-    "name": "bradsjm/hacs-llm-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T14:49:33Z",
-    "url": "https://github.com/bradsjm/hacs-llm-sandbox"
+    "name": "S3YED/appie-kit",
+    "stars": 5,
+    "updated_at": "2026-07-09T14:59:13Z",
+    "url": "https://github.com/S3YED/appie-kit"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-07-09T13:58:07Z",
+    "updated_at": "2026-07-09T15:14:03Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-09T13:24:05Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
-    "id": "aegntic/cognitive-os",
-    "language": "Kotlin",
-    "name": "aegntic/cognitive-os",
-    "stars": 1,
-    "updated_at": "2026-07-09T13:23:26Z",
-    "url": "https://github.com/aegntic/cognitive-os"
   }
 ]
