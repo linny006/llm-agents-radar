@@ -1,5 +1,41 @@
 [
   {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:44:47Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-09T18:41:42Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
+    "id": "kenny0312/videosense-agent",
+    "language": "Python",
+    "name": "kenny0312/videosense-agent",
+    "stars": 2,
+    "updated_at": "2026-07-09T18:40:10Z",
+    "url": "https://github.com/kenny0312/videosense-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-09T18:30:45Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Local LLM BenchMarking",
     "id": "1337hero/scaffold-bench",
     "language": "TypeScript",
@@ -9,21 +45,12 @@
     "url": "https://github.com/1337hero/scaffold-bench"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-09T18:27:52Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6499,
-    "updated_at": "2026-07-09T18:26:24Z",
+    "updated_at": "2026-07-09T18:44:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -54,15 +81,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-09T18:15:11Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "Maximooch/penguin",
     "stars": 5,
-    "updated_at": "2026-07-09T17:44:23Z",
+    "updated_at": "2026-07-09T18:40:25Z",
     "url": "https://github.com/Maximooch/penguin"
   },
   {
@@ -234,15 +252,6 @@
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-09T16:45:21Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
     "id": "laoxs2002/genai-agentes",
     "language": "Jupyter Notebook",
@@ -331,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-07-09T16:33:35Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
-    "id": "kenny0312/videosense-agent",
-    "language": "Python",
-    "name": "kenny0312/videosense-agent",
-    "stars": 2,
-    "updated_at": "2026-07-09T18:10:34Z",
-    "url": "https://github.com/kenny0312/videosense-agent"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
