@@ -1,5 +1,50 @@
 [
   {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-07-10T23:06:46Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-10T23:04:31Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-10T23:03:30Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-10T23:01:32Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-10T23:00:21Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T22:56:51Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 6,
-    "updated_at": "2026-07-10T23:00:10Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -81,15 +117,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-10T22:52:51Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -115,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T22:48:47Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-07-10T22:48:37Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T22:12:33Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6517,
-    "updated_at": "2026-07-10T22:11:10Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-10T22:05:54Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
