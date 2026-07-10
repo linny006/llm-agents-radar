@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 23:45 UTC
+> ⏰ Last updated: 2026-07-10 23:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-10 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-10 | Standard grep, plus a few commands your coding agent can use to navigate code — who-calls, impact, semantic-search, brie |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-10 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-10 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
+| 1 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-10 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-10 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-10 | Standard grep, plus a few commands your coding agent can use to navigate code — who-calls, impact, semantic-search, brie |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-10 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 5 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Go | 2026-07-10 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
 | 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-10 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 7 | [Smana/runlore](https://github.com/Smana/runlore) | 6 | Go | 2026-07-10 | The self-improving SRE agent |
