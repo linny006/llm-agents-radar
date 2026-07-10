@@ -1,5 +1,23 @@
 [
   {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:58:03Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 5,
+    "updated_at": "2026-07-10T20:54:00Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-10T20:25:21Z",
+    "updated_at": "2026-07-10T20:54:42Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4353,
-    "updated_at": "2026-07-10T20:42:12Z",
+    "updated_at": "2026-07-10T20:59:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T20:07:34Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
-    "id": "jakubkrzysztofsikora/reasoning-core",
-    "language": "Python",
-    "name": "jakubkrzysztofsikora/reasoning-core",
-    "stars": 5,
-    "updated_at": "2026-07-10T20:06:41Z",
-    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T19:52:25Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-10T19:51:50Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
