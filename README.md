@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-10 01:30 UTC
+> ⏰ Last updated: 2026-07-10 01:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 1 | JavaScript | 2026-07-10 | 大模型面试指南 |
 | 2 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-07-10 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
 | 3 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-10 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6501 | Python | 2026-07-10 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6502 | Python | 2026-07-10 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-10 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 6 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-10 | Automate file management and coding tasks in your local directory using small language models. |
 | 7 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-10 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
