@@ -1,5 +1,86 @@
 [
   {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-10T09:44:22Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-10T09:44:31Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-10T09:43:15Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 4,
+    "updated_at": "2026-07-10T09:42:44Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-10T09:39:35Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 5,
+    "updated_at": "2026-07-10T09:34:12Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13351,
+    "updated_at": "2026-07-10T09:32:05Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-07-10T09:31:21Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "A hybrid AI assistant framework linking structural workflow engines and reasoning LLM agents through LangGraph-powered s",
+    "id": "RobbieXie/Bifrost-AI",
+    "language": "Python",
+    "name": "RobbieXie/Bifrost-AI",
+    "stars": 5,
+    "updated_at": "2026-07-10T09:30:43Z",
+    "url": "https://github.com/RobbieXie/Bifrost-AI"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/Wenri/TaskSolver"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 18,
-    "updated_at": "2026-07-10T09:28:47Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "MobileUse: an open-source mobile GUI agent for Android phone automation, AndroidWorld/AndroidLab evaluation, hierarchica",
     "id": "MadeAgents/mobile-use",
     "language": "Python",
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T09:18:29Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-07-10T09:17:48Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -180,15 +243,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 4,
-    "updated_at": "2026-07-10T09:00:42Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
     "id": "oxidizable-malinois605/bridge-suite-mcp",
     "language": "TypeScript",
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T08:53:31Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-10T09:17:55Z",
-    "url": "https://github.com/heichaowo/amem"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -369,15 +414,6 @@
     "url": "https://github.com/mezoali100/exforum-auto-poster"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 6,
-    "updated_at": "2026-07-10T08:38:27Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
     "id": "Bowotria/aethercore",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T08:35:45Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-10T08:33:02Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-10T08:33:00Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-10T08:32:53Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-10T08:32:47Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
