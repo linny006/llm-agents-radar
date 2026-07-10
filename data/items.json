@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-10T07:09:47Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Empowering agents with a unique persona and ethical cognitive intelligence.",
+    "id": "jinsoo96/agethos",
+    "language": "Python",
+    "name": "jinsoo96/agethos",
+    "stars": 8,
+    "updated_at": "2026-07-10T07:07:19Z",
+    "url": "https://github.com/jinsoo96/agethos"
+  },
+  {
     "description": "\u26a1 ARIA \u2014 self-improving AI agent on the Hermes Agent core (Nous Research, MIT). Free OpenRouter models, learns skills fr",
     "id": "yuvrajlaptop2008-byte/ai-dev-agent",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T06:58:14Z",
     "url": "https://github.com/yuvrajlaptop2008-byte/ai-dev-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 18,
-    "updated_at": "2026-07-10T06:57:30Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-10T05:20:59Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-10T05:19:51Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
