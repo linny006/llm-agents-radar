@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-10T01:26:42Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-07-10T01:26:38Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
+    "id": "FeixueCode/miaoclaw-releases",
+    "language": "\u2014",
+    "name": "FeixueCode/miaoclaw-releases",
+    "stars": 1,
+    "updated_at": "2026-07-10T01:17:31Z",
+    "url": "https://github.com/FeixueCode/miaoclaw-releases"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T01:01:35Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
-    "id": "FeixueCode/miaoclaw-releases",
-    "language": "\u2014",
-    "name": "FeixueCode/miaoclaw-releases",
-    "stars": 1,
-    "updated_at": "2026-07-10T00:54:20Z",
-    "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -115,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-10T00:41:37Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-07-10T00:54:47Z",
-    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-09T23:55:40Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-09T23:51:45Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
   }
 ]
