@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-10T06:29:45Z",
+    "updated_at": "2026-07-10T06:45:11Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-10T06:38:43Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 3,
+    "updated_at": "2026-07-10T06:36:16Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 27707,
+    "updated_at": "2026-07-10T06:33:48Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -16,15 +43,6 @@
     "stars": 6,
     "updated_at": "2026-07-10T06:23:15Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 27705,
-    "updated_at": "2026-07-10T06:16:37Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-10T06:00:32Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 3,
-    "updated_at": "2026-07-10T06:00:13Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-10T05:12:32Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-07-10T05:08:31Z",
-    "url": "https://github.com/amineeng/scraping-browser"
   }
 ]
