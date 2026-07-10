@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 6,
-    "updated_at": "2026-07-10T17:58:37Z",
+    "updated_at": "2026-07-10T18:11:37Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-07-10T18:10:57Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-10T18:10:32Z",
+    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "Mohitcr7/Credit-Risk-Underwriting-Engine",
     "stars": 1,
-    "updated_at": "2026-07-10T17:53:37Z",
+    "updated_at": "2026-07-10T18:10:27Z",
     "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6514,
+    "updated_at": "2026-07-10T18:07:35Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T17:47:36Z",
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6514,
-    "updated_at": "2026-07-10T17:47:02Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T16:55:02Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-10T16:54:11Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:49:53Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
