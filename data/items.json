@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-07-10T05:12:32Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-10T03:36:56Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "A hybrid AI assistant framework linking structural workflow engines and reasoning LLM agents through LangGraph-powered s",
-    "id": "RobbieXie/Bifrost-AI",
-    "language": "Python",
-    "name": "RobbieXie/Bifrost-AI",
-    "stars": 5,
-    "updated_at": "2026-07-10T03:36:49Z",
-    "url": "https://github.com/RobbieXie/Bifrost-AI"
   }
 ]
