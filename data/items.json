@@ -1,12 +1,30 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6514,
-    "updated_at": "2026-07-10T17:43:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-10T17:58:37Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
+    "id": "Mohitcr7/Credit-Risk-Underwriting-Engine",
+    "language": "Python",
+    "name": "Mohitcr7/Credit-Risk-Underwriting-Engine",
+    "stars": 1,
+    "updated_at": "2026-07-10T17:53:37Z",
+    "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:52:50Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -14,8 +32,26 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 3,
-    "updated_at": "2026-07-10T17:32:20Z",
+    "updated_at": "2026-07-10T17:51:39Z",
     "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-10T17:51:32Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-10T17:51:16Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -23,8 +59,53 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-07-10T17:31:45Z",
+    "updated_at": "2026-07-10T17:51:13Z",
     "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-10T17:51:09Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 475,
+    "updated_at": "2026-07-10T17:50:29Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-07-10T17:47:36Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6514,
+    "updated_at": "2026-07-10T17:47:02Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-07-10T17:45:08Z",
+    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T17:22:42Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-07-10T17:21:11Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-10T16:49:53Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:48:51Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:48:42Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-10T16:47:43Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 475,
-    "updated_at": "2026-07-10T17:36:28Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-10T16:44:54Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-10T16:43:59Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-10T16:43:44Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-10T16:41:53Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
