@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 2,
+    "updated_at": "2026-07-10T20:51:52Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-10T20:50:21Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-10T20:46:29Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-10T20:45:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Tool-calling RAG agent for personal finance Q&A \u2014 Flask, Groq, FAISS. Routes questions between exact pandas computation ",
     "id": "Tanushx23/finance-rag",
     "language": "Python",
@@ -225,24 +261,6 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 6,
-    "updated_at": "2026-07-10T20:12:40Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-10T20:12:02Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T19:51:50Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-10T19:51:09Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-07-10T20:24:55Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
