@@ -1,5 +1,59 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-10T04:25:57Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-10T04:24:39Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-10T04:23:08Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-10T04:16:13Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "A research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2217,
+    "updated_at": "2026-07-10T04:15:41Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
+    "id": "ZhihaoZhang97/wcpredict",
+    "language": "Python",
+    "name": "ZhihaoZhang97/wcpredict",
+    "stars": 0,
+    "updated_at": "2026-07-10T04:15:40Z",
+    "url": "https://github.com/ZhihaoZhang97/wcpredict"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T03:14:35Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-10T03:13:50Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-10T03:13:40Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-10T03:11:51Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 407,
-    "updated_at": "2026-07-10T03:09:18Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-10T03:09:10Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-10T03:09:04Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
