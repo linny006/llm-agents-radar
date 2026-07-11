@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 17:15 UTC
+> ⏰ Last updated: 2026-07-11 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-07-11 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 18 | Python | 2026-07-11 | A productive AI coworker that learns, self-improves, and ships work. |
-| 3 | [SJTU-DMTai/Data-Agent-Reading-List](https://github.com/SJTU-DMTai/Data-Agent-Reading-List) | 7 | Python | 2026-07-11 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
-| 4 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-11 | Automate file management and coding tasks in your local directory using small language models. |
-| 5 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-07-11 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-11 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 8 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-11 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 9 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-11 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
-| 10 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-11 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 11 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-11 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 12 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-11 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
-| 13 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-11 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 14 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-11 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 15 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-11 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
-| 16 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-11 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 17 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-11 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 18 | [bigduu/Nova](https://github.com/bigduu/Nova) | 1 | Rust | 2026-07-11 | Give an LLM agent control of the macOS desktop — a single self-contained Rust binary (no Python/JS stack) that speaks MC |
+| 1 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-11 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 2 | [bigduu/Nova](https://github.com/bigduu/Nova) | 1 | Rust | 2026-07-11 | Give an LLM agent control of the macOS desktop — a single self-contained Rust binary (no Python/JS stack) that speaks MC |
+| 3 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-07-11 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 6 | Python | 2026-07-11 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 18 | Python | 2026-07-11 | A productive AI coworker that learns, self-improves, and ships work. |
+| 6 | [SJTU-DMTai/Data-Agent-Reading-List](https://github.com/SJTU-DMTai/Data-Agent-Reading-List) | 7 | Python | 2026-07-11 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
+| 7 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-11 | Automate file management and coding tasks in your local directory using small language models. |
+| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 9 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-11 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 10 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-11 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 11 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-11 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
+| 12 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-11 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 13 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-11 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
+| 14 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-11 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
+| 15 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-11 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 16 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-11 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 17 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-11 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
+| 18 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-11 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
 | 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 20 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-07-11 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
 | 21 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-11 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |

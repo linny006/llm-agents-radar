@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-11T17:29:46Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Give an LLM agent control of the macOS desktop \u2014 a single self-contained Rust binary (no Python/JS stack) that speaks MC",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 1,
+    "updated_at": "2026-07-11T17:28:26Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-11T17:22:48Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T17:04:35Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-11T17:04:01Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -142,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T16:50:45Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-11T16:50:39Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Give an LLM agent control of the macOS desktop \u2014 a single self-contained Rust binary (no Python/JS stack) that speaks MC",
-    "id": "bigduu/Nova",
-    "language": "Rust",
-    "name": "bigduu/Nova",
-    "stars": 1,
-    "updated_at": "2026-07-11T16:50:11Z",
-    "url": "https://github.com/bigduu/Nova"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
