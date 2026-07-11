@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 14:44 UTC
+> ⏰ Last updated: 2026-07-11 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [GabrieleFirriolo/flight-delay-prediction-app](https://github.com/GabrieleFirriolo/flight-delay-prediction-app) | 0 | Jupyter Notebook | 2026-07-11 | End-to-end flight delay prediction: a LightGBM two-stage model served via FastAPI behind a conversational ReAct agent (L |
+| 1 | [GabrieleFirriolo/flight-delay-prediction-app](https://github.com/GabrieleFirriolo/flight-delay-prediction-app) | 0 | Jupyter Notebook | 2026-07-11 | End-to-end flight delay prediction: a LightGBM two-stage model served via FastAPI behind a conversational ReAct agent (L |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 3 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6521 | Python | 2026-07-11 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 153 | HTML | 2026-07-11 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-11 | Smart Promise Tracker AI 2026 – Commit Memory Engine |

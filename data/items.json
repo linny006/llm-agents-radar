@@ -1,5 +1,14 @@
 [
   {
+    "description": "End-to-end flight delay prediction: a LightGBM two-stage model served via FastAPI behind a conversational ReAct agent (L",
+    "id": "GabrieleFirriolo/flight-delay-prediction-app",
+    "language": "Jupyter Notebook",
+    "name": "GabrieleFirriolo/flight-delay-prediction-app",
+    "stars": 0,
+    "updated_at": "2026-07-11T14:45:08Z",
+    "url": "https://github.com/GabrieleFirriolo/flight-delay-prediction-app"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T14:41:55Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "End-to-end flight delay prediction: a LightGBM two-stage model served via FastAPI behind a conversational ReAct agent (L",
-    "id": "GabrieleFirriolo/flight-delay-prediction-app",
-    "language": "Jupyter Notebook",
-    "name": "GabrieleFirriolo/flight-delay-prediction-app",
-    "stars": 0,
-    "updated_at": "2026-07-11T14:40:00Z",
-    "url": "https://github.com/GabrieleFirriolo/flight-delay-prediction-app"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
