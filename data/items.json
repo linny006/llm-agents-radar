@@ -1,12 +1,75 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-11T00:26:12Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-11T00:22:42Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-11T00:22:10Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 412,
-    "updated_at": "2026-07-11T00:12:30Z",
+    "updated_at": "2026-07-11T00:19:45Z",
     "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-11T00:18:08Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "HTML",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-07-11T00:17:59Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-11T00:15:22Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-07-11T00:15:21Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Turn any Android tablet into a voice-first smart-home device with a local AI brain \u2014 Alexa-class UX, OpenClaw-style on-d",
@@ -45,15 +108,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-10T23:57:22Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -88,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-10T23:33:21Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-07-11T00:15:21Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-10T22:22:05Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-10T22:21:24Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-10T22:21:13Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Agentic IDE with custom harness",
-    "id": "Paseru/sinew",
-    "language": "Rust",
-    "name": "Paseru/sinew",
-    "stars": 69,
-    "updated_at": "2026-07-10T22:19:49Z",
-    "url": "https://github.com/Paseru/sinew"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:19:31Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-10T22:17:06Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
