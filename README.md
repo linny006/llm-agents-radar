@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-11 08:57 UTC
+> ⏰ Last updated: 2026-07-11 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [QodeXcli/QodeX](https://github.com/QodeXcli/QodeX) | 33 | TypeScript | 2026-07-11 | QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St |
-| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 3 | [AaronAbuUsama/whatsappd-github-agent](https://github.com/AaronAbuUsama/whatsappd-github-agent) | 0 | TypeScript | 2026-07-11 | A WhatsApp group-chat GitHub concierge — an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum |
-| 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 7 | Python | 2026-07-11 | 面向智能座舱的云边协同 Multi-Agent 系统，支持端侧快意图、云端 LLM 规划、跨域 Agent 编排、车控 VAL 安全执行、HMI 流式交互、语义记忆与可观测 Dashboard |
-| 5 | [Yanu403/digital-mate](https://github.com/Yanu403/digital-mate) | 3 | Python | 2026-07-11 | 🤖 AI-powered Digital Marketing Assistant — content creation, strategy, research & analytics via Telegram. Bilingual EN/I |
+| 1 | [Yanu403/digital-mate](https://github.com/Yanu403/digital-mate) | 3 | Python | 2026-07-11 | 🤖 AI-powered Digital Marketing Assistant — content creation, strategy, research & analytics via Telegram. Bilingual EN/I |
+| 2 | [QodeXcli/QodeX](https://github.com/QodeXcli/QodeX) | 33 | TypeScript | 2026-07-11 | QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St |
+| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-11 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 4 | [AaronAbuUsama/whatsappd-github-agent](https://github.com/AaronAbuUsama/whatsappd-github-agent) | 0 | TypeScript | 2026-07-11 | A WhatsApp group-chat GitHub concierge — an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum |
+| 5 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 7 | Python | 2026-07-11 | 面向智能座舱的云边协同 Multi-Agent 系统，支持端侧快意图、云端 LLM 规划、跨域 Agent 编排、车控 VAL 安全执行、HMI 流式交互、语义记忆与可观测 Dashboard |
 | 6 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-11 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
 | 7 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 18 | Python | 2026-07-11 | A productive AI coworker that learns, self-improves, and ships work. |
 | 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |

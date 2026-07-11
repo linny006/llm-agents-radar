@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 3,
+    "updated_at": "2026-07-11T08:58:29Z",
+    "url": "https://github.com/Yanu403/digital-mate"
+  },
+  {
     "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
     "id": "QodeXcli/QodeX",
     "language": "TypeScript",
@@ -36,15 +45,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
-    "id": "Yanu403/digital-mate",
-    "language": "Python",
-    "name": "Yanu403/digital-mate",
-    "stars": 3,
-    "updated_at": "2026-07-11T08:57:45Z",
-    "url": "https://github.com/Yanu403/digital-mate"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-11T08:48:05Z",
+    "updated_at": "2026-07-11T08:58:34Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
