@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-11T20:29:43Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-11T20:26:22Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4355,
-    "updated_at": "2026-07-11T19:57:46Z",
+    "updated_at": "2026-07-11T20:27:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-11T20:09:20Z",
+    "updated_at": "2026-07-11T20:23:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T19:44:57Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-11T19:43:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-11T19:19:29Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-11T19:19:01Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
