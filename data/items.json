@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-11T07:59:25Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
+    "id": "Yanu403/digital-mate",
+    "language": "Python",
+    "name": "Yanu403/digital-mate",
+    "stars": 3,
+    "updated_at": "2026-07-11T07:58:12Z",
+    "url": "https://github.com/Yanu403/digital-mate"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-11T07:59:30Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 46,
+    "updated_at": "2026-07-11T07:51:10Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-11T07:50:52Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-11T07:49:40Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-11T07:48:02Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-11T07:45:45Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 7,
+    "updated_at": "2026-07-11T07:45:21Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
     "id": "AaronAbuUsama/whatsappd-github-agent",
     "language": "TypeScript",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-11T07:32:28Z",
+    "updated_at": "2026-07-11T07:59:17Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-07-11T07:31:36Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-11T07:30:56Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -315,15 +387,6 @@
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 7,
-    "updated_at": "2026-07-11T06:44:43Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-11T06:37:29Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:36:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:35:41Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-11T06:33:20Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:32:50Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-11T06:32:18Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-11T06:31:39Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-11T06:30:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
