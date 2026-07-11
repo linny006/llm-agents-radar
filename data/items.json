@@ -1,5 +1,14 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-11T09:13:15Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "\ud83e\udd16 AI-powered Digital Marketing Assistant \u2014 content creation, strategy, research & analytics via Telegram. Bilingual EN/I",
     "id": "Yanu403/digital-mate",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-11T08:58:34Z",
+    "updated_at": "2026-07-11T09:11:49Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T07:40:22Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-11T07:31:36Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
