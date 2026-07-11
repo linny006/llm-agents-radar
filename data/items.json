@@ -1,5 +1,113 @@
 [
   {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-07-11T10:29:12Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-07-11T10:29:00Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-07-11T10:28:24Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-07-11T10:27:55Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-11T10:25:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-11T10:25:33Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-11T10:24:48Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-11T10:24:47Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-11T10:21:47Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-11T10:19:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-07-11T10:17:52Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-07-11T10:16:40Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -16,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-11T10:09:19Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Standard grep, plus a few commands your coding agent can use to navigate code \u2014 who-calls, impact, semantic-search, brie",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-11T10:06:16Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -90,24 +189,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 18,
-    "updated_at": "2026-07-11T09:52:48Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 6,
-    "updated_at": "2026-07-11T09:51:20Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -169,15 +250,6 @@
     "stars": 33,
     "updated_at": "2026-07-11T08:55:24Z",
     "url": "https://github.com/QodeXcli/QodeX"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-11T08:51:52Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T07:11:53Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-11T07:09:31Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-11T07:09:00Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-11T07:05:25Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-11T07:04:10Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-11T07:04:01Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 413,
-    "updated_at": "2026-07-11T07:01:51Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-07-11T07:01:27Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 2,
-    "updated_at": "2026-07-11T07:00:55Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
