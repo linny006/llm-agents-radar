@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 18,
+    "updated_at": "2026-07-11T18:42:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-11T18:41:12Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Local-first, human-in-the-loop personal AI employee. Watches email/LinkedIn, drafts actions with OpenCode, and waits for",
+    "id": "AbdulSamad94/Personal-AI-Employee",
+    "language": "Python",
+    "name": "AbdulSamad94/Personal-AI-Employee",
+    "stars": 5,
+    "updated_at": "2026-07-11T18:40:18Z",
+    "url": "https://github.com/AbdulSamad94/Personal-AI-Employee"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-11T18:36:44Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -126,15 +162,6 @@
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
-    "description": "Local-first, human-in-the-loop personal AI employee. Watches email/LinkedIn, drafts actions with OpenCode, and waits for",
-    "id": "AbdulSamad94/Personal-AI-Employee",
-    "language": "Python",
-    "name": "AbdulSamad94/Personal-AI-Employee",
-    "stars": 5,
-    "updated_at": "2026-07-11T18:21:06Z",
-    "url": "https://github.com/AbdulSamad94/Personal-AI-Employee"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T17:50:21Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 18,
-    "updated_at": "2026-07-11T18:10:40Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-11T16:28:06Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:27:53Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-11T16:26:56Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
