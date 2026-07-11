@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local-first, human-in-the-loop personal AI employee. Watches email/LinkedIn, drafts actions with OpenCode, and waits for",
+    "id": "AbdulSamad94/Personal-AI-Employee",
+    "language": "Python",
+    "name": "AbdulSamad94/Personal-AI-Employee",
+    "stars": 5,
+    "updated_at": "2026-07-11T17:52:04Z",
+    "url": "https://github.com/AbdulSamad94/Personal-AI-Employee"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-11T17:50:45Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-11T17:50:21Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-07-11T17:37:24Z",
+    "updated_at": "2026-07-11T17:53:46Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T17:36:50Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Local-first, human-in-the-loop personal AI employee. Watches email/LinkedIn, drafts actions with OpenCode, and waits for",
-    "id": "AbdulSamad94/Personal-AI-Employee",
-    "language": "Python",
-    "name": "AbdulSamad94/Personal-AI-Employee",
-    "stars": 5,
-    "updated_at": "2026-07-11T17:35:22Z",
-    "url": "https://github.com/AbdulSamad94/Personal-AI-Employee"
   },
   {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-11T17:33:47Z",
+    "updated_at": "2026-07-11T17:45:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 1,
-    "updated_at": "2026-07-11T17:28:26Z",
+    "updated_at": "2026-07-11T17:59:38Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "SJTU-DMTai/Data-Agent-Reading-List",
     "stars": 7,
-    "updated_at": "2026-07-11T17:06:50Z",
+    "updated_at": "2026-07-11T17:55:44Z",
     "url": "https://github.com/SJTU-DMTai/Data-Agent-Reading-List"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-11T16:50:45Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-11T16:49:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-11T16:17:22Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-11T16:14:35Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
