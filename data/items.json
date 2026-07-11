@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 18,
-    "updated_at": "2026-07-11T04:59:32Z",
+    "updated_at": "2026-07-11T05:08:51Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-11T05:07:28Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-11T04:26:46Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-11T04:23:24Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Bodhi \u2014 a local-first desktop AI agent that actually does the work: it breaks down tasks, calls tools, streams every ste",
@@ -167,7 +167,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-11T04:06:35Z",
+    "updated_at": "2026-07-11T05:12:37Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
