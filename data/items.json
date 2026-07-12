@@ -1,5 +1,41 @@
 [
   {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-07-12T19:43:07Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
+    "id": "ZhihaoZhang97/wcpredict",
+    "language": "Python",
+    "name": "ZhihaoZhang97/wcpredict",
+    "stars": 0,
+    "updated_at": "2026-07-12T19:32:03Z",
+    "url": "https://github.com/ZhihaoZhang97/wcpredict"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-12T19:31:28Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 6,
+    "updated_at": "2026-07-12T19:30:34Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -85,7 +121,7 @@
     "id": "langroid/langroid",
     "language": "Python",
     "name": "langroid/langroid",
-    "stars": 4065,
+    "stars": 4066,
     "updated_at": "2026-07-12T18:58:59Z",
     "url": "https://github.com/langroid/langroid"
   },
@@ -248,7 +284,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4355,
-    "updated_at": "2026-07-12T19:29:18Z",
+    "updated_at": "2026-07-12T19:30:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -302,7 +338,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-07-12T18:32:44Z",
+    "updated_at": "2026-07-12T19:45:07Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-12T18:18:55Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-12T18:18:20Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-12T18:15:58Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-12T18:15:09Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-12T18:12:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
