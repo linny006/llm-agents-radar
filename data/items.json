@@ -1,5 +1,68 @@
 [
   {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:00:01Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:57:16Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:52:45Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "To Step Into the Immersive Experience...",
+    "id": "Percedal15019/Akash_Khoj",
+    "language": "HTML",
+    "name": "Percedal15019/Akash_Khoj",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:50:51Z",
+    "url": "https://github.com/Percedal15019/Akash_Khoj"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-12T14:50:33Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-12T14:49:56Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 35,
+    "updated_at": "2026-07-12T14:47:34Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Give an LLM agent control of the macOS desktop \u2014 a single self-contained Rust binary (no Python/JS stack) that speaks MC",
     "id": "bigduu/Nova",
     "language": "Rust",
@@ -90,15 +153,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
-    "id": "maisieyang/build-my-own-harness",
-    "language": "Python",
-    "name": "maisieyang/build-my-own-harness",
-    "stars": 0,
-    "updated_at": "2026-07-12T14:25:34Z",
-    "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
     "description": "GAIA Level 1 100% accuracy, 33.3% lift on WebShop, 86.8% Token cost reduction. Plan-Execute-Reflect loop with AST sandbo",
     "id": "paopao-13/pecs-multi-agent",
     "language": "Python",
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4354,
-    "updated_at": "2026-07-12T14:38:38Z",
+    "updated_at": "2026-07-12T14:48:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -333,15 +387,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:05:55Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-12T12:52:38Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-12T12:50:22Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
-    "id": "codexceed/avatar-harness",
-    "language": "Python",
-    "name": "codexceed/avatar-harness",
-    "stars": 0,
-    "updated_at": "2026-07-12T13:00:30Z",
-    "url": "https://github.com/codexceed/avatar-harness"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:48:34Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 2,
-    "updated_at": "2026-07-12T12:47:07Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-07-12T12:46:07Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   }
 ]
