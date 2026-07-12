@@ -1,12 +1,30 @@
 [
   {
-    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
-    "id": "maisieyang/build-my-own-harness",
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "maisieyang/build-my-own-harness",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-12T16:56:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
     "stars": 0,
-    "updated_at": "2026-07-12T16:42:03Z",
-    "url": "https://github.com/maisieyang/build-my-own-harness"
+    "updated_at": "2026-07-12T16:56:12Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-12T16:53:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Safe execution harness for LLM agents operating on local workspaces.",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "zhangyi-nb1/localflow",
     "stars": 0,
-    "updated_at": "2026-07-12T16:37:13Z",
+    "updated_at": "2026-07-12T16:52:19Z",
     "url": "https://github.com/zhangyi-nb1/localflow"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-07-12T16:42:03Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 35,
-    "updated_at": "2026-07-12T16:35:18Z",
+    "updated_at": "2026-07-12T17:00:12Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T16:31:00Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-07-12T16:30:00Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -414,15 +432,6 @@
     "url": "https://github.com/heba-ramdan/harness"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-12T15:53:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
     "id": "Ronit0p/AutoGod",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T15:53:26Z",
     "url": "https://github.com/m-oonn/rag-aiops-platform"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-12T15:51:00Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
