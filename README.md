@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-13 10:15 UTC
+> ⏰ Last updated: 2026-07-13 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 0 | Python | 2026-07-13 | ReAct Agent 学习实现 — 纯 Python 运行时 + LangGraph 对照；RAG / MCP / 评测 |
-| 2 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 13 | JavaScript | 2026-07-13 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7  |
-| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-13 | A productive AI coworker that learns, self-improves, and ships work. |
-| 4 | [yigido41/agentic-ai](https://github.com/yigido41/agentic-ai) | 2 | Python | 2026-07-13 | 🤖 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte |
-| 5 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 20 | Shell | 2026-07-13 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install |
-| 6 | [Daniyal-GraphicDesigner/ai-trading-agent](https://github.com/Daniyal-GraphicDesigner/ai-trading-agent) | 2 | CSS | 2026-07-13 | 🤖 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-07-13 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
-| 9 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-13 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
-| 10 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-07-13 |  |
-| 11 | [yuvrajlaptop2008-byte/ai-dev-agent](https://github.com/yuvrajlaptop2008-byte/ai-dev-agent) | 0 | JavaScript | 2026-07-13 | ⚡ ARIA — fully autonomous AI dev agent: solves GitHub issues, ships whole OSS projects, browses/researches the web, driv |
-| 12 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 2 | Python | 2026-07-13 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
-| 13 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27803 | Python | 2026-07-13 | Build and run agents you can see, understand and trust. |
-| 14 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-07-13 |  |
-| 15 | [SHUKLAO/call-with-ai-agent](https://github.com/SHUKLAO/call-with-ai-agent) | 3 | — | 2026-07-13 | 🗣️ Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi |
-| 16 | [WP2-Danikusuma/AgentX](https://github.com/WP2-Danikusuma/AgentX) | 2 | HTML | 2026-07-13 | 🤖 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a |
-| 17 | [sky-valley/pi](https://github.com/sky-valley/pi) | 9 | Go | 2026-07-13 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
-| 18 | [aerkn1/jobhunt](https://github.com/aerkn1/jobhunt) | 0 | Python | 2026-07-13 | Stateless automated job discovery and scoring service based on your CV |
-| 19 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-13 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 20 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-13 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 21 | [helixml/helix](https://github.com/helixml/helix) | 788 | Go | 2026-07-13 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 22 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-13 | Automate file management and coding tasks in your local directory using small language models. |
-| 23 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-13 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 24 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-13 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 25 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-13 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
-| 26 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 27 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 28 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13391 | Python | 2026-07-13 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 29 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
-| 30 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-13 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 31 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-13 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 32 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-13 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
-| 33 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-13 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 34 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-07-13 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
-| 35 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-13 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
-| 36 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 2 | — | 2026-07-13 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
-| 37 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-07-13 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
-| 38 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 1 | — | 2026-07-13 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |
-| 39 | [Stolas34/voice-input-src](https://github.com/Stolas34/voice-input-src) | 0 | — | 2026-07-13 | Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast  |
-| 40 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-07-13 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 41 | [Screwtopped-annapavlova802/SparkLabs](https://github.com/Screwtopped-annapavlova802/SparkLabs) | 0 | C++ | 2026-07-13 | Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems |
-| 42 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-07-13 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 43 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-07-13 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
-| 44 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 0 | Python | 2026-07-13 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
-| 45 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-07-13 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
-| 46 | [mriazi1982/octopai](https://github.com/mriazi1982/octopai) | 1 | Python | 2026-07-13 | Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks. |
-| 47 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-07-13 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
-| 48 | [Asim00740/Kagantic-vault-structure](https://github.com/Asim00740/Kagantic-vault-structure) | 0 | — | 2026-07-13 | Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i |
-| 49 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-07-13 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
-| 50 | [Tonyx79/clov-ai](https://github.com/Tonyx79/clov-ai) | 1 | Rust | 2026-07-13 | Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual |
+| 1 | [amineeng/scraping-browser](https://github.com/amineeng/scraping-browser) | 1 | — | 2026-07-13 | 🔍 Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo |
+| 2 | [Danisxxx/comfyUI-LongLook](https://github.com/Danisxxx/comfyUI-LongLook) | 1 | Python | 2026-07-13 | 🎥 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations  |
+| 3 | [hasting323/AutoGLM-For-Android](https://github.com/hasting323/AutoGLM-For-Android) | 7 | Kotlin | 2026-07-13 | 🤖 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc |
+| 4 | [Clean-Dust/worldwave](https://github.com/Clean-Dust/worldwave) | 2 | Python | 2026-07-13 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
+| 5 | [axxafo/awesome-agent-benchmarks](https://github.com/axxafo/awesome-agent-benchmarks) | 3 | — | 2026-07-13 | 🧠 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in |
+| 6 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-07-13 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
+| 7 | [heichaowo/amem](https://github.com/heichaowo/amem) | 1 | TypeScript | 2026-07-13 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
+| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-13 | A productive AI coworker that learns, self-improves, and ships work. |
+| 9 | [rudramishra4117/ComfyUI-None-upup](https://github.com/rudramishra4117/ComfyUI-None-upup) | 2 | JavaScript | 2026-07-13 | 🎨 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video |
+| 10 | [Saran1536/ComfyUI-LoaderUtils](https://github.com/Saran1536/ComfyUI-LoaderUtils) | 1 | Python | 2026-07-13 | 🔄 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m |
+| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 12 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 27803 | Python | 2026-07-13 | Build and run agents you can see, understand and trust. |
+| 13 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-07-13 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 14 | [piporyx/doc-qa-agent](https://github.com/piporyx/doc-qa-agent) | 0 | Python | 2026-07-13 | 🤖 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad |
+| 15 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 0 | Python | 2026-07-13 | ReAct Agent 学习实现 — 纯 Python 运行时 + LangGraph 对照；RAG / MCP / 评测 |
+| 16 | [sehoon787/my-claude](https://github.com/sehoon787/my-claude) | 13 | JavaScript | 2026-07-13 | All-in-one agent harness for Claude Code — Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7  |
+| 17 | [yigido41/agentic-ai](https://github.com/yigido41/agentic-ai) | 2 | Python | 2026-07-13 | 🤖 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte |
+| 18 | [sehoon787/my-codex](https://github.com/sehoon787/my-codex) | 20 | Shell | 2026-07-13 | All-in-one agent harness for OpenAI Codex CLI — Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install |
+| 19 | [Daniyal-GraphicDesigner/ai-trading-agent](https://github.com/Daniyal-GraphicDesigner/ai-trading-agent) | 2 | CSS | 2026-07-13 | 🤖 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m |
+| 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 21 | [Amri854/obsidian-mcp-server](https://github.com/Amri854/obsidian-mcp-server) | 0 | TypeScript | 2026-07-13 | 🗂️ Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys |
+| 22 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-13 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
+| 23 | [sanitprime/Advanced_Graph_RAG](https://github.com/sanitprime/Advanced_Graph_RAG) | 2 | Python | 2026-07-13 |  |
+| 24 | [yuvrajlaptop2008-byte/ai-dev-agent](https://github.com/yuvrajlaptop2008-byte/ai-dev-agent) | 0 | JavaScript | 2026-07-13 | ⚡ ARIA — fully autonomous AI dev agent: solves GitHub issues, ships whole OSS projects, browses/researches the web, driv |
+| 25 | [irandysousa/langgraph-llama-cpp-starter](https://github.com/irandysousa/langgraph-llama-cpp-starter) | 2 | Python | 2026-07-13 | 🤖 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva |
+| 26 | [JortegaR/ai-notes-api](https://github.com/JortegaR/ai-notes-api) | 1 | JavaScript | 2026-07-13 |  |
+| 27 | [SHUKLAO/call-with-ai-agent](https://github.com/SHUKLAO/call-with-ai-agent) | 3 | — | 2026-07-13 | 🗣️ Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi |
+| 28 | [WP2-Danikusuma/AgentX](https://github.com/WP2-Danikusuma/AgentX) | 2 | HTML | 2026-07-13 | 🤖 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a |
+| 29 | [sky-valley/pi](https://github.com/sky-valley/pi) | 9 | Go | 2026-07-13 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
+| 30 | [aerkn1/jobhunt](https://github.com/aerkn1/jobhunt) | 0 | Python | 2026-07-13 | Stateless automated job discovery and scoring service based on your CV |
+| 31 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-13 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 32 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-13 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 33 | [helixml/helix](https://github.com/helixml/helix) | 788 | Go | 2026-07-13 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 34 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-13 | Automate file management and coding tasks in your local directory using small language models. |
+| 35 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-13 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 36 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-13 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 37 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-13 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
+| 38 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 39 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
+| 40 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13391 | Python | 2026-07-13 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 41 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
+| 42 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-13 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 43 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-13 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 44 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-13 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
+| 45 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-13 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 46 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-07-13 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
+| 47 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-13 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
+| 48 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 2 | — | 2026-07-13 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
+| 49 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-07-13 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
+| 50 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 1 | — | 2026-07-13 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |
 <!-- TRACKER_TABLE_END -->
 
 ---
