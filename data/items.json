@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-13T07:53:57Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:53:10Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-13T07:38:57Z",
-    "url": "https://github.com/yigido41/agentic-ai"
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-13T07:52:13Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-13T07:43:35Z",
+    "updated_at": "2026-07-13T07:52:02Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "ReAct Agent \u6846\u67b6 \u2014 \u7eaf Python \u8fd0\u884c\u65f6 + LangGraph \u53cc\u5b9e\u73b0\uff0c14 \u6a21\u5757\u8986\u76d6 RAG\u3001MCP\u3001\u591a Agent \u7f16\u6392",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:51:14Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-13T07:50:48Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-13T07:49:47Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:47:41Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T07:46:00Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-13T07:38:57Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -113,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 788,
-    "updated_at": "2026-07-13T07:36:15Z",
+    "updated_at": "2026-07-13T07:51:53Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T06:50:15Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "ReAct Agent \u6846\u67b6 \u2014 \u7eaf Python \u8fd0\u884c\u65f6 + LangGraph \u53cc\u5b9e\u73b0\uff0c14 \u6a21\u5757\u8986\u76d6 RAG\u3001MCP\u3001\u591a Agent \u7f16\u6392",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T06:23:01Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T05:43:26Z",
     "url": "https://github.com/xhqing/PersonalAssistantAgent"
-  },
-  {
-    "description": "\u6570\u636e\u5206\u6790\u5e08 Echo\uff5c\u590d\u76d8\u53cd\u9988\u56de\u8def+\u6253\u6cd5\u5e93\u3002Data Analyst \u2014 feedback loop & learning engine.",
-    "id": "xhqing/DataAnalystAgent",
-    "language": "Shell",
-    "name": "xhqing/DataAnalystAgent",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:43:20Z",
-    "url": "https://github.com/xhqing/DataAnalystAgent"
-  },
-  {
-    "description": "\u589e\u957f\u8425\u9500 Buzz\uff5c\u5f15\u6d41\u5f15\u64ce\u3002Growth Marketer \u2014 the traffic engine that funnels buyers to checkout.",
-    "id": "xhqing/GrowthMarketerAgent",
-    "language": "Shell",
-    "name": "xhqing/GrowthMarketerAgent",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:43:15Z",
-    "url": "https://github.com/xhqing/GrowthMarketerAgent"
-  },
-  {
-    "description": "\u6570\u5b57\u4ea7\u54c1\u5236\u4f5c\u4eba Wright\uff5c\u628a\u673a\u4f1a\u505a\u6210\u53ef\u552e\u5356\u6210\u54c1\u3002Digital Product Producer \u2014 turns opportunities into finished products.",
-    "id": "xhqing/ProductProducerAgent",
-    "language": "Shell",
-    "name": "xhqing/ProductProducerAgent",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:43:07Z",
-    "url": "https://github.com/xhqing/ProductProducerAgent"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-13T05:43:00Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
-    "id": "xhqing/ProductStrategistAgent",
-    "language": "Shell",
-    "name": "xhqing/ProductStrategistAgent",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:42:59Z",
-    "url": "https://github.com/xhqing/ProductStrategistAgent"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:42:53Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "\u7535\u5546\u8fd0\u8425 Vendy\uff5c\u6210\u4ea4\uff1a\u4e0a\u67b6/\u5b9a\u4ef7/\u5c65\u7ea6/\u552e\u540e/\u5bf9\u8d26\u3002E-commerce Ops \u2014 the conversion & sales agent.",
-    "id": "xhqing/DigiVendAgent",
-    "language": "Shell",
-    "name": "xhqing/DigiVendAgent",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:42:52Z",
-    "url": "https://github.com/xhqing/DigiVendAgent"
   }
 ]
