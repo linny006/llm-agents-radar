@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 5,
-    "updated_at": "2026-07-13T01:01:30Z",
+    "updated_at": "2026-07-13T01:03:50Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-13T01:03:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T23:46:28Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-12T23:44:20Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
