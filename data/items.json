@@ -1,5 +1,41 @@
 [
   {
+    "description": "ReAct Agent \u6846\u67b6 \u2014 \u7eaf Python \u8fd0\u884c\u65f6 + LangGraph \u53cc\u5b9e\u73b0\uff0c14 \u6a21\u5757\u8986\u76d6 RAG\u3001MCP\u3001\u591a Agent \u7f16\u6392",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:23:01Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 424,
+    "updated_at": "2026-07-13T06:20:39Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-13T06:20:09Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
+  },
+  {
+    "description": "Give an LLM agent control of the macOS desktop \u2014 a single self-contained Rust binary (no Python/JS stack) that speaks MC",
+    "id": "bigduu/Nova",
+    "language": "Rust",
+    "name": "bigduu/Nova",
+    "stars": 1,
+    "updated_at": "2026-07-13T06:18:11Z",
+    "url": "https://github.com/bigduu/Nova"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T06:09:28Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-13T06:08:40Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "A hybrid AI assistant framework linking structural workflow engines and reasoning LLM agents through LangGraph-powered s",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-13T06:11:32Z",
+    "updated_at": "2026-07-13T06:25:02Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-13T06:06:32Z",
+    "updated_at": "2026-07-13T06:24:57Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T05:17:28Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-13T05:16:45Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-13T05:16:30Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-13T05:15:49Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
