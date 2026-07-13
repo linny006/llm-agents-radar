@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-13T00:43:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-13T00:42:58Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/whatsappd-github-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/whatsappd-github-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T00:41:10Z",
+    "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1619,
+    "updated_at": "2026-07-13T00:38:32Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 1,
+    "updated_at": "2026-07-13T00:30:15Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T00:30:08Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-13T00:29:53Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -189,15 +225,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-13T00:11:17Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-07-13T00:09:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/whatsappd-github-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/whatsappd-github-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T00:07:41Z",
-    "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-12T23:44:20Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-12T23:43:43Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-12T23:37:02Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
