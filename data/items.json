@@ -1,11 +1,38 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 476,
+    "updated_at": "2026-07-13T12:25:25Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2841,
+    "updated_at": "2026-07-13T12:23:55Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-13T12:18:51Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 5,
-    "updated_at": "2026-07-13T12:12:02Z",
+    "updated_at": "2026-07-13T12:15:40Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T12:11:53Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 6,
-    "updated_at": "2026-07-13T12:11:18Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -117,15 +135,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 476,
-    "updated_at": "2026-07-13T11:32:09Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -148,7 +157,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13392,
+    "stars": 13393,
     "updated_at": "2026-07-13T11:28:03Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-13T10:56:19Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2841,
-    "updated_at": "2026-07-13T10:55:08Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
