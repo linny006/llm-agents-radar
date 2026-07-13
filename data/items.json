@@ -5,8 +5,44 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 5,
-    "updated_at": "2026-07-13T05:58:39Z",
+    "updated_at": "2026-07-13T06:12:46Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-07-13T06:11:50Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
+    "id": "fahmiwol/sidix",
+    "language": "Python",
+    "name": "fahmiwol/sidix",
+    "stars": 17,
+    "updated_at": "2026-07-13T06:11:35Z",
+    "url": "https://github.com/fahmiwol/sidix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-13T06:09:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-13T06:08:40Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "A hybrid AI assistant framework linking structural workflow engines and reasoning LLM agents through LangGraph-powered s",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "indyfive11/gabagent",
     "stars": 0,
-    "updated_at": "2026-07-13T05:55:04Z",
+    "updated_at": "2026-07-13T06:08:25Z",
     "url": "https://github.com/indyfive11/gabagent"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-13T05:48:45Z",
+    "updated_at": "2026-07-13T06:02:08Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-13T05:53:46Z",
+    "updated_at": "2026-07-13T06:11:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T05:42:52Z",
     "url": "https://github.com/xhqing/DigiVendAgent"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-13T05:42:17Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-13T05:32:10Z",
+    "updated_at": "2026-07-13T06:06:32Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-13T05:15:49Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:14:53Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-13T05:12:08Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-13T05:11:56Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
