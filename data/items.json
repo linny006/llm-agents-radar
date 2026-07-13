@@ -1,5 +1,14 @@
 [
   {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-07-13T17:49:16Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
     "id": "Maximooch/penguin",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T16:50:34Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-13T16:49:46Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
