@@ -1,5 +1,113 @@
 [
   {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-13T11:12:44Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:11:15Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-13T11:10:23Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:08:40Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:08:08Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:07:44Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-13T11:06:54Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:02:31Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:01:47Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:01:26Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-13T11:00:46Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-13T11:00:14Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
     "id": "Lyz103/LLM-Agent-Paper-daily",
     "language": "Python",
@@ -34,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-07-13T10:56:19Z",
     "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2841,
+    "updated_at": "2026-07-13T10:55:08Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -248,7 +365,7 @@
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-13T10:59:20Z",
+    "updated_at": "2026-07-13T11:10:24Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 13,
     "updated_at": "2026-07-13T10:10:38Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-13T10:08:13Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 20,
-    "updated_at": "2026-07-13T10:04:42Z",
-    "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-13T10:02:51Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-13T10:01:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:58:23Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-13T09:57:28Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-13T09:53:57Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\u26a1 ARIA \u2014 fully autonomous AI dev agent: solves GitHub issues, ships whole OSS projects, browses/researches the web, driv",
-    "id": "yuvrajlaptop2008-byte/ai-dev-agent",
-    "language": "JavaScript",
-    "name": "yuvrajlaptop2008-byte/ai-dev-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T09:51:18Z",
-    "url": "https://github.com/yuvrajlaptop2008-byte/ai-dev-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-13T09:51:05Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-13T09:42:36Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-13T09:41:25Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-13T09:39:41Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 9,
-    "updated_at": "2026-07-13T09:32:57Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
