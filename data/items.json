@@ -1,5 +1,122 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-13T19:44:53Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:43:57Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4354,
+    "updated_at": "2026-07-13T19:43:23Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:42:56Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:42:08Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:41:40Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-07-13T19:36:33Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/whatsappd-github-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/whatsappd-github-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:35:29Z",
+    "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T19:33:36Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:32:42Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-13T19:31:33Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6557,
+    "updated_at": "2026-07-13T19:31:33Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 7,
+    "updated_at": "2026-07-13T19:31:24Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -45,15 +162,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-13T19:21:23Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
     "id": "piporyx/doc-qa-agent",
     "language": "Python",
@@ -63,15 +171,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T19:20:34Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -79,24 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T19:14:13Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/whatsappd-github-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/whatsappd-github-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T19:09:40Z",
-    "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4354,
-    "updated_at": "2026-07-13T19:18:05Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -261,24 +342,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-13T18:03:17Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:59:36Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-13T17:24:44Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:24:42Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:22:27Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:22:01Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-13T17:18:14Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-13T17:16:57Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-13T17:16:45Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "CLI for the Brute coding agent",
-    "id": "general-intelligence-systems/brute_cli",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute_cli",
-    "stars": 0,
-    "updated_at": "2026-07-13T17:14:40Z",
-    "url": "https://github.com/general-intelligence-systems/brute_cli"
   }
 ]
