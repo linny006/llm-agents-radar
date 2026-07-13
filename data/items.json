@@ -1,5 +1,176 @@
 [
   {
+    "description": "CLI for the Brute coding agent",
+    "id": "general-intelligence-systems/brute_cli",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute_cli",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:14:40Z",
+    "url": "https://github.com/general-intelligence-systems/brute_cli"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-07-13T17:14:34Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:14:11Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 2,
+    "updated_at": "2026-07-13T17:13:39Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 2,
+    "updated_at": "2026-07-13T17:13:03Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "GitHub PR \uc790\ub3d9 \ub9ac\ubdf0 \uc11c\ube44\uc2a4 \u2014 \uc6f9\ud6c5 \ud2b8\ub9ac\uac70",
+    "id": "devcy0922/pr-guardian",
+    "language": "TypeScript",
+    "name": "devcy0922/pr-guardian",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:12:17Z",
+    "url": "https://github.com/devcy0922/pr-guardian"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:11:29Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:11:23Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:10:54Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:10:52Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:10:28Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-13T17:06:00Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:05:38Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:04:18Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 18,
+    "updated_at": "2026-07-13T17:04:05Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-13T17:03:27Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:01:49Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:01:19Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-13T17:01:16Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
     "id": "mriazi1982/octopai",
     "language": "Python",
@@ -25,15 +196,6 @@
     "stars": 18,
     "updated_at": "2026-07-13T16:56:35Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "ISO 27001 ISMS template designed to be instantiated and maintained by an LLM Agent",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 18,
-    "updated_at": "2026-07-13T16:55:46Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -81,24 +243,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "CLI for the Brute coding agent",
-    "id": "general-intelligence-systems/brute_cli",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute_cli",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:51:48Z",
-    "url": "https://github.com/general-intelligence-systems/brute_cli"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-07-13T16:51:45Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "A DevOps/SRE runbook agent: it ingests Prometheus Alertmanager alerts, triages them with an LLM against a closed set of ",
     "id": "arec1b0/runbook-agent",
     "language": "TypeScript",
@@ -113,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 788,
-    "updated_at": "2026-07-13T16:51:06Z",
+    "updated_at": "2026-07-13T17:14:58Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -234,15 +378,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:32:51Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-13T16:19:07Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:17:35Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-13T16:16:36Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-13T16:16:36Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-13T16:14:51Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 2,
-    "updated_at": "2026-07-13T16:13:23Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-07-13T16:12:18Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:10:10Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:08:26Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4354,
-    "updated_at": "2026-07-13T16:57:55Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-13T16:02:40Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-13T16:02:38Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-13T16:01:19Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
-    "id": "fahmiwol/sidix",
-    "language": "Python",
-    "name": "fahmiwol/sidix",
-    "stars": 17,
-    "updated_at": "2026-07-13T15:57:09Z",
-    "url": "https://github.com/fahmiwol/sidix"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 36,
-    "updated_at": "2026-07-13T16:20:00Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-13T15:55:48Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
