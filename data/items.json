@@ -1,11 +1,38 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 5,
+    "updated_at": "2026-07-13T12:12:02Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-13T12:11:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 6,
+    "updated_at": "2026-07-13T12:11:18Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4355,
-    "updated_at": "2026-07-13T11:59:45Z",
+    "updated_at": "2026-07-13T12:05:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -16,6 +43,15 @@
     "stars": 172,
     "updated_at": "2026-07-13T11:52:46Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "LangGraph-powered enterprise RAG platform with hybrid retrieval, multi-modal agent routing, and full observability",
+    "id": "yuan26908-del/smart-rag-agent",
+    "language": "Python",
+    "name": "yuan26908-del/smart-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-07-13T11:50:33Z",
+    "url": "https://github.com/yuan26908-del/smart-rag-agent"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T11:17:50Z",
     "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 5,
-    "updated_at": "2026-07-13T11:22:30Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-13T10:47:54Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-13T10:47:04Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 9,
-    "updated_at": "2026-07-13T10:46:41Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-13T10:42:22Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
