@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-13 00:45 UTC
+> ⏰ Last updated: 2026-07-13 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-13 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-13 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 3 | [AaronAbuUsama/whatsappd-github-agent](https://github.com/AaronAbuUsama/whatsappd-github-agent) | 0 | TypeScript | 2026-07-13 | A WhatsApp group-chat GitHub concierge — an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum |
-| 4 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1619 | Python | 2026-07-13 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 5 | [Clean-Dust/worldwave](https://github.com/Clean-Dust/worldwave) | 1 | Python | 2026-07-13 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
-| 6 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-13 | Automate file management and coding tasks in your local directory using small language models. |
-| 7 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-13 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 8 | [sukoji/persode](https://github.com/sukoji/persode) | 0 | Python | 2026-07-13 | Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv |
-| 9 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-13 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 10 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-13 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
-| 11 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 12 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
-| 13 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-13 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
-| 14 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
-| 15 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-13 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 16 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-13 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 17 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-13 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
-| 18 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-13 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
-| 19 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-07-13 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
-| 20 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-13 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
-| 21 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-13 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
+| 1 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1619 | Python | 2026-07-13 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 2 | [fangzheng698-lang/agent-prod](https://github.com/fangzheng698-lang/agent-prod) | 2 | Python | 2026-07-13 | Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-13 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 5 | Rust | 2026-07-13 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 5 | [AaronAbuUsama/whatsappd-github-agent](https://github.com/AaronAbuUsama/whatsappd-github-agent) | 0 | TypeScript | 2026-07-13 | A WhatsApp group-chat GitHub concierge — an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum |
+| 6 | [Clean-Dust/worldwave](https://github.com/Clean-Dust/worldwave) | 1 | Python | 2026-07-13 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
+| 7 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-13 | Automate file management and coding tasks in your local directory using small language models. |
+| 8 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 0 | Shell | 2026-07-13 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 9 | [sukoji/persode](https://github.com/sukoji/persode) | 0 | Python | 2026-07-13 | Episodic memory-aware journaling agent - official implementation code of Persode (ICES 2025): Ebbinghaus forgetting curv |
+| 10 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-07-13 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 11 | [Respiratorysyncytialviruscoliphage228/GPU-Fleet](https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet) | 0 | Go | 2026-07-13 | Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem |
+| 12 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 0 | — | 2026-07-13 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 13 | [Vuongngu8186/langgraph-langchain-agent-setup](https://github.com/Vuongngu8186/langgraph-langchain-agent-setup) | 0 | — | 2026-07-13 | Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build. |
+| 14 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-13 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
+| 15 | [clashroy5384/ai-papers-hub](https://github.com/clashroy5384/ai-papers-hub) | 0 | — | 2026-07-13 | Access tools to discover, analyze, draft, and publish machine learning research papers. |
+| 16 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-07-13 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 17 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-07-13 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
+| 18 | [Ahmed4644/ComfyUI-zveroboy-photo](https://github.com/Ahmed4644/ComfyUI-zveroboy-photo) | 4 | Python | 2026-07-13 | Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod |
+| 19 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-07-13 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
+| 20 | [Samuelcluttered613/paper2code](https://github.com/Samuelcluttered613/paper2code) | 1 | Python | 2026-07-13 | Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files |
+| 21 | [Bastioned-successor320/learn-nanobot](https://github.com/Bastioned-successor320/learn-nanobot) | 2 | Python | 2026-07-13 | Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers |
 | 22 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 2 | — | 2026-07-13 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
 | 23 | [oxidizable-malinois605/bridge-suite-mcp](https://github.com/oxidizable-malinois605/bridge-suite-mcp) | 0 | TypeScript | 2026-07-13 | Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context |
 | 24 | [Arjunadh5305/ios-skills-collection](https://github.com/Arjunadh5305/ios-skills-collection) | 1 | — | 2026-07-13 | Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors |

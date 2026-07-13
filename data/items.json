@@ -1,5 +1,23 @@
 [
   {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1619,
+    "updated_at": "2026-07-13T00:55:24Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
+    "id": "fangzheng698-lang/agent-prod",
+    "language": "Python",
+    "name": "fangzheng698-lang/agent-prod",
+    "stars": 2,
+    "updated_at": "2026-07-13T00:55:07Z",
+    "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-13T00:41:10Z",
     "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1619,
-    "updated_at": "2026-07-13T00:38:32Z",
-    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
@@ -178,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-13T00:14:41Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
-    "id": "fangzheng698-lang/agent-prod",
-    "language": "Python",
-    "name": "fangzheng698-lang/agent-prod",
-    "stars": 2,
-    "updated_at": "2026-07-13T00:13:49Z",
-    "url": "https://github.com/fangzheng698-lang/agent-prod"
   },
   {
     "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
