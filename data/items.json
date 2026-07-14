@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-14T08:58:59Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-14T08:57:34Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 789,
+    "updated_at": "2026-07-14T08:56:21Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-14T08:55:59Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-14T08:53:57Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-14T08:35:05Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -88,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-07-14T08:42:44Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-14T08:29:52Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T07:20:35Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-14T07:19:11Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-14T07:18:49Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-14T07:16:47Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
