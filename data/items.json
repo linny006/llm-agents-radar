@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-07-14T10:34:39Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "Shell",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:32:02Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:31:42Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:31:41Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-14T10:30:11Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -160,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T09:36:41Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-14T09:34:12Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 432,
-    "updated_at": "2026-07-14T08:46:06Z",
+    "updated_at": "2026-07-14T10:37:44Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -349,33 +385,6 @@
     "stars": 197,
     "updated_at": "2026-07-14T08:42:06Z",
     "url": "https://github.com/langchain-ai/agent-auth-payments"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-14T08:39:34Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-14T10:30:11Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-07-14T09:42:48Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T07:58:59Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-07-14T07:55:57Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
