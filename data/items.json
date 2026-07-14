@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-14T21:34:35Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
+    "id": "laazizi/autoagent",
+    "language": "Python",
+    "name": "laazizi/autoagent",
+    "stars": 1,
+    "updated_at": "2026-07-14T21:33:53Z",
+    "url": "https://github.com/laazizi/autoagent"
+  },
+  {
     "description": "Autonomous, agent-driven GraphQL vulnerability scanner, a LLM reads the schema, authenticates, and probes for BOLA, inje",
     "id": "ccc909/GradientQL",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-14T21:24:29Z",
+    "updated_at": "2026-07-14T21:33:12Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T21:10:00Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 1,
-    "updated_at": "2026-07-14T21:12:22Z",
-    "url": "https://github.com/laazizi/autoagent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T20:30:51Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-14T20:30:06Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
