@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:28:16Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:20:41Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
     "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
     "language": "Python",
@@ -22,7 +40,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 27838,
+    "stars": 27839,
     "updated_at": "2026-07-14T09:58:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-14T10:13:23Z",
+    "updated_at": "2026-07-14T10:29:42Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 789,
-    "updated_at": "2026-07-14T09:36:41Z",
+    "updated_at": "2026-07-14T10:18:45Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -347,26 +365,8 @@
     "language": "\u2014",
     "name": "SHUKLAO/call-with-ai-agent",
     "stars": 3,
-    "updated_at": "2026-07-14T08:37:39Z",
+    "updated_at": "2026-07-14T10:30:11Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-14T08:35:43Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:32:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -427,7 +427,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6564,
+    "stars": 6565,
     "updated_at": "2026-07-14T07:59:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
