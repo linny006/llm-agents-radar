@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-14T13:43:00Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-14T13:39:45Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-14T13:38:02Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "The data integrity layer that stops AI agents from silently corrupting shared state \u2014 across sessions, time, and concurr",
+    "id": "Cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "Cohexa-ai/agent-coherence",
+    "stars": 10,
+    "updated_at": "2026-07-14T13:38:15Z",
+    "url": "https://github.com/Cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 \u7eaf Python \u8fd0\u884c\u65f6 + LangGraph \u5bf9\u7167\uff1bRAG / MCP / \u8bc4\u6d4b",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T13:34:44Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13425,
+    "updated_at": "2026-07-14T13:33:44Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-14T13:32:59Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent",
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
@@ -34,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T13:20:09Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-14T13:19:52Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-14T13:18:57Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -297,15 +342,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13425,
-    "updated_at": "2026-07-14T12:11:55Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 152,
     "updated_at": "2026-07-14T12:00:06Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-14T11:57:24Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-14T11:57:07Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-14T11:56:32Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-14T11:56:15Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
