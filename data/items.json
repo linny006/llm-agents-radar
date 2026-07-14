@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-14T16:44:17Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:41:31Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
+    "id": "JohnnyQ-commits/Aqueduct",
+    "language": "Python",
+    "name": "JohnnyQ-commits/Aqueduct",
+    "stars": 16,
+    "updated_at": "2026-07-14T16:39:34Z",
+    "url": "https://github.com/JohnnyQ-commits/Aqueduct"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:39:19Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 295,
+    "updated_at": "2026-07-14T16:39:18Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4354,
+    "updated_at": "2026-07-14T16:42:30Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 7,
+    "updated_at": "2026-07-14T16:33:02Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Local, zero-cost hiking day planner built with LangChain 1.x create_agent: web-grounded trail + weather search, short-te",
+    "id": "Shahrukh19S/langchain-hiking-agent",
+    "language": "Python",
+    "name": "Shahrukh19S/langchain-hiking-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T16:30:04Z",
+    "url": "https://github.com/Shahrukh19S/langchain-hiking-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-14T16:30:01Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "Stateless automated job discovery and scoring service based on your CV",
     "id": "aerkn1/jobhunt",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T16:21:22Z",
     "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
-    "id": "JohnnyQ-commits/Aqueduct",
-    "language": "Python",
-    "name": "JohnnyQ-commits/Aqueduct",
-    "stars": 16,
-    "updated_at": "2026-07-14T16:21:06Z",
-    "url": "https://github.com/JohnnyQ-commits/Aqueduct"
   },
   {
     "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
@@ -99,15 +171,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4354,
-    "updated_at": "2026-07-14T16:16:31Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
     "id": "AaronAbuUsama/whatsappd-github-agent",
     "language": "TypeScript",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "kenny0312/videosense-agent",
     "stars": 2,
-    "updated_at": "2026-07-14T16:06:27Z",
+    "updated_at": "2026-07-14T16:41:18Z",
     "url": "https://github.com/kenny0312/videosense-agent"
   },
   {
@@ -211,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6568,
+    "stars": 6569,
     "updated_at": "2026-07-14T15:52:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T15:04:07Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-07-14T15:01:41Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-07-14T15:01:29Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 3,
-    "updated_at": "2026-07-14T15:00:59Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 2,
-    "updated_at": "2026-07-14T15:00:18Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-14T14:58:38Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-07-14T14:58:21Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-14T14:57:25Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
