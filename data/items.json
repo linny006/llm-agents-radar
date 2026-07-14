@@ -1,12 +1,21 @@
 [
   {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-07-14T21:34:35Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 6,
+    "updated_at": "2026-07-14T21:44:20Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-14T21:42:02Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "laazizi/autoagent",
     "stars": 1,
-    "updated_at": "2026-07-14T21:33:53Z",
+    "updated_at": "2026-07-14T21:40:16Z",
     "url": "https://github.com/laazizi/autoagent"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-14T21:34:35Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
   },
   {
     "description": "Autonomous, agent-driven GraphQL vulnerability scanner, a LLM reads the schema, authenticates, and probes for BOLA, inje",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-14T21:33:12Z",
+    "updated_at": "2026-07-14T21:42:40Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-14T20:49:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -313,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T20:47:15Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 6,
-    "updated_at": "2026-07-14T20:46:24Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
