@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:56:04Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\u8d22\u62a5 PDF \u6570\u636e\u7ed3\u6784\u5316\u4e0e LangGraph \u53d7\u63a7\u95ee\u6570 Agent",
+    "id": "lalalaplace/financial-report-qa-agent",
+    "language": "Python",
+    "name": "lalalaplace/financial-report-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:55:24Z",
+    "url": "https://github.com/lalalaplace/financial-report-qa-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:51:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-14T10:51:00Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-14T10:48:48Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-14T10:45:51Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T10:42:20Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-14T10:39:26Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
@@ -180,15 +225,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "\u8d22\u62a5 PDF \u6570\u636e\u7ed3\u6784\u5316\u4e0e LangGraph \u53d7\u63a7\u95ee\u6570 Agent",
-    "id": "lalalaplace/financial-report-qa-agent",
-    "language": "Python",
-    "name": "lalalaplace/financial-report-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-14T09:39:54Z",
-    "url": "https://github.com/lalalaplace/financial-report-qa-agent"
-  },
-  {
     "description": "\ud83d\udcfa AI\u89c6\u9891\u5b66\u4e60\u52a9\u624b: \u81ea\u52a8\u751f\u6210 B\u7ad9/YouTube/\u6296\u97f3/\u672c\u5730\u89c6\u9891\u601d\u7ef4\u5bfc\u56fe\u3001\u7b14\u8bb0\u4e0e\u603b\u7ed3\u3002\u652f\u6301\u64ad\u5ba2\u5206\u6790\u4e0e\u89c6\u9891\u7d22\u5f15\uff0c\u5f00\u6e90\u5e73\u66ff\u3002AI Video Learning Assistant: Auto-generate Mind Maps, Not",
     "id": "LDJ-creat/video-helper",
     "language": "Python",
@@ -333,24 +369,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-14T09:03:29Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-14T08:58:59Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -358,15 +376,6 @@
     "stars": 19,
     "updated_at": "2026-07-14T08:57:34Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-14T08:53:57Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -394,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-14T08:22:13Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-14T08:19:07Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Stateless automated job discovery and scoring service based on your CV",
