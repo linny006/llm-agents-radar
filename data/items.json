@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-14T04:44:11Z",
-    "url": "https://github.com/heichaowo/amem"
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-14T04:57:46Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-14T04:43:23Z",
+    "updated_at": "2026-07-14T04:51:40Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-14T04:48:10Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-14T04:47:11Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-14T04:44:11Z",
+    "url": "https://github.com/heichaowo/amem"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -103,7 +130,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 284,
+    "stars": 285,
     "updated_at": "2026-07-14T04:29:33Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -112,7 +139,7 @@
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
     "name": "Yuan-ManX/SparkLabs",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-07-14T04:29:11Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
@@ -364,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 27820,
+    "stars": 27821,
     "updated_at": "2026-07-14T03:58:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-14T03:51:02Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-14T03:50:07Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-07-14T03:45:34Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-14T03:44:01Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   }
 ]
