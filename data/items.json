@@ -1,12 +1,39 @@
 [
   {
+    "description": "ClinicalxCRAFT (app) \u2014 KIRC cohort console with a live LLM agent that answers plain-language questions by writing SQL ov",
+    "id": "nitchakorn/clinicalxcraft-app",
+    "language": "HTML",
+    "name": "nitchakorn/clinicalxcraft-app",
+    "stars": 0,
+    "updated_at": "2026-07-14T05:12:19Z",
+    "url": "https://github.com/nitchakorn/clinicalxcraft-app"
+  },
+  {
+    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
+    "id": "OnourImpram/vocation-os",
+    "language": "TypeScript",
+    "name": "OnourImpram/vocation-os",
+    "stars": 1,
+    "updated_at": "2026-07-14T05:12:37Z",
+    "url": "https://github.com/OnourImpram/vocation-os"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-14T04:57:46Z",
+    "updated_at": "2026-07-14T05:06:41Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-14T05:05:29Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-14T04:51:40Z",
+    "updated_at": "2026-07-14T05:14:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -130,7 +157,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 285,
+    "stars": 286,
     "updated_at": "2026-07-14T04:29:33Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -297,15 +324,6 @@
     "url": "https://github.com/mriazi1982/octopai"
   },
   {
-    "description": "ClinicalxCRAFT (app) \u2014 KIRC cohort console with a live LLM agent that answers plain-language questions by writing SQL ov",
-    "id": "nitchakorn/clinicalxcraft-app",
-    "language": "HTML",
-    "name": "nitchakorn/clinicalxcraft-app",
-    "stars": 0,
-    "updated_at": "2026-07-14T04:05:54Z",
-    "url": "https://github.com/nitchakorn/clinicalxcraft-app"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-14T03:53:40Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-14T03:53:11Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-14T03:51:02Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
