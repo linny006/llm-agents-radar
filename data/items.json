@@ -1,5 +1,41 @@
 [
   {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-14T12:38:57Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 1,
+    "updated_at": "2026-07-14T12:38:35Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "\u8d22\u62a5 PDF \u6570\u636e\u7ed3\u6784\u5316\u4e0e LangGraph \u53d7\u63a7\u95ee\u6570 Agent",
+    "id": "lalalaplace/financial-report-qa-agent",
+    "language": "Python",
+    "name": "lalalaplace/financial-report-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-14T12:37:10Z",
+    "url": "https://github.com/lalalaplace/financial-report-qa-agent"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1517,
+    "updated_at": "2026-07-14T12:31:33Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
     "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-14T12:23:57Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 1,
-    "updated_at": "2026-07-14T12:21:52Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -135,21 +162,12 @@
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
   },
   {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-14T12:30:15Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8896,
-    "updated_at": "2026-07-14T12:13:20Z",
+    "updated_at": "2026-07-14T12:40:30Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T11:35:44Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-07-14T11:34:10Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-07-14T11:33:32Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   }
 ]
