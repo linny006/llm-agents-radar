@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:11:43Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-15T22:09:55Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:07:51Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:06:59Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 7,
+    "updated_at": "2026-07-15T22:06:53Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-15T22:04:45Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:03:09Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-15T22:01:46Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-15T22:00:49Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-15T21:45:16Z",
+    "updated_at": "2026-07-15T22:10:49Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T17:35:43Z",
     "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
-  },
-  {
-    "description": " Self-hosted NotebookLM alternative using PageIndex tree navigation instead of vector chunking.",
-    "id": "ApurvDubey/Project-Nebula",
-    "language": "Python",
-    "name": "ApurvDubey/Project-Nebula",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:27:03Z",
-    "url": "https://github.com/ApurvDubey/Project-Nebula"
-  },
-  {
-    "description": "Tool-calling RAG agent for personal finance Q&A \u2014 Flask, Groq, FAISS. Routes questions between exact pandas computation ",
-    "id": "Tanushx23/finance-rag",
-    "language": "Python",
-    "name": "Tanushx23/finance-rag",
-    "stars": 0,
-    "updated_at": "2026-07-15T17:25:01Z",
-    "url": "https://github.com/Tanushx23/finance-rag"
-  },
-  {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:57:23Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
-    "id": "sirius-zuo/generate-wiki",
-    "language": "Shell",
-    "name": "sirius-zuo/generate-wiki",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:56:53Z",
-    "url": "https://github.com/sirius-zuo/generate-wiki"
-  },
-  {
-    "description": "Recoverable local coding agent with explicit planning, verified completion, and guarded tool use.",
-    "id": "tx3457/onehand",
-    "language": "TypeScript",
-    "name": "tx3457/onehand",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:51:15Z",
-    "url": "https://github.com/tx3457/onehand"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-15T16:34:17Z",
-    "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-07-15T15:57:36Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-15T15:50:45Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Turn any Android tablet into a voice-first smart-home device with a local AI brain \u2014 Alexa-class UX, OpenClaw-style on-d",
-    "id": "yuga-hashimoto/open-dash",
-    "language": "Kotlin",
-    "name": "yuga-hashimoto/open-dash",
-    "stars": 4,
-    "updated_at": "2026-07-15T15:47:20Z",
-    "url": "https://github.com/yuga-hashimoto/open-dash"
   }
 ]
