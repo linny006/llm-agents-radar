@@ -1,12 +1,39 @@
 [
   {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
     "stars": 2,
-    "updated_at": "2026-07-14T23:42:29Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
+    "updated_at": "2026-07-14T23:59:50Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:59:04Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-14T23:57:17Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:54:44Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -14,8 +41,53 @@
     "language": "Python",
     "name": "peijin0405/scout-agent",
     "stars": 0,
-    "updated_at": "2026-07-14T23:42:19Z",
+    "updated_at": "2026-07-14T23:54:00Z",
     "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:50:44Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-14T23:49:53Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:48:00Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-14T23:46:45Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-14T23:42:29Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-14T23:42:14Z",
+    "updated_at": "2026-07-14T23:49:26Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -113,26 +185,8 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-07-14T23:03:38Z",
+    "updated_at": "2026-07-14T23:55:14Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-14T22:57:31Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-14T22:52:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "",
@@ -279,42 +333,6 @@
     "url": "https://github.com/yigido41/agentic-ai"
   },
   {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-14T22:13:08Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-14T22:09:05Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-14T22:04:34Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-14T22:03:52Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
     "id": "laazizi/autoagent",
     "language": "Python",
@@ -322,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-14T22:03:02Z",
     "url": "https://github.com/laazizi/autoagent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-14T22:01:48Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T21:10:00Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-14T21:06:15Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   }
 ]
