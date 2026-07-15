@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-15T10:44:40Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-15T10:41:35Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
+  },
+  {
+    "description": "A comprehensive library for building Deno-based MCP (Model Context Protocol) servers with OAuth and workflow capabilitie",
+    "id": "Beyond-Better/bb-mcp-server",
+    "language": "TypeScript",
+    "name": "Beyond-Better/bb-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-07-15T10:37:25Z",
+    "url": "https://github.com/Beyond-Better/bb-mcp-server"
+  },
+  {
     "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
     "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
     "language": "Python",
     "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
     "stars": 0,
-    "updated_at": "2026-07-15T10:26:41Z",
+    "updated_at": "2026-07-15T10:34:32Z",
     "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 447,
+    "updated_at": "2026-07-15T10:31:35Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:30:24Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-15T10:19:40Z",
+    "updated_at": "2026-07-15T10:39:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -86,7 +131,7 @@
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-15T10:11:05Z",
+    "updated_at": "2026-07-15T10:44:47Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -148,7 +193,7 @@
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4354,
+    "stars": 4355,
     "updated_at": "2026-07-15T09:39:41Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T08:59:34Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:58:12Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:57:21Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:55:48Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:55:14Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:54:42Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
