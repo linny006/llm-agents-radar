@@ -1,11 +1,47 @@
 [
   {
+    "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
+    "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "language": "Python",
+    "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "stars": 0,
+    "updated_at": "2026-07-15T09:39:18Z",
+    "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 40,
+    "updated_at": "2026-07-15T09:38:19Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4354,
+    "updated_at": "2026-07-15T09:39:41Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 6,
+    "updated_at": "2026-07-15T09:33:55Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "heichaowo/amem",
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-15T09:29:38Z",
+    "updated_at": "2026-07-15T09:44:49Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -257,7 +293,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 165,
-    "updated_at": "2026-07-15T09:05:27Z",
+    "updated_at": "2026-07-15T09:39:30Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-15T08:39:01Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:38:53Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:38:17Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-15T08:37:38Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:37:14Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
