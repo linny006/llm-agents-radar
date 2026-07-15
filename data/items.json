@@ -1,12 +1,21 @@
 [
   {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 21,
-    "updated_at": "2026-07-15T04:45:14Z",
-    "url": "https://github.com/sehoon787/my-codex"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-15T04:58:37Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-15T04:46:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
@@ -14,8 +23,17 @@
     "language": "JavaScript",
     "name": "sehoon787/my-claude",
     "stars": 14,
-    "updated_at": "2026-07-15T04:43:34Z",
+    "updated_at": "2026-07-15T04:45:29Z",
     "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 21,
+    "updated_at": "2026-07-15T04:45:14Z",
+    "url": "https://github.com/sehoon787/my-codex"
   },
   {
     "description": "Recoverable local coding agent with explicit planning, verified completion, and guarded tool use.",
@@ -41,17 +59,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4354,
-    "updated_at": "2026-07-15T04:33:51Z",
+    "updated_at": "2026-07-15T04:49:13Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-15T04:20:33Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-15T03:09:18Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-15T03:07:20Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
