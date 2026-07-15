@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 6,
+    "updated_at": "2026-07-15T15:40:42Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-15T15:39:35Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-15T15:36:15Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 0,
+    "updated_at": "2026-07-15T15:34:18Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -9,21 +45,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:19:32Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
-  },
-  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 477,
-    "updated_at": "2026-07-15T15:18:57Z",
+    "updated_at": "2026-07-15T15:31:10Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -76,7 +103,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 153,
+    "stars": 154,
     "updated_at": "2026-07-15T15:13:01Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:31:49Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-15T14:31:04Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-15T14:30:32Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-15T14:28:06Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
