@@ -1,5 +1,23 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 477,
+    "updated_at": "2026-07-15T16:27:57Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2a\u4eba A \u80a1\u7814\u7a76\u51b3\u7b56\u5de5\u4f5c\u53f0 \u00b7 \u6848\u5377\u5f0f\u7814\u7a76\u95ed\u73af\uff1a\u8fdb\u53e3\u5224\u65ad\u2192\u8bc1\u4f2a\u2192\u590d\u76d8\u2192\u8bb0\u5fc6\u3002\u4eba\u505a\u51b3\u7b56\uff0cAI \u505a\u5e7f\u5ea6/\u8bc1\u4f2a/\u98ce\u9669\u3002A local-first personal A-share research OS.",
+    "id": "Zeeechenn/MingCang",
+    "language": "Python",
+    "name": "Zeeechenn/MingCang",
+    "stars": 9,
+    "updated_at": "2026-07-15T16:26:30Z",
+    "url": "https://github.com/Zeeechenn/MingCang"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T15:22:18Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 477,
-    "updated_at": "2026-07-15T16:14:10Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-15T14:36:59Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-15T14:36:41Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
