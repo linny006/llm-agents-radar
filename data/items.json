@@ -1,21 +1,66 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/whatsappd-github-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/whatsappd-github-agent",
+    "stars": 0,
+    "updated_at": "2026-07-15T13:14:37Z",
+    "url": "https://github.com/AaronAbuUsama/whatsappd-github-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-15T13:13:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6578,
-    "updated_at": "2026-07-15T12:55:42Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-15T13:12:46Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
     "id": "laazizi/autoagent",
     "language": "Python",
     "name": "laazizi/autoagent",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:54:56Z",
+    "stars": 2,
+    "updated_at": "2026-07-15T13:10:27Z",
     "url": "https://github.com/laazizi/autoagent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-15T13:01:30Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-15T13:01:20Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6579,
+    "updated_at": "2026-07-15T12:55:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -34,15 +79,6 @@
     "stars": 2853,
     "updated_at": "2026-07-15T12:52:08Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-15T12:59:12Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Autonomous, AI powered GraphQL vulnerability scanner, a LLM reads the schema, authenticates, and probes for BOLA, inject",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T12:38:34Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T12:38:21Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-15T12:02:04Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-15T12:02:00Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-15T12:00:06Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-15T12:50:23Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
