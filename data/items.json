@@ -1,11 +1,20 @@
 [
   {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 2,
+    "updated_at": "2026-07-15T20:15:16Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
     "id": "Clean-Dust/worldwave",
     "language": "Python",
     "name": "Clean-Dust/worldwave",
     "stars": 3,
-    "updated_at": "2026-07-15T20:08:52Z",
+    "updated_at": "2026-07-15T20:12:07Z",
     "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-07-15T19:52:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 2,
-    "updated_at": "2026-07-15T19:37:06Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
