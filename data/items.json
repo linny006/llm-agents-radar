@@ -1,5 +1,50 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-15T17:29:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Self-hosted NotebookLM alternative using PageIndex tree navigation instead of vector chunking.",
+    "id": "ApurvDubey/Project-Nebula",
+    "language": "Python",
+    "name": "ApurvDubey/Project-Nebula",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:27:03Z",
+    "url": "https://github.com/ApurvDubey/Project-Nebula"
+  },
+  {
+    "description": "Tool-calling RAG agent for personal finance Q&A \u2014 Flask, Groq, FAISS. Routes questions between exact pandas computation ",
+    "id": "Tanushx23/finance-rag",
+    "language": "Python",
+    "name": "Tanushx23/finance-rag",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:25:01Z",
+    "url": "https://github.com/Tanushx23/finance-rag"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-15T17:23:19Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-15T17:21:46Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
     "id": "Clean-Dust/worldwave",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-07-15T17:11:14Z",
+    "updated_at": "2026-07-15T17:27:27Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4356,
-    "updated_at": "2026-07-15T17:12:08Z",
+    "updated_at": "2026-07-15T17:26:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 477,
-    "updated_at": "2026-07-15T17:07:07Z",
+    "updated_at": "2026-07-15T17:26:56Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T16:41:24Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-15T16:53:40Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Stateless automated job discovery and scoring service based on your CV",
@@ -178,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-07-15T15:40:42Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-15T15:39:35Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:48:22Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-15T14:47:31Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-07-15T14:45:04Z",
-    "url": "https://github.com/laazizi/autoagent"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:43:03Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
