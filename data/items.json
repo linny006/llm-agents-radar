@@ -4,9 +4,27 @@
     "id": "Clean-Dust/worldwave",
     "language": "Python",
     "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T18:43:50Z",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:55:18Z",
     "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-15T18:52:21Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "Java",
+    "name": "muthuishere/toolnexus",
+    "stars": 3,
+    "updated_at": "2026-07-15T18:45:27Z",
+    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -36,21 +54,12 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "Java",
-    "name": "muthuishere/toolnexus",
-    "stars": 3,
-    "updated_at": "2026-07-15T18:21:06Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4356,
-    "updated_at": "2026-07-15T18:32:48Z",
+    "updated_at": "2026-07-15T18:48:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -171,15 +180,6 @@
     "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-15T18:14:37Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": " Self-hosted NotebookLM alternative using PageIndex tree navigation instead of vector chunking.",
     "id": "ApurvDubey/Project-Nebula",
     "language": "Python",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 477,
-    "updated_at": "2026-07-15T18:39:03Z",
+    "updated_at": "2026-07-15T18:53:04Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
