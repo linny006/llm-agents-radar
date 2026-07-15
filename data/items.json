@@ -1,5 +1,77 @@
 [
   {
+    "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
+    "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "language": "Python",
+    "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:26:41Z",
+    "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:25:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-15T10:25:35Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 40,
+    "updated_at": "2026-07-15T10:24:04Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 1,
+    "updated_at": "2026-07-15T10:24:06Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": " Open-source Rust desktop AI coding agent \u2014 native egui GUI alternative to Claude Code / Cursor / Aider. 22-agent zero-t",
+    "id": "masteryee-labs/Tool.Agnes-AI",
+    "language": "Rust",
+    "name": "masteryee-labs/Tool.Agnes-AI",
+    "stars": 0,
+    "updated_at": "2026-07-15T10:21:03Z",
+    "url": "https://github.com/masteryee-labs/Tool.Agnes-AI"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13436,
+    "updated_at": "2026-07-15T10:20:07Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-15T10:19:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,21 +99,12 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-15T10:07:08Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 165,
-    "updated_at": "2026-07-15T10:06:48Z",
+    "updated_at": "2026-07-15T10:21:11Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -81,33 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-15T09:55:33Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 40,
-    "updated_at": "2026-07-15T09:53:46Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
-    "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
-    "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
-    "language": "Python",
-    "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:39:18Z",
-    "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -124,15 +160,6 @@
     "stars": 6,
     "updated_at": "2026-07-15T09:33:55Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": " Open-source Rust desktop AI coding agent \u2014 native egui GUI alternative to Claude Code / Cursor / Aider. 22-agent zero-t",
-    "id": "masteryee-labs/Tool.Agnes-AI",
-    "language": "Rust",
-    "name": "masteryee-labs/Tool.Agnes-AI",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:26:45Z",
-    "url": "https://github.com/masteryee-labs/Tool.Agnes-AI"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T08:54:42Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-15T08:53:56Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:50:40Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-15T08:49:41Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
