@@ -1,5 +1,149 @@
 [
   {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:14:11Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:13:49Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:13:15Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-15T12:12:23Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-15T12:11:59Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 449,
+    "updated_at": "2026-07-15T12:10:21Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:07:54Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:06:58Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:06:50Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 1,
+    "updated_at": "2026-07-15T12:05:48Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:03:55Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-15T12:03:05Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-15T12:02:50Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-15T12:02:04Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-07-15T12:02:00Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-07-15T12:00:06Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -86,7 +230,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 165,
-    "updated_at": "2026-07-15T11:54:21Z",
+    "updated_at": "2026-07-15T12:09:00Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -162,15 +306,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-15T11:39:32Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -184,7 +319,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 27881,
+    "stars": 27882,
     "updated_at": "2026-07-15T11:34:22Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -313,140 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-15T11:14:48Z",
     "url": "https://github.com/laazizi/autoagent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-15T11:13:24Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Desktop AI agent with lasso/circle file selection, LangChain tools, and BYOK model support.",
-    "id": "ZZC-zbd/lasso-agent",
-    "language": "Python",
-    "name": "ZZC-zbd/lasso-agent",
-    "stars": 0,
-    "updated_at": "2026-07-15T11:12:10Z",
-    "url": "https://github.com/ZZC-zbd/lasso-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-15T11:07:59Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-15T11:04:24Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 9,
-    "updated_at": "2026-07-15T11:03:38Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-15T11:03:30Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-15T10:59:29Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-15T10:59:09Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-15T11:22:07Z",
-    "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-15T10:56:11Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-15T10:47:37Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-15T10:46:22Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-07-15T10:44:40Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A comprehensive library for building Deno-based MCP (Model Context Protocol) servers with OAuth and workflow capabilitie",
-    "id": "Beyond-Better/bb-mcp-server",
-    "language": "TypeScript",
-    "name": "Beyond-Better/bb-mcp-server",
-    "stars": 3,
-    "updated_at": "2026-07-15T11:20:51Z",
-    "url": "https://github.com/Beyond-Better/bb-mcp-server"
-  },
-  {
-    "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
-    "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
-    "language": "Python",
-    "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
-    "stars": 0,
-    "updated_at": "2026-07-15T10:34:32Z",
-    "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
   }
 ]
