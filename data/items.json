@@ -1,5 +1,41 @@
 [
   {
+    "description": "A safety runtime for tool-using LLM Agents",
+    "id": "haibaoseal/agent-sentinel",
+    "language": "Python",
+    "name": "haibaoseal/agent-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:44:01Z",
+    "url": "https://github.com/haibaoseal/agent-sentinel"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-15T17:39:22Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "A manually curated collection of high-quality, open-source Mobile GUI Agents.",
+    "id": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "language": "Python",
+    "name": "dqtz5vpvj9-create/awesome-mobile-gui-agents",
+    "stars": 0,
+    "updated_at": "2026-07-15T17:35:43Z",
+    "url": "https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8896,
+    "updated_at": "2026-07-15T17:31:58Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -41,17 +77,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-15T17:21:46Z",
+    "updated_at": "2026-07-15T17:44:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T17:15:11Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 477,
-    "updated_at": "2026-07-15T17:26:56Z",
+    "updated_at": "2026-07-15T17:41:24Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T14:50:27Z",
     "url": "https://github.com/ccc909/GradientQL"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:49:19Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:48:54Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-15T14:48:22Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
