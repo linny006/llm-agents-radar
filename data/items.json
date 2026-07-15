@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-07-15T11:29:00Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Autonomous, AI powered GraphQL vulnerability scanner, a LLM reads the schema, authenticates, and probes for BOLA, inject",
+    "id": "ccc909/GradientQL",
+    "language": "Python",
+    "name": "ccc909/GradientQL",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:28:27Z",
+    "url": "https://github.com/ccc909/GradientQL"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave",
+    "stars": 2,
+    "updated_at": "2026-07-15T11:27:34Z",
+    "url": "https://github.com/Clean-Dust/worldwave"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-07-15T11:27:19Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:26:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
+    "id": "rudramishra4117/ComfyUI-None-upup",
+    "language": "JavaScript",
+    "name": "rudramishra4117/ComfyUI-None-upup",
+    "stars": 2,
+    "updated_at": "2026-07-15T11:25:55Z",
+    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-07-15T11:24:47Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:22:32Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-15T11:21:22Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:20:42Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "The data integrity layer that stops AI agents from silently corrupting shared state \u2014 across sessions, time, and concurr",
+    "id": "Cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "Cohexa-ai/agent-coherence",
+    "stars": 10,
+    "updated_at": "2026-07-15T11:19:52Z",
+    "url": "https://github.com/Cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 46,
+    "updated_at": "2026-07-15T11:17:14Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP client, sandboxed self-written tools, checkpoint/resume, human approva",
     "id": "laazizi/autoagent",
     "language": "Python",
@@ -18,13 +126,13 @@
     "url": "https://github.com/yigido41/agentic-ai"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
+    "description": "Desktop AI agent with lasso/circle file selection, LangChain tools, and BYOK model support.",
+    "id": "ZZC-zbd/lasso-agent",
     "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-15T11:13:13Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "name": "ZZC-zbd/lasso-agent",
+    "stars": 0,
+    "updated_at": "2026-07-15T11:12:10Z",
+    "url": "https://github.com/ZZC-zbd/lasso-agent"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -95,17 +203,8 @@
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-15T11:10:16Z",
+    "updated_at": "2026-07-15T11:22:07Z",
     "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave",
-    "stars": 2,
-    "updated_at": "2026-07-15T10:58:40Z",
-    "url": "https://github.com/Clean-Dust/worldwave"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -158,7 +257,7 @@
     "language": "TypeScript",
     "name": "Beyond-Better/bb-mcp-server",
     "stars": 3,
-    "updated_at": "2026-07-15T10:37:25Z",
+    "updated_at": "2026-07-15T11:20:51Z",
     "url": "https://github.com/Beyond-Better/bb-mcp-server"
   },
   {
@@ -279,15 +378,6 @@
     "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:55:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-15T09:19:32Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 153,
-    "updated_at": "2026-07-15T09:19:25Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:19:10Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:18:47Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:16:32Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-15T09:16:03Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-15T10:03:00Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:15:12Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-15T09:13:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-15T09:12:21Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-15T09:11:04Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   }
 ]
