@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 2,
+    "updated_at": "2026-07-15T19:37:06Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-15T19:30:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
     "id": "Clean-Dust/worldwave",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4356,
-    "updated_at": "2026-07-15T19:28:02Z",
+    "updated_at": "2026-07-15T19:43:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-15T18:45:27Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-15T19:25:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
@@ -394,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-07-15T15:10:33Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 2,
-    "updated_at": "2026-07-15T15:07:47Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
