@@ -1,5 +1,23 @@
 [
   {
+    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
+    "id": "LukeMainwaring/cortexdj",
+    "language": "Python",
+    "name": "LukeMainwaring/cortexdj",
+    "stars": 1,
+    "updated_at": "2026-07-16T22:11:44Z",
+    "url": "https://github.com/LukeMainwaring/cortexdj"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-16T22:08:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
     "id": "Ediebah/clinical-insight-agent",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T21:57:55Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
-    "id": "LukeMainwaring/cortexdj",
-    "language": "Python",
-    "name": "LukeMainwaring/cortexdj",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:56:22Z",
-    "url": "https://github.com/LukeMainwaring/cortexdj"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-16T21:02:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-16T21:01:48Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
