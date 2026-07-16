@@ -1,5 +1,95 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-16T10:43:08Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-16T10:44:31Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-16T10:40:14Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-16T10:38:53Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-16T10:38:04Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-16T10:36:25Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-16T10:35:50Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-16T10:35:26Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-16T10:34:39Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Give your original character a computer to live in \u2014 an open-source runtime for persistent, autonomous AI characters. Si",
+    "id": "Lunamos/LunaMoth",
+    "language": "Python",
+    "name": "Lunamos/LunaMoth",
+    "stars": 3,
+    "updated_at": "2026-07-16T10:33:20Z",
+    "url": "https://github.com/Lunamos/LunaMoth"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2864,
-    "updated_at": "2026-07-16T10:30:49Z",
+    "updated_at": "2026-07-16T10:39:24Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -160,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T10:15:21Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-16T10:30:47Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Give your original character a computer to live in \u2014 an open-source runtime for persistent, autonomous AI characters. Si",
-    "id": "Lunamos/LunaMoth",
-    "language": "Python",
-    "name": "Lunamos/LunaMoth",
-    "stars": 3,
-    "updated_at": "2026-07-16T10:33:20Z",
-    "url": "https://github.com/Lunamos/LunaMoth"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -374,79 +446,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-16T09:33:15Z",
+    "updated_at": "2026-07-16T10:43:20Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-16T09:31:44Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 27921,
-    "updated_at": "2026-07-16T09:28:43Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-16T09:27:24Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-07-16T09:23:02Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
-    "id": "jiayi-ThE-CREATOR/es-coach-skills",
-    "language": "Python",
-    "name": "jiayi-ThE-CREATOR/es-coach-skills",
-    "stars": 0,
-    "updated_at": "2026-07-16T09:21:36Z",
-    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-07-16T09:20:16Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-16T09:20:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-07-16T09:12:01Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
