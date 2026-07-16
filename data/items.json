@@ -1,5 +1,95 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 10,
+    "updated_at": "2026-07-16T02:59:59Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
+    "id": "sirius-zuo/generate-wiki",
+    "language": "Shell",
+    "name": "sirius-zuo/generate-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:59:13Z",
+    "url": "https://github.com/sirius-zuo/generate-wiki"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-16T02:58:36Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Evidence-driven browser QA agent with role/ref actions, recovery, and independent verification",
+    "id": "coldmans/gaia-agentic-qa",
+    "language": "JavaScript",
+    "name": "coldmans/gaia-agentic-qa",
+    "stars": 0,
+    "updated_at": "2026-07-16T02:58:19Z",
+    "url": "https://github.com/coldmans/gaia-agentic-qa"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-16T02:55:53Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-16T02:54:49Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:53:48Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-16T02:53:13Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 41,
+    "updated_at": "2026-07-16T02:47:42Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5514,
+    "updated_at": "2026-07-16T02:46:05Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "The tool-calling loop for LLM agents; iterator-first, protocol-hooked, one dependency.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -22,7 +112,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 460,
+    "stars": 461,
     "updated_at": "2026-07-16T02:16:26Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T02:15:07Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 41,
-    "updated_at": "2026-07-16T02:10:31Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
     "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T01:53:10Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-16T02:26:10Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-16T01:00:42Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-16T01:00:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-16T01:00:03Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-16T00:59:04Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-16T00:59:01Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-16T00:57:09Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-16T00:54:40Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-16T00:54:37Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-16T00:53:51Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
