@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 789,
+    "updated_at": "2026-07-16T08:44:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-16T08:40:36Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-16T08:40:03Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "A comprehensive library for building Deno-based MCP (Model Context Protocol) servers with OAuth and workflow capabilitie",
+    "id": "Beyond-Better/bb-mcp-server",
+    "language": "TypeScript",
+    "name": "Beyond-Better/bb-mcp-server",
+    "stars": 3,
+    "updated_at": "2026-07-16T08:35:48Z",
+    "url": "https://github.com/Beyond-Better/bb-mcp-server"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-16T08:33:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -45,6 +90,15 @@
     "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
   },
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 27914,
+    "updated_at": "2026-07-16T08:25:27Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
     "id": "WP2-Danikusuma/AgentX",
     "language": "HTML",
@@ -52,33 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-16T08:24:50Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 27913,
-    "updated_at": "2026-07-16T08:25:27Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-16T08:29:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A comprehensive library for building Deno-based MCP (Model Context Protocol) servers with OAuth and workflow capabilitie",
-    "id": "Beyond-Better/bb-mcp-server",
-    "language": "TypeScript",
-    "name": "Beyond-Better/bb-mcp-server",
-    "stars": 3,
-    "updated_at": "2026-07-16T08:31:13Z",
-    "url": "https://github.com/Beyond-Better/bb-mcp-server"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T08:17:37Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-16T08:15:32Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "A small local agent for everyday reasoning using SmolLM3.",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T08:02:19Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 789,
-    "updated_at": "2026-07-16T08:25:33Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 101,
-    "updated_at": "2026-07-16T07:37:11Z",
+    "updated_at": "2026-07-16T08:43:12Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T06:40:43Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-16T06:40:14Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
