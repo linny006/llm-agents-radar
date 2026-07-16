@@ -1,11 +1,20 @@
 [
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8897,
+    "updated_at": "2026-07-16T14:41:38Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6594,
-    "updated_at": "2026-07-16T14:23:44Z",
+    "updated_at": "2026-07-16T14:35:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 7,
-    "updated_at": "2026-07-16T14:17:36Z",
+    "updated_at": "2026-07-16T14:44:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-16T14:02:32Z",
+    "updated_at": "2026-07-16T14:43:08Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -72,12 +81,21 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4357,
+    "updated_at": "2026-07-16T13:48:37Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
     "id": "unohee/kis-agent",
     "language": "Python",
     "name": "unohee/kis-agent",
     "stars": 30,
-    "updated_at": "2026-07-16T13:38:16Z",
+    "updated_at": "2026-07-16T14:38:13Z",
     "url": "https://github.com/unohee/kis-agent"
   },
   {
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T13:28:15Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4356,
-    "updated_at": "2026-07-16T13:48:37Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T12:54:54Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-16T12:52:16Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
