@@ -1,5 +1,32 @@
 [
   {
+    "description": "The AI coding partner that doesn't trust itself. Local inline code hints, adversarial skeptic validation, full session r",
+    "id": "anujsingh-cse/GhostCoder",
+    "language": "Python",
+    "name": "anujsingh-cse/GhostCoder",
+    "stars": 0,
+    "updated_at": "2026-07-16T06:03:12Z",
+    "url": "https://github.com/anujsingh-cse/GhostCoder"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-16T06:01:39Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-07-16T06:00:48Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T05:53:33Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "The AI coding partner that doesn't trust itself. Local inline code hints, adversarial skeptic validation, full session r",
-    "id": "anujsingh-cse/GhostCoder",
-    "language": "Python",
-    "name": "anujsingh-cse/GhostCoder",
-    "stars": 0,
-    "updated_at": "2026-07-16T05:53:19Z",
-    "url": "https://github.com/anujsingh-cse/GhostCoder"
   },
   {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T04:25:06Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-07-16T04:25:02Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-16T04:24:09Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
