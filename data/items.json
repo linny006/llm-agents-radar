@@ -1,10 +1,73 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-16T09:42:36Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-16T09:37:17Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-16T09:34:10Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-16T09:33:26Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:33:15Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-16T09:31:44Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "A survival-first, evidence-based decision-support kit for Indian equity markets, usable with any LLM agent. Read-only ad",
+    "id": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
+    "language": "Python",
+    "name": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
+    "stars": 0,
+    "updated_at": "2026-07-16T09:30:26Z",
+    "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 27917,
+    "stars": 27919,
     "updated_at": "2026-07-16T09:28:43Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -63,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-16T09:17:57Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T09:12:01Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-16T09:23:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-16T09:11:13Z",
+    "updated_at": "2026-07-16T09:41:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-16T09:09:03Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "A survival-first, evidence-based decision-support kit for Indian equity markets, usable with any LLM agent. Read-only ad",
-    "id": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "language": "Python",
-    "name": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "stars": 0,
-    "updated_at": "2026-07-16T09:08:10Z",
-    "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
   },
   {
     "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-16T09:04:05Z",
+    "updated_at": "2026-07-16T09:39:16Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 789,
     "updated_at": "2026-07-16T08:48:46Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-16T08:40:36Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -288,6 +315,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6588,
+    "updated_at": "2026-07-16T07:59:39Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Agentic QA service combining RAG and a tool-using LLM agent \u2014 async tool calls, retries, caching, and structured JSON ou",
     "id": "Samreen85/applab-agentic-qa",
     "language": "Python",
@@ -319,7 +355,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5515,
+    "stars": 5516,
     "updated_at": "2026-07-16T07:29:32Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -396,15 +432,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/ambient-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/ambient-agent",
-    "stars": 0,
-    "updated_at": "2026-07-16T09:22:19Z",
-    "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T07:00:23Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-16T06:56:47Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-16T06:55:32Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-16T06:55:24Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
