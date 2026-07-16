@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-16T05:09:54Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "\u26a1 ARIA \u2014 fully autonomous AI dev agent: solves GitHub issues, ships whole OSS projects, browses/researches the web, driv",
+    "id": "yuvrajlaptop2008-byte/ai-dev-agent",
+    "language": "JavaScript",
+    "name": "yuvrajlaptop2008-byte/ai-dev-agent",
+    "stars": 0,
+    "updated_at": "2026-07-16T05:07:51Z",
+    "url": "https://github.com/yuvrajlaptop2008-byte/ai-dev-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-16T05:08:29Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-16T05:07:31Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "GAT \u2014 Godot Agent Team: a full-cycle (design\u2192implementation) Godot game-dev agent. Style-locked asset generation, self-e",
     "id": "chenhangcuisg-code/gat",
     "language": "Python",
@@ -16,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T04:49:03Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-16T04:59:44Z",
-    "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-16T04:47:24Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-16T03:58:50Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-16T03:56:39Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-16T03:55:50Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
