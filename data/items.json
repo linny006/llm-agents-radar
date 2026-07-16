@@ -1,5 +1,32 @@
 [
   {
+    "description": "Multimodal AI testing agent for Web apps: Qwen-VL screenshot/video analysis, DeepSeek review, bug localization, log/code",
+    "id": "jiuguandemao/multimodal-bug-agent",
+    "language": "Python",
+    "name": "jiuguandemao/multimodal-bug-agent",
+    "stars": 1,
+    "updated_at": "2026-07-16T12:12:12Z",
+    "url": "https://github.com/jiuguandemao/multimodal-bug-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-16T12:10:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-16T12:09:25Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -41,7 +68,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-16T11:46:51Z",
+    "updated_at": "2026-07-16T12:09:14Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 2,
-    "updated_at": "2026-07-16T11:31:30Z",
+    "updated_at": "2026-07-16T12:12:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-16T10:35:50Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-16T10:35:26Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-16T10:34:39Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Give your original character a computer to live in \u2014 an open-source runtime for persistent, autonomous AI characters. Si",
-    "id": "Lunamos/LunaMoth",
-    "language": "Python",
-    "name": "Lunamos/LunaMoth",
-    "stars": 3,
-    "updated_at": "2026-07-16T10:33:20Z",
-    "url": "https://github.com/Lunamos/LunaMoth"
   }
 ]
