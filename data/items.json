@@ -1,5 +1,14 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 10,
+    "updated_at": "2026-07-16T14:16:25Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 7,
-    "updated_at": "2026-07-16T14:06:07Z",
+    "updated_at": "2026-07-16T14:17:36Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-16T13:23:55Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 10,
-    "updated_at": "2026-07-16T14:09:02Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
