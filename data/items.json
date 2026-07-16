@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 30,
+    "updated_at": "2026-07-16T13:38:16Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:37:30Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/WorldWave-Agent",
+    "language": "Python",
+    "name": "Clean-Dust/WorldWave-Agent",
+    "stars": 3,
+    "updated_at": "2026-07-16T13:36:52Z",
+    "url": "https://github.com/Clean-Dust/WorldWave-Agent"
+  },
+  {
+    "description": "A survival-first, evidence-based decision-support kit for Indian equity markets, usable with any LLM agent. Read-only ad",
+    "id": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
+    "language": "Python",
+    "name": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:36:28Z",
+    "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:36:06Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 301,
+    "updated_at": "2026-07-16T13:34:55Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-16T13:33:54Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:33:12Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, fact",
+    "id": "laazizi/autoagent",
+    "language": "Python",
+    "name": "laazizi/autoagent",
+    "stars": 2,
+    "updated_at": "2026-07-16T13:33:01Z",
+    "url": "https://github.com/laazizi/autoagent"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:32:26Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:32:08Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:31:49Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-07-16T13:29:33Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T13:28:15Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "A survival-first, evidence-based decision-support kit for Indian equity markets, usable with any LLM agent. Read-only ad",
-    "id": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "language": "Python",
-    "name": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "stars": 0,
-    "updated_at": "2026-07-16T13:26:44Z",
-    "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -70,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-07-16T13:23:41Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, fact",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-07-16T13:23:29Z",
-    "url": "https://github.com/laazizi/autoagent"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-16T13:14:57Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/WorldWave-Agent",
-    "language": "Python",
-    "name": "Clean-Dust/WorldWave-Agent",
-    "stars": 3,
-    "updated_at": "2026-07-16T13:14:23Z",
-    "url": "https://github.com/Clean-Dust/WorldWave-Agent"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-16T12:48:32Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-16T12:47:39Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-16T12:47:38Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-16T12:45:00Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-16T12:43:34Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-16T12:40:42Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-16T12:39:32Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-07-16T12:37:25Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-07-16T12:32:03Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-07-16T12:27:52Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-16T12:26:53Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
