@@ -1,5 +1,32 @@
 [
   {
+    "description": "A self-hosted personal AI hub: unifies email and device notifications, triages them with an LLM, and lets you chat or ta",
+    "id": "TarunReddy8/relay",
+    "language": "Python",
+    "name": "TarunReddy8/relay",
+    "stars": 0,
+    "updated_at": "2026-07-16T19:44:25Z",
+    "url": "https://github.com/TarunReddy8/relay"
+  },
+  {
+    "description": "Your personal AI assistant: triages your notifications & email and talks with you by chat or voice. One Streamlit app, f",
+    "id": "TarunReddy8/aria",
+    "language": "Python",
+    "name": "TarunReddy8/aria",
+    "stars": 0,
+    "updated_at": "2026-07-16T19:43:27Z",
+    "url": "https://github.com/TarunReddy8/aria"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-16T19:41:15Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-16T18:40:37Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-16T18:38:08Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-16T18:36:25Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
-    "id": "LukeMainwaring/cortexdj",
-    "language": "Python",
-    "name": "LukeMainwaring/cortexdj",
-    "stars": 1,
-    "updated_at": "2026-07-16T19:24:36Z",
-    "url": "https://github.com/LukeMainwaring/cortexdj"
   }
 ]
