@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 789,
+    "updated_at": "2026-07-16T11:27:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A video-call avatar frontend for your local LLM agent (Hermes/OpenClaw) \u2014 replaces the messenger chat and serves the age",
+    "id": "ghdtjrtka/ghost-vessel",
+    "language": "JavaScript",
+    "name": "ghdtjrtka/ghost-vessel",
+    "stars": 9,
+    "updated_at": "2026-07-16T11:26:31Z",
+    "url": "https://github.com/ghdtjrtka/ghost-vessel"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-16T11:26:06Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-16T11:20:10Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
     "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 0,
-    "updated_at": "2026-07-16T11:13:28Z",
+    "updated_at": "2026-07-16T11:16:39Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-16T10:24:21Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-16T10:22:33Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "A survival-first, evidence-based decision-support kit for Indian equity markets, usable with any LLM agent. Read-only ad",
-    "id": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "language": "Python",
-    "name": "sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit",
-    "stars": 0,
-    "updated_at": "2026-07-16T10:22:11Z",
-    "url": "https://github.com/sumeetkbhardwaj/small-trading-indian-stock-market-survival-kit"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-16T10:19:55Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-16T10:19:49Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
