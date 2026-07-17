@@ -1,5 +1,41 @@
 [
   {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-17T18:43:28Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions, or fully on-device with ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-17T18:42:48Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:42:00Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "GitHub PR \uc790\ub3d9 \ub9ac\ubdf0 \uc11c\ube44\uc2a4 \u2014 \uc6f9\ud6c5 \ud2b8\ub9ac\uac70",
+    "id": "devcy0922/pr-guardian",
+    "language": "TypeScript",
+    "name": "devcy0922/pr-guardian",
+    "stars": 0,
+    "updated_at": "2026-07-17T18:39:40Z",
+    "url": "https://github.com/devcy0922/pr-guardian"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 10,
-    "updated_at": "2026-07-17T18:16:20Z",
+    "updated_at": "2026-07-17T18:41:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T18:14:20Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-17T18:12:02Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -342,15 +369,6 @@
     "url": "https://github.com/laoxs2002/genai-agentes"
   },
   {
-    "description": "GitHub PR \uc790\ub3d9 \ub9ac\ubdf0 \uc11c\ube44\uc2a4 \u2014 \uc6f9\ud6c5 \ud2b8\ub9ac\uac70",
-    "id": "devcy0922/pr-guardian",
-    "language": "TypeScript",
-    "name": "devcy0922/pr-guardian",
-    "stars": 0,
-    "updated_at": "2026-07-17T17:51:18Z",
-    "url": "https://github.com/devcy0922/pr-guardian"
-  },
-  {
     "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
     "id": "Tonyx79/clov-ai",
     "language": "Rust",
@@ -396,15 +414,6 @@
     "url": "https://github.com/Ronit0p/AutoGod"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-17T17:43:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T17:41:53Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-17T17:41:24Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
