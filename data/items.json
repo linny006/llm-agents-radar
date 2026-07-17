@@ -1,11 +1,29 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-07-17T16:09:20Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 1,
+    "updated_at": "2026-07-17T16:06:54Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 7,
-    "updated_at": "2026-07-17T15:59:47Z",
+    "updated_at": "2026-07-17T16:04:21Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -112,7 +130,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6620,
+    "stars": 6621,
     "updated_at": "2026-07-17T15:14:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:29:48Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:27:37Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:27:04Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
