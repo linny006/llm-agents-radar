@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "ccc909/GradientQL",
     "stars": 0,
-    "updated_at": "2026-07-17T21:58:56Z",
+    "updated_at": "2026-07-17T22:14:56Z",
     "url": "https://github.com/ccc909/GradientQL"
+  },
+  {
+    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
+    "id": "cizekmilan/llm-large-data-agent",
+    "language": "Python",
+    "name": "cizekmilan/llm-large-data-agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:14:12Z",
+    "url": "https://github.com/cizekmilan/llm-large-data-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-17T22:09:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 306,
+    "updated_at": "2026-07-17T22:07:34Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-17T22:00:19Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-17T22:00:15Z",
+    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -16,24 +61,6 @@
     "stars": 1,
     "updated_at": "2026-07-17T21:58:39Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
-    "id": "cizekmilan/llm-large-data-agent",
-    "language": "Python",
-    "name": "cizekmilan/llm-large-data-agent",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:55:15Z",
-    "url": "https://github.com/cizekmilan/llm-large-data-agent"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 305,
-    "updated_at": "2026-07-17T21:50:00Z",
-    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -81,15 +108,6 @@
     "url": "https://github.com/devcy0922/lingo-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-17T21:20:13Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
     "id": "vstorm-co/awesome-pydantic-ai",
     "language": "\u2014",
@@ -97,24 +115,6 @@
     "stars": 92,
     "updated_at": "2026-07-17T21:14:43Z",
     "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-17T21:11:17Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-17T22:00:15Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
