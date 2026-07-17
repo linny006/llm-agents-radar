@@ -1,11 +1,56 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 11,
+    "updated_at": "2026-07-17T16:14:56Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Your personal AI assistant: triages your notifications & email and talks with you by chat or voice. One Streamlit app, f",
+    "id": "TarunReddy8/aria",
+    "language": "Python",
+    "name": "TarunReddy8/aria",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:14:55Z",
+    "url": "https://github.com/TarunReddy8/aria"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6621,
+    "updated_at": "2026-07-17T16:12:45Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-17T16:10:51Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-17T16:09:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 55,
-    "updated_at": "2026-07-17T16:09:20Z",
+    "updated_at": "2026-07-17T16:09:46Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 7,
-    "updated_at": "2026-07-17T16:04:21Z",
+    "updated_at": "2026-07-17T16:15:15Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T15:56:01Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Your personal AI assistant: triages your notifications & email and talks with you by chat or voice. One Streamlit app, f",
-    "id": "TarunReddy8/aria",
-    "language": "Python",
-    "name": "TarunReddy8/aria",
-    "stars": 0,
-    "updated_at": "2026-07-17T15:53:00Z",
-    "url": "https://github.com/TarunReddy8/aria"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:18:40Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6621,
-    "updated_at": "2026-07-17T15:14:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-17T14:31:58Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:30:59Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:30:44Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:29:48Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
