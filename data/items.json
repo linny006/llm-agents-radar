@@ -1,12 +1,21 @@
 [
   {
-    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
-    "id": "codexceed/avatar-harness",
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 144,
+    "updated_at": "2026-07-17T15:44:07Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
+    "description": "Your personal AI assistant: triages your notifications & email and talks with you by chat or voice. One Streamlit app, f",
+    "id": "TarunReddy8/aria",
     "language": "Python",
-    "name": "codexceed/avatar-harness",
+    "name": "TarunReddy8/aria",
     "stars": 0,
-    "updated_at": "2026-07-17T15:27:02Z",
-    "url": "https://github.com/codexceed/avatar-harness"
+    "updated_at": "2026-07-17T15:43:44Z",
+    "url": "https://github.com/TarunReddy8/aria"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 7,
-    "updated_at": "2026-07-17T15:25:16Z",
+    "updated_at": "2026-07-17T15:45:00Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
+    "id": "codexceed/avatar-harness",
+    "language": "Python",
+    "name": "codexceed/avatar-harness",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:27:02Z",
+    "url": "https://github.com/codexceed/avatar-harness"
   },
   {
     "description": "A small local agent for everyday reasoning using SmolLM3.",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-17T15:05:57Z",
+    "updated_at": "2026-07-17T15:44:22Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:25:56Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:24:04Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-17T14:23:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
