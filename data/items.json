@@ -1,5 +1,68 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:21:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-17T04:20:16Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
+    "id": "Maximooch/penguin",
+    "language": "Python",
+    "name": "Maximooch/penguin",
+    "stars": 6,
+    "updated_at": "2026-07-17T04:19:28Z",
+    "url": "https://github.com/Maximooch/penguin"
+  },
+  {
+    "description": "Give your original character a computer to live in \u2014 an open-source runtime for persistent, autonomous AI characters. Si",
+    "id": "OpenChara/OpenCharaAgent",
+    "language": "Python",
+    "name": "OpenChara/OpenCharaAgent",
+    "stars": 3,
+    "updated_at": "2026-07-17T04:19:22Z",
+    "url": "https://github.com/OpenChara/OpenCharaAgent"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 7,
+    "updated_at": "2026-07-17T04:17:50Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
+    "id": "sirius-zuo/generate-wiki",
+    "language": "Shell",
+    "name": "sirius-zuo/generate-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-17T04:17:43Z",
+    "url": "https://github.com/sirius-zuo/generate-wiki"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-17T04:16:42Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -9,24 +72,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-17T04:12:03Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Give your original character a computer to live in \u2014 an open-source runtime for persistent, autonomous AI characters. Si",
-    "id": "OpenChara/OpenCharaAgent",
-    "language": "Python",
-    "name": "OpenChara/OpenCharaAgent",
-    "stars": 3,
-    "updated_at": "2026-07-17T04:04:42Z",
-    "url": "https://github.com/OpenChara/OpenCharaAgent"
-  },
-  {
     "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
     "id": "Clean-Dust/WorldWave-Agent",
     "language": "Python",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-17T03:58:08Z",
     "url": "https://github.com/Clean-Dust/WorldWave-Agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c Multi-Agent \u7cfb\u7edf\uff0c\u652f\u6301\u7aef\u4fa7\u5feb\u610f\u56fe\u3001\u4e91\u7aef LLM \u89c4\u5212\u3001\u8de8\u57df Agent \u7f16\u6392\u3001\u8f66\u63a7 VAL \u5b89\u5168\u6267\u884c\u3001HMI \u6d41\u5f0f\u4ea4\u4e92\u3001\u8bed\u4e49\u8bb0\u5fc6\u4e0e\u53ef\u89c2\u6d4b Dashboard",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 7,
-    "updated_at": "2026-07-17T03:47:40Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
@@ -223,24 +259,6 @@
     "stars": 6,
     "updated_at": "2026-07-17T03:16:49Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-17T03:16:41Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-07-17T04:15:03Z",
-    "url": "https://github.com/Maximooch/penguin"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-17T02:49:45Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-17T02:49:01Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5524,
-    "updated_at": "2026-07-17T02:48:38Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
