@@ -1,11 +1,29 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-17T01:16:43Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/WorldWave-Agent",
+    "language": "Python",
+    "name": "Clean-Dust/WorldWave-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-17T01:16:40Z",
+    "url": "https://github.com/Clean-Dust/WorldWave-Agent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-17T01:15:09Z",
+    "updated_at": "2026-07-17T01:15:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -310,7 +328,7 @@
     "id": "howmindswork/systems-inventory",
     "language": "\u2014",
     "name": "howmindswork/systems-inventory",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-17T00:44:20Z",
     "url": "https://github.com/howmindswork/systems-inventory"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-17T00:28:20Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/WorldWave-Agent",
-    "language": "Python",
-    "name": "Clean-Dust/WorldWave-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-17T00:26:30Z",
-    "url": "https://github.com/Clean-Dust/WorldWave-Agent"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-17T00:26:06Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
