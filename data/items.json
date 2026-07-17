@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
-    "id": "7-e1even/learn-agent",
-    "language": "JavaScript",
-    "name": "7-e1even/learn-agent",
-    "stars": 144,
-    "updated_at": "2026-07-17T15:44:07Z",
-    "url": "https://github.com/7-e1even/learn-agent"
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-17T15:59:47Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 2,
+    "updated_at": "2026-07-17T15:56:01Z",
+    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Your personal AI assistant: triages your notifications & email and talks with you by chat or voice. One Streamlit app, f",
@@ -14,17 +23,44 @@
     "language": "Python",
     "name": "TarunReddy8/aria",
     "stars": 0,
-    "updated_at": "2026-07-17T15:43:44Z",
+    "updated_at": "2026-07-17T15:53:00Z",
     "url": "https://github.com/TarunReddy8/aria"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:52:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
     "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-17T15:45:00Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-17T15:51:36Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Reachability-aware CVE prioritizer: tells you which vulnerabilities are actually reachable from your code, and drafts th",
+    "id": "1816x/Vulnerability-Triage-Agent",
+    "language": "Python",
+    "name": "1816x/Vulnerability-Triage-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-17T15:47:42Z",
+    "url": "https://github.com/1816x/Vulnerability-Triage-Agent"
+  },
+  {
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 144,
+    "updated_at": "2026-07-17T15:44:07Z",
+    "url": "https://github.com/7-e1even/learn-agent"
   },
   {
     "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-17T15:06:25Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-17T15:44:22Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -297,15 +324,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 2,
-    "updated_at": "2026-07-17T14:46:42Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
     "id": "ccc909/GradientQL",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-17T14:27:04Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-17T14:26:12Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-07-17T14:25:56Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
