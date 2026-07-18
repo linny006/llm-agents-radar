@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-18 08:30 UTC
+> ⏰ Last updated: 2026-07-18 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-18 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含 Plan-Execute-Reflect 闭环、Token 三级降级调度、AST 安全沙箱，GAIA 评测准确率 100%，Token 消耗降低 86.8% |
-| 2 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-18 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
-| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 2 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-18 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含 Plan-Execute-Reflect 闭环、Token 三级降级调度、AST 安全沙箱，GAIA 评测准确率 100%，Token 消耗降低 86.8% |
+| 3 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-18 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
 | 4 | [ccc909/GradientQL](https://github.com/ccc909/GradientQL) | 0 | Python | 2026-07-18 | Autonomous, AI powered GraphQL vulnerability scanner. |
 | 5 | [Ediebah/clinical-insight-agent](https://github.com/Ediebah/clinical-insight-agent) | 0 | Python | 2026-07-18 | AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse |
 | 6 | [pruthviraj00007/VibeHarness](https://github.com/pruthviraj00007/VibeHarness) | 0 | Python | 2026-07-18 | Automate file management and coding tasks in your local directory using small language models. |
