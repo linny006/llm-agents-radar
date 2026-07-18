@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-18T03:23:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A persistent affect, memory & time engine for LLM companions \u2014 feelings that carry across sessions.",
     "id": "Morephine/feltstate",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-18T02:51:05Z",
+    "updated_at": "2026-07-18T03:15:43Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-18T01:46:09Z",
+    "updated_at": "2026-07-18T03:18:59Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-18T01:37:55Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
