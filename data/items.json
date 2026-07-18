@@ -1,5 +1,122 @@
 [
   {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 4,
+    "updated_at": "2026-07-18T07:59:33Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-07-18T07:59:25Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
+    "id": "Morephine/feltstate",
+    "language": "Python",
+    "name": "Morephine/feltstate",
+    "stars": 4,
+    "updated_at": "2026-07-18T07:56:58Z",
+    "url": "https://github.com/Morephine/feltstate"
+  },
+  {
+    "description": "Most AI writing is fluent slop. Writing Agent turns a topic into a publishable, well-sourced article or book that argues",
+    "id": "vikast908/WritingAgent",
+    "language": "Python",
+    "name": "vikast908/WritingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:56:54Z",
+    "url": "https://github.com/vikast908/WritingAgent"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-07-18T07:56:48Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 3,
+    "updated_at": "2026-07-18T07:56:17Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 2,
+    "updated_at": "2026-07-18T07:55:45Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:54:06Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-18T07:54:03Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:53:56Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "A small local agent for everyday reasoning using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:53:32Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions, or fully on-device with ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-18T07:53:26Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-18T07:53:22Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -70,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-18T07:42:56Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
-    "id": "Morephine/feltstate",
-    "language": "Python",
-    "name": "Morephine/feltstate",
-    "stars": 4,
-    "updated_at": "2026-07-18T07:41:55Z",
-    "url": "https://github.com/Morephine/feltstate"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -160,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T07:30:33Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Most AI writing is fluent slop. Writing Agent turns a topic into a publishable, well-sourced article or book that argues",
-    "id": "vikast908/WritingAgent",
-    "language": "Python",
-    "name": "vikast908/WritingAgent",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:29:15Z",
-    "url": "https://github.com/vikast908/WritingAgent"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -349,104 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-18T07:00:13Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "LangGraph-based regulatory compliance intelligence agent for consumer electronics exporters \u2014 plans retrieval strategy, ",
-    "id": "LingyiMeng01/RegPilot",
-    "language": "Python",
-    "name": "LingyiMeng01/RegPilot",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:59:57Z",
-    "url": "https://github.com/LingyiMeng01/RegPilot"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-18T06:58:27Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:57:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 2,
-    "updated_at": "2026-07-18T06:57:06Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-07-18T06:56:09Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-18T06:55:26Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-18T06:54:31Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:53:54Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:52:11Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Advanced Railway deployment template for Nous Research Hermes Agent with admin UI, metrics, skills management, MCP edito",
-    "id": "nick-choudhary/hermes-agent-railway-advanced",
-    "language": "Python",
-    "name": "nick-choudhary/hermes-agent-railway-advanced",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:51:40Z",
-    "url": "https://github.com/nick-choudhary/hermes-agent-railway-advanced"
-  },
-  {
-    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
-    "id": "sirius-zuo/generate-wiki",
-    "language": "Shell",
-    "name": "sirius-zuo/generate-wiki",
-    "stars": 0,
-    "updated_at": "2026-07-18T06:51:04Z",
-    "url": "https://github.com/sirius-zuo/generate-wiki"
   }
 ]
