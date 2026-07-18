@@ -1,11 +1,47 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-18T00:43:41Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-18T00:42:27Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-18T00:40:51Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1516,
+    "updated_at": "2026-07-18T00:36:04Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-18T00:26:42Z",
+    "updated_at": "2026-07-18T00:35:07Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -176,7 +212,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-07-18T00:11:54Z",
+    "updated_at": "2026-07-18T00:35:53Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 306,
     "updated_at": "2026-07-17T23:23:47Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-17T23:23:41Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-17T23:21:24Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
-    "id": "the-priest/Basilisk",
-    "language": "Python",
-    "name": "the-priest/Basilisk",
-    "stars": 2,
-    "updated_at": "2026-07-17T23:20:40Z",
-    "url": "https://github.com/the-priest/Basilisk"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-17T23:20:40Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
