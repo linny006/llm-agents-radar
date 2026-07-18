@@ -1,5 +1,59 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 482,
+    "updated_at": "2026-07-18T14:14:07Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-18T14:12:04Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "\u041c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f text-to-SQL \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430: \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 CSV, \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u2192 LangGraph-\u0430\u0433\u0435\u043d\u0442\u044b \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0442 SQL \u2192 \u043e\u0442\u0432",
+    "id": "GDV-prog/datamind-sql-agent",
+    "language": "Python",
+    "name": "GDV-prog/datamind-sql-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:10:03Z",
+    "url": "https://github.com/GDV-prog/datamind-sql-agent"
+  },
+  {
+    "description": "\u0414\u0438\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0430\u0433\u0435\u043d\u0442-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c: LangChain + \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a (e5-large + BM25, RRF) \u043f\u043e \u0431\u0430\u0437\u0435 8142 \u0444\u0438\u043b\u044c\u043c\u043e\u0432. \u0422\u0435\u0440\u043c\u0438\u043d",
+    "id": "GDV-prog/find-my-movie",
+    "language": "Python",
+    "name": "GDV-prog/find-my-movie",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:10:00Z",
+    "url": "https://github.com/GDV-prog/find-my-movie"
+  },
+  {
+    "description": "RAG-\u0430\u0433\u0435\u043d\u0442 \u043f\u043e \u0437\u0430\u043a\u043e\u043d\u0430\u043c \u0420\u0424: Telegram-\u0431\u043e\u0442 \u0441 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u043e\u0439 \u0446\u0438\u0442\u0430\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438-\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430. \u041a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 \u0434\u0438\u043f\u043b\u043e\u043c\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442; \u043c",
+    "id": "GDV-prog/pocket-law-ai",
+    "language": "Python",
+    "name": "GDV-prog/pocket-law-ai",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:09:49Z",
+    "url": "https://github.com/GDV-prog/pocket-law-ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:07:29Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T13:55:14Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:56:56Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T13:14:11Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-18T13:06:55Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:05:59Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:05:41Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
-    "id": "ZhihaoZhang97/wcpredict",
-    "language": "Python",
-    "name": "ZhihaoZhang97/wcpredict",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:03:51Z",
-    "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/ambient-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/ambient-agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T13:03:32Z",
-    "url": "https://github.com/AaronAbuUsama/ambient-agent"
   }
 ]
