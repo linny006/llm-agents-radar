@@ -1,5 +1,41 @@
 [
   {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 306,
+    "updated_at": "2026-07-18T02:58:22Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-07-18T02:57:04Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
+    "description": "MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs.",
+    "id": "EMT5320/ContextGuard-Agent-Lab",
+    "language": "Python",
+    "name": "EMT5320/ContextGuard-Agent-Lab",
+    "stars": 0,
+    "updated_at": "2026-07-18T02:57:01Z",
+    "url": "https://github.com/EMT5320/ContextGuard-Agent-Lab"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-18T02:51:05Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "",
     "id": "mjchaker/claudecraft",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T01:34:28Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-07-18T01:29:35Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-07-18T01:29:31Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-07-18T01:25:31Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-18T01:24:44Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
