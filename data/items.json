@@ -1,12 +1,30 @@
 [
   {
-    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
-    "id": "cizekmilan/llm-large-data-agent",
+    "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
+    "id": "ccc909/GradientQL",
     "language": "Python",
-    "name": "cizekmilan/llm-large-data-agent",
+    "name": "ccc909/GradientQL",
     "stars": 0,
-    "updated_at": "2026-07-18T09:16:16Z",
-    "url": "https://github.com/cizekmilan/llm-large-data-agent"
+    "updated_at": "2026-07-18T09:25:29Z",
+    "url": "https://github.com/ccc909/GradientQL"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b Plan-Execute-Reflect \u95ed\u73af\u3001Token \u4e09\u7ea7\u964d\u7ea7\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\uff0cGAIA \u8bc4\u6d4b\u51c6\u786e\u7387 100%\uff0cToken \u6d88\u8017\u964d\u4f4e 86.8%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:21:03Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-18T09:19:14Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
     "stars": 0,
-    "updated_at": "2026-07-18T09:13:14Z",
+    "updated_at": "2026-07-18T09:18:23Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
+    "id": "cizekmilan/llm-large-data-agent",
+    "language": "Python",
+    "name": "cizekmilan/llm-large-data-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:16:16Z",
+    "url": "https://github.com/cizekmilan/llm-large-data-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -36,15 +63,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
-    "id": "ccc909/GradientQL",
-    "language": "Python",
-    "name": "ccc909/GradientQL",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:59:37Z",
-    "url": "https://github.com/ccc909/GradientQL"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-18T09:01:59Z",
+    "updated_at": "2026-07-18T09:30:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b Plan-Execute-Reflect \u95ed\u73af\u3001Token \u4e09\u7ea7\u964d\u7ea7\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\uff0cGAIA \u8bc4\u6d4b\u51c6\u786e\u7387 100%\uff0cToken \u6d88\u8017\u964d\u4f4e 86.8%",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T08:26:52Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T07:30:33Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-07-18T07:27:59Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
