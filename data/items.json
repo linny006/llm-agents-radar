@@ -1,12 +1,48 @@
 [
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-18T12:35:30Z",
-    "url": "https://github.com/yigido41/agentic-ai"
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:44:22Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:42:39Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b Plan-Execute-Reflect \u95ed\u73af\u3001Token \u4e09\u7ea7\u964d\u7ea7\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\uff0cGAIA \u8bc4\u6d4b\u51c6\u786e\u7387 100%\uff0cToken \u6d88\u8017\u964d\u4f4e 86.8%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:42:11Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "\u041c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f text-to-SQL \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430: \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 CSV, \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u2192 LangGraph-\u0430\u0433\u0435\u043d\u0442\u044b \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0442 SQL \u2192 \u043e\u0442\u0432",
+    "id": "GDV-prog/datamind-sql-agent",
+    "language": "Python",
+    "name": "GDV-prog/datamind-sql-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:42:03Z",
+    "url": "https://github.com/GDV-prog/datamind-sql-agent"
+  },
+  {
+    "description": "\u0414\u0438\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0430\u0433\u0435\u043d\u0442-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c: LangChain + \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a (e5-large + BM25, RRF) \u043f\u043e \u0431\u0430\u0437\u0435 8142 \u0444\u0438\u043b\u044c\u043c\u043e\u0432. \u0422\u0435\u0440\u043c\u0438\u043d",
+    "id": "GDV-prog/find-my-movie",
+    "language": "Python",
+    "name": "GDV-prog/find-my-movie",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:41:52Z",
+    "url": "https://github.com/GDV-prog/find-my-movie"
   },
   {
     "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
@@ -14,8 +50,35 @@
     "language": "JavaScript",
     "name": "yashkrush/jobkit",
     "stars": 2,
-    "updated_at": "2026-07-18T12:33:39Z",
+    "updated_at": "2026-07-18T12:41:45Z",
     "url": "https://github.com/yashkrush/jobkit"
+  },
+  {
+    "description": "RAG-\u0430\u0433\u0435\u043d\u0442 \u043f\u043e \u0437\u0430\u043a\u043e\u043d\u0430\u043c \u0420\u0424: Telegram-\u0431\u043e\u0442 \u0441 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u043e\u0439 \u0446\u0438\u0442\u0430\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438-\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430. \u041a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 \u0434\u0438\u043f\u043b\u043e\u043c\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442; \u043c",
+    "id": "GDV-prog/pocket-law-ai",
+    "language": "Python",
+    "name": "GDV-prog/pocket-law-ai",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:41:41Z",
+    "url": "https://github.com/GDV-prog/pocket-law-ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-18T12:38:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-18T12:35:30Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -63,24 +126,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "\u041c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f text-to-SQL \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430: \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 CSV, \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u2192 LangGraph-\u0430\u0433\u0435\u043d\u0442\u044b \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0442 SQL \u2192 \u043e\u0442\u0432",
-    "id": "GDV-prog/datamind-sql-agent",
-    "language": "Python",
-    "name": "GDV-prog/datamind-sql-agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T12:19:43Z",
-    "url": "https://github.com/GDV-prog/datamind-sql-agent"
-  },
-  {
-    "description": "\u0414\u0438\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0430\u0433\u0435\u043d\u0442-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c: LangChain + \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a (e5-large + BM25, RRF) \u043f\u043e \u0431\u0430\u0437\u0435 8142 \u0444\u0438\u043b\u044c\u043c\u043e\u0432. \u0422\u0435\u0440\u043c\u0438\u043d",
-    "id": "GDV-prog/find-my-movie",
-    "language": "Python",
-    "name": "GDV-prog/find-my-movie",
-    "stars": 0,
-    "updated_at": "2026-07-18T12:19:41Z",
-    "url": "https://github.com/GDV-prog/find-my-movie"
-  },
-  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-18T12:08:31Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b Plan-Execute-Reflect \u95ed\u73af\u3001Token \u4e09\u7ea7\u964d\u7ea7\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\uff0cGAIA \u8bc4\u6d4b\u51c6\u786e\u7387 100%\uff0cToken \u6d88\u8017\u964d\u4f4e 86.8%",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-07-18T12:08:21Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
@@ -169,15 +205,6 @@
     "stars": 46,
     "updated_at": "2026-07-18T11:41:42Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:39:57Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions, or fully on-device with ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-18T11:05:22Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:03:44Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:03:12Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-18T11:02:55Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
