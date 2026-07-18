@@ -1,12 +1,12 @@
 [
   {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 482,
-    "updated_at": "2026-07-18T14:14:07Z",
-    "url": "https://github.com/expectedparrot/edsl"
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-18T14:29:42Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -14,8 +14,44 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-07-18T14:12:04Z",
+    "updated_at": "2026-07-18T14:29:46Z",
     "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Autonomous, self-improving AI agent platform for Claude Code \u2014 safe capability & skill acquisition, MCP/tool discovery, ",
+    "id": "alidevai/chiron_agent",
+    "language": "Python",
+    "name": "alidevai/chiron_agent",
+    "stars": 1,
+    "updated_at": "2026-07-18T14:25:26Z",
+    "url": "https://github.com/alidevai/chiron_agent"
+  },
+  {
+    "description": "A Generative Transformer Chemical Language Model + LLM Agent as an Expert for Quantum Chemistry and Drug Discovery",
+    "id": "rangsimanketkaew/TransforMol",
+    "language": "Jupyter Notebook",
+    "name": "rangsimanketkaew/TransforMol",
+    "stars": 3,
+    "updated_at": "2026-07-18T14:24:13Z",
+    "url": "https://github.com/rangsimanketkaew/TransforMol"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:20:37Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 482,
+    "updated_at": "2026-07-18T14:14:07Z",
+    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "\u041c\u0443\u043b\u044c\u0442\u0438\u0430\u0433\u0435\u043d\u0442\u043d\u0430\u044f text-to-SQL \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430: \u0437\u0430\u0433\u0440\u0443\u0437\u043a\u0430 CSV, \u0432\u043e\u043f\u0440\u043e\u0441 \u043d\u0430 \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c \u044f\u0437\u044b\u043a\u0435 \u2192 LangGraph-\u0430\u0433\u0435\u043d\u0442\u044b \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u044e\u0442 SQL \u2192 \u043e\u0442\u0432",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T13:18:21Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:17:44Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:17:13Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-18T13:14:46Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-18T13:14:11Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
