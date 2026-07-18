@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM Agent for Large-Scale Data Processing on Models with Limited Context.",
+    "id": "cizekmilan/llm-large-data-agent",
+    "language": "Python",
+    "name": "cizekmilan/llm-large-data-agent",
+    "stars": 0,
+    "updated_at": "2026-07-18T09:16:16Z",
+    "url": "https://github.com/cizekmilan/llm-large-data-agent"
+  },
+  {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-18T07:27:59Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-18T07:27:54Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
