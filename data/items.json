@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-19T13:37:57Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "GAT \u2014 Godot Agent Team: a full-cycle (design\u2192implementation) Godot game-development agent / \u6e38\u620f\u5236\u4f5c\u667a\u80fd\u4f53. Multi-agent, style-",
     "id": "chenhangcuisg-code/gat",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-07-19T13:22:12Z",
+    "updated_at": "2026-07-19T13:37:52Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T11:18:31Z",
     "url": "https://github.com/leeje008/stock-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-19T11:16:45Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
