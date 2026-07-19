@@ -1,5 +1,50 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 9,
+    "updated_at": "2026-07-19T19:15:07Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-19T19:14:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:14:35Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T19:14:10Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:02:41Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:57:35Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 9,
-    "updated_at": "2026-07-19T18:57:08Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-19T18:58:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
     "id": "BadTechResearch/santana",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:46:13Z",
     "url": "https://github.com/BadTechResearch/santana"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:32:34Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
@@ -133,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T17:14:57Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-19T17:05:00Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -286,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T13:29:13Z",
     "url": "https://github.com/chenhangcuisg-code/gat"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-19T13:17:10Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
