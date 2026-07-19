@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 16:15 UTC
+> ⏰ Last updated: 2026-07-19 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-19 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含反思闭环、Token 预算调度、AST 安全沙箱。WebShop 真实环境 25% vs ReAct 0%，计算类任务 Token 降本 86.8%，GAIA 官方 53 题 |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 3 | Java | 2026-07-19 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 1 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 3 | Java | 2026-07-19 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 2 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-19 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含反思闭环、Token 预算调度、AST 安全沙箱。WebShop 真实环境 25% vs ReAct 0%，计算类任务 Token 降本 86.8%，GAIA 官方 53 题 |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 5 | [aerkn1/jobhunt](https://github.com/aerkn1/jobhunt) | 0 | Python | 2026-07-19 | Stateless automated job discovery and scoring service based on your CV |
 | 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
