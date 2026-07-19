@@ -243,6 +243,15 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5536,
+    "updated_at": "2026-07-19T15:19:22Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
     "id": "EMT5320/loomstead",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-07-19T10:20:34Z",
     "url": "https://github.com/Cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "\u26f0\ufe0f Sync AI training plans (Gemini/ChatGPT) to Intervals.icu or trainingpeaks. Technical implementation of Project Chiang",
-    "id": "nakmuaycoder/project-chiang-m-ai",
-    "language": "Python",
-    "name": "nakmuaycoder/project-chiang-m-ai",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:14:18Z",
-    "url": "https://github.com/nakmuaycoder/project-chiang-m-ai"
   }
 ]
