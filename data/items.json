@@ -1,11 +1,65 @@
 [
   {
+    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
+    "id": "devcy0922/lingo-agent",
+    "language": "Python",
+    "name": "devcy0922/lingo-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T19:29:12Z",
+    "url": "https://github.com/devcy0922/lingo-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-19T19:28:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-19T19:25:39Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Easy-to-use, high-quality threat modeling agent skills.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-19T19:23:53Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 56,
+    "updated_at": "2026-07-19T19:22:35Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "A Generative Transformer Chemical Language Model + LLM Agent as an Expert for Quantum Chemistry and Drug Discovery",
+    "id": "rangsimanketkaew/TransforMol",
+    "language": "Jupyter Notebook",
+    "name": "rangsimanketkaew/TransforMol",
+    "stars": 3,
+    "updated_at": "2026-07-19T19:21:24Z",
+    "url": "https://github.com/rangsimanketkaew/TransforMol"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 9,
-    "updated_at": "2026-07-19T19:15:07Z",
+    "updated_at": "2026-07-19T19:29:27Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-19T19:02:41Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -59,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-19T18:57:00Z",
+    "updated_at": "2026-07-19T19:29:24Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:08:04Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T17:14:57Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 56,
-    "updated_at": "2026-07-19T17:00:11Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -252,24 +279,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
-    "id": "devcy0922/lingo-agent",
-    "language": "Python",
-    "name": "devcy0922/lingo-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:35:31Z",
-    "url": "https://github.com/devcy0922/lingo-agent"
-  },
-  {
-    "description": "Easy-to-use, high-quality threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-19T14:35:18Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
@@ -311,7 +320,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-19T16:00:47Z",
+    "updated_at": "2026-07-19T19:28:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T10:14:18Z",
     "url": "https://github.com/nakmuaycoder/project-chiang-m-ai"
-  },
-  {
-    "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
-    "id": "navig-me/local-marketing",
-    "language": "JavaScript",
-    "name": "navig-me/local-marketing",
-    "stars": 1,
-    "updated_at": "2026-07-19T09:58:24Z",
-    "url": "https://github.com/navig-me/local-marketing"
   }
 ]
