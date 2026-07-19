@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
+    "id": "devcy0922/lingo-agent",
+    "language": "Python",
+    "name": "devcy0922/lingo-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T14:29:46Z",
+    "url": "https://github.com/devcy0922/lingo-agent"
+  },
+  {
+    "description": "Easy-to-use, high-quality threat modeling agent skills.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-07-19T14:27:25Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-19T14:19:43Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T14:01:56Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
-    "id": "devcy0922/lingo-agent",
-    "language": "Python",
-    "name": "devcy0922/lingo-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T13:52:23Z",
-    "url": "https://github.com/devcy0922/lingo-agent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -169,15 +187,6 @@
     "stars": 1517,
     "updated_at": "2026-07-19T12:21:44Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-19T12:11:48Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5535,
-    "updated_at": "2026-07-19T07:44:21Z",
+    "updated_at": "2026-07-19T14:18:02Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:35:11Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:08:33Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
