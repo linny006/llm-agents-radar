@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-19T22:59:26Z",
-    "url": "https://github.com/metric-space-ai/greppy"
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-19T23:06:23Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 1,
-    "updated_at": "2026-07-19T22:58:26Z",
+    "updated_at": "2026-07-19T23:04:32Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-19T22:59:26Z",
+    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -185,7 +194,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-19T22:18:02Z",
+    "updated_at": "2026-07-19T23:04:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T13:00:20Z",
     "url": "https://github.com/Clean-Dust/worldwave-agent"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-07-19T12:43:19Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   }
 ]
