@@ -1,5 +1,23 @@
 [
   {
+    "description": "Synthos \u2014 \u81ea\u4e3b\u8fdb\u5316\u5b66\u672f\u79d1\u7814\u5e73\u53f0 / A self-evolving cognitive operating system for scientific research. 7 cognitive atoms + evolution",
+    "id": "yakeworld/Synthos",
+    "language": "Python",
+    "name": "yakeworld/Synthos",
+    "stars": 5,
+    "updated_at": "2026-07-19T22:14:26Z",
+    "url": "https://github.com/yakeworld/Synthos"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-19T22:09:10Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:13:02Z",
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:12:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T12:28:49Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 3,
-    "updated_at": "2026-07-19T12:26:59Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
   }
 ]
