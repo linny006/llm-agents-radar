@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
+    "id": "the-priest/Basilisk",
+    "language": "Python",
+    "name": "the-priest/Basilisk",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:25:45Z",
+    "url": "https://github.com/the-priest/Basilisk"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-07-19T02:24:05Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions, or fully on-device with ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-19T02:17:12Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-19T00:41:59Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-19T00:40:47Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-07-19T00:38:43Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-07-19T00:33:58Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
