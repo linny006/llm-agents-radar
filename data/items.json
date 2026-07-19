@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-19T07:29:03Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-19T07:19:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-19T07:17:13Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "\uc8fc\uc2dd \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc5d0\uc774\uc804\ud2b8 - Streamlit + Claude LLM \uae30\ubc18 \ud22c\uc790 \ubd84\uc11d \ubc0f \ucd5c\uc801\ud654 \ub3c4\uad6c",
     "id": "leeje008/stock-agent",
     "language": "Python",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-19T07:08:10Z",
+    "updated_at": "2026-07-19T07:23:35Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -259,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-07-19T06:39:01Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-19T07:14:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T06:14:49Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Most AI writing is fluent slop. Writing Agent turns a topic into a publishable, well-sourced article or book that argues",
-    "id": "vikast908/WritingAgent",
-    "language": "Python",
-    "name": "vikast908/WritingAgent",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:14:22Z",
-    "url": "https://github.com/vikast908/WritingAgent"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-19T06:13:30Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
