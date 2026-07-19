@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd52 Pickle \u2014 MCP server + skills for managers. Audits team performance across ClickUp, Slack, and Microsoft Teams. Compare",
+    "id": "adityaarsharma/pickle",
+    "language": "JavaScript",
+    "name": "adityaarsharma/pickle",
+    "stars": 3,
+    "updated_at": "2026-07-19T18:10:30Z",
+    "url": "https://github.com/adityaarsharma/pickle"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-19T18:08:04Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T17:14:57Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T17:12:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-19T09:19:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-07-19T09:18:14Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
   }
 ]
