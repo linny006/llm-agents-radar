@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-07-19T15:07:43Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
+    "description": "MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs.",
+    "id": "EMT5320/ContextGuard-Agent-Lab",
+    "language": "Python",
+    "name": "EMT5320/ContextGuard-Agent-Lab",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:07:38Z",
+    "url": "https://github.com/EMT5320/ContextGuard-Agent-Lab"
+  },
+  {
+    "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
+    "id": "EMT5320/EMT5320",
+    "language": "\u2014",
+    "name": "EMT5320/EMT5320",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:07:07Z",
+    "url": "https://github.com/EMT5320/EMT5320"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-19T15:06:14Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-19T15:02:14Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-07-19T14:07:05Z",
+    "updated_at": "2026-07-19T15:12:29Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-07-19T14:06:41Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T14:01:56Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -88,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-07-19T13:45:31Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-19T13:37:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "GAT \u2014 Godot Agent Team: a full-cycle (design\u2192implementation) Godot game-development agent / \u6e38\u620f\u5236\u4f5c\u667a\u80fd\u4f53. Multi-agent, style-",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T08:26:13Z",
     "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:21:04Z",
-    "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5535,
-    "updated_at": "2026-07-19T14:18:02Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:35:11Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
   }
 ]
