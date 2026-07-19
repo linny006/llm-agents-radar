@@ -1,5 +1,14 @@
 [
   {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-07-19T01:59:30Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
     "description": "An open-source, context-aware AI Discord moderation bot and community agent. Self-hosted LLM moderator that understands ",
     "id": "rollsro9/mod-agent-for-discord-",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T00:29:54Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-19T00:29:07Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
