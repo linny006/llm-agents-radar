@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-19T21:29:20Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 791,
+    "updated_at": "2026-07-19T21:25:06Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:25:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
+    "id": "ccc909/GradientQL",
+    "language": "Python",
+    "name": "ccc909/GradientQL",
+    "stars": 0,
+    "updated_at": "2026-07-19T21:21:18Z",
+    "url": "https://github.com/ccc909/GradientQL"
+  },
+  {
     "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
     "id": "StephenSook/silent-drift-sentinel",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T20:26:52Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-19T20:25:49Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -133,15 +160,6 @@
     "stars": 152,
     "updated_at": "2026-07-19T19:58:37Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-19T21:14:51Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
@@ -430,23 +448,5 @@
     "stars": 1517,
     "updated_at": "2026-07-19T12:21:44Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-07-19T11:21:38Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "\uc8fc\uc2dd \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc5d0\uc774\uc804\ud2b8 - Streamlit + Claude LLM \uae30\ubc18 \ud22c\uc790 \ubd84\uc11d \ubc0f \ucd5c\uc801\ud654 \ub3c4\uad6c",
-    "id": "leeje008/stock-agent",
-    "language": "Python",
-    "name": "leeje008/stock-agent",
-    "stars": 1,
-    "updated_at": "2026-07-19T11:18:31Z",
-    "url": "https://github.com/leeje008/stock-agent"
   }
 ]
