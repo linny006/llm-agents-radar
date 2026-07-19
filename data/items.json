@@ -1,5 +1,23 @@
 [
   {
+    "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
+    "id": "StephenSook/silent-drift-sentinel",
+    "language": "Python",
+    "name": "StephenSook/silent-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-19T20:36:55Z",
+    "url": "https://github.com/StephenSook/silent-drift-sentinel"
+  },
+  {
+    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
+    "id": "ahmedabbas52233-a11y/TerraVision-AI",
+    "language": "Python",
+    "name": "ahmedabbas52233-a11y/TerraVision-AI",
+    "stars": 2,
+    "updated_at": "2026-07-19T20:31:26Z",
+    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "xiaojiune/TravelPal",
     "stars": 0,
-    "updated_at": "2026-07-19T20:05:37Z",
+    "updated_at": "2026-07-19T20:41:34Z",
     "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/Mirascope/mirascope"
   },
   {
-    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
-    "id": "ahmedabbas52233-a11y/TerraVision-AI",
-    "language": "Python",
-    "name": "ahmedabbas52233-a11y/TerraVision-AI",
-    "stars": 2,
-    "updated_at": "2026-07-19T11:50:00Z",
-    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
-  },
-  {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
     "id": "bitranox/vnc-remote-control",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T11:18:31Z",
     "url": "https://github.com/leeje008/stock-agent"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 385,
-    "updated_at": "2026-07-19T11:09:10Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
