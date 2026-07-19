@@ -1,5 +1,23 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 56,
+    "updated_at": "2026-07-19T10:51:47Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
+    "id": "BadTechResearch/santana",
+    "language": "Python",
+    "name": "BadTechResearch/santana",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:56:40Z",
+    "url": "https://github.com/BadTechResearch/santana"
+  },
+  {
     "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
     "id": "laurykb/AI_for_geopolitics",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2880,
-    "updated_at": "2026-07-19T10:31:58Z",
+    "updated_at": "2026-07-19T10:45:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 11,
     "updated_at": "2026-07-19T09:14:05Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 56,
-    "updated_at": "2026-07-19T09:09:31Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T06:50:03Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:49:15Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
