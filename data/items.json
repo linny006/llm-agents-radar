@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u26f0\ufe0f Sync AI training plans (Gemini/ChatGPT) to Intervals.icu or trainingpeaks. Technical implementation of Project Chiang",
+    "id": "nakmuaycoder/project-chiang-m-ai",
+    "language": "Python",
+    "name": "nakmuaycoder/project-chiang-m-ai",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:14:18Z",
+    "url": "https://github.com/nakmuaycoder/project-chiang-m-ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-19T10:10:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
+    "id": "ahmedabbas52233-a11y/TerraVision-AI",
+    "language": "Python",
+    "name": "ahmedabbas52233-a11y/TerraVision-AI",
+    "stars": 2,
+    "updated_at": "2026-07-19T10:08:47Z",
+    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
+  },
+  {
     "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
     "id": "navig-me/local-marketing",
     "language": "JavaScript",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "Cohexa-ai/agent-coherence",
     "stars": 10,
-    "updated_at": "2026-07-19T09:29:21Z",
+    "updated_at": "2026-07-19T10:12:57Z",
     "url": "https://github.com/Cohexa-ai/agent-coherence"
   },
   {
@@ -113,7 +140,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-19T09:44:51Z",
+    "updated_at": "2026-07-19T10:12:03Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T08:41:45Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T08:34:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T06:44:29Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-07-19T06:43:10Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-19T06:42:21Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
