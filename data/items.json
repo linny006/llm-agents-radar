@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-19T11:51:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
+    "id": "ahmedabbas52233-a11y/TerraVision-AI",
+    "language": "Python",
+    "name": "ahmedabbas52233-a11y/TerraVision-AI",
+    "stars": 2,
+    "updated_at": "2026-07-19T11:50:00Z",
+    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -117,15 +135,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-19T10:21:51Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "The data integrity layer that stops AI agents from silently corrupting shared state \u2014 across sessions, time, and concurr",
     "id": "Cohexa-ai/agent-coherence",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T10:14:18Z",
     "url": "https://github.com/nakmuaycoder/project-chiang-m-ai"
-  },
-  {
-    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
-    "id": "ahmedabbas52233-a11y/TerraVision-AI",
-    "language": "Python",
-    "name": "ahmedabbas52233-a11y/TerraVision-AI",
-    "stars": 2,
-    "updated_at": "2026-07-19T10:08:47Z",
-    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
   },
   {
     "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
