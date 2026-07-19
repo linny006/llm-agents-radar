@@ -1,5 +1,23 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 325,
+    "updated_at": "2026-07-19T17:23:57Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-19T17:16:26Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T16:23:39Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:11:20Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Stateless automated job discovery and scoring service based on your CV",
@@ -355,7 +364,7 @@
     "id": "laurykb/AI_for_geopolitics",
     "language": "Python",
     "name": "laurykb/AI_for_geopolitics",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-19T10:32:35Z",
     "url": "https://github.com/laurykb/AI_for_geopolitics"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-19T09:14:05Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/ambient-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/ambient-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T16:53:37Z",
-    "url": "https://github.com/AaronAbuUsama/ambient-agent"
   }
 ]
