@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-19T13:57:43Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Agentic i18n localization translation & validation pipeline console (ICU parser & LLM-as-a-Judge)",
+    "id": "devcy0922/lingo-agent",
+    "language": "Python",
+    "name": "devcy0922/lingo-agent",
+    "stars": 0,
+    "updated_at": "2026-07-19T13:52:23Z",
+    "url": "https://github.com/devcy0922/lingo-agent"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-19T13:50:51Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-19T13:46:56Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-07-19T13:45:31Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T13:29:13Z",
     "url": "https://github.com/chenhangcuisg-code/gat"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-07-19T13:37:52Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
@@ -261,15 +297,6 @@
     "url": "https://github.com/navig-me/local-marketing"
   },
   {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-19T09:45:26Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\u3001\u4e91\u7aef Multi-Agent \u7f16\u6392\u3001\u5168\u53cc\u5de5\u8bed\u97f3\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -387,15 +414,6 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-19T09:06:44Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Stateless automated job discovery and scoring service based on your CV",
     "id": "aerkn1/jobhunt",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T07:08:33Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:07:12Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-07-19T07:04:23Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
