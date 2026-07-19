@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-19T16:51:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:04:27Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:51:54Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 56,
-    "updated_at": "2026-07-19T10:51:47Z",
+    "updated_at": "2026-07-19T17:00:11Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
@@ -446,7 +446,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-19T16:09:54Z",
+    "updated_at": "2026-07-19T16:53:37Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   }
 ]

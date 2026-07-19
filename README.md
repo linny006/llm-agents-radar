@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-19 16:45 UTC
+> ⏰ Last updated: 2026-07-19 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 73 | Python | 2026-07-19 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 2 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-19 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含反思闭环、Token 预算调度、AST 安全沙箱。WebShop 真实环境 25% vs ReAct 0%，计算类任务 Token 降本 86.8%，GAIA 官方 53 题 |
-| 3 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 3 | Java | 2026-07-19 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [aerkn1/jobhunt](https://github.com/aerkn1/jobhunt) | 0 | Python | 2026-07-19 | Stateless automated job discovery and scoring service based on your CV |
-| 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 73 | Python | 2026-07-19 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 3 | [paopao-13/pecs-multi-agent](https://github.com/paopao-13/pecs-multi-agent) | 0 | Python | 2026-07-19 | 基于 LangGraph 的 PECS 四角色多智能体协作框架，含反思闭环、Token 预算调度、AST 安全沙箱。WebShop 真实环境 25% vs ReAct 0%，计算类任务 Token 降本 86.8%，GAIA 官方 53 题 |
+| 4 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 3 | Java | 2026-07-19 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [aerkn1/jobhunt](https://github.com/aerkn1/jobhunt) | 0 | Python | 2026-07-19 | Stateless automated job discovery and scoring service based on your CV |
 | 8 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-19 | Flexible coding agent for the terminal and ACP — cloud providers, ChatGPT/Claude subscriptions. |
 | 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-19 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
