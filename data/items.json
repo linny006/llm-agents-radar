@@ -1,5 +1,59 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 1,
+    "updated_at": "2026-07-20T04:13:39Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T04:13:02Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 11,
+    "updated_at": "2026-07-20T04:10:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-20T04:06:50Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:05:50Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T04:02:43Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
     "id": "adityaarsharma/pickle",
     "language": "JavaScript",
@@ -27,15 +81,6 @@
     "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:40:12Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -61,15 +106,6 @@
     "stars": 28021,
     "updated_at": "2026-07-20T03:20:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T03:13:32Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
@@ -162,15 +198,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-20T01:50:12Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
     "id": "madhavnair2009-arch/ronin",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-20T00:39:06Z",
+    "updated_at": "2026-07-20T04:13:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:36:33Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T00:10:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 791,
-    "updated_at": "2026-07-19T21:55:36Z",
+    "updated_at": "2026-07-20T04:09:41Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 11,
-    "updated_at": "2026-07-19T19:36:18Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Easy-to-use, high-quality threat modeling agent skills.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -400,7 +409,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 332,
+    "stars": 333,
     "updated_at": "2026-07-19T17:23:57Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:04:27Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
-    "id": "EMT5320/loomstead",
-    "language": "Python",
-    "name": "EMT5320/loomstead",
-    "stars": 1,
-    "updated_at": "2026-07-19T15:07:43Z",
-    "url": "https://github.com/EMT5320/loomstead"
   }
 ]
