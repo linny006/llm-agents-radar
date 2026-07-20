@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T14:44:00Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T14:42:00Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T14:39:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-07-20T14:37:31Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
     "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
     "id": "the-priest/Basilisk",
     "language": "Python",
@@ -18,15 +54,6 @@
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-20T14:32:20Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -40,7 +67,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 343,
+    "stars": 344,
     "updated_at": "2026-07-20T14:24:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -193,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28052,
+    "stars": 28053,
     "updated_at": "2026-07-20T13:21:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -243,15 +270,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:28:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
     "id": "brownjuly2003-code/Auto_BI",
     "language": "Python",
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:02:33Z",
     "url": "https://github.com/0sun2/handover-agent-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-07-20T14:37:31Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
     "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
@@ -421,15 +430,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T11:03:57Z",
     "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T10:59:48Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
