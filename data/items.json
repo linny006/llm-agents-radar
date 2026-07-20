@@ -1,12 +1,30 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-20T23:45:04Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-20T23:37:30Z",
+    "updated_at": "2026-07-20T23:43:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-07-20T23:38:50Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -34,15 +52,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T23:30:22Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:30:07Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T22:58:17Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-20T22:56:42Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Open-Source Intelligent Command Layer",

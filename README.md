@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 23:37 UTC
+> ⏰ Last updated: 2026-07-20 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-20 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 4 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-20 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
-| 5 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-20 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 6 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
-| 7 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-20 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 9 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-20 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
-| 10 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 1 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-20 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-20 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 6 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-20 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
+| 7 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
+| 8 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-20 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 10 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-20 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
 | 11 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-20 | Open-Source Intelligent Command Layer |
 | 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
