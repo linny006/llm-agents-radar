@@ -1,5 +1,41 @@
 [
   {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-20T20:41:46Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Comparative Guide Assistant",
+    "id": "OLAMIDE100/Capstone-Project-LLM-ZoomCamp",
+    "language": "Jupyter Notebook",
+    "name": "OLAMIDE100/Capstone-Project-LLM-ZoomCamp",
+    "stars": 1,
+    "updated_at": "2026-07-20T20:37:42Z",
+    "url": "https://github.com/OLAMIDE100/Capstone-Project-LLM-ZoomCamp"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 46,
+    "updated_at": "2026-07-20T20:34:12Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-20T20:38:12Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "synapseorch-ai/synapse-ai",
     "stars": 297,
-    "updated_at": "2026-07-20T20:25:45Z",
+    "updated_at": "2026-07-20T20:31:55Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "brownjuly2003-code/Auto_BI",
     "stars": 0,
-    "updated_at": "2026-07-20T20:17:33Z",
+    "updated_at": "2026-07-20T20:43:40Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T20:00:22Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-20T19:57:14Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -169,24 +196,6 @@
     "stars": 2350,
     "updated_at": "2026-07-20T19:28:43Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-20T19:28:39Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-20T19:11:27Z",
-    "url": "https://github.com/metric-space-ai/greppy"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T15:22:09Z",
     "url": "https://github.com/wzxsph/insight-desk"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 11,
-    "updated_at": "2026-07-20T19:39:35Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
