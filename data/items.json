@@ -1,12 +1,57 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T00:39:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 1,
-    "updated_at": "2026-07-20T00:06:30Z",
+    "updated_at": "2026-07-20T00:36:33Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T01:12:35Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T00:15:42Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T00:13:32Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T00:10:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -36,15 +81,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-19T23:59:25Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T23:29:26Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-19T23:09:18Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
@@ -126,15 +153,6 @@
     "url": "https://github.com/yakeworld/Synthos"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-19T22:05:44Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -142,15 +160,6 @@
     "stars": 791,
     "updated_at": "2026-07-19T21:55:36Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-19T21:38:52Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
@@ -268,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-07-19T19:21:24Z",
     "url": "https://github.com/rangsimanketkaew/TransforMol"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T00:04:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
