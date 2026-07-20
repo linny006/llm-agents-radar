@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T05:25:24Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 9,
+    "updated_at": "2026-07-20T05:22:38Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-20T05:19:17Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T05:14:43Z",
     "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 9,
-    "updated_at": "2026-07-20T05:14:42Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -140,7 +158,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-20T05:11:39Z",
+    "updated_at": "2026-07-20T05:20:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T03:51:58Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
     "id": "paopao-13/pecs-multi-agent",
     "language": "Python",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T03:28:18Z",
+    "updated_at": "2026-07-20T05:27:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -202,7 +211,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28021,
+    "stars": 28022,
     "updated_at": "2026-07-20T03:20:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -367,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T20:31:26Z",
     "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-19T20:26:52Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
