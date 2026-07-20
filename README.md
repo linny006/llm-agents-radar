@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 18:15 UTC
+> ⏰ Last updated: 2026-07-20 18:19 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 2 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-07-20 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
-| 3 | [EntroVyx/hermes-agent-offsec](https://github.com/EntroVyx/hermes-agent-offsec) | 0 | Python | 2026-07-20 | Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report- |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [KazKozDev/llmflow-search](https://github.com/KazKozDev/llmflow-search) | 6 | Python | 2026-07-20 | Local Deep Research multi-agent built on Anthropic's orchestrator-workers research principles — every claim traced throu |
-| 6 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-20 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
-| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6651 | Python | 2026-07-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6651 | Python | 2026-07-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 3 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-07-20 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
+| 4 | [EntroVyx/hermes-agent-offsec](https://github.com/EntroVyx/hermes-agent-offsec) | 0 | Python | 2026-07-20 | Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report- |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [KazKozDev/llmflow-search](https://github.com/KazKozDev/llmflow-search) | 6 | Python | 2026-07-20 | Local Deep Research multi-agent built on Anthropic's orchestrator-workers research principles — every claim traced throu |
+| 7 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-20 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
 | 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 9 | [Smana/runlore](https://github.com/Smana/runlore) | 9 | Go | 2026-07-20 | The self-improving SRE agent |
 | 10 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
@@ -86,7 +86,7 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 344 | TypeScript | 2026-07-20 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 43 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1294 | Python | 2026-07-20 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
 | 44 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-07-20 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 45 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13505 | Python | 2026-07-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 45 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13506 | Python | 2026-07-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 46 | [rangsimanketkaew/TransforMol](https://github.com/rangsimanketkaew/TransforMol) | 3 | Jupyter Notebook | 2026-07-20 | Generative Transformer Chemical LLM Agent as an Expert for Quantum Chemistry and Drug Discovery |
 | 47 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 48 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-07-20 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |

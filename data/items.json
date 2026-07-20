@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6651,
+    "updated_at": "2026-07-20T18:15:41Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -54,15 +63,6 @@
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6651,
-    "updated_at": "2026-07-20T17:34:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -113,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-20T17:22:52Z",
+    "updated_at": "2026-07-20T18:17:26Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -400,7 +400,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13505,
+    "stars": 13506,
     "updated_at": "2026-07-20T13:54:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
