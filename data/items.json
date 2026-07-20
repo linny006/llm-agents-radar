@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T02:14:13Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "chiam-ck/bss-cli",
     "language": "Python",
     "name": "chiam-ck/bss-cli",
     "stars": 1,
-    "updated_at": "2026-07-20T01:50:38Z",
+    "updated_at": "2026-07-20T02:11:14Z",
     "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T02:09:44Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -61,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T00:36:33Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T01:28:23Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -373,7 +382,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5536,
+    "stars": 5537,
     "updated_at": "2026-07-19T15:19:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -439,14 +448,5 @@
     "stars": 5572,
     "updated_at": "2026-07-19T13:28:04Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2881,
-    "updated_at": "2026-07-19T13:17:09Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
