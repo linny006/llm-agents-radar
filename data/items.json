@@ -1,11 +1,65 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-20T15:29:50Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-20T15:28:04Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:27:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:28:45Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "Evidence-grounded user feedback analytics with FastAPI, React, SQLite, and MiniMax-M3",
+    "id": "wzxsph/insight-desk",
+    "language": "TypeScript",
+    "name": "wzxsph/insight-desk",
+    "stars": 0,
+    "updated_at": "2026-07-20T15:22:09Z",
+    "url": "https://github.com/wzxsph/insight-desk"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-20T15:22:54Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
     "id": "xiaojiune/TravelPal",
     "language": "Python",
     "name": "xiaojiune/TravelPal",
     "stars": 0,
-    "updated_at": "2026-07-20T15:15:02Z",
+    "updated_at": "2026-07-20T15:25:25Z",
     "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
@@ -25,15 +79,6 @@
     "stars": 11,
     "updated_at": "2026-07-20T15:05:48Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-20T15:05:42Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -61,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-07-20T14:52:22Z",
     "url": "https://github.com/robertgdev/LaraClaw"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T14:47:24Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 791,
-    "updated_at": "2026-07-20T11:58:02Z",
+    "updated_at": "2026-07-20T15:21:13Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T13:55:45Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2886,
-    "updated_at": "2026-07-20T13:01:01Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
-    "id": "wan9yu/cli-agent-runner",
-    "language": "Python",
-    "name": "wan9yu/cli-agent-runner",
-    "stars": 3,
-    "updated_at": "2026-07-20T11:04:03Z",
-    "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "AI Harness build on top of typescript",
-    "id": "puristajs/harness",
-    "language": "TypeScript",
-    "name": "puristajs/harness",
-    "stars": 4,
-    "updated_at": "2026-07-20T11:03:57Z",
-    "url": "https://github.com/puristajs/harness"
-  },
-  {
-    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
-    "id": "tachyon-r/maximal-utility-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/maximal-utility-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-07-20T10:53:44Z",
-    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   }
 ]
