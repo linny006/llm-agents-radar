@@ -1,5 +1,41 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-20T12:28:33Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T12:23:38Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:23:23Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Self-extending LLM agent on Telegram. Users describe a tool in plain English; the bot generates Python code, LLM-securit",
+    "id": "nezdali/queenbee-agent",
+    "language": "Python",
+    "name": "nezdali/queenbee-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:17:23Z",
+    "url": "https://github.com/nezdali/queenbee-agent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -32,8 +68,17 @@
     "language": "TypeScript",
     "name": "Cognipeer/agent-sdk",
     "stars": 7,
-    "updated_at": "2026-07-20T12:11:41Z",
+    "updated_at": "2026-07-20T12:23:44Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 342,
+    "updated_at": "2026-07-20T12:29:11Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T11:53:15Z",
+    "updated_at": "2026-07-20T12:24:03Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 341,
-    "updated_at": "2026-07-20T12:01:55Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T11:29:38Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T11:24:52Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
@@ -243,13 +270,13 @@
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
     "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:50:20Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+    "name": "tk-fantasy/fantasy",
+    "stars": 10,
+    "updated_at": "2026-07-20T10:51:30Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
@@ -302,7 +329,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-07-20T10:22:12Z",
+    "updated_at": "2026-07-20T12:28:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 101,
-    "updated_at": "2026-07-20T10:16:12Z",
+    "updated_at": "2026-07-20T12:26:26Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-20T12:02:17Z",
+    "updated_at": "2026-07-20T12:16:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-20T08:51:22Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
     "id": "fightheyyy/barena",
     "language": "TypeScript",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:20:47Z",
     "url": "https://github.com/GDV-prog/pocket-law-ai"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-07-20T08:18:46Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 306,
-    "updated_at": "2026-07-20T08:16:41Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
