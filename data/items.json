@@ -1,11 +1,38 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T23:37:30Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-20T23:34:30Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-20T23:32:40Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
     "name": "Ven0m0/gemini-web-wrapper",
     "stars": 4,
-    "updated_at": "2026-07-20T23:30:10Z",
+    "updated_at": "2026-07-20T23:30:22Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-20T22:31:57Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 12,
     "updated_at": "2026-07-20T22:47:12Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T21:46:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:21:51Z",
     "url": "https://github.com/1816x/Vulnerability-Triage-Agent"
-  },
-  {
-    "description": "An asynchronous, queue-based message pipeline for running local LLMs on WhatsApp. Built with Node.js, Express, BullMQ, R",
-    "id": "Nico-letta/ai-message-pipeline",
-    "language": "JavaScript",
-    "name": "Nico-letta/ai-message-pipeline",
-    "stars": 0,
-    "updated_at": "2026-07-20T16:49:37Z",
-    "url": "https://github.com/Nico-letta/ai-message-pipeline"
   }
 ]
