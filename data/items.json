@@ -1,12 +1,48 @@
 [
   {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:44:38Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:37:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 54,
-    "updated_at": "2026-07-20T12:28:33Z",
+    "updated_at": "2026-07-20T12:32:22Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 343,
+    "updated_at": "2026-07-20T12:29:11Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:28:24Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -70,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T12:23:44Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 342,
-    "updated_at": "2026-07-20T12:29:11Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5574,
-    "updated_at": "2026-07-20T11:30:30Z",
+    "updated_at": "2026-07-20T12:31:01Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/dsd12356994/figure-gen-ace"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:35:11Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -322,15 +340,6 @@
     "stars": 152,
     "updated_at": "2026-07-20T10:24:21Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:28:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-20T12:16:57Z",
+    "updated_at": "2026-07-20T12:39:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 154,
     "updated_at": "2026-07-20T08:21:03Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "RAG-\u0430\u0433\u0435\u043d\u0442 \u043f\u043e \u0437\u0430\u043a\u043e\u043d\u0430\u043c \u0420\u0424: Telegram-\u0431\u043e\u0442 \u0441 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u043e\u0439 \u0446\u0438\u0442\u0430\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438-\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430. \u041a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442; \u043c\u043e\u044f \u0437\u043e\u043d\u0430 \u2014 ",
-    "id": "GDV-prog/pocket-law-ai",
-    "language": "Python",
-    "name": "GDV-prog/pocket-law-ai",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:20:47Z",
-    "url": "https://github.com/GDV-prog/pocket-law-ai"
   }
 ]
