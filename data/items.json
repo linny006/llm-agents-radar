@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "Ghost-White-Guy/Universal-LLM-Agent",
     "stars": 2,
-    "updated_at": "2026-07-20T10:44:29Z",
+    "updated_at": "2026-07-20T10:59:48Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+    "id": "tachyon-r/maximal-utility-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/maximal-utility-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-07-20T10:53:44Z",
+    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 4,
+    "updated_at": "2026-07-20T11:00:03Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-20T10:50:20Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-07-20T10:48:57Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 341,
+    "updated_at": "2026-07-20T10:48:37Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
@@ -187,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T09:38:20Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-20T10:36:20Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:47:54Z",
     "url": "https://github.com/EMT5320/EMT5320"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13499,
-    "updated_at": "2026-07-20T07:38:06Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-07-20T07:27:08Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
-    "id": "tkarim45/realtime-decision-intelligence",
-    "language": "Python",
-    "name": "tkarim45/realtime-decision-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:13:36Z",
-    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
-  },
-  {
-    "description": "\ubc95\uc81c\ucc98 law.go.kr OpenAPI\uc758 \ubc95\uc801 \uacfc\uc5c5 \ub2e8\uc704 Python SDK\u00b7CLI \u2014 \uac80\uc0c9\uc73c\ub85c \ud6c4\ubcf4\ub97c \uace0\ub974\uace0, \ub85c\ub354\ub85c \ubcf8\ubb38\uc744 \uc2e3\ub294\ub2e4. LLM \uc5d0\uc774\uc804\ud2b8\ub97c 1\ucc28 \uc18c\ube44\uc790\ub85c \uc124\uacc4.",
-    "id": "tjdwls101010/MOLEG-API",
-    "language": "Python",
-    "name": "tjdwls101010/MOLEG-API",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:11:11Z",
-    "url": "https://github.com/tjdwls101010/MOLEG-API"
   }
 ]
