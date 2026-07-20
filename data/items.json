@@ -1,11 +1,38 @@
 [
   {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-20T11:26:50Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T11:24:52Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-20T11:22:35Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
     "id": "KazKozDev/llmflow-search",
     "language": "Python",
     "name": "KazKozDev/llmflow-search",
     "stars": 6,
-    "updated_at": "2026-07-20T11:13:20Z",
+    "updated_at": "2026-07-20T11:17:35Z",
     "url": "https://github.com/KazKozDev/llmflow-search"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 12,
     "updated_at": "2026-07-20T11:12:40Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-20T11:10:12Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -135,24 +153,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-20T11:13:21Z",
-    "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T10:25:17Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -239,7 +239,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-20T10:32:56Z",
+    "updated_at": "2026-07-20T11:18:37Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -248,7 +248,7 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 1,
-    "updated_at": "2026-07-20T09:17:41Z",
+    "updated_at": "2026-07-20T11:29:38Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
