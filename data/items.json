@@ -18,6 +18,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6649,
+    "updated_at": "2026-07-20T12:35:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 343,
-    "updated_at": "2026-07-20T12:29:11Z",
+    "updated_at": "2026-07-20T12:57:51Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -104,7 +113,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/agent-sdk",
     "stars": 7,
-    "updated_at": "2026-07-20T12:23:44Z",
+    "updated_at": "2026-07-20T12:54:34Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:32:08Z",
     "url": "https://github.com/juzikuwei/tech-radar-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-20T08:21:03Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
