@@ -1,5 +1,95 @@
 [
   {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:57:41Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-20T07:56:25Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-20T07:52:41Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:52:07Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
+    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
+    "id": "FeixueCode/miaoclaw-releases",
+    "language": "\u2014",
+    "name": "FeixueCode/miaoclaw-releases",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:52:00Z",
+    "url": "https://github.com/FeixueCode/miaoclaw-releases"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28037,
+    "updated_at": "2026-07-20T07:51:11Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:48:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:48:04Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
+    "description": "MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs.",
+    "id": "EMT5320/ContextGuard-Agent-Lab",
+    "language": "Python",
+    "name": "EMT5320/ContextGuard-Agent-Lab",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:47:58Z",
+    "url": "https://github.com/EMT5320/ContextGuard-Agent-Lab"
+  },
+  {
+    "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
+    "id": "EMT5320/EMT5320",
+    "language": "\u2014",
+    "name": "EMT5320/EMT5320",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:47:54Z",
+    "url": "https://github.com/EMT5320/EMT5320"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -9,29 +99,11 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 7,
-    "updated_at": "2026-07-20T07:41:04Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-20T07:38:51Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13494,
+    "stars": 13495,
     "updated_at": "2026-07-20T07:38:06Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -72,15 +144,6 @@
     "url": "https://github.com/tkarim45/realtime-decision-intelligence"
   },
   {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-20T07:31:06Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -88,24 +151,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T07:42:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-20T07:08:21Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
-    "id": "FeixueCode/miaoclaw-releases",
-    "language": "\u2014",
-    "name": "FeixueCode/miaoclaw-releases",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:38:27Z",
-    "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
     "description": "\ubc95\uc81c\ucc98 law.go.kr OpenAPI\uc758 \ubc95\uc801 \uacfc\uc5c5 \ub2e8\uc704 Python SDK\u00b7CLI \u2014 \uac80\uc0c9\uc73c\ub85c \ud6c4\ubcf4\ub97c \uace0\ub974\uace0, \ub85c\ub354\ub85c \ubcf8\ubb38\uc744 \uc2e3\ub294\ub2e4. LLM \uc5d0\uc774\uc804\ud2b8\ub97c 1\ucc28 \uc18c\ube44\uc790\ub85c \uc124\uacc4.",
@@ -133,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T06:09:13Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28036,
-    "updated_at": "2026-07-20T06:08:41Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:49:41Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
     "id": "adityaarsharma/pickle",
     "language": "JavaScript",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-20T07:35:35Z",
+    "updated_at": "2026-07-20T07:54:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 5539,
     "updated_at": "2026-07-20T03:23:33Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
-    "id": "EMT5320/EMT5320",
-    "language": "\u2014",
-    "name": "EMT5320/EMT5320",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:08:16Z",
-    "url": "https://github.com/EMT5320/EMT5320"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-19T21:21:18Z",
     "url": "https://github.com/ccc909/GradientQL"
-  },
-  {
-    "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
-    "id": "xiaojiune/TravelPal",
-    "language": "Python",
-    "name": "xiaojiune/TravelPal",
-    "stars": 0,
-    "updated_at": "2026-07-19T21:01:36Z",
-    "url": "https://github.com/xiaojiune/TravelPal"
-  },
-  {
-    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
-    "id": "ahmedabbas52233-a11y/TerraVision-AI",
-    "language": "Python",
-    "name": "ahmedabbas52233-a11y/TerraVision-AI",
-    "stars": 2,
-    "updated_at": "2026-07-19T20:31:26Z",
-    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
   }
 ]
