@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T08:25:40Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
     "name": "juzikuwei/tech-radar-agent",
     "stars": 1,
-    "updated_at": "2026-07-20T08:15:10Z",
+    "updated_at": "2026-07-20T08:23:40Z",
     "url": "https://github.com/juzikuwei/tech-radar-agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T08:25:02Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-20T08:21:03Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "RAG-\u0430\u0433\u0435\u043d\u0442 \u043f\u043e \u0437\u0430\u043a\u043e\u043d\u0430\u043c \u0420\u0424: Telegram-\u0431\u043e\u0442 \u0441 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0435\u043c\u043e\u0439 \u0446\u0438\u0442\u0430\u0442\u043e\u0439 \u0441\u0442\u0430\u0442\u044c\u0438-\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430. \u041a\u043e\u043c\u0430\u043d\u0434\u043d\u044b\u0439 \u043f\u0440\u043e\u0435\u043a\u0442; \u043c\u043e\u044f \u0437\u043e\u043d\u0430 \u2014 ",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "GDV-prog/pocket-law-ai",
     "stars": 1,
-    "updated_at": "2026-07-20T08:10:49Z",
+    "updated_at": "2026-07-20T08:20:47Z",
     "url": "https://github.com/GDV-prog/pocket-law-ai"
+  },
+  {
+    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
+    "id": "the-priest/Basilisk",
+    "language": "Python",
+    "name": "the-priest/Basilisk",
+    "stars": 2,
+    "updated_at": "2026-07-20T08:19:19Z",
+    "url": "https://github.com/the-priest/Basilisk"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-07-20T08:18:46Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 306,
+    "updated_at": "2026-07-20T08:16:41Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "\u0414\u0438\u0430\u043b\u043e\u0433\u043e\u0432\u044b\u0439 \u0430\u0433\u0435\u043d\u0442-\u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u043d\u0442 \u043f\u043e \u0444\u0438\u043b\u044c\u043c\u0430\u043c: LangChain + \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a (e5-large + BM25, RRF) \u043f\u043e \u0431\u0430\u0437\u0435 8142 \u0444\u0438\u043b\u044c\u043c\u043e\u0432. \u0422\u0435\u0440\u043c\u0438\u043d",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2885,
-    "updated_at": "2026-07-20T08:08:03Z",
+    "updated_at": "2026-07-20T08:25:46Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -130,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28037,
+    "stars": 28038,
     "updated_at": "2026-07-20T07:51:11Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -189,15 +243,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:27:53Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T07:13:36Z",
     "url": "https://github.com/tkarim45/realtime-decision-intelligence"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T08:13:09Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "\ubc95\uc81c\ucc98 law.go.kr OpenAPI\uc758 \ubc95\uc801 \uacfc\uc5c5 \ub2e8\uc704 Python SDK\u00b7CLI \u2014 \uac80\uc0c9\uc73c\ub85c \ud6c4\ubcf4\ub97c \uace0\ub974\uace0, \ub85c\ub354\ub85c \ubcf8\ubb38\uc744 \uc2e3\ub294\ub2e4. LLM \uc5d0\uc774\uc804\ud2b8\ub97c 1\ucc28 \uc18c\ube44\uc790\ub85c \uc124\uacc4.",
@@ -369,20 +405,11 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 306,
-    "updated_at": "2026-07-20T04:31:47Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 339,
+    "stars": 340,
     "updated_at": "2026-07-20T04:30:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -392,7 +419,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-20T07:54:37Z",
+    "updated_at": "2026-07-20T08:28:47Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 56,
     "updated_at": "2026-07-20T03:02:36Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "LangGraph-based regulatory compliance intelligence agent for consumer electronics exporters \u2014 plans retrieval strategy, ",
-    "id": "LingyiMeng01/RegPilot",
-    "language": "Python",
-    "name": "LingyiMeng01/RegPilot",
-    "stars": 1,
-    "updated_at": "2026-07-20T03:01:30Z",
-    "url": "https://github.com/LingyiMeng01/RegPilot"
-  },
-  {
-    "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
-    "id": "navig-me/local-marketing",
-    "language": "JavaScript",
-    "name": "navig-me/local-marketing",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:56:44Z",
-    "url": "https://github.com/navig-me/local-marketing"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-07-20T02:52:14Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
   }
 ]
