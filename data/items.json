@@ -1,11 +1,20 @@
 [
   {
+    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
+    "id": "adityaarsharma/pickle",
+    "language": "JavaScript",
+    "name": "adityaarsharma/pickle",
+    "stars": 3,
+    "updated_at": "2026-07-20T03:59:46Z",
+    "url": "https://github.com/adityaarsharma/pickle"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-20T03:44:10Z",
+    "updated_at": "2026-07-20T03:51:58Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T18:46:13Z",
     "url": "https://github.com/BadTechResearch/santana"
-  },
-  {
-    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
-    "id": "adityaarsharma/pickle",
-    "language": "JavaScript",
-    "name": "adityaarsharma/pickle",
-    "stars": 3,
-    "updated_at": "2026-07-19T18:21:32Z",
-    "url": "https://github.com/adityaarsharma/pickle"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
