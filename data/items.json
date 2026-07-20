@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T04:17:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
+    "id": "adityaarsharma/pickle",
+    "language": "JavaScript",
+    "name": "adityaarsharma/pickle",
+    "stars": 3,
+    "updated_at": "2026-07-20T04:15:44Z",
+    "url": "https://github.com/adityaarsharma/pickle"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:02:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
-    "id": "adityaarsharma/pickle",
-    "language": "JavaScript",
-    "name": "adityaarsharma/pickle",
-    "stars": 3,
-    "updated_at": "2026-07-20T03:59:46Z",
-    "url": "https://github.com/adityaarsharma/pickle"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T01:23:53Z",
     "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T04:13:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
