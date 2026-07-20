@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-20T07:24:11Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:21:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:17:58Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T07:24:36Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
     "id": "tkarim45/realtime-decision-intelligence",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T07:02:29Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "\u2014",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T06:38:27Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T06:13:10Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "\ubc95\uc81c\ucc98 law.go.kr OpenAPI\uc758 \ubc95\uc801 \uacfc\uc5c5 \ub2e8\uc704 Python SDK\u00b7CLI \u2014 \uac80\uc0c9\uc73c\ub85c \ud6c4\ubcf4\ub97c \uace0\ub974\uace0, \ub85c\ub354\ub85c \ubcf8\ubb38\uc744 \uc2e3\ub294\ub2e4. LLM \uc5d0\uc774\uc804\ud2b8\ub97c 1\ucc28 \uc18c\ube44\uc790\ub85c \uc124\uacc4.",
@@ -238,7 +256,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 338,
+    "stars": 339,
     "updated_at": "2026-07-20T04:30:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -259,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T06:20:06Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 7,
-    "updated_at": "2026-07-20T06:46:25Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T04:02:43Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
