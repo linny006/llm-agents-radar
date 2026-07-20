@@ -1,12 +1,30 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 11,
-    "updated_at": "2026-07-20T05:59:42Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T06:13:10Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "\ubc95\uc81c\ucc98 law.go.kr OpenAPI\uc758 \ubc95\uc801 \uacfc\uc5c5 \ub2e8\uc704 Python SDK\u00b7CLI \u2014 \uac80\uc0c9\uc73c\ub85c \ud6c4\ubcf4\ub97c \uace0\ub974\uace0, \ub85c\ub354\ub85c \ubcf8\ubb38\uc744 \uc2e3\ub294\ub2e4. LLM \uc5d0\uc774\uc804\ud2b8\ub97c 1\ucc28 \uc18c\ube44\uc790\ub85c \uc124\uacc4.",
+    "id": "tjdwls101010/MOLEG-API",
+    "language": "Python",
+    "name": "tjdwls101010/MOLEG-API",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:11:11Z",
+    "url": "https://github.com/tjdwls101010/MOLEG-API"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T06:10:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "Ghost-White-Guy/Universal-LLM-Agent",
     "stars": 2,
-    "updated_at": "2026-07-20T05:57:51Z",
+    "updated_at": "2026-07-20T06:09:13Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28026,
+    "updated_at": "2026-07-20T06:08:41Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 11,
+    "updated_at": "2026-07-20T05:59:42Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -79,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T05:19:17Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T05:12:23Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T05:27:47Z",
+    "updated_at": "2026-07-20T06:10:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 5538,
     "updated_at": "2026-07-20T03:23:33Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28024,
-    "updated_at": "2026-07-20T03:20:16Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T02:38:57Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T02:27:11Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T19:23:53Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "A Generative Transformer Chemical Language Model + LLM Agent as an Expert for Quantum Chemistry and Drug Discovery",
-    "id": "rangsimanketkaew/TransforMol",
-    "language": "Jupyter Notebook",
-    "name": "rangsimanketkaew/TransforMol",
-    "stars": 3,
-    "updated_at": "2026-07-19T19:21:24Z",
-    "url": "https://github.com/rangsimanketkaew/TransforMol"
   }
 ]
