@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T16:30:09Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:27:21Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:27:20Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:24:13Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
+    "id": "the-priest/Basilisk",
+    "language": "Python",
+    "name": "the-priest/Basilisk",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:18:31Z",
+    "url": "https://github.com/the-priest/Basilisk"
+  },
+  {
+    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
+    "id": "EntroVyx/hermes-agent-offsec",
+    "language": "Python",
+    "name": "EntroVyx/hermes-agent-offsec",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:17:18Z",
+    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-20T16:16:53Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:14:46Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -54,33 +126,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T16:14:46Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:14:46Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
-    "id": "the-priest/Basilisk",
-    "language": "Python",
-    "name": "the-priest/Basilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:49:00Z",
-    "url": "https://github.com/the-priest/Basilisk"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -88,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T15:42:58Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:34:16Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -162,15 +198,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:55:41Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "LaraClaw is a Laravel-based multi-agent AI orchestration framework, loosely modelled after OpenClaw.",
     "id": "robertgdev/LaraClaw",
     "language": "PHP",
@@ -232,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T14:16:26Z",
     "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
-    "id": "EntroVyx/hermes-agent-offsec",
-    "language": "Python",
-    "name": "EntroVyx/hermes-agent-offsec",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:07:01Z",
-    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -319,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28054,
+    "stars": 28055,
     "updated_at": "2026-07-20T13:21:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -392,7 +410,7 @@
     "language": "Python",
     "name": "laurykb/AI_for_geopolitics",
     "stars": 1,
-    "updated_at": "2026-07-20T12:02:36Z",
+    "updated_at": "2026-07-20T16:23:04Z",
     "url": "https://github.com/laurykb/AI_for_geopolitics"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 791,
     "updated_at": "2026-07-20T16:01:29Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "LLM \ud504\ub808\uc784\uc6cc\ud06c \uacf5\uc2dd \ubb38\uc11c \uae30\ubc18 RAG QA \uc2dc\uc2a4\ud15c + LangGraph \ucf54\ub529 \uc5b4\uc2dc\uc2a4\ud134\ud2b8 \uc5d0\uc774\uc804\ud2b8",
-    "id": "0sun2/rag-agent-docs-assistant",
-    "language": "Python",
-    "name": "0sun2/rag-agent-docs-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:47:08Z",
-    "url": "https://github.com/0sun2/rag-agent-docs-assistant"
-  },
-  {
-    "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
-    "id": "jeinlee1991/chinese-llm-benchmark",
-    "language": "\u2014",
-    "name": "jeinlee1991/chinese-llm-benchmark",
-    "stars": 6300,
-    "updated_at": "2026-07-20T11:42:57Z",
-    "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   }
 ]
