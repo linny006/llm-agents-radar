@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T06:57:25Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "\u2014",
@@ -18,15 +27,6 @@
     "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T06:34:17Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Real-time AIOps decision intelligence on a laptop: durable at-least-once streaming (0 events lost on crash), train=serve",
     "id": "tkarim45/realtime-decision-intelligence",
     "language": "Python",
@@ -41,7 +41,7 @@
     "language": "Swift",
     "name": "9t29zhmwdh-coder/SwiftAgent",
     "stars": 0,
-    "updated_at": "2026-07-20T06:26:14Z",
+    "updated_at": "2026-07-20T06:52:10Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   },
   {
@@ -229,7 +229,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 337,
+    "stars": 338,
     "updated_at": "2026-07-20T04:30:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 7,
-    "updated_at": "2026-07-20T06:20:07Z",
+    "updated_at": "2026-07-20T06:46:25Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -283,7 +283,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5538,
+    "stars": 5539,
     "updated_at": "2026-07-20T03:23:33Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
