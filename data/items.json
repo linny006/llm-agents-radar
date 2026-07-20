@@ -1,21 +1,57 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T05:25:24Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 9,
-    "updated_at": "2026-07-20T05:22:38Z",
+    "updated_at": "2026-07-20T05:45:17Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
+    "id": "matthew-fitzgerald123/llm-agent",
+    "language": "Python",
+    "name": "matthew-fitzgerald123/llm-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:43:37Z",
+    "url": "https://github.com/matthew-fitzgerald123/llm-agent"
+  },
+  {
+    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:41:34Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T05:40:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 11,
+    "updated_at": "2026-07-20T05:37:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-20T05:34:05Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -130,7 +166,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 334,
+    "stars": 336,
     "updated_at": "2026-07-20T04:30:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 11,
-    "updated_at": "2026-07-20T05:20:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:02:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T03:41:21Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -295,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T01:26:54Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-20T01:23:53Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-19T21:42:45Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Autonomous AI agent that remembers, learns, and improves itself. Runs on $7/mo VM with <$10/mo inference. No Docker, no ",
-    "id": "BadTechResearch/santana",
-    "language": "Python",
-    "name": "BadTechResearch/santana",
-    "stars": 0,
-    "updated_at": "2026-07-19T18:46:13Z",
-    "url": "https://github.com/BadTechResearch/santana"
   }
 ]
