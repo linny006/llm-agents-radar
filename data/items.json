@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T03:29:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T03:28:18Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5538,
+    "updated_at": "2026-07-20T03:23:33Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28021,
+    "updated_at": "2026-07-20T03:20:16Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T03:08:16Z",
     "url": "https://github.com/EMT5320/EMT5320"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T03:04:43Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -72,15 +99,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T03:05:58Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
     "id": "Ediebah/clinical-insight-agent",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-20T02:27:10Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28021,
-    "updated_at": "2026-07-20T02:19:21Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-07-19T16:04:27Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5538,
-    "updated_at": "2026-07-19T15:19:22Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
