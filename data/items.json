@@ -1,5 +1,32 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T21:41:41Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4361,
+    "updated_at": "2026-07-20T21:39:37Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:30:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:05:28Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T21:03:58Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 7,
-    "updated_at": "2026-07-20T21:12:48Z",
+    "updated_at": "2026-07-20T21:37:56Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -180,15 +198,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:07:55Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-20T20:07:13Z",
+    "updated_at": "2026-07-20T21:38:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -235,12 +244,12 @@
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/Basilisk",
+    "id": "the-priest/PriestsBasilisk",
     "language": "Python",
-    "name": "the-priest/Basilisk",
+    "name": "the-priest/PriestsBasilisk",
     "stars": 2,
     "updated_at": "2026-07-20T19:46:58Z",
-    "url": "https://github.com/the-priest/Basilisk"
+    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T16:02:29Z",
     "url": "https://github.com/aegntic/cognitive-os"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4361,
-    "updated_at": "2026-07-20T20:48:13Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
