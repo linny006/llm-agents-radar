@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T17:44:21Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "Local multi-agent Deep Research on Ollama and SearXNG, built on Anthropic's orchestrator-workers research principles \u2014 e",
+    "id": "KazKozDev/llmflow-search",
+    "language": "Python",
+    "name": "KazKozDev/llmflow-search",
+    "stars": 6,
+    "updated_at": "2026-07-20T17:41:31Z",
+    "url": "https://github.com/KazKozDev/llmflow-search"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-20T17:40:55Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
+    "id": "EntroVyx/hermes-agent-offsec",
+    "language": "Python",
+    "name": "EntroVyx/hermes-agent-offsec",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:33:44Z",
+    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T17:33:20Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -9,15 +54,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
-    "id": "EntroVyx/hermes-agent-offsec",
-    "language": "Python",
-    "name": "EntroVyx/hermes-agent-offsec",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:27:51Z",
-    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
-  },
-  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T17:26:53Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
-    "id": "KazKozDev/llmflow-search",
-    "language": "Python",
-    "name": "KazKozDev/llmflow-search",
-    "stars": 6,
-    "updated_at": "2026-07-20T17:26:53Z",
-    "url": "https://github.com/KazKozDev/llmflow-search"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -88,15 +115,6 @@
     "stars": 791,
     "updated_at": "2026-07-20T17:06:08Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T17:01:58Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -288,15 +306,6 @@
     "url": "https://github.com/wzxsph/insight-desk"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T15:05:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6650,
-    "updated_at": "2026-07-20T15:04:06Z",
+    "updated_at": "2026-07-20T17:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -373,7 +382,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13503,
+    "stars": 13504,
     "updated_at": "2026-07-20T13:54:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 482,
     "updated_at": "2026-07-20T13:15:20Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "A security-conscious, local-first LLM agent in Go powered by Ollama & Model Context Protocol (MCP). Features defense-in-",
-    "id": "GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration",
-    "language": "Go",
-    "name": "GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:49:24Z",
-    "url": "https://github.com/GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration"
   }
 ]
