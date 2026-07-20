@@ -1,11 +1,65 @@
 [
   {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:44:01Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:40:26Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:36:15Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:35:22Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/Basilisk",
+    "language": "Python",
+    "name": "the-priest/Basilisk",
+    "stars": 2,
+    "updated_at": "2026-07-20T16:33:16Z",
+    "url": "https://github.com/the-priest/Basilisk"
+  },
+  {
+    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
+    "id": "laurykb/AI_for_geopolitics",
+    "language": "Python",
+    "name": "laurykb/AI_for_geopolitics",
+    "stars": 1,
+    "updated_at": "2026-07-20T16:32:20Z",
+    "url": "https://github.com/laurykb/AI_for_geopolitics"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T16:30:09Z",
+    "updated_at": "2026-07-20T16:42:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -36,15 +90,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
-    "id": "the-priest/Basilisk",
-    "language": "Python",
-    "name": "the-priest/Basilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:18:31Z",
-    "url": "https://github.com/the-priest/Basilisk"
-  },
-  {
     "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
     "id": "EntroVyx/hermes-agent-offsec",
     "language": "Python",
@@ -61,15 +106,6 @@
     "stars": 152,
     "updated_at": "2026-07-20T16:16:53Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:14:46Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -234,15 +270,6 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:21:10Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
     "id": "larlarua/AutoCVE",
     "language": "Python",
@@ -250,15 +277,6 @@
     "stars": 1294,
     "updated_at": "2026-07-20T14:21:05Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-20T14:16:26Z",
-    "url": "https://github.com/heichaowo/amem"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -274,7 +292,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13502,
+    "stars": 13503,
     "updated_at": "2026-07-20T13:54:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/nezdali/queenbee-agent"
   },
   {
-    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
-    "id": "laurykb/AI_for_geopolitics",
-    "language": "Python",
-    "name": "laurykb/AI_for_geopolitics",
-    "stars": 1,
-    "updated_at": "2026-07-20T16:23:04Z",
-    "url": "https://github.com/laurykb/AI_for_geopolitics"
-  },
-  {
     "description": "\ubd80\uc11c\ubcc4 \uc778\uc218\uc778\uacc4 \ubb38\uc11c\ub97c RAG\ub85c \ub2f5\ubcc0\ud558\uace0, \uc5c5\ubb34 \ubc1c\ud654\ub97c tool use\ub85c \uad6c\uc870\ud654 \uc800\uc7a5\ud558\ub294 \uc0ac\ub0b4 \ucc57\ubd07 (Bedrock \u00b7 \ud480\uc2a4\ud0dd \u00b7 AWS \ubc30\ud3ec)",
     "id": "0sun2/handover-agent-chatbot",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T11:59:50Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 791,
-    "updated_at": "2026-07-20T16:01:29Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
