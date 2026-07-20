@@ -1,12 +1,48 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-20T09:12:19Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
+    "id": "the-priest/Basilisk",
+    "language": "Python",
+    "name": "the-priest/Basilisk",
+    "stars": 2,
+    "updated_at": "2026-07-20T09:09:22Z",
+    "url": "https://github.com/the-priest/Basilisk"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T09:09:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
     "id": "brownjuly2003-code/Auto_BI",
     "language": "Python",
     "name": "brownjuly2003-code/Auto_BI",
     "stars": 0,
-    "updated_at": "2026-07-20T08:59:00Z",
+    "updated_at": "2026-07-20T09:05:23Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-20T09:03:01Z",
+    "url": "https://github.com/aerkn1/jobhunt"
   },
   {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
@@ -45,15 +81,6 @@
     "url": "https://github.com/fightheyyy/barena"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T08:58:32Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T08:25:02Z",
+    "updated_at": "2026-07-20T09:04:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T08:20:47Z",
     "url": "https://github.com/GDV-prog/pocket-law-ai"
-  },
-  {
-    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
-    "id": "the-priest/Basilisk",
-    "language": "Python",
-    "name": "the-priest/Basilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T08:19:19Z",
-    "url": "https://github.com/the-priest/Basilisk"
   },
   {
     "description": "",
@@ -171,21 +189,12 @@
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:07:08Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
     "id": "wusuiling-if/mini-code-agent-langgraph",
     "language": "Python",
     "name": "wusuiling-if/mini-code-agent-langgraph",
     "stars": 0,
-    "updated_at": "2026-07-20T08:04:51Z",
+    "updated_at": "2026-07-20T09:03:52Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 7,
-    "updated_at": "2026-07-20T07:52:41Z",
+    "updated_at": "2026-07-20T09:00:19Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-20T08:50:01Z",
+    "updated_at": "2026-07-20T09:08:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 340,
     "updated_at": "2026-07-20T04:30:33Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T08:28:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
