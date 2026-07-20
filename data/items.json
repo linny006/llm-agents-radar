@@ -5,17 +5,8 @@
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
     "stars": 624,
-    "updated_at": "2026-07-20T15:53:11Z",
+    "updated_at": "2026-07-20T16:09:26Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T15:52:54Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
@@ -23,8 +14,44 @@
     "language": "Python",
     "name": "xiaojiune/TravelPal",
     "stars": 0,
-    "updated_at": "2026-07-20T15:58:13Z",
+    "updated_at": "2026-07-20T16:06:28Z",
     "url": "https://github.com/xiaojiune/TravelPal"
+  },
+  {
+    "description": "Cognitive OS v3.0 \u2014 Universal AI agent operating system specification. 16-section cognitive architecture for Claude Code",
+    "id": "aegntic/cognitive-os",
+    "language": "Kotlin",
+    "name": "aegntic/cognitive-os",
+    "stars": 3,
+    "updated_at": "2026-07-20T16:02:29Z",
+    "url": "https://github.com/aegntic/cognitive-os"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-20T15:59:49Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-20T15:59:11Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T16:07:42Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
@@ -88,15 +115,6 @@
     "stars": 12,
     "updated_at": "2026-07-20T15:41:08Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-20T15:59:11Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Evidence-grounded user feedback analytics with FastAPI, React, SQLite, and MiniMax-M3",
@@ -342,6 +360,15 @@
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5575,
+    "updated_at": "2026-07-20T12:31:01Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
     "id": "brownjuly2003-code/Auto_BI",
     "language": "Python",
@@ -401,7 +428,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 791,
-    "updated_at": "2026-07-20T15:56:25Z",
+    "updated_at": "2026-07-20T16:01:29Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6300,
     "updated_at": "2026-07-20T11:42:57Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-20T11:40:57Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 174,
-    "updated_at": "2026-07-20T11:36:42Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5574,
-    "updated_at": "2026-07-20T12:31:01Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
