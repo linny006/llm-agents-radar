@@ -5,8 +5,26 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 7,
-    "updated_at": "2026-07-20T07:24:11Z",
+    "updated_at": "2026-07-20T07:29:29Z",
     "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T07:27:53Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-07-20T07:27:08Z",
+    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -18,21 +36,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T07:17:58Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-20T07:24:36Z",
+    "updated_at": "2026-07-20T07:29:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-20T01:18:58Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-19T20:09:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
