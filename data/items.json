@@ -1,5 +1,32 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-20T17:10:58Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 791,
+    "updated_at": "2026-07-20T17:06:08Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
+    "id": "Ghost-White-Guy/Universal-LLM-Agent",
+    "language": "Python",
+    "name": "Ghost-White-Guy/Universal-LLM-Agent",
+    "stars": 2,
+    "updated_at": "2026-07-20T17:01:58Z",
+    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
+  },
+  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -36,21 +63,12 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation.",
-    "id": "Ghost-White-Guy/Universal-LLM-Agent",
-    "language": "Python",
-    "name": "Ghost-White-Guy/Universal-LLM-Agent",
-    "stars": 2,
-    "updated_at": "2026-07-20T16:44:01Z",
-    "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "heichaowo/amem",
     "language": "TypeScript",
     "name": "heichaowo/amem",
     "stars": 1,
-    "updated_at": "2026-07-20T16:40:26Z",
+    "updated_at": "2026-07-20T17:09:56Z",
     "url": "https://github.com/heichaowo/amem"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-20T13:35:33Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:23:23Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Self-extending LLM agent on Telegram. Users describe a tool in plain English; the bot generates Python code, LLM-securit",
-    "id": "nezdali/queenbee-agent",
-    "language": "Python",
-    "name": "nezdali/queenbee-agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T12:17:23Z",
-    "url": "https://github.com/nezdali/queenbee-agent"
   }
 ]
