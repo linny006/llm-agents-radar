@@ -1,10 +1,28 @@
 [
   {
+    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
+    "id": "laurykb/AI_for_geopolitics",
+    "language": "Python",
+    "name": "laurykb/AI_for_geopolitics",
+    "stars": 1,
+    "updated_at": "2026-07-20T19:41:27Z",
+    "url": "https://github.com/laurykb/AI_for_geopolitics"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-20T19:36:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2349,
+    "stars": 2350,
     "updated_at": "2026-07-20T19:28:43Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -25,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T19:28:01Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
-    "id": "laurykb/AI_for_geopolitics",
-    "language": "Python",
-    "name": "laurykb/AI_for_geopolitics",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:14:54Z",
-    "url": "https://github.com/laurykb/AI_for_geopolitics"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -144,6 +153,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2888,
+    "updated_at": "2026-07-20T18:27:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Open-source relational AI framework with identity persistence, memory, and MCP integration. Build relationship-aware AI ",
     "id": "codependentai/resonant",
     "language": "TypeScript",
@@ -214,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-20T17:44:21Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:33:20Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -374,7 +383,7 @@
     "language": "Go",
     "name": "dsswift/ion",
     "stars": 3,
-    "updated_at": "2026-07-20T15:42:58Z",
+    "updated_at": "2026-07-20T19:40:18Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-20T15:05:48Z",
+    "updated_at": "2026-07-20T19:39:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 345,
     "updated_at": "2026-07-20T14:24:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1293,
-    "updated_at": "2026-07-20T14:21:05Z",
-    "url": "https://github.com/larlarua/AutoCVE"
   }
 ]
