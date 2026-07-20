@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T16:13:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T16:07:42Z",
+    "updated_at": "2026-07-20T16:14:46Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Ghost-White-Guy/Universal-LLM-Agent",
     "stars": 2,
-    "updated_at": "2026-07-20T15:49:53Z",
+    "updated_at": "2026-07-20T16:14:46Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-07-20T14:52:22Z",
     "url": "https://github.com/robertgdev/LaraClaw"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T14:39:33Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
