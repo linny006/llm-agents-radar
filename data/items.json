@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 7,
+    "updated_at": "2026-07-20T18:14:58Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-07-20T18:05:11Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
+    "id": "EntroVyx/hermes-agent-offsec",
+    "language": "Python",
+    "name": "EntroVyx/hermes-agent-offsec",
+    "stars": 0,
+    "updated_at": "2026-07-20T18:02:36Z",
+    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 6651,
     "updated_at": "2026-07-20T17:34:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
-    "id": "EntroVyx/hermes-agent-offsec",
-    "language": "Python",
-    "name": "EntroVyx/hermes-agent-offsec",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:33:44Z",
-    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -382,7 +400,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13504,
+    "stars": 13505,
     "updated_at": "2026-07-20T13:54:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 4361,
     "updated_at": "2026-07-20T15:58:17Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28055,
-    "updated_at": "2026-07-20T13:21:28Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 482,
-    "updated_at": "2026-07-20T13:15:20Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
