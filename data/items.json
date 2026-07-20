@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T03:13:32Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
+    "id": "EMT5320/EMT5320",
+    "language": "\u2014",
+    "name": "EMT5320/EMT5320",
+    "stars": 0,
+    "updated_at": "2026-07-20T03:08:16Z",
+    "url": "https://github.com/EMT5320/EMT5320"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T03:04:43Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 56,
+    "updated_at": "2026-07-20T03:02:36Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "LangGraph-based regulatory compliance intelligence agent for consumer electronics exporters \u2014 plans retrieval strategy, ",
+    "id": "LingyiMeng01/RegPilot",
+    "language": "Python",
+    "name": "LingyiMeng01/RegPilot",
+    "stars": 1,
+    "updated_at": "2026-07-20T03:01:30Z",
+    "url": "https://github.com/LingyiMeng01/RegPilot"
+  },
+  {
     "description": "Local-only, agent-agnostic marketing/outreach skill: SQLite CRM, file-approved sends, SMTP.",
     "id": "navig-me/local-marketing",
     "language": "JavaScript",
@@ -27,21 +72,12 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T02:48:51Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-20T02:46:48Z",
+    "updated_at": "2026-07-20T03:05:58Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -85,18 +121,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28019,
+    "stars": 28021,
     "updated_at": "2026-07-20T02:19:21Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T02:48:27Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -187,15 +214,6 @@
     "stars": 152,
     "updated_at": "2026-07-19T22:36:50Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 56,
-    "updated_at": "2026-07-19T22:29:08Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
@@ -373,7 +391,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 330,
+    "stars": 331,
     "updated_at": "2026-07-19T17:23:57Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -418,7 +436,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5537,
+    "stars": 5538,
     "updated_at": "2026-07-19T15:19:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-19T15:07:43Z",
     "url": "https://github.com/EMT5320/loomstead"
-  },
-  {
-    "description": "MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs.",
-    "id": "EMT5320/ContextGuard-Agent-Lab",
-    "language": "Python",
-    "name": "EMT5320/ContextGuard-Agent-Lab",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:07:38Z",
-    "url": "https://github.com/EMT5320/ContextGuard-Agent-Lab"
-  },
-  {
-    "description": "Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus",
-    "id": "EMT5320/EMT5320",
-    "language": "\u2014",
-    "name": "EMT5320/EMT5320",
-    "stars": 0,
-    "updated_at": "2026-07-19T15:07:07Z",
-    "url": "https://github.com/EMT5320/EMT5320"
   }
 ]
