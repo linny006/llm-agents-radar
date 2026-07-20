@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 791,
+    "updated_at": "2026-07-20T11:58:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T11:53:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-20T11:50:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-07-20T11:57:36Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "LLM \ud504\ub808\uc784\uc6cc\ud06c \uacf5\uc2dd \ubb38\uc11c \uae30\ubc18 RAG QA \uc2dc\uc2a4\ud15c + LangGraph \ucf54\ub529 \uc5b4\uc2dc\uc2a4\ud134\ud2b8 \uc5d0\uc774\uc804\ud2b8",
+    "id": "0sun2/rag-agent-docs-assistant",
+    "language": "Python",
+    "name": "0sun2/rag-agent-docs-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:47:08Z",
+    "url": "https://github.com/0sun2/rag-agent-docs-assistant"
+  },
+  {
+    "description": "\ubd80\uc11c\ubcc4 \uc778\uc218\uc778\uacc4 \ubb38\uc11c\ub97c RAG\ub85c \ub2f5\ubcc0\ud558\uace0, \uc5c5\ubb34 \ubc1c\ud654\ub97c tool use\ub85c \uad6c\uc870\ud654 \uc800\uc7a5\ud558\ub294 \uc0ac\ub0b4 \ucc57\ubd07 (Bedrock \u00b7 \ud480\uc2a4\ud0dd \u00b7 AWS \ubc30\ud3ec)",
+    "id": "0sun2/handover-agent-chatbot",
+    "language": "JavaScript",
+    "name": "0sun2/handover-agent-chatbot",
+    "stars": 0,
+    "updated_at": "2026-07-20T11:47:06Z",
+    "url": "https://github.com/0sun2/handover-agent-chatbot"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -18,24 +72,6 @@
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
   },
   {
-    "description": "\ubd80\uc11c\ubcc4 \uc778\uc218\uc778\uacc4 \ubb38\uc11c\ub97c RAG\ub85c \ub2f5\ubcc0\ud558\uace0, \uc5c5\ubb34 \ubc1c\ud654\ub97c tool use\ub85c \uad6c\uc870\ud654 \uc800\uc7a5\ud558\ub294 \uc0ac\ub0b4 \ucc57\ubd07 (Bedrock \u00b7 \ud480\uc2a4\ud0dd \u00b7 AWS \ubc30\ud3ec)",
-    "id": "0sun2/handover-agent-chatbot",
-    "language": "JavaScript",
-    "name": "0sun2/handover-agent-chatbot",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:41:56Z",
-    "url": "https://github.com/0sun2/handover-agent-chatbot"
-  },
-  {
-    "description": "LLM \ud504\ub808\uc784\uc6cc\ud06c \uacf5\uc2dd \ubb38\uc11c \uae30\ubc18 RAG QA \uc2dc\uc2a4\ud15c + LangGraph \ucf54\ub529 \uc5b4\uc2dc\uc2a4\ud134\ud2b8 \uc5d0\uc774\uc804\ud2b8",
-    "id": "0sun2/rag-agent-docs-assistant",
-    "language": "Python",
-    "name": "0sun2/rag-agent-docs-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-20T11:41:42Z",
-    "url": "https://github.com/0sun2/rag-agent-docs-assistant"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 341,
-    "updated_at": "2026-07-20T11:38:31Z",
+    "updated_at": "2026-07-20T11:55:17Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "chiam-ck/bss-cli",
     "stars": 1,
-    "updated_at": "2026-07-20T11:22:35Z",
+    "updated_at": "2026-07-20T11:59:50Z",
     "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2886,
-    "updated_at": "2026-07-20T11:35:10Z",
+    "updated_at": "2026-07-20T11:58:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -275,17 +311,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-20T11:02:12Z",
+    "updated_at": "2026-07-20T11:50:59Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T10:31:52Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:10:37Z",
     "url": "https://github.com/GDV-prog/datamind-sql-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:10:36Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-20T08:09:37Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
-    "id": "wusuiling-if/mini-code-agent-langgraph",
-    "language": "Python",
-    "name": "wusuiling-if/mini-code-agent-langgraph",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:03:52Z",
-    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   }
 ]
