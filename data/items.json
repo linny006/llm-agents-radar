@@ -1,11 +1,47 @@
 [
   {
+    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
+    "id": "tkarim45/realtime-decision-intelligence",
+    "language": "Python",
+    "name": "tkarim45/realtime-decision-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:13:36Z",
+    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
+  },
+  {
+    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "id": "9t29zhmwdh-coder/SwiftAgent",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/SwiftAgent",
+    "stars": 0,
+    "updated_at": "2026-07-20T07:10:59Z",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T07:12:49Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-20T07:08:21Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-20T06:57:25Z",
+    "updated_at": "2026-07-20T07:02:29Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -16,33 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T06:38:27Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-20T06:37:34Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "Real-time AIOps decision intelligence on a laptop: durable at-least-once streaming (0 events lost on crash), train=serve",
-    "id": "tkarim45/realtime-decision-intelligence",
-    "language": "Python",
-    "name": "tkarim45/realtime-decision-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:33:59Z",
-    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-20T06:52:10Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -85,7 +94,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28030,
+    "stars": 28032,
     "updated_at": "2026-07-20T06:08:41Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T04:02:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T06:25:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
