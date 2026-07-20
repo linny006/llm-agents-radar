@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 02:30 UTC
+> ⏰ Last updated: 2026-07-20 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 2 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-20 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 3 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28018 | Python | 2026-07-20 | Build and run agents you can see, understand and trust. |
-| 4 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-20 | AI-powered image generation and chat studio |
-| 5 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-20 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
-| 6 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
-| 7 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-20 | Flexible coding agent for the terminal and ACP — cloud providers, ChatGPT/Claude subscriptions. |
-| 8 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 9 | [madhavnair2009-arch/ronin](https://github.com/madhavnair2009-arch/ronin) | 0 | Python | 2026-07-20 | An autonomous sports agent with a personality and a memory — scores, news & takes across the major leagues, that also te |
-| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 11 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 12 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 15 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 16 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-19 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
-| 17 | [Ediebah/clinical-insight-agent](https://github.com/Ediebah/clinical-insight-agent) | 0 | Python | 2026-07-19 | AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse |
+| 1 | [Ediebah/clinical-insight-agent](https://github.com/Ediebah/clinical-insight-agent) | 0 | Python | 2026-07-20 | AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse |
+| 2 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-20 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 5 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-20 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 6 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28018 | Python | 2026-07-20 | Build and run agents you can see, understand and trust. |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-20 | AI-powered image generation and chat studio |
+| 8 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
+| 9 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-20 | Flexible coding agent for the terminal and ACP — cloud providers, ChatGPT/Claude subscriptions. |
+| 10 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 11 | [madhavnair2009-arch/ronin](https://github.com/madhavnair2009-arch/ronin) | 0 | Python | 2026-07-20 | An autonomous sports agent with a personality and a memory — scores, news & takes across the major leagues, that also te |
+| 12 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 13 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 17 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-19 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
 | 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 19 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 56 | TypeScript | 2026-07-19 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
 | 20 | [StephenSook/silent-drift-sentinel](https://github.com/StephenSook/silent-drift-sentinel) | 0 | Python | 2026-07-19 | On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an |

@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 0,
+    "updated_at": "2026-07-20T02:44:56Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-20T02:38:57Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T02:30:45Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -32,17 +59,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T02:14:13Z",
+    "updated_at": "2026-07-20T02:32:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-20T02:11:14Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -99,15 +117,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T00:13:32Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -142,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-07-19T23:06:23Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 0,
-    "updated_at": "2026-07-19T22:55:01Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
