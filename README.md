@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-20 08:30 UTC
+> ⏰ Last updated: 2026-07-20 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,33 +42,33 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
+| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
 | 2 | [juzikuwei/tech-radar-agent](https://github.com/juzikuwei/tech-radar-agent) | 1 | Python | 2026-07-20 | Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis |
-| 3 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-20 | AI-powered image generation and chat studio |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [GDV-prog/pocket-law-ai](https://github.com/GDV-prog/pocket-law-ai) | 1 | Python | 2026-07-20 | RAG-агент по законам РФ: Telegram-бот с обязательной проверяемой цитатой статьи-источника. Командный проект; моя зона —  |
-| 6 | [the-priest/Basilisk](https://github.com/the-priest/Basilisk) | 2 | Python | 2026-07-20 | Autonomous black-box pentester — bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible. |
-| 7 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-07-20 |  |
-| 8 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 306 | Python | 2026-07-20 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 9 | [GDV-prog/find-my-movie](https://github.com/GDV-prog/find-my-movie) | 1 | Python | 2026-07-20 | Диалоговый агент-консультант по фильмам: LangChain + гибридный поиск (e5-large + BM25, RRF) по базе 8142 фильмов. Термин |
-| 10 | [GDV-prog/datamind-sql-agent](https://github.com/GDV-prog/datamind-sql-agent) | 0 | Python | 2026-07-20 | Мультиагентная text-to-SQL аналитика: загрузка CSV, вопрос на естественном языке → LangGraph-агенты генерируют SQL → отв |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-07-20 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
-| 13 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2885 | Python | 2026-07-20 | SRE Agent - CNCF Sandbox Project |
-| 14 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 15 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 0 | Python | 2026-07-20 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
-| 16 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-20 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
-| 17 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-20 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
-| 18 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 19 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-07-20 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 20 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-20 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28038 | Python | 2026-07-20 | Build and run agents you can see, understand and trust. |
-| 22 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 23 | [EMT5320/loomstead](https://github.com/EMT5320/loomstead) | 1 | Python | 2026-07-20 | Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti |
-| 24 | [EMT5320/ContextGuard-Agent-Lab](https://github.com/EMT5320/ContextGuard-Agent-Lab) | 0 | Python | 2026-07-20 | MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs. |
-| 25 | [EMT5320/EMT5320](https://github.com/EMT5320/EMT5320) | 0 | — | 2026-07-20 | Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus |
-| 26 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
-| 27 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13496 | Python | 2026-07-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 3 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2886 | Python | 2026-07-20 | SRE Agent - CNCF Sandbox Project |
+| 4 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 2 | JavaScript | 2026-07-20 | 大模型面试指南 |
+| 5 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-20 | AI-powered image generation and chat studio |
+| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 7 | [GDV-prog/pocket-law-ai](https://github.com/GDV-prog/pocket-law-ai) | 1 | Python | 2026-07-20 | RAG-агент по законам РФ: Telegram-бот с обязательной проверяемой цитатой статьи-источника. Командный проект; моя зона —  |
+| 8 | [the-priest/Basilisk](https://github.com/the-priest/Basilisk) | 2 | Python | 2026-07-20 | Autonomous black-box pentester — bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible. |
+| 9 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-07-20 |  |
+| 10 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 306 | Python | 2026-07-20 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 11 | [GDV-prog/find-my-movie](https://github.com/GDV-prog/find-my-movie) | 1 | Python | 2026-07-20 | Диалоговый агент-консультант по фильмам: LangChain + гибридный поиск (e5-large + BM25, RRF) по базе 8142 фильмов. Термин |
+| 12 | [GDV-prog/datamind-sql-agent](https://github.com/GDV-prog/datamind-sql-agent) | 0 | Python | 2026-07-20 | Мультиагентная text-to-SQL аналитика: загрузка CSV, вопрос на естественном языке → LangGraph-агенты генерируют SQL → отв |
+| 13 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 14 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-07-20 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
+| 15 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 16 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 0 | Python | 2026-07-20 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
+| 17 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 7 | Python | 2026-07-20 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
+| 18 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-20 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
+| 19 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 7 | Rust | 2026-07-20 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 20 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-07-20 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
+| 21 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-20 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 22 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28040 | Python | 2026-07-20 | Build and run agents you can see, understand and trust. |
+| 23 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 24 | [EMT5320/loomstead](https://github.com/EMT5320/loomstead) | 1 | Python | 2026-07-20 | Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti |
+| 25 | [EMT5320/ContextGuard-Agent-Lab](https://github.com/EMT5320/ContextGuard-Agent-Lab) | 0 | Python | 2026-07-20 | MCP-compatible agent strategy benchmark for tool traces, independent grading, and success-cost-context trade-offs. |
+| 26 | [EMT5320/EMT5320](https://github.com/EMT5320/EMT5320) | 0 | — | 2026-07-20 | Evaluation-driven LLM Agent systems engineering portfolio: production agents, eval/post-training, trace/replay, and trus |
+| 27 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13497 | Python | 2026-07-20 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 28 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 47 | Rust | 2026-07-20 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
 | 29 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 30 | [tkarim45/realtime-decision-intelligence](https://github.com/tkarim45/realtime-decision-intelligence) | 0 | Python | 2026-07-20 | Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero  |

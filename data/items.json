@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T08:25:40Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-20T08:45:05Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "juzikuwei/tech-radar-agent",
     "stars": 1,
-    "updated_at": "2026-07-20T08:23:40Z",
+    "updated_at": "2026-07-20T08:32:08Z",
     "url": "https://github.com/juzikuwei/tech-radar-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2886,
+    "updated_at": "2026-07-20T08:25:46Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T08:25:40Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -108,15 +126,6 @@
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2885,
-    "updated_at": "2026-07-20T08:25:46Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -184,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28038,
+    "stars": 28040,
     "updated_at": "2026-07-20T07:51:11Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -225,20 +234,11 @@
     "url": "https://github.com/EMT5320/EMT5320"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T07:44:13Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13496,
+    "stars": 13497,
     "updated_at": "2026-07-20T07:38:06Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
