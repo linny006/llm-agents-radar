@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-20T13:13:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-20T13:08:23Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28048,
+    "updated_at": "2026-07-20T13:06:56Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
+    "id": "KazKozDev/llmflow-search",
+    "language": "Python",
+    "name": "KazKozDev/llmflow-search",
+    "stars": 6,
+    "updated_at": "2026-07-20T13:05:17Z",
+    "url": "https://github.com/KazKozDev/llmflow-search"
+  },
+  {
+    "description": "A security-conscious, local-first LLM agent in Go powered by Ollama & Model Context Protocol (MCP). Features defense-in-",
+    "id": "GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration",
+    "language": "Go",
+    "name": "GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration",
+    "stars": 0,
+    "updated_at": "2026-07-20T12:49:24Z",
+    "url": "https://github.com/GunaTeja777/Local-first-LLM-Agent-with-MCP-Tool-Orchestration"
+  },
+  {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
@@ -144,15 +189,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-20T12:24:03Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -225,24 +261,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-20T11:29:38Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
-    "id": "KazKozDev/llmflow-search",
-    "language": "Python",
-    "name": "KazKozDev/llmflow-search",
-    "stars": 6,
-    "updated_at": "2026-07-20T11:17:35Z",
-    "url": "https://github.com/KazKozDev/llmflow-search"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2886,
-    "updated_at": "2026-07-20T11:58:26Z",
+    "updated_at": "2026-07-20T13:01:01Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/aerkn1/jobhunt"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28048,
-    "updated_at": "2026-07-20T08:51:49Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
     "id": "fightheyyy/barena",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T08:47:21Z",
     "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
-    "id": "juzikuwei/tech-radar-agent",
-    "language": "Python",
-    "name": "juzikuwei/tech-radar-agent",
-    "stars": 1,
-    "updated_at": "2026-07-20T08:32:08Z",
-    "url": "https://github.com/juzikuwei/tech-radar-agent"
   }
 ]
