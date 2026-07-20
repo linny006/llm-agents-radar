@@ -1,11 +1,65 @@
 [
   {
+    "description": "A Generative Transformer Chemical Language Model + LLM Agent as an Expert for Quantum Chemistry and Drug Discovery",
+    "id": "rangsimanketkaew/TransforMol",
+    "language": "Jupyter Notebook",
+    "name": "rangsimanketkaew/TransforMol",
+    "stars": 3,
+    "updated_at": "2026-07-20T13:29:40Z",
+    "url": "https://github.com/rangsimanketkaew/TransforMol"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "HTML",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:29:15Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-07-20T13:27:44Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T13:25:32Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28049,
+    "updated_at": "2026-07-20T13:21:28Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 482,
+    "updated_at": "2026-07-20T13:15:20Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-20T13:13:15Z",
+    "updated_at": "2026-07-20T13:27:43Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T13:08:23Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28048,
-    "updated_at": "2026-07-20T13:06:56Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Local, evidence-first multi-agent Deep Research on Ollama and SearXNG, with a citation-validated report and a SQLite evi",
@@ -68,7 +113,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6649,
-    "updated_at": "2026-07-20T12:35:15Z",
+    "updated_at": "2026-07-20T13:29:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-20T12:28:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T12:23:38Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -328,7 +364,7 @@
     "id": "tk-fantasy/fantasy",
     "language": "Python",
     "name": "tk-fantasy/fantasy",
-    "stars": 10,
+    "stars": 11,
     "updated_at": "2026-07-20T10:51:30Z",
     "url": "https://github.com/tk-fantasy/fantasy"
   },
@@ -412,41 +448,5 @@
     "stars": 13,
     "updated_at": "2026-07-20T09:50:52Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:16:17Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "Autonomous black-box pentester \u2014 bring-your-own-model, runs local. 81/113 on OWASP Juice Shop, reproducible.",
-    "id": "the-priest/Basilisk",
-    "language": "Python",
-    "name": "the-priest/Basilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T09:09:22Z",
-    "url": "https://github.com/the-priest/Basilisk"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-20T09:03:01Z",
-    "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
-    "id": "fightheyyy/barena",
-    "language": "TypeScript",
-    "name": "fightheyyy/barena",
-    "stars": 0,
-    "updated_at": "2026-07-20T08:47:21Z",
-    "url": "https://github.com/fightheyyy/barena"
   }
 ]
