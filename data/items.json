@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:26:20Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:18:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-20T21:17:27Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-20T21:16:10Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
     "id": "ccc909/GradientQL",
     "language": "Python",
     "name": "ccc909/GradientQL",
     "stars": 0,
-    "updated_at": "2026-07-20T21:14:55Z",
+    "updated_at": "2026-07-20T21:15:20Z",
     "url": "https://github.com/ccc909/GradientQL"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:41:46Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Comparative Guide Assistant",
     "id": "OLAMIDE100/Capstone-Project-LLM-ZoomCamp",
     "language": "Jupyter Notebook",
@@ -106,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-07-20T21:12:48Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-20T20:27:21Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -153,15 +171,6 @@
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-20T21:04:45Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -187,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T20:00:37Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-20T20:00:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
