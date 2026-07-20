@@ -1,5 +1,23 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4361,
+    "updated_at": "2026-07-20T13:43:00Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-20T13:35:33Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "A Generative Transformer Chemical Language Model + LLM Agent as an Expert for Quantum Chemistry and Drug Discovery",
     "id": "rangsimanketkaew/TransforMol",
     "language": "Jupyter Notebook",
@@ -14,7 +32,7 @@
     "language": "HTML",
     "name": "hoshiyomiX/stellar-trails",
     "stars": 0,
-    "updated_at": "2026-07-20T13:29:15Z",
+    "updated_at": "2026-07-20T13:43:57Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "80x24/nuanua",
     "stars": 0,
-    "updated_at": "2026-07-20T13:27:44Z",
+    "updated_at": "2026-07-20T13:44:56Z",
     "url": "https://github.com/80x24/nuanua"
   },
   {
@@ -40,7 +58,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28049,
+    "stars": 28050,
     "updated_at": "2026-07-20T13:21:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -115,15 +133,6 @@
     "stars": 6649,
     "updated_at": "2026-07-20T13:29:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-20T12:32:22Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 11,
-    "updated_at": "2026-07-20T11:43:32Z",
+    "updated_at": "2026-07-20T13:40:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 18,
     "updated_at": "2026-07-20T10:17:13Z",
     "url": "https://github.com/1001WillsStudio/AuroraCoder"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4361,
-    "updated_at": "2026-07-20T12:39:47Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
