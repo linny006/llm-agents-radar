@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-21T22:41:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-07-21T22:42:24Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T22:28:08Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:50:16Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-21T22:07:03Z",
+    "updated_at": "2026-07-21T22:38:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-07-21T20:43:46Z",
+    "updated_at": "2026-07-21T22:41:43Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -256,7 +265,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 361,
+    "stars": 362,
     "updated_at": "2026-07-21T17:16:13Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -342,15 +351,6 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-07-21T16:56:48Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T15:34:09Z",
+    "updated_at": "2026-07-21T22:38:58Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
