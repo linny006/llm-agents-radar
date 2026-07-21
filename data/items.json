@@ -1,5 +1,23 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:28:20Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T07:24:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 11,
     "updated_at": "2026-07-21T07:02:34Z",
     "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-21T07:12:39Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "wusuiling-if/mini-code-agent-langgraph",
     "stars": 0,
-    "updated_at": "2026-07-21T05:52:54Z",
+    "updated_at": "2026-07-21T07:25:38Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
@@ -252,15 +261,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-21T03:57:21Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Free stock research toolkit for AI agents: swing-trade, growth-catalyst, and long-term quality investor skills backed by",
     "id": "bmtrnavsky/nanobot-stock-trader",
     "language": "Python",
@@ -337,7 +337,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13517,
+    "stars": 13516,
     "updated_at": "2026-07-21T03:15:22Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2891,
-    "updated_at": "2026-07-21T07:10:56Z",
+    "updated_at": "2026-07-21T07:23:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
