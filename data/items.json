@@ -1,5 +1,14 @@
 [
   {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T11:36:46Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -176,7 +185,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8865,
-    "updated_at": "2026-07-21T09:52:13Z",
+    "updated_at": "2026-07-21T11:32:03Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -346,7 +355,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28103,
+    "stars": 28105,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-21T05:09:48Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 47,
-    "updated_at": "2026-07-21T05:04:13Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
