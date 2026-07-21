@@ -1,5 +1,41 @@
 [
   {
+    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
+    "id": "wusuiling-if/mini-code-agent-langgraph",
+    "language": "Python",
+    "name": "wusuiling-if/mini-code-agent-langgraph",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:44:43Z",
+    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-21T05:43:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T05:34:47Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/sw-copilot",
+    "language": "TypeScript",
+    "name": "raylanlin/sw-copilot",
+    "stars": 1,
+    "updated_at": "2026-07-21T05:34:35Z",
+    "url": "https://github.com/raylanlin/sw-copilot"
+  },
+  {
     "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
     "id": "KazKozDev/llmflow-search",
     "language": "Python",
@@ -166,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28076,
+    "stars": 28077,
     "updated_at": "2026-07-21T03:29:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -216,15 +252,6 @@
     "url": "https://github.com/lalalaplace/financial-report-qa-agent"
   },
   {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 11,
-    "updated_at": "2026-07-21T03:23:56Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -238,18 +265,9 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13514,
+    "stars": 13515,
     "updated_at": "2026-07-21T03:15:22Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/sw-copilot",
-    "language": "TypeScript",
-    "name": "raylanlin/sw-copilot",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:58:53Z",
-    "url": "https://github.com/raylanlin/sw-copilot"
   },
   {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
@@ -313,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T04:52:00Z",
     "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:05:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -439,14 +448,5 @@
     "stars": 101,
     "updated_at": "2026-07-20T22:54:12Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-20T22:44:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
