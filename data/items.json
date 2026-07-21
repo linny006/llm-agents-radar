@@ -1,5 +1,41 @@
 [
   {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:28:30Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 3,
+    "updated_at": "2026-07-21T01:26:47Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:20:48Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
+    "id": "wan9yu/cli-agent-runner",
+    "language": "Python",
+    "name": "wan9yu/cli-agent-runner",
+    "stars": 3,
+    "updated_at": "2026-07-21T01:17:20Z",
+    "url": "https://github.com/wan9yu/cli-agent-runner"
+  },
+  {
     "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
     "id": "ancepsinfans/work-assistant",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:03:04Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T00:37:08Z",
     "url": "https://github.com/ItzelXu/text2sql-agent"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 3,
-    "updated_at": "2026-07-21T00:26:22Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -130,7 +148,7 @@
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
-    "stars": 624,
+    "stars": 625,
     "updated_at": "2026-07-20T23:50:31Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-20T22:20:08Z",
+    "updated_at": "2026-07-21T01:21:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2888,
-    "updated_at": "2026-07-20T21:52:14Z",
+    "updated_at": "2026-07-21T01:23:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 182,
     "updated_at": "2026-07-20T18:21:22Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-07-20T18:05:11Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Offensive-security focused fork of HERMES-AGENT for authorized bug bounty, pentest, recon, exploit chaining, and report-",
-    "id": "EntroVyx/hermes-agent-offsec",
-    "language": "Python",
-    "name": "EntroVyx/hermes-agent-offsec",
-    "stars": 0,
-    "updated_at": "2026-07-20T18:02:36Z",
-    "url": "https://github.com/EntroVyx/hermes-agent-offsec"
   }
 ]
