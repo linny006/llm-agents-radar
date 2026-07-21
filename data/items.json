@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6656,
-    "updated_at": "2026-07-21T19:14:22Z",
+    "updated_at": "2026-07-21T19:26:56Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-21T19:27:41Z",
+    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -14,7 +23,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 4,
-    "updated_at": "2026-07-21T19:14:00Z",
+    "updated_at": "2026-07-21T19:26:23Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "bitranox/vnc-remote-control",
     "stars": 0,
-    "updated_at": "2026-07-21T19:04:23Z",
+    "updated_at": "2026-07-21T19:16:13Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T17:58:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 10,
-    "updated_at": "2026-07-21T19:15:05Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
