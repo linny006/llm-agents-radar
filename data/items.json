@@ -279,6 +279,15 @@
     "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2889,
+    "updated_at": "2026-07-21T01:23:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
     "id": "wan9yu/cli-agent-runner",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T21:00:08Z",
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6655,
-    "updated_at": "2026-07-20T20:50:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]

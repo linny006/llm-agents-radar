@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 04:29 UTC
+> ⏰ Last updated: 2026-07-21 04:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -73,25 +73,25 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [Fragmentaim/lab-resource-reservation-platform](https://github.com/Fragmentaim/lab-resource-reservation-platform) | 1 | Java | 2026-07-21 | Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ |
 | 30 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-21 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 31 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 3 | JavaScript | 2026-07-21 | 大模型面试指南 |
-| 32 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 3 | Python | 2026-07-21 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
-| 33 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-21 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 34 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-21 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 35 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
-| 36 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 37 | [ItzelXu/text2sql-agent](https://github.com/ItzelXu/text2sql-agent) | 0 | Jupyter Notebook | 2026-07-21 | LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery — two-controller architecture, secur |
-| 38 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 39 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 40 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-20 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
-| 41 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-20 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
-| 42 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-20 | Open-Source Intelligent Command Layer |
-| 43 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
-| 44 | [gptme/gptme](https://github.com/gptme/gptme) | 4361 | Python | 2026-07-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 45 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-20 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 46 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-21 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 47 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-20 | Flexible coding agent for the terminal and ACP — cloud providers, ChatGPT/Claude subscriptions. |
-| 48 | [ccc909/GradientQL](https://github.com/ccc909/GradientQL) | 0 | Python | 2026-07-20 | Autonomous, AI powered GraphQL vulnerability scanner. |
-| 49 | [StephenSook/silent-drift-sentinel](https://github.com/StephenSook/silent-drift-sentinel) | 0 | Python | 2026-07-20 | On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an |
-| 50 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6655 | Python | 2026-07-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 32 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2889 | Python | 2026-07-21 | SRE Agent - CNCF Sandbox Project |
+| 33 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 3 | Python | 2026-07-21 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
+| 34 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-21 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 35 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-21 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 36 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
+| 37 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 38 | [ItzelXu/text2sql-agent](https://github.com/ItzelXu/text2sql-agent) | 0 | Jupyter Notebook | 2026-07-21 | LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery — two-controller architecture, secur |
+| 39 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 40 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 41 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-20 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
+| 42 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-20 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
+| 43 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-20 | Open-Source Intelligent Command Layer |
+| 44 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-20 | A productive AI coworker that learns, self-improves, and ships work. |
+| 45 | [gptme/gptme](https://github.com/gptme/gptme) | 4361 | Python | 2026-07-21 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 46 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-20 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 47 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-21 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 48 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-20 | Flexible coding agent for the terminal and ACP — cloud providers, ChatGPT/Claude subscriptions. |
+| 49 | [ccc909/GradientQL](https://github.com/ccc909/GradientQL) | 0 | Python | 2026-07-20 | Autonomous, AI powered GraphQL vulnerability scanner. |
+| 50 | [StephenSook/silent-drift-sentinel](https://github.com/StephenSook/silent-drift-sentinel) | 0 | Python | 2026-07-20 | On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an |
 <!-- TRACKER_TABLE_END -->
 
 ---
