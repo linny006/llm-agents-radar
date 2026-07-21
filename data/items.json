@@ -1,5 +1,32 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:12:01Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T02:08:55Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:05:35Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T01:39:46Z",
+    "updated_at": "2026-07-21T02:12:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -59,17 +86,8 @@
     "language": "Rust",
     "name": "phenomenoner/agent-harness-core",
     "stars": 0,
-    "updated_at": "2026-07-21T01:30:27Z",
+    "updated_at": "2026-07-21T02:14:47Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:20:48Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Keep agent CLIs running 7\u00d724 \u2014 supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure",
@@ -171,15 +189,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-20T23:52:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-21T01:37:50Z",
+    "updated_at": "2026-07-21T02:09:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -391,7 +400,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2351,
+    "stars": 2352,
     "updated_at": "2026-07-20T19:28:43Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-20T18:28:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2888,
-    "updated_at": "2026-07-21T01:23:44Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
