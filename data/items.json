@@ -1,5 +1,14 @@
 [
   {
+    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
+    "id": "KazKozDev/llmflow-search",
+    "language": "Python",
+    "name": "KazKozDev/llmflow-search",
+    "stars": 6,
+    "updated_at": "2026-07-21T13:00:37Z",
+    "url": "https://github.com/KazKozDev/llmflow-search"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 791,
-    "updated_at": "2026-07-21T13:00:27Z",
+    "updated_at": "2026-07-21T13:00:50Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 54,
-    "updated_at": "2026-07-21T12:45:16Z",
+    "updated_at": "2026-07-21T13:12:14Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
@@ -130,7 +139,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8866,
+    "stars": 8867,
     "updated_at": "2026-07-21T11:32:03Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -196,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T10:49:54Z",
     "url": "https://github.com/sultanfariz/gonostic"
-  },
-  {
-    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
-    "id": "KazKozDev/llmflow-search",
-    "language": "Python",
-    "name": "KazKozDev/llmflow-search",
-    "stars": 6,
-    "updated_at": "2026-07-21T10:49:54Z",
-    "url": "https://github.com/KazKozDev/llmflow-search"
   },
   {
     "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
