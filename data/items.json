@@ -1,5 +1,32 @@
 [
   {
+    "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
+    "id": "ancepsinfans/work-assistant",
+    "language": "Python",
+    "name": "ancepsinfans/work-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:13:44Z",
+    "url": "https://github.com/ancepsinfans/work-assistant"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-07-21T01:08:29Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:07:17Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T01:03:40Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
-    "id": "ancepsinfans/work-assistant",
-    "language": "Python",
-    "name": "ancepsinfans/work-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:03:27Z",
-    "url": "https://github.com/ancepsinfans/work-assistant"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T00:37:08Z",
     "url": "https://github.com/ItzelXu/text2sql-agent"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:36:16Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -133,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-07-20T23:43:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-07-20T23:32:40Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -355,7 +355,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2350,
+    "stars": 2351,
     "updated_at": "2026-07-20T19:28:43Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },

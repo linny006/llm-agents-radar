@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 01:06 UTC
+> ⏰ Last updated: 2026-07-21 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [ancepsinfans/work-assistant](https://github.com/ancepsinfans/work-assistant) | 0 | Python | 2026-07-21 | Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends. |
-| 3 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-21 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 4 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
-| 5 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 6 | [ItzelXu/text2sql-agent](https://github.com/ItzelXu/text2sql-agent) | 0 | Jupyter Notebook | 2026-07-21 | LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery — two-controller architecture, secur |
-| 7 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-21 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 8 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 3 | JavaScript | 2026-07-21 | 大模型面试指南 |
-| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 624 | TypeScript | 2026-07-20 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 15 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 16 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-20 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 1 | [ancepsinfans/work-assistant](https://github.com/ancepsinfans/work-assistant) | 0 | Python | 2026-07-21 | Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends. |
+| 2 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-21 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 3 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-21 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-21 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 6 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-07-21 | Research framework for adaptive, purposeful agents under uncertainty |
+| 7 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 8 | [ItzelXu/text2sql-agent](https://github.com/ItzelXu/text2sql-agent) | 0 | Jupyter Notebook | 2026-07-21 | LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery — two-controller architecture, secur |
+| 9 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 3 | JavaScript | 2026-07-21 | 大模型面试指南 |
+| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 13 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 624 | TypeScript | 2026-07-20 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 16 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 17 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-20 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
 | 18 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-20 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
 | 19 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-20 | Open-Source Intelligent Command Layer |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [MikhailXiaomaikou/Standard-Astro](https://github.com/MikhailXiaomaikou/Standard-Astro) | 4 | Python | 2026-07-20 | AI research workbench for observational cosmology that provably refuses to fabricate — every number traces to a register |
 | 38 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 2 | Kotlin | 2026-07-20 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
 | 39 | [laurykb/AI_for_geopolitics](https://github.com/laurykb/AI_for_geopolitics) | 1 | Python | 2026-07-20 | Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced |
-| 40 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2350 | TypeScript | 2026-07-20 | An open-sourced research agent system deeply rooted in your Zotero library. |
+| 40 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2351 | TypeScript | 2026-07-20 | An open-sourced research agent system deeply rooted in your Zotero library. |
 | 41 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 387 | Go | 2026-07-20 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 42 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 1 | TypeScript | 2026-07-20 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
 | 43 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-07-20 | Easy-to-use, high-quality threat modeling agent skills. |
