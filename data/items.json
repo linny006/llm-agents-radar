@@ -1,5 +1,50 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:38:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "Java",
+    "name": "muthuishere/toolnexus",
+    "stars": 3,
+    "updated_at": "2026-07-21T15:34:23Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:34:09Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
+    "id": "fangzheng698-lang/agent-prod",
+    "language": "Python",
+    "name": "fangzheng698-lang/agent-prod",
+    "stars": 2,
+    "updated_at": "2026-07-21T15:33:51Z",
+    "url": "https://github.com/fangzheng698-lang/agent-prod"
+  },
+  {
+    "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
+    "id": "xiaojiune/TravelPal",
+    "language": "Python",
+    "name": "xiaojiune/TravelPal",
+    "stars": 0,
+    "updated_at": "2026-07-21T15:29:53Z",
+    "url": "https://github.com/xiaojiune/TravelPal"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:29:44Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 54,
-    "updated_at": "2026-07-21T14:46:33Z",
+    "updated_at": "2026-07-21T15:42:33Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-21T14:45:00Z",
+    "updated_at": "2026-07-21T15:43:58Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-21T14:39:03Z",
+    "updated_at": "2026-07-21T15:42:40Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 10,
-    "updated_at": "2026-07-21T13:52:38Z",
+    "updated_at": "2026-07-21T15:43:59Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T13:26:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-21T13:25:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -293,7 +320,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-21T15:28:20Z",
+    "updated_at": "2026-07-21T15:37:51Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:40:25Z",
     "url": "https://github.com/ChrissyYu/mini-film-agent"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:41:55Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-21T08:36:56Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:32:50Z",
-    "url": "https://github.com/aerkn1/jobhunt"
   }
 ]
