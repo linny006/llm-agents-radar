@@ -1,12 +1,30 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T09:56:13Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "\u2014",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T09:44:17Z",
+    "updated_at": "2026-07-21T09:58:49Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8864,
+    "updated_at": "2026-07-21T09:52:13Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-21T09:34:12Z",
+    "updated_at": "2026-07-21T09:45:25Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -76,7 +94,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2892,
+    "stars": 2893,
     "updated_at": "2026-07-21T08:42:19Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -196,15 +214,6 @@
     "stars": 12,
     "updated_at": "2026-07-21T08:00:58Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-21T09:41:39Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "An open source AI roleplay agent harness. One click builds an autonomous character agent that creates with you. Websites",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T03:25:01Z",
     "url": "https://github.com/paopao-13/pecs-multi-agent"
-  },
-  {
-    "description": "\u8d22\u62a5 PDF \u6570\u636e\u7ed3\u6784\u5316\u4e0e LangGraph \u53d7\u63a7\u95ee\u6570 Agent",
-    "id": "lalalaplace/financial-report-qa-agent",
-    "language": "Python",
-    "name": "lalalaplace/financial-report-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T03:24:32Z",
-    "url": "https://github.com/lalalaplace/financial-report-qa-agent"
   }
 ]
