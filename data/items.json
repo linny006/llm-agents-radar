@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 1,
+    "updated_at": "2026-07-21T09:26:57Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T09:18:27Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "\u2014",
@@ -36,15 +54,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 11,
-    "updated_at": "2026-07-21T08:57:26Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -52,6 +61,15 @@
     "stars": 19,
     "updated_at": "2026-07-21T08:55:20Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2892,
+    "updated_at": "2026-07-21T08:42:19Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:30:11Z",
     "url": "https://github.com/nesirli/metascholar"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2891,
-    "updated_at": "2026-07-21T08:42:19Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -157,7 +166,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5577,
+    "stars": 5579,
     "updated_at": "2026-07-21T08:06:37Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -211,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28092,
+    "stars": 28095,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -247,7 +256,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 354,
+    "stars": 355,
     "updated_at": "2026-07-21T06:43:54Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T06:22:07Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 1,
-    "updated_at": "2026-07-21T05:56:47Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
