@@ -1,10 +1,19 @@
 [
   {
+    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
+    "id": "fightheyyy/barena",
+    "language": "TypeScript",
+    "name": "fightheyyy/barena",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:30:33Z",
+    "url": "https://github.com/fightheyyy/barena"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28070,
+    "stars": 28072,
     "updated_at": "2026-07-21T03:29:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -85,7 +94,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13515,
+    "stars": 13514,
     "updated_at": "2026-07-21T03:15:22Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-21T02:50:45Z",
+    "updated_at": "2026-07-21T03:41:43Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 297,
     "updated_at": "2026-07-20T20:31:55Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 791,
-    "updated_at": "2026-07-20T20:23:30Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
