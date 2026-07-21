@@ -1,5 +1,23 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-21T16:29:33Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-21T16:24:26Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -22,7 +40,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6657,
+    "stars": 6656,
     "updated_at": "2026-07-21T16:14:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-21T16:09:08Z",
+    "updated_at": "2026-07-21T16:29:55Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -72,21 +90,12 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-21T15:48:53Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
     "id": "MikhailXiaomaikou/Standard-Astro",
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-21T16:07:44Z",
+    "updated_at": "2026-07-21T16:25:21Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-21T16:15:51Z",
+    "updated_at": "2026-07-21T16:29:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 626,
     "updated_at": "2026-07-21T14:40:49Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 10,
-    "updated_at": "2026-07-21T16:10:50Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
