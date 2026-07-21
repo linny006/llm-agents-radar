@@ -1,5 +1,14 @@
 [
   {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-21T00:51:32Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-20T17:45:41Z",
     "url": "https://github.com/KazKozDev/llmflow-search"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:23:50Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
   }
 ]
