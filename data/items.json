@@ -1,5 +1,23 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-21T23:08:27Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-21T23:02:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
     "id": "hec-ovi/censurado-web-brain",
     "language": "Python",
@@ -135,15 +153,6 @@
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-21T21:17:05Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -175,7 +184,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6659,
+    "stars": 6660,
     "updated_at": "2026-07-21T20:31:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -292,7 +301,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 362,
+    "stars": 363,
     "updated_at": "2026-07-21T17:16:13Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -394,15 +403,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T17:05:19Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-21T22:51:33Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "Production AI agent quality gate and risk control framework for LLMOps, agent evaluation, regression detection, gray rel",
