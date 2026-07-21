@@ -1,5 +1,32 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-21T16:57:55Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 626,
+    "updated_at": "2026-07-21T16:49:05Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 791,
+    "updated_at": "2026-07-21T16:46:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T16:32:38Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 10,
-    "updated_at": "2026-07-21T16:29:33Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-21T16:25:21Z",
+    "updated_at": "2026-07-21T16:56:48Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Java",
     "name": "muthuishere/toolnexus",
     "stars": 3,
-    "updated_at": "2026-07-21T16:04:51Z",
+    "updated_at": "2026-07-21T16:45:55Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:29:53Z",
     "url": "https://github.com/xiaojiune/TravelPal"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 791,
-    "updated_at": "2026-07-21T16:44:51Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -247,7 +256,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2896,
+    "stars": 2897,
     "updated_at": "2026-07-21T14:24:32Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -277,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T14:06:30Z",
     "url": "https://github.com/Madapexai/ai-agent-team-book"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 626,
-    "updated_at": "2026-07-21T14:40:49Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
@@ -374,7 +374,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8867,
-    "updated_at": "2026-07-21T13:35:43Z",
+    "updated_at": "2026-07-21T16:46:49Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
