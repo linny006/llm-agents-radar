@@ -1,5 +1,32 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 3,
+    "updated_at": "2026-07-21T00:39:10Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery \u2014 two-controller architecture, secur",
+    "id": "ItzelXu/text2sql-agent",
+    "language": "Jupyter Notebook",
+    "name": "ItzelXu/text2sql-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T00:37:08Z",
+    "url": "https://github.com/ItzelXu/text2sql-agent"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-07-21T00:36:16Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
@@ -54,15 +81,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-07-20T23:55:56Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -115,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-20T23:30:22Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-20T23:53:27Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-20T17:23:50Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Reachability-aware CVE prioritizer: tells you which vulnerabilities are actually reachable from your code, and drafts th",
-    "id": "1816x/Vulnerability-Triage-Agent",
-    "language": "Python",
-    "name": "1816x/Vulnerability-Triage-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-20T17:21:51Z",
-    "url": "https://github.com/1816x/Vulnerability-Triage-Agent"
   }
 ]
