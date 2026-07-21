@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T09:36:07Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -9,21 +18,12 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 11,
-    "updated_at": "2026-07-21T09:18:27Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "\u2014",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T09:12:12Z",
+    "updated_at": "2026-07-21T09:37:11Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-21T08:55:20Z",
+    "updated_at": "2026-07-21T09:34:12Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T08:49:56Z",
+    "updated_at": "2026-07-21T09:34:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -220,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28095,
+    "stars": 28098,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
