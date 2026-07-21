@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28079,
+    "updated_at": "2026-07-21T07:11:54Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:10:29Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -32,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T06:59:09Z",
+    "updated_at": "2026-07-21T07:12:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/fightheyyy/barena"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28079,
-    "updated_at": "2026-07-21T03:29:20Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -333,15 +342,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:56:25Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "heichaowo/amem",
     "language": "TypeScript",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5546,
-    "updated_at": "2026-07-21T02:51:08Z",
+    "updated_at": "2026-07-21T07:09:40Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2891,
-    "updated_at": "2026-07-21T01:23:44Z",
+    "updated_at": "2026-07-21T07:10:56Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
