@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open source AI roleplay agent harness. One click builds an autonomous character agent that creates with you. Websites",
+    "id": "OpenChara/OpenCharaAgent",
+    "language": "Python",
+    "name": "OpenChara/OpenCharaAgent",
+    "stars": 3,
+    "updated_at": "2026-07-21T07:35:56Z",
+    "url": "https://github.com/OpenChara/OpenCharaAgent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-21T07:35:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-21T07:35:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "SamurAIGPT/awesome-openclaw",
+    "language": "\u2014",
+    "name": "SamurAIGPT/awesome-openclaw",
+    "stars": 976,
+    "updated_at": "2026-07-21T07:38:22Z",
+    "url": "https://github.com/SamurAIGPT/awesome-openclaw"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T07:24:14Z",
+    "updated_at": "2026-07-21T07:44:31Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:18:49Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -328,7 +355,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2355,
+    "stars": 2356,
     "updated_at": "2026-07-21T03:19:44Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T01:07:17Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-21T00:51:32Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 3,
-    "updated_at": "2026-07-21T00:39:10Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "LLM agent that answers fashion e-commerce BI + trend questions over Google BigQuery \u2014 two-controller architecture, secur",
-    "id": "ItzelXu/text2sql-agent",
-    "language": "Jupyter Notebook",
-    "name": "ItzelXu/text2sql-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T00:37:08Z",
-    "url": "https://github.com/ItzelXu/text2sql-agent"
   }
 ]
