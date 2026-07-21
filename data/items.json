@@ -1,11 +1,20 @@
 [
   {
+    "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
+    "id": "matthew-fitzgerald123/llm-agent",
+    "language": "Python",
+    "name": "matthew-fitzgerald123/llm-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T22:03:08Z",
+    "url": "https://github.com/matthew-fitzgerald123/llm-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-21T21:58:36Z",
+    "updated_at": "2026-07-21T22:01:11Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-21T21:51:49Z",
+    "updated_at": "2026-07-21T22:06:16Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 4364,
     "updated_at": "2026-07-21T21:52:02Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
-    "id": "matthew-fitzgerald123/llm-agent",
-    "language": "Python",
-    "name": "matthew-fitzgerald123/llm-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:45:15Z",
-    "url": "https://github.com/matthew-fitzgerald123/llm-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-21T21:23:52Z",
+    "updated_at": "2026-07-21T22:07:03Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -256,7 +256,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 360,
+    "stars": 361,
     "updated_at": "2026-07-21T17:16:13Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
