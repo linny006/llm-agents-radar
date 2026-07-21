@@ -5,8 +5,44 @@
     "language": "\u2014",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T10:14:12Z",
+    "updated_at": "2026-07-21T10:28:36Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T10:26:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
+    "id": "KazKozDev/llmflow-search",
+    "language": "Python",
+    "name": "KazKozDev/llmflow-search",
+    "stars": 6,
+    "updated_at": "2026-07-21T10:26:25Z",
+    "url": "https://github.com/KazKozDev/llmflow-search"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-21T10:30:03Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
+    "id": "fightheyyy/barena",
+    "language": "TypeScript",
+    "name": "fightheyyy/barena",
+    "stars": 0,
+    "updated_at": "2026-07-21T10:19:33Z",
+    "url": "https://github.com/fightheyyy/barena"
   },
   {
     "description": "Minimal, production-shaped LLM agent with tool calling \u2014 multi-step reasoning, pluggable tools, safe execution (OpenAI /",
@@ -45,15 +81,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-21T10:13:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T09:26:57Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-21T09:09:44Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Official Python SDK for FoxNose",
@@ -266,7 +284,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 1,
-    "updated_at": "2026-07-21T07:35:52Z",
+    "updated_at": "2026-07-21T10:29:35Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
-    "id": "KazKozDev/llmflow-search",
-    "language": "Python",
-    "name": "KazKozDev/llmflow-search",
-    "stars": 6,
-    "updated_at": "2026-07-21T05:30:15Z",
-    "url": "https://github.com/KazKozDev/llmflow-search"
-  },
-  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T03:54:51Z",
     "url": "https://github.com/bmtrnavsky/nanobot-stock-trader"
-  },
-  {
-    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
-    "id": "phenomenoner/agent-harness-core",
-    "language": "Rust",
-    "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
-    "updated_at": "2026-07-21T06:13:15Z",
-    "url": "https://github.com/phenomenoner/agent-harness-core"
   }
 ]
