@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6656,
+    "updated_at": "2026-07-21T18:28:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 14,
+    "updated_at": "2026-07-21T18:20:50Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -25,15 +43,6 @@
     "stars": 10,
     "updated_at": "2026-07-21T17:55:52Z",
     "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 14,
-    "updated_at": "2026-07-21T17:51:45Z",
-    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -70,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T17:42:56Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6656,
-    "updated_at": "2026-07-21T17:38:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5544,
-    "updated_at": "2026-07-21T18:10:51Z",
+    "updated_at": "2026-07-21T18:16:21Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
