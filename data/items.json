@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T08:57:26Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-21T08:55:20Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
     "id": "bitranox/vnc-remote-control",
     "language": "Python",
@@ -72,15 +90,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 11,
-    "updated_at": "2026-07-21T08:24:23Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
     "description": "Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ",
     "id": "Fragmentaim/lab-resource-reservation-platform",
     "language": "Java",
@@ -95,7 +104,7 @@
     "language": "\u2014",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T08:39:12Z",
+    "updated_at": "2026-07-21T08:59:28Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -144,21 +153,12 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-21T08:43:19Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T08:33:45Z",
+    "updated_at": "2026-07-21T08:49:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -184,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28089,
+    "stars": 28091,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -436,7 +436,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2356,
+    "stars": 2357,
     "updated_at": "2026-07-21T03:19:44Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
