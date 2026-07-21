@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 11,
+    "updated_at": "2026-07-21T02:40:49Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:40:00Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/sw-copilot",
+    "language": "TypeScript",
+    "name": "raylanlin/sw-copilot",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:39:34Z",
+    "url": "https://github.com/raylanlin/sw-copilot"
+  },
+  {
+    "description": "Personal chief-of-staff agent with absence-sweep synthesis and Obsidian output. Integrates with TaskFlow (github.com/anc",
+    "id": "ancepsinfans/work-assistant",
+    "language": "Python",
+    "name": "ancepsinfans/work-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-21T02:39:23Z",
+    "url": "https://github.com/ancepsinfans/work-assistant"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "heichaowo/amem",
+    "language": "TypeScript",
+    "name": "heichaowo/amem",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:39:44Z",
+    "url": "https://github.com/heichaowo/amem"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-21T02:39:11Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
+    "id": "XieWxx/maxhub-api-skills",
+    "language": "\u2014",
+    "name": "XieWxx/maxhub-api-skills",
+    "stars": 28,
+    "updated_at": "2026-07-21T02:38:11Z",
+    "url": "https://github.com/XieWxx/maxhub-api-skills"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:24:04Z",
     "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 11,
-    "updated_at": "2026-07-21T02:23:25Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -45,15 +99,6 @@
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:12:01Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -72,15 +117,6 @@
     "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:46:27Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -88,15 +124,6 @@
     "stars": 47,
     "updated_at": "2026-07-21T01:44:05Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
-    "id": "ancepsinfans/work-assistant",
-    "language": "Python",
-    "name": "ancepsinfans/work-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:42:07Z",
-    "url": "https://github.com/ancepsinfans/work-assistant"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -421,32 +448,5 @@
     "stars": 2353,
     "updated_at": "2026-07-20T19:28:43Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 387,
-    "updated_at": "2026-07-20T18:58:19Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 1,
-    "updated_at": "2026-07-20T19:46:57Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Easy-to-use, high-quality threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-20T18:40:22Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
