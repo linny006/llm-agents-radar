@@ -1,12 +1,57 @@
 [
   {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 46,
+    "updated_at": "2026-07-21T01:44:05Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
+    "id": "ancepsinfans/work-assistant",
+    "language": "Python",
+    "name": "ancepsinfans/work-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:42:07Z",
+    "url": "https://github.com/ancepsinfans/work-assistant"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T01:39:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-07-21T01:38:23Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "chiam-ck/bss-cli",
     "language": "Python",
     "name": "chiam-ck/bss-cli",
     "stars": 1,
-    "updated_at": "2026-07-21T01:28:30Z",
+    "updated_at": "2026-07-21T01:36:46Z",
     "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-21T01:30:27Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T01:17:20Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends.",
-    "id": "ancepsinfans/work-assistant",
-    "language": "Python",
-    "name": "ancepsinfans/work-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T01:13:44Z",
-    "url": "https://github.com/ancepsinfans/work-assistant"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -153,15 +189,6 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-20T23:43:08Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4361,
-    "updated_at": "2026-07-21T01:21:16Z",
+    "updated_at": "2026-07-21T01:37:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-07-20T20:37:42Z",
     "url": "https://github.com/OLAMIDE100/Capstone-Project-LLM-ZoomCamp"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-20T20:34:12Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -430,23 +448,5 @@
     "stars": 2888,
     "updated_at": "2026-07-21T01:23:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Open-source relational AI framework with identity persistence, memory, and MCP integration. Build relationship-aware AI ",
-    "id": "codependentai/resonant",
-    "language": "TypeScript",
-    "name": "codependentai/resonant",
-    "stars": 48,
-    "updated_at": "2026-07-20T18:26:48Z",
-    "url": "https://github.com/codependentai/resonant"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 182,
-    "updated_at": "2026-07-20T18:21:22Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
