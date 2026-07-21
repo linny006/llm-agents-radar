@@ -1,10 +1,28 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 3,
+    "updated_at": "2026-07-21T01:46:50Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Python",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-21T01:46:27Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-07-21T01:44:05Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
@@ -36,15 +54,6 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Python",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-21T01:36:46Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T01:30:27Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 3,
-    "updated_at": "2026-07-21T01:26:47Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",

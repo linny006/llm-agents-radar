@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-21 01:45 UTC
+> ⏰ Last updated: 2026-07-21 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 46 | Rust | 2026-07-21 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 2 | [ancepsinfans/work-assistant](https://github.com/ancepsinfans/work-assistant) | 0 | Python | 2026-07-21 | Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends. |
-| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-21 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 4 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-07-21 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 5 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-21 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
-| 6 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 0 | Rust | 2026-07-21 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
-| 7 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 3 | JavaScript | 2026-07-21 | 大模型面试指南 |
+| 1 | [Meko1/llm-interview-guide](https://github.com/Meko1/llm-interview-guide) | 3 | JavaScript | 2026-07-21 | 大模型面试指南 |
+| 2 | [chiam-ck/bss-cli](https://github.com/chiam-ck/bss-cli) | 1 | Python | 2026-07-21 | Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first. |
+| 3 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 47 | Rust | 2026-07-21 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 4 | [ancepsinfans/work-assistant](https://github.com/ancepsinfans/work-assistant) | 0 | Python | 2026-07-21 | Personal chief-of-staff agent: polls work sources, absence-sweep synthesis, Obsidian output. Pluggable LLM backends. |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-21 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-07-21 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 7 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 0 | Rust | 2026-07-21 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
 | 8 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-21 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 9 | [wan9yu/cli-agent-runner](https://github.com/wan9yu/cli-agent-runner) | 3 | Python | 2026-07-21 | Keep agent CLIs running 7×24 — supervise Claude Code / aider / any prompt-arg agent with 11-layer defenses and structure |
 | 10 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-21 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
