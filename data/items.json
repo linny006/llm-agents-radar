@@ -1,5 +1,23 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "\u2014",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:44:17Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-21T09:38:11Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T09:26:57Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "\u2014",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-21T09:37:11Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T09:34:27Z",
+    "updated_at": "2026-07-21T09:41:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T07:10:29Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-21T07:08:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
