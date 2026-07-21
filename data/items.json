@@ -18,6 +18,15 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-21T14:52:36Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:30:11Z",
     "url": "https://github.com/nesirli/metascholar"
-  },
-  {
-    "description": "Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ",
-    "id": "Fragmentaim/lab-resource-reservation-platform",
-    "language": "Java",
-    "name": "Fragmentaim/lab-resource-reservation-platform",
-    "stars": 1,
-    "updated_at": "2026-07-21T08:24:35Z",
-    "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
   }
 ]
