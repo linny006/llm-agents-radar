@@ -1,5 +1,32 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-21T13:52:38Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-21T13:48:57Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-07-21T13:49:06Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
     "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
     "id": "KazKozDev/llmflow-search",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T13:30:16Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-21T13:29:41Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
@@ -207,6 +225,15 @@
     "url": "https://github.com/minded1121/bruno"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2895,
+    "updated_at": "2026-07-21T11:21:56Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 101,
-    "updated_at": "2026-07-21T10:54:32Z",
+    "updated_at": "2026-07-21T13:59:42Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 19,
     "updated_at": "2026-07-21T09:45:25Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2894,
-    "updated_at": "2026-07-21T11:21:56Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A workflow-first film planning agent built with LangGraph, featuring review\u2013revision loops, HITL, issue regression track",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-21T07:35:56Z",
     "url": "https://github.com/OpenChara/OpenCharaAgent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28109,
-    "updated_at": "2026-07-21T07:11:54Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-21T07:10:29Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   }
 ]
