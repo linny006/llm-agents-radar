@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-07-21T18:05:43Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -25,15 +34,6 @@
     "stars": 14,
     "updated_at": "2026-07-21T17:51:45Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-07-21T17:50:53Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -142,6 +142,15 @@
     "stars": 791,
     "updated_at": "2026-07-21T16:46:51Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8868,
+    "updated_at": "2026-07-21T16:46:49Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2897,
-    "updated_at": "2026-07-21T14:24:32Z",
+    "updated_at": "2026-07-21T18:07:41Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5544,
-    "updated_at": "2026-07-21T13:23:57Z",
+    "updated_at": "2026-07-21T18:10:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T11:46:53Z",
     "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8867,
-    "updated_at": "2026-07-21T16:46:49Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Local coding agent harness with safe tools, durable memory, resumable sessions, and multi-provider support.",
