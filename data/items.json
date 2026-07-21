@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 101,
+    "updated_at": "2026-07-21T16:21:03Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
     "id": "Center-for-AI-Services-Computing/ORACLE",
     "language": "JavaScript",
@@ -144,15 +153,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 101,
-    "updated_at": "2026-07-21T15:23:26Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -212,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-21T16:12:41Z",
+    "updated_at": "2026-07-21T16:15:51Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
