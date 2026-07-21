@@ -1,5 +1,41 @@
 [
   {
+    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
+    "id": "bitranox/vnc-remote-control",
+    "language": "Python",
+    "name": "bitranox/vnc-remote-control",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:41:55Z",
+    "url": "https://github.com/bitranox/vnc-remote-control"
+  },
+  {
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-07-21T08:36:56Z",
+    "url": "https://github.com/mensfeld/pocketrb"
+  },
+  {
+    "description": "A workflow-first film planning agent built with LangGraph, featuring review\u2013revision loops, HITL, issue regression track",
+    "id": "ChrissyYu/mini-film-agent",
+    "language": "Python",
+    "name": "ChrissyYu/mini-film-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:40:25Z",
+    "url": "https://github.com/ChrissyYu/mini-film-agent"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:32:50Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
     "description": "RAG-based question answering over the metagenomics literature",
     "id": "nesirli/metascholar",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-07-21T08:30:11Z",
     "url": "https://github.com/nesirli/metascholar"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2891,
+    "updated_at": "2026-07-21T08:42:19Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -50,7 +95,7 @@
     "language": "\u2014",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T08:15:16Z",
+    "updated_at": "2026-07-21T08:39:12Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-21T08:17:59Z",
+    "updated_at": "2026-07-21T08:43:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -113,17 +158,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T07:56:03Z",
+    "updated_at": "2026-07-21T08:33:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-21T07:57:20Z",
-    "url": "https://github.com/mensfeld/pocketrb"
   },
   {
     "description": "An open source AI roleplay agent harness. One click builds an autonomous character agent that creates with you. Websites",
@@ -148,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28085,
+    "stars": 28089,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,41 +448,5 @@
     "stars": 13516,
     "updated_at": "2026-07-21T03:15:22Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-21T02:56:06Z",
-    "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5546,
-    "updated_at": "2026-07-21T07:09:40Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Personal chief-of-staff agent with absence-sweep synthesis and Obsidian output. Integrates with TaskFlow (github.com/anc",
-    "id": "ancepsinfans/work-assistant",
-    "language": "Python",
-    "name": "ancepsinfans/work-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:39:23Z",
-    "url": "https://github.com/ancepsinfans/work-assistant"
-  },
-  {
-    "description": "\u8ba9 AI \u52a9\u624b\u8f7b\u677e\u83b7\u53d6\u6296\u97f3\u3001TikTok\u3001B \u7ad9\u3001\u5c0f\u7ea2\u4e66\u7b49 21 \u4e2a\u4e3b\u6d41\u5e73\u53f0\u7684\u6570\u636e\uff5cEnable AI assistants to easily access data from 21 mainstream platforms includ",
-    "id": "XieWxx/maxhub-api-skills",
-    "language": "\u2014",
-    "name": "XieWxx/maxhub-api-skills",
-    "stars": 28,
-    "updated_at": "2026-07-21T02:38:11Z",
-    "url": "https://github.com/XieWxx/maxhub-api-skills"
   }
 ]
