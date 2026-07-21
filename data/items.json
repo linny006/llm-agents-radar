@@ -1,5 +1,59 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-21T21:29:11Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
+    "id": "StephenSook/silent-drift-sentinel",
+    "language": "Python",
+    "name": "StephenSook/silent-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-21T21:27:45Z",
+    "url": "https://github.com/StephenSook/silent-drift-sentinel"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 7,
+    "updated_at": "2026-07-21T21:26:24Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-21T21:23:52Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4364,
+    "updated_at": "2026-07-21T21:26:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-21T21:17:05Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -54,15 +108,6 @@
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 7,
-    "updated_at": "2026-07-21T20:39:23Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 6656,
     "updated_at": "2026-07-21T20:31:50Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4364,
-    "updated_at": "2026-07-21T21:05:28Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -106,24 +142,6 @@
     "stars": 54,
     "updated_at": "2026-07-21T20:08:13Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-21T19:58:09Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-21T19:40:17Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The self-improving SRE agent",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T13:26:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\uc8fc\uc2dd \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc5d0\uc774\uc804\ud2b8 - Streamlit + Claude LLM \uae30\ubc18 \ud22c\uc790 \ubd84\uc11d \ubc0f \ucd5c\uc801\ud654 \ub3c4\uad6c",
-    "id": "leeje008/stock-agent",
-    "language": "Python",
-    "name": "leeje008/stock-agent",
-    "stars": 1,
-    "updated_at": "2026-07-21T12:23:12Z",
-    "url": "https://github.com/leeje008/stock-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-21T19:49:19Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
