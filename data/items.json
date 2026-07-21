@@ -1,12 +1,21 @@
 [
   {
-    "description": "A small local agent for everyday reasoning using SmolLM3.",
-    "id": "vpakarinen2/localmind",
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 351,
+    "updated_at": "2026-07-21T06:43:54Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
+    "id": "tkarim45/realtime-decision-intelligence",
     "language": "Python",
-    "name": "vpakarinen2/localmind",
+    "name": "tkarim45/realtime-decision-intelligence",
     "stars": 0,
-    "updated_at": "2026-07-21T06:28:40Z",
-    "url": "https://github.com/vpakarinen2/localmind"
+    "updated_at": "2026-07-21T06:40:00Z",
+    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T06:30:04Z",
+    "updated_at": "2026-07-21T06:36:16Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A small local agent for everyday reasoning using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-21T06:34:23Z",
+    "url": "https://github.com/vpakarinen2/localmind"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T06:18:25Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
-    "id": "tkarim45/realtime-decision-intelligence",
-    "language": "Python",
-    "name": "tkarim45/realtime-decision-intelligence",
-    "stars": 0,
-    "updated_at": "2026-07-21T06:11:20Z",
-    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T00:37:08Z",
     "url": "https://github.com/ItzelXu/text2sql-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-21T00:15:10Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
