@@ -1,12 +1,66 @@
 [
   {
+    "description": "RAG-based question answering over the metagenomics literature",
+    "id": "nesirli/metascholar",
+    "language": "Python",
+    "name": "nesirli/metascholar",
+    "stars": 1,
+    "updated_at": "2026-07-21T08:30:11Z",
+    "url": "https://github.com/nesirli/metascholar"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-21T08:29:13Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-21T08:26:53Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
     "name": "tk-fantasy/fantasy",
     "stars": 11,
-    "updated_at": "2026-07-21T08:11:01Z",
+    "updated_at": "2026-07-21T08:24:23Z",
     "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ",
+    "id": "Fragmentaim/lab-resource-reservation-platform",
+    "language": "Java",
+    "name": "Fragmentaim/lab-resource-reservation-platform",
+    "stars": 1,
+    "updated_at": "2026-07-21T08:24:35Z",
+    "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "\u2014",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:15:16Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-21T08:15:09Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
@@ -36,15 +90,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "\u2014",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:15:16Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-21T08:14:33Z",
+    "updated_at": "2026-07-21T08:17:59Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -99,20 +144,11 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-21T07:28:20Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28084,
+    "stars": 28085,
     "updated_at": "2026-07-21T07:11:54Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -214,15 +250,6 @@
     "stars": 626,
     "updated_at": "2026-07-21T05:52:14Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-21T08:15:09Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
@@ -421,32 +448,5 @@
     "stars": 28,
     "updated_at": "2026-07-21T02:38:11Z",
     "url": "https://github.com/XieWxx/maxhub-api-skills"
-  },
-  {
-    "description": "Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ",
-    "id": "Fragmentaim/lab-resource-reservation-platform",
-    "language": "Java",
-    "name": "Fragmentaim/lab-resource-reservation-platform",
-    "stars": 1,
-    "updated_at": "2026-07-21T04:52:00Z",
-    "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2891,
-    "updated_at": "2026-07-21T08:14:00Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "DeepEye: An Autonomous Data Agent System",
-    "id": "HKUSTDial/DeepEye",
-    "language": "Python",
-    "name": "HKUSTDial/DeepEye",
-    "stars": 215,
-    "updated_at": "2026-07-21T01:21:25Z",
-    "url": "https://github.com/HKUSTDial/DeepEye"
   }
 ]
