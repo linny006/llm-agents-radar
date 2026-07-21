@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:56:27Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-21T18:55:47Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Reachability-aware CVE prioritizer: tells you which vulnerabilities are actually reachable from your code, and drafts th",
+    "id": "1816x/Vulnerability-Triage-Agent",
+    "language": "Python",
+    "name": "1816x/Vulnerability-Triage-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:45:51Z",
+    "url": "https://github.com/1816x/Vulnerability-Triage-Agent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 10,
-    "updated_at": "2026-07-21T17:55:52Z",
+    "updated_at": "2026-07-21T18:49:05Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T17:44:46Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:43:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -115,15 +133,6 @@
     "stars": 12,
     "updated_at": "2026-07-21T17:09:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-21T18:45:13Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5544,
-    "updated_at": "2026-07-21T18:16:21Z",
+    "updated_at": "2026-07-21T18:57:38Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T10:19:33Z",
     "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "Minimal, production-shaped LLM agent with tool calling \u2014 multi-step reasoning, pluggable tools, safe execution (OpenAI /",
-    "id": "zafarahmed65/llm-agent-tool-calling",
-    "language": "Python",
-    "name": "zafarahmed65/llm-agent-tool-calling",
-    "stars": 0,
-    "updated_at": "2026-07-21T10:10:04Z",
-    "url": "https://github.com/zafarahmed65/llm-agent-tool-calling"
   }
 ]
