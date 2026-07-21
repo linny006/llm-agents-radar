@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
+    "id": "KazKozDev/llmflow-search",
+    "language": "Python",
+    "name": "KazKozDev/llmflow-search",
+    "stars": 6,
+    "updated_at": "2026-07-21T05:30:15Z",
+    "url": "https://github.com/KazKozDev/llmflow-search"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 625,
+    "updated_at": "2026-07-21T05:24:45Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
+    "id": "juzikuwei/tech-radar-agent",
+    "language": "Python",
+    "name": "juzikuwei/tech-radar-agent",
+    "stars": 1,
+    "updated_at": "2026-07-21T05:22:26Z",
+    "url": "https://github.com/juzikuwei/tech-radar-agent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -9,15 +36,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 625,
-    "updated_at": "2026-07-21T05:09:52Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -25,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T05:09:48Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Local Deep Research: a multi-agent system built on Anthropic's orchestrator-workers research principles \u2014 every claim tr",
-    "id": "KazKozDev/llmflow-search",
-    "language": "Python",
-    "name": "KazKozDev/llmflow-search",
-    "stars": 6,
-    "updated_at": "2026-07-21T05:07:51Z",
-    "url": "https://github.com/KazKozDev/llmflow-search"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -157,7 +166,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28075,
+    "stars": 28076,
     "updated_at": "2026-07-21T03:29:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T04:50:31Z",
+    "updated_at": "2026-07-21T05:30:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-20T22:44:16Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4361,
-    "updated_at": "2026-07-21T04:55:51Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
