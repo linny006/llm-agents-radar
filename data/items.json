@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-21T22:29:31Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "ReAct-style LLM agent with tool use, run tracing, and a REST API",
     "id": "matthew-fitzgerald123/llm-agent",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/matthew-fitzgerald123/llm-agent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-21T22:01:11Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-21T22:06:16Z",
+    "updated_at": "2026-07-21T22:28:08Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
