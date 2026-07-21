@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u8d22\u62a5 PDF \u6570\u636e\u7ed3\u6784\u5316\u4e0e LangGraph \u53d7\u63a7\u95ee\u6570 Agent",
+    "id": "lalalaplace/financial-report-qa-agent",
+    "language": "Python",
+    "name": "lalalaplace/financial-report-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:10:23Z",
+    "url": "https://github.com/lalalaplace/financial-report-qa-agent"
+  },
+  {
+    "description": "PECS: \u57fa\u4e8e LangGraph \u7684\u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u4efb\u52a1\u6c42\u89e3\u6846\u67b6\uff08Planner/Executor/Critic/Synthesizer\uff09\u3002WebShop \u771f\u5b9e\u73af\u5883 +25pp (25% vs 0%)\uff1bGAIA \u5b98\u65b9 53 \u9898 26.4%",
+    "id": "paopao-13/pecs-multi-agent",
+    "language": "Python",
+    "name": "paopao-13/pecs-multi-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T03:07:58Z",
+    "url": "https://github.com/paopao-13/pecs-multi-agent"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 625,
+    "updated_at": "2026-07-21T03:04:33Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13515,
+    "updated_at": "2026-07-21T03:00:20Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T02:56:06Z",
     "url": "https://github.com/heichaowo/amem"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684 PECS \u56db\u89d2\u8272\u591a\u667a\u80fd\u4f53\u534f\u4f5c\u6846\u67b6\uff0c\u542b\u53cd\u601d\u95ed\u73af\u3001Token \u9884\u7b97\u8c03\u5ea6\u3001AST \u5b89\u5168\u6c99\u7bb1\u3002WebShop \u771f\u5b9e\u73af\u5883 25% vs ReAct 0%\uff0c\u8ba1\u7b97\u7c7b\u4efb\u52a1 Token \u964d\u672c 86.8%\uff0cGAIA \u5b98\u65b9 53 \u9898",
-    "id": "paopao-13/pecs-multi-agent",
-    "language": "Python",
-    "name": "paopao-13/pecs-multi-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T02:54:17Z",
-    "url": "https://github.com/paopao-13/pecs-multi-agent"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-21T02:59:18Z",
+    "updated_at": "2026-07-21T03:14:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -95,17 +122,8 @@
     "language": "Java",
     "name": "Fragmentaim/lab-resource-reservation-platform",
     "stars": 1,
-    "updated_at": "2026-07-21T02:24:04Z",
+    "updated_at": "2026-07-21T03:14:27Z",
     "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13513,
-    "updated_at": "2026-07-21T02:21:58Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T00:01:55Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 625,
-    "updated_at": "2026-07-21T02:58:26Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-20T19:54:00Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-20T19:48:01Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   }
 ]
