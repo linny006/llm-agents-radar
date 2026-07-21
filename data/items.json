@@ -1,5 +1,59 @@
 [
   {
+    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
+    "id": "Center-for-AI-Services-Computing/ORACLE",
+    "language": "JavaScript",
+    "name": "Center-for-AI-Services-Computing/ORACLE",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:14:37Z",
+    "url": "https://github.com/Center-for-AI-Services-Computing/ORACLE"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6657,
+    "updated_at": "2026-07-21T16:14:08Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:09:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-21T16:09:08Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-21T16:07:15Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-21T16:06:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Easy-to-use, high-quality threat modeling agent skills.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-21T16:00:16Z",
+    "updated_at": "2026-07-21T16:07:44Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Java",
     "name": "muthuishere/toolnexus",
     "stars": 3,
-    "updated_at": "2026-07-21T15:34:23Z",
+    "updated_at": "2026-07-21T16:04:51Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T15:29:53Z",
     "url": "https://github.com/xiaojiune/TravelPal"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6657,
-    "updated_at": "2026-07-21T15:26:32Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -153,15 +198,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-21T14:49:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-21T14:57:00Z",
+    "updated_at": "2026-07-21T16:12:41Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 10,
-    "updated_at": "2026-07-21T15:43:59Z",
+    "updated_at": "2026-07-21T16:10:50Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/heichaowo/amem"
   },
   {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/ambient-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/ambient-agent",
-    "stars": 0,
-    "updated_at": "2026-07-21T15:37:51Z",
-    "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -396,24 +423,6 @@
     "url": "https://github.com/zafarahmed65/llm-agent-tool-calling"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-21T10:08:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-21T10:07:51Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
     "id": "tk-fantasy/fantasy",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-21T09:11:08Z",
     "url": "https://github.com/FoxNoseTech/foxnose-python"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-21T09:45:25Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
