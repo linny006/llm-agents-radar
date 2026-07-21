@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6656,
-    "updated_at": "2026-07-21T18:28:49Z",
+    "updated_at": "2026-07-21T18:44:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
+    "id": "Center-for-AI-Services-Computing/ORACLE",
+    "language": "JavaScript",
+    "name": "Center-for-AI-Services-Computing/ORACLE",
+    "stars": 0,
+    "updated_at": "2026-07-21T18:38:12Z",
+    "url": "https://github.com/Center-for-AI-Services-Computing/ORACLE"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4364,
+    "updated_at": "2026-07-21T18:33:52Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -52,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-07-21T17:44:46Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4364,
-    "updated_at": "2026-07-21T17:44:32Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -113,17 +122,8 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 54,
-    "updated_at": "2026-07-21T17:04:38Z",
+    "updated_at": "2026-07-21T18:45:13Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
-    "id": "Center-for-AI-Services-Computing/ORACLE",
-    "language": "JavaScript",
-    "name": "Center-for-AI-Services-Computing/ORACLE",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:09:09Z",
-    "url": "https://github.com/Center-for-AI-Services-Computing/ORACLE"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
