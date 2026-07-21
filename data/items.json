@@ -1,11 +1,29 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-21T19:43:49Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-21T19:40:17Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6656,
-    "updated_at": "2026-07-21T19:26:56Z",
+    "updated_at": "2026-07-21T19:42:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 10,
-    "updated_at": "2026-07-21T19:27:41Z",
+    "updated_at": "2026-07-21T19:31:24Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -23,7 +41,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 4,
-    "updated_at": "2026-07-21T19:26:23Z",
+    "updated_at": "2026-07-21T19:35:54Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -52,6 +70,15 @@
     "stars": 54,
     "updated_at": "2026-07-21T19:04:23Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5545,
+    "updated_at": "2026-07-21T18:57:38Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -108,15 +135,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-21T17:58:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -133,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-07-21T17:42:56Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-21T17:35:14Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-07-21T13:26:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5544,
-    "updated_at": "2026-07-21T18:57:38Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "\uc8fc\uc2dd \ud3ec\ud2b8\ud3f4\ub9ac\uc624 \uc5d0\uc774\uc804\ud2b8 - Streamlit + Claude LLM \uae30\ubc18 \ud22c\uc790 \ubd84\uc11d \ubc0f \ucd5c\uc801\ud654 \ub3c4\uad6c",
