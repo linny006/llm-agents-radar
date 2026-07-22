@@ -1,5 +1,14 @@
 [
   {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-22T21:20:34Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 2,
     "updated_at": "2026-07-22T21:11:15Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-22T21:10:22Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   },
   {
     "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
