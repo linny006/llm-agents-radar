@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "csnyder256/RAG-OS",
     "stars": 1,
-    "updated_at": "2026-07-22T04:13:58Z",
+    "updated_at": "2026-07-22T04:29:40Z",
     "url": "https://github.com/csnyder256/RAG-OS"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-22T04:25:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-22T04:18:21Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
@@ -77,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T03:53:25Z",
+    "updated_at": "2026-07-22T04:29:57Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -248,17 +266,8 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T03:39:53Z",
+    "updated_at": "2026-07-22T04:21:49Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:01:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-21T18:45:51Z",
     "url": "https://github.com/1816x/Vulnerability-Triage-Agent"
-  },
-  {
-    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
-    "id": "Center-for-AI-Services-Computing/ORACLE",
-    "language": "JavaScript",
-    "name": "Center-for-AI-Services-Computing/ORACLE",
-    "stars": 0,
-    "updated_at": "2026-07-21T18:38:12Z",
-    "url": "https://github.com/Center-for-AI-Services-Computing/ORACLE"
   }
 ]
