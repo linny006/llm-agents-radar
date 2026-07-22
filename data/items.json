@@ -1,11 +1,20 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-22T20:43:58Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4365,
-    "updated_at": "2026-07-22T20:42:26Z",
+    "updated_at": "2026-07-22T20:44:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "yipjunkai/ctgov-query-viz-agent",
     "stars": 0,
-    "updated_at": "2026-07-22T20:11:42Z",
+    "updated_at": "2026-07-22T20:45:10Z",
     "url": "https://github.com/yipjunkai/ctgov-query-viz-agent"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 10,
     "updated_at": "2026-07-22T19:42:20Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:43:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Turn your Hermes agent into a financial analyst \u2014 on-demand equities / macro / options / prediction-market analysis, plu",
