@@ -1,12 +1,48 @@
 [
   {
+    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
+    "id": "adityaarsharma/pickle",
+    "language": "JavaScript",
+    "name": "adityaarsharma/pickle",
+    "stars": 3,
+    "updated_at": "2026-07-22T02:58:17Z",
+    "url": "https://github.com/adityaarsharma/pickle"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-22T02:44:27Z",
+    "updated_at": "2026-07-22T02:57:26Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:51:44Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5547,
+    "updated_at": "2026-07-22T02:49:21Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-22T02:57:16Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
@@ -27,15 +63,6 @@
     "url": "https://github.com/80x24/nuanua"
   },
   {
-    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
-    "id": "peijin0405/scout-agent",
-    "language": "Python",
-    "name": "peijin0405/scout-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:24:00Z",
-    "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T02:23:40Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-22T02:30:44Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T02:39:58Z",
+    "updated_at": "2026-07-22T02:49:42Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -166,7 +184,7 @@
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 23909,
+    "stars": 23910,
     "updated_at": "2026-07-22T00:32:52Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -185,7 +203,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-22T02:12:06Z",
+    "updated_at": "2026-07-22T02:58:43Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T21:27:45Z",
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5547,
-    "updated_at": "2026-07-21T20:37:02Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -439,14 +448,5 @@
     "stars": 791,
     "updated_at": "2026-07-21T16:46:51Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8867,
-    "updated_at": "2026-07-21T16:46:49Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
