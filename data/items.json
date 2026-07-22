@@ -1,5 +1,23 @@
 [
   {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 0,
+    "updated_at": "2026-07-22T17:27:48Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 309,
+    "updated_at": "2026-07-22T17:25:23Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 792,
-    "updated_at": "2026-07-22T17:11:39Z",
+    "updated_at": "2026-07-22T17:30:05Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -50,17 +68,8 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 2,
-    "updated_at": "2026-07-22T16:59:58Z",
+    "updated_at": "2026-07-22T17:25:22Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:55:40Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-22T12:21:56Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-22T12:18:08Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   }
 ]
