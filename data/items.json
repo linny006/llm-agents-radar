@@ -1,11 +1,56 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:29:12Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1629,
+    "updated_at": "2026-07-22T10:20:05Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4364,
+    "updated_at": "2026-07-22T10:20:37Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact",
+    "id": "phenomenoner/agent-harness-core",
+    "language": "Rust",
+    "name": "phenomenoner/agent-harness-core",
+    "stars": 0,
+    "updated_at": "2026-07-22T10:17:50Z",
+    "url": "https://github.com/phenomenoner/agent-harness-core"
+  },
+  {
+    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
+    "id": "adityaarsharma/pickle",
+    "language": "JavaScript",
+    "name": "adityaarsharma/pickle",
+    "stars": 3,
+    "updated_at": "2026-07-22T10:17:06Z",
+    "url": "https://github.com/adityaarsharma/pickle"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T10:07:37Z",
+    "updated_at": "2026-07-22T10:16:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-22T10:01:15Z",
+    "updated_at": "2026-07-22T10:27:43Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -112,27 +157,9 @@
     "id": "TigerGO20/Multilingual-FinNews-Agent",
     "language": "Python",
     "name": "TigerGO20/Multilingual-FinNews-Agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T09:35:21Z",
     "url": "https://github.com/TigerGO20/Multilingual-FinNews-Agent"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-22T09:34:26Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1629,
-    "updated_at": "2026-07-22T09:38:20Z",
-    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -142,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T09:30:58Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4364,
-    "updated_at": "2026-07-22T09:32:39Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-22T10:15:00Z",
+    "updated_at": "2026-07-22T10:29:49Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T08:34:41Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
-    "id": "adityaarsharma/pickle",
-    "language": "JavaScript",
-    "name": "adityaarsharma/pickle",
-    "stars": 3,
-    "updated_at": "2026-07-22T08:25:20Z",
-    "url": "https://github.com/adityaarsharma/pickle"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:56:32Z",
     "url": "https://github.com/aldok10/zara-agent-opc"
-  },
-  {
-    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
-    "id": "wusuiling-if/mini-code-agent-langgraph",
-    "language": "Python",
-    "name": "wusuiling-if/mini-code-agent-langgraph",
-    "stars": 2,
-    "updated_at": "2026-07-22T05:43:09Z",
-    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   }
 ]
