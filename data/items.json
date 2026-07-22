@@ -1,12 +1,66 @@
 [
   {
+    "description": "Official Python SDK for FoxNose",
+    "id": "FoxNoseTech/foxnose-python",
+    "language": "Python",
+    "name": "FoxNoseTech/foxnose-python",
+    "stars": 5,
+    "updated_at": "2026-07-22T15:43:45Z",
+    "url": "https://github.com/FoxNoseTech/foxnose-python"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 792,
+    "updated_at": "2026-07-22T15:44:53Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Observability + live control plane for LLM agents: log tool calls, messages, thinking, tokens, and carried-in context; w",
+    "id": "HarsimarSingh23/AgentMonitor",
+    "language": "Python",
+    "name": "HarsimarSingh23/AgentMonitor",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:44:51Z",
+    "url": "https://github.com/HarsimarSingh23/AgentMonitor"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave-agent",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave-agent",
+    "stars": 2,
+    "updated_at": "2026-07-22T15:39:11Z",
+    "url": "https://github.com/Clean-Dust/worldwave-agent"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13537,
+    "updated_at": "2026-07-22T15:38:22Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-22T15:26:58Z",
+    "updated_at": "2026-07-22T15:35:26Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-22T15:27:52Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
@@ -41,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T15:14:58Z",
+    "updated_at": "2026-07-22T15:44:41Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T15:10:14Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13537,
-    "updated_at": "2026-07-22T15:08:56Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -243,15 +288,6 @@
     "url": "https://github.com/ateliertoby/first-reader"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:27:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
     "id": "randomvariablewhitepelican129/open_deep_research",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-22T10:46:05Z",
     "url": "https://github.com/theunstopabble/SwadKart"
-  },
-  {
-    "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
-    "id": "AndriiLavrekha/awesome-progress-tracker",
-    "language": "TypeScript",
-    "name": "AndriiLavrekha/awesome-progress-tracker",
-    "stars": 0,
-    "updated_at": "2026-07-22T10:43:52Z",
-    "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1629,
-    "updated_at": "2026-07-22T10:20:05Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
-    "id": "adityaarsharma/pickle",
-    "language": "JavaScript",
-    "name": "adityaarsharma/pickle",
-    "stars": 3,
-    "updated_at": "2026-07-22T10:17:06Z",
-    "url": "https://github.com/adityaarsharma/pickle"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-22T10:07:25Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
