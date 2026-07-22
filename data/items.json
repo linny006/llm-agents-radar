@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
+    "id": "Meko1/llm-interview-guide",
+    "language": "JavaScript",
+    "name": "Meko1/llm-interview-guide",
+    "stars": 2,
+    "updated_at": "2026-07-22T02:11:28Z",
+    "url": "https://github.com/Meko1/llm-interview-guide"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-22T02:07:28Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
+    "id": "csnyder256/RAG-OS",
+    "language": "Python",
+    "name": "csnyder256/RAG-OS",
+    "stars": 1,
+    "updated_at": "2026-07-22T02:05:31Z",
+    "url": "https://github.com/csnyder256/RAG-OS"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-22T02:04:03Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T01:56:36Z",
+    "updated_at": "2026-07-22T02:13:45Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -36,21 +72,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
-    "id": "csnyder256/RAG-OS",
-    "language": "\u2014",
-    "name": "csnyder256/RAG-OS",
-    "stars": 1,
-    "updated_at": "2026-07-22T01:37:24Z",
-    "url": "https://github.com/csnyder256/RAG-OS"
-  },
-  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T01:44:01Z",
+    "updated_at": "2026-07-22T02:15:17Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -68,7 +95,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T01:56:54Z",
+    "updated_at": "2026-07-22T02:12:30Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -94,7 +121,7 @@
     "id": "AgentEra/Agently",
     "language": "Python",
     "name": "AgentEra/Agently",
-    "stars": 1627,
+    "stars": 1628,
     "updated_at": "2026-07-22T00:18:31Z",
     "url": "https://github.com/AgentEra/Agently"
   },
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-22T00:26:35Z",
+    "updated_at": "2026-07-22T02:12:06Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 152,
     "updated_at": "2026-07-22T00:08:54Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-21T23:51:53Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "",
@@ -337,7 +355,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2898,
+    "stars": 2899,
     "updated_at": "2026-07-21T18:07:41Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -367,15 +385,6 @@
     "stars": 364,
     "updated_at": "2026-07-22T01:23:08Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-22T01:27:44Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -439,14 +448,5 @@
     "stars": 101,
     "updated_at": "2026-07-21T16:21:03Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Easy-to-use, high-quality threat modeling agent skills.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-07-21T15:53:51Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
