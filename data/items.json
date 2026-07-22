@@ -1,5 +1,14 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-22T11:43:06Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:41:43Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-22T11:41:36Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5581,
-    "updated_at": "2026-07-22T10:00:07Z",
+    "updated_at": "2026-07-22T11:43:30Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
