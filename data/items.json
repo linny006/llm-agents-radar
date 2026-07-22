@@ -1,5 +1,32 @@
 [
   {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 4,
+    "updated_at": "2026-07-22T14:49:45Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-22T14:44:08Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-22T14:43:05Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T14:43:51Z",
+    "updated_at": "2026-07-22T14:59:24Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -41,17 +68,8 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-22T14:37:00Z",
+    "updated_at": "2026-07-22T14:56:21Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-22T14:43:05Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -61,15 +79,6 @@
     "stars": 12,
     "updated_at": "2026-07-22T14:34:36Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-22T14:44:08Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T14:39:16Z",
+    "updated_at": "2026-07-22T14:53:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-22T09:50:15Z",
     "url": "https://github.com/Ghost-White-Guy/Universal-LLM-Agent"
-  },
-  {
-    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
-    "id": "vstorm-co/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "vstorm-co/awesome-pydantic-ai",
-    "stars": 93,
-    "updated_at": "2026-07-22T09:47:30Z",
-    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
   }
 ]
