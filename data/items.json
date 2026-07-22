@@ -1,12 +1,21 @@
 [
   {
-    "description": "Official Python SDK for FoxNose",
-    "id": "FoxNoseTech/foxnose-python",
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
     "language": "Python",
-    "name": "FoxNoseTech/foxnose-python",
-    "stars": 5,
-    "updated_at": "2026-07-22T15:43:45Z",
-    "url": "https://github.com/FoxNoseTech/foxnose-python"
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-22T15:59:10Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
+    "id": "Clean-Dust/worldwave-agent",
+    "language": "Python",
+    "name": "Clean-Dust/worldwave-agent",
+    "stars": 2,
+    "updated_at": "2026-07-22T16:00:00Z",
+    "url": "https://github.com/Clean-Dust/worldwave-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -18,6 +27,15 @@
     "url": "https://github.com/helixml/helix"
   },
   {
+    "description": "Official Python SDK for FoxNose",
+    "id": "FoxNoseTech/foxnose-python",
+    "language": "Python",
+    "name": "FoxNoseTech/foxnose-python",
+    "stars": 5,
+    "updated_at": "2026-07-22T15:43:45Z",
+    "url": "https://github.com/FoxNoseTech/foxnose-python"
+  },
+  {
     "description": "Observability + live control plane for LLM agents: log tool calls, messages, thinking, tokens, and carried-in context; w",
     "id": "HarsimarSingh23/AgentMonitor",
     "language": "Python",
@@ -27,15 +45,6 @@
     "url": "https://github.com/HarsimarSingh23/AgentMonitor"
   },
   {
-    "description": "A persistent cognitive entity \u2014 one agent, one memory, one timeline across all platforms. Self-editing knowledge graph, ",
-    "id": "Clean-Dust/worldwave-agent",
-    "language": "Python",
-    "name": "Clean-Dust/worldwave-agent",
-    "stars": 2,
-    "updated_at": "2026-07-22T15:39:11Z",
-    "url": "https://github.com/Clean-Dust/worldwave-agent"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 13537,
     "updated_at": "2026-07-22T15:38:22Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-22T15:35:26Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",

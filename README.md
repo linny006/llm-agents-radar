@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 15:45 UTC
+> ⏰ Last updated: 2026-07-22 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [FoxNoseTech/foxnose-python](https://github.com/FoxNoseTech/foxnose-python) | 5 | Python | 2026-07-22 | Official Python SDK for FoxNose |
-| 2 | [helixml/helix](https://github.com/helixml/helix) | 792 | Go | 2026-07-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 3 | [HarsimarSingh23/AgentMonitor](https://github.com/HarsimarSingh23/AgentMonitor) | 0 | Python | 2026-07-22 | Observability + live control plane for LLM agents: log tool calls, messages, thinking, tokens, and carried-in context; w |
-| 4 | [Clean-Dust/worldwave-agent](https://github.com/Clean-Dust/worldwave-agent) | 2 | Python | 2026-07-22 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
-| 5 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13537 | Python | 2026-07-22 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 6 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-07-22 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 1 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-07-22 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 2 | [Clean-Dust/worldwave-agent](https://github.com/Clean-Dust/worldwave-agent) | 2 | Python | 2026-07-22 | A persistent cognitive entity — one agent, one memory, one timeline across all platforms. Self-editing knowledge graph,  |
+| 3 | [helixml/helix](https://github.com/helixml/helix) | 792 | Go | 2026-07-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 4 | [FoxNoseTech/foxnose-python](https://github.com/FoxNoseTech/foxnose-python) | 5 | Python | 2026-07-22 | Official Python SDK for FoxNose |
+| 5 | [HarsimarSingh23/AgentMonitor](https://github.com/HarsimarSingh23/AgentMonitor) | 0 | Python | 2026-07-22 | Observability + live control plane for LLM agents: log tool calls, messages, thinking, tokens, and carried-in context; w |
+| 6 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13537 | Python | 2026-07-22 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 8 | [loquix-dev/loquix](https://github.com/loquix-dev/loquix) | 36 | TypeScript | 2026-07-22 | A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces. |
 | 9 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-22 | A productive AI coworker that learns, self-improves, and ships work. |
