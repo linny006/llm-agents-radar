@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-22T12:11:32Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:10:45Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-07-22T12:15:12Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "A C++20 framework for building intelligent agents.",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 0,
+    "updated_at": "2026-07-22T12:04:40Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-07-22T12:04:34Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4365,
-    "updated_at": "2026-07-22T11:57:32Z",
+    "updated_at": "2026-07-22T12:11:15Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-07-22T11:53:58Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
@@ -50,17 +86,8 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 369,
-    "updated_at": "2026-07-22T11:52:02Z",
+    "updated_at": "2026-07-22T12:13:07Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-22T11:57:13Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -81,21 +108,12 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-22T11:57:01Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2907,
-    "updated_at": "2026-07-22T11:38:53Z",
+    "updated_at": "2026-07-22T12:09:50Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -346,7 +364,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28159,
+    "stars": 28161,
     "updated_at": "2026-07-22T08:40:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -409,7 +427,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13536,
+    "stars": 13535,
     "updated_at": "2026-07-22T07:48:17Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T07:34:30Z",
     "url": "https://github.com/metedursuncs-dev/claude-code-senior-dev-mode"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-07-22T07:27:40Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5549,
-    "updated_at": "2026-07-22T07:14:31Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
