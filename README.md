@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 14:30 UTC
+> ⏰ Last updated: 2026-07-22 14:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ken-LK/agentscope-agui-scaffold](https://github.com/Ken-LK/agentscope-agui-scaffold) | 0 | Python | 2026-07-22 | Run an AgentScope 2.0 agent workbench in minutes — no model key required. Native AG-UI + assistant-ui scaffold with SSE  |
-| 2 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 12 | Go | 2026-07-22 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-22 | A productive AI coworker that learns, self-improves, and ships work. |
-| 4 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 1 | TypeScript | 2026-07-22 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 1 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 101 | Python | 2026-07-22 | Open-Source Intelligent Command Layer |
+| 2 | [Shadowell/Alpha](https://github.com/Shadowell/Alpha) | 16 | Python | 2026-07-22 | 自进化量化选股系统 — Kronos K线预测模型 + Hermes Agent 自进化闭环 + A股三池漏斗选股 |
+| 3 | [Ken-LK/agentscope-agui-scaffold](https://github.com/Ken-LK/agentscope-agui-scaffold) | 0 | Python | 2026-07-22 | Run an AgentScope 2.0 agent workbench in minutes — no model key required. Native AG-UI + assistant-ui scaffold with SSE  |
+| 4 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-22 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
 | 5 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-07-22 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 6 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 2 | TypeScript | 2026-07-22 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 7 | [Giggitycountless/LOL-AI-Intelligence](https://github.com/Giggitycountless/LOL-AI-Intelligence) | 2 | Rust | 2026-07-22 | AI-Powered League of Legends Desktop Companion — Real-time game intelligence, LLM-driven match analysis and AI coaching. |
-| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 9 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-22 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 10 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6671 | Python | 2026-07-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 11 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-07-22 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 12 | [sreenathvemula/finance-research-agent](https://github.com/sreenathvemula/finance-research-agent) | 0 | Python | 2026-07-22 | AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW |
-| 13 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 0 | C++ | 2026-07-22 | A C++20 framework for building intelligent agents. |
-| 14 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 482 | Python | 2026-07-22 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 15 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 16 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 3 | Go | 2026-07-22 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 17 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-07-22 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
-| 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 19 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-07-22 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
-| 20 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | Go | 2026-07-22 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 21 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 22 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-22 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
-| 23 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 1 | Rust | 2026-07-22 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
-| 24 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 25 | [gptme/gptme](https://github.com/gptme/gptme) | 4365 | Python | 2026-07-22 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 26 | [yipjunkai/ctgov-query-viz-agent](https://github.com/yipjunkai/ctgov-query-viz-agent) | 0 | Python | 2026-07-22 | Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria |
-| 27 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-22 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
-| 28 | [leeje008/stock-agent](https://github.com/leeje008/stock-agent) | 1 | Python | 2026-07-22 | 주식 포트폴리오 에이전트 - Streamlit + Claude LLM 기반 투자 분석 및 최적화 도구 |
-| 29 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-22 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 30 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 54 | TypeScript | 2026-07-22 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
-| 31 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-07-22 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write |
-| 32 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 370 | TypeScript | 2026-07-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 33 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-22 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
-| 34 | [EpsteinF1les/tts](https://github.com/EpsteinF1les/tts) | 0 | — | 2026-07-22 | Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe |
-| 35 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5584 | Python | 2026-07-22 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 36 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2907 | Python | 2026-07-22 | SRE Agent - CNCF Sandbox Project |
-| 37 | [heichaowo/amem](https://github.com/heichaowo/amem) | 1 | TypeScript | 2026-07-22 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
-| 38 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 39 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 11 | JavaScript | 2026-07-22 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
-| 40 | [AndriiLavrekha/awesome-progress-tracker](https://github.com/AndriiLavrekha/awesome-progress-tracker) | 0 | TypeScript | 2026-07-22 | Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents — resumable memory across ses |
-| 41 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1629 | Python | 2026-07-22 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 42 | [adityaarsharma/pickle](https://github.com/adityaarsharma/pickle) | 3 | JavaScript | 2026-07-22 | Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks — stale tas |
-| 43 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 44 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 45 | [helixml/helix](https://github.com/helixml/helix) | 792 | Go | 2026-07-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 46 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-22 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
-| 47 | [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) | 93 | — | 2026-07-22 |  An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.  |
-| 48 | [zuowen7/scholar-assistant-agent](https://github.com/zuowen7/scholar-assistant-agent) | 2 | Python | 2026-07-22 | Open-source Claude Code for academic papers — translate, write, review, and export research papers locally |
-| 49 | [Center-for-AI-Services-Computing/ORACLE](https://github.com/Center-for-AI-Services-Computing/ORACLE) | 0 | JavaScript | 2026-07-22 | ORACLE — On-chain Reputation & Audit for Coordinated LLM-Agent Execution。LLM 驱动的 Agent 调度 + 链上身份/审计/信誉：双角色 EIP-712 审计、争议 |
-| 50 | [TigerGO20/Multilingual-FinNews-Agent](https://github.com/TigerGO20/Multilingual-FinNews-Agent) | 1 | Python | 2026-07-22 | An LLM-powered financial data agent that automates web scraping and generates aligned, production-grade 3-point market s |
+| 6 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 2 | TypeScript | 2026-07-22 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 7 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 12 | Go | 2026-07-22 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-22 | A productive AI coworker that learns, self-improves, and ships work. |
+| 9 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 2 | TypeScript | 2026-07-22 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 10 | [Giggitycountless/LOL-AI-Intelligence](https://github.com/Giggitycountless/LOL-AI-Intelligence) | 2 | Rust | 2026-07-22 | AI-Powered League of Legends Desktop Companion — Real-time game intelligence, LLM-driven match analysis and AI coaching. |
+| 11 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2376 | TypeScript | 2026-07-22 | An open-sourced research agent system deeply rooted in your Zotero library. |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-22 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6671 | Python | 2026-07-22 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 15 | [9t29zhmwdh-coder/SwiftAgent](https://github.com/9t29zhmwdh-coder/SwiftAgent) | 0 | Swift | 2026-07-22 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
+| 16 | [sreenathvemula/finance-research-agent](https://github.com/sreenathvemula/finance-research-agent) | 0 | Python | 2026-07-22 | AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW |
+| 17 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 0 | C++ | 2026-07-22 | A C++20 framework for building intelligent agents. |
+| 18 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 482 | Python | 2026-07-22 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 19 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 20 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 3 | Go | 2026-07-22 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 21 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-07-22 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
+| 22 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 23 | [randomvariablewhitepelican129/open_deep_research](https://github.com/randomvariablewhitepelican129/open_deep_research) | 0 | Python | 2026-07-22 | Build open source deep research agents using multiple models, search tools, and MCP servers. |
+| 24 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | Go | 2026-07-22 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 25 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-07-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 26 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 1 | Rust | 2026-07-22 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
+| 27 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 28 | [gptme/gptme](https://github.com/gptme/gptme) | 4365 | Python | 2026-07-22 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 29 | [yipjunkai/ctgov-query-viz-agent](https://github.com/yipjunkai/ctgov-query-viz-agent) | 0 | Python | 2026-07-22 | Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria |
+| 30 | [denisotree/veles](https://github.com/denisotree/veles) | 1 | Python | 2026-07-22 | Minimal CLI agent framework with compounding project memory — gets smarter with every session. Clean, modular, any LLM p |
+| 31 | [leeje008/stock-agent](https://github.com/leeje008/stock-agent) | 1 | Python | 2026-07-22 | 주식 포트폴리오 에이전트 - Streamlit + Claude LLM 기반 투자 분석 및 최적화 도구 |
+| 32 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 1 | Python | 2026-07-22 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 33 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 54 | TypeScript | 2026-07-22 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
+| 34 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-07-22 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write |
+| 35 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 370 | TypeScript | 2026-07-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 36 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-07-22 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
+| 37 | [EpsteinF1les/tts](https://github.com/EpsteinF1les/tts) | 0 | — | 2026-07-22 | Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe |
+| 38 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5584 | Python | 2026-07-22 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 39 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2907 | Python | 2026-07-22 | SRE Agent - CNCF Sandbox Project |
+| 40 | [heichaowo/amem](https://github.com/heichaowo/amem) | 1 | TypeScript | 2026-07-22 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
+| 41 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 42 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 11 | JavaScript | 2026-07-22 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
+| 43 | [AndriiLavrekha/awesome-progress-tracker](https://github.com/AndriiLavrekha/awesome-progress-tracker) | 0 | TypeScript | 2026-07-22 | Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents — resumable memory across ses |
+| 44 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1629 | Python | 2026-07-22 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 45 | [adityaarsharma/pickle](https://github.com/adityaarsharma/pickle) | 3 | JavaScript | 2026-07-22 | Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks — stale tas |
+| 46 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 47 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 152 | HTML | 2026-07-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 48 | [helixml/helix](https://github.com/helixml/helix) | 792 | Go | 2026-07-22 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 49 | [Ghost-White-Guy/Universal-LLM-Agent](https://github.com/Ghost-White-Guy/Universal-LLM-Agent) | 2 | Python | 2026-07-22 | Local-first LLM agent with native/prompt tool calling, memory, streaming and OS automation. |
+| 50 | [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) | 93 | — | 2026-07-22 |  An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.  |
 <!-- TRACKER_TABLE_END -->
 
 ---
