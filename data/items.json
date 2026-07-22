@@ -1,5 +1,32 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 2,
+    "updated_at": "2026-07-22T21:11:15Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-22T21:10:22Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
+    "id": "yipjunkai/ctgov-query-viz-agent",
+    "language": "Python",
+    "name": "yipjunkai/ctgov-query-viz-agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T21:04:50Z",
+    "url": "https://github.com/yipjunkai/ctgov-query-viz-agent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -18,15 +45,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-22T20:54:01Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
     "id": "madhavnair2009-arch/ronin",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 309,
     "updated_at": "2026-07-22T20:47:32Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
-    "id": "yipjunkai/ctgov-query-viz-agent",
-    "language": "Python",
-    "name": "yipjunkai/ctgov-query-viz-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:46:43Z",
-    "url": "https://github.com/yipjunkai/ctgov-query-viz-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -115,15 +124,6 @@
     "stars": 12,
     "updated_at": "2026-07-22T20:57:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 2,
-    "updated_at": "2026-07-22T20:19:05Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -220,7 +220,7 @@
     "id": "Mirascope/mirascope",
     "language": "Python",
     "name": "Mirascope/mirascope",
-    "stars": 1518,
+    "stars": 1519,
     "updated_at": "2026-07-22T18:29:12Z",
     "url": "https://github.com/Mirascope/mirascope"
   },
