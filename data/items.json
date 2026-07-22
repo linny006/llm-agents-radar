@@ -1,5 +1,59 @@
 [
   {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:42:33Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28145,
+    "updated_at": "2026-07-22T08:40:23Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:34:41Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2903,
+    "updated_at": "2026-07-22T08:34:22Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-22T08:32:06Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-22T08:28:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
     "id": "adityaarsharma/pickle",
     "language": "JavaScript",
@@ -54,20 +108,11 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-22T08:28:04Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6667,
+    "stars": 6668,
     "updated_at": "2026-07-22T07:59:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -108,15 +153,6 @@
     "url": "https://github.com/wangyuahn/nori-code"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:28:42Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "Stops Claude from vibe-coding your app in one shot \u2014 asks the right questions, gets your plan approved, then builds it l",
     "id": "metedursuncs-dev/claude-code-senior-dev-mode",
     "language": "\u2014",
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5580,
-    "updated_at": "2026-07-22T07:30:34Z",
+    "updated_at": "2026-07-22T08:40:45Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2903,
-    "updated_at": "2026-07-22T08:15:03Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T08:11:47Z",
+    "updated_at": "2026-07-22T08:30:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 16,
-    "updated_at": "2026-07-22T07:02:35Z",
+    "updated_at": "2026-07-22T08:44:40Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T08:08:21Z",
+    "updated_at": "2026-07-22T08:41:42Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T02:51:44Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-07-22T02:34:25Z",
-    "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-22T02:23:56Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "\u5927\u6a21\u578b\u9762\u8bd5\u6307\u5357",
-    "id": "Meko1/llm-interview-guide",
-    "language": "JavaScript",
-    "name": "Meko1/llm-interview-guide",
-    "stars": 2,
-    "updated_at": "2026-07-22T02:11:28Z",
-    "url": "https://github.com/Meko1/llm-interview-guide"
   }
 ]
