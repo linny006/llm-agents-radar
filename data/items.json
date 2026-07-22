@@ -1,5 +1,41 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-07-22T07:27:40Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-22T07:29:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-22T07:23:37Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-22T07:23:03Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -9,6 +45,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5550,
+    "updated_at": "2026-07-22T07:14:31Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -16,15 +61,6 @@
     "stars": 54,
     "updated_at": "2026-07-22T07:10:44Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-22T07:09:00Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T07:14:09Z",
+    "updated_at": "2026-07-22T07:24:27Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T06:59:15Z",
+    "updated_at": "2026-07-22T07:29:30Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2903,
-    "updated_at": "2026-07-22T07:19:00Z",
+    "updated_at": "2026-07-22T07:28:45Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T07:18:08Z",
+    "updated_at": "2026-07-22T07:29:54Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -131,17 +167,8 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T07:11:49Z",
+    "updated_at": "2026-07-22T07:24:34Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-22T06:46:47Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Empathetic AI engineering partner with cognitive memory, multi-agent orchestration (10 agents), 132-signal skill routing",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:42:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5549,
-    "updated_at": "2026-07-22T07:14:31Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5580,
-    "updated_at": "2026-07-22T07:11:55Z",
+    "updated_at": "2026-07-22T07:27:36Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-07-22T06:13:27Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-21T22:58:25Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 482,
-    "updated_at": "2026-07-21T22:53:08Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
