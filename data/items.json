@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4365,
+    "updated_at": "2026-07-22T20:42:26Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 20,
+    "updated_at": "2026-07-22T20:36:44Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-22T20:35:28Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-22T20:30:16Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -54,15 +90,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4365,
-    "updated_at": "2026-07-22T20:16:50Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
     "id": "yipjunkai/ctgov-query-viz-agent",
     "language": "Python",
@@ -99,15 +126,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-22T20:30:16Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -131,7 +149,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 0,
-    "updated_at": "2026-07-22T19:38:25Z",
+    "updated_at": "2026-07-22T20:43:58Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Go",
-    "name": "mintuz/skills",
-    "stars": 20,
-    "updated_at": "2026-07-22T20:30:15Z",
-    "url": "https://github.com/mintuz/skills"
-  },
-  {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
     "id": "9t29zhmwdh-coder/SwiftAgent",
     "language": "Swift",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T13:58:49Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
-  },
-  {
-    "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
-    "id": "sreenathvemula/finance-research-agent",
-    "language": "Python",
-    "name": "sreenathvemula/finance-research-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T13:56:25Z",
-    "url": "https://github.com/sreenathvemula/finance-research-agent"
   }
 ]
