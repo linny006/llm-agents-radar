@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 365,
+    "updated_at": "2026-07-22T04:44:54Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-22T04:42:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-22T04:41:52Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-22T04:32:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -45,24 +81,6 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-22T04:11:32Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-22T03:58:41Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -85,7 +103,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 1129,
+    "stars": 1130,
     "updated_at": "2026-07-22T03:49:21Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -243,30 +261,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 365,
-    "updated_at": "2026-07-22T01:23:08Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-22T01:08:27Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
     "id": "MikhailXiaomaikou/Standard-Astro",
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T04:21:49Z",
+    "updated_at": "2026-07-22T04:39:25Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T04:13:18Z",
+    "updated_at": "2026-07-22T04:38:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
