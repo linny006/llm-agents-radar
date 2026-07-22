@@ -1,11 +1,29 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-22T00:39:37Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-22T00:30:31Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T00:19:10Z",
+    "updated_at": "2026-07-22T00:31:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -49,18 +67,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6662,
+    "stars": 6663,
     "updated_at": "2026-07-22T00:08:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-21T23:59:17Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -115,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T23:17:46Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-22T00:27:01Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
