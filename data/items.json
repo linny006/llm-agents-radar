@@ -1,12 +1,30 @@
 [
   {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 37,
+    "updated_at": "2026-07-22T01:53:20Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-22T01:43:26Z",
+    "stars": 4,
+    "updated_at": "2026-07-22T01:52:34Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-22T01:56:36Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -36,15 +54,6 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-22T01:16:59Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T01:22:38Z",
+    "updated_at": "2026-07-22T01:56:54Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-21T15:53:51Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "Java",
-    "name": "muthuishere/toolnexus",
-    "stars": 3,
-    "updated_at": "2026-07-21T17:05:19Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   }
 ]
