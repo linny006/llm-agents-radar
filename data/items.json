@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-22T18:38:39Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1518,
+    "updated_at": "2026-07-22T18:29:12Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6671,
-    "updated_at": "2026-07-22T17:11:51Z",
+    "updated_at": "2026-07-22T18:44:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4365,
     "updated_at": "2026-07-22T16:09:45Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
-    "id": "yipjunkai/ctgov-query-viz-agent",
-    "language": "Python",
-    "name": "yipjunkai/ctgov-query-viz-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T17:00:38Z",
-    "url": "https://github.com/yipjunkai/ctgov-query-viz-agent"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 1,
-    "updated_at": "2026-07-22T12:33:03Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
