@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-22T12:11:32Z",
+    "updated_at": "2026-07-22T12:27:34Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
     "language": "Python",
-    "name": "yo4e/sudachi-life",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-22T12:21:56Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A C++20 framework for building intelligent agents.",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
     "stars": 0,
-    "updated_at": "2026-07-22T12:10:45Z",
-    "url": "https://github.com/yo4e/sudachi-life"
+    "updated_at": "2026-07-22T12:18:51Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-22T12:18:08Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
@@ -27,13 +45,22 @@
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 370,
+    "updated_at": "2026-07-22T12:13:07Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T12:04:40Z",
-    "url": "https://github.com/lkimuk/Wuwe"
+    "updated_at": "2026-07-22T12:10:45Z",
+    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -81,15 +108,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 369,
-    "updated_at": "2026-07-22T12:13:07Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T11:27:38Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 1,
-    "updated_at": "2026-07-22T11:27:17Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
@@ -220,7 +229,7 @@
     "id": "phenomenoner/agent-harness-core",
     "language": "Rust",
     "name": "phenomenoner/agent-harness-core",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-22T10:17:50Z",
     "url": "https://github.com/phenomenoner/agent-harness-core"
   },
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-22T11:39:40Z",
+    "updated_at": "2026-07-22T12:28:31Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -400,7 +409,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6669,
+    "stars": 6670,
     "updated_at": "2026-07-22T07:59:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-22T07:43:44Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Stops Claude from vibe-coding your app in one shot \u2014 asks the right questions, gets your plan approved, then builds it l",
-    "id": "metedursuncs-dev/claude-code-senior-dev-mode",
-    "language": "\u2014",
-    "name": "metedursuncs-dev/claude-code-senior-dev-mode",
-    "stars": 0,
-    "updated_at": "2026-07-22T07:34:30Z",
-    "url": "https://github.com/metedursuncs-dev/claude-code-senior-dev-mode"
   }
 ]
