@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 2,
-    "updated_at": "2026-07-22T23:10:42Z",
+    "updated_at": "2026-07-22T23:16:52Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-22T23:16:01Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -16,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-07-22T23:07:21Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-22T23:02:41Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T22:24:50Z",
+    "updated_at": "2026-07-22T23:21:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-22T22:47:24Z",
+    "updated_at": "2026-07-22T23:27:25Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
