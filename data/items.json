@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 792,
+    "updated_at": "2026-07-22T09:58:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -144,15 +153,6 @@
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 792,
-    "updated_at": "2026-07-22T09:45:28Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5581,
-    "updated_at": "2026-07-22T09:11:07Z",
+    "updated_at": "2026-07-22T10:00:07Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T09:07:22Z",
+    "updated_at": "2026-07-22T09:56:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-22T09:42:23Z",
+    "updated_at": "2026-07-22T09:57:34Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -229,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28153,
+    "stars": 28154,
     "updated_at": "2026-07-22T08:40:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
