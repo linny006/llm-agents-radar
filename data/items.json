@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-22T04:29:57Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know",
     "id": "csnyder256/RAG-OS",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T03:48:21Z",
     "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-22T04:29:57Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",

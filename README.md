@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 04:30 UTC
+> ⏰ Last updated: 2026-07-22 04:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [csnyder256/RAG-OS](https://github.com/csnyder256/RAG-OS) | 1 | Python | 2026-07-22 | Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-07-22 | ReAct Agent 学习实现 — Harness 轨迹 Schema、capability 评测、跨仓闭环 demo（非生产沙箱） |
-| 4 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-22 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
-| 5 | [madhavnair2009-arch/ronin](https://github.com/madhavnair2009-arch/ronin) | 0 | Python | 2026-07-22 | An autonomous sports agent with a personality and a memory — scores, news & takes across the major leagues, that also te |
-| 6 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-22 | A productive AI coworker that learns, self-improves, and ships work. |
-| 7 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5580 | Python | 2026-07-22 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 8 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 16 | Python | 2026-07-22 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
-| 9 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1129 | Python | 2026-07-22 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
-| 10 | [fightheyyy/barena](https://github.com/fightheyyy/barena) | 0 | TypeScript | 2026-07-22 | Agentic evaluation and release framework for AI agents — run, replay, verify, and gate skills, roles, prompts, tools, an |
-| 11 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-22 | AI-powered image generation and chat studio |
+| 1 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-22 | AI-powered image generation and chat studio |
+| 2 | [csnyder256/RAG-OS](https://github.com/csnyder256/RAG-OS) | 1 | Python | 2026-07-22 | Build your own always-on personal AI OS: a self-hosted agent that dispatches coding tasks, maintains a git-Markdown know |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-07-22 | ReAct Agent 学习实现 — Harness 轨迹 Schema、capability 评测、跨仓闭环 demo（非生产沙箱） |
+| 5 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-22 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
+| 6 | [madhavnair2009-arch/ronin](https://github.com/madhavnair2009-arch/ronin) | 0 | Python | 2026-07-22 | An autonomous sports agent with a personality and a memory — scores, news & takes across the major leagues, that also te |
+| 7 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-22 | A productive AI coworker that learns, self-improves, and ships work. |
+| 8 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5580 | Python | 2026-07-22 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 9 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 16 | Python | 2026-07-22 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
+| 10 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1129 | Python | 2026-07-22 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
+| 11 | [fightheyyy/barena](https://github.com/fightheyyy/barena) | 0 | TypeScript | 2026-07-22 | Agentic evaluation and release framework for AI agents — run, replay, verify, and gate skills, roles, prompts, tools, an |
 | 12 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 1 | TypeScript | 2026-07-22 | Open-source AI automation for SolidWorks — talk to your CAD. |
 | 13 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 1 | HTML | 2026-07-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
