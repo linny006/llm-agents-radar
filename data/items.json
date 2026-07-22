@@ -1,5 +1,23 @@
 [
   {
+    "description": "A small local agent for everyday reasoning using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-22T06:13:27Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-22T06:13:07Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -23,17 +41,8 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T05:54:09Z",
+    "updated_at": "2026-07-22T06:15:07Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-22T05:49:25Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T05:18:46Z",
+    "updated_at": "2026-07-22T06:10:30Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-22T04:39:25Z",
+    "updated_at": "2026-07-22T06:12:15Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "agent-axiom/agent-arch",
     "stars": 10,
-    "updated_at": "2026-07-21T23:21:41Z",
+    "updated_at": "2026-07-22T06:13:27Z",
     "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4364,
     "updated_at": "2026-07-22T05:16:58Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
-    "id": "StephenSook/silent-drift-sentinel",
-    "language": "Python",
-    "name": "StephenSook/silent-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-07-21T21:27:45Z",
-    "url": "https://github.com/StephenSook/silent-drift-sentinel"
   }
 ]
