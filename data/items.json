@@ -5,17 +5,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-22T07:44:33Z",
+    "updated_at": "2026-07-22T07:58:58Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 11,
-    "updated_at": "2026-07-22T07:43:44Z",
-    "url": "https://github.com/wangyuahn/nori-code"
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 13,
+    "updated_at": "2026-07-22T07:54:26Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4364,
+    "updated_at": "2026-07-22T07:55:46Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 1,
+    "updated_at": "2026-07-22T07:50:46Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-07-22T07:50:32Z",
+    "url": "https://github.com/mensfeld/pocketrb"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13536,
+    "updated_at": "2026-07-22T07:48:17Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "Free, local, open-source MCP server that audits your ClickUp, Slack & Teams for what fell through the cracks \u2014 stale tas",
@@ -27,12 +63,21 @@
     "url": "https://github.com/adityaarsharma/pickle"
   },
   {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 11,
+    "updated_at": "2026-07-22T07:43:44Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-22T07:41:49Z",
+    "updated_at": "2026-07-22T07:58:03Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2903,
-    "updated_at": "2026-07-22T07:28:45Z",
+    "updated_at": "2026-07-22T07:59:06Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -149,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T07:29:30Z",
+    "updated_at": "2026-07-22T07:51:03Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-22T05:56:32Z",
     "url": "https://github.com/aldok10/zara-agent-opc"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 13,
-    "updated_at": "2026-07-22T05:45:03Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
@@ -410,43 +446,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6666,
-    "updated_at": "2026-07-22T01:41:54Z",
+    "updated_at": "2026-07-22T07:59:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
-    "id": "letta-ai/letta",
-    "language": "Python",
-    "name": "letta-ai/letta",
-    "stars": 23910,
-    "updated_at": "2026-07-22T00:32:52Z",
-    "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1628,
-    "updated_at": "2026-07-22T05:57:38Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-22T00:09:07Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-22T00:08:54Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
