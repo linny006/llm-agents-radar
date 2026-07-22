@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T18:38:39Z",
+    "updated_at": "2026-07-22T18:59:58Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6671,
+    "updated_at": "2026-07-22T18:44:55Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -104,7 +113,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-07-22T17:53:40Z",
+    "updated_at": "2026-07-22T18:59:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 309,
     "updated_at": "2026-07-22T17:25:23Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6671,
-    "updated_at": "2026-07-22T18:44:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
