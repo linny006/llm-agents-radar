@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-22T00:19:10Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1627,
+    "updated_at": "2026-07-22T00:18:31Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 1,
-    "updated_at": "2026-07-22T00:10:37Z",
+    "updated_at": "2026-07-22T00:26:35Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 6662,
     "updated_at": "2026-07-22T00:08:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1627,
-    "updated_at": "2026-07-22T00:07:20Z",
-    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-21T23:08:27Z",
+    "updated_at": "2026-07-22T00:27:01Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-21T22:52:06Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-22T00:08:59Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -225,6 +225,15 @@
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5546,
+    "updated_at": "2026-07-21T20:37:02Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -268,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-21T19:16:13Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5545,
-    "updated_at": "2026-07-21T20:37:02Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Reachability-aware CVE prioritizer: tells you which vulnerabilities are actually reachable from your code, and drafts th",
@@ -337,7 +337,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 363,
+    "stars": 364,
     "updated_at": "2026-07-21T17:16:13Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -401,7 +401,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-21T16:32:38Z",
+    "updated_at": "2026-07-22T00:16:03Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
