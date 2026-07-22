@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-22T11:02:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-22T10:55:26Z",
+    "updated_at": "2026-07-22T11:07:35Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-22T10:35:50Z",
+    "updated_at": "2026-07-22T11:13:01Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4365,
-    "updated_at": "2026-07-22T10:53:34Z",
+    "updated_at": "2026-07-22T11:02:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -257,7 +266,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-22T10:48:43Z",
+    "updated_at": "2026-07-22T11:08:47Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -274,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28156,
+    "stars": 28157,
     "updated_at": "2026-07-22T08:40:23Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -295,15 +304,6 @@
     "stars": 46,
     "updated_at": "2026-07-22T08:24:11Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-22T08:15:48Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
