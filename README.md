@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-22 01:15 UTC
+> ⏰ Last updated: 2026-07-22 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -79,8 +79,8 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2898 | Python | 2026-07-21 | SRE Agent - CNCF Sandbox Project |
 | 36 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-07-21 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
 | 37 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | Go | 2026-07-21 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 38 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 364 | TypeScript | 2026-07-21 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 39 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-21 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 38 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 364 | TypeScript | 2026-07-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 39 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 40 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 626 | TypeScript | 2026-07-21 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
 | 41 | [helixml/helix](https://github.com/helixml/helix) | 791 | Go | 2026-07-21 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 42 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8867 | JavaScript | 2026-07-21 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
