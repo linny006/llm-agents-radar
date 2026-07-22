@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-22T04:53:55Z",
+    "updated_at": "2026-07-22T05:11:57Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-07-22T05:10:01Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-22T05:09:01Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-07-22T05:06:01Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-22T05:04:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -40,18 +76,9 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 366,
+    "stars": 367,
     "updated_at": "2026-07-22T04:44:54Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-22T04:41:52Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-22T04:45:34Z",
+    "updated_at": "2026-07-22T05:02:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-22T04:51:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
     "id": "StephenSook/silent-drift-sentinel",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 54,
     "updated_at": "2026-07-21T20:08:13Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 10,
-    "updated_at": "2026-07-21T19:31:24Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 4,
-    "updated_at": "2026-07-21T19:35:54Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
