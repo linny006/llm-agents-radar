@@ -81,6 +81,15 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2377,
+    "updated_at": "2026-07-23T00:51:17Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -212,7 +221,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-23T01:40:52Z",
+    "updated_at": "2026-07-23T01:46:38Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-22T18:08:50Z",
     "url": "https://github.com/FoxNoseTech/foxnose-python"
-  },
-  {
-    "description": "Observability + live control plane for LLM agents: log tool calls, messages, thinking, tokens, and carried-in context; w",
-    "id": "HarsimarSingh23/AgentMonitor",
-    "language": "Python",
-    "name": "HarsimarSingh23/AgentMonitor",
-    "stars": 0,
-    "updated_at": "2026-07-22T15:44:51Z",
-    "url": "https://github.com/HarsimarSingh23/AgentMonitor"
   }
 ]
