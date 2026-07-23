@@ -1,5 +1,41 @@
 [
   {
+    "description": "An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter",
+    "id": "SymphonyW/Synapse",
+    "language": "Python",
+    "name": "SymphonyW/Synapse",
+    "stars": 0,
+    "updated_at": "2026-07-23T14:43:32Z",
+    "url": "https://github.com/SymphonyW/Synapse"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 185,
+    "updated_at": "2026-07-23T14:40:27Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6675,
+    "updated_at": "2026-07-23T14:39:18Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
+    "id": "peijin0405/scout-agent",
+    "language": "Python",
+    "name": "peijin0405/scout-agent",
+    "stars": 0,
+    "updated_at": "2026-07-23T14:37:49Z",
+    "url": "https://github.com/peijin0405/scout-agent"
+  },
+  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/Djcloveml/wh40k-list-builder"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6675,
-    "updated_at": "2026-07-23T13:47:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A C++20 framework for building intelligent agents.",
     "id": "lkimuk/Wuwe",
     "language": "C++",
@@ -97,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-07-23T13:32:00Z",
     "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 185,
-    "updated_at": "2026-07-23T13:25:32Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -122,7 +140,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8870,
-    "updated_at": "2026-07-23T13:27:43Z",
+    "updated_at": "2026-07-23T14:33:28Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-23T14:01:43Z",
+    "updated_at": "2026-07-23T14:39:21Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T09:02:41Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:35:21Z",
-    "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
-    "id": "ateliertoby/first-reader",
-    "language": "JavaScript",
-    "name": "ateliertoby/first-reader",
-    "stars": 0,
-    "updated_at": "2026-07-23T08:33:09Z",
-    "url": "https://github.com/ateliertoby/first-reader"
   }
 ]
