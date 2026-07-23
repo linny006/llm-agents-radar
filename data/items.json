@@ -1,12 +1,30 @@
 [
   {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "Java",
+    "name": "muthuishere/toolnexus",
+    "stars": 3,
+    "updated_at": "2026-07-23T03:55:15Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-23T03:45:05Z",
+    "updated_at": "2026-07-23T03:59:23Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28188,
+    "updated_at": "2026-07-23T03:47:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -32,17 +50,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T03:42:15Z",
+    "updated_at": "2026-07-23T03:46:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "Java",
-    "name": "muthuishere/toolnexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:16:00Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
@@ -70,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T03:05:26Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28187,
-    "updated_at": "2026-07-23T03:01:15Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
