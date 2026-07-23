@@ -1,5 +1,41 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:59:53Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "A small local agent for everyday reasoning using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:50:31Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
+    "id": "juzikuwei/tech-radar-agent",
+    "language": "Python",
+    "name": "juzikuwei/tech-radar-agent",
+    "stars": 1,
+    "updated_at": "2026-07-23T05:49:59Z",
+    "url": "https://github.com/juzikuwei/tech-radar-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:48:19Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -16,15 +52,6 @@
     "stars": 524,
     "updated_at": "2026-07-23T05:40:20Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:45:14Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "larlarua/AutoCVE",
     "stars": 1140,
-    "updated_at": "2026-07-23T03:47:04Z",
+    "updated_at": "2026-07-23T05:45:23Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5552,
-    "updated_at": "2026-07-23T03:19:39Z",
+    "updated_at": "2026-07-23T05:55:08Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -220,7 +247,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2381,
+    "stars": 2383,
     "updated_at": "2026-07-23T03:14:22Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -250,15 +277,6 @@
     "stars": 9,
     "updated_at": "2026-07-23T02:53:26Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T02:42:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -430,23 +448,5 @@
     "stars": 309,
     "updated_at": "2026-07-22T20:47:32Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-22T20:46:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4365,
-    "updated_at": "2026-07-23T05:21:11Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
