@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 170,
+    "updated_at": "2026-07-23T05:41:26Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 524,
+    "updated_at": "2026-07-23T05:40:20Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-23T05:45:14Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
+    "id": "Jacobcdsmith/k10-delta",
+    "language": "Python",
+    "name": "Jacobcdsmith/k10-delta",
+    "stars": 2,
+    "updated_at": "2026-07-23T05:35:17Z",
+    "url": "https://github.com/Jacobcdsmith/k10-delta"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T05:34:35Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T05:29:50Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 12,
-    "updated_at": "2026-07-23T05:22:44Z",
+    "updated_at": "2026-07-23T05:44:54Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -97,24 +133,6 @@
     "stars": 28189,
     "updated_at": "2026-07-23T04:39:29Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
-    "id": "Jacobcdsmith/k10-delta",
-    "language": "Python",
-    "name": "Jacobcdsmith/k10-delta",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:37:50Z",
-    "url": "https://github.com/Jacobcdsmith/k10-delta"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:29:52Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 4365,
     "updated_at": "2026-07-23T05:21:11Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Go",
-    "name": "mintuz/skills",
-    "stars": 20,
-    "updated_at": "2026-07-22T20:36:44Z",
-    "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-22T20:06:56Z",
-    "url": "https://github.com/bigduu/Lotus"
   }
 ]
