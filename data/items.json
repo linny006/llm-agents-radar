@@ -1,5 +1,32 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:29:50Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:22:42Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13539,
+    "updated_at": "2026-07-23T06:18:39Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T06:04:23Z",
     "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:15:17Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -70,15 +88,6 @@
     "stars": 5,
     "updated_at": "2026-07-23T05:34:35Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13539,
-    "updated_at": "2026-07-23T05:25:32Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -157,7 +166,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28190,
+    "stars": 28193,
     "updated_at": "2026-07-23T04:39:29Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-23T06:08:47Z",
+    "updated_at": "2026-07-23T06:18:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-22T20:48:57Z",
     "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 309,
-    "updated_at": "2026-07-22T20:47:32Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
