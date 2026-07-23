@@ -1,21 +1,30 @@
 [
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "Java",
-    "name": "muthuishere/toolnexus",
-    "stars": 3,
-    "updated_at": "2026-07-23T03:55:15Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-23T03:59:23Z",
+    "updated_at": "2026-07-23T04:06:39Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "Java",
+    "name": "muthuishere/toolnexus",
+    "stars": 3,
+    "updated_at": "2026-07-23T04:14:48Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
+    "id": "larlarua/AutoCVE",
+    "language": "Python",
+    "name": "larlarua/AutoCVE",
+    "stars": 1139,
+    "updated_at": "2026-07-23T03:47:04Z",
+    "url": "https://github.com/larlarua/AutoCVE"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-22T16:44:26Z",
     "url": "https://github.com/adityaarsharma/pickle"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-22T16:30:15Z",
-    "url": "https://github.com/aerkn1/jobhunt"
   }
 ]
