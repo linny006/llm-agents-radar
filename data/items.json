@@ -1,5 +1,14 @@
 [
   {
+    "description": "LLM-powered data engineering agent: converts requirement docs and natural language into production-ready SQL, automating",
+    "id": "JohnnyQ-commits/Aqueduct",
+    "language": "Python",
+    "name": "JohnnyQ-commits/Aqueduct",
+    "stars": 17,
+    "updated_at": "2026-07-23T09:55:27Z",
+    "url": "https://github.com/JohnnyQ-commits/Aqueduct"
+  },
+  {
     "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 33,
     "updated_at": "2026-07-23T09:43:52Z",
     "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:43:51Z",
+    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -41,7 +59,7 @@
     "language": "C++",
     "name": "lkimuk/Wuwe",
     "stars": 0,
-    "updated_at": "2026-07-23T09:33:42Z",
+    "updated_at": "2026-07-23T09:49:50Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 0,
-    "updated_at": "2026-07-23T09:34:46Z",
+    "updated_at": "2026-07-23T09:53:03Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-23T09:10:09Z",
+    "updated_at": "2026-07-23T09:58:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -106,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-07-23T09:15:04Z",
     "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-23T09:05:50Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T08:35:21Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:05:50Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
@@ -261,15 +279,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-23T09:43:51Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
     "id": "80x24/nuanua",
     "language": "TypeScript",
@@ -324,6 +333,15 @@
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2914,
+    "updated_at": "2026-07-23T06:54:21Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4366,
-    "updated_at": "2026-07-23T09:42:16Z",
+    "updated_at": "2026-07-23T10:00:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 40,
     "updated_at": "2026-07-23T05:05:02Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 2,
-    "updated_at": "2026-07-23T04:54:58Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "BYOK autonomous AI agent with Typer CLI, 200+ tools, goal lifecycle state machine, and optional Supabase sync.",
-    "id": "Jacobcdsmith/delta-agent",
-    "language": "Python",
-    "name": "Jacobcdsmith/delta-agent",
-    "stars": 0,
-    "updated_at": "2026-07-23T04:40:04Z",
-    "url": "https://github.com/Jacobcdsmith/delta-agent"
   }
 ]
