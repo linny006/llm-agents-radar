@@ -1,5 +1,23 @@
 [
   {
+    "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
+    "id": "kulapoo/opencode-agent-harness",
+    "language": "Python",
+    "name": "kulapoo/opencode-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-07-23T16:29:43Z",
+    "url": "https://github.com/kulapoo/opencode-agent-harness"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4367,
+    "updated_at": "2026-07-23T16:29:26Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
     "id": "Grizzly-Endeavors/grizzly-gameservers",
     "language": "Rust",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6676,
-    "updated_at": "2026-07-23T15:16:22Z",
+    "updated_at": "2026-07-23T16:29:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T13:41:53Z",
     "url": "https://github.com/Nisarg6502/Corporate-Contradiction-Detector"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4367,
-    "updated_at": "2026-07-23T15:49:33Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Portable AI agent skill (SKILL.md): Warhammer 40k 11th Edition competitive army list builder - BSData points, meta resea",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T11:30:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "heichaowo/amem",
-    "language": "TypeScript",
-    "name": "heichaowo/amem",
-    "stars": 1,
-    "updated_at": "2026-07-23T10:44:28Z",
-    "url": "https://github.com/heichaowo/amem"
   }
 ]
