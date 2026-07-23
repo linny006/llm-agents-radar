@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-23T02:45:09Z",
+    "updated_at": "2026-07-23T03:00:02Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2379,
+    "updated_at": "2026-07-23T02:57:31Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5551,
+    "updated_at": "2026-07-23T02:55:28Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-23T02:53:26Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -27,21 +54,12 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 9,
-    "updated_at": "2026-07-23T02:28:32Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-23T02:25:40Z",
+    "updated_at": "2026-07-23T02:55:09Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T00:54:00Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2379,
-    "updated_at": "2026-07-23T00:51:17Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "The LLM Anti-Framework",
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-07-22T19:18:00Z",
     "url": "https://github.com/LLMQuant/llmquant-hermes"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5551,
-    "updated_at": "2026-07-22T18:44:02Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
