@@ -1,5 +1,41 @@
 [
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4082,
+    "updated_at": "2026-07-23T20:29:37Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-23T20:25:42Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T20:28:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-23T20:21:12Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first",
     "id": "pedjaurosevic/azot",
     "language": "Go",
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-07-23T20:08:57Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T20:02:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 2,
-    "updated_at": "2026-07-23T19:21:49Z",
+    "updated_at": "2026-07-23T20:28:48Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -131,17 +158,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4368,
-    "updated_at": "2026-07-23T19:50:47Z",
+    "updated_at": "2026-07-23T20:19:26Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-23T18:57:00Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:33:47Z",
     "url": "https://github.com/mariarodr1136/Clay"
-  },
-  {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-23T18:31:27Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -385,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T14:37:49Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4082,
-    "updated_at": "2026-07-23T14:25:08Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
