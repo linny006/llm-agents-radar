@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 15:00 UTC
+> ⏰ Last updated: 2026-07-23 15:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6675 | Python | 2026-07-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6676 | Python | 2026-07-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 2 | [pedjaurosevic/toza](https://github.com/pedjaurosevic/toza) | 0 | Python | 2026-07-23 | A minimal coding agent - one file, six tools, no guards. The control group for azot. |
 | 3 | [pedjaurosevic/azot](https://github.com/pedjaurosevic/azot) | 0 | Go | 2026-07-23 | Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first |
 | 4 | [SymphonyW/Synapse](https://github.com/SymphonyW/Synapse) | 0 | Python | 2026-07-23 | An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter |
@@ -55,7 +55,7 @@ expired items removed — so you can rely on what you see being current.
 | 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 12 | [Nisarg6502/Corporate-Contradiction-Detector](https://github.com/Nisarg6502/Corporate-Contradiction-Detector) | 1 | Python | 2026-07-23 | Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up — with a citation f |
 | 13 | [Djcloveml/wh40k-list-builder](https://github.com/Djcloveml/wh40k-list-builder) | 0 | — | 2026-07-23 | Portable AI agent skill (SKILL.md): Warhammer 40k 11th Edition competitive army list builder - BSData points, meta resea |
-| 14 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 4 | C++ | 2026-07-23 | A C++20 framework for building intelligent agents. |
+| 14 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 6 | C++ | 2026-07-23 | A C++20 framework for building intelligent agents. |
 | 15 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28207 | Python | 2026-07-23 | Build and run agents you can see, understand and trust. |
 | 16 | [gptme/gptme](https://github.com/gptme/gptme) | 4366 | Python | 2026-07-23 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 17 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8870 | JavaScript | 2026-07-23 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
