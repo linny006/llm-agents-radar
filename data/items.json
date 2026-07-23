@@ -1,12 +1,12 @@
 [
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
+    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
+    "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:59:53Z",
-    "url": "https://github.com/yo4e/sudachi-life"
+    "name": "juzikuwei/tech-radar-agent",
+    "stars": 1,
+    "updated_at": "2026-07-23T06:09:00Z",
+    "url": "https://github.com/juzikuwei/tech-radar-agent"
   },
   {
     "description": "A small local agent for everyday reasoning using SmolLM3.",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "vpakarinen2/localmind",
     "stars": 0,
-    "updated_at": "2026-07-23T05:50:31Z",
+    "updated_at": "2026-07-23T06:04:23Z",
     "url": "https://github.com/vpakarinen2/localmind"
   },
   {
-    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
-    "id": "juzikuwei/tech-radar-agent",
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
     "language": "Python",
-    "name": "juzikuwei/tech-radar-agent",
-    "stars": 1,
-    "updated_at": "2026-07-23T05:49:59Z",
-    "url": "https://github.com/juzikuwei/tech-radar-agent"
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:15:17Z",
+    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -49,7 +49,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 524,
+    "stars": 525,
     "updated_at": "2026-07-23T05:40:20Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -76,7 +76,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13538,
+    "stars": 13539,
     "updated_at": "2026-07-23T05:25:32Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -157,7 +157,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28189,
+    "stars": 28190,
     "updated_at": "2026-07-23T04:39:29Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -284,7 +284,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-23T02:39:50Z",
+    "updated_at": "2026-07-23T06:08:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -293,7 +293,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8869,
-    "updated_at": "2026-07-23T01:42:56Z",
+    "updated_at": "2026-07-23T06:01:04Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
