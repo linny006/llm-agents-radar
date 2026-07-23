@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-23 14:00 UTC
+> ⏰ Last updated: 2026-07-23 14:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -49,7 +49,7 @@ expired items removed — so you can rely on what you see being current.
 | 5 | [Nisarg6502/Corporate-Contradiction-Detector](https://github.com/Nisarg6502/Corporate-Contradiction-Detector) | 1 | Python | 2026-07-23 | Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up — with a citation f |
 | 6 | [Djcloveml/wh40k-list-builder](https://github.com/Djcloveml/wh40k-list-builder) | 0 | — | 2026-07-23 | Portable AI agent skill (SKILL.md): Warhammer 40k 11th Edition competitive army list builder - BSData points, meta resea |
 | 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6675 | Python | 2026-07-23 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 8 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 1 | C++ | 2026-07-23 | A C++20 framework for building intelligent agents. |
+| 8 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 3 | C++ | 2026-07-23 | A C++20 framework for building intelligent agents. |
 | 9 | [pedjaurosevic/toza](https://github.com/pedjaurosevic/toza) | 0 | Python | 2026-07-23 | A minimal coding agent - one file, six tools, no guards. The control group for azot. |
 | 10 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 185 | Python | 2026-07-23 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
 | 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4366 | Python | 2026-07-23 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
