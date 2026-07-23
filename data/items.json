@@ -1,11 +1,47 @@
 [
   {
+    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
+    "id": "jack420xeppep-a11y/claude-cyborg",
+    "language": "Python",
+    "name": "jack420xeppep-a11y/claude-cyborg",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:58:42Z",
+    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-23T19:53:58Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:49:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
+    "id": "Alessandro114/landiq",
+    "language": "Python",
+    "name": "Alessandro114/landiq",
+    "stars": 0,
+    "updated_at": "2026-07-23T19:46:29Z",
+    "url": "https://github.com/Alessandro114/landiq"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T19:43:25Z",
+    "updated_at": "2026-07-23T19:51:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -27,15 +63,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
-    "id": "jack420xeppep-a11y/claude-cyborg",
-    "language": "Python",
-    "name": "jack420xeppep-a11y/claude-cyborg",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:28:49Z",
-    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
-  },
-  {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, fact",
     "id": "laazizi/autoagent",
     "language": "Python",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T19:21:49Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
-    "id": "Alessandro114/landiq",
-    "language": "Python",
-    "name": "Alessandro114/landiq",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:19:39Z",
-    "url": "https://github.com/Alessandro114/landiq"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -81,15 +99,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 10,
-    "updated_at": "2026-07-23T19:09:30Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4368,
-    "updated_at": "2026-07-23T19:41:11Z",
+    "updated_at": "2026-07-23T19:50:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 6676,
     "updated_at": "2026-07-23T18:25:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-23T18:15:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
