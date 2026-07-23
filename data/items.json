@@ -1,11 +1,20 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-23T08:55:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
     "name": "alex8224/synapse-agent",
     "stars": 2,
-    "updated_at": "2026-07-23T08:45:05Z",
+    "updated_at": "2026-07-23T08:54:28Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
@@ -31,9 +40,36 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8871,
+    "stars": 8870,
     "updated_at": "2026-07-23T08:25:29Z",
     "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
+    "id": "neopen/story-shot-agent",
+    "language": "Python",
+    "name": "neopen/story-shot-agent",
+    "stars": 125,
+    "updated_at": "2026-07-23T08:23:07Z",
+    "url": "https://github.com/neopen/story-shot-agent"
+  },
+  {
+    "description": "An AI agent inside the GAMA IDE - not a chatbot. It reads compiler errors, edits & validates GAML, builds whole projects",
+    "id": "mr-thangceoaka/gama-claude-plugin",
+    "language": "Java",
+    "name": "mr-thangceoaka/gama-claude-plugin",
+    "stars": 5,
+    "updated_at": "2026-07-23T08:23:01Z",
+    "url": "https://github.com/mr-thangceoaka/gama-claude-plugin"
+  },
+  {
+    "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
+    "id": "kenny0312/videosense-agent",
+    "language": "Python",
+    "name": "kenny0312/videosense-agent",
+    "stars": 33,
+    "updated_at": "2026-07-23T08:16:05Z",
+    "url": "https://github.com/kenny0312/videosense-agent"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
@@ -99,20 +135,11 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-23T08:43:03Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13541,
+    "stars": 13542,
     "updated_at": "2026-07-23T07:30:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4366,
-    "updated_at": "2026-07-23T08:44:57Z",
+    "updated_at": "2026-07-23T08:50:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T08:31:32Z",
+    "updated_at": "2026-07-23T08:59:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6673,
-    "updated_at": "2026-07-23T07:54:26Z",
+    "updated_at": "2026-07-23T08:00:08Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -391,7 +418,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2385,
+    "stars": 2386,
     "updated_at": "2026-07-23T03:14:22Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-23T07:31:00Z",
+    "updated_at": "2026-07-23T07:50:26Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-07-23T01:27:03Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1519,
-    "updated_at": "2026-07-23T00:39:45Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Agentic geopolitical simulation: LLM country-agents constrained by real data negotiate under a Game Master, with sourced",
-    "id": "laurykb/AI_for_geopolitics",
-    "language": "Python",
-    "name": "laurykb/AI_for_geopolitics",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:38:08Z",
-    "url": "https://github.com/laurykb/AI_for_geopolitics"
   }
 ]
