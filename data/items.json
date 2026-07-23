@@ -1,12 +1,84 @@
 [
   {
+    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
+    "id": "ateliertoby/first-reader",
+    "language": "JavaScript",
+    "name": "ateliertoby/first-reader",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:44:08Z",
+    "url": "https://github.com/ateliertoby/first-reader"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-23T06:29:50Z",
+    "updated_at": "2026-07-23T06:44:04Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-23T06:40:43Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:39:56Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "A small local agent for everyday reasoning using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-23T06:39:13Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-23T06:37:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4365,
+    "updated_at": "2026-07-23T06:38:10Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-23T06:35:27Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-23T06:34:10Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:09:00Z",
     "url": "https://github.com/juzikuwei/tech-radar-agent"
-  },
-  {
-    "description": "A small local agent for everyday reasoning using SmolLM3.",
-    "id": "vpakarinen2/localmind",
-    "language": "Python",
-    "name": "vpakarinen2/localmind",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:04:23Z",
-    "url": "https://github.com/vpakarinen2/localmind"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -90,15 +153,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-23T05:44:54Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -130,7 +184,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 39,
+    "stars": 40,
     "updated_at": "2026-07-23T05:05:02Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -166,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28193,
+    "stars": 28194,
     "updated_at": "2026-07-23T04:39:29Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T04:16:35Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-23T04:17:45Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
@@ -403,50 +448,5 @@
     "stars": 19,
     "updated_at": "2026-07-22T22:42:37Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-22T21:53:25Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-22T21:45:13Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6672,
-    "updated_at": "2026-07-23T03:34:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Turns natural-language clinical-trials questions into verifiable, source-cited visualization specs over the ClinicalTria",
-    "id": "yipjunkai/ctgov-query-viz-agent",
-    "language": "Python",
-    "name": "yipjunkai/ctgov-query-viz-agent",
-    "stars": 0,
-    "updated_at": "2026-07-22T21:04:50Z",
-    "url": "https://github.com/yipjunkai/ctgov-query-viz-agent"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-22T20:48:57Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
   }
 ]
