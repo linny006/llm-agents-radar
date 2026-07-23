@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:53:47Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:53:00Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-23T13:59:52Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -32,17 +59,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6675,
-    "updated_at": "2026-07-23T13:35:13Z",
+    "updated_at": "2026-07-23T13:47:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
+    "description": "A C++20 framework for building intelligent agents.",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
     "stars": 1,
-    "updated_at": "2026-07-23T13:33:10Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
+    "updated_at": "2026-07-23T13:32:00Z",
+    "url": "https://github.com/lkimuk/Wuwe"
   },
   {
     "description": "A minimal coding agent - one file, six tools, no guards. The control group for azot.",
@@ -104,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 792,
-    "updated_at": "2026-07-23T13:04:43Z",
+    "updated_at": "2026-07-23T13:49:50Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T12:57:56Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:57:39Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T12:54:13Z",
     "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:32:00Z",
-    "url": "https://github.com/lkimuk/Wuwe"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T08:24:24Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "\u5267\u672c\u5206\u955c\u5de5\u5177\u667a\u80fd\u4f53\uff08PenShot\uff09\uff1a\u7535\u5f71/\u52a8\u6f2b/\u77ed\u5267/\u5c0f\u8bf4/\u5267\u672c\u2192\u5206\u955c\u2192\u7247\u6bb5\u2192prompt | \u57fa\u4e8e LangGraph+LLM\uff0c\u81ea\u52a8\u89e3\u6790\u4efb\u610f\u683c\u5f0f\u5267\u672c\uff0c\u751f\u6210 Sora/Veo/Runway \u7b49\u6a21\u578b\u53ef\u7528\u7684\u8fde\u8d2ftext-to-video\u63d0\u793a\u8bcd",
-    "id": "neopen/story-shot-agent",
-    "language": "Python",
-    "name": "neopen/story-shot-agent",
-    "stars": 125,
-    "updated_at": "2026-07-23T08:23:07Z",
-    "url": "https://github.com/neopen/story-shot-agent"
   }
 ]
