@@ -1,5 +1,50 @@
 [
   {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:28:27Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "A minimal coding agent - one file, six tools, no guards. The control group for azot.",
+    "id": "pedjaurosevic/toza",
+    "language": "Python",
+    "name": "pedjaurosevic/toza",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:27:13Z",
+    "url": "https://github.com/pedjaurosevic/toza"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 185,
+    "updated_at": "2026-07-23T13:25:32Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4366,
+    "updated_at": "2026-07-23T13:26:32Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8870,
+    "updated_at": "2026-07-23T13:27:43Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -25,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-07-23T12:57:56Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-23T12:57:39Z",
+    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -108,15 +162,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-23T12:57:39Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -153,13 +198,13 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4366,
-    "updated_at": "2026-07-23T13:12:25Z",
-    "url": "https://github.com/gptme/gptme"
+    "description": "Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first",
+    "id": "pedjaurosevic/azot",
+    "language": "Go",
+    "name": "pedjaurosevic/azot",
+    "stars": 0,
+    "updated_at": "2026-07-23T12:18:41Z",
+    "url": "https://github.com/pedjaurosevic/azot"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -360,15 +405,6 @@
     "url": "https://github.com/ateliertoby/first-reader"
   },
   {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8870,
-    "updated_at": "2026-07-23T12:01:18Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "Java",
@@ -412,41 +448,5 @@
     "stars": 5555,
     "updated_at": "2026-07-23T12:13:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
-    "id": "kenny0312/videosense-agent",
-    "language": "Python",
-    "name": "kenny0312/videosense-agent",
-    "stars": 33,
-    "updated_at": "2026-07-23T09:44:25Z",
-    "url": "https://github.com/kenny0312/videosense-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6674,
-    "updated_at": "2026-07-23T08:00:08Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-07-23T07:39:56Z",
-    "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13545,
-    "updated_at": "2026-07-23T07:30:38Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
