@@ -1,11 +1,20 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:48:07Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6678,
-    "updated_at": "2026-07-23T21:44:26Z",
+    "updated_at": "2026-07-23T21:47:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T20:47:44Z",
     "url": "https://github.com/Alessandro114/landiq"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-23T20:46:35Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -423,6 +423,15 @@
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 483,
+    "updated_at": "2026-07-23T13:46:27Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up \u2014 with a citation f",
     "id": "Nisarg6502/Corporate-Contradiction-Detector",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T13:37:59Z",
     "url": "https://github.com/Djcloveml/wh40k-list-builder"
-  },
-  {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 6,
-    "updated_at": "2026-07-23T13:32:00Z",
-    "url": "https://github.com/lkimuk/Wuwe"
   }
 ]
