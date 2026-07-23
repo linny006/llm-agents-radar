@@ -1,11 +1,38 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4368,
+    "updated_at": "2026-07-23T18:59:55Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 10,
+    "updated_at": "2026-07-23T18:59:45Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-23T18:57:00Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T18:44:03Z",
+    "updated_at": "2026-07-23T18:51:11Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T18:33:47Z",
     "url": "https://github.com/mariarodr1136/Clay"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-23T18:32:48Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 792,
-    "updated_at": "2026-07-23T17:57:27Z",
+    "updated_at": "2026-07-23T18:56:30Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T17:13:18Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4368,
-    "updated_at": "2026-07-23T17:05:30Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-23T14:45:27Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5589,
-    "updated_at": "2026-07-23T12:25:08Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
