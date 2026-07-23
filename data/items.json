@@ -1,11 +1,29 @@
 [
   {
+    "description": "Individualized worksheets for educational and therapeutic professionals from a support goal, level, and age \u2014 local LLM ",
+    "id": "ellmos-ai/worksheet-generator",
+    "language": "Python",
+    "name": "ellmos-ai/worksheet-generator",
+    "stars": 0,
+    "updated_at": "2026-07-23T17:22:53Z",
+    "url": "https://github.com/ellmos-ai/worksheet-generator"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-23T17:20:31Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "A fast and minimal agent library for typescript and rust",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
     "name": "codex-mohan/spectra",
     "stars": 1,
-    "updated_at": "2026-07-23T17:14:36Z",
+    "updated_at": "2026-07-23T17:19:31Z",
     "url": "https://github.com/codex-mohan/spectra"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6676,
-    "updated_at": "2026-07-23T16:32:20Z",
+    "updated_at": "2026-07-23T17:15:20Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T16:02:37Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Individualized worksheets for educational and therapeutic professionals from a support goal, level, and age \u2014 local LLM ",
-    "id": "ellmos-ai/worksheet-generator",
-    "language": "Python",
-    "name": "ellmos-ai/worksheet-generator",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:57:46Z",
-    "url": "https://github.com/ellmos-ai/worksheet-generator"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T15:14:37Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-23T15:07:27Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -347,7 +347,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8870,
-    "updated_at": "2026-07-23T14:33:28Z",
+    "updated_at": "2026-07-23T17:27:31Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
