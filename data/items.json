@@ -1,11 +1,47 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:42:41Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up \u2014 with a citation f",
+    "id": "Nisarg6502/Corporate-Contradiction-Detector",
+    "language": "Python",
+    "name": "Nisarg6502/Corporate-Contradiction-Detector",
+    "stars": 1,
+    "updated_at": "2026-07-23T13:41:53Z",
+    "url": "https://github.com/Nisarg6502/Corporate-Contradiction-Detector"
+  },
+  {
+    "description": "Portable AI agent skill (SKILL.md): Warhammer 40k 11th Edition competitive army list builder - BSData points, meta resea",
+    "id": "Djcloveml/wh40k-list-builder",
+    "language": "\u2014",
+    "name": "Djcloveml/wh40k-list-builder",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:37:59Z",
+    "url": "https://github.com/Djcloveml/wh40k-list-builder"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6675,
+    "updated_at": "2026-07-23T13:35:13Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI an LLM agent tool-calls to write",
     "id": "hec-ovi/censurado-web-brain",
     "language": "Python",
     "name": "hec-ovi/censurado-web-brain",
     "stars": 1,
-    "updated_at": "2026-07-23T13:28:27Z",
+    "updated_at": "2026-07-23T13:33:10Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4366,
-    "updated_at": "2026-07-23T13:26:32Z",
+    "updated_at": "2026-07-23T13:39:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -43,6 +79,15 @@
     "stars": 8870,
     "updated_at": "2026-07-23T13:27:43Z",
     "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-23T13:10:02Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -104,7 +149,7 @@
     "language": "C++",
     "name": "lkimuk/Wuwe",
     "stars": 0,
-    "updated_at": "2026-07-23T12:49:24Z",
+    "updated_at": "2026-07-23T13:32:00Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/mathisarends/sonosify"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-23T13:10:02Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -268,15 +304,6 @@
     "stars": 19,
     "updated_at": "2026-07-23T11:23:56Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-23T11:04:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -421,32 +448,5 @@
     "stars": 125,
     "updated_at": "2026-07-23T08:23:07Z",
     "url": "https://github.com/neopen/story-shot-agent"
-  },
-  {
-    "description": "An AI agent inside the GAMA IDE - not a chatbot. It reads compiler errors, edits & validates GAML, builds whole projects",
-    "id": "mr-thangceoaka/gama-claude-plugin",
-    "language": "Java",
-    "name": "mr-thangceoaka/gama-claude-plugin",
-    "stars": 5,
-    "updated_at": "2026-07-23T08:23:01Z",
-    "url": "https://github.com/mr-thangceoaka/gama-claude-plugin"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1143,
-    "updated_at": "2026-07-23T08:21:16Z",
-    "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5555,
-    "updated_at": "2026-07-23T12:13:05Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
