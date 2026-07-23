@@ -1,5 +1,41 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-23T08:45:05Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
+    "id": "ateliertoby/first-reader",
+    "language": "JavaScript",
+    "name": "ateliertoby/first-reader",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:33:09Z",
+    "url": "https://github.com/ateliertoby/first-reader"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-23T08:31:58Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8871,
+    "updated_at": "2026-07-23T08:25:29Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
@@ -45,6 +81,15 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-07-23T07:39:56Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-23T08:24:28Z",
+    "updated_at": "2026-07-23T08:43:03Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
-    "id": "ateliertoby/first-reader",
-    "language": "JavaScript",
-    "name": "ateliertoby/first-reader",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:44:08Z",
-    "url": "https://github.com/ateliertoby/first-reader"
-  },
-  {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
     "id": "maisieyang/build-my-own-harness",
     "language": "Python",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4366,
-    "updated_at": "2026-07-23T08:19:02Z",
+    "updated_at": "2026-07-23T08:44:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-07-23T06:22:42Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-23T06:09:00Z",
     "url": "https://github.com/juzikuwei/tech-radar-agent"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8870,
-    "updated_at": "2026-07-23T08:25:29Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -247,7 +265,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 525,
+    "stars": 526,
     "updated_at": "2026-07-23T05:40:20Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -266,17 +284,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-23T05:34:35Z",
+    "updated_at": "2026-07-23T08:31:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-07-23T05:17:08Z",
-    "url": "https://github.com/80x24/nuanua"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T00:38:08Z",
     "url": "https://github.com/laurykb/AI_for_geopolitics"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-23T00:16:13Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
