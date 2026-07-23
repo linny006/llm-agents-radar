@@ -1,5 +1,32 @@
 [
   {
+    "description": "Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first",
+    "id": "pedjaurosevic/azot",
+    "language": "Go",
+    "name": "pedjaurosevic/azot",
+    "stars": 0,
+    "updated_at": "2026-07-23T20:14:25Z",
+    "url": "https://github.com/pedjaurosevic/azot"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-23T20:08:57Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T20:02:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
     "id": "jack420xeppep-a11y/claude-cyborg",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-23T19:46:29Z",
     "url": "https://github.com/Alessandro114/landiq"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T19:51:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6676,
-    "updated_at": "2026-07-23T18:25:15Z",
+    "updated_at": "2026-07-23T20:10:31Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first",
-    "id": "pedjaurosevic/azot",
-    "language": "Go",
-    "name": "pedjaurosevic/azot",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:47:25Z",
-    "url": "https://github.com/pedjaurosevic/azot"
-  },
-  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 28210,
     "updated_at": "2026-07-23T13:28:56Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-07-23T12:54:13Z",
-    "url": "https://github.com/adamskijow/Hob"
   }
 ]
