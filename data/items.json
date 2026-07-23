@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-23T05:00:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 2,
+    "updated_at": "2026-07-23T04:54:58Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,20 +45,11 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-23T04:39:10Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
     "id": "Jacobcdsmith/k10-delta",
     "language": "Python",
     "name": "Jacobcdsmith/k10-delta",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-23T04:37:50Z",
     "url": "https://github.com/Jacobcdsmith/k10-delta"
   },
@@ -223,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-23T01:27:03Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 2,
-    "updated_at": "2026-07-23T01:09:56Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
