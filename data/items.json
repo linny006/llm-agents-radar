@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-07-24T07:13:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -113,7 +122,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 792,
-    "updated_at": "2026-07-24T07:01:33Z",
+    "updated_at": "2026-07-24T07:12:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -207,15 +216,6 @@
     "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:32:16Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -292,7 +292,7 @@
     "id": "Meko1/llm-interview-guide",
     "language": "JavaScript",
     "name": "Meko1/llm-interview-guide",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-24T02:03:46Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
   },
@@ -337,7 +337,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2396,
+    "stars": 2397,
     "updated_at": "2026-07-23T23:49:28Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
