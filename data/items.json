@@ -5,7 +5,7 @@
     "language": "Swift",
     "name": "9t29zhmwdh-coder/SwiftAgent",
     "stars": 0,
-    "updated_at": "2026-07-24T19:59:56Z",
+    "updated_at": "2026-07-24T20:13:13Z",
     "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6688,
-    "updated_at": "2026-07-24T19:55:21Z",
+    "updated_at": "2026-07-24T20:03:37Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 15 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-24T19:55:09Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "aws-samples/sample-agentcore-scverse",
     "stars": 0,
-    "updated_at": "2026-07-24T19:51:18Z",
+    "updated_at": "2026-07-24T20:00:45Z",
     "url": "https://github.com/aws-samples/sample-agentcore-scverse"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T18:32:46Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-24T18:32:17Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
