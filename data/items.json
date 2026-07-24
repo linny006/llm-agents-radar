@@ -1,21 +1,30 @@
 [
   {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 9,
-    "updated_at": "2026-07-24T02:28:41Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T02:28:06Z",
+    "updated_at": "2026-07-24T02:44:47Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:40:41Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-24T02:30:23Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
@@ -157,7 +166,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2391,
+    "stars": 2392,
     "updated_at": "2026-07-23T23:49:28Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -355,7 +364,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8872,
+    "stars": 8873,
     "updated_at": "2026-07-23T17:27:31Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-23T15:56:06Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
-    "id": "loquix-dev/loquix",
-    "language": "TypeScript",
-    "name": "loquix-dev/loquix",
-    "stars": 36,
-    "updated_at": "2026-07-23T15:52:44Z",
-    "url": "https://github.com/loquix-dev/loquix"
   }
 ]
