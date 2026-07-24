@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T02:44:47Z",
+    "updated_at": "2026-07-24T02:55:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
+    "id": "kulapoo/opencode-agent-harness",
+    "language": "Python",
+    "name": "kulapoo/opencode-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:50:19Z",
+    "url": "https://github.com/kulapoo/opencode-agent-harness"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5556,
+    "updated_at": "2026-07-24T02:49:51Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
@@ -166,7 +184,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2392,
+    "stars": 2393,
     "updated_at": "2026-07-23T23:49:28Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-23T22:50:01Z",
+    "updated_at": "2026-07-24T02:45:30Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -220,7 +238,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6680,
+    "stars": 6681,
     "updated_at": "2026-07-23T21:47:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
-    "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
-    "id": "kulapoo/opencode-agent-harness",
-    "language": "Python",
-    "name": "kulapoo/opencode-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-07-23T16:29:43Z",
-    "url": "https://github.com/kulapoo/opencode-agent-harness"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T16:02:37Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-07-23T15:56:06Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
