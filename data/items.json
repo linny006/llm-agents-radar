@@ -1,5 +1,14 @@
 [
   {
+    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
+    "id": "SturdyRobot/aegis",
+    "language": "Rust",
+    "name": "SturdyRobot/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-24T00:13:56Z",
+    "url": "https://github.com/SturdyRobot/aegis"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-24T00:12:34Z",
+    "updated_at": "2026-07-24T00:24:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T13:53:47Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 482,
-    "updated_at": "2026-07-23T13:46:27Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
