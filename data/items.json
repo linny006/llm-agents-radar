@@ -1,5 +1,50 @@
 [
   {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "SturdyRobot/kedge",
+    "language": "Rust",
+    "name": "SturdyRobot/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-24T05:22:12Z",
+    "url": "https://github.com/SturdyRobot/kedge"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-24T05:21:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-24T05:19:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 11,
+    "updated_at": "2026-07-24T05:16:31Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-07-24T05:15:28Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-24T04:38:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
     "id": "markkennethbadilla/public-agent-provisioning",
     "language": "JavaScript",
@@ -63,15 +99,6 @@
     "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
   },
   {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "SturdyRobot/kedge",
-    "language": "Rust",
-    "name": "SturdyRobot/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:33:25Z",
-    "url": "https://github.com/SturdyRobot/kedge"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T04:32:16Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-24T04:29:23Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -122,17 +140,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5592,
-    "updated_at": "2026-07-24T04:38:18Z",
+    "updated_at": "2026-07-24T05:22:16Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-07-24T04:27:04Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
     "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5558,
-    "updated_at": "2026-07-24T04:56:49Z",
+    "updated_at": "2026-07-24T05:28:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T02:24:19Z",
     "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 11,
-    "updated_at": "2026-07-24T02:20:36Z",
-    "url": "https://github.com/wangyuahn/nori-code"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -301,7 +301,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2394,
+    "stars": 2395,
     "updated_at": "2026-07-23T23:49:28Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4369,
-    "updated_at": "2026-07-23T20:55:06Z",
+    "updated_at": "2026-07-24T05:16:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
