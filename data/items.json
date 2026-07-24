@@ -63,6 +63,15 @@
     "url": "https://github.com/SturdyRobot/kedge"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5559,
+    "updated_at": "2026-07-24T05:28:05Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-24T05:15:28Z",
+    "updated_at": "2026-07-24T06:02:50Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -212,17 +221,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-24T03:10:04Z",
+    "updated_at": "2026-07-24T06:07:28Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5558,
-    "updated_at": "2026-07-24T05:28:05Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
