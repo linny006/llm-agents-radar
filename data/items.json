@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-24T19:38:41Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6688,
+    "updated_at": "2026-07-24T19:36:44Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
     "id": "randomvariablewhitepelican129/open_deep_research",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 152,
     "updated_at": "2026-07-24T19:22:14Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6688,
-    "updated_at": "2026-07-24T19:20:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T18:30:15Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-24T18:29:45Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
