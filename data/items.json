@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-24T17:13:01Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 3,
+    "updated_at": "2026-07-24T17:01:54Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Nova",
     "stars": 8,
-    "updated_at": "2026-07-24T16:42:29Z",
+    "updated_at": "2026-07-24T17:14:49Z",
     "url": "https://github.com/bigduu/Nova"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 3,
-    "updated_at": "2026-07-24T16:16:23Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
     "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
     "id": "strobilevitellus470/argus-ai",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T15:58:10Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-07-24T15:56:10Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
