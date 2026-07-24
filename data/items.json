@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T07:58:37Z",
+    "updated_at": "2026-07-24T08:13:59Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A minimal coding agent - one file, six tools, no guards. The control group for azot.",
+    "id": "pedjaurosevic/toza",
+    "language": "Python",
+    "name": "pedjaurosevic/toza",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:13:47Z",
+    "url": "https://github.com/pedjaurosevic/toza"
+  },
+  {
+    "description": "Agent harness that fixes small local models (1B-12B) into reliable work - Go, headless-first",
+    "id": "pedjaurosevic/azot",
+    "language": "Go",
+    "name": "pedjaurosevic/azot",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:12:37Z",
+    "url": "https://github.com/pedjaurosevic/azot"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:12:15Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
+    "id": "markkennethbadilla/public-agent-provisioning",
+    "language": "JavaScript",
+    "name": "markkennethbadilla/public-agent-provisioning",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:11:32Z",
+    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
+  },
+  {
+    "description": "arifOS Federation AssetOpsBench Bridge \u2014 IJCAI-25 | Constitutional governance for industrial AI",
+    "id": "ariffazil/A2B",
+    "language": "Python",
+    "name": "ariffazil/A2B",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:11:00Z",
+    "url": "https://github.com/ariffazil/A2B"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 7,
+    "updated_at": "2026-07-24T08:03:15Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -176,7 +230,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 792,
-    "updated_at": "2026-07-24T07:32:46Z",
+    "updated_at": "2026-07-24T08:04:00Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -185,7 +239,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-07-24T05:44:08Z",
+    "updated_at": "2026-07-24T08:14:59Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
-    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
-    "id": "markkennethbadilla/public-agent-provisioning",
-    "language": "JavaScript",
-    "name": "markkennethbadilla/public-agent-provisioning",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:34:15Z",
-    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
-  },
-  {
     "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-24T08:00:10Z",
+    "updated_at": "2026-07-24T08:12:33Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -349,15 +394,6 @@
     "stars": 44,
     "updated_at": "2026-07-24T01:56:39Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-24T01:55:01Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -412,41 +448,5 @@
     "stars": 142,
     "updated_at": "2026-07-23T22:51:22Z",
     "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-23T22:07:00Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6681,
-    "updated_at": "2026-07-24T07:59:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:41:56Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:23:31Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   }
 ]
