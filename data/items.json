@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T09:11:56Z",
+    "updated_at": "2026-07-24T09:30:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:28:41Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-24T09:24:54Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
+    "id": "markkennethbadilla/public-agent-provisioning",
+    "language": "JavaScript",
+    "name": "markkennethbadilla/public-agent-provisioning",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:22:35Z",
+    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-24T09:20:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "LLM frontend for local (ollama) and cloud-based (openrouter) models",
+    "id": "pankajkarman/MeraLLM",
+    "language": "JavaScript",
+    "name": "pankajkarman/MeraLLM",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:18:06Z",
+    "url": "https://github.com/pankajkarman/MeraLLM"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-24T09:09:43Z",
+    "updated_at": "2026-07-24T09:25:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -36,6 +81,15 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5563,
+    "updated_at": "2026-07-24T08:50:50Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T08:44:02Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
-    "id": "markkennethbadilla/public-agent-provisioning",
-    "language": "JavaScript",
-    "name": "markkennethbadilla/public-agent-provisioning",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:41:49Z",
-    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
   },
   {
     "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
@@ -198,15 +243,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5562,
-    "updated_at": "2026-07-24T08:50:50Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, fact",
     "id": "laazizi/autoagent",
     "language": "Python",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-24T07:05:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -261,15 +288,6 @@
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-24T06:31:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A small local agent for everyday reasoning using SmolLM3.",
     "id": "vpakarinen2/localmind",
     "language": "Python",
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T06:24:33Z",
     "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-24T06:24:01Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-24T02:03:46Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 45,
-    "updated_at": "2026-07-24T01:56:39Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
