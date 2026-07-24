@@ -1,5 +1,32 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-24T05:54:18Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-24T05:51:38Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-24T05:51:23Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -27,15 +54,6 @@
     "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-24T05:35:37Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
     "id": "SturdyRobot/kedge",
     "language": "Rust",
@@ -50,17 +68,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5593,
-    "updated_at": "2026-07-24T05:22:16Z",
+    "updated_at": "2026-07-24T05:47:28Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-24T05:21:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-24T04:16:45Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:57:13Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
