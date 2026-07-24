@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:59:12Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-24T09:56:28Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:54:04Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-24T09:49:43Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-24T09:45:29Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 10,
-    "updated_at": "2026-07-24T09:42:32Z",
+    "updated_at": "2026-07-24T09:51:26Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
-    "id": "markkennethbadilla/public-agent-provisioning",
-    "language": "JavaScript",
-    "name": "markkennethbadilla/public-agent-provisioning",
-    "stars": 0,
-    "updated_at": "2026-07-24T09:22:35Z",
-    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T09:18:06Z",
     "url": "https://github.com/pankajkarman/MeraLLM"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-24T09:38:32Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\u3001\u4e91\u7aef Multi-Agent \u7f16\u6392\u3001\u5168\u53cc\u5de5\u8bed\u97f3\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
@@ -252,6 +279,15 @@
     "url": "https://github.com/ariffazil/A2B"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6683,
+    "updated_at": "2026-07-24T07:59:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -319,7 +355,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5594,
+    "stars": 5595,
     "updated_at": "2026-07-24T07:05:07Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-24T04:46:31Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-24T04:16:45Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
-    "id": "Bobby-Gray/open-tabletop-gm",
-    "language": "Python",
-    "name": "Bobby-Gray/open-tabletop-gm",
-    "stars": 39,
-    "updated_at": "2026-07-24T03:38:07Z",
-    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 310,
-    "updated_at": "2026-07-24T03:20:17Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-24T06:07:28Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
