@@ -1,21 +1,21 @@
 [
   {
-    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
-    "id": "jack420xeppep-a11y/claude-cyborg",
-    "language": "Python",
-    "name": "jack420xeppep-a11y/claude-cyborg",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:13:54Z",
-    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-24T04:13:05Z",
+    "updated_at": "2026-07-24T04:29:23Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:25:23Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -23,8 +23,26 @@
     "language": "Rust",
     "name": "SturdyRobot/kedge",
     "stars": 0,
-    "updated_at": "2026-07-24T04:09:45Z",
+    "updated_at": "2026-07-24T04:16:58Z",
     "url": "https://github.com/SturdyRobot/kedge"
+  },
+  {
+    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:16:45Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
+    "id": "jack420xeppep-a11y/claude-cyborg",
+    "language": "Python",
+    "name": "jack420xeppep-a11y/claude-cyborg",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:13:54Z",
+    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-07-24T03:53:23Z",
+    "updated_at": "2026-07-24T04:27:04Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
@@ -229,7 +247,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 387,
+    "stars": 388,
     "updated_at": "2026-07-24T01:24:52Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:10:12Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-24T01:03:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T17:22:53Z",
     "url": "https://github.com/ellmos-ai/worksheet-generator"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-07-23T17:19:31Z",
-    "url": "https://github.com/codex-mohan/spectra"
   }
 ]
