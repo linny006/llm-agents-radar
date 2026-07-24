@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-24T01:52:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
+    "id": "SturdyRobot/aegis",
+    "language": "Rust",
+    "name": "SturdyRobot/aegis",
+    "stars": 0,
+    "updated_at": "2026-07-24T01:56:57Z",
+    "url": "https://github.com/SturdyRobot/aegis"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 2,
-    "updated_at": "2026-07-24T01:41:58Z",
+    "updated_at": "2026-07-24T01:55:01Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-24T01:42:28Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AI agent that automates interview scheduling \u2014 from sending invites to calendar-confirmed bookings, powered by Claude to",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:03:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A deterministic AI agent execution & verification harness in Rust \u2014 ReAct engine, hard budgets, MCP tools, AST-aware con",
-    "id": "SturdyRobot/aegis",
-    "language": "Rust",
-    "name": "SturdyRobot/aegis",
-    "stars": 0,
-    "updated_at": "2026-07-24T00:13:56Z",
-    "url": "https://github.com/SturdyRobot/aegis"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -310,7 +310,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8871,
+    "stars": 8872,
     "updated_at": "2026-07-23T17:27:31Z",
     "url": "https://github.com/EvoMap/evolver"
   },
