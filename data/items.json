@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-24T22:59:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-24T22:54:59Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Agentra is an intelligent mobile automation agent for Android that uses Large Language Models (LLMs) to perceive the dev",
     "id": "samarthshrivas/Agentra",
     "language": "Kotlin",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "a0merr/autolab",
     "stars": 0,
-    "updated_at": "2026-07-24T22:37:58Z",
+    "updated_at": "2026-07-24T22:56:46Z",
     "url": "https://github.com/a0merr/autolab"
   },
   {
@@ -364,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6689,
+    "stars": 6690,
     "updated_at": "2026-07-24T21:53:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -394,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T21:51:42Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-24T22:42:12Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T21:47:50Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-24T21:45:29Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
   }
 ]
