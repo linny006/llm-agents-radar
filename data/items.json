@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic enterprise assistant \u2014 Google ADK + MCP Toolbox for Databases + Gemini 2.5 Flash, with Keycloak RBAC, PostgreSQL",
+    "id": "udtrad/EntAssistant",
+    "language": "Python",
+    "name": "udtrad/EntAssistant",
+    "stars": 0,
+    "updated_at": "2026-07-24T20:59:16Z",
+    "url": "https://github.com/udtrad/EntAssistant"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-24T20:58:00Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-07-24T20:54:03Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-24T20:51:06Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 22,
+    "updated_at": "2026-07-24T20:47:12Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-07-24T20:46:40Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-07-24T20:33:18Z",
+    "updated_at": "2026-07-24T20:55:00Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-24T18:57:27Z",
+    "updated_at": "2026-07-24T20:53:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T18:49:01Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-24T18:48:10Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-07-24T18:46:59Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "An Aperture-grade AI health coach built on Claude Code: real sports-science methodology, real safety rules, and a person",
-    "id": "KeyganTheGreat/glados-health-core",
-    "language": "Python",
-    "name": "KeyganTheGreat/glados-health-core",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:46:18Z",
-    "url": "https://github.com/KeyganTheGreat/glados-health-core"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:43:56Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:42:58Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-24T18:42:42Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
