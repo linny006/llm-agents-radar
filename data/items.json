@@ -1,5 +1,41 @@
 [
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5590,
+    "updated_at": "2026-07-24T03:43:34Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
+    "id": "Bobby-Gray/open-tabletop-gm",
+    "language": "Python",
+    "name": "Bobby-Gray/open-tabletop-gm",
+    "stars": 39,
+    "updated_at": "2026-07-24T03:38:07Z",
+    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 21,
+    "updated_at": "2026-07-24T03:35:16Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-24T03:31:04Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -189,15 +225,6 @@
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-23T23:58:32Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-24T03:27:53Z",
+    "updated_at": "2026-07-24T03:38:10Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -256,7 +283,7 @@
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-23T21:41:56Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T16:46:42Z",
     "url": "https://github.com/aerkn1/jobhunt"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-23T16:46:05Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-07-23T16:39:50Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-23T16:07:05Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
