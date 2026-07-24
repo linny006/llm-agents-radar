@@ -1,5 +1,41 @@
 [
   {
+    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
+    "id": "jack420xeppep-a11y/claude-cyborg",
+    "language": "Python",
+    "name": "jack420xeppep-a11y/claude-cyborg",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:13:54Z",
+    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-24T04:13:05Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "SturdyRobot/kedge",
+    "language": "Rust",
+    "name": "SturdyRobot/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:09:45Z",
+    "url": "https://github.com/SturdyRobot/kedge"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-07-24T04:02:38Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
     "id": "MikhailXiaomaikou/Standard-Astro",
     "language": "Python",
@@ -7,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-07-24T03:53:23Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
-    "id": "jack420xeppep-a11y/claude-cyborg",
-    "language": "Python",
-    "name": "jack420xeppep-a11y/claude-cyborg",
-    "stars": 0,
-    "updated_at": "2026-07-24T03:50:23Z",
-    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -103,7 +130,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5556,
+    "stars": 5557,
     "updated_at": "2026-07-24T02:49:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -151,15 +178,6 @@
     "stars": 11,
     "updated_at": "2026-07-24T02:20:36Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "SturdyRobot/kedge",
-    "language": "Rust",
-    "name": "SturdyRobot/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:13:52Z",
-    "url": "https://github.com/SturdyRobot/kedge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -268,15 +286,6 @@
     "stars": 141,
     "updated_at": "2026-07-23T22:51:22Z",
     "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-07-24T03:38:10Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -412,15 +421,6 @@
     "stars": 12,
     "updated_at": "2026-07-23T23:13:43Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-23T18:04:24Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
