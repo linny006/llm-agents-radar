@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
+    "id": "MikhailXiaomaikou/Standard-Astro",
+    "language": "Python",
+    "name": "MikhailXiaomaikou/Standard-Astro",
+    "stars": 4,
+    "updated_at": "2026-07-24T03:53:23Z",
+    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
+  },
+  {
+    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
+    "id": "jack420xeppep-a11y/claude-cyborg",
+    "language": "Python",
+    "name": "jack420xeppep-a11y/claude-cyborg",
+    "stars": 0,
+    "updated_at": "2026-07-24T03:50:23Z",
+    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
+  },
+  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5590,
-    "updated_at": "2026-07-24T03:43:34Z",
+    "updated_at": "2026-07-24T03:57:37Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/pedjaurosevic/azot"
   },
   {
-    "description": "Autonomous coder-agent on Claude Agent SDK, controlled from Telegram. Orchestration (Fable->Opus/Sonnet), MCP, skills, v",
-    "id": "jack420xeppep-a11y/claude-cyborg",
-    "language": "Python",
-    "name": "jack420xeppep-a11y/claude-cyborg",
-    "stars": 0,
-    "updated_at": "2026-07-23T19:58:42Z",
-    "url": "https://github.com/jack420xeppep-a11y/claude-cyborg"
-  },
-  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-23T17:19:31Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Stateless automated job discovery and scoring service based on your CV",
-    "id": "aerkn1/jobhunt",
-    "language": "Python",
-    "name": "aerkn1/jobhunt",
-    "stars": 0,
-    "updated_at": "2026-07-23T16:46:42Z",
-    "url": "https://github.com/aerkn1/jobhunt"
   }
 ]
