@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-24T03:10:04Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-24T03:22:31Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 309,
+    "updated_at": "2026-07-24T03:20:17Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T03:12:27Z",
+    "updated_at": "2026-07-24T03:19:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-24T03:10:04Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
@@ -198,15 +216,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-23T23:02:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on mod",
     "id": "AmanPriyanshu/Awesome-AI-For-Security",
     "language": "\u2014",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-07-24T03:13:26Z",
+    "updated_at": "2026-07-24T03:27:53Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 46,
     "updated_at": "2026-07-23T16:07:05Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 1,
-    "updated_at": "2026-07-23T16:02:37Z",
-    "url": "https://github.com/denisotree/veles"
   }
 ]
