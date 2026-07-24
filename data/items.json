@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI equity-research agent for US-listed companies: computed numbers, cited facts, one command. Built on Claude + SEC EDGA",
+    "id": "davidxu277/finsight-agent",
+    "language": "Python",
+    "name": "davidxu277/finsight-agent",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:25:47Z",
+    "url": "https://github.com/davidxu277/finsight-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:22:52Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T08:13:59Z",
+    "updated_at": "2026-07-24T08:21:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-24T08:16:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:16:20Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:14:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A minimal coding agent - one file, six tools, no guards. The control group for azot.",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "ariffazil/A2B",
     "stars": 0,
-    "updated_at": "2026-07-24T08:11:00Z",
+    "updated_at": "2026-07-24T08:28:22Z",
     "url": "https://github.com/ariffazil/A2B"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-24T06:53:12Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -232,15 +268,6 @@
     "stars": 792,
     "updated_at": "2026-07-24T08:04:00Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:14:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-24T08:12:33Z",
+    "updated_at": "2026-07-24T08:19:05Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -409,7 +436,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 391,
+    "stars": 392,
     "updated_at": "2026-07-24T01:24:52Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-24T00:11:23Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2401,
-    "updated_at": "2026-07-23T23:49:28Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-23T23:38:42Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A curated list of tools, papers, and datasets for applying AI to cybersecurity tasks. This list primarily focuses on mod",
-    "id": "AmanPriyanshu/Awesome-AI-For-Security",
-    "language": "\u2014",
-    "name": "AmanPriyanshu/Awesome-AI-For-Security",
-    "stars": 142,
-    "updated_at": "2026-07-23T22:51:22Z",
-    "url": "https://github.com/AmanPriyanshu/Awesome-AI-For-Security"
   }
 ]
