@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-24T09:11:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-24T09:09:43Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\u3001\u4e91\u7aef Multi-Agent \u7f16\u6392\u3001\u5168\u53cc\u5de5\u8bed\u97f3\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -16,24 +34,6 @@
     "stars": 2,
     "updated_at": "2026-07-24T08:56:12Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-24T08:59:45Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-07-24T08:53:54Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
@@ -243,6 +243,15 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5594,
+    "updated_at": "2026-07-24T07:05:07Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
     "id": "MikhailXiaomaikou/Standard-Astro",
     "language": "Python",
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T05:33:10Z",
     "url": "https://github.com/nlj3/kedge"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5593,
-    "updated_at": "2026-07-24T07:05:07Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
@@ -445,7 +445,7 @@
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 44,
+    "stars": 45,
     "updated_at": "2026-07-24T01:56:39Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
