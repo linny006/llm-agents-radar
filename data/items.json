@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 2,
+    "updated_at": "2026-07-24T08:44:02Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
+    "id": "markkennethbadilla/public-agent-provisioning",
+    "language": "JavaScript",
+    "name": "markkennethbadilla/public-agent-provisioning",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:41:49Z",
+    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
+  },
+  {
+    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
+    "id": "tkarim45/realtime-decision-intelligence",
+    "language": "Python",
+    "name": "tkarim45/realtime-decision-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:34:16Z",
+    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
+  },
+  {
+    "description": "Stateless automated job discovery and scoring service based on your CV",
+    "id": "aerkn1/jobhunt",
+    "language": "Python",
+    "name": "aerkn1/jobhunt",
+    "stars": 0,
+    "updated_at": "2026-07-24T08:31:51Z",
+    "url": "https://github.com/aerkn1/jobhunt"
+  },
+  {
     "description": "AI equity-research agent for US-listed companies: computed numbers, cited facts, one command. Built on Claude + SEC EDGA",
     "id": "davidxu277/finsight-agent",
     "language": "Python",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-24T08:16:22Z",
+    "updated_at": "2026-07-24T08:41:50Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-24T08:12:37Z",
     "url": "https://github.com/pedjaurosevic/azot"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 2,
-    "updated_at": "2026-07-24T08:12:15Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
-    "id": "markkennethbadilla/public-agent-provisioning",
-    "language": "JavaScript",
-    "name": "markkennethbadilla/public-agent-provisioning",
-    "stars": 0,
-    "updated_at": "2026-07-24T08:11:32Z",
-    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
   },
   {
     "description": "arifOS Federation AssetOpsBench Bridge \u2014 IJCAI-25 | Constitutional governance for industrial AI",
@@ -166,7 +184,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5561,
+    "stars": 5562,
     "updated_at": "2026-07-24T07:27:00Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-24T01:25:52Z",
     "url": "https://github.com/peijin0405/scout-agent"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 392,
-    "updated_at": "2026-07-24T01:24:52Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 3,
-    "updated_at": "2026-07-24T00:11:23Z",
-    "url": "https://github.com/peder1981/AdvPP"
   }
 ]
