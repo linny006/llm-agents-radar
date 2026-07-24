@@ -1,12 +1,12 @@
 [
   {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "SturdyRobot/kedge",
-    "language": "Rust",
-    "name": "SturdyRobot/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-24T02:13:52Z",
-    "url": "https://github.com/SturdyRobot/kedge"
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-24T02:28:41Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-24T02:13:09Z",
+    "updated_at": "2026-07-24T02:28:06Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:28:32Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
+    "description": "Backend reservation and knowledge Agent platform with Spring Boot, FastAPI, RAG, Redis and RocketMQ",
+    "id": "Fragmentaim/lab-resource-reservation-platform",
+    "language": "Java",
+    "name": "Fragmentaim/lab-resource-reservation-platform",
+    "stars": 1,
+    "updated_at": "2026-07-24T02:24:19Z",
+    "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
+  },
+  {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 11,
+    "updated_at": "2026-07-24T02:20:36Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "SturdyRobot/kedge",
+    "language": "Rust",
+    "name": "SturdyRobot/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-24T02:13:52Z",
+    "url": "https://github.com/SturdyRobot/kedge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -121,7 +157,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2390,
+    "stars": 2391,
     "updated_at": "2026-07-23T23:49:28Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -412,41 +448,5 @@
     "stars": 36,
     "updated_at": "2026-07-23T15:52:44Z",
     "url": "https://github.com/loquix-dev/loquix"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-23T15:49:57Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-07-23T15:44:00Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
-    "id": "tx3457/study-loop",
-    "language": "Python",
-    "name": "tx3457/study-loop",
-    "stars": 1,
-    "updated_at": "2026-07-23T15:20:20Z",
-    "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 184,
-    "updated_at": "2026-07-23T15:02:47Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
