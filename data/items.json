@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-25T07:43:40Z",
+    "updated_at": "2026-07-25T07:58:57Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "fullstack chat agent with authentication, request credits and payments built in",
+    "id": "langchain-ai/agent-auth-payments",
+    "language": "TypeScript",
+    "name": "langchain-ai/agent-auth-payments",
+    "stars": 199,
+    "updated_at": "2026-07-25T07:57:56Z",
+    "url": "https://github.com/langchain-ai/agent-auth-payments"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:57:35Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-25T07:52:12Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -52,15 +79,6 @@
     "stars": 2567,
     "updated_at": "2026-07-25T07:26:53Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "fullstack chat agent with authentication, request credits and payments built in",
-    "id": "langchain-ai/agent-auth-payments",
-    "language": "TypeScript",
-    "name": "langchain-ai/agent-auth-payments",
-    "stars": 199,
-    "updated_at": "2026-07-25T07:25:38Z",
-    "url": "https://github.com/langchain-ai/agent-auth-payments"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T06:10:40Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-25T06:10:23Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-25T06:09:25Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
