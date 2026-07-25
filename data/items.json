@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-07-25T15:13:40Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-07-25T15:12:57Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 4,
+    "updated_at": "2026-07-25T15:11:37Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 22,
+    "updated_at": "2026-07-25T15:11:04Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-25T15:13:21Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-25T15:09:45Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-25T15:09:08Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 3,
+    "updated_at": "2026-07-25T15:03:54Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-07-25T15:03:34Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-07-25T15:01:28Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-25T15:00:55Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -14,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-25T14:59:42Z",
+    "updated_at": "2026-07-25T15:14:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -90,15 +189,6 @@
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 3,
-    "updated_at": "2026-07-25T14:43:43Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
     "id": "rudramishra4117/ComfyUI-None-upup",
     "language": "JavaScript",
@@ -140,7 +230,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-25T14:59:57Z",
+    "updated_at": "2026-07-25T15:10:44Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -189,15 +279,6 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-25T14:42:22Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -232,15 +313,6 @@
     "stars": 46,
     "updated_at": "2026-07-25T14:20:57Z",
     "url": "https://github.com/thinkwee/HiMe"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 4,
-    "updated_at": "2026-07-25T14:14:21Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -306,15 +378,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-25T13:48:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -340,15 +403,6 @@
     "stars": 5,
     "updated_at": "2026-07-25T13:22:29Z",
     "url": "https://github.com/JoeStrout/PixelClaw"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-25T13:21:14Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T12:36:54Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "A local agent for everyday reasoning.",
-    "id": "vpakarinen2/localmind",
-    "language": "Python",
-    "name": "vpakarinen2/localmind",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:35:06Z",
-    "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:34:06Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4085,
-    "updated_at": "2026-07-25T13:08:09Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:33:15Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:32:53Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:32:31Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
