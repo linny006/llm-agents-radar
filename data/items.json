@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 1,
+    "updated_at": "2026-07-25T20:59:35Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-07-25T20:59:28Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-07-25T20:57:17Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
+    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
+    "id": "AaronAbuUsama/ambient-agent",
+    "language": "TypeScript",
+    "name": "AaronAbuUsama/ambient-agent",
+    "stars": 0,
+    "updated_at": "2026-07-25T20:57:18Z",
+    "url": "https://github.com/AaronAbuUsama/ambient-agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-07-25T20:52:12Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-25T20:53:29Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-25T20:50:12Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-25T20:58:24Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-07-25T20:48:17Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-07-25T20:47:24Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
+    "id": "hasting323/AutoGLM-For-Android",
+    "language": "Kotlin",
+    "name": "hasting323/AutoGLM-For-Android",
+    "stars": 7,
+    "updated_at": "2026-07-25T20:47:24Z",
+    "url": "https://github.com/hasting323/AutoGLM-For-Android"
+  },
+  {
+    "description": " AI-Agent with RL capabilites in a Minecraft world",
+    "id": "neithium/MinePal",
+    "language": "JavaScript",
+    "name": "neithium/MinePal",
+    "stars": 5,
+    "updated_at": "2026-07-25T20:45:35Z",
+    "url": "https://github.com/neithium/MinePal"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -25,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-07-25T20:43:23Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "gpt hates the wef it seems!",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-25T20:42:54Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
@@ -99,21 +198,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": " AI-Agent with RL capabilites in a Minecraft world",
-    "id": "neithium/MinePal",
-    "language": "JavaScript",
-    "name": "neithium/MinePal",
-    "stars": 5,
-    "updated_at": "2026-07-25T20:34:25Z",
-    "url": "https://github.com/neithium/MinePal"
-  },
-  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4085,
-    "updated_at": "2026-07-25T20:33:58Z",
+    "updated_at": "2026-07-25T20:48:04Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -252,24 +342,6 @@
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-25T19:17:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-25T19:12:14Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
     "id": "tarangdeep-goel-by/claude-harness",
     "language": "Shell",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T18:33:46Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:33:22Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:32:57Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "gald3r for ZCode \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
-    "id": "Gald3r-Labs/gald3r_platform_zcode",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_zcode",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:32:34Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_zcode"
-  },
-  {
-    "description": "gald3r for Windsurf (Devin Desktop) \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent me",
-    "id": "Gald3r-Labs/gald3r_platform_windsurf",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_windsurf",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:32:26Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_windsurf"
-  },
-  {
-    "description": "gald3r for Warp \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
-    "id": "Gald3r-Labs/gald3r_platform_warp",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_warp",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:32:06Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_warp"
-  },
-  {
-    "description": "gald3r for Void \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
-    "id": "Gald3r-Labs/gald3r_platform_void",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_void",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:31:45Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_void"
-  },
-  {
-    "description": "gald3r for Trae \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
-    "id": "Gald3r-Labs/gald3r_platform_trae",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_trae",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:31:24Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_trae"
-  },
-  {
-    "description": "gald3r for SubQ \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
-    "id": "Gald3r-Labs/gald3r_platform_subq",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_subq",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:31:05Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_subq"
   }
 ]
