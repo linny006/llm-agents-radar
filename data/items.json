@@ -1,5 +1,365 @@
 [
   {
+    "description": "gald3r for Qwen Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_qwen",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_qwen",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:29:58Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_qwen"
+  },
+  {
+    "description": "gald3r for Qoder \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
+    "id": "Gald3r-Labs/gald3r_platform_qoder",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_qoder",
+    "stars": 4,
+    "updated_at": "2026-07-25T18:29:34Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_qoder"
+  },
+  {
+    "description": "gald3r for Pi \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI cod",
+    "id": "Gald3r-Labs/gald3r_platform_pi",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_pi",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:28:20Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_pi"
+  },
+  {
+    "description": "gald3r for OpenHands \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_openhands",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_openhands",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:27:57Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_openhands"
+  },
+  {
+    "description": "gald3r for OpenCode \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ ",
+    "id": "Gald3r-Labs/gald3r_platform_opencode",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_opencode",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:27:30Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_opencode"
+  },
+  {
+    "description": "gald3r for OpenClaw \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ ",
+    "id": "Gald3r-Labs/gald3r_platform_openclaw",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_openclaw",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:27:08Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_openclaw"
+  },
+  {
+    "description": "gald3r for Mistral Vibe \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
+    "id": "Gald3r-Labs/gald3r_platform_mistral",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_mistral",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:26:47Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_mistral"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:26:41Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "gald3r for Xiaomi MiMo-Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory acr",
+    "id": "Gald3r-Labs/gald3r_platform_mimo-code",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_mimo-code",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:26:27Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_mimo-code"
+  },
+  {
+    "description": "gald3r for Kiro CLI \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ ",
+    "id": "Gald3r-Labs/gald3r_platform_kiro-cli",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_kiro-cli",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:26:09Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kiro-cli"
+  },
+  {
+    "description": "gald3r for Kiro \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
+    "id": "Gald3r-Labs/gald3r_platform_kiro",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_kiro",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:26:00Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kiro"
+  },
+  {
+    "description": "gald3r for Kimi Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_kimi",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_kimi",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:25:40Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kimi"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 4,
+    "updated_at": "2026-07-25T18:25:29Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "gald3r for Kilo Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_kilo-code",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_kilo-code",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:25:20Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kilo-code"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:25:15Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "gald3r for JetBrains Junie \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory acro",
+    "id": "Gald3r-Labs/gald3r_platform_junie",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_junie",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:25:11Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_junie"
+  },
+  {
+    "description": "gald3r for Hermes Agent \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
+    "id": "Gald3r-Labs/gald3r_platform_hermes",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_hermes",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:24:51Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_hermes"
+  },
+  {
+    "description": "gald3r for Goose \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
+    "id": "Gald3r-Labs/gald3r_platform_goose",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_goose",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:24:30Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_goose"
+  },
+  {
+    "description": "gald3r for Gemini CLI \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20",
+    "id": "Gald3r-Labs/gald3r_platform_gemini",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_gemini",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:24:09Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_gemini"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 483,
+    "updated_at": "2026-07-25T18:24:02Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "gald3r for Deep Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_deepcode",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_deepcode",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:23:48Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_deepcode"
+  },
+  {
+    "description": "gald3r for Cursor \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI",
+    "id": "Gald3r-Labs/gald3r_platform_cursor",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_cursor",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:23:28Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_cursor"
+  },
+  {
+    "description": "gald3r for GitHub Copilot \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory acros",
+    "id": "Gald3r-Labs/gald3r_platform_copilot",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_copilot",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:23:09Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_copilot"
+  },
+  {
+    "description": "gald3r for Continue.dev \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
+    "id": "Gald3r-Labs/gald3r_platform_continue",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_continue",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:22:47Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_continue"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:22:35Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "gald3r for OpenAI Codex \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
+    "id": "Gald3r-Labs/gald3r_platform_codex",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_codex",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:22:26Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_codex"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:22:08Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "gald3r for CodeBuddy \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
+    "id": "Gald3r-Labs/gald3r_platform_codebuddy",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_codebuddy",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:22:07Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_codebuddy"
+  },
+  {
+    "description": "gald3r for Cline \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
+    "id": "Gald3r-Labs/gald3r_platform_cline",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_cline",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:21:48Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_cline"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 2,
+    "updated_at": "2026-07-25T18:21:37Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "gald3r for Claude Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 2",
+    "id": "Gald3r-Labs/gald3r_platform_claude",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_claude",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:21:29Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_claude"
+  },
+  {
+    "description": "gald3r for Augment Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
+    "id": "Gald3r-Labs/gald3r_platform_augment",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_augment",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:21:08Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_augment"
+  },
+  {
+    "description": "gald3r for AstrBot \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ A",
+    "id": "Gald3r-Labs/gald3r_platform_astrbot",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_astrbot",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:20:47Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_astrbot"
+  },
+  {
+    "description": "gald3r for Google Antigravity \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory a",
+    "id": "Gald3r-Labs/gald3r_platform_antigravity",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_antigravity",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:20:25Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_antigravity"
+  },
+  {
+    "description": "gald3r for Amp \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI co",
+    "id": "Gald3r-Labs/gald3r_platform_amp",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_amp",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:20:05Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_amp"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:19:55Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-25T18:19:47Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "gald3r for Aider \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
+    "id": "Gald3r-Labs/gald3r_platform_aider",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_aider",
+    "stars": 3,
+    "updated_at": "2026-07-25T18:19:46Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_aider"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:18:53Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "gald3r for Zed \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI co",
+    "id": "Gald3r-Labs/gald3r_platform_zed",
+    "language": "\u2014",
+    "name": "Gald3r-Labs/gald3r_platform_zed",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:16:59Z",
+    "url": "https://github.com/Gald3r-Labs/gald3r_platform_zed"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -77,7 +437,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4085,
-    "updated_at": "2026-07-25T18:15:17Z",
+    "updated_at": "2026-07-25T18:18:09Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -88,365 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T18:04:04Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:03:05Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:02:52Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:01:51Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:58:59Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:58:14Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:58:07Z",
-    "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-25T17:57:02Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:56:20Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:54:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 3,
-    "updated_at": "2026-07-25T17:53:30Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:53:19Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:52:43Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
-    "id": "tarangdeep-goel-by/claude-harness",
-    "language": "Shell",
-    "name": "tarangdeep-goel-by/claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:52:29Z",
-    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:52:00Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:49:46Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:48:48Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
-    "id": "AaronAbuUsama/ambient-agent",
-    "language": "TypeScript",
-    "name": "AaronAbuUsama/ambient-agent",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:45:41Z",
-    "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-07-25T17:41:35Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:40:26Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:38:08Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:37:00Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:32:55Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:30:54Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:28:56Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 7,
-    "updated_at": "2026-07-25T17:27:50Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:27:49Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-07-25T17:25:26Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:23:39Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 74,
-    "updated_at": "2026-07-25T17:23:37Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "\ud83c\udfa8 Enhance cinematic image quality with ComfyUI-None-upup. This AI engine offers nodes for clarity, brightness, and video",
-    "id": "rudramishra4117/ComfyUI-None-upup",
-    "language": "JavaScript",
-    "name": "rudramishra4117/ComfyUI-None-upup",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:22:18Z",
-    "url": "https://github.com/rudramishra4117/ComfyUI-None-upup"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:21:13Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:19:07Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:17:26Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:10:01Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-25T17:06:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-25T17:04:43Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-25T17:00:07Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-07-25T16:55:59Z",
-    "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 3,
-    "updated_at": "2026-07-25T16:55:47Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 15 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-25T16:54:07Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   }
 ]
