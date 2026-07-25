@@ -1,5 +1,68 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-07-25T18:54:57Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
+    "id": "tarangdeep-goel-by/claude-harness",
+    "language": "Shell",
+    "name": "tarangdeep-goel-by/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:52:09Z",
+    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 23,
+    "updated_at": "2026-07-25T18:48:52Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:48:07Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:47:41Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-07-25T18:47:35Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "A LangGraph-powered multi-agent deep research system featuring task planning, human-in-the-loop review, multi-source ret",
+    "id": "hwfengcs/SDYJ_Multi_Agents",
+    "language": "Python",
+    "name": "hwfengcs/SDYJ_Multi_Agents",
+    "stars": 50,
+    "updated_at": "2026-07-25T18:46:56Z",
+    "url": "https://github.com/hwfengcs/SDYJ_Multi_Agents"
+  },
+  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T18:22:47Z",
     "url": "https://github.com/Gald3r-Labs/gald3r_platform_continue"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:22:35Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "gald3r for OpenAI Codex \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
-    "id": "Gald3r-Labs/gald3r_platform_codex",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_codex",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:22:26Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_codex"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:22:08Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "gald3r for CodeBuddy \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
-    "id": "Gald3r-Labs/gald3r_platform_codebuddy",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_codebuddy",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:22:07Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_codebuddy"
-  },
-  {
-    "description": "gald3r for Cline \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
-    "id": "Gald3r-Labs/gald3r_platform_cline",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_cline",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:21:48Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_cline"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 2,
-    "updated_at": "2026-07-25T18:21:37Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "gald3r for Claude Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 2",
-    "id": "Gald3r-Labs/gald3r_platform_claude",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_claude",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:21:29Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_claude"
   }
 ]
