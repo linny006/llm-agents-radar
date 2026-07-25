@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-07-25T21:00:36Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-25T20:58:24Z",
+    "updated_at": "2026-07-25T21:07:05Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 210,
-    "updated_at": "2026-07-25T20:40:09Z",
+    "updated_at": "2026-07-25T21:03:07Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T18:33:59Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:33:46Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
