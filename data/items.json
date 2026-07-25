@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-25T20:14:05Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-25T20:13:35Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-25T20:12:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-07-25T20:07:48Z",
+    "updated_at": "2026-07-25T20:08:02Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "langroid/langroid",
     "stars": 4085,
-    "updated_at": "2026-07-25T19:56:53Z",
+    "updated_at": "2026-07-25T20:10:17Z",
     "url": "https://github.com/langroid/langroid"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 55,
     "updated_at": "2026-07-25T19:00:37Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-25T18:58:32Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T18:26:27Z",
     "url": "https://github.com/Gald3r-Labs/gald3r_platform_mimo-code"
-  },
-  {
-    "description": "gald3r for Kiro CLI \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ ",
-    "id": "Gald3r-Labs/gald3r_platform_kiro-cli",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_kiro-cli",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:26:09Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kiro-cli"
-  },
-  {
-    "description": "gald3r for Kiro \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI c",
-    "id": "Gald3r-Labs/gald3r_platform_kiro",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_kiro",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:26:00Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kiro"
   }
 ]
