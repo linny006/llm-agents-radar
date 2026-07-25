@@ -1,5 +1,14 @@
 [
   {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-25T13:29:18Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
     "description": "LLM-based agent for in-depth photo/image manipulation",
     "id": "JoeStrout/PixelClaw",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 0,
-    "updated_at": "2026-07-25T13:01:28Z",
+    "updated_at": "2026-07-25T13:30:11Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "AaronAbuUsama/ambient-agent",
     "stars": 0,
-    "updated_at": "2026-07-25T13:22:51Z",
+    "updated_at": "2026-07-25T13:29:14Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T12:03:38Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-25T12:02:31Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
