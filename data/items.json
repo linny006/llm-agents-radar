@@ -1,12 +1,21 @@
 [
   {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-07-25T19:24:05Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 210,
+    "updated_at": "2026-07-25T19:43:22Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4085,
+    "updated_at": "2026-07-25T19:33:34Z",
+    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +23,26 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-25T19:25:23Z",
+    "updated_at": "2026-07-25T19:31:39Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "OmniAgent (ICML 2026): the first native omni-modal agent for active video perception \u2014 a 7B agent that beats Qwen2.5-VL-",
+    "id": "HarryHsing/OmniAgent",
+    "language": "Python",
+    "name": "HarryHsing/OmniAgent",
+    "stars": 56,
+    "updated_at": "2026-07-25T19:31:07Z",
+    "url": "https://github.com/HarryHsing/OmniAgent"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-07-25T19:24:05Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-25T19:05:43Z",
     "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4085,
-    "updated_at": "2026-07-25T19:04:29Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -157,7 +175,7 @@
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-25T18:33:59Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T18:25:11Z",
     "url": "https://github.com/Gald3r-Labs/gald3r_platform_junie"
-  },
-  {
-    "description": "gald3r for Hermes Agent \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
-    "id": "Gald3r-Labs/gald3r_platform_hermes",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_hermes",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:24:51Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_hermes"
-  },
-  {
-    "description": "gald3r for Goose \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+ AI ",
-    "id": "Gald3r-Labs/gald3r_platform_goose",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_goose",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:24:30Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_goose"
   }
 ]
