@@ -1,5 +1,41 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-07-25T20:06:14Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-07-25T20:07:48Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-25T20:04:41Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-25T20:03:05Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Flexible coding agent for the terminal and ACP \u2014 cloud providers, ChatGPT/Claude subscriptions.",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T18:26:00Z",
     "url": "https://github.com/Gald3r-Labs/gald3r_platform_kiro"
-  },
-  {
-    "description": "gald3r for Kimi Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
-    "id": "Gald3r-Labs/gald3r_platform_kimi",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_kimi",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:25:40Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kimi"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-25T18:25:29Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "gald3r for Kilo Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across 20+",
-    "id": "Gald3r-Labs/gald3r_platform_kilo-code",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_kilo-code",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:25:20Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_kilo-code"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:25:15Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
