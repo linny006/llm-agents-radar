@@ -1,5 +1,23 @@
 [
   {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-25T22:13:15Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
+    "id": "OnourImpram/vocation-os",
+    "language": "TypeScript",
+    "name": "OnourImpram/vocation-os",
+    "stars": 1,
+    "updated_at": "2026-07-25T22:09:18Z",
+    "url": "https://github.com/OnourImpram/vocation-os"
+  },
+  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -32,7 +50,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-25T22:07:04Z",
+    "updated_at": "2026-07-25T22:09:09Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-25T22:07:36Z",
+    "updated_at": "2026-07-25T22:11:06Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 154,
     "updated_at": "2026-07-25T22:00:45Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
-    "id": "OnourImpram/vocation-os",
-    "language": "TypeScript",
-    "name": "OnourImpram/vocation-os",
-    "stars": 1,
-    "updated_at": "2026-07-25T22:02:00Z",
-    "url": "https://github.com/OnourImpram/vocation-os"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-25T21:39:42Z",
+    "updated_at": "2026-07-25T22:11:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T21:11:51Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-25T21:11:40Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
   }
 ]
