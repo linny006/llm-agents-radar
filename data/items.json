@@ -1,11 +1,56 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 1,
+    "updated_at": "2026-07-25T05:28:06Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:26:08Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-25T05:27:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-07-25T05:19:14Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 4,
+    "updated_at": "2026-07-25T05:19:09Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-25T05:14:58Z",
+    "updated_at": "2026-07-25T05:28:27Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 628,
     "updated_at": "2026-07-25T04:45:37Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 4,
-    "updated_at": "2026-07-25T04:37:21Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-25T03:48:02Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:47:32Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:47:09Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-25T03:46:24Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-25T03:42:16Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
