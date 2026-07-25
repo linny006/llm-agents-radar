@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-25T20:25:15Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-25T20:21:01Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 3,
+    "updated_at": "2026-07-25T20:16:48Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-25T18:27:08Z",
     "url": "https://github.com/Gald3r-Labs/gald3r_platform_openclaw"
-  },
-  {
-    "description": "gald3r for Mistral Vibe \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory across ",
-    "id": "Gald3r-Labs/gald3r_platform_mistral",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_mistral",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:26:47Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_mistral"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-25T18:26:41Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "gald3r for Xiaomi MiMo-Code \u2014 now part of the main gald3r framework. AI agents, skills, commands & persistent memory acr",
-    "id": "Gald3r-Labs/gald3r_platform_mimo-code",
-    "language": "\u2014",
-    "name": "Gald3r-Labs/gald3r_platform_mimo-code",
-    "stars": 1,
-    "updated_at": "2026-07-25T18:26:27Z",
-    "url": "https://github.com/Gald3r-Labs/gald3r_platform_mimo-code"
   }
 ]
