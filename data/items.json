@@ -1,5 +1,14 @@
 [
   {
+    "description": "Real-time incident detection on streaming service telemetry. Durable at-least-once ingestion, online features with zero ",
+    "id": "tkarim45/realtime-decision-intelligence",
+    "language": "Python",
+    "name": "tkarim45/realtime-decision-intelligence",
+    "stars": 0,
+    "updated_at": "2026-07-25T07:30:10Z",
+    "url": "https://github.com/tkarim45/realtime-decision-intelligence"
+  },
+  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T06:06:35Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 2,
-    "updated_at": "2026-07-25T06:06:03Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
