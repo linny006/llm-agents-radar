@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-26 19:00 UTC
+> ⏰ Last updated: 2026-07-26 19:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-26 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 2 | [hashiruu/agent-experiment](https://github.com/hashiruu/agent-experiment) | 1 | Shell | 2026-07-26 | 一个 7×24 小时不间断运行，帮你跑实验、用 Git 维护公开仓库、更新 LaTeX（Overleaf）论文的科研自动化工作流。实测效率提升 25 倍。Claude Code Skill，一条命令装进任意项目。 |
+| 1 | [hashiruu/agent-experiment](https://github.com/hashiruu/agent-experiment) | 1 | Shell | 2026-07-26 | 一个 7×24 小时不间断运行，帮你跑实验、用 Git 维护公开仓库、更新 LaTeX（Overleaf）论文的科研自动化工作流。实测效率提升 25 倍。Claude Code Skill，一条命令装进任意项目。 |
+| 2 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-26 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4369 | Python | 2026-07-26 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 4 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 175 | TypeScript | 2026-07-26 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 5 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 2 | Python | 2026-07-26 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an |
