@@ -1,5 +1,59 @@
 [
   {
+    "description": "An AI agent that reads a live EnergyPlus building simulation, reasons about it, and writes control decisions back - 37% ",
+    "id": "Astitwa73/SynapseBMS",
+    "language": "\u2014",
+    "name": "Astitwa73/SynapseBMS",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:44:50Z",
+    "url": "https://github.com/Astitwa73/SynapseBMS"
+  },
+  {
+    "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
+    "id": "krishagarwal314/autodev-studio",
+    "language": "Python",
+    "name": "krishagarwal314/autodev-studio",
+    "stars": 14,
+    "updated_at": "2026-07-26T12:44:12Z",
+    "url": "https://github.com/krishagarwal314/autodev-studio"
+  },
+  {
+    "description": "Sandboxed, agent-ready dev containers in one command \u2014 DevPod + rootless Podman + VSCodium \u2014 for running autonomous AI c",
+    "id": "oisinmcgrath/capsule",
+    "language": "JavaScript",
+    "name": "oisinmcgrath/capsule",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:40:05Z",
+    "url": "https://github.com/oisinmcgrath/capsule"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:39:09Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-26T12:38:04Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-26T12:34:43Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
     "id": "zuowen7/scholar-assistant-agent",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Sandboxed, agent-ready dev containers in one command \u2014 DevPod + rootless Podman + VSCodium \u2014 for running autonomous AI c",
-    "id": "oisinmcgrath/capsule",
-    "language": "JavaScript",
-    "name": "oisinmcgrath/capsule",
-    "stars": 0,
-    "updated_at": "2026-07-26T12:12:00Z",
-    "url": "https://github.com/oisinmcgrath/capsule"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -81,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-26T12:30:00Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
     "id": "casioreview20-glitch/forge-os",
     "language": "JavaScript",
@@ -106,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-07-26T12:29:22Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-26T12:12:37Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T11:14:38Z",
     "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:13:38Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:13:26Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 2,
-    "updated_at": "2026-07-26T11:12:29Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
