@@ -1,5 +1,23 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-07-26T06:27:47Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-26T06:29:30Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\u3001\u4e91\u7aef Multi-Agent \u7f16\u6392\u3001\u5168\u53cc\u5de5\u8bed\u97f3\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T06:07:49Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-26T06:07:00Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T05:12:56Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-26T05:12:46Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
