@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-07-26T01:45:11Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\u53ef\u590d\u73b0\u7684 ReAct Agent \u8fd0\u884c\u65f6 \u2014 Core \u5faa\u73af\u3001Harness/\u8bc4\u6d4b\u3001LangGraph \u5bf9\u7167\uff08\u975e\u751f\u4ea7\u5e73\u53f0\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-26T01:42:39Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
     "description": "Personal AI assistant on Telegram with a Claude brain \u2014 local-first, multi-instance, guarded against its own hallucinati",
     "id": "brooksmoore/aissistant",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 4,
     "updated_at": "2026-07-26T01:27:21Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "ReAct Agent \u5b66\u4e60\u5b9e\u73b0 \u2014 Harness \u8f68\u8ff9 Schema\u3001capability \u8bc4\u6d4b\u3001\u8de8\u4ed3\u95ed\u73af demo\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-26T01:25:36Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-26T01:12:22Z",
+    "updated_at": "2026-07-26T01:33:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-26T01:08:48Z",
+    "updated_at": "2026-07-26T01:42:51Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-25T23:48:56Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 2,
-    "updated_at": "2026-07-25T23:46:24Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
