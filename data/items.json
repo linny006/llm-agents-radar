@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-26T11:47:07Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/termix-agent",
+    "language": "Shell",
+    "name": "d3stiny-io/termix-agent",
+    "stars": 3,
+    "updated_at": "2026-07-26T11:45:37Z",
+    "url": "https://github.com/d3stiny-io/termix-agent"
+  },
+  {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
     "id": "Blaz742/web-pentest-lab",
     "language": "\u2014",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T11:44:40Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-26T11:44:11Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -32,7 +41,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-26T11:43:58Z",
+    "updated_at": "2026-07-26T11:47:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-26T10:52:58Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 2,
-    "updated_at": "2026-07-26T10:51:57Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
