@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
+    "id": "WayneStr/Bellwether",
+    "language": "Python",
+    "name": "WayneStr/Bellwether",
+    "stars": 0,
+    "updated_at": "2026-07-26T13:43:48Z",
+    "url": "https://github.com/WayneStr/Bellwether"
+  },
+  {
+    "description": "Agent Behavior Observatory: a Godot + Python multi-agent runtime with trace, counterfactual replay, eval, and audit arti",
+    "id": "EMT5320/loomstead",
+    "language": "Python",
+    "name": "EMT5320/loomstead",
+    "stars": 1,
+    "updated_at": "2026-07-26T13:43:15Z",
+    "url": "https://github.com/EMT5320/loomstead"
+  },
+  {
+    "description": "A video-call avatar frontend for your local LLM agent (Hermes/OpenClaw) \u2014 replaces the messenger chat and serves the age",
+    "id": "ghdtjrtka/ghost-vessel",
+    "language": "JavaScript",
+    "name": "ghdtjrtka/ghost-vessel",
+    "stars": 14,
+    "updated_at": "2026-07-26T13:41:04Z",
+    "url": "https://github.com/ghdtjrtka/ghost-vessel"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 3,
+    "updated_at": "2026-07-26T13:40:33Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2929,
+    "updated_at": "2026-07-26T13:41:58Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-07-26T13:35:13Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-07-26T13:31:55Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-26T13:30:59Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "",
     "id": "sanitprime/Advanced_Graph_RAG",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T13:26:42Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
-    "id": "WayneStr/Bellwether",
-    "language": "Python",
-    "name": "WayneStr/Bellwether",
-    "stars": 0,
-    "updated_at": "2026-07-26T13:26:23Z",
-    "url": "https://github.com/WayneStr/Bellwether"
   },
   {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
@@ -50,7 +113,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-07-26T13:24:22Z",
+    "updated_at": "2026-07-26T13:37:46Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-26T13:19:57Z",
     "url": "https://github.com/codedpro/agentic-game-factory"
-  },
-  {
-    "description": "A video-call avatar frontend for your local LLM agent (Hermes/OpenClaw) \u2014 replaces the messenger chat and serves the age",
-    "id": "ghdtjrtka/ghost-vessel",
-    "language": "JavaScript",
-    "name": "ghdtjrtka/ghost-vessel",
-    "stars": 14,
-    "updated_at": "2026-07-26T13:17:46Z",
-    "url": "https://github.com/ghdtjrtka/ghost-vessel"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -232,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-07-26T12:26:41Z",
     "url": "https://github.com/d3stiny-io/termix-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2929,
-    "updated_at": "2026-07-26T13:22:57Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-26T11:41:14Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:40:35Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-07-26T11:39:17Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-07-26T11:36:59Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
-    "updated_at": "2026-07-26T11:35:42Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-07-26T11:35:32Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
