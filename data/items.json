@@ -1,12 +1,21 @@
 [
   {
-    "description": "An AI agent that reads a live EnergyPlus building simulation, reasons about it, and writes control decisions back - 37% ",
-    "id": "Astitwa73/SynapseBMS",
-    "language": "\u2014",
-    "name": "Astitwa73/SynapseBMS",
-    "stars": 0,
-    "updated_at": "2026-07-26T12:44:50Z",
-    "url": "https://github.com/Astitwa73/SynapseBMS"
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-26T12:59:27Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 1,
+    "updated_at": "2026-07-26T12:52:55Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
   },
   {
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "krishagarwal314/autodev-studio",
     "stars": 14,
-    "updated_at": "2026-07-26T12:44:12Z",
+    "updated_at": "2026-07-26T12:47:41Z",
     "url": "https://github.com/krishagarwal314/autodev-studio"
+  },
+  {
+    "description": "An AI agent that reads a live EnergyPlus building simulation, reasons about it, and writes control decisions back - 37% ",
+    "id": "Astitwa73/SynapseBMS",
+    "language": "Python",
+    "name": "Astitwa73/SynapseBMS",
+    "stars": 0,
+    "updated_at": "2026-07-26T12:44:50Z",
+    "url": "https://github.com/Astitwa73/SynapseBMS"
   },
   {
     "description": "Sandboxed, agent-ready dev containers in one command \u2014 DevPod + rootless Podman + VSCodium \u2014 for running autonomous AI c",
@@ -36,21 +54,12 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-26T12:38:04Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-07-26T12:34:43Z",
+    "updated_at": "2026-07-26T12:55:17Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 152,
     "updated_at": "2026-07-26T11:17:24Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-26T11:14:38Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
