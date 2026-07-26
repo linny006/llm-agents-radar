@@ -1,12 +1,21 @@
 [
   {
-    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
-    "id": "kargnas/mac-optimizing-looper",
-    "language": "Swift",
-    "name": "kargnas/mac-optimizing-looper",
-    "stars": 22,
-    "updated_at": "2026-07-26T05:30:00Z",
-    "url": "https://github.com/kargnas/mac-optimizing-looper"
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-07-26T05:43:56Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 3,
+    "updated_at": "2026-07-26T05:43:27Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   },
   {
     "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
@@ -14,8 +23,125 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 3,
-    "updated_at": "2026-07-26T05:29:51Z",
+    "updated_at": "2026-07-26T05:43:18Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 2,
+    "updated_at": "2026-07-26T05:42:53Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:41:27Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-07-26T05:41:21Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:40:31Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 24,
+    "updated_at": "2026-07-26T05:39:39Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-07-26T05:35:56Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:34:38Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-07-26T05:33:47Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:32:12Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:31:44Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-07-26T05:31:20Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-26T05:30:32Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "A menu-bar macOS agent loop: every N minutes it asks Claude/Codex what's overloading your Mac and suggests one-click, ri",
+    "id": "kargnas/mac-optimizing-looper",
+    "language": "Swift",
+    "name": "kargnas/mac-optimizing-looper",
+    "stars": 22,
+    "updated_at": "2026-07-26T05:42:16Z",
+    "url": "https://github.com/kargnas/mac-optimizing-looper"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -32,7 +158,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-26T05:26:11Z",
+    "updated_at": "2026-07-26T05:44:13Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -189,15 +315,6 @@
     "url": "https://github.com/M1zz1-ai/notion-bot"
   },
   {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 24,
-    "updated_at": "2026-07-26T05:06:18Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -293,7 +410,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2928,
-    "updated_at": "2026-07-26T04:48:27Z",
+    "updated_at": "2026-07-26T05:45:07Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T04:44:25Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 2,
-    "updated_at": "2026-07-26T04:42:41Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-26T04:39:53Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
-    "id": "casioreview20-glitch/forge-os",
-    "language": "JavaScript",
-    "name": "casioreview20-glitch/forge-os",
-    "stars": 8,
-    "updated_at": "2026-07-26T04:39:39Z",
-    "url": "https://github.com/casioreview20-glitch/forge-os"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-07-26T04:35:59Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-26T04:31:31Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 1,
-    "updated_at": "2026-07-26T04:31:08Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-07-26T04:30:58Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-26T04:29:16Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "\u53ef\u590d\u73b0\u7684 ReAct Agent \u8fd0\u884c\u65f6 \u2014 Core \u5faa\u73af\u3001Harness/\u8bc4\u6d4b\u3001LangGraph \u5bf9\u7167\uff08\u975e\u751f\u4ea7\u5e73\u53f0\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-26T04:28:07Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-07-26T04:26:51Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Open LLM CLI - LLM Automation",
-    "id": "blackopsinc/openllm-cli",
-    "language": "Go",
-    "name": "blackopsinc/openllm-cli",
-    "stars": 2,
-    "updated_at": "2026-07-26T04:23:19Z",
-    "url": "https://github.com/blackopsinc/openllm-cli"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 3,
-    "updated_at": "2026-07-26T04:22:45Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-26T05:07:48Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   }
 ]
