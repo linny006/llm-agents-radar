@@ -1,12 +1,66 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 2,
+    "updated_at": "2026-07-27T09:23:34Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:22:20Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-07-27T09:15:03Z",
+    "updated_at": "2026-07-27T09:22:08Z",
     "url": "https://github.com/amemhq/amem"
+  },
+  {
+    "description": "Dota Buddy: a neurosymbolic Dota 2 drafting coach. The deterministic engine decides, the knowledge graph explains, the L",
+    "id": "brainysteven/dota-buddy",
+    "language": "Python",
+    "name": "brainysteven/dota-buddy",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:21:51Z",
+    "url": "https://github.com/brainysteven/dota-buddy"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:20:38Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:19:58Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 15 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-27T09:15:08Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -52,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T08:58:41Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-27T09:14:58Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -205,6 +250,24 @@
     "stars": 2,
     "updated_at": "2026-07-27T08:36:03Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "",
+    "id": "pronoy1004/codebase-cartography",
+    "language": "Python",
+    "name": "pronoy1004/codebase-cartography",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:34:35Z",
+    "url": "https://github.com/pronoy1004/codebase-cartography"
+  },
+  {
+    "description": "",
+    "id": "pronoy1004/content-skills",
+    "language": "Python",
+    "name": "pronoy1004/content-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:34:19Z",
+    "url": "https://github.com/pronoy1004/content-skills"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T08:12:11Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:11:31Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
-    "id": "fightheyyy/barena",
-    "language": "TypeScript",
-    "name": "fightheyyy/barena",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:08:51Z",
-    "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:07:19Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:06:20Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:06:06Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 2,
-    "updated_at": "2026-07-27T08:05:08Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 3,
-    "updated_at": "2026-07-27T08:02:24Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
