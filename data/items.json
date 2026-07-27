@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:43:06Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-27T09:41:52Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-27T09:41:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-07-27T09:40:52Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-07-27T09:39:37Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:38:55Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "A local agent for everyday reasoning.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:38:48Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 4,
+    "updated_at": "2026-07-27T09:34:40Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-07-27T09:31:50Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "pronoy1004/content-skills",
+    "language": "Python",
+    "name": "pronoy1004/content-skills",
+    "stars": 0,
+    "updated_at": "2026-07-27T09:30:53Z",
+    "url": "https://github.com/pronoy1004/content-skills"
+  },
+  {
+    "description": "",
+    "id": "pronoy1004/codebase-cartography",
+    "language": "Python",
+    "name": "pronoy1004/codebase-cartography",
+    "stars": 1,
+    "updated_at": "2026-07-27T09:30:49Z",
+    "url": "https://github.com/pronoy1004/codebase-cartography"
+  },
+  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -16,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T09:22:20Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-27T09:22:08Z",
-    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "Dota Buddy: a neurosymbolic Dota 2 drafting coach. The deterministic engine decides, the knowledge graph explains, the L",
@@ -63,21 +153,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-07-27T09:04:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2938,
-    "updated_at": "2026-07-27T09:04:39Z",
+    "updated_at": "2026-07-27T09:43:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-07-27T08:53:50Z",
+    "updated_at": "2026-07-27T09:40:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-07-27T09:14:47Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -160,6 +232,15 @@
     "stars": 13,
     "updated_at": "2026-07-27T08:44:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 546,
+    "updated_at": "2026-07-27T08:44:23Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -185,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4369,
-    "updated_at": "2026-07-27T08:42:24Z",
+    "updated_at": "2026-07-27T09:42:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -250,24 +331,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T08:36:03Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "",
-    "id": "pronoy1004/codebase-cartography",
-    "language": "Python",
-    "name": "pronoy1004/codebase-cartography",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:34:35Z",
-    "url": "https://github.com/pronoy1004/codebase-cartography"
-  },
-  {
-    "description": "",
-    "id": "pronoy1004/content-skills",
-    "language": "Python",
-    "name": "pronoy1004/content-skills",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:34:19Z",
-    "url": "https://github.com/pronoy1004/content-skills"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T08:21:58Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:21:47Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:17:07Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:15:42Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:14:49Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:13:14Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 0,
-    "updated_at": "2026-07-27T08:12:43Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 1,
-    "updated_at": "2026-07-27T08:12:11Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
