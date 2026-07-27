@@ -1,11 +1,20 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-27T11:46:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
     "id": "wangyuahn/nori-code",
     "language": "TypeScript",
     "name": "wangyuahn/nori-code",
     "stars": 11,
-    "updated_at": "2026-07-27T11:39:23Z",
+    "updated_at": "2026-07-27T11:45:30Z",
     "url": "https://github.com/wangyuahn/nori-code"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T10:36:34Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 3,
-    "updated_at": "2026-07-27T10:36:11Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
