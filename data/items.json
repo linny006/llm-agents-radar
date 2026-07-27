@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
-    "id": "xhqing/DayTradingAgent",
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:42:00Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T12:57:18Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-27T12:50:02Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
@@ -16,6 +25,15 @@
     "stars": 6,
     "updated_at": "2026-07-27T12:44:50Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-27T12:42:00Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -34,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T12:40:10Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-27T12:43:34Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -167,7 +176,7 @@
     "language": "Ruby",
     "name": "mensfeld/pocketrb",
     "stars": 38,
-    "updated_at": "2026-07-27T11:31:39Z",
+    "updated_at": "2026-07-27T12:53:12Z",
     "url": "https://github.com/mensfeld/pocketrb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T10:51:12Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4370,
-    "updated_at": "2026-07-27T10:51:32Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
