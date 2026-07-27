@@ -1,5 +1,32 @@
 [
   {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:59:20Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
+    "id": "7-e1even/learn-agent",
+    "language": "JavaScript",
+    "name": "7-e1even/learn-agent",
+    "stars": 207,
+    "updated_at": "2026-07-27T16:53:02Z",
+    "url": "https://github.com/7-e1even/learn-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:49:20Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
     "id": "loquix-dev/loquix",
     "language": "TypeScript",
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 3,
-    "updated_at": "2026-07-27T15:56:49Z",
+    "updated_at": "2026-07-27T16:56:33Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -160,6 +187,15 @@
     "stars": 4370,
     "updated_at": "2026-07-27T15:47:12Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8888,
+    "updated_at": "2026-07-27T15:36:07Z",
+    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "Headless jadx sessions for LLM agents. Drives the jadx CLI, no GUI, no daemon.",
@@ -232,24 +268,6 @@
     "stars": 8,
     "updated_at": "2026-07-27T14:42:12Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:42:05Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8889,
-    "updated_at": "2026-07-27T15:36:07Z",
-    "url": "https://github.com/EvoMap/evolver"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -364,7 +382,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13581,
+    "stars": 13582,
     "updated_at": "2026-07-27T12:33:10Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -382,7 +400,7 @@
     "id": "krishagarwal314/autodev-studio",
     "language": "Python",
     "name": "krishagarwal314/autodev-studio",
-    "stars": 30,
+    "stars": 31,
     "updated_at": "2026-07-27T12:22:18Z",
     "url": "https://github.com/krishagarwal314/autodev-studio"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:24:59Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:24:59Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 16,
-    "updated_at": "2026-07-27T11:23:20Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
