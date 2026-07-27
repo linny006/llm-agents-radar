@@ -1,12 +1,12 @@
 [
   {
-    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
+    "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
+    "id": "StephenSook/silent-drift-sentinel",
     "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-27T17:39:18Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
+    "name": "StephenSook/silent-drift-sentinel",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:59:56Z",
+    "url": "https://github.com/StephenSook/silent-drift-sentinel"
   },
   {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
@@ -14,8 +14,53 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 3,
-    "updated_at": "2026-07-27T17:35:34Z",
+    "updated_at": "2026-07-27T17:58:17Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-27T17:56:49Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-27T17:49:56Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-27T17:48:08Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-27T17:47:45Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-27T17:39:18Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
@@ -34,15 +79,6 @@
     "stars": 5592,
     "updated_at": "2026-07-27T17:45:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T16:59:20Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "\u5b66\u4e60Agent\u5f00\u53d1\u7684\u7b14\u8bb0\uff0c\u5c1d\u8bd5\u8ba9Agent\u4ece\u53ef\u7528\u5230\u53ef\u9760",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-27T16:28:02Z",
+    "updated_at": "2026-07-27T18:00:06Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -180,29 +216,11 @@
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-27T15:47:31Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:46:55Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4370,
+    "stars": 4371,
     "updated_at": "2026-07-27T15:47:12Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -337,7 +355,7 @@
     "id": "Admire-ljb/VoLN-UAV",
     "language": "Python",
     "name": "Admire-ljb/VoLN-UAV",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-07-27T13:35:04Z",
     "url": "https://github.com/Admire-ljb/VoLN-UAV"
   },
@@ -358,15 +376,6 @@
     "stars": 1521,
     "updated_at": "2026-07-27T13:07:45Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-27T16:40:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
@@ -400,7 +409,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13582,
+    "stars": 13583,
     "updated_at": "2026-07-27T12:33:10Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -418,7 +427,7 @@
     "id": "krishagarwal314/autodev-studio",
     "language": "Python",
     "name": "krishagarwal314/autodev-studio",
-    "stars": 32,
+    "stars": 33,
     "updated_at": "2026-07-27T12:22:18Z",
     "url": "https://github.com/krishagarwal314/autodev-studio"
   },
@@ -439,14 +448,5 @@
     "stars": 28319,
     "updated_at": "2026-07-27T12:11:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-07-27T11:30:11Z",
-    "url": "https://github.com/bigduu/Lotus"
   }
 ]
