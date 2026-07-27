@@ -1,5 +1,68 @@
 [
   {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-27T20:14:11Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
+    "id": "OnourImpram/vocation-os",
+    "language": "TypeScript",
+    "name": "OnourImpram/vocation-os",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:14:29Z",
+    "url": "https://github.com/OnourImpram/vocation-os"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 3,
+    "updated_at": "2026-07-27T20:13:10Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "A headless jadx engine for LLM agents. Answers structured questions about an APK, DEX or JAR over a plain CLI. No GUI, n",
+    "id": "AsherDLL/jadx-rpc",
+    "language": "Python",
+    "name": "AsherDLL/jadx-rpc",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:10:11Z",
+    "url": "https://github.com/AsherDLL/jadx-rpc"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:11:05Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
+    "id": "holasoymalva/manyllm-app",
+    "language": "Swift",
+    "name": "holasoymalva/manyllm-app",
+    "stars": 0,
+    "updated_at": "2026-07-27T20:07:22Z",
+    "url": "https://github.com/holasoymalva/manyllm-app"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 301,
+    "updated_at": "2026-07-27T20:07:21Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T19:58:34Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:58:17Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -54,15 +108,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A headless jadx engine for LLM agents. Answers structured questions about an APK, DEX or JAR over a plain CLI. No GUI, n",
-    "id": "AsherDLL/jadx-rpc",
-    "language": "Python",
-    "name": "AsherDLL/jadx-rpc",
-    "stars": 0,
-    "updated_at": "2026-07-27T19:40:43Z",
-    "url": "https://github.com/AsherDLL/jadx-rpc"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T19:26:18Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-27T19:21:03Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -301,7 +337,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 450,
+    "stars": 451,
     "updated_at": "2026-07-27T16:06:18Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 9,
     "updated_at": "2026-07-27T13:35:48Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
-    "id": "Admire-ljb/VoLN-UAV",
-    "language": "Python",
-    "name": "Admire-ljb/VoLN-UAV",
-    "stars": 16,
-    "updated_at": "2026-07-27T13:35:04Z",
-    "url": "https://github.com/Admire-ljb/VoLN-UAV"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-27T13:10:08Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1521,
-    "updated_at": "2026-07-27T13:07:45Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T13:04:14Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
