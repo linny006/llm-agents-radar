@@ -1,12 +1,30 @@
 [
   {
-    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-07-27T13:10:08Z",
+    "url": "https://github.com/mensfeld/pocketrb"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
     "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T12:57:18Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
+    "name": "Mirascope/mirascope",
+    "stars": 1521,
+    "updated_at": "2026-07-27T13:07:45Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-27T13:05:06Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +32,26 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-27T12:50:02Z",
+    "updated_at": "2026-07-27T13:04:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001\u56db\u5957\u79bb\u7ebf eval\u3001Harness \u8f68\u8ff9\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T13:04:14Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-27T12:59:10Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2940,
-    "updated_at": "2026-07-27T12:28:42Z",
+    "updated_at": "2026-07-27T13:06:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:46:21Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-27T12:53:12Z",
-    "url": "https://github.com/mensfeld/pocketrb"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T10:56:55Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-07-27T10:55:58Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-27T10:55:11Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-07-27T10:51:12Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
