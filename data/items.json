@@ -1,21 +1,21 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
     "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6705,
-    "updated_at": "2026-07-27T15:56:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:12:22Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 2,
-    "updated_at": "2026-07-27T15:56:49Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:11:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
@@ -23,8 +23,53 @@
     "language": "Rust",
     "name": "Grizzly-Endeavors/grizzly-gameservers",
     "stars": 0,
-    "updated_at": "2026-07-27T15:56:46Z",
+    "updated_at": "2026-07-27T16:11:25Z",
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4088,
+    "updated_at": "2026-07-27T16:09:05Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6705,
+    "updated_at": "2026-07-27T16:07:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 446,
+    "updated_at": "2026-07-27T16:06:18Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-27T16:05:00Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 3,
+    "updated_at": "2026-07-27T15:56:49Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
@@ -63,15 +108,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:56:45Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "Headless jadx sessions for LLM agents. Drives the jadx CLI, no GUI, no daemon.",
     "id": "AsherDLL/jadx-rpc",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T15:31:42Z",
     "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 445,
-    "updated_at": "2026-07-27T15:16:23Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Admire-ljb/VoLN-UAV"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-27T13:35:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -342,15 +360,6 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-27T12:29:33Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
     "id": "krishagarwal314/autodev-studio",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T11:15:59Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:14:35Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
   }
 ]
