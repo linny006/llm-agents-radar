@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u53ef\u8fd0\u884c\u7684 Cloud Agent Platform demo\uff1a\u4e00\u6b21\u6027 Docker \u6c99\u7bb1 + \u624b\u5199 LLM \u5de5\u5177\u8c03\u7528\u5faa\u73af + \u53ef\u6062\u590d\u8c03\u5ea6\uff0c\u4e00\u6761\u547d\u4ee4\u8dd1\u901a\uff08VUI Labs \u7b14\u8bd5\u4ea4\u4ed8\uff09",
+    "id": "jackkeane/cloudagentperform",
+    "language": "Python",
+    "name": "jackkeane/cloudagentperform",
+    "stars": 0,
+    "updated_at": "2026-07-27T00:23:01Z",
+    "url": "https://github.com/jackkeane/cloudagentperform"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-27T00:18:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -25,15 +43,6 @@
     "stars": 4,
     "updated_at": "2026-07-27T00:13:05Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u53ef\u8fd0\u884c\u7684 Cloud Agent Platform demo\uff1a\u4e00\u6b21\u6027 Docker \u6c99\u7bb1 + \u624b\u5199 LLM \u5de5\u5177\u8c03\u7528\u5faa\u73af + \u53ef\u6062\u590d\u8c03\u5ea6\uff0c\u4e00\u6761\u547d\u4ee4\u8dd1\u901a\uff08VUI Labs \u7b14\u8bd5\u4ea4\u4ed8\uff09",
-    "id": "jackkeane/cloudagentperform",
-    "language": "Python",
-    "name": "jackkeane/cloudagentperform",
-    "stars": 0,
-    "updated_at": "2026-07-27T00:09:44Z",
-    "url": "https://github.com/jackkeane/cloudagentperform"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-27T00:11:50Z",
+    "updated_at": "2026-07-27T00:28:26Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-07-26T23:17:18Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-07-26T23:36:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
