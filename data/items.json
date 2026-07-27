@@ -1,5 +1,59 @@
 [
   {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-27T04:48:27Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-07-27T04:48:23Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-27T04:47:28Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-27T04:48:33Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 1,
+    "updated_at": "2026-07-27T04:47:16Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 2,
+    "updated_at": "2026-07-27T04:46:20Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T04:41:02Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-07-27T04:44:13Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -178,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T04:19:17Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-27T04:45:12Z",
-    "url": "https://github.com/yo4e/sudachi-life"
   },
   {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T03:03:45Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-07-27T03:03:04Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 1,
-    "updated_at": "2026-07-27T03:03:03Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 9,
-    "updated_at": "2026-07-27T03:00:15Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 1,
-    "updated_at": "2026-07-27T02:54:38Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
