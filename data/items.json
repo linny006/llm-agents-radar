@@ -1,12 +1,66 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4370,
+    "updated_at": "2026-07-27T15:44:56Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-27T15:29:12Z",
+    "updated_at": "2026-07-27T15:44:18Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6705,
+    "updated_at": "2026-07-27T15:39:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Headless jadx sessions for LLM agents. Drives the jadx CLI, no GUI, no daemon.",
+    "id": "AsherDLL/jadx-rpc",
+    "language": "Python",
+    "name": "AsherDLL/jadx-rpc",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:35:11Z",
+    "url": "https://github.com/AsherDLL/jadx-rpc"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-07-27T15:32:55Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-27T15:32:31Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
+    "id": "tarangdeep-goel-by/claude-harness",
+    "language": "Shell",
+    "name": "tarangdeep-goel-by/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-27T15:31:42Z",
+    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -45,15 +99,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-27T14:42:41Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -77,7 +122,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8889,
-    "updated_at": "2026-07-27T15:00:22Z",
+    "updated_at": "2026-07-27T15:36:07Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-07-27T13:48:00Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "Go",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-07-27T15:26:49Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -310,7 +346,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28317,
+    "stars": 28318,
     "updated_at": "2026-07-27T12:11:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:10:32Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:10:12Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 2,
-    "updated_at": "2026-07-27T11:07:56Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-07-27T11:07:43Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:07:29Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
