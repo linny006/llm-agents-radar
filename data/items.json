@@ -1,12 +1,12 @@
 [
   {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T03:14:55Z",
-    "url": "https://github.com/nlj3/kedge"
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-07-27T03:29:01Z",
+    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -14,17 +14,62 @@
     "language": "Python",
     "name": "agentscope-ai/agentscope",
     "stars": 28296,
-    "updated_at": "2026-07-27T03:10:19Z",
+    "updated_at": "2026-07-27T03:27:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
+    "description": "\u81ea\u5efa Core \u4f18\u5148\u7684\u751f\u4ea7\u5411 Agent \u8fd0\u884c\u65f6 \u2014 ReAct + Workflow\u3001\u6587\u6863/API \u6392\u969c\u3001\u5206\u5c42\u516c\u5f00 RAG\uff08smoke/hard/held_out\uff09\uff1bLangGraph \u4ec5\u53ef\u9009\u5bf9\u7167",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-07-27T03:26:55Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-07-27T03:24:45Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5584,
+    "updated_at": "2026-07-27T03:23:15Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Risk-tiered LLM support agent for a regulated fintech \u2014 money never passes through a generative model. Four lanes, input",
+    "id": "ZimmW/finlane",
+    "language": "Python",
+    "name": "ZimmW/finlane",
+    "stars": 0,
+    "updated_at": "2026-07-27T03:22:04Z",
+    "url": "https://github.com/ZimmW/finlane"
+  },
+  {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
     "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-27T03:05:26Z",
-    "url": "https://github.com/amemhq/amem"
+    "name": "wangyuahn/nori-code",
+    "stars": 11,
+    "updated_at": "2026-07-27T03:21:58Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-27T03:17:20Z",
+    "url": "https://github.com/nlj3/kedge"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -63,21 +108,12 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 11,
-    "updated_at": "2026-07-27T03:00:26Z",
-    "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-27T03:14:48Z",
+    "updated_at": "2026-07-27T03:28:14Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T02:38:29Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "\u751f\u4ea7\u5411 ReAct Agent \u8fd0\u884c\u65f6\u539f\u578b \u2014 \u6587\u6863/API \u6392\u969c\u4e3b\u573a\u666f\u3001Harness/\u8bc4\u6d4b\u3001HTTP \u670d\u52a1\u9762\uff08\u975e\u591a\u79df\u6237\u5e73\u53f0\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T02:38:29Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -410,7 +437,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-27T02:49:28Z",
+    "updated_at": "2026-07-27T03:16:44Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T02:14:45Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 4,
-    "updated_at": "2026-07-27T02:12:41Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-07-27T02:12:06Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 2,
-    "updated_at": "2026-07-27T02:11:31Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
