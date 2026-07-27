@@ -1,12 +1,12 @@
 [
   {
-    "description": "Code and evaluation resources for bounded cognitive EEG analysis with language models and deterministic scientific contr",
-    "id": "dengzhe-hou/CogEEGAgent",
-    "language": "Python",
-    "name": "dengzhe-hou/CogEEGAgent",
+    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
+    "id": "tarangdeep-goel-by/claude-harness",
+    "language": "Shell",
+    "name": "tarangdeep-goel-by/claude-harness",
     "stars": 0,
-    "updated_at": "2026-07-27T18:38:49Z",
-    "url": "https://github.com/dengzhe-hou/CogEEGAgent"
+    "updated_at": "2026-07-27T18:56:24Z",
+    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
   },
   {
     "description": "\u03be. Autonomous LLM bug-fixing agent with parallel branch experiments on AST search, LSP grounding, cognitive memory, and ",
@@ -14,8 +14,35 @@
     "language": "HTML",
     "name": "TBANK-XI/xi-agent",
     "stars": 2,
-    "updated_at": "2026-07-27T18:35:42Z",
+    "updated_at": "2026-07-27T18:55:04Z",
     "url": "https://github.com/TBANK-XI/xi-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-27T18:51:01Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6705,
+    "updated_at": "2026-07-27T18:49:47Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Code and evaluation resources for bounded cognitive EEG analysis with language models and deterministic scientific contr",
+    "id": "dengzhe-hou/CogEEGAgent",
+    "language": "Python",
+    "name": "dengzhe-hou/CogEEGAgent",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:38:49Z",
+    "url": "https://github.com/dengzhe-hou/CogEEGAgent"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -43,15 +70,6 @@
     "stars": 153,
     "updated_at": "2026-07-27T18:23:02Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-27T18:44:04Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -216,15 +234,6 @@
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6705,
-    "updated_at": "2026-07-27T17:43:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -286,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T15:32:31Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
-    "id": "tarangdeep-goel-by/claude-harness",
-    "language": "Shell",
-    "name": "tarangdeep-goel-by/claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:31:42Z",
-    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
   },
   {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
