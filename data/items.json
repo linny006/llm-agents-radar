@@ -1,5 +1,131 @@
 [
   {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:13:14Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:12:43Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:12:11Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:11:31Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
+    "id": "fightheyyy/barena",
+    "language": "TypeScript",
+    "name": "fightheyyy/barena",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:08:51Z",
+    "url": "https://github.com/fightheyyy/barena"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:07:19Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-07-27T08:06:20Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:06:06Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 2,
+    "updated_at": "2026-07-27T08:05:08Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 3,
+    "updated_at": "2026-07-27T08:02:24Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-07-27T08:01:38Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 2,
+    "updated_at": "2026-07-27T08:01:29Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 1,
+    "updated_at": "2026-07-27T08:01:08Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-07-27T07:59:38Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -14,7 +140,7 @@
     "language": "Python",
     "name": "laazizi/autoagent",
     "stars": 2,
-    "updated_at": "2026-07-27T07:57:59Z",
+    "updated_at": "2026-07-27T08:01:13Z",
     "url": "https://github.com/laazizi/autoagent"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T06:56:12Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T06:51:40Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 2,
-    "updated_at": "2026-07-27T06:48:00Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-07-27T06:46:45Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 3,
-    "updated_at": "2026-07-27T06:45:14Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:46:20Z",
-    "url": "https://github.com/nlj3/kedge"
-  },
-  {
-    "description": "Human-supervised career decision safety with claim graphs, high-stakes gates, and append-only audit.",
-    "id": "OnourImpram/vocation-os",
-    "language": "TypeScript",
-    "name": "OnourImpram/vocation-os",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:36:40Z",
-    "url": "https://github.com/OnourImpram/vocation-os"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 152,
-    "updated_at": "2026-07-27T06:28:07Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A local agent for everyday reasoning.",
-    "id": "vpakarinen2/localmind",
-    "language": "Python",
-    "name": "vpakarinen2/localmind",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:26:35Z",
-    "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-27T06:22:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-07-27T06:14:16Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-27T07:26:11Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4369,
-    "updated_at": "2026-07-27T06:06:44Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:55:45Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "\u81ea\u5efa Core \u4f18\u5148\u7684\u751f\u4ea7\u5411 Agent \u8fd0\u884c\u65f6 \u2014 ReAct + Workflow\u3001\u6587\u6863/API \u6392\u969c\u3001\u5206\u5c42\u516c\u5f00 RAG\uff08smoke/hard/held_out\uff09\uff1bLangGraph \u4ec5\u53ef\u9009\u5bf9\u7167",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-07-27T05:41:00Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
