@@ -1,11 +1,20 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-27T22:25:07Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
     "id": "holasoymalva/manyllm-app",
     "language": "Swift",
     "name": "holasoymalva/manyllm-app",
     "stars": 0,
-    "updated_at": "2026-07-27T22:14:17Z",
+    "updated_at": "2026-07-27T22:25:04Z",
     "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T22:00:09Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:15:48Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -122,7 +122,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 2,
-    "updated_at": "2026-07-27T21:19:07Z",
+    "updated_at": "2026-07-27T22:30:31Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -175,7 +175,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6707,
+    "stars": 6708,
     "updated_at": "2026-07-27T20:39:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
