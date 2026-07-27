@@ -1,5 +1,32 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 3,
+    "updated_at": "2026-07-27T17:13:48Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-27T17:05:18Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5592,
+    "updated_at": "2026-07-27T17:04:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -34,15 +61,6 @@
     "stars": 37,
     "updated_at": "2026-07-27T16:43:42Z",
     "url": "https://github.com/loquix-dev/loquix"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:34:06Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Harness LLMs with Multi-Agent Programming",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:05:00Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 3,
-    "updated_at": "2026-07-27T16:56:33Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "A WhatsApp group-chat GitHub concierge \u2014 an Eve agent, bridged over whatsappd, that triages issues, reviews PRs, and sum",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T11:25:36Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 1,
-    "updated_at": "2026-07-27T11:24:59Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
