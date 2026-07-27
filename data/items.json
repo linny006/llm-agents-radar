@@ -1,5 +1,14 @@
 [
   {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 14,
+    "updated_at": "2026-07-27T00:44:51Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
     "description": "\u53ef\u8fd0\u884c\u7684 Cloud Agent Platform demo\uff1a\u4e00\u6b21\u6027 Docker \u6c99\u7bb1 + \u624b\u5199 LLM \u5de5\u5177\u8c03\u7528\u5faa\u73af + \u53ef\u6062\u590d\u8c03\u5ea6\uff0c\u4e00\u6761\u547d\u4ee4\u8dd1\u901a\uff08VUI Labs \u7b14\u8bd5\u4ea4\u4ed8\uff09",
     "id": "jackkeane/cloudagentperform",
     "language": "Python",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-27T00:28:26Z",
+    "updated_at": "2026-07-27T00:42:40Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-26T23:04:31Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 4,
-    "updated_at": "2026-07-26T23:02:00Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
