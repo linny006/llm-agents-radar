@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 3,
-    "updated_at": "2026-07-27T17:13:48Z",
+    "updated_at": "2026-07-27T17:29:31Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-07-27T17:24:55Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 2,
-    "updated_at": "2026-07-27T17:05:18Z",
+    "updated_at": "2026-07-27T17:30:20Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
@@ -40,7 +49,7 @@
     "id": "7-e1even/learn-agent",
     "language": "JavaScript",
     "name": "7-e1even/learn-agent",
-    "stars": 207,
+    "stars": 209,
     "updated_at": "2026-07-27T16:53:02Z",
     "url": "https://github.com/7-e1even/learn-agent"
   },
@@ -202,7 +211,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8888,
+    "stars": 8889,
     "updated_at": "2026-07-27T15:36:07Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -283,7 +292,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2941,
+    "stars": 2942,
     "updated_at": "2026-07-27T14:19:26Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -409,7 +418,7 @@
     "id": "krishagarwal314/autodev-studio",
     "language": "Python",
     "name": "krishagarwal314/autodev-studio",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-07-27T12:22:18Z",
     "url": "https://github.com/krishagarwal314/autodev-studio"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-27T11:30:11Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 0,
-    "updated_at": "2026-07-27T11:25:36Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
   }
 ]
