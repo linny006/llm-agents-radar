@@ -1,5 +1,23 @@
 [
   {
+    "description": "A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces.",
+    "id": "loquix-dev/loquix",
+    "language": "TypeScript",
+    "name": "loquix-dev/loquix",
+    "stars": 37,
+    "updated_at": "2026-07-27T16:43:42Z",
+    "url": "https://github.com/loquix-dev/loquix"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-27T16:34:06Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Harness LLMs with Multi-Agent Programming",
     "id": "langroid/langroid",
     "language": "Python",
@@ -306,21 +324,12 @@
     "url": "https://github.com/Mirascope/mirascope"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-27T16:34:06Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-27T13:21:49Z",
+    "updated_at": "2026-07-27T16:40:22Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -391,7 +400,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28318,
+    "stars": 28319,
     "updated_at": "2026-07-27T12:11:14Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-27T11:23:20Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
-    "id": "Lyz103/LLM-Agent-Paper-daily",
-    "language": "Python",
-    "name": "Lyz103/LLM-Agent-Paper-daily",
-    "stars": 20,
-    "updated_at": "2026-07-27T11:22:17Z",
-    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
   }
 ]
