@@ -1,5 +1,14 @@
 [
   {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-27T00:54:45Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
     "id": "sehoon787/my-claude",
     "language": "JavaScript",
@@ -25,15 +34,6 @@
     "stars": 6,
     "updated_at": "2026-07-27T00:18:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 9,
-    "updated_at": "2026-07-27T00:13:42Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-27T00:42:40Z",
+    "updated_at": "2026-07-27T00:59:35Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
