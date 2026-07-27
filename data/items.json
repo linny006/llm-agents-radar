@@ -1,5 +1,14 @@
 [
   {
+    "description": "Headless jadx sessions for LLM agents. Drives the jadx CLI, no GUI, no daemon.",
+    "id": "AsherDLL/jadx-rpc",
+    "language": "Python",
+    "name": "AsherDLL/jadx-rpc",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:13:42Z",
+    "url": "https://github.com/AsherDLL/jadx-rpc"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -241,15 +250,6 @@
     "stars": 8889,
     "updated_at": "2026-07-27T15:36:07Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Headless jadx sessions for LLM agents. Drives the jadx CLI, no GUI, no daemon.",
-    "id": "AsherDLL/jadx-rpc",
-    "language": "Python",
-    "name": "AsherDLL/jadx-rpc",
-    "stars": 0,
-    "updated_at": "2026-07-27T15:35:11Z",
-    "url": "https://github.com/AsherDLL/jadx-rpc"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
