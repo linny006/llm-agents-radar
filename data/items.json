@@ -1,5 +1,50 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 152,
+    "updated_at": "2026-07-27T06:28:07Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A local agent for everyday reasoning.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:26:35Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-27T06:26:03Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:22:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-27T06:21:54Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-27T06:05:25Z",
+    "updated_at": "2026-07-27T06:29:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -45,24 +90,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-27T05:51:51Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A local agent for everyday reasoning.",
-    "id": "vpakarinen2/localmind",
-    "language": "Python",
-    "name": "vpakarinen2/localmind",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:50:33Z",
-    "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
     "id": "nlj3/kedge",
     "language": "Rust",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T05:41:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-27T05:39:50Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -355,7 +373,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28299,
+    "stars": 28302,
     "updated_at": "2026-07-27T04:58:01Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-27T04:53:25Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 1,
-    "updated_at": "2026-07-27T04:53:08Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-07-27T04:52:29Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
