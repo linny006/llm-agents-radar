@@ -1,5 +1,14 @@
 [
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4088,
+    "updated_at": "2026-07-27T16:30:18Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-27T16:11:25Z",
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4088,
-    "updated_at": "2026-07-27T16:30:18Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 2,
-    "updated_at": "2026-07-27T13:05:06Z",
+    "updated_at": "2026-07-27T16:34:06Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
@@ -373,7 +373,7 @@
     "id": "krishagarwal314/autodev-studio",
     "language": "Python",
     "name": "krishagarwal314/autodev-studio",
-    "stars": 29,
+    "stars": 30,
     "updated_at": "2026-07-27T12:22:18Z",
     "url": "https://github.com/krishagarwal314/autodev-studio"
   },

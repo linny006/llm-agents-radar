@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 16:30 UTC
+> ⏰ Last updated: 2026-07-27 16:34 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-07-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-27 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 1 | Rust | 2026-07-27 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
-| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 153 | HTML | 2026-07-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 5 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-27 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-07-27 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
-| 8 | [langroid/langroid](https://github.com/langroid/langroid) | 4088 | Python | 2026-07-27 | Harness LLMs with Multi-Agent Programming |
+| 1 | [langroid/langroid](https://github.com/langroid/langroid) | 4088 | Python | 2026-07-27 | Harness LLMs with Multi-Agent Programming |
+| 2 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-07-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-27 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [phenomenoner/agent-harness-core](https://github.com/phenomenoner/agent-harness-core) | 1 | Rust | 2026-07-27 | Self-hosted AI agent harness in Rust, built for long tasks: a virtual session keeps work coherent across context compact |
+| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 153 | HTML | 2026-07-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-27 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 8 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-07-27 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
 | 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6705 | Python | 2026-07-27 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 10 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 446 | TypeScript | 2026-07-27 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 11 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-27 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [Dr1mH4X/TeamSpeakClaw](https://github.com/Dr1mH4X/TeamSpeakClaw) | 6 | Rust | 2026-07-27 | LLM-powered TeamSpeak bot \| LLM驱动的TeamSpeak机器人 |
 | 40 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13581 | Python | 2026-07-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 41 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 210 | TypeScript | 2026-07-27 | The Execution Security Layer for the Agentic Era. Providing deterministic "Sudo" governance and audit logs for autonomou |
-| 42 | [krishagarwal314/autodev-studio](https://github.com/krishagarwal314/autodev-studio) | 29 | Python | 2026-07-27 | Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op |
+| 42 | [krishagarwal314/autodev-studio](https://github.com/krishagarwal314/autodev-studio) | 30 | Python | 2026-07-27 | Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op |
 | 43 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 176 | JavaScript | 2026-07-27 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
 | 44 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28318 | Python | 2026-07-27 | Build and run agents you can see, understand and trust. |
 | 45 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 3 | TypeScript | 2026-07-27 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
