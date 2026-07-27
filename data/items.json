@@ -1,11 +1,38 @@
 [
   {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-27T22:51:51Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-07-27T22:49:10Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6709,
+    "updated_at": "2026-07-27T22:47:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
     "id": "d3stiny-io/termix-agent",
     "language": "Shell",
     "name": "d3stiny-io/termix-agent",
     "stars": 4,
-    "updated_at": "2026-07-27T22:44:13Z",
+    "updated_at": "2026-07-27T22:45:44Z",
     "url": "https://github.com/d3stiny-io/termix-agent"
   },
   {
@@ -16,15 +43,6 @@
     "stars": 3,
     "updated_at": "2026-07-27T22:38:53Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:35:45Z",
-    "url": "https://github.com/nlj3/kedge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -178,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-07-27T20:55:48Z",
     "url": "https://github.com/labsin-uncuyo/Trident"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6708,
-    "updated_at": "2026-07-27T20:39:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -373,7 +382,7 @@
     "id": "7-e1even/learn-agent",
     "language": "JavaScript",
     "name": "7-e1even/learn-agent",
-    "stars": 210,
+    "stars": 211,
     "updated_at": "2026-07-27T16:53:02Z",
     "url": "https://github.com/7-e1even/learn-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T17:39:24Z",
     "url": "https://github.com/AaronAbuUsama/ambient-agent"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8889,
-    "updated_at": "2026-07-27T18:40:37Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
