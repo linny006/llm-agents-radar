@@ -1,11 +1,29 @@
 [
   {
-    "description": "Give your LLM a canonical knowledge backbone. 18 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "description": "Code and evaluation resources for bounded cognitive EEG analysis with language models and deterministic scientific contr",
+    "id": "dengzhe-hou/CogEEGAgent",
+    "language": "Python",
+    "name": "dengzhe-hou/CogEEGAgent",
+    "stars": 0,
+    "updated_at": "2026-07-27T18:38:49Z",
+    "url": "https://github.com/dengzhe-hou/CogEEGAgent"
+  },
+  {
+    "description": "\u03be. Autonomous LLM bug-fixing agent with parallel branch experiments on AST search, LSP grounding, cognitive memory, and ",
+    "id": "TBANK-XI/xi-agent",
+    "language": "HTML",
+    "name": "TBANK-XI/xi-agent",
+    "stars": 2,
+    "updated_at": "2026-07-27T18:35:42Z",
+    "url": "https://github.com/TBANK-XI/xi-agent"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 2,
-    "updated_at": "2026-07-27T18:28:53Z",
+    "updated_at": "2026-07-27T18:35:17Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
@@ -32,7 +50,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-27T18:22:48Z",
+    "updated_at": "2026-07-27T18:44:04Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -248,7 +266,7 @@
     "language": "JavaScript",
     "name": "EvoMap/evolver",
     "stars": 8889,
-    "updated_at": "2026-07-27T15:36:07Z",
+    "updated_at": "2026-07-27T18:40:37Z",
     "url": "https://github.com/EvoMap/evolver"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "ccc909/GradientQL",
     "stars": 0,
-    "updated_at": "2026-07-27T13:57:51Z",
+    "updated_at": "2026-07-27T18:39:41Z",
     "url": "https://github.com/ccc909/GradientQL"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 210,
     "updated_at": "2026-07-27T12:32:25Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
-    "id": "krishagarwal314/autodev-studio",
-    "language": "Python",
-    "name": "krishagarwal314/autodev-studio",
-    "stars": 33,
-    "updated_at": "2026-07-27T12:22:18Z",
-    "url": "https://github.com/krishagarwal314/autodev-studio"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 176,
-    "updated_at": "2026-07-27T12:12:00Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   }
 ]
