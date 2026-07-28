@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-28T23:32:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T22:31:51Z",
     "url": "https://github.com/codedpro/agentic-game-factory"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-28T22:29:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Agentic clinical trails ingestion and synthesis",
