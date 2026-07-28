@@ -1,5 +1,23 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-07-28T21:24:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 317,
+    "updated_at": "2026-07-28T21:22:14Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -103,7 +121,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T20:35:16Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -214,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T19:38:03Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-28T19:33:47Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -403,15 +412,6 @@
     "stars": 11,
     "updated_at": "2026-07-28T15:57:15Z",
     "url": "https://github.com/casioreview20-glitch/forge-os"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 317,
-    "updated_at": "2026-07-28T16:01:31Z",
-    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
