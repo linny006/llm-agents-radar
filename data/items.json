@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-07-28T17:28:33Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 154,
+    "updated_at": "2026-07-28T17:24:39Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Autonomous, AI powered GraphQL vulnerability scanner.",
+    "id": "ccc909/GradientQL",
+    "language": "Python",
+    "name": "ccc909/GradientQL",
+    "stars": 0,
+    "updated_at": "2026-07-28T17:24:07Z",
+    "url": "https://github.com/ccc909/GradientQL"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -216,15 +243,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 154,
-    "updated_at": "2026-07-28T15:18:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T13:29:16Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:24:07Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-28T11:07:14Z",
     "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "Conversational & memory-enabled AI research partner for multi-omics analysis. CLI + Desktop App (installers in Releases)",
-    "id": "TianGzlab/OmicsClaw",
-    "language": "Python",
-    "name": "TianGzlab/OmicsClaw",
-    "stars": 154,
-    "updated_at": "2026-07-28T11:04:23Z",
-    "url": "https://github.com/TianGzlab/OmicsClaw"
   }
 ]
