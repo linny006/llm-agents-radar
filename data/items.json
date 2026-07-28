@@ -1,5 +1,41 @@
 [
   {
+    "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation ",
+    "id": "Intelligent-CAT-Lab/ReCodeAgent",
+    "language": "C",
+    "name": "Intelligent-CAT-Lab/ReCodeAgent",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:25:14Z",
+    "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-28T18:22:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 21 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-28T18:16:18Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-07-28T18:14:38Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -117,24 +153,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 21 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-28T17:12:22Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-07-28T18:14:38Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -151,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T17:04:58Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-28T17:02:34Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -234,6 +243,15 @@
     "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
   },
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 467,
+    "updated_at": "2026-07-28T16:04:10Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
     "id": "casioreview20-glitch/forge-os",
     "language": "JavaScript",
@@ -250,15 +268,6 @@
     "stars": 317,
     "updated_at": "2026-07-28T16:01:31Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 466,
-    "updated_at": "2026-07-28T16:04:10Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T12:11:03Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
-    "id": "lzw12w/glass-browser",
-    "language": "Python",
-    "name": "lzw12w/glass-browser",
-    "stars": 3,
-    "updated_at": "2026-07-28T11:31:34Z",
-    "url": "https://github.com/lzw12w/glass-browser"
   }
 ]
