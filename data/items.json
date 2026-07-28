@@ -1,12 +1,57 @@
 [
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 465,
-    "updated_at": "2026-07-28T15:04:37Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-28T15:25:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
+    "id": "iBlinkQ/project-cairn",
+    "language": "Shell",
+    "name": "iBlinkQ/project-cairn",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:22:47Z",
+    "url": "https://github.com/iBlinkQ/project-cairn"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-07-28T15:22:07Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
+    "id": "Shubham-S151/Routing-and-Agentic-RAG",
+    "language": "Python",
+    "name": "Shubham-S151/Routing-and-Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:30:04Z",
+    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 154,
+    "updated_at": "2026-07-28T15:18:53Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-28T15:18:35Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "lsdefine/GenericAgent",
     "stars": 13591,
-    "updated_at": "2026-07-28T15:15:20Z",
+    "updated_at": "2026-07-28T15:30:00Z",
     "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 465,
+    "updated_at": "2026-07-28T15:04:37Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -34,24 +88,6 @@
     "stars": 4372,
     "updated_at": "2026-07-28T15:03:07Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
-    "id": "iBlinkQ/project-cairn",
-    "language": "Shell",
-    "name": "iBlinkQ/project-cairn",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:01:42Z",
-    "url": "https://github.com/iBlinkQ/project-cairn"
-  },
-  {
-    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
-    "id": "Shubham-S151/Routing-and-Agentic-RAG",
-    "language": "Python",
-    "name": "Shubham-S151/Routing-and-Agentic-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T15:14:54Z",
-    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -90,15 +126,6 @@
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-07-28T15:11:23Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
     "description": "Awesome papers involving LLMs in Social Science.",
     "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
     "language": "\u2014",
@@ -115,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T14:04:38Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:01:15Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -216,15 +234,6 @@
     "url": "https://github.com/SymphonyW/Synapse"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 154,
-    "updated_at": "2026-07-28T12:51:51Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Agent Library personal knowledge base with a search and retrieval system MCP Server and CLI. Preconfigured local models ",
     "id": "arcadeai-labs/agent-library",
     "language": "Python",
@@ -302,17 +311,8 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 154,
-    "updated_at": "2026-07-28T12:01:34Z",
+    "updated_at": "2026-07-28T15:25:55Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-28T12:01:13Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
@@ -446,7 +446,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-28T15:13:18Z",
+    "updated_at": "2026-07-28T15:30:16Z",
     "url": "https://github.com/yo4e/sudachi-life"
   }
 ]
