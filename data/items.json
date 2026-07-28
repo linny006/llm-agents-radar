@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "Ediebah/clinical-insight-agent",
     "stars": 1,
-    "updated_at": "2026-07-28T07:42:09Z",
+    "updated_at": "2026-07-28T08:11:49Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-28T08:10:53Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 175,
+    "updated_at": "2026-07-28T08:12:52Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T08:03:59Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -36,15 +63,6 @@
     "url": "https://github.com/HuTa0kj/vetix"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T07:46:31Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
     "id": "lzw12w/glass-browser",
     "language": "Python",
@@ -54,20 +72,11 @@
     "url": "https://github.com/lzw12w/glass-browser"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T07:59:53Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 551,
+    "stars": 552,
     "updated_at": "2026-07-28T07:20:22Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -304,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:44:42Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 175,
-    "updated_at": "2026-07-28T07:48:37Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
