@@ -1,5 +1,14 @@
 [
   {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 2,
+    "updated_at": "2026-07-28T22:31:51Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -7,6 +16,15 @@
     "stars": 2,
     "updated_at": "2026-07-28T22:29:52Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agentic clinical trails ingestion and synthesis",
+    "id": "AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech",
+    "language": "Python",
+    "name": "AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech",
+    "stars": 0,
+    "updated_at": "2026-07-28T22:29:12Z",
+    "url": "https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -205,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-07-28T19:57:19Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
-    "id": "codedpro/agentic-game-factory",
-    "language": "GDScript",
-    "name": "codedpro/agentic-game-factory",
-    "stars": 2,
-    "updated_at": "2026-07-28T22:31:51Z",
-    "url": "https://github.com/codedpro/agentic-game-factory"
   },
   {
     "description": "Safe execution harness for LLM agents operating on local workspaces.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T15:04:05Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4372,
-    "updated_at": "2026-07-28T16:03:09Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
