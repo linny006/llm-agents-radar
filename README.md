@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 13:45 UTC
+> ⏰ Last updated: 2026-07-28 14:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,34 +42,34 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rhaist/marq](https://github.com/rhaist/marq) | 3 | Go | 2026-07-28 | Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run |
-| 2 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-28 | Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify — zero hallucinations. |
-| 3 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-07-28 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 4 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 3 | TypeScript | 2026-07-28 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-28 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 197 | Python | 2026-07-28 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 8 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2950 | Python | 2026-07-28 | SRE Agent - CNCF Sandbox Project |
-| 9 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 2 | Python | 2026-07-28 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 10 | [SymphonyW/Synapse](https://github.com/SymphonyW/Synapse) | 0 | Python | 2026-07-28 | An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter |
-| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 154 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 12 | [arcadeai-labs/agent-library](https://github.com/arcadeai-labs/agent-library) | 31 | Python | 2026-07-28 | Agent Library personal knowledge base with a search and retrieval system MCP Server and CLI. Preconfigured local models  |
-| 13 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 3 | TypeScript | 2026-07-28 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
-| 14 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-07-28 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
-| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-28 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 16 | [fajjos/tracewell](https://github.com/fajjos/tracewell) | 1 | Python | 2026-07-28 | Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with  |
-| 17 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 4 | Go | 2026-07-28 | A tribute to the best software in the world. |
-| 18 | [xDope7137/agentic-android](https://github.com/xDope7137/agentic-android) | 1 | Python | 2026-07-28 | LLM agent that drives a real Android device over ADB. It reads the screen, acts, verifies the result, and loops until th |
-| 19 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 8 | Python | 2026-07-28 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 20 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 0 | Python | 2026-07-28 | AI day-trading agent for HK/US equities (signal mode, built on Claude Code) |
-| 21 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-28 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 22 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 23 | [casioreview20-glitch/forge-os](https://github.com/casioreview20-glitch/forge-os) | 11 | JavaScript | 2026-07-28 | The open-source control plane for AI agents — skill routing, context governance, trustworthy execution, evidence, securi |
-| 24 | [lzw12w/glass-browser](https://github.com/lzw12w/glass-browser) | 2 | Python | 2026-07-28 | An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs  |
-| 25 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 464 | TypeScript | 2026-07-28 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 26 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-28 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 27 | [AnatoliBu/slack-tools](https://github.com/AnatoliBu/slack-tools) | 0 | Python | 2026-07-28 | Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid→PNG, |
-| 28 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-28 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-28 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [rhaist/marq](https://github.com/rhaist/marq) | 3 | Go | 2026-07-28 | Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run |
+| 3 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-28 | Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify — zero hallucinations. |
+| 4 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-07-28 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 5 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 3 | TypeScript | 2026-07-28 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-28 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 197 | Python | 2026-07-28 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 9 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2950 | Python | 2026-07-28 | SRE Agent - CNCF Sandbox Project |
+| 10 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 2 | Python | 2026-07-28 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 11 | [SymphonyW/Synapse](https://github.com/SymphonyW/Synapse) | 0 | Python | 2026-07-28 | An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 154 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [arcadeai-labs/agent-library](https://github.com/arcadeai-labs/agent-library) | 31 | Python | 2026-07-28 | Agent Library personal knowledge base with a search and retrieval system MCP Server and CLI. Preconfigured local models  |
+| 14 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 3 | TypeScript | 2026-07-28 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
+| 15 | [shimo4228/agent-knowledge-cycle](https://github.com/shimo4228/agent-knowledge-cycle) | 3 | — | 2026-07-28 | Agent Knowledge Cycle (AKC) — a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph |
+| 16 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-28 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 17 | [fajjos/tracewell](https://github.com/fajjos/tracewell) | 1 | Python | 2026-07-28 | Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with  |
+| 18 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 4 | Go | 2026-07-28 | A tribute to the best software in the world. |
+| 19 | [xDope7137/agentic-android](https://github.com/xDope7137/agentic-android) | 1 | Python | 2026-07-28 | LLM agent that drives a real Android device over ADB. It reads the screen, acts, verifies the result, and loops until th |
+| 20 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 8 | Python | 2026-07-28 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 21 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 0 | Python | 2026-07-28 | AI day-trading agent for HK/US equities (signal mode, built on Claude Code) |
+| 22 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-28 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 23 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 24 | [casioreview20-glitch/forge-os](https://github.com/casioreview20-glitch/forge-os) | 11 | JavaScript | 2026-07-28 | The open-source control plane for AI agents — skill routing, context governance, trustworthy execution, evidence, securi |
+| 25 | [lzw12w/glass-browser](https://github.com/lzw12w/glass-browser) | 2 | Python | 2026-07-28 | An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs  |
+| 26 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 464 | TypeScript | 2026-07-28 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 27 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-07-28 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 28 | [AnatoliBu/slack-tools](https://github.com/AnatoliBu/slack-tools) | 0 | Python | 2026-07-28 | Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid→PNG, |
 | 29 | [erickuhn19/deliverator](https://github.com/erickuhn19/deliverator) | 4 | Go | 2026-07-28 | Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet |
 | 30 | [TianGzlab/OmicsClaw](https://github.com/TianGzlab/OmicsClaw) | 154 | Python | 2026-07-28 | Conversational & memory-enabled AI research partner for multi-omics analysis. CLI + Desktop App (installers in Releases) |
 | 31 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 4 | TypeScript | 2026-07-28 | AI-powered image generation and chat studio |
