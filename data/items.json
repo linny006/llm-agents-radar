@@ -1,5 +1,23 @@
 [
   {
+    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
+    "id": "Shubham-S151/Routing-and-Agentic-RAG",
+    "language": "Python",
+    "name": "Shubham-S151/Routing-and-Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-28T14:59:11Z",
+    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 464,
+    "updated_at": "2026-07-28T14:54:22Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -50,7 +68,7 @@
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-07-28T14:39:54Z",
+    "updated_at": "2026-07-28T15:00:09Z",
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/lzw12w/glass-browser"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 464,
-    "updated_at": "2026-07-28T11:20:44Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-28T12:14:48Z",
+    "updated_at": "2026-07-28T14:47:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-28T14:42:45Z",
+    "updated_at": "2026-07-28T14:59:45Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T14:45:24Z",
+    "updated_at": "2026-07-28T14:59:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T09:52:50Z",
     "url": "https://github.com/WWindy/replayable-personal-agent-memory"
-  },
-  {
-    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
-    "id": "zuowen7/scholar-assistant-agent",
-    "language": "Python",
-    "name": "zuowen7/scholar-assistant-agent",
-    "stars": 3,
-    "updated_at": "2026-07-28T09:38:45Z",
-    "url": "https://github.com/zuowen7/scholar-assistant-agent"
   }
 ]
