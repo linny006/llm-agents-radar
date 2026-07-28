@@ -1,5 +1,41 @@
 [
   {
+    "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
+    "id": "sandydasari/openacme",
+    "language": "TypeScript",
+    "name": "sandydasari/openacme",
+    "stars": 84,
+    "updated_at": "2026-07-28T20:56:49Z",
+    "url": "https://github.com/sandydasari/openacme"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 9,
+    "updated_at": "2026-07-28T20:56:35Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6723,
+    "updated_at": "2026-07-28T20:47:28Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+    "id": "tachyon-r/maximal-utility-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/maximal-utility-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-07-28T20:47:20Z",
+    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
+  },
+  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2951,
-    "updated_at": "2026-07-28T17:54:29Z",
+    "updated_at": "2026-07-28T21:00:02Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:29:06Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6721,
-    "updated_at": "2026-07-28T17:37:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T14:23:08Z",
     "url": "https://github.com/rafactx/vtex-test"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:18:38Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Awesome papers involving LLMs in Social Science.",
-    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "language": "\u2014",
-    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "stars": 639,
-    "updated_at": "2026-07-28T14:10:04Z",
-    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
-  },
-  {
-    "description": "A tribute to the best software in the world.",
-    "id": "markdr-hue/open-fabrica",
-    "language": "Go",
-    "name": "markdr-hue/open-fabrica",
-    "stars": 4,
-    "updated_at": "2026-07-28T14:04:38Z",
-    "url": "https://github.com/markdr-hue/open-fabrica"
   }
 ]
