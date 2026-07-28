@@ -1,11 +1,47 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:40:35Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:37:52Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-07-28T05:34:57Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 2,
+    "updated_at": "2026-07-28T05:33:42Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5595,
-    "updated_at": "2026-07-28T05:25:17Z",
+    "updated_at": "2026-07-28T05:30:35Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T05:20:25Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-07-28T05:18:47Z",
-    "url": "https://github.com/80x24/nuanua"
   },
   {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
@@ -45,15 +72,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:07:13Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -61,15 +79,6 @@
     "stars": 549,
     "updated_at": "2026-07-28T05:03:37Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:01:42Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -238,7 +247,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 1245,
+    "stars": 1246,
     "updated_at": "2026-07-28T03:00:41Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -301,18 +310,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6712,
+    "stars": 6713,
     "updated_at": "2026-07-28T02:31:51Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:31:39Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "Ediebah/clinical-insight-agent",
     "stars": 1,
-    "updated_at": "2026-07-28T01:19:53Z",
+    "updated_at": "2026-07-28T05:40:35Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
