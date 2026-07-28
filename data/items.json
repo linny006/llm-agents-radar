@@ -1,5 +1,32 @@
 [
   {
+    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
+    "id": "lzw12w/glass-browser",
+    "language": "Python",
+    "name": "lzw12w/glass-browser",
+    "stars": 1,
+    "updated_at": "2026-07-28T07:27:13Z",
+    "url": "https://github.com/lzw12w/glass-browser"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T07:23:59Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 551,
+    "updated_at": "2026-07-28T07:20:22Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -25,24 +52,6 @@
     "stars": 12,
     "updated_at": "2026-07-28T07:10:40Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 551,
-    "updated_at": "2026-07-28T07:07:33Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
-    "id": "lzw12w/glass-browser",
-    "language": "Python",
-    "name": "lzw12w/glass-browser",
-    "stars": 1,
-    "updated_at": "2026-07-28T07:14:54Z",
-    "url": "https://github.com/lzw12w/glass-browser"
   },
   {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
@@ -88,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T06:59:09Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 55,
-    "updated_at": "2026-07-28T06:45:07Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -266,7 +266,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 317,
-    "updated_at": "2026-07-28T04:45:03Z",
+    "updated_at": "2026-07-28T07:29:34Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
