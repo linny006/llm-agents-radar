@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 20:00 UTC
+> ⏰ Last updated: 2026-07-28 20:11 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 0 | TypeScript | 2026-07-28 | Direct Blender with an AI agent from your terminal. |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-28 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-28 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
-| 4 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 2 | GDScript | 2026-07-28 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
+| 1 | [dudarievmykyta/ctxlog](https://github.com/dudarievmykyta/ctxlog) | 1 | Go | 2026-07-28 | Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 0 | TypeScript | 2026-07-28 | Direct Blender with an AI agent from your terminal. |
+| 4 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-28 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 5 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 54 | TypeScript | 2026-07-28 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
-| 6 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-07-28 | GPT autonomous research and investigation using starintel |
-| 7 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 3 | — | 2026-07-28 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
-| 8 | [dudarievmykyta/ctxlog](https://github.com/dudarievmykyta/ctxlog) | 1 | Go | 2026-07-28 | Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri |
-| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-28 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 11 | [zhangyi-nb1/localflow](https://github.com/zhangyi-nb1/localflow) | 0 | Python | 2026-07-28 | Safe execution harness for LLM agents operating on local workspaces. |
-| 12 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-28 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 13 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-07-28 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
-| 14 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 24 | Python | 2026-07-28 | Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin |
-| 15 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-07-28 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 154 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5602 | Python | 2026-07-28 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 18 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 468 | TypeScript | 2026-07-28 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 19 | [tarangdeep-goel-by/claude-harness](https://github.com/tarangdeep-goel-by/claude-harness) | 0 | Shell | 2026-07-28 | Dev-focused Claude Code harness — workflow-engine skills, in-repo memory, session continuity (/recall ↔ /vault-push), lo |
-| 20 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-28 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-28 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
+| 8 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 2 | GDScript | 2026-07-28 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
+| 9 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-07-28 | GPT autonomous research and investigation using starintel |
+| 10 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 3 | — | 2026-07-28 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-28 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [zhangyi-nb1/localflow](https://github.com/zhangyi-nb1/localflow) | 0 | Python | 2026-07-28 | Safe execution harness for LLM agents operating on local workspaces. |
+| 14 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-07-28 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
+| 15 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-07-28 | Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin |
+| 16 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-07-28 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 154 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 18 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5602 | Python | 2026-07-28 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 19 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 468 | TypeScript | 2026-07-28 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 20 | [tarangdeep-goel-by/claude-harness](https://github.com/tarangdeep-goel-by/claude-harness) | 0 | Shell | 2026-07-28 | Dev-focused Claude Code harness — workflow-engine skills, in-repo memory, session continuity (/recall ↔ /vault-push), lo |
 | 21 | [Hereon-InstituteMS/OASiS](https://github.com/Hereon-InstituteMS/OASiS) | 14 | Python | 2026-07-28 | OASiS — an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo |
 | 22 | [Intelligent-CAT-Lab/ReCodeAgent](https://github.com/Intelligent-CAT-Lab/ReCodeAgent) | 2 | C | 2026-07-28 | Artifact repository for the paper "ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation  |
 | 23 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-28 | Give your LLM a canonical knowledge backbone. 21 tools to validate, evolve, and verify — zero hallucinations. |

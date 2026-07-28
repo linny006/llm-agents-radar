@@ -1,12 +1,48 @@
 [
   {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-07-28T20:07:26Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-28T20:07:22Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 0,
-    "updated_at": "2026-07-28T19:57:53Z",
+    "updated_at": "2026-07-28T20:04:08Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-28T20:02:07Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T20:00:30Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -36,15 +72,6 @@
     "url": "https://github.com/codedpro/agentic-game-factory"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T19:49:02Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T19:46:38Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
-    "id": "dudarievmykyta/ctxlog",
-    "language": "Go",
-    "name": "dudarievmykyta/ctxlog",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:44:34Z",
-    "url": "https://github.com/dudarievmykyta/ctxlog"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -99,15 +117,6 @@
     "url": "https://github.com/zhangyi-nb1/localflow"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T19:46:12Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
@@ -121,7 +130,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-07-28T19:33:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -169,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:54:49Z",
     "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:44:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
