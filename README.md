@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-28 11:51 UTC
+> ⏰ Last updated: 2026-07-28 12:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [maisieyang/build-my-own-harness](https://github.com/maisieyang/build-my-own-harness) | 0 | Python | 2026-07-28 | Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha |
 | 38 | [Ediebah/clinical-insight-agent](https://github.com/Ediebah/clinical-insight-agent) | 1 | Python | 2026-07-28 | AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse |
 | 39 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 175 | TypeScript | 2026-07-28 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
-| 40 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6718 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 40 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6719 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 41 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 33 | Python | 2026-07-28 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
 | 42 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-28 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
 | 43 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-28 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
