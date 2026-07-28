@@ -1,5 +1,50 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-28T11:14:36Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid\u2192PNG,",
+    "id": "AnatoliBu/slack-tools",
+    "language": "Python",
+    "name": "AnatoliBu/slack-tools",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:12:53Z",
+    "url": "https://github.com/AnatoliBu/slack-tools"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:11:35Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 4,
+    "updated_at": "2026-07-28T11:07:14Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "Conversational & memory-enabled AI research partner for multi-omics analysis. CLI + Desktop App (installers in Releases)",
+    "id": "TianGzlab/OmicsClaw",
+    "language": "Python",
+    "name": "TianGzlab/OmicsClaw",
+    "stars": 154,
+    "updated_at": "2026-07-28T11:04:23Z",
+    "url": "https://github.com/TianGzlab/OmicsClaw"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -16,6 +61,15 @@
     "stars": 13,
     "updated_at": "2026-07-28T10:59:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 463,
+    "updated_at": "2026-07-28T10:51:16Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -162,15 +216,6 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 461,
-    "updated_at": "2026-07-28T10:51:16Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -243,15 +288,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-28T10:49:47Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T08:46:41Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-28T08:23:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-28T06:06:45Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 11,
-    "updated_at": "2026-07-28T06:06:53Z",
-    "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-07-28T06:03:57Z",
-    "url": "https://github.com/indyfive11/gabagent"
-  },
-  {
-    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
-    "id": "Dr1mH4X/TeamSpeakClaw",
-    "language": "Rust",
-    "name": "Dr1mH4X/TeamSpeakClaw",
-    "stars": 6,
-    "updated_at": "2026-07-28T06:00:30Z",
-    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   }
 ]
