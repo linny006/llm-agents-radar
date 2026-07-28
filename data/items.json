@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 3,
+    "updated_at": "2026-07-28T08:32:52Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
     "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
     "id": "xiaojiune/TravelPal",
     "language": "Python",
     "name": "xiaojiune/TravelPal",
     "stars": 0,
-    "updated_at": "2026-07-28T08:29:45Z",
+    "updated_at": "2026-07-28T08:43:33Z",
     "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 175,
-    "updated_at": "2026-07-28T08:21:23Z",
+    "updated_at": "2026-07-28T08:30:59Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 552,
-    "updated_at": "2026-07-28T07:20:22Z",
+    "updated_at": "2026-07-28T08:38:03Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T06:29:52Z",
     "url": "https://github.com/ChrissyYu/mini-film-agent"
-  },
-  {
-    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
-    "id": "zuowen7/scholar-assistant-agent",
-    "language": "Python",
-    "name": "zuowen7/scholar-assistant-agent",
-    "stars": 3,
-    "updated_at": "2026-07-28T08:20:09Z",
-    "url": "https://github.com/zuowen7/scholar-assistant-agent"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -329,7 +329,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 317,
-    "updated_at": "2026-07-28T07:29:34Z",
+    "updated_at": "2026-07-28T08:42:34Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
