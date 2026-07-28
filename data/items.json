@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "erickuhn19/deliverator",
     "stars": 4,
-    "updated_at": "2026-07-28T01:59:31Z",
+    "updated_at": "2026-07-28T02:14:21Z",
     "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:05:38Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-28T02:08:42Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-07-28T01:17:53Z",
+    "updated_at": "2026-07-28T02:15:11Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-07-27T23:26:00Z",
     "url": "https://github.com/rollsro9/mod-agent-for-discord-"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-27T23:17:49Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 3,
-    "updated_at": "2026-07-27T20:13:10Z",
+    "updated_at": "2026-07-28T02:13:01Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T18:35:17Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an",
-    "id": "StephenSook/silent-drift-sentinel",
-    "language": "Python",
-    "name": "StephenSook/silent-drift-sentinel",
-    "stars": 0,
-    "updated_at": "2026-07-27T18:27:38Z",
-    "url": "https://github.com/StephenSook/silent-drift-sentinel"
   }
 ]
