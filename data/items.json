@@ -1,5 +1,23 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T18:49:03Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-28T18:45:34Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -16,15 +34,6 @@
     "stars": 14,
     "updated_at": "2026-07-28T18:41:19Z",
     "url": "https://github.com/Hereon-InstituteMS/OASiS"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-28T18:43:11Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation ",
@@ -63,15 +72,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T18:13:05Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5602,
-    "updated_at": "2026-07-28T18:06:23Z",
+    "updated_at": "2026-07-28T18:50:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
