@@ -1,5 +1,23 @@
 [
   {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 4,
+    "updated_at": "2026-07-28T01:44:04Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
+    "id": "Maaa2005/Stellise",
+    "language": "Swift",
+    "name": "Maaa2005/Stellise",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:32:27Z",
+    "url": "https://github.com/Maaa2005/Stellise"
+  },
+  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-07-28T01:17:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 4,
-    "updated_at": "2026-07-28T01:23:09Z",
-    "url": "https://github.com/erickuhn19/deliverator"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -149,7 +158,7 @@
     "language": "TypeScript",
     "name": "lucasmailland/mnemosyne",
     "stars": 3,
-    "updated_at": "2026-07-27T23:49:28Z",
+    "updated_at": "2026-07-28T01:32:04Z",
     "url": "https://github.com/lucasmailland/mnemosyne"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 37,
     "updated_at": "2026-07-27T18:20:50Z",
     "url": "https://github.com/loquix-dev/loquix"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:02:28Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
