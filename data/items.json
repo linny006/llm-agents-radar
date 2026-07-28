@@ -1,21 +1,57 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 465,
+    "updated_at": "2026-07-28T15:04:37Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13591,
+    "updated_at": "2026-07-28T15:15:20Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 2,
+    "updated_at": "2026-07-28T15:04:05Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4372,
+    "updated_at": "2026-07-28T15:03:07Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
+    "id": "iBlinkQ/project-cairn",
+    "language": "Shell",
+    "name": "iBlinkQ/project-cairn",
+    "stars": 0,
+    "updated_at": "2026-07-28T15:01:42Z",
+    "url": "https://github.com/iBlinkQ/project-cairn"
+  },
+  {
     "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
     "id": "Shubham-S151/Routing-and-Agentic-RAG",
     "language": "Python",
     "name": "Shubham-S151/Routing-and-Agentic-RAG",
     "stars": 0,
-    "updated_at": "2026-07-28T14:59:11Z",
+    "updated_at": "2026-07-28T15:14:54Z",
     "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 464,
-    "updated_at": "2026-07-28T14:54:22Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -54,21 +90,12 @@
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-28T14:18:32Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-07-28T15:00:09Z",
+    "updated_at": "2026-07-28T15:11:23Z",
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-28T14:59:45Z",
+    "updated_at": "2026-07-28T15:13:18Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28351,
-    "updated_at": "2026-07-28T09:58:52Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4372,
-    "updated_at": "2026-07-28T14:59:07Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u4e2a\u4eba Agent \u7684\u53ef\u91cd\u653e\u8bb0\u5fc6\u5f15\u64ce",
-    "id": "WWindy/replayable-personal-agent-memory",
-    "language": "Python",
-    "name": "WWindy/replayable-personal-agent-memory",
-    "stars": 0,
-    "updated_at": "2026-07-28T09:52:50Z",
-    "url": "https://github.com/WWindy/replayable-personal-agent-memory"
   }
 ]
