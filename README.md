@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-27 23:45 UTC
+> ⏰ Last updated: 2026-07-28 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-07-27 | GPT autonomous research and investigation using starintel |
-| 2 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 2 | Python | 2026-07-27 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 3 | TypeScript | 2026-07-27 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
-| 5 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-07-27 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
-| 6 | [rollsro9/mod-agent-for-discord-](https://github.com/rollsro9/mod-agent-for-discord-) | 1 | TypeScript | 2026-07-27 | An open-source, context-aware AI Discord moderation bot and community agent. Self-hosted LLM moderator that understands  |
-| 7 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-27 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-27 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 9 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 629 | TypeScript | 2026-07-27 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
-| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-27 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-27 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6709 | Python | 2026-07-27 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 13 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-27 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 14 | [nlj3/kedge](https://github.com/nlj3/kedge) | 0 | Rust | 2026-07-27 | Kedge — a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte |
-| 15 | [d3stiny-io/termix-agent](https://github.com/d3stiny-io/termix-agent) | 4 | Shell | 2026-07-27 | Run Termix AI Agent instantly in Termux with a single command, no manual download required. |
-| 16 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-27 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 17 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-27 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
-| 18 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 0 | Python | 2026-07-27 | Demon Cry — это автономный OSINT-агент, который использует LLM для проведения расследований в открытых источниках. |
-| 19 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 55 | TypeScript | 2026-07-27 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
-| 20 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 153 | HTML | 2026-07-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-07-27 | GPT autonomous research and investigation using starintel |
+| 3 | [lucasmailland/mnemosyne](https://github.com/lucasmailland/mnemosyne) | 3 | TypeScript | 2026-07-27 | Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit |
+| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 2 | Python | 2026-07-27 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-27 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-07-27 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
+| 7 | [rollsro9/mod-agent-for-discord-](https://github.com/rollsro9/mod-agent-for-discord-) | 1 | TypeScript | 2026-07-27 | An open-source, context-aware AI Discord moderation bot and community agent. Self-hosted LLM moderator that understands  |
+| 8 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-27 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-27 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 10 | [BlockRunAI/Franklin](https://github.com/BlockRunAI/Franklin) | 629 | TypeScript | 2026-07-27 | The AI agent with a wallet — spends USDC autonomously to get real work done. Apache-2.0, TypeScript. |
+| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 154 | HTML | 2026-07-27 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-27 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6709 | Python | 2026-07-27 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 14 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-07-27 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 15 | [nlj3/kedge](https://github.com/nlj3/kedge) | 0 | Rust | 2026-07-27 | Kedge — a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte |
+| 16 | [d3stiny-io/termix-agent](https://github.com/d3stiny-io/termix-agent) | 4 | Shell | 2026-07-27 | Run Termix AI Agent instantly in Termux with a single command, no manual download required. |
+| 17 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-27 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 18 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-27 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
+| 19 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 0 | Python | 2026-07-27 | Demon Cry — это автономный OSINT-агент, который использует LLM для проведения расследований в открытых источниках. |
+| 20 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 55 | TypeScript | 2026-07-27 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
+| 21 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 153 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 22 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-27 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
 | 23 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-07-27 |  |
 | 24 | [ccc909/GradientQL](https://github.com/ccc909/GradientQL) | 0 | Python | 2026-07-27 | Autonomous, AI powered GraphQL vulnerability scanner. |
@@ -81,7 +81,7 @@ expired items removed — so you can rely on what you see being current.
 | 37 | [dengzhe-hou/CogEEGAgent](https://github.com/dengzhe-hou/CogEEGAgent) | 0 | Python | 2026-07-27 | Code and evaluation resources for bounded cognitive EEG analysis with language models and deterministic scientific contr |
 | 38 | [TBANK-XI/xi-agent](https://github.com/TBANK-XI/xi-agent) | 2 | HTML | 2026-07-27 | ξ. Autonomous LLM bug-fixing agent with parallel branch experiments on AST search, LSP grounding, cognitive memory, and  |
 | 39 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-27 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 40 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8882 | JavaScript | 2026-07-27 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 40 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8881 | JavaScript | 2026-07-27 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
 | 41 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-27 | Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify — zero hallucinations. |
 | 42 | [StephenSook/silent-drift-sentinel](https://github.com/StephenSook/silent-drift-sentinel) | 0 | Python | 2026-07-27 | On-call AI agent that detects ML model drift, walks DataHub lineage to the upstream root cause, identifies the owner, an |
 | 43 | [loquix-dev/loquix](https://github.com/loquix-dev/loquix) | 37 | TypeScript | 2026-07-27 | A framework-agnostic UI kit of production-ready components for building AI and LLM chat interfaces. |
