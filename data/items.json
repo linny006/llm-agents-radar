@@ -1,5 +1,23 @@
 [
   {
+    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
+    "id": "casioreview20-glitch/forge-os",
+    "language": "JavaScript",
+    "name": "casioreview20-glitch/forge-os",
+    "stars": 11,
+    "updated_at": "2026-07-28T11:27:11Z",
+    "url": "https://github.com/casioreview20-glitch/forge-os"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-28T11:25:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-28T10:55:07Z",
+    "updated_at": "2026-07-28T11:24:21Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -68,7 +86,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 463,
-    "updated_at": "2026-07-28T10:51:16Z",
+    "updated_at": "2026-07-28T11:20:44Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-28T10:08:51Z",
+    "updated_at": "2026-07-28T11:20:31Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -184,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28347,
+    "stars": 28348,
     "updated_at": "2026-07-28T09:58:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -295,15 +313,6 @@
     "stars": 2949,
     "updated_at": "2026-07-28T09:18:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-28T09:04:55Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T06:18:11Z",
     "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-28T06:06:45Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
