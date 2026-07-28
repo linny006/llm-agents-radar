@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u57fa\u4e8e RAG\u3001ReAct Agent \u4e0e\u591a\u5de5\u5177\u534f\u540c\u7684\u667a\u80fd\u7528\u8f66\u4e0e\u8f66\u8f86\u517b\u62a4\u5e73\u53f0",
+    "id": "JY-XIONG/NEXDRIVE",
+    "language": "\u2014",
+    "name": "JY-XIONG/NEXDRIVE",
+    "stars": 0,
+    "updated_at": "2026-07-28T06:30:06Z",
+    "url": "https://github.com/JY-XIONG/NEXDRIVE"
+  },
+  {
+    "description": "A workflow-first film planning agent built with LangGraph, featuring review\u2013revision loops, HITL, issue regression track",
+    "id": "ChrissyYu/mini-film-agent",
+    "language": "Python",
+    "name": "ChrissyYu/mini-film-agent",
+    "stars": 1,
+    "updated_at": "2026-07-28T06:29:52Z",
+    "url": "https://github.com/ChrissyYu/mini-film-agent"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 3,
+    "updated_at": "2026-07-28T06:25:40Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-28T06:25:27Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-07-28T06:25:24Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-28T06:20:28Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T05:40:35Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-28T05:37:52Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -373,7 +418,7 @@
     "id": "Maaa2005/Stellise",
     "language": "Swift",
     "name": "Maaa2005/Stellise",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T01:32:27Z",
     "url": "https://github.com/Maaa2005/Stellise"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T00:44:46Z",
     "url": "https://github.com/lpc0387/guided-browser-runner"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-07-28T00:17:44Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
-    "id": "lucasmailland/mnemosyne",
-    "language": "TypeScript",
-    "name": "lucasmailland/mnemosyne",
-    "stars": 3,
-    "updated_at": "2026-07-28T01:32:04Z",
-    "url": "https://github.com/lucasmailland/mnemosyne"
-  },
-  {
-    "description": "An open-source, context-aware AI Discord moderation bot and community agent. Self-hosted LLM moderator that understands ",
-    "id": "rollsro9/mod-agent-for-discord-",
-    "language": "TypeScript",
-    "name": "rollsro9/mod-agent-for-discord-",
-    "stars": 1,
-    "updated_at": "2026-07-27T23:26:00Z",
-    "url": "https://github.com/rollsro9/mod-agent-for-discord-"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 630,
-    "updated_at": "2026-07-27T23:15:02Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-27T22:51:51Z",
-    "url": "https://github.com/nlj3/kedge"
   }
 ]
