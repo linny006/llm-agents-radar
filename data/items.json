@@ -1,12 +1,57 @@
 [
   {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 4,
+    "updated_at": "2026-07-28T09:12:30Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 102,
+    "updated_at": "2026-07-28T09:07:02Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T08:56:49Z",
+    "updated_at": "2026-07-28T09:09:42Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-28T09:04:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T09:01:44Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
+    "id": "xiaojiune/TravelPal",
+    "language": "Python",
+    "name": "xiaojiune/TravelPal",
+    "stars": 0,
+    "updated_at": "2026-07-28T08:59:17Z",
+    "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -16,15 +61,6 @@
     "stars": 552,
     "updated_at": "2026-07-28T08:48:29Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T08:47:20Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T08:32:52Z",
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
-    "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
-    "id": "xiaojiune/TravelPal",
-    "language": "Python",
-    "name": "xiaojiune/TravelPal",
-    "stars": 0,
-    "updated_at": "2026-07-28T08:59:17Z",
-    "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -184,7 +211,7 @@
     "id": "alex8224/synapse-agent",
     "language": "Python",
     "name": "alex8224/synapse-agent",
-    "stars": 2,
+    "stars": 4,
     "updated_at": "2026-07-28T06:59:09Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T06:18:11Z",
     "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-28T06:12:39Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -430,23 +448,5 @@
     "stars": 140,
     "updated_at": "2026-07-28T03:48:43Z",
     "url": "https://github.com/YuanchenBei/Awesome-Graphs-Meet-Agents"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1246,
-    "updated_at": "2026-07-28T03:00:41Z",
-    "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-28T02:56:14Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   }
 ]
