@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-28T21:20:32Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-07-28T21:20:02Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6723,
+    "updated_at": "2026-07-28T21:19:44Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -61,15 +88,6 @@
     "stars": 84,
     "updated_at": "2026-07-28T20:56:49Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6723,
-    "updated_at": "2026-07-28T20:47:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T20:07:26Z",
     "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-28T20:07:22Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -439,14 +448,5 @@
     "stars": 4372,
     "updated_at": "2026-07-28T16:03:09Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-28T14:23:08Z",
-    "url": "https://github.com/rafactx/vtex-test"
   }
 ]
