@@ -1,5 +1,50 @@
 [
   {
+    "description": "An LLM agent that drives a real Android phone over ADB. It reads the screen, acts, verifies the result, and loops until ",
+    "id": "xDope7137/agentic-android",
+    "language": "Python",
+    "name": "xDope7137/agentic-android",
+    "stars": 1,
+    "updated_at": "2026-07-28T12:14:40Z",
+    "url": "https://github.com/xDope7137/agentic-android"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:11:03Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-28T12:01:34Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-28T12:01:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with ",
+    "id": "fajjos/tracewell",
+    "language": "Python",
+    "name": "fajjos/tracewell",
+    "stars": 0,
+    "updated_at": "2026-07-28T11:54:00Z",
+    "url": "https://github.com/fajjos/tracewell"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -180,15 +225,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-07-28T10:22:03Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-28T11:51:15Z",
+    "updated_at": "2026-07-28T12:14:48Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -229,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28349,
+    "stars": 28350,
     "updated_at": "2026-07-28T09:58:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T11:52:48Z",
+    "updated_at": "2026-07-28T12:03:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -268,24 +304,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T09:42:23Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-28T09:40:01Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-28T09:39:36Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
@@ -400,7 +418,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5598,
+    "stars": 5599,
     "updated_at": "2026-07-28T06:50:25Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T06:25:24Z",
     "url": "https://github.com/nlj3/kedge"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-28T06:20:28Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 0,
-    "updated_at": "2026-07-28T06:18:11Z",
-    "url": "https://github.com/xcq20100224/Nolan"
   }
 ]
