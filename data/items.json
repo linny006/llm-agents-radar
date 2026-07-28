@@ -1,11 +1,20 @@
 [
   {
+    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
+    "id": "casioreview20-glitch/forge-os",
+    "language": "JavaScript",
+    "name": "casioreview20-glitch/forge-os",
+    "stars": 11,
+    "updated_at": "2026-07-28T15:57:15Z",
+    "url": "https://github.com/casioreview20-glitch/forge-os"
+  },
+  {
     "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
     "stars": 0,
-    "updated_at": "2026-07-28T15:50:21Z",
+    "updated_at": "2026-07-28T15:54:36Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 317,
-    "updated_at": "2026-07-28T15:43:34Z",
+    "updated_at": "2026-07-28T16:00:02Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 466,
-    "updated_at": "2026-07-28T15:40:29Z",
+    "updated_at": "2026-07-28T15:55:05Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T15:03:07Z",
+    "updated_at": "2026-07-28T15:55:13Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -151,15 +160,6 @@
     "stars": 13,
     "updated_at": "2026-07-28T14:41:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
-    "id": "casioreview20-glitch/forge-os",
-    "language": "JavaScript",
-    "name": "casioreview20-glitch/forge-os",
-    "stars": 11,
-    "updated_at": "2026-07-28T14:30:53Z",
-    "url": "https://github.com/casioreview20-glitch/forge-os"
   },
   {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
