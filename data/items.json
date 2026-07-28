@@ -1,5 +1,14 @@
 [
   {
+    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
+    "id": "tarangdeep-goel-by/claude-harness",
+    "language": "Shell",
+    "name": "tarangdeep-goel-by/claude-harness",
+    "stars": 0,
+    "updated_at": "2026-07-28T18:54:49Z",
+    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5602,
-    "updated_at": "2026-07-28T18:50:17Z",
+    "updated_at": "2026-07-28T18:58:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -266,7 +275,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 467,
-    "updated_at": "2026-07-28T16:04:10Z",
+    "updated_at": "2026-07-28T18:58:46Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T12:20:01Z",
     "url": "https://github.com/fajjos/tracewell"
-  },
-  {
-    "description": "LLM agent that drives a real Android device over ADB. It reads the screen, acts, verifies the result, and loops until th",
-    "id": "xDope7137/agentic-android",
-    "language": "Python",
-    "name": "xDope7137/agentic-android",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:17:25Z",
-    "url": "https://github.com/xDope7137/agentic-android"
   }
 ]
