@@ -1,11 +1,74 @@
 [
   {
+    "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
+    "id": "lucasmailland/mnemosyne",
+    "language": "TypeScript",
+    "name": "lucasmailland/mnemosyne",
+    "stars": 3,
+    "updated_at": "2026-07-28T12:27:29Z",
+    "url": "https://github.com/lucasmailland/mnemosyne"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-28T12:26:54Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-07-28T12:21:45Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
+    "description": "Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with ",
+    "id": "fajjos/tracewell",
+    "language": "Python",
+    "name": "fajjos/tracewell",
+    "stars": 1,
+    "updated_at": "2026-07-28T12:20:01Z",
+    "url": "https://github.com/fajjos/tracewell"
+  },
+  {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 4,
+    "updated_at": "2026-07-28T12:17:37Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-07-28T12:16:02Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 8,
+    "updated_at": "2026-07-28T12:16:01Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "An LLM agent that drives a real Android phone over ADB. It reads the screen, acts, verifies the result, and loops until ",
     "id": "xDope7137/agentic-android",
     "language": "Python",
     "name": "xDope7137/agentic-android",
     "stars": 1,
-    "updated_at": "2026-07-28T12:14:40Z",
+    "updated_at": "2026-07-28T12:17:25Z",
     "url": "https://github.com/xDope7137/agentic-android"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T12:01:13Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with ",
-    "id": "fajjos/tracewell",
-    "language": "Python",
-    "name": "fajjos/tracewell",
-    "stars": 0,
-    "updated_at": "2026-07-28T11:54:00Z",
-    "url": "https://github.com/fajjos/tracewell"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T12:03:57Z",
+    "updated_at": "2026-07-28T12:20:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -293,17 +347,8 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 3,
-    "updated_at": "2026-07-28T09:52:42Z",
+    "updated_at": "2026-07-28T12:20:40Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "A tribute to the best software in the world.",
-    "id": "markdr-hue/open-fabrica",
-    "language": "Go",
-    "name": "markdr-hue/open-fabrica",
-    "stars": 4,
-    "updated_at": "2026-07-28T09:42:23Z",
-    "url": "https://github.com/markdr-hue/open-fabrica"
   },
   {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
@@ -396,15 +441,6 @@
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-28T07:04:42Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-28T06:59:09Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5599,
-    "updated_at": "2026-07-28T06:50:25Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u57fa\u4e8e RAG\u3001ReAct Agent \u4e0e\u591a\u5de5\u5177\u534f\u540c\u7684\u667a\u80fd\u7528\u8f66\u4e0e\u8f66\u8f86\u517b\u62a4\u5e73\u53f0",
-    "id": "JY-XIONG/NEXDRIVE",
-    "language": "Python",
-    "name": "JY-XIONG/NEXDRIVE",
-    "stars": 0,
-    "updated_at": "2026-07-28T06:30:06Z",
-    "url": "https://github.com/JY-XIONG/NEXDRIVE"
-  },
-  {
-    "description": "A workflow-first film planning agent built with LangGraph, featuring review\u2013revision loops, HITL, issue regression track",
-    "id": "ChrissyYu/mini-film-agent",
-    "language": "Python",
-    "name": "ChrissyYu/mini-film-agent",
-    "stars": 1,
-    "updated_at": "2026-07-28T06:29:52Z",
-    "url": "https://github.com/ChrissyYu/mini-film-agent"
-  },
-  {
-    "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-07-28T06:25:24Z",
-    "url": "https://github.com/nlj3/kedge"
   }
 ]
