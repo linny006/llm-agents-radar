@@ -1,12 +1,30 @@
 [
   {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
+    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
+    "id": "indyfive11/gabagent",
+    "language": "Python",
+    "name": "indyfive11/gabagent",
+    "stars": 0,
+    "updated_at": "2026-07-28T01:27:09Z",
+    "url": "https://github.com/indyfive11/gabagent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-28T01:13:15Z",
-    "url": "https://github.com/erickuhn19/deliverator"
+    "updated_at": "2026-07-28T01:26:28Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 1,
+    "updated_at": "2026-07-28T01:19:53Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-07-28T01:10:29Z",
+    "updated_at": "2026-07-28T01:17:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 4,
+    "updated_at": "2026-07-28T01:23:09Z",
+    "url": "https://github.com/erickuhn19/deliverator"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -25,15 +52,6 @@
     "stars": 317,
     "updated_at": "2026-07-28T01:04:14Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-07-28T01:02:33Z",
-    "url": "https://github.com/indyfive11/gabagent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -193,7 +211,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6709,
+    "stars": 6710,
     "updated_at": "2026-07-27T23:04:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -351,15 +369,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-28T00:52:18Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
     "id": "tarangdeep-goel-by/claude-harness",
     "language": "Shell",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-27T18:02:28Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5593,
-    "updated_at": "2026-07-27T17:45:12Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
