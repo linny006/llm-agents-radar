@@ -1,5 +1,77 @@
 [
   {
+    "description": "Direct Blender with an AI agent from your terminal.",
+    "id": "HaD0Yun/CozyClay",
+    "language": "TypeScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 0,
+    "updated_at": "2026-07-28T19:57:53Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:57:28Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-28T19:57:19Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 2,
+    "updated_at": "2026-07-28T19:50:16Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T19:49:02Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:47:26Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 3,
+    "updated_at": "2026-07-28T19:46:38Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:44:34Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-28T19:40:03Z",
+    "updated_at": "2026-07-28T19:46:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -52,24 +124,6 @@
     "stars": 24,
     "updated_at": "2026-07-28T19:33:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-28T19:33:40Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:45:12Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -99,20 +153,11 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
-    "id": "dudarievmykyta/ctxlog",
-    "language": "Go",
-    "name": "dudarievmykyta/ctxlog",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:44:34Z",
-    "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 467,
+    "stars": 468,
     "updated_at": "2026-07-28T19:01:51Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:54:49Z",
     "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T18:49:03Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -157,18 +193,9 @@
     "id": "Intelligent-CAT-Lab/ReCodeAgent",
     "language": "C",
     "name": "Intelligent-CAT-Lab/ReCodeAgent",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-28T18:25:14Z",
     "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-28T18:22:36Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 21 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -421,32 +448,5 @@
     "stars": 16,
     "updated_at": "2026-07-28T14:00:18Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 196,
-    "updated_at": "2026-07-28T13:35:08Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
-    "id": "rhaist/marq",
-    "language": "Go",
-    "name": "rhaist/marq",
-    "stars": 3,
-    "updated_at": "2026-07-28T13:33:55Z",
-    "url": "https://github.com/rhaist/marq"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-07-28T13:29:16Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
