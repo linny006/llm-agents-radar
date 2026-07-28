@@ -1,5 +1,14 @@
 [
   {
+    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+    "id": "tachyon-r/maximal-utility-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/maximal-utility-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-07-28T22:05:51Z",
+    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -115,15 +124,6 @@
     "stars": 84,
     "updated_at": "2026-07-28T20:56:49Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
-    "id": "tachyon-r/maximal-utility-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/maximal-utility-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:47:20Z",
-    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   },
   {
     "description": "Direct Blender with an AI agent from your terminal.",
