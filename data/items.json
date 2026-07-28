@@ -1,5 +1,32 @@
 [
   {
+    "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
+    "id": "rhaist/marq",
+    "language": "Go",
+    "name": "rhaist/marq",
+    "stars": 3,
+    "updated_at": "2026-07-28T13:33:55Z",
+    "url": "https://github.com/rhaist/marq"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-28T13:31:32Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-07-28T13:29:16Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -32,8 +59,17 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 197,
-    "updated_at": "2026-07-28T13:06:36Z",
+    "updated_at": "2026-07-28T13:35:08Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2950,
+    "updated_at": "2026-07-28T13:06:18Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -126,15 +162,6 @@
     "url": "https://github.com/xDope7137/agentic-android"
   },
   {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-07-28T13:29:16Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T12:01:13Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-28T11:44:48Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
@@ -288,15 +306,6 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
-    "id": "rhaist/marq",
-    "language": "Go",
-    "name": "rhaist/marq",
-    "stars": 3,
-    "updated_at": "2026-07-28T10:31:00Z",
-    "url": "https://github.com/rhaist/marq"
-  },
-  {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
     "id": "sehoon787/my-codex",
     "language": "Shell",
@@ -364,7 +373,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28351,
+    "stars": 28350,
     "updated_at": "2026-07-28T09:58:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,15 +421,6 @@
     "stars": 19,
     "updated_at": "2026-07-28T09:35:11Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2949,
-    "updated_at": "2026-07-28T13:06:18Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
