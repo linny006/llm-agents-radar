@@ -1,5 +1,23 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 2,
+    "updated_at": "2026-07-28T04:51:39Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 317,
+    "updated_at": "2026-07-28T04:45:03Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:44:42Z",
     "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-28T04:26:24Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -212,7 +221,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 549,
-    "updated_at": "2026-07-28T02:54:37Z",
+    "updated_at": "2026-07-28T04:54:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T01:19:53Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 317,
-    "updated_at": "2026-07-28T04:45:03Z",
-    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
