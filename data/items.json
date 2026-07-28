@@ -1,5 +1,68 @@
 [
   {
+    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
+    "id": "indyfive11/gabagent",
+    "language": "Python",
+    "name": "indyfive11/gabagent",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:44:33Z",
+    "url": "https://github.com/indyfive11/gabagent"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-07-28T02:43:57Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5594,
+    "updated_at": "2026-07-28T02:41:43Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 53,
+    "updated_at": "2026-07-28T02:40:51Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 3,
+    "updated_at": "2026-07-28T02:33:02Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6711,
+    "updated_at": "2026-07-28T02:31:51Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-28T02:31:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
     "id": "erickuhn19/deliverator",
     "language": "Go",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-28T02:27:25Z",
+    "updated_at": "2026-07-28T02:41:21Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 14,
     "updated_at": "2026-07-28T02:24:54Z",
     "url": "https://github.com/sehoon787/my-claude"
-  },
-  {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-07-28T02:17:52Z",
-    "url": "https://github.com/indyfive11/gabagent"
   },
   {
     "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 400+ agents, 200+ skills, 3 MCP servers. Install",
@@ -180,15 +234,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-27T23:57:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Cognitive memory for AI agents. Bitemporal, multi-tenant Postgres + pgvector. Hybrid recall (BM25 + vectors + graph) wit",
     "id": "lucasmailland/mnemosyne",
     "language": "TypeScript",
@@ -241,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-27T23:10:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6711,
-    "updated_at": "2026-07-27T23:04:36Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -360,15 +396,6 @@
     "url": "https://github.com/AsherDLL/jadx-rpc"
   },
   {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-07-28T02:13:01Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
     "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
     "id": "synapseorch-ai/synapse-ai",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-27T19:04:29Z",
     "url": "https://github.com/dengzhe-hou/CogEEGAgent"
-  },
-  {
-    "description": "\u03be. Autonomous LLM bug-fixing agent with parallel branch experiments on AST search, LSP grounding, cognitive memory, and ",
-    "id": "TBANK-XI/xi-agent",
-    "language": "HTML",
-    "name": "TBANK-XI/xi-agent",
-    "stars": 2,
-    "updated_at": "2026-07-27T18:55:04Z",
-    "url": "https://github.com/TBANK-XI/xi-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-27T19:43:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8880,
-    "updated_at": "2026-07-27T18:40:37Z",
-    "url": "https://github.com/EvoMap/evolver"
   }
 ]
