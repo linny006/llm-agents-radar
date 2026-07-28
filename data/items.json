@@ -1,5 +1,41 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 2,
+    "updated_at": "2026-07-28T06:59:09Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 1,
+    "updated_at": "2026-07-28T06:56:10Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
+    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
+    "id": "lzw12w/glass-browser",
+    "language": "Python",
+    "name": "lzw12w/glass-browser",
+    "stars": 1,
+    "updated_at": "2026-07-28T06:48:00Z",
+    "url": "https://github.com/lzw12w/glass-browser"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-07-28T06:45:07Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T06:25:40Z",
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 2,
-    "updated_at": "2026-07-28T06:25:27Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Kedge \u2014 a deterministic AI agent execution & verification harness in Rust. ReAct engine, hard budgets, Shadow-Guard inte",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5595,
-    "updated_at": "2026-07-28T06:43:34Z",
+    "updated_at": "2026-07-28T06:50:25Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -175,7 +202,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 550,
+    "stars": 551,
     "updated_at": "2026-07-28T05:03:37Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-28T04:21:41Z",
+    "updated_at": "2026-07-28T06:54:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T01:32:27Z",
     "url": "https://github.com/Maaa2005/Stellise"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 1,
-    "updated_at": "2026-07-28T05:40:35Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-07-28T00:48:13Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "",
-    "id": "lpc0387/guided-browser-runner",
-    "language": "Python",
-    "name": "lpc0387/guided-browser-runner",
-    "stars": 1,
-    "updated_at": "2026-07-28T00:44:46Z",
-    "url": "https://github.com/lpc0387/guided-browser-runner"
   }
 ]
