@@ -1,8 +1,26 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-28T16:33:36Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-07-28T16:31:15Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
     "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
     "id": "bajshorya/llm-observability-agent",
-    "language": "\u2014",
+    "language": "TypeScript",
     "name": "bajshorya/llm-observability-agent",
     "stars": 0,
     "updated_at": "2026-07-28T16:29:06Z",
@@ -22,7 +40,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6720,
+    "stars": 6721,
     "updated_at": "2026-07-28T16:22:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -40,7 +58,7 @@
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-07-28T16:17:19Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
@@ -196,15 +214,6 @@
     "stars": 4372,
     "updated_at": "2026-07-28T16:03:09Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T16:28:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-07-28T10:28:59Z",
     "url": "https://github.com/sehoon787/my-codex"
-  },
-  {
-    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
-    "id": "sehoon787/my-claude",
-    "language": "JavaScript",
-    "name": "sehoon787/my-claude",
-    "stars": 14,
-    "updated_at": "2026-07-28T10:28:46Z",
-    "url": "https://github.com/sehoon787/my-claude"
   }
 ]
