@@ -1,5 +1,77 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 154,
+    "updated_at": "2026-07-28T19:41:56Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-28T19:40:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
+    "language": "Python",
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-07-28T19:40:29Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-28T19:40:03Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-07-28T19:38:03Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 24,
+    "updated_at": "2026-07-28T19:33:47Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-28T19:33:40Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:45:12Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -32,17 +104,17 @@
     "language": "Go",
     "name": "dudarievmykyta/ctxlog",
     "stars": 1,
-    "updated_at": "2026-07-28T19:14:22Z",
+    "updated_at": "2026-07-28T19:44:34Z",
     "url": "https://github.com/dudarievmykyta/ctxlog"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-28T19:25:07Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 467,
+    "updated_at": "2026-07-28T19:01:51Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
@@ -61,15 +133,6 @@
     "stars": 54,
     "updated_at": "2026-07-28T18:49:03Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-28T18:45:34Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -180,24 +243,6 @@
     "url": "https://github.com/ccc909/GradientQL"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 154,
-    "updated_at": "2026-07-28T17:40:36Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-28T17:39:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -223,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T17:04:58Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T19:25:23Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Octomind Agents Registry",
@@ -288,15 +324,6 @@
     "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 467,
-    "updated_at": "2026-07-28T19:01:51Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
     "id": "casioreview20-glitch/forge-os",
     "language": "JavaScript",
@@ -319,7 +346,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13593,
+    "stars": 13594,
     "updated_at": "2026-07-28T15:30:00Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-28T13:29:16Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter",
-    "id": "SymphonyW/Synapse",
-    "language": "Python",
-    "name": "SymphonyW/Synapse",
-    "stars": 0,
-    "updated_at": "2026-07-28T13:01:46Z",
-    "url": "https://github.com/SymphonyW/Synapse"
-  },
-  {
-    "description": "Agent Library personal knowledge base with a search and retrieval system MCP Server and CLI. Preconfigured local models ",
-    "id": "arcadeai-labs/agent-library",
-    "language": "Python",
-    "name": "arcadeai-labs/agent-library",
-    "stars": 31,
-    "updated_at": "2026-07-28T12:51:41Z",
-    "url": "https://github.com/arcadeai-labs/agent-library"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-07-28T12:45:22Z",
-    "url": "https://github.com/bigduu/Lotus"
   }
 ]
