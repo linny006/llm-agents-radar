@@ -1,12 +1,30 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-28T11:44:48Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
     "id": "casioreview20-glitch/forge-os",
     "language": "JavaScript",
     "name": "casioreview20-glitch/forge-os",
     "stars": 11,
-    "updated_at": "2026-07-28T11:27:11Z",
+    "updated_at": "2026-07-28T11:44:31Z",
     "url": "https://github.com/casioreview20-glitch/forge-os"
+  },
+  {
+    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
+    "id": "lzw12w/glass-browser",
+    "language": "Python",
+    "name": "lzw12w/glass-browser",
+    "stars": 2,
+    "updated_at": "2026-07-28T11:31:34Z",
+    "url": "https://github.com/lzw12w/glass-browser"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -16,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-07-28T11:25:09Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 464,
+    "updated_at": "2026-07-28T11:20:44Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -79,15 +106,6 @@
     "stars": 13,
     "updated_at": "2026-07-28T10:59:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 463,
-    "updated_at": "2026-07-28T11:20:44Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-28T11:20:31Z",
+    "updated_at": "2026-07-28T11:41:06Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -202,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28348,
+    "stars": 28349,
     "updated_at": "2026-07-28T09:58:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T10:08:33Z",
+    "updated_at": "2026-07-28T11:35:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-07-28T09:38:45Z",
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 19 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-28T09:36:45Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
@@ -358,15 +367,6 @@
     "stars": 33,
     "updated_at": "2026-07-28T07:33:05Z",
     "url": "https://github.com/HuTa0kj/vetix"
-  },
-  {
-    "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
-    "id": "lzw12w/glass-browser",
-    "language": "Python",
-    "name": "lzw12w/glass-browser",
-    "stars": 1,
-    "updated_at": "2026-07-28T07:27:13Z",
-    "url": "https://github.com/lzw12w/glass-browser"
   },
   {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
