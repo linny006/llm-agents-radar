@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-07-28T14:41:23Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
+    "id": "casioreview20-glitch/forge-os",
+    "language": "JavaScript",
+    "name": "casioreview20-glitch/forge-os",
+    "stars": 11,
+    "updated_at": "2026-07-28T14:30:53Z",
+    "url": "https://github.com/casioreview20-glitch/forge-os"
+  },
+  {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
     "id": "rafactx/vtex-test",
     "language": "TypeScript",
@@ -32,7 +50,7 @@
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-07-28T14:29:12Z",
+    "updated_at": "2026-07-28T14:39:54Z",
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
@@ -81,6 +99,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 196,
+    "updated_at": "2026-07-28T13:35:08Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "Universal cyber assistant: ~80 audited Kali tools + an expert skills library, driven by any model over MCP or direct run",
     "id": "rhaist/marq",
     "language": "Go",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T13:07:40Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 197,
-    "updated_at": "2026-07-28T13:35:08Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -252,20 +270,11 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
-    "id": "casioreview20-glitch/forge-os",
-    "language": "JavaScript",
-    "name": "casioreview20-glitch/forge-os",
-    "stars": 11,
-    "updated_at": "2026-07-28T11:44:31Z",
-    "url": "https://github.com/casioreview20-glitch/forge-os"
-  },
-  {
     "description": "An auditable, low-cost, DOM-only browser agent you can read and debug. Glass box, not black box: full audit trace, runs ",
     "id": "lzw12w/glass-browser",
     "language": "Python",
     "name": "lzw12w/glass-browser",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-28T11:31:34Z",
     "url": "https://github.com/lzw12w/glass-browser"
   },
@@ -322,15 +331,6 @@
     "stars": 4,
     "updated_at": "2026-07-28T11:24:21Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T14:30:05Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-28T10:21:52Z",
+    "updated_at": "2026-07-28T14:42:45Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T14:09:57Z",
+    "updated_at": "2026-07-28T14:45:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
