@@ -1,5 +1,32 @@
 [
   {
+    "description": "Direct Blender with an AI agent from your terminal.",
+    "id": "HaD0Yun/CozyClay",
+    "language": "TypeScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 0,
+    "updated_at": "2026-07-28T20:35:16Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-28T20:34:34Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-07-28T20:35:56Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Direct Blender with an AI agent from your terminal.",
-    "id": "HaD0Yun/CozyClay",
-    "language": "TypeScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 0,
-    "updated_at": "2026-07-28T20:04:08Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -97,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T19:50:16Z",
     "url": "https://github.com/codedpro/agentic-game-factory"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:30:11Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5602,
-    "updated_at": "2026-07-28T19:15:17Z",
+    "updated_at": "2026-07-28T20:35:06Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 468,
-    "updated_at": "2026-07-28T20:28:06Z",
+    "updated_at": "2026-07-28T20:31:00Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-28T14:04:38Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 16,
-    "updated_at": "2026-07-28T14:00:18Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
