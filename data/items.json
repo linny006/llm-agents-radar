@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 102,
+    "updated_at": "2026-07-28T10:14:47Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-28T10:14:26Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-28T10:08:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-28T10:01:01Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-28T09:59:12Z",
+    "updated_at": "2026-07-28T10:05:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -13,7 +49,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28345,
+    "stars": 28346,
     "updated_at": "2026-07-28T09:58:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4372,
-    "updated_at": "2026-07-28T09:58:45Z",
+    "updated_at": "2026-07-28T10:08:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-28T09:43:21Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
-    "updated_at": "2026-07-28T09:59:53Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -142,15 +169,6 @@
     "stars": 2949,
     "updated_at": "2026-07-28T09:18:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 102,
-    "updated_at": "2026-07-28T09:07:02Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -265,7 +283,7 @@
     "id": "alex8224/synapse-agent",
     "language": "Python",
     "name": "alex8224/synapse-agent",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-07-28T06:59:09Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-28T10:00:00Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T04:09:27Z",
     "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-28T06:10:46Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
