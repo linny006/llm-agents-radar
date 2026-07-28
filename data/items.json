@@ -1,5 +1,32 @@
 [
   {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:14:22Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-28T19:15:08Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5602,
+    "updated_at": "2026-07-28T19:15:17Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
     "id": "tarangdeep-goel-by/claude-harness",
     "language": "Shell",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:08:29Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5602,
-    "updated_at": "2026-07-28T18:58:34Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 467,
-    "updated_at": "2026-07-28T18:58:46Z",
+    "updated_at": "2026-07-28T19:01:51Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-28T12:45:22Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
-    "id": "shimo4228/agent-knowledge-cycle",
-    "language": "\u2014",
-    "name": "shimo4228/agent-knowledge-cycle",
-    "stars": 3,
-    "updated_at": "2026-07-28T12:44:48Z",
-    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Open-source observability for AI agents. Trace prompts, responses, tool calls, latency, tokens, cost, and failures with ",
-    "id": "fajjos/tracewell",
-    "language": "Python",
-    "name": "fajjos/tracewell",
-    "stars": 1,
-    "updated_at": "2026-07-28T12:20:01Z",
-    "url": "https://github.com/fajjos/tracewell"
   }
 ]
