@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 06:45 UTC
+> ⏰ Last updated: 2026-07-29 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech](https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech) | 0 | Python | 2026-07-29 | Agentic clinical trails ingestion and synthesis |
 | 44 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6727 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 45 | [tachyon-r/maximal-utility-agent-soul](https://github.com/tachyon-r/maximal-utility-agent-soul) | 1 | — | 2026-07-28 | A framework-agnostic maximal-utility agent SOUL for autonomous AI agents. |
-| 46 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5614 | Python | 2026-07-28 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 46 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5615 | Python | 2026-07-28 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 47 | [eshanized/M31A](https://github.com/eshanized/M31A) | 9 | Go | 2026-07-28 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
 | 48 | [sandydasari/openacme](https://github.com/sandydasari/openacme) | 84 | TypeScript | 2026-07-28 | An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha |
 | 49 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-07-28 | GPT autonomous research and investigation using starintel |
