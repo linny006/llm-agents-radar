@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:56:53Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-29T12:52:27Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-29T12:48:45Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The LLM Anti-Framework",
+    "id": "Mirascope/mirascope",
+    "language": "Python",
+    "name": "Mirascope/mirascope",
+    "stars": 1520,
+    "updated_at": "2026-07-29T12:45:01Z",
+    "url": "https://github.com/Mirascope/mirascope"
+  },
+  {
     "description": "",
     "id": "pronoy1004/codebase-cartography",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:16:47Z",
     "url": "https://github.com/kogmau/ctf-suite"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-29T12:15:16Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T12:44:54Z",
+    "updated_at": "2026-07-29T13:00:09Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 102,
     "updated_at": "2026-07-29T11:19:10Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-29T12:31:51Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -238,7 +256,7 @@
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
-    "stars": 54,
+    "stars": 52,
     "updated_at": "2026-07-29T10:47:07Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
@@ -270,15 +288,6 @@
     "url": "https://github.com/zubairriaz/bedrock-agent-demo"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-29T10:32:57Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-29T11:14:49Z",
+    "updated_at": "2026-07-29T12:52:30Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T07:47:03Z",
     "url": "https://github.com/tonik173/generative-ai-explained"
-  },
-  {
-    "description": "Self-hosted, Docker Compose based AI agent orchestration: ReAct runtime, multi-adapter chat (Telegram / web), skills, me",
-    "id": "WhaleMesh/WhaleBot",
-    "language": "Go",
-    "name": "WhaleMesh/WhaleBot",
-    "stars": 4,
-    "updated_at": "2026-07-29T07:36:13Z",
-    "url": "https://github.com/WhaleMesh/WhaleBot"
   }
 ]
