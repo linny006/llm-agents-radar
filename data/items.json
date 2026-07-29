@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
+    "id": "Maaa2005/Stellise",
+    "language": "Swift",
+    "name": "Maaa2005/Stellise",
+    "stars": 1,
+    "updated_at": "2026-07-29T18:25:01Z",
+    "url": "https://github.com/Maaa2005/Stellise"
+  },
+  {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-07-29T18:20:06Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -9,15 +27,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
-    "id": "dudarievmykyta/ctxlog",
-    "language": "Go",
-    "name": "dudarievmykyta/ctxlog",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:07:53Z",
-    "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -25,15 +34,6 @@
     "stars": 155,
     "updated_at": "2026-07-29T18:05:20Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
-    "id": "Maaa2005/Stellise",
-    "language": "Swift",
-    "name": "Maaa2005/Stellise",
-    "stars": 1,
-    "updated_at": "2026-07-29T18:13:53Z",
-    "url": "https://github.com/Maaa2005/Stellise"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 18:15 UTC
+> ⏰ Last updated: 2026-07-29 18:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-29 | Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify — zero hallucinations. |
+| 1 | [Maaa2005/Stellise](https://github.com/Maaa2005/Stellise) | 1 | Swift | 2026-07-29 | プライバシー・バイ・デザインに基づく、次世代AIスケジュール＆睡眠管理iOSアプリ。オンデバイスAI（TensorFlow Lite）を用いた睡眠解析と、外部API連携による朝のルーティンの全自動最適化を実現します。 |
 | 2 | [dudarievmykyta/ctxlog](https://github.com/dudarievmykyta/ctxlog) | 1 | Go | 2026-07-29 | Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri |
-| 3 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-29 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 4 | [Maaa2005/Stellise](https://github.com/Maaa2005/Stellise) | 1 | Swift | 2026-07-29 | プライバシー・バイ・デザインに基づく、次世代AIスケジュール＆睡眠管理iOSアプリ。オンデバイスAI（TensorFlow Lite）を用いた睡眠解析と、外部API連携による朝のルーティンの全自動最適化を実現します。 |
+| 3 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-29 | Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify — zero hallucinations. |
+| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-29 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 6 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 52 | TypeScript | 2026-07-29 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
 | 7 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
