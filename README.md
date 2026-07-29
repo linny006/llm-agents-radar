@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 19:30 UTC
+> ⏰ Last updated: 2026-07-29 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-29 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 12 | Go | 2026-07-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 2 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-29 | Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify — zero hallucinations. |
 | 3 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-29 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
-| 4 | [mariarodr1136/Clay](https://github.com/mariarodr1136/Clay) | 0 | TypeScript | 2026-07-29 | A project tracker where the UI isn't fixed — describe the dashboard you want, and a Claude-powered agent builds it live  |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 8 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 12 | Go | 2026-07-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 9 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-29 | Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify — zero hallucinations. |
+| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-29 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-29 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 7 | [mariarodr1136/Clay](https://github.com/mariarodr1136/Clay) | 0 | TypeScript | 2026-07-29 | A project tracker where the UI isn't fixed — describe the dashboard you want, and a Claude-powered agent builds it live  |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 11 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 3 | — | 2026-07-29 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
 | 12 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-29 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
