@@ -1,5 +1,14 @@
 [
   {
+    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
+    "id": "Shubham-S151/Routing-and-Agentic-RAG",
+    "language": "Python",
+    "name": "Shubham-S151/Routing-and-Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-07-29T14:44:55Z",
+    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 148,
     "updated_at": "2026-07-29T09:49:42Z",
     "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/termix-agent",
-    "language": "Shell",
-    "name": "d3stiny-io/termix-agent",
-    "stars": 4,
-    "updated_at": "2026-07-29T09:45:21Z",
-    "url": "https://github.com/d3stiny-io/termix-agent"
   }
 ]
