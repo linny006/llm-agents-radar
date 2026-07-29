@@ -9,6 +9,15 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 4,
+    "updated_at": "2026-07-29T13:57:36Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
     "id": "sky-valley/pi",
     "language": "Go",
@@ -40,7 +49,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6728,
+    "stars": 6729,
     "updated_at": "2026-07-29T13:25:04Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-29T12:21:19Z",
+    "updated_at": "2026-07-29T14:13:29Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -261,6 +270,15 @@
     "url": "https://github.com/khteh/rag-agent"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5615,
+    "updated_at": "2026-07-29T11:44:32Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
@@ -293,7 +311,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 8,
-    "updated_at": "2026-07-29T11:06:19Z",
+    "updated_at": "2026-07-29T14:13:04Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 561,
     "updated_at": "2026-07-29T09:29:02Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-07-29T08:56:08Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 34,
-    "updated_at": "2026-07-29T08:27:20Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   }
 ]
