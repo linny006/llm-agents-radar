@@ -1,12 +1,30 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 469,
+    "updated_at": "2026-07-29T01:26:28Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
     "id": "yo4e/sudachi-life",
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-29T01:15:03Z",
+    "updated_at": "2026-07-29T01:22:56Z",
     "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-29T01:18:05Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -205,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-07-28T20:35:56Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 469,
-    "updated_at": "2026-07-28T20:31:00Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
@@ -439,14 +448,5 @@
     "stars": 4373,
     "updated_at": "2026-07-28T16:03:09Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
-    "id": "casioreview20-glitch/forge-os",
-    "language": "JavaScript",
-    "name": "casioreview20-glitch/forge-os",
-    "stars": 11,
-    "updated_at": "2026-07-28T15:57:15Z",
-    "url": "https://github.com/casioreview20-glitch/forge-os"
   }
 ]
