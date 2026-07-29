@@ -1,12 +1,84 @@
 [
   {
+    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
+    "id": "kotama7/ARI",
+    "language": "Python",
+    "name": "kotama7/ARI",
+    "stars": 7,
+    "updated_at": "2026-07-29T06:44:25Z",
+    "url": "https://github.com/kotama7/ARI"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 318,
+    "updated_at": "2026-07-29T06:44:21Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-29T06:42:52Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 33,
+    "updated_at": "2026-07-29T06:42:27Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-29T06:37:51Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 54,
+    "updated_at": "2026-07-29T06:37:48Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:36:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
     "name": "Yuan-ManX/SparkLabs",
     "stars": 12,
-    "updated_at": "2026-07-29T06:30:13Z",
+    "updated_at": "2026-07-29T06:36:33Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-29T06:28:48Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -135,6 +207,15 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4373,
+    "updated_at": "2026-07-29T05:18:15Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A minimal LLM agent that drives a real browser via a 4-layer perception cascade: HTTP text extraction, accessibility-tre",
     "id": "sanjeev29/scout-browser-agent",
     "language": "Python",
@@ -151,15 +232,6 @@
     "stars": 13602,
     "updated_at": "2026-07-29T04:31:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 318,
-    "updated_at": "2026-07-29T04:30:58Z",
-    "url": "https://github.com/monocle2ai/monocle"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -207,33 +279,6 @@
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-29T03:19:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-29T03:17:47Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-29T06:28:48Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
     "id": "maisieyang/build-my-own-harness",
     "language": "Python",
@@ -241,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T03:13:59Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 33,
-    "updated_at": "2026-07-29T03:06:36Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -277,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T02:34:51Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4374,
-    "updated_at": "2026-07-29T05:18:15Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -319,7 +346,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-07-28T23:53:00Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-28T20:35:56Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 3,
-    "updated_at": "2026-07-28T20:29:53Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
-    "id": "dudarievmykyta/ctxlog",
-    "language": "Go",
-    "name": "dudarievmykyta/ctxlog",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:07:26Z",
-    "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-28T20:02:07Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
