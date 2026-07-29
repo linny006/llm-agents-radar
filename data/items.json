@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "pronoy1004/codebase-cartography",
+    "language": "Python",
+    "name": "pronoy1004/codebase-cartography",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:43:48Z",
+    "url": "https://github.com/pronoy1004/codebase-cartography"
+  },
+  {
+    "description": "",
+    "id": "pronoy1004/content-skills",
+    "language": "Python",
+    "name": "pronoy1004/content-skills",
+    "stars": 0,
+    "updated_at": "2026-07-29T12:43:46Z",
+    "url": "https://github.com/pronoy1004/content-skills"
+  },
+  {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
     "id": "9t29zhmwdh-coder/SwiftAgent",
     "language": "Swift",
@@ -94,8 +112,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6729,
-    "updated_at": "2026-07-29T12:03:33Z",
+    "stars": 6728,
+    "updated_at": "2026-07-29T12:41:09Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T12:23:31Z",
+    "updated_at": "2026-07-29T12:44:54Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-29T12:18:10Z",
+    "updated_at": "2026-07-29T12:31:51Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -265,7 +283,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13606,
+    "stars": 13605,
     "updated_at": "2026-07-29T10:25:58Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-07-29T07:36:13Z",
     "url": "https://github.com/WhaleMesh/WhaleBot"
-  },
-  {
-    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
-    "id": "Underline-1024/loom-engine",
-    "language": "Rust",
-    "name": "Underline-1024/loom-engine",
-    "stars": 1,
-    "updated_at": "2026-07-29T07:00:29Z",
-    "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
-    "id": "kotama7/ARI",
-    "language": "Python",
-    "name": "kotama7/ARI",
-    "stars": 7,
-    "updated_at": "2026-07-29T06:56:53Z",
-    "url": "https://github.com/kotama7/ARI"
   }
 ]
