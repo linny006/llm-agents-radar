@@ -1,5 +1,32 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:27:19Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:25:03Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:17:06Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -22,7 +49,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13599,
+    "stars": 13600,
     "updated_at": "2026-07-29T03:48:31Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -198,15 +225,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-29T01:03:35Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
@@ -295,6 +313,15 @@
     "stars": 9,
     "updated_at": "2026-07-28T21:01:57Z",
     "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2952,
+    "updated_at": "2026-07-28T21:00:02Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "An AI workforce platform: role-specialized agents with multi-provider LLM, MCP, tasks, and a web + CLI UI. You're in cha",
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-07-28T18:41:19Z",
     "url": "https://github.com/Hereon-InstituteMS/OASiS"
-  },
-  {
-    "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation ",
-    "id": "Intelligent-CAT-Lab/ReCodeAgent",
-    "language": "C",
-    "name": "Intelligent-CAT-Lab/ReCodeAgent",
-    "stars": 2,
-    "updated_at": "2026-07-28T18:25:14Z",
-    "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-07-28T18:14:38Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-28T17:59:41Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
