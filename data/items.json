@@ -1,12 +1,30 @@
 [
   {
+    "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
+    "id": "mariarodr1136/Clay",
+    "language": "TypeScript",
+    "name": "mariarodr1136/Clay",
+    "stars": 0,
+    "updated_at": "2026-07-29T18:41:36Z",
+    "url": "https://github.com/mariarodr1136/Clay"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 12,
-    "updated_at": "2026-07-29T18:38:51Z",
+    "updated_at": "2026-07-29T18:39:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-29T18:37:38Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T18:20:06Z",
     "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-29T18:37:38Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -113,7 +122,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-29T17:43:35Z",
+    "updated_at": "2026-07-29T18:39:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T12:43:46Z",
     "url": "https://github.com/pronoy1004/content-skills"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:23:32Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   }
 ]
