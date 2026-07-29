@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-07-29T22:09:01Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-29T22:05:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-07-29T22:01:07Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 45,
-    "updated_at": "2026-07-29T21:52:31Z",
+    "updated_at": "2026-07-29T22:02:00Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-07-29T21:23:49Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -124,15 +142,6 @@
     "stars": 25,
     "updated_at": "2026-07-29T21:02:26Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-29T20:57:44Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u5b8c\u6574\u7684 Godot 4.6 \u5361\u724c RPG\uff1a\u5305\u542b\u56de\u5408\u5236\u5361\u724c\u6218\u6597\u3001\u724c\u7ec4\u4e0e\u72b6\u6001\u7cfb\u7edf\u3001\u4eea\u5f0f\u953b\u9020\u3001\u57ce\u5e02\u63a2\u7d22\u3001NPC/\u59d4\u6258/\u60c5\u62a5\u548c\u5c0f\u6e38\u620f\u3001\u9ad8\u5854\u751f\u6210\u4e0e\u63a8\u8fdb\u3001\u53ef\u79bb\u7ebf\u964d\u7ea7\u7684 AI GM \u53d9\u4e8b\u3001\u8fd0\u884c\u65f6\u7f8e\u672f\u4e0e 7 \u9996 BGM\uff1b\u53e6\u542b\u53ef\u72ec\u7acb\u6d4b\u8bd5\u7684 TypeScrip",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-29T14:27:07Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2459,
-    "updated_at": "2026-07-29T14:22:03Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
