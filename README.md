@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 11:00 UTC
+> ⏰ Last updated: 2026-07-29 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 2 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 3 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 54 | TypeScript | 2026-07-29 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
-| 4 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-29 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 6 | [zubairriaz/bedrock-agent-demo](https://github.com/zubairriaz/bedrock-agent-demo) | 0 | TypeScript | 2026-07-29 | A Claude agent on AWS Bedrock with tool use, streaming, and a typed agentic loop (TypeScript). |
-| 7 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-29 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
-| 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 9 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2952 | Python | 2026-07-29 | SRE Agent - CNCF Sandbox Project |
-| 10 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13606 | Python | 2026-07-29 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 11 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-07-29 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 12 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-29 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 1 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-07-29 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 2 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-29 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 3 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 5 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 54 | TypeScript | 2026-07-29 | Frontier models sell confidence. FABULA ships proof — an agent harness where any model is a swappable chip and every fin |
+| 6 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-07-29 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 8 | [zubairriaz/bedrock-agent-demo](https://github.com/zubairriaz/bedrock-agent-demo) | 0 | TypeScript | 2026-07-29 | A Claude agent on AWS Bedrock with tool use, streaming, and a typed agentic loop (TypeScript). |
+| 9 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 6 | Python | 2026-07-29 | A multi-user LLM agent whose knowledge, skills, and tools live in the database — grows at runtime, no redeploys. Web cha |
+| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 11 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2952 | Python | 2026-07-29 | SRE Agent - CNCF Sandbox Project |
+| 12 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13606 | Python | 2026-07-29 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 | 13 | [tk-fantasy/fantasy](https://github.com/tk-fantasy/fantasy) | 12 | Python | 2026-07-29 | AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception |
 | 14 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 19 | Python | 2026-07-29 | A productive AI coworker that learns, self-improves, and ships work. |
 | 15 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-07-29 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-07-29 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 34 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 33 | Python | 2026-07-29 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
 | 35 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 177 | JavaScript | 2026-07-29 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
-| 36 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6728 | Python | 2026-07-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 36 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6729 | Python | 2026-07-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 37 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-07-29 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
 | 38 | [lukr54/phantom](https://github.com/lukr54/phantom) | 0 | Rust | 2026-07-29 | A local browser an agent can drive. Bundled ungoogled-chromium over CDP, pages compiled to a compact accessibility outli |
 | 39 | [sugeerth/LocalSWEAgent](https://github.com/sugeerth/LocalSWEAgent) | 0 | Python | 2026-07-29 | SWE-bench Lite agent running a 3B model locally via Ollama; patches apply cleanly, none fix the bug |
