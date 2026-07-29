@@ -1,12 +1,12 @@
 [
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-07-29T18:54:53Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-29T19:04:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "brownjuly2003-code/Auto_BI",
     "stars": 0,
-    "updated_at": "2026-07-29T18:51:21Z",
+    "updated_at": "2026-07-29T19:13:42Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-07-29T18:54:53Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
@@ -178,15 +187,6 @@
     "stars": 11,
     "updated_at": "2026-07-29T17:16:04Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-29T17:08:38Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
