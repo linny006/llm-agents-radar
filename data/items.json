@@ -1,5 +1,32 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 22 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:34:14Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-29T17:32:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-07-29T17:29:35Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Agent skill that generates images through your locally installed, OAuth-authenticated Codex CLI \u2014 no API keys, exact-siz",
     "id": "stephenlzc/codex-image-gen",
     "language": "Shell",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T17:27:20Z",
     "url": "https://github.com/stephenlzc/codex-image-gen"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 22 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-29T17:28:44Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -171,15 +189,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-29T16:04:31Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2957,
-    "updated_at": "2026-07-29T13:42:22Z",
+    "updated_at": "2026-07-29T17:34:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -403,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T12:21:51Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-29T17:29:35Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Agentic penetration-testing orchestrator \u2014 phase-driven state machine with an operator gate",
