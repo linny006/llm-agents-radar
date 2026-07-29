@@ -1,5 +1,14 @@
 [
   {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-29T01:15:03Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-28T15:57:15Z",
     "url": "https://github.com/casioreview20-glitch/forge-os"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13594,
-    "updated_at": "2026-07-28T15:30:00Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
