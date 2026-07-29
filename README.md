@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 20:57 UTC
+> ⏰ Last updated: 2026-07-29 21:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-07-29 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 2 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 3 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-29 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
-| 4 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 45 | Rust | 2026-07-29 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
-| 5 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 3 | — | 2026-07-29 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [Juveria22/bunni-backend](https://github.com/Juveria22/bunni-backend) | 0 | Python | 2026-07-29 | Backend for bunni! A multi tenant AI SMS agent for easy calendar organization.  |
-| 8 | [yuexuanchi-sys/greycrown-game-ai](https://github.com/yuexuanchi-sys/greycrown-game-ai) | 0 | GDScript | 2026-07-29 | 完整的 Godot 4.6 卡牌 RPG：包含回合制卡牌战斗、牌组与状态系统、仪式锻造、城市探索、NPC/委托/情报和小游戏、高塔生成与推进、可离线降级的 AI GM 叙事、运行时美术与 7 首 BGM；另含可独立测试的 TypeScrip |
-| 9 | [Apshaxma/tripmind_ai](https://github.com/Apshaxma/tripmind_ai) | 0 | Python | 2026-07-29 | Multi-tool LangGraph travel agent — routes between weather, live search, itinerary planning, and budget estimation with  |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-29 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [yuexuanchi-sys/greycrown-game-ai](https://github.com/yuexuanchi-sys/greycrown-game-ai) | 0 | GDScript | 2026-07-29 | 完整的 Godot 4.6 卡牌 RPG：包含回合制卡牌战斗、牌组与状态系统、仪式锻造、城市探索、NPC/委托/情报和小游戏、高塔生成与推进、可离线降级的 AI GM 叙事、运行时美术与 7 首 BGM；另含可独立测试的 TypeScrip |
+| 3 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-07-29 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 5 | [brownjuly2003-code/Auto_BI](https://github.com/brownjuly2003-code/Auto_BI) | 0 | Python | 2026-07-29 | LLM agent: text or drag-&-drop fields → dashboard over your DWH. IR-first, one spec → Superset + DataLens, feasibility a |
+| 6 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 45 | Rust | 2026-07-29 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
+| 7 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 3 | — | 2026-07-29 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [Juveria22/bunni-backend](https://github.com/Juveria22/bunni-backend) | 0 | Python | 2026-07-29 | Backend for bunni! A multi tenant AI SMS agent for easy calendar organization.  |
+| 10 | [Apshaxma/tripmind_ai](https://github.com/Apshaxma/tripmind_ai) | 0 | Python | 2026-07-29 | Multi-tool LangGraph travel agent — routes between weather, live search, itinerary planning, and budget estimation with  |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-29 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 12 | [marko1olo/agentrouter-setup-guide](https://github.com/marko1olo/agentrouter-setup-guide) | 7 | Python | 2026-07-29 | Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy |
 | 13 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 12 | Go | 2026-07-29 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 14 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 2 | Python | 2026-07-29 | Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify — zero hallucinations. |
