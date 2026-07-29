@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 02:45 UTC
+> ⏰ Last updated: 2026-07-29 03:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,20 +43,20 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 33 | Python | 2026-07-29 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
-| 2 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-07-29 | Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin |
-| 3 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 4 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 471 | TypeScript | 2026-07-29 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 5 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-29 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 6 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5602 | Python | 2026-07-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 7 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 6 | Python | 2026-07-29 |  Where intent meets code — a local AI coding agent          |
-| 8 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-29 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
-| 9 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-29 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 11 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 4 | TypeScript | 2026-07-29 | AI-powered image generation and chat studio |
+| 2 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5603 | Python | 2026-07-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 3 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 4 | TypeScript | 2026-07-29 | AI-powered image generation and chat studio |
+| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-07-29 | Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin |
+| 5 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-07-29 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 6 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 471 | TypeScript | 2026-07-29 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 7 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-29 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 8 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 6 | Python | 2026-07-29 |  Where intent meets code — a local AI coding agent          |
+| 9 | [yo4e/sudachi-life](https://github.com/yo4e/sudachi-life) | 0 | Python | 2026-07-29 | A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines. |
+| 10 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-29 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-07-29 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 1 | HTML | 2026-07-29 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 14 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 154 | HTML | 2026-07-28 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 15 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 3 | TypeScript | 2026-07-28 | Direct Blender with an AI agent from your terminal. |
+| 15 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 4 | TypeScript | 2026-07-28 | Direct Blender with an AI agent from your terminal. |
 | 16 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-07-28 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
 | 17 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-28 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 18 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-28 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 2 | GDScript | 2026-07-28 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
 | 21 | [AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech](https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech) | 0 | Python | 2026-07-29 | Agentic clinical trails ingestion and synthesis |
 | 22 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 318 | Python | 2026-07-28 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 23 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6726 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 23 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6727 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 24 | [tachyon-r/maximal-utility-agent-soul](https://github.com/tachyon-r/maximal-utility-agent-soul) | 1 | — | 2026-07-28 | A framework-agnostic maximal-utility agent SOUL for autonomous AI agents. |
 | 25 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5613 | Python | 2026-07-28 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 26 | [eshanized/M31A](https://github.com/eshanized/M31A) | 9 | Go | 2026-07-28 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
