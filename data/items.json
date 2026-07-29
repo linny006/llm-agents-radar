@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "kogmau/ctf-suite",
     "stars": 0,
-    "updated_at": "2026-07-29T12:13:08Z",
+    "updated_at": "2026-07-29T12:16:47Z",
     "url": "https://github.com/kogmau/ctf-suite"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 6,
+    "updated_at": "2026-07-29T12:15:16Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -124,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T11:54:24Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 6,
-    "updated_at": "2026-07-29T12:15:16Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
