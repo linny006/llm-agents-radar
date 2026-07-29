@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 1,
-    "updated_at": "2026-07-29T05:17:55Z",
+    "updated_at": "2026-07-29T05:41:34Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-07-29T05:34:00Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -49,7 +58,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13600,
+    "stars": 13601,
     "updated_at": "2026-07-29T04:31:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-29T03:44:20Z",
+    "updated_at": "2026-07-29T05:35:57Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -205,15 +214,6 @@
     "stars": 473,
     "updated_at": "2026-07-29T02:45:31Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-29T02:35:32Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
