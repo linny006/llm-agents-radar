@@ -1,5 +1,23 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-07-29T01:44:40Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-07-29T01:43:32Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -148,7 +166,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 317,
+    "stars": 318,
     "updated_at": "2026-07-28T22:19:57Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -169,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-07-28T22:05:51Z",
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-28T21:24:34Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:12:32Z",
     "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4373,
-    "updated_at": "2026-07-28T16:03:09Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
