@@ -1,11 +1,38 @@
 [
   {
+    "description": "A minimal LLM agent that drives a real browser via a 4-layer perception cascade: HTTP text extraction, accessibility-tre",
+    "id": "sanjeev29/scout-browser-agent",
+    "language": "Python",
+    "name": "sanjeev29/scout-browser-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:33:25Z",
+    "url": "https://github.com/sanjeev29/scout-browser-agent"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13600,
+    "updated_at": "2026-07-29T04:31:07Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 318,
+    "updated_at": "2026-07-29T04:30:58Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-07-29T04:27:19Z",
+    "updated_at": "2026-07-29T04:37:55Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -41,17 +68,8 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-07-29T04:07:18Z",
+    "updated_at": "2026-07-29T04:39:16Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13600,
-    "updated_at": "2026-07-29T03:48:31Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -270,15 +288,6 @@
     "url": "https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 318,
-    "updated_at": "2026-07-29T04:03:13Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T18:54:49Z",
     "url": "https://github.com/tarangdeep-goel-by/claude-harness"
-  },
-  {
-    "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
-    "id": "Hereon-InstituteMS/OASiS",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/OASiS",
-    "stars": 14,
-    "updated_at": "2026-07-28T18:41:19Z",
-    "url": "https://github.com/Hereon-InstituteMS/OASiS"
   }
 ]
