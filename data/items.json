@@ -1,5 +1,50 @@
 [
   {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-07-29T03:45:04Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-07-29T03:44:20Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13598,
+    "updated_at": "2026-07-29T03:42:07Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-29T03:40:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
+    "id": "yo4e/sudachi-life",
+    "language": "Python",
+    "name": "yo4e/sudachi-life",
+    "stars": 0,
+    "updated_at": "2026-07-29T03:42:06Z",
+    "url": "https://github.com/yo4e/sudachi-life"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -45,15 +90,6 @@
     "url": "https://github.com/maisieyang/build-my-own-harness"
   },
   {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:10:12Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 5603,
     "updated_at": "2026-07-29T02:48:17Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-29T03:18:09Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -144,15 +171,6 @@
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
   {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-07-29T03:30:18Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -169,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T01:03:35Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-29T00:12:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-28T17:55:44Z",
     "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 16,
-    "updated_at": "2026-07-28T17:52:05Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   }
 ]
