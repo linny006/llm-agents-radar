@@ -5,8 +5,17 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-07-29T20:44:33Z",
+    "updated_at": "2026-07-29T20:54:39Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-29T20:47:11Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -54,7 +63,7 @@
     "url": "https://github.com/Juveria22/bunni-backend"
   },
   {
-    "description": "Game AI engineering slice: bounded AI GM generation, behavior trees, authoritative state, WebSocket sync, and tests.",
+    "description": "\u5b8c\u6574\u7684 Godot 4.6 \u5361\u724c RPG\uff1a\u5305\u542b\u56de\u5408\u5236\u5361\u724c\u6218\u6597\u3001\u724c\u7ec4\u4e0e\u72b6\u6001\u7cfb\u7edf\u3001\u4eea\u5f0f\u953b\u9020\u3001\u57ce\u5e02\u63a2\u7d22\u3001NPC/\u59d4\u6258/\u60c5\u62a5\u548c\u5c0f\u6e38\u620f\u3001\u9ad8\u5854\u751f\u6210\u4e0e\u63a8\u8fdb\u3001\u53ef\u79bb\u7ebf\u964d\u7ea7\u7684 AI GM \u53d9\u4e8b\u3001\u8fd0\u884c\u65f6\u7f8e\u672f\u4e0e 7 \u9996 BGM\uff1b\u53e6\u542b\u53ef\u72ec\u7acb\u6d4b\u8bd5\u7684 TypeScrip",
     "id": "yuexuanchi-sys/greycrown-game-ai",
     "language": "GDScript",
     "name": "yuexuanchi-sys/greycrown-game-ai",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T19:46:03Z",
     "url": "https://github.com/mariarodr1136/Clay"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:04:28Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
@@ -292,7 +292,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13606,
+    "stars": 13607,
     "updated_at": "2026-07-29T16:16:15Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
