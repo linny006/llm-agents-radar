@@ -1,5 +1,41 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 52,
+    "updated_at": "2026-07-29T16:58:01Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
+    "id": "gulagala001/pi-penecho",
+    "language": "JavaScript",
+    "name": "gulagala001/pi-penecho",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:54:32Z",
+    "url": "https://github.com/gulagala001/pi-penecho"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 22 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-29T16:48:33Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-29T16:46:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-29T16:42:01Z",
+    "updated_at": "2026-07-29T16:58:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-29T16:43:10Z",
+    "updated_at": "2026-07-29T16:50:47Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T16:33:01Z",
     "url": "https://github.com/yuexuanchi-sys/greycrown-game-ai"
-  },
-  {
-    "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
-    "id": "gulagala001/pi-penecho",
-    "language": "JavaScript",
-    "name": "gulagala001/pi-penecho",
-    "stars": 0,
-    "updated_at": "2026-07-29T16:28:08Z",
-    "url": "https://github.com/gulagala001/pi-penecho"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -126,15 +153,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 52,
-    "updated_at": "2026-07-29T15:49:10Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
     "id": "zuowen7/scholar-assistant-agent",
     "language": "Python",
@@ -187,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T15:27:13Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-29T15:23:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
@@ -439,14 +448,5 @@
     "stars": 5615,
     "updated_at": "2026-07-29T11:44:32Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-29T11:54:24Z",
-    "url": "https://github.com/amemhq/amem"
   }
 ]
