@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 25,
-    "updated_at": "2026-07-29T01:44:40Z",
+    "updated_at": "2026-07-29T01:59:38Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-29T01:54:15Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -22,7 +31,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 469,
+    "stars": 470,
     "updated_at": "2026-07-29T01:26:28Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-29T00:56:33Z",
+    "updated_at": "2026-07-29T01:57:55Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech",
     "stars": 0,
-    "updated_at": "2026-07-28T22:29:12Z",
+    "updated_at": "2026-07-29T01:46:06Z",
     "url": "https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T16:17:19Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
-  },
-  {
-    "description": "Hybrid Local/Web Agentic RAG system featuring layout-aware PDF parsing, cross-encoder reranking, and Ragas evaluation.",
-    "id": "Shubham-S151/Routing-and-Agentic-RAG",
-    "language": "Python",
-    "name": "Shubham-S151/Routing-and-Agentic-RAG",
-    "stars": 0,
-    "updated_at": "2026-07-28T16:12:32Z",
-    "url": "https://github.com/Shubham-S151/Routing-and-Agentic-RAG"
   }
 ]
