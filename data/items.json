@@ -1,5 +1,41 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-29T13:12:52Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-07-29T13:10:08Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Agentic IDE with custom harness",
+    "id": "Paseru/sinew",
+    "language": "Rust",
+    "name": "Paseru/sinew",
+    "stars": 67,
+    "updated_at": "2026-07-29T13:04:18Z",
+    "url": "https://github.com/Paseru/sinew"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4088,
+    "updated_at": "2026-07-29T12:59:53Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -144,15 +180,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-29T12:29:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T13:00:09Z",
+    "updated_at": "2026-07-29T13:13:09Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T11:02:43Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-07-29T10:51:48Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T07:55:24Z",
     "url": "https://github.com/lukr54/phantom"
-  },
-  {
-    "description": "SWE-bench Lite agent running a 3B model locally via Ollama; patches apply cleanly, none fix the bug",
-    "id": "sugeerth/LocalSWEAgent",
-    "language": "Python",
-    "name": "sugeerth/LocalSWEAgent",
-    "stars": 0,
-    "updated_at": "2026-07-29T07:54:54Z",
-    "url": "https://github.com/sugeerth/LocalSWEAgent"
-  },
-  {
-    "description": "An interactive, client-side app that teaches how modern agents and language models work and how they are used.",
-    "id": "tonik173/generative-ai-explained",
-    "language": "JavaScript",
-    "name": "tonik173/generative-ai-explained",
-    "stars": 0,
-    "updated_at": "2026-07-29T07:47:03Z",
-    "url": "https://github.com/tonik173/generative-ai-explained"
   }
 ]
