@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-29 00:15 UTC
+> ⏰ Last updated: 2026-07-29 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 2 | GDScript | 2026-07-28 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
 | 13 | [AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech](https://github.com/AbdullahTBukhari/Corpus-Callosum-Applied-AI-MedTech) | 0 | Python | 2026-07-28 | Agentic clinical trails ingestion and synthesis |
 | 14 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 317 | Python | 2026-07-28 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6725 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6726 | Python | 2026-07-28 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 16 | [tachyon-r/maximal-utility-agent-soul](https://github.com/tachyon-r/maximal-utility-agent-soul) | 1 | — | 2026-07-28 | A framework-agnostic maximal-utility agent SOUL for autonomous AI agents. |
 | 17 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-07-28 | Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin |
 | 18 | [eshanized/M31A](https://github.com/eshanized/M31A) | 9 | Go | 2026-07-28 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
