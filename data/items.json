@@ -1,11 +1,65 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 561,
+    "updated_at": "2026-07-29T09:29:02Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-07-29T09:23:49Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 8,
+    "updated_at": "2026-07-29T09:19:01Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-29T09:18:42Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-29T09:15:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-07-29T09:15:08Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-29T09:10:15Z",
+    "updated_at": "2026-07-29T09:28:53Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -16,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T09:01:54Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 8,
-    "updated_at": "2026-07-29T09:00:12Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-29T08:58:17Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -63,21 +99,12 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-07-29T09:15:08Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-29T09:08:53Z",
+    "updated_at": "2026-07-29T09:28:06Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T08:34:15Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 561,
-    "updated_at": "2026-07-29T09:03:38Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -333,15 +351,6 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:18:10Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T08:29:55Z",
+    "updated_at": "2026-07-29T09:24:44Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -409,7 +418,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13605,
+    "stars": 13604,
     "updated_at": "2026-07-29T04:31:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -421,15 +430,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T04:17:06Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-29T05:20:51Z",
-    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
