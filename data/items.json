@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-29T05:09:43Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-29T05:09:36Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 2,
+    "updated_at": "2026-07-29T04:59:55Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "A minimal LLM agent that drives a real browser via a 4-layer perception cascade: HTTP text extraction, accessibility-tre",
     "id": "sanjeev29/scout-browser-agent",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 318,
     "updated_at": "2026-07-29T04:30:58Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:37:55Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -117,15 +135,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 2,
-    "updated_at": "2026-07-29T04:59:55Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -184,7 +193,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 472,
+    "stars": 473,
     "updated_at": "2026-07-29T02:45:31Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-28T19:24:06Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Dev-focused Claude Code harness \u2014 workflow-engine skills, in-repo memory, session continuity (/recall \u2194 /vault-push), lo",
-    "id": "tarangdeep-goel-by/claude-harness",
-    "language": "Shell",
-    "name": "tarangdeep-goel-by/claude-harness",
-    "stars": 0,
-    "updated_at": "2026-07-28T18:54:49Z",
-    "url": "https://github.com/tarangdeep-goel-by/claude-harness"
   }
 ]
