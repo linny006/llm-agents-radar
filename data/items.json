@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-29T07:28:24Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 33,
+    "updated_at": "2026-07-29T07:21:18Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -77,17 +95,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-29T07:16:21Z",
+    "updated_at": "2026-07-29T07:22:41Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 33,
-    "updated_at": "2026-07-29T06:42:27Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-29T07:07:34Z",
+    "updated_at": "2026-07-29T07:21:35Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T07:08:28Z",
+    "updated_at": "2026-07-29T07:23:09Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -319,7 +328,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 473,
+    "stars": 475,
     "updated_at": "2026-07-29T02:45:31Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -418,7 +427,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5615,
+    "stars": 5616,
     "updated_at": "2026-07-28T21:06:02Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -439,14 +448,5 @@
     "stars": 84,
     "updated_at": "2026-07-28T20:56:49Z",
     "url": "https://github.com/sandydasari/openacme"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-28T20:34:34Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   }
 ]
