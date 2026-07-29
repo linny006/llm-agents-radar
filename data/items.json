@@ -1,11 +1,38 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-07-29T02:11:52Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 471,
+    "updated_at": "2026-07-29T02:10:16Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-29T02:05:57Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 25,
-    "updated_at": "2026-07-29T01:59:38Z",
+    "updated_at": "2026-07-29T02:02:07Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -16,24 +43,6 @@
     "stars": 6,
     "updated_at": "2026-07-29T01:54:15Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-07-29T01:43:32Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 470,
-    "updated_at": "2026-07-29T01:26:28Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
@@ -117,15 +126,6 @@
     "url": "https://github.com/indyfive11/gabagent"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-28T23:17:55Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -198,6 +198,15 @@
     "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5613,
+    "updated_at": "2026-07-28T21:06:02Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5603,
-    "updated_at": "2026-07-28T20:35:06Z",
+    "updated_at": "2026-07-29T02:05:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-28T16:29:06Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
-    "id": "iBlinkQ/project-cairn",
-    "language": "Shell",
-    "name": "iBlinkQ/project-cairn",
-    "stars": 1,
-    "updated_at": "2026-07-28T16:17:19Z",
-    "url": "https://github.com/iBlinkQ/project-cairn"
   }
 ]
