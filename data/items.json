@@ -1,11 +1,20 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-29T04:07:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-07-29T03:59:38Z",
+    "updated_at": "2026-07-29T04:07:18Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -13,7 +22,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13598,
+    "stars": 13599,
     "updated_at": "2026-07-29T03:48:31Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "yo4e/sudachi-life",
     "stars": 0,
-    "updated_at": "2026-07-29T03:59:19Z",
+    "updated_at": "2026-07-29T04:03:03Z",
     "url": "https://github.com/yo4e/sudachi-life"
   },
   {
@@ -198,15 +207,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-29T00:03:03Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "monocle2ai/monocle",
     "stars": 318,
-    "updated_at": "2026-07-28T22:19:57Z",
+    "updated_at": "2026-07-29T04:03:13Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
