@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
+    "id": "gulagala001/pi-penecho",
+    "language": "JavaScript",
+    "name": "gulagala001/pi-penecho",
+    "stars": 0,
+    "updated_at": "2026-07-29T16:28:08Z",
+    "url": "https://github.com/gulagala001/pi-penecho"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-29T16:26:06Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-29T16:20:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13605,
+    "updated_at": "2026-07-29T16:16:15Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-29T16:13:21Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-07-29T16:04:31Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-29T16:13:21Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -112,8 +148,8 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 481,
-    "updated_at": "2026-07-29T15:27:42Z",
+    "stars": 482,
+    "updated_at": "2026-07-29T16:25:17Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T15:23:48Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
-    "id": "gulagala001/pi-penecho",
-    "language": "JavaScript",
-    "name": "gulagala001/pi-penecho",
-    "stars": 0,
-    "updated_at": "2026-07-29T15:20:58Z",
-    "url": "https://github.com/gulagala001/pi-penecho"
   },
   {
     "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 200+ agents, 200+ skills, 87 rules, 3 MCP servers, 7 ",
@@ -216,15 +243,6 @@
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-29T14:26:33Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -232,15 +250,6 @@
     "stars": 2459,
     "updated_at": "2026-07-29T14:22:03Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-07-29T16:15:26Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-29T12:48:45Z",
+    "updated_at": "2026-07-29T16:22:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 102,
     "updated_at": "2026-07-29T11:19:10Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
-    "id": "FeixueCode/miaoclaw-releases",
-    "language": "\u2014",
-    "name": "FeixueCode/miaoclaw-releases",
-    "stars": 1,
-    "updated_at": "2026-07-29T11:02:43Z",
-    "url": "https://github.com/FeixueCode/miaoclaw-releases"
   }
 ]
