@@ -1,5 +1,68 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-29T09:42:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-29T09:41:58Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 22 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 2,
+    "updated_at": "2026-07-29T09:41:26Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-29T09:40:01Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-07-29T09:38:42Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-29T09:35:33Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-07-29T09:32:17Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -7,6 +70,15 @@
     "stars": 561,
     "updated_at": "2026-07-29T09:29:02Z",
     "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-07-29T09:28:06Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -27,15 +99,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-29T09:18:42Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-07-29T09:15:08Z",
+    "updated_at": "2026-07-29T09:43:34Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-29T09:28:53Z",
+    "updated_at": "2026-07-29T09:42:55Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-07-29T09:01:54Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -99,15 +153,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-29T09:28:06Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
     "id": "80x24/nuanua",
     "language": "TypeScript",
@@ -117,6 +162,15 @@
     "url": "https://github.com/80x24/nuanua"
   },
   {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 32,
+    "updated_at": "2026-07-29T08:27:20Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
     "id": "EvoMap/awesome-agent-evolution",
     "language": "JavaScript",
@@ -124,24 +178,6 @@
     "stars": 177,
     "updated_at": "2026-07-29T08:15:37Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 22 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 2,
-    "updated_at": "2026-07-29T08:14:40Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 33,
-    "updated_at": "2026-07-29T08:27:20Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
@@ -288,24 +324,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-29T06:37:51Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-29T06:36:55Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 12,
     "updated_at": "2026-07-29T06:36:33Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-29T06:28:48Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -351,21 +360,12 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-07-29T06:09:28Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2952,
-    "updated_at": "2026-07-29T09:24:44Z",
+    "updated_at": "2026-07-29T09:36:51Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -418,7 +418,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13604,
+    "stars": 13605,
     "updated_at": "2026-07-29T04:31:07Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
