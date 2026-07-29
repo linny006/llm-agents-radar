@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-29T20:11:31Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-29T20:05:40Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -9,13 +27,13 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
+    "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
+    "id": "marko1olo/agentrouter-setup-guide",
     "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-29T19:57:47Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+    "name": "marko1olo/agentrouter-setup-guide",
+    "stars": 7,
+    "updated_at": "2026-07-29T19:54:28Z",
+    "url": "https://github.com/marko1olo/agentrouter-setup-guide"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-07-29T18:20:06Z",
     "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-29T18:05:20Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -439,14 +448,5 @@
     "stars": 1520,
     "updated_at": "2026-07-29T12:45:01Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "",
-    "id": "pronoy1004/codebase-cartography",
-    "language": "Python",
-    "name": "pronoy1004/codebase-cartography",
-    "stars": 0,
-    "updated_at": "2026-07-29T12:43:48Z",
-    "url": "https://github.com/pronoy1004/codebase-cartography"
   }
 ]
