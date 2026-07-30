@@ -1,5 +1,14 @@
 [
   {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:29:05Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -41,7 +50,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-30T15:15:46Z",
+    "updated_at": "2026-07-30T15:41:35Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-30T15:06:01Z",
+    "updated_at": "2026-07-30T15:36:39Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T15:23:00Z",
+    "updated_at": "2026-07-30T15:38:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 176,
     "updated_at": "2026-07-30T09:59:59Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-07-30T09:49:22Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   }
 ]
