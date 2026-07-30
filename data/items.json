@@ -1,5 +1,23 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-07-30T00:14:39Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-30T00:10:47Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-30T00:00:20Z",
+    "updated_at": "2026-07-30T00:10:56Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-07-29T23:13:51Z",
     "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-29T23:10:42Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "puremachinery/carapace",
     "stars": 45,
-    "updated_at": "2026-07-29T23:03:18Z",
+    "updated_at": "2026-07-30T00:04:19Z",
     "url": "https://github.com/puremachinery/carapace"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T20:57:24Z",
     "url": "https://github.com/yuexuanchi-sys/greycrown-game-ai"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-29T20:54:39Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
