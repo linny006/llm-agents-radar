@@ -1,12 +1,39 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-30T08:39:09Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-30T08:38:00Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-07-30T08:26:45Z",
+    "stars": 21,
+    "updated_at": "2026-07-30T08:35:34Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-30T08:42:36Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -28,12 +55,12 @@
   },
   {
     "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
-    "id": "krishagarwal314/autodev-studio",
+    "id": "krishagarwal314/CodeJury",
     "language": "Python",
-    "name": "krishagarwal314/autodev-studio",
+    "name": "krishagarwal314/CodeJury",
     "stars": 112,
     "updated_at": "2026-07-30T08:14:02Z",
-    "url": "https://github.com/krishagarwal314/autodev-studio"
+    "url": "https://github.com/krishagarwal314/CodeJury"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -61,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-07-30T08:07:42Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-30T08:15:06Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T07:37:21Z",
+    "updated_at": "2026-07-30T08:40:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -268,24 +286,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T06:08:32Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-30T05:48:45Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:48:04Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
