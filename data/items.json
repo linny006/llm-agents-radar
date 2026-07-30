@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "Mooncore-inc/demon-cry",
     "stars": 0,
-    "updated_at": "2026-07-30T20:44:52Z",
+    "updated_at": "2026-07-30T20:55:26Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "id": "letta-ai/letta",
     "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 303,
-    "updated_at": "2026-07-30T20:40:32Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
+    "name": "letta-ai/letta",
+    "stars": 24028,
+    "updated_at": "2026-07-30T20:54:12Z",
+    "url": "https://github.com/letta-ai/letta"
+  },
+  {
+    "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation ",
+    "id": "Intelligent-CAT-Lab/ReCodeAgent",
+    "language": "C",
+    "name": "Intelligent-CAT-Lab/ReCodeAgent",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:53:54Z",
+    "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-30T20:49:37Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-30T20:49:33Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 17,
-    "updated_at": "2026-07-30T20:36:22Z",
+    "updated_at": "2026-07-30T20:48:59Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 303,
+    "updated_at": "2026-07-30T20:50:02Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5620,
-    "updated_at": "2026-07-30T20:43:33Z",
+    "updated_at": "2026-07-30T20:50:51Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:27:03Z",
     "url": "https://github.com/twanahc/Auto-Soulseek"
+  },
+  {
+    "description": "Telegram bot that acts as a tactical advisor for the game Tribal Wars. Agentic architecture using Gemini function callin",
+    "id": "RonLhayanie/Tribal-Wars-AI-Agent",
+    "language": "Python",
+    "name": "RonLhayanie/Tribal-Wars-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T20:48:59Z",
+    "url": "https://github.com/RonLhayanie/Tribal-Wars-AI-Agent"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -99,15 +144,6 @@
     "url": "https://github.com/WayneStr/Bellwether"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:17:05Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -124,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T20:27:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:48:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T13:10:45Z",
     "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
-    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
-    "id": "iBlinkQ/project-cairn",
-    "language": "Shell",
-    "name": "iBlinkQ/project-cairn",
-    "stars": 7,
-    "updated_at": "2026-07-30T13:08:01Z",
-    "url": "https://github.com/iBlinkQ/project-cairn"
-  },
-  {
-    "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
-    "id": "Nawfal-AI/insurance_agent",
-    "language": "HTML",
-    "name": "Nawfal-AI/insurance_agent",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:37:28Z",
-    "url": "https://github.com/Nawfal-AI/insurance_agent"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-07-30T12:06:47Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
