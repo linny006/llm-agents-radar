@@ -1,12 +1,57 @@
 [
   {
-    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
-    "id": "holasoymalva/manyllm-app",
-    "language": "Swift",
-    "name": "holasoymalva/manyllm-app",
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
     "stars": 0,
-    "updated_at": "2026-07-30T07:27:15Z",
-    "url": "https://github.com/holasoymalva/manyllm-app"
+    "updated_at": "2026-07-30T07:42:19Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-07-30T07:41:22Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 176,
+    "updated_at": "2026-07-30T07:32:42Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
+    "id": "brownjuly2003-code/Auto_BI",
+    "language": "Python",
+    "name": "brownjuly2003-code/Auto_BI",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:30:48Z",
+    "url": "https://github.com/brownjuly2003-code/Auto_BI"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-30T07:30:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 4,
+    "updated_at": "2026-07-30T07:30:21Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -14,8 +59,17 @@
     "language": "Python",
     "name": "HuTa0kj/vetix",
     "stars": 40,
-    "updated_at": "2026-07-30T07:30:11Z",
+    "updated_at": "2026-07-30T07:33:33Z",
     "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
+    "id": "holasoymalva/manyllm-app",
+    "language": "Swift",
+    "name": "holasoymalva/manyllm-app",
+    "stars": 0,
+    "updated_at": "2026-07-30T07:27:15Z",
+    "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
     "description": "Shell and coding agent on mcp clients",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T06:57:13Z",
+    "updated_at": "2026-07-30T07:37:21Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:14:25Z",
     "url": "https://github.com/ellmos-ai/worksheet-generator"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-07-30T06:10:09Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -261,15 +306,6 @@
     "url": "https://github.com/sirius-zuo/generate-wiki"
   },
   {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 176,
-    "updated_at": "2026-07-30T07:14:41Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 492,
-    "updated_at": "2026-07-30T07:08:42Z",
+    "updated_at": "2026-07-30T07:43:34Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -301,7 +337,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5608,
+    "stars": 5607,
     "updated_at": "2026-07-30T02:33:31Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -322,15 +358,6 @@
     "stars": 14,
     "updated_at": "2026-07-30T02:12:32Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:07:49Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T23:13:51Z",
     "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-07-29T23:09:34Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-07-29T22:56:20Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
-    "id": "9t29zhmwdh-coder/SwiftAgent",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/SwiftAgent",
-    "stars": 0,
-    "updated_at": "2026-07-29T22:27:47Z",
-    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent"
   }
 ]
