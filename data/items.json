@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-30T02:44:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5608,
+    "updated_at": "2026-07-30T02:33:31Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 489,
-    "updated_at": "2026-07-30T02:09:54Z",
+    "updated_at": "2026-07-30T02:44:02Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-29T16:54:32Z",
     "url": "https://github.com/gulagala001/pi-penecho"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13608,
-    "updated_at": "2026-07-29T16:16:15Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 40,
-    "updated_at": "2026-07-29T16:11:49Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   }
 ]
