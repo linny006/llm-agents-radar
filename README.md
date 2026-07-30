@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 19:00 UTC
+> ⏰ Last updated: 2026-07-30 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-30 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 2 | [bydesign21/open-agent-sync](https://github.com/bydesign21/open-agent-sync) | 0 | Rust | 2026-07-30 | Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs. |
-| 3 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-07-30 | Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify — zero hallucinations. |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-30 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 15 | Python | 2026-07-30 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 6 | [kumo-ai/kumo-coding-agent](https://github.com/kumo-ai/kumo-coding-agent) | 39 | MDX | 2026-07-30 | Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK |
-| 7 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5614 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 8 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-07-30 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
-| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6738 | Python | 2026-07-30 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 12 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-30 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-30 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 3 | [bydesign21/open-agent-sync](https://github.com/bydesign21/open-agent-sync) | 0 | Rust | 2026-07-30 | Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs. |
+| 4 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-07-30 | Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify — zero hallucinations. |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-30 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 15 | Python | 2026-07-30 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 7 | [kumo-ai/kumo-coding-agent](https://github.com/kumo-ai/kumo-coding-agent) | 39 | MDX | 2026-07-30 | Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK |
+| 8 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5614 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 9 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-07-30 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
+| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 12 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6738 | Python | 2026-07-30 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 13 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-30 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 15 | [zoyluoblue/mc_aiplayer](https://github.com/zoyluoblue/mc_aiplayer) | 191 | Java | 2026-07-30 | Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com |
 | 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 17 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
