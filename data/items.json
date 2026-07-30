@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
+    "id": "Maaa2005/Stellise",
+    "language": "Swift",
+    "name": "Maaa2005/Stellise",
+    "stars": 1,
+    "updated_at": "2026-07-30T15:08:32Z",
+    "url": "https://github.com/Maaa2005/Stellise"
+  },
+  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -68,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-30T14:31:40Z",
+    "updated_at": "2026-07-30T15:06:01Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -149,7 +158,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6735,
-    "updated_at": "2026-07-30T14:01:56Z",
+    "updated_at": "2026-07-30T15:13:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 484,
-    "updated_at": "2026-07-30T14:01:04Z",
+    "updated_at": "2026-07-30T15:08:42Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -211,7 +220,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2965,
+    "stars": 2966,
     "updated_at": "2026-07-30T13:24:28Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -346,7 +355,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 498,
+    "stars": 499,
     "updated_at": "2026-07-30T10:50:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T09:42:16Z",
     "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-07-30T09:44:46Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   }
 ]
