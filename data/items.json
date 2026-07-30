@@ -1,5 +1,23 @@
 [
   {
+    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
+    "id": "bydesign21/open-agent-sync",
+    "language": "Rust",
+    "name": "bydesign21/open-agent-sync",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:29:28Z",
+    "url": "https://github.com/bydesign21/open-agent-sync"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 17,
+    "updated_at": "2026-07-30T21:27:49Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
     "id": "marko1olo/agentrouter-setup-guide",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T21:11:35Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 17,
-    "updated_at": "2026-07-30T21:07:17Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -214,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-07-30T20:27:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-07-30T19:22:23Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
