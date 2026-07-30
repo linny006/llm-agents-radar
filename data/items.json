@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-30T10:54:01Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 573,
+    "updated_at": "2026-07-30T10:51:17Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-30T10:50:17Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
     "id": "gulagala001/pi-penecho",
     "language": "JavaScript",
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-30T10:32:41Z",
+    "updated_at": "2026-07-30T10:56:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -90,21 +117,12 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 573,
-    "updated_at": "2026-07-30T10:02:37Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 493,
-    "updated_at": "2026-07-30T10:02:26Z",
+    "updated_at": "2026-07-30T10:50:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-30T08:47:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -241,15 +250,6 @@
     "stars": 21,
     "updated_at": "2026-07-30T08:35:34Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-30T08:42:36Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
