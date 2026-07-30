@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 17,
+    "updated_at": "2026-07-30T22:27:56Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Full-stack multi-agent automation platform that converts LangGraph workflow runs into net ROI and per-tool cost attribut",
+    "id": "TirthBorasaniya/agent-roi-console",
+    "language": "Python",
+    "name": "TirthBorasaniya/agent-roi-console",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:21:06Z",
+    "url": "https://github.com/TirthBorasaniya/agent-roi-console"
+  },
+  {
     "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
     "id": "TirthBorasaniya/incidentpilot",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T21:46:56Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 17,
-    "updated_at": "2026-07-30T21:47:06Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
@@ -157,7 +166,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6738,
+    "stars": 6739,
     "updated_at": "2026-07-30T21:01:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5620,
-    "updated_at": "2026-07-30T20:50:51Z",
+    "updated_at": "2026-07-30T22:26:20Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T14:35:24Z",
     "url": "https://github.com/mariarodr1136/Clay"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-30T14:14:22Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   }
 ]
