@@ -1,12 +1,57 @@
 [
   {
+    "description": "OrcaLoca: An LLM Agent Framework for  Software Issue Localization [ICML 25]",
+    "id": "fishmingyu/OrcaLoca",
+    "language": "Python",
+    "name": "fishmingyu/OrcaLoca",
+    "stars": 46,
+    "updated_at": "2026-07-30T22:42:01Z",
+    "url": "https://github.com/fishmingyu/OrcaLoca"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 484,
+    "updated_at": "2026-07-30T22:41:00Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 17,
-    "updated_at": "2026-07-30T22:27:56Z",
+    "updated_at": "2026-07-30T22:39:01Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-07-30T22:38:53Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Telegram bot that acts as a tactical advisor for the game Tribal Wars. Agentic architecture using Gemini function callin",
+    "id": "RonLhayanie/Tribal-Wars-AI-Agent",
+    "language": "Python",
+    "name": "RonLhayanie/Tribal-Wars-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:34:34Z",
+    "url": "https://github.com/RonLhayanie/Tribal-Wars-AI-Agent"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-07-30T22:33:38Z",
+    "url": "https://github.com/haibingzhao/easyai"
   },
   {
     "description": "Full-stack multi-agent automation platform that converts LangGraph workflow runs into net ROI and per-tool cost attribut",
@@ -54,21 +99,12 @@
     "url": "https://github.com/rafactx/vtex-test"
   },
   {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-07-30T21:59:58Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-30T21:56:13Z",
+    "updated_at": "2026-07-30T22:40:02Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5620,
-    "updated_at": "2026-07-30T22:26:20Z",
+    "updated_at": "2026-07-30T22:36:06Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:27:03Z",
     "url": "https://github.com/twanahc/Auto-Soulseek"
-  },
-  {
-    "description": "Telegram bot that acts as a tactical advisor for the game Tribal Wars. Agentic architecture using Gemini function callin",
-    "id": "RonLhayanie/Tribal-Wars-AI-Agent",
-    "language": "Python",
-    "name": "RonLhayanie/Tribal-Wars-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:48:59Z",
-    "url": "https://github.com/RonLhayanie/Tribal-Wars-AI-Agent"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-07-30T18:54:28Z",
+    "updated_at": "2026-07-30T22:43:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-30T14:45:50Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-30T14:45:12Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2576,
-    "updated_at": "2026-07-30T14:37:41Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
-    "id": "mariarodr1136/Clay",
-    "language": "TypeScript",
-    "name": "mariarodr1136/Clay",
-    "stars": 0,
-    "updated_at": "2026-07-30T14:35:24Z",
-    "url": "https://github.com/mariarodr1136/Clay"
   }
 ]
