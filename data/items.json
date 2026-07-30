@@ -1,5 +1,14 @@
 [
   {
+    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
+    "id": "rafactx/vtex-test",
+    "language": "TypeScript",
+    "name": "rafactx/vtex-test",
+    "stars": 0,
+    "updated_at": "2026-07-30T22:04:22Z",
+    "url": "https://github.com/rafactx/vtex-test"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -61,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T21:34:49Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:34:13Z",
-    "url": "https://github.com/rafactx/vtex-test"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
