@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-07-30T07:00:09Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 40,
+    "updated_at": "2026-07-30T06:58:50Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "A small local agent using SmolLM3.",
+    "id": "vpakarinen2/localmind",
+    "language": "Python",
+    "name": "vpakarinen2/localmind",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:54:04Z",
+    "url": "https://github.com/vpakarinen2/localmind"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-07-30T06:52:29Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
+    "id": "Maaa2005/Stellise",
+    "language": "Swift",
+    "name": "Maaa2005/Stellise",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:45:29Z",
+    "url": "https://github.com/Maaa2005/Stellise"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T06:26:07Z",
+    "updated_at": "2026-07-30T06:57:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 21,
     "updated_at": "2026-07-30T06:21:47Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 39,
-    "updated_at": "2026-07-30T06:18:46Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Individualized worksheets for educational and therapeutic professionals from a support goal, level, and age \u2014 local LLM ",
@@ -117,15 +153,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-07-30T06:44:39Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -189,15 +216,6 @@
     "url": "https://github.com/222394/SkyPilot"
   },
   {
-    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
-    "id": "Maaa2005/Stellise",
-    "language": "Swift",
-    "name": "Maaa2005/Stellise",
-    "stars": 1,
-    "updated_at": "2026-07-30T04:54:39Z",
-    "url": "https://github.com/Maaa2005/Stellise"
-  },
-  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "Java",
@@ -247,7 +265,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 490,
+    "stars": 491,
     "updated_at": "2026-07-30T02:44:02Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-07-29T21:42:05Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6733,
-    "updated_at": "2026-07-29T21:35:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-07-29T21:02:26Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
