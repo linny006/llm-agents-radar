@@ -1,6 +1,42 @@
 [
   {
-    "description": "Autonomous multi-agent SDLC harness: describe a feature in plain English and AI agents scope, code, test, review, and op",
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-30T13:11:53Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
+    "id": "iBlinkQ/project-cairn",
+    "language": "Shell",
+    "name": "iBlinkQ/project-cairn",
+    "stars": 3,
+    "updated_at": "2026-07-30T13:08:01Z",
+    "url": "https://github.com/iBlinkQ/project-cairn"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T13:07:02Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-30T12:59:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 484,
-    "updated_at": "2026-07-30T12:47:23Z",
+    "updated_at": "2026-07-30T13:05:51Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-30T12:16:26Z",
+    "updated_at": "2026-07-30T13:14:58Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -90,21 +126,12 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:58:31Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-30T13:00:15Z",
+    "updated_at": "2026-07-30T13:09:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 46,
     "updated_at": "2026-07-30T11:26:50Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-30T12:59:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -202,7 +220,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 495,
+    "stars": 496,
     "updated_at": "2026-07-30T10:50:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T10:34:01Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-30T10:33:21Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6735,
-    "updated_at": "2026-07-30T07:55:29Z",
+    "updated_at": "2026-07-30T13:12:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 670,
     "updated_at": "2026-07-30T07:21:17Z",
     "url": "https://github.com/rusiaaman/wcgw"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-07-30T07:00:09Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
