@@ -1,5 +1,50 @@
 [
   {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 52,
+    "updated_at": "2026-07-30T10:14:58Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 15,
+    "updated_at": "2026-07-30T10:06:18Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 573,
+    "updated_at": "2026-07-30T10:02:37Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 493,
+    "updated_at": "2026-07-30T10:02:26Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 3,
+    "updated_at": "2026-07-30T10:03:40Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -7,6 +52,15 @@
     "stars": 176,
     "updated_at": "2026-07-30T09:59:59Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 41,
+    "updated_at": "2026-07-30T09:58:31Z",
+    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -25,15 +79,6 @@
     "stars": 794,
     "updated_at": "2026-07-30T09:53:25Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 41,
-    "updated_at": "2026-07-30T09:58:31Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -88,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T09:26:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-30T09:46:49Z",
-    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T04:07:12Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 572,
-    "updated_at": "2026-07-30T03:37:21Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 492,
-    "updated_at": "2026-07-30T07:43:34Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5607,
-    "updated_at": "2026-07-30T09:37:13Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-07-30T02:19:46Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   }
 ]
