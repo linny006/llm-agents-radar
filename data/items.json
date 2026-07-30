@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-07-30T17:52:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-30T17:50:16Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
     "id": "zoyluoblue/mc_aiplayer",
     "language": "Java",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T17:20:10Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-30T17:17:11Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -117,15 +126,6 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-30T16:15:39Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -140,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T17:00:35Z",
+    "updated_at": "2026-07-30T17:55:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -283,7 +283,7 @@
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
-    "stars": 114,
+    "stars": 115,
     "updated_at": "2026-07-30T13:39:56Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
   },
@@ -306,11 +306,20 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
+    "description": "Pi's coding agent ported to Rust",
+    "id": "y0usaf/pi-rs",
+    "language": "Rust",
+    "name": "y0usaf/pi-rs",
+    "stars": 0,
+    "updated_at": "2026-07-30T13:10:45Z",
+    "url": "https://github.com/y0usaf/pi-rs"
+  },
+  {
     "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-07-30T13:08:01Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
@@ -391,7 +400,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 575,
+    "stars": 576,
     "updated_at": "2026-07-30T10:51:17Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T10:21:45Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 52,
-    "updated_at": "2026-07-30T10:14:58Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   }
 ]
