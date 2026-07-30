@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 19,
-    "updated_at": "2026-07-30T02:55:43Z",
+    "updated_at": "2026-07-30T03:12:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 155,
     "updated_at": "2026-07-30T02:52:15Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 567,
+    "updated_at": "2026-07-30T03:07:33Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T01:43:43Z",
+    "updated_at": "2026-07-30T03:02:57Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "brownjuly2003-code/Auto_BI",
     "stars": 0,
-    "updated_at": "2026-07-29T20:42:58Z",
+    "updated_at": "2026-07-30T03:09:42Z",
     "url": "https://github.com/brownjuly2003-code/Auto_BI"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T17:21:56Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-30T01:09:29Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
