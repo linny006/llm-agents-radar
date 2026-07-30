@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 191,
+    "updated_at": "2026-07-30T17:41:10Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -23,7 +32,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-30T17:21:41Z",
+    "updated_at": "2026-07-30T17:34:41Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -45,21 +54,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 191,
-    "updated_at": "2026-07-30T17:09:42Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6736,
-    "updated_at": "2026-07-30T17:06:38Z",
+    "stars": 6737,
+    "updated_at": "2026-07-30T17:40:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "Mooncore-inc/demon-cry",
     "stars": 0,
-    "updated_at": "2026-07-30T17:19:44Z",
+    "updated_at": "2026-07-30T17:38:31Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
