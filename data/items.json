@@ -1,21 +1,48 @@
 [
   {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:29:28Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 17,
-    "updated_at": "2026-07-30T21:27:49Z",
+    "updated_at": "2026-07-30T21:41:39Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
+    "id": "bydesign21/open-agent-sync",
+    "language": "Rust",
+    "name": "bydesign21/open-agent-sync",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:38:16Z",
+    "url": "https://github.com/bydesign21/open-agent-sync"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-07-30T21:34:49Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
+    "id": "rafactx/vtex-test",
+    "language": "TypeScript",
+    "name": "rafactx/vtex-test",
+    "stars": 0,
+    "updated_at": "2026-07-30T21:34:13Z",
+    "url": "https://github.com/rafactx/vtex-test"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-30T21:30:34Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
@@ -421,32 +448,5 @@
     "stars": 794,
     "updated_at": "2026-07-30T18:44:59Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 484,
-    "updated_at": "2026-07-30T15:08:42Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "An observable, governable, and recoverable Agent runtime platform with async task orchestration, tool approval, long-ter",
-    "id": "SymphonyW/Synapse",
-    "language": "Python",
-    "name": "SymphonyW/Synapse",
-    "stars": 0,
-    "updated_at": "2026-07-30T13:42:06Z",
-    "url": "https://github.com/SymphonyW/Synapse"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 115,
-    "updated_at": "2026-07-30T13:39:56Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
   }
 ]
