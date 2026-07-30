@@ -1,11 +1,29 @@
 [
   {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 176,
+    "updated_at": "2026-07-30T09:59:59Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-07-30T09:49:22Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-30T09:44:25Z",
+    "updated_at": "2026-07-30T09:53:25Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "HuTa0kj/vetix",
     "stars": 41,
-    "updated_at": "2026-07-30T09:42:54Z",
+    "updated_at": "2026-07-30T09:58:31Z",
     "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-07-30T09:42:16Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   },
   {
     "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
@@ -25,6 +52,15 @@
     "stars": 4,
     "updated_at": "2026-07-30T09:44:46Z",
     "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2963,
+    "updated_at": "2026-07-30T09:39:49Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -54,21 +90,12 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2962,
-    "updated_at": "2026-07-30T09:39:49Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-07-30T09:40:23Z",
+    "updated_at": "2026-07-30T09:46:49Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "alex8224/synapse-agent",
     "stars": 6,
-    "updated_at": "2026-07-30T08:18:15Z",
+    "updated_at": "2026-07-30T09:56:25Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T08:13:26Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-07-30T08:08:12Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -214,15 +232,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T07:41:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 176,
-    "updated_at": "2026-07-30T09:32:36Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T02:19:46Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "\u751f\u4ea7\u7ea7 3GPP 5G \u89c4\u8303 RAG Agent\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee\uff0c\u56de\u7b54\u5e26\u6bb5\u843d\u7ea7\u539f\u6587\u5f15\u7528 + \u4e25\u683c grounding\uff0c\u8986\u76d6 Rel-18/19 \u5168\u90e8 TS\u3002",
-    "id": "EpisodeYu/3GPP-Everything",
-    "language": "Python",
-    "name": "EpisodeYu/3GPP-Everything",
-    "stars": 14,
-    "updated_at": "2026-07-30T02:12:32Z",
-    "url": "https://github.com/EpisodeYu/3GPP-Everything"
   }
 ]
