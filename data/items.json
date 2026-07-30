@@ -1,12 +1,12 @@
 [
   {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
+    "description": "Individualized worksheets for educational and therapeutic professionals from a support goal, level, and age \u2014 local LLM ",
+    "id": "ellmos-ai/worksheet-generator",
     "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 39,
-    "updated_at": "2026-07-30T05:58:32Z",
-    "url": "https://github.com/HuTa0kj/vetix"
+    "name": "ellmos-ai/worksheet-generator",
+    "stars": 0,
+    "updated_at": "2026-07-30T06:14:25Z",
+    "url": "https://github.com/ellmos-ai/worksheet-generator"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-07-30T05:54:43Z",
+    "updated_at": "2026-07-30T06:10:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-07-30T06:08:32Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:05:13Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 39,
+    "updated_at": "2026-07-30T05:58:32Z",
+    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -52,15 +79,6 @@
     "stars": 6,
     "updated_at": "2026-07-30T05:41:50Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T05:40:20Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T05:33:18Z",
+    "updated_at": "2026-07-30T06:08:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -193,18 +211,9 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 569,
+    "stars": 570,
     "updated_at": "2026-07-30T03:37:21Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-07-30T03:28:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-29T20:32:20Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
-    "id": "Juveria22/bunni-backend",
-    "language": "Python",
-    "name": "Juveria22/bunni-backend",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:24:00Z",
-    "url": "https://github.com/Juveria22/bunni-backend"
   }
 ]
