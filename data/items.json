@@ -1,21 +1,21 @@
 [
   {
-    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
-    "id": "kotama7/ARI",
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
     "language": "Python",
-    "name": "kotama7/ARI",
-    "stars": 7,
-    "updated_at": "2026-07-30T05:24:51Z",
-    "url": "https://github.com/kotama7/ARI"
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-30T05:42:55Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:22:35Z",
-    "url": "https://github.com/v2-io/agentic-systems"
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-07-30T05:41:50Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
@@ -23,8 +23,53 @@
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 3,
-    "updated_at": "2026-07-30T05:18:31Z",
+    "updated_at": "2026-07-30T05:40:20Z",
     "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-30T05:39:02Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:38:45Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 19,
+    "updated_at": "2026-07-30T05:37:25Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-30T05:34:04Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
+    "id": "kotama7/ARI",
+    "language": "Python",
+    "name": "kotama7/ARI",
+    "stars": 7,
+    "updated_at": "2026-07-30T05:24:51Z",
+    "url": "https://github.com/kotama7/ARI"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -45,21 +90,12 @@
     "url": "https://github.com/222394/SkyPilot"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-30T05:00:47Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T04:56:56Z",
+    "updated_at": "2026-07-30T05:33:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -117,15 +153,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 19,
-    "updated_at": "2026-07-30T03:59:36Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Python",
@@ -180,15 +207,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-30T02:23:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "chiam-ck/bss-cli",
     "language": "Rust",
@@ -205,15 +223,6 @@
     "stars": 14,
     "updated_at": "2026-07-30T02:12:32Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-30T02:10:50Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-29T19:54:28Z",
     "url": "https://github.com/marko1olo/agentrouter-setup-guide"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-29T19:46:44Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
