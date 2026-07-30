@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-30T14:27:39Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-30T14:20:53Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:19:14Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 6,
     "updated_at": "2026-07-30T14:14:22Z",
     "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:11:41Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -32,7 +68,7 @@
     "language": "Jupyter Notebook",
     "name": "genieincodebottle/generative-ai",
     "stars": 2576,
-    "updated_at": "2026-07-30T14:09:05Z",
+    "updated_at": "2026-07-30T14:25:28Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-07-30T13:14:58Z",
+    "updated_at": "2026-07-30T14:30:13Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-30T13:59:12Z",
+    "updated_at": "2026-07-30T14:27:32Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -250,24 +286,6 @@
     "stars": 46,
     "updated_at": "2026-07-30T11:26:50Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-30T11:14:10Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-30T11:13:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-30T07:41:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-30T07:30:48Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-30T14:11:36Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
