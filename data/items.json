@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
+    "id": "gulagala001/pi-penecho",
+    "language": "JavaScript",
+    "name": "gulagala001/pi-penecho",
+    "stars": 0,
+    "updated_at": "2026-07-30T10:44:11Z",
+    "url": "https://github.com/gulagala001/pi-penecho"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 12,
+    "updated_at": "2026-07-30T10:38:34Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T10:35:38Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-07-30T10:34:01Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 23 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 2,
-    "updated_at": "2026-07-30T10:29:31Z",
+    "updated_at": "2026-07-30T10:33:21Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-30T10:32:41Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -18,25 +63,7 @@
     "url": "https://github.com/HuTa0kj/vetix"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T10:28:03Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 12,
-    "updated_at": "2026-07-30T10:27:05Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
-    "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
     "name": "dmirain/OctoForge",
@@ -108,15 +135,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-07-30T09:53:25Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
     "id": "Aureliedumbfounding630/agent-governance-toolkit",
     "language": "\u2014",
@@ -139,7 +157,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 2963,
+    "stars": 2964,
     "updated_at": "2026-07-30T09:39:49Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -382,7 +400,7 @@
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
     "name": "Underline-1024/loom-engine",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-30T06:36:02Z",
     "url": "https://github.com/Underline-1024/loom-engine"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-30T05:07:31Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-07-30T05:02:19Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "Java",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-07-30T04:34:06Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   }
 ]
