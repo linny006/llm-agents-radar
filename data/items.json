@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-07-30T00:15:28Z",
+    "updated_at": "2026-07-30T00:44:51Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-07-30T00:44:22Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 45,
+    "updated_at": "2026-07-30T00:43:05Z",
+    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -50,7 +68,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-07-29T23:32:17Z",
+    "updated_at": "2026-07-30T00:30:41Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -135,15 +153,6 @@
     "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 45,
-    "updated_at": "2026-07-30T00:29:11Z",
-    "url": "https://github.com/puremachinery/carapace"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -160,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-07-29T21:42:05Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-07-29T21:40:53Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
