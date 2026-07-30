@@ -1,12 +1,12 @@
 [
   {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-07-30T01:18:24Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 4,
+    "updated_at": "2026-07-30T01:43:43Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -14,8 +14,26 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-07-30T01:16:20Z",
+    "updated_at": "2026-07-30T01:38:26Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-30T01:34:53Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-07-30T01:18:24Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
     "description": "\u751f\u4ea7\u7ea7 3GPP 5G \u89c4\u8303 RAG Agent\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee\uff0c\u56de\u7b54\u5e26\u6bb5\u843d\u7ea7\u539f\u6587\u5f15\u7528 + \u4e25\u683c grounding\uff0c\u8986\u76d6 Rel-18/19 \u5168\u90e8 TS\u3002",
@@ -189,15 +207,6 @@
     "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 4,
-    "updated_at": "2026-07-30T00:02:12Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "A multi-user LLM agent whose knowledge, skills, and tools live in the database \u2014 grows at runtime, no redeploys. Web cha",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5616,
-    "updated_at": "2026-07-29T17:25:14Z",
+    "updated_at": "2026-07-30T01:38:12Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 15,
     "updated_at": "2026-07-29T16:10:31Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-29T15:59:33Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
