@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-30 16:45 UTC
+> ⏰ Last updated: 2026-07-30 17:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 2 | [bitranox/vnc-remote-control](https://github.com/bitranox/vnc-remote-control) | 0 | Python | 2026-07-30 | Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server. |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-30 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 5 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 501 | TypeScript | 2026-07-30 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 6 | [zoyluoblue/mc_aiplayer](https://github.com/zoyluoblue/mc_aiplayer) | 191 | Java | 2026-07-30 | Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com |
-| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6735 | Python | 2026-07-30 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-30 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 10 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-30 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 11 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 3 | TypeScript | 2026-07-30 | Open-source AI automation for SolidWorks — talk to your CAD. |
-| 12 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-30 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 13 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5613 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 14 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-30 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 16 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 1 | GDScript | 2026-07-30 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
-| 17 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-30 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 3 | [bitranox/vnc-remote-control](https://github.com/bitranox/vnc-remote-control) | 0 | Python | 2026-07-30 | Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server. |
+| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-30 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 5 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-30 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 6 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 501 | TypeScript | 2026-07-30 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 7 | [zoyluoblue/mc_aiplayer](https://github.com/zoyluoblue/mc_aiplayer) | 191 | Java | 2026-07-30 | Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com |
+| 8 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6735 | Python | 2026-07-30 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-30 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 11 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-30 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 12 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 3 | TypeScript | 2026-07-30 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-30 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 14 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5613 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 15 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-30 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-30 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 17 | [codedpro/agentic-game-factory](https://github.com/codedpro/agentic-game-factory) | 1 | GDScript | 2026-07-30 | An AI agent builds complete mobile games end to end — design, code, art, music, 136 headless tests, store assets, in-app |
 | 18 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-30 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 | 19 | [Maaa2005/Stellise](https://github.com/Maaa2005/Stellise) | 1 | Swift | 2026-07-30 | プライバシー・バイ・デザインに基づく、次世代AIスケジュール＆睡眠管理iOSアプリ。オンデバイスAI（TensorFlow Lite）を用いた睡眠解析と、外部API連携による朝のルーティンの全自動最適化を実現します。 |
 | 20 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-07-30 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
