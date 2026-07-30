@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:38:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "id": "Underline-1024/loom-engine",
+    "language": "Rust",
+    "name": "Underline-1024/loom-engine",
+    "stars": 3,
+    "updated_at": "2026-07-30T06:36:02Z",
+    "url": "https://github.com/Underline-1024/loom-engine"
+  },
+  {
+    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
+    "id": "FeixueCode/miaoclaw-releases",
+    "language": "\u2014",
+    "name": "FeixueCode/miaoclaw-releases",
+    "stars": 1,
+    "updated_at": "2026-07-30T06:31:29Z",
+    "url": "https://github.com/FeixueCode/miaoclaw-releases"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "HumanStudy-Hub/HumanStudy-Bench",
     "stars": 6,
-    "updated_at": "2026-07-30T05:41:50Z",
+    "updated_at": "2026-07-30T06:44:39Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 176,
     "updated_at": "2026-07-30T05:59:12Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
-    "updated_at": "2026-07-30T04:07:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
@@ -430,23 +448,5 @@
     "stars": 25,
     "updated_at": "2026-07-29T21:02:26Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\u5b8c\u6574\u7684 Godot 4.6 \u5361\u724c RPG\uff1a\u5305\u542b\u56de\u5408\u5236\u5361\u724c\u6218\u6597\u3001\u724c\u7ec4\u4e0e\u72b6\u6001\u7cfb\u7edf\u3001\u4eea\u5f0f\u953b\u9020\u3001\u57ce\u5e02\u63a2\u7d22\u3001NPC/\u59d4\u6258/\u60c5\u62a5\u548c\u5c0f\u6e38\u620f\u3001\u9ad8\u5854\u751f\u6210\u4e0e\u63a8\u8fdb\u3001\u53ef\u79bb\u7ebf\u964d\u7ea7\u7684 AI GM \u53d9\u4e8b\u3001\u8fd0\u884c\u65f6\u7f8e\u672f\u4e0e 7 \u9996 BGM\uff1b\u53e6\u542b\u53ef\u72ec\u7acb\u6d4b\u8bd5\u7684 TypeScrip",
-    "id": "yuexuanchi-sys/greycrown-game-ai",
-    "language": "GDScript",
-    "name": "yuexuanchi-sys/greycrown-game-ai",
-    "stars": 0,
-    "updated_at": "2026-07-29T20:57:24Z",
-    "url": "https://github.com/yuexuanchi-sys/greycrown-game-ai"
-  },
-  {
-    "description": "LLM agent: text or drag-&-drop fields \u2192 dashboard over your DWH. IR-first, one spec \u2192 Superset + DataLens, feasibility a",
-    "id": "brownjuly2003-code/Auto_BI",
-    "language": "Python",
-    "name": "brownjuly2003-code/Auto_BI",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:08:32Z",
-    "url": "https://github.com/brownjuly2003-code/Auto_BI"
   }
 ]
