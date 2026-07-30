@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-30T09:44:25Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 41,
+    "updated_at": "2026-07-30T09:42:54Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-07-30T09:44:46Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-07-30T09:33:28Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
+    "id": "Nawfal-AI/insurance_agent",
+    "language": "HTML",
+    "name": "Nawfal-AI/insurance_agent",
+    "stars": 0,
+    "updated_at": "2026-07-30T09:33:20Z",
+    "url": "https://github.com/Nawfal-AI/insurance_agent"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -9,13 +54,13 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 41,
-    "updated_at": "2026-07-30T09:19:55Z",
-    "url": "https://github.com/HuTa0kj/vetix"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2962,
+    "updated_at": "2026-07-30T09:39:49Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 3,
-    "updated_at": "2026-07-30T09:18:26Z",
+    "updated_at": "2026-07-30T09:40:23Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T09:16:31Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
-    "id": "Nawfal-AI/insurance_agent",
-    "language": "HTML",
-    "name": "Nawfal-AI/insurance_agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T09:06:10Z",
-    "url": "https://github.com/Nawfal-AI/insurance_agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -144,15 +180,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-07-30T08:07:42Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -194,7 +221,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 176,
-    "updated_at": "2026-07-30T08:17:24Z",
+    "updated_at": "2026-07-30T09:32:36Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T07:30:27Z",
+    "updated_at": "2026-07-30T09:30:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -382,7 +409,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 571,
+    "stars": 572,
     "updated_at": "2026-07-30T03:37:21Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5607,
-    "updated_at": "2026-07-30T09:29:47Z",
+    "updated_at": "2026-07-30T09:37:13Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 14,
     "updated_at": "2026-07-30T02:12:32Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:04:12Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 58,
-    "updated_at": "2026-07-30T01:44:00Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5617,
-    "updated_at": "2026-07-30T05:11:29Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
