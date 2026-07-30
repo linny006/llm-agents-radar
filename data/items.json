@@ -1,5 +1,59 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-30T14:14:22Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-07-30T14:10:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-30T14:09:46Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2576,
+    "updated_at": "2026-07-30T14:09:05Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6735,
+    "updated_at": "2026-07-30T14:01:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 484,
+    "updated_at": "2026-07-30T14:01:04Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -54,24 +108,6 @@
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6735,
-    "updated_at": "2026-07-30T13:35:00Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2576,
-    "updated_at": "2026-07-30T13:28:04Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -103,7 +139,7 @@
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-30T13:08:01Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T12:59:45Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 484,
-    "updated_at": "2026-07-30T13:31:35Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
@@ -196,15 +223,6 @@
     "stars": 4373,
     "updated_at": "2026-07-30T13:59:12Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-07-30T13:41:01Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
@@ -387,15 +405,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-30T08:50:30Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -403,15 +412,6 @@
     "stars": 21,
     "updated_at": "2026-07-30T08:35:34Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-30T09:56:25Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -446,7 +446,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T13:53:39Z",
+    "updated_at": "2026-07-30T14:11:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
