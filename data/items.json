@@ -1,5 +1,32 @@
 [
   {
+    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
+    "id": "kotama7/ARI",
+    "language": "Python",
+    "name": "kotama7/ARI",
+    "stars": 7,
+    "updated_at": "2026-07-30T05:24:51Z",
+    "url": "https://github.com/kotama7/ARI"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-07-30T05:22:35Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T05:18:31Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -54,15 +81,6 @@
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T04:30:22Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
     "id": "sirius-zuo/generate-wiki",
     "language": "Shell",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-30T04:30:05Z",
     "url": "https://github.com/sirius-zuo/generate-wiki"
-  },
-  {
-    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
-    "id": "kotama7/ARI",
-    "language": "Python",
-    "name": "kotama7/ARI",
-    "stars": 7,
-    "updated_at": "2026-07-30T04:24:18Z",
-    "url": "https://github.com/kotama7/ARI"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -193,7 +202,7 @@
     "id": "EpisodeYu/3GPP-Everything",
     "language": "Python",
     "name": "EpisodeYu/3GPP-Everything",
-    "stars": 13,
+    "stars": 14,
     "updated_at": "2026-07-30T02:12:32Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
   },
@@ -205,15 +214,6 @@
     "stars": 155,
     "updated_at": "2026-07-30T02:10:50Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-30T02:09:47Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
