@@ -1,5 +1,14 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-30T23:44:05Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-30T23:04:36Z",
+    "updated_at": "2026-07-30T23:42:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-07-30T21:34:49Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-07-30T23:14:08Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
