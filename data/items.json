@@ -1,10 +1,28 @@
 [
   {
+    "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
+    "id": "Nawfal-AI/insurance_agent",
+    "language": "HTML",
+    "name": "Nawfal-AI/insurance_agent",
+    "stars": 1,
+    "updated_at": "2026-07-30T12:37:28Z",
+    "url": "https://github.com/Nawfal-AI/insurance_agent"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 15,
+    "updated_at": "2026-07-30T12:36:59Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T12:26:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 484,
-    "updated_at": "2026-07-30T12:24:06Z",
+    "updated_at": "2026-07-30T12:33:13Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 13,
     "updated_at": "2026-07-30T12:16:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 16,
-    "updated_at": "2026-07-30T12:08:45Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-30T11:56:44Z",
+    "updated_at": "2026-07-30T12:31:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -130,7 +139,7 @@
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
-    "stars": 1,
+    "stars": 0,
     "updated_at": "2026-07-30T11:22:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
@@ -175,7 +184,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 574,
+    "stars": 575,
     "updated_at": "2026-07-30T10:51:17Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -211,7 +220,7 @@
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-07-30T10:33:21Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
@@ -243,6 +252,15 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 2,
+    "updated_at": "2026-07-30T10:03:40Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -250,15 +268,6 @@
     "stars": 493,
     "updated_at": "2026-07-30T10:50:24Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 3,
-    "updated_at": "2026-07-30T10:03:40Z",
-    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -306,6 +315,15 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5608,
+    "updated_at": "2026-07-30T09:37:13Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -315,20 +333,11 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "AI insurance coverage-check agent with a real tool-calling loop (RAG + calculator + glossary) over synthetic policy docu",
-    "id": "Nawfal-AI/insurance_agent",
-    "language": "HTML",
-    "name": "Nawfal-AI/insurance_agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T09:33:20Z",
-    "url": "https://github.com/Nawfal-AI/insurance_agent"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
+    "stars": 2,
     "updated_at": "2026-07-30T08:50:30Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
@@ -382,7 +391,7 @@
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
-    "stars": 6,
+    "stars": 5,
     "updated_at": "2026-07-30T07:41:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
@@ -414,6 +423,15 @@
     "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 2,
+    "updated_at": "2026-07-30T07:21:52Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
     "description": "Shell and coding agent on mcp clients",
     "id": "rusiaaman/wcgw",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 44,
     "updated_at": "2026-07-30T07:00:09Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A small local agent using SmolLM3.",
-    "id": "vpakarinen2/localmind",
-    "language": "Python",
-    "name": "vpakarinen2/localmind",
-    "stars": 0,
-    "updated_at": "2026-07-30T06:54:04Z",
-    "url": "https://github.com/vpakarinen2/localmind"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-07-30T06:52:29Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   }
 ]
