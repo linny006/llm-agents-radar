@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6734,
+    "updated_at": "2026-07-30T07:55:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T07:54:45Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-30T07:58:00Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-30T07:58:13Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
     "id": "madhavnair2009-arch/ronin",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 176,
-    "updated_at": "2026-07-30T07:32:42Z",
+    "updated_at": "2026-07-30T07:47:03Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 11,
     "updated_at": "2026-07-30T07:30:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A tribute to the best software in the world.",
-    "id": "markdr-hue/open-fabrica",
-    "language": "Go",
-    "name": "markdr-hue/open-fabrica",
-    "stars": 4,
-    "updated_at": "2026-07-30T07:30:21Z",
-    "url": "https://github.com/markdr-hue/open-fabrica"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -189,15 +216,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T06:05:13Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -214,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-07-30T05:48:04Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-30T05:42:55Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T00:30:41Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Custom AWS Transform agent that migrates PyTorch/Triton kernels to AWS Trainium NKI (@nki.jit) and compiles, numerically",
-    "id": "aws-samples/sample-ATX-custom-NKI-Agent",
-    "language": "Python",
-    "name": "aws-samples/sample-ATX-custom-NKI-Agent",
-    "stars": 3,
-    "updated_at": "2026-07-29T23:13:51Z",
-    "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
   }
 ]
