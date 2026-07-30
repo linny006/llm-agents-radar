@@ -1,20 +1,11 @@
 [
   {
-    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
-    "id": "sirius-zuo/generate-wiki",
-    "language": "Shell",
-    "name": "sirius-zuo/generate-wiki",
-    "stars": 0,
-    "updated_at": "2026-07-30T04:30:05Z",
-    "url": "https://github.com/sirius-zuo/generate-wiki"
-  },
-  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "Java",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-30T04:29:06Z",
+    "updated_at": "2026-07-30T04:34:06Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -25,6 +16,15 @@
     "stars": 3,
     "updated_at": "2026-07-30T04:30:22Z",
     "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "An agent skill that generates and refreshes an internal architecture wiki with PR-traceable decisions and source anchors",
+    "id": "sirius-zuo/generate-wiki",
+    "language": "Shell",
+    "name": "sirius-zuo/generate-wiki",
+    "stars": 0,
+    "updated_at": "2026-07-30T04:30:05Z",
+    "url": "https://github.com/sirius-zuo/generate-wiki"
   },
   {
     "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
