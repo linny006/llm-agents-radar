@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 15,
+    "updated_at": "2026-07-30T18:35:48Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Kumo Coding Agent \u2014 context docs, skills, and self-maintenance for building ML models with the Kumo SDK",
+    "id": "kumo-ai/kumo-coding-agent",
+    "language": "MDX",
+    "name": "kumo-ai/kumo-coding-agent",
+    "stars": 39,
+    "updated_at": "2026-07-30T18:35:02Z",
+    "url": "https://github.com/kumo-ai/kumo-coding-agent"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-30T17:27:19Z",
+    "updated_at": "2026-07-30T18:39:51Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -211,7 +229,7 @@
     "id": "sky-valley/pi",
     "language": "Go",
     "name": "sky-valley/pi",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-07-30T14:45:50Z",
     "url": "https://github.com/sky-valley/pi"
   },
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-30T18:30:19Z",
+    "updated_at": "2026-07-30T18:44:59Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T12:37:28Z",
     "url": "https://github.com/Nawfal-AI/insurance_agent"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 15,
-    "updated_at": "2026-07-30T12:36:59Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T10:34:01Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 42,
-    "updated_at": "2026-07-30T10:28:37Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   }
 ]
