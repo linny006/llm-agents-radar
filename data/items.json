@@ -1,12 +1,30 @@
 [
   {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
     "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1634,
-    "updated_at": "2026-07-30T11:44:09Z",
-    "url": "https://github.com/AgentEra/Agently"
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-07-30T11:59:15Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-30T11:58:31Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 15,
+    "updated_at": "2026-07-30T11:53:26Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -14,8 +32,35 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-07-30T11:43:49Z",
+    "updated_at": "2026-07-30T11:53:01Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 12,
+    "updated_at": "2026-07-30T11:47:41Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI day-trading agent for HK/US equities (signal mode, built on Claude Code)",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-07-30T11:45:54Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1634,
+    "updated_at": "2026-07-30T11:45:31Z",
+    "url": "https://github.com/AgentEra/Agently"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -25,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-30T11:22:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T11:14:54Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -85,18 +121,9 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 573,
+    "stars": 574,
     "updated_at": "2026-07-30T10:51:17Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 12,
-    "updated_at": "2026-07-30T11:01:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u6709\u8bb0\u5fc6\u7684\u767d\u677f\u667a\u80fd\u4f53:PenEcho \u624b\u5199\u767d\u677f \u2194 \u5e38\u9a7b pi agent(\u4f1a\u8bdd\u8bb0\u5fc6+persona+\u5de5\u4f5c\u533a\u6587\u4ef6)\u3002\u7535\u8111\u7aef\u53cc\u51fb app + \u5b89\u5353\u5355 APK,WiFi \u626b\u7801\u914d\u5bf9,\u591a\u9879\u76ee\u6587\u4ef6\u5939\u540c\u6b65,\u9879\u76ee\u5185\u591a\u4f1a\u8bdd\u3002",
@@ -139,18 +166,9 @@
     "id": "HuTa0kj/vetix",
     "language": "Python",
     "name": "HuTa0kj/vetix",
-    "stars": 41,
+    "stars": 42,
     "updated_at": "2026-07-30T10:28:37Z",
     "url": "https://github.com/HuTa0kj/vetix"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 15,
-    "updated_at": "2026-07-30T10:25:08Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 4,
-    "updated_at": "2026-07-30T09:26:08Z",
+    "updated_at": "2026-07-30T12:00:01Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T06:14:25Z",
     "url": "https://github.com/ellmos-ai/worksheet-generator"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-07-30T05:38:45Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "ARI \u2014 Autonomous Research Infrastructure: end-to-end autonomous scientific research pipeline",
-    "id": "kotama7/ARI",
-    "language": "Python",
-    "name": "kotama7/ARI",
-    "stars": 7,
-    "updated_at": "2026-07-30T05:24:51Z",
-    "url": "https://github.com/kotama7/ARI"
   }
 ]
