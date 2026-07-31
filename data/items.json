@@ -1,10 +1,28 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 4,
+    "updated_at": "2026-07-31T05:17:25Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-07-31T05:15:36Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 506,
+    "stars": 507,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T05:02:59Z",
     "url": "https://github.com/rafactx/vtex-test"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-31T05:02:28Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T05:14:03Z",
+    "updated_at": "2026-07-31T05:28:46Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-30T21:07:04Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Voice Agent implementations for the VAmoS Benchmark",
-    "id": "veris-ai/riley-agent",
-    "language": "Python",
-    "name": "veris-ai/riley-agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:05:12Z",
-    "url": "https://github.com/veris-ai/riley-agent"
   }
 ]
