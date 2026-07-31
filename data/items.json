@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u4ece miniVERL \u5230 verl 0.8.0 \u7684\u4e2d\u6587\u4ea4\u4e92\u5f0f\u5b9e\u6218\u8bfe\u7a0b\uff1aGRPO/PPO\u3001HybridFlow\u3001ToolAgentLoop \u4e0e VeriCalc",
+    "id": "I0G4N/miniVERL",
+    "language": "Python",
+    "name": "I0G4N/miniVERL",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:58:56Z",
+    "url": "https://github.com/I0G4N/miniVERL"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:56:29Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-07-31T10:55:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-31T10:47:02Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:45:51Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -108,15 +153,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-07-31T10:28:05Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -124,15 +160,6 @@
     "stars": 155,
     "updated_at": "2026-07-31T09:43:30Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:44:59Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:25:33Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u4ece miniVERL \u5230 verl 0.8.0 \u7684\u4e2d\u6587\u4ea4\u4e92\u5f0f\u5b9e\u6218\u8bfe\u7a0b\uff1aGRPO/PPO\u3001HybridFlow\u3001ToolAgentLoop \u4e0e VeriCalc",
-    "id": "I0G4N/miniVERL",
-    "language": "Python",
-    "name": "I0G4N/miniVERL",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:23:38Z",
-    "url": "https://github.com/I0G4N/miniVERL"
   },
   {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
@@ -216,15 +234,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-31T07:55:26Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -232,15 +241,6 @@
     "stars": 6747,
     "updated_at": "2026-07-31T07:55:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-31T07:54:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
