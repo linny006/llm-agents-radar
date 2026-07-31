@@ -1,12 +1,39 @@
 [
   {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:27:24Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
     "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
     "id": "Shomao1998/adpilot",
     "language": "Python",
     "name": "Shomao1998/adpilot",
     "stars": 0,
-    "updated_at": "2026-07-31T19:15:10Z",
+    "updated_at": "2026-07-31T19:24:37Z",
     "url": "https://github.com/Shomao1998/adpilot"
+  },
+  {
+    "description": "Hermes Agent SaaS \u2014 the most complete open-source implementation of Nous Research's hermes-agent runtime. Multi-tenant, ",
+    "id": "kwkuh/chathermes",
+    "language": "TypeScript",
+    "name": "kwkuh/chathermes",
+    "stars": 7,
+    "updated_at": "2026-07-31T19:19:27Z",
+    "url": "https://github.com/kwkuh/chathermes"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:15:23Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A DJ that starts with no taste. Runs a live set for one person \u2014 reads what they're actually doing instead of asking, pl",
@@ -18,21 +45,12 @@
     "url": "https://github.com/savecharlie/bonsai"
   },
   {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:00:55Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6752,
-    "updated_at": "2026-07-31T18:52:46Z",
+    "updated_at": "2026-07-31T19:20:42Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:23:03Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -256,7 +265,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13626,
+    "stars": 13625,
     "updated_at": "2026-07-31T15:43:21Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T12:27:52Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 585,
-    "updated_at": "2026-07-31T10:41:59Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
