@@ -1,5 +1,59 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:45:10Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-07-31T17:41:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 2,
+    "updated_at": "2026-07-31T17:39:31Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-07-31T17:37:10Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4373,
+    "updated_at": "2026-07-31T17:38:07Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 21,
+    "updated_at": "2026-07-31T17:32:57Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T17:07:45Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:03:38Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
@@ -63,15 +108,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 2,
-    "updated_at": "2026-07-31T16:34:49Z",
-    "url": "https://github.com/amemhq/amem"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -86,7 +122,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T16:21:39Z",
+    "updated_at": "2026-07-31T17:45:14Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -189,15 +225,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-07-31T15:31:50Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-07-31T17:21:44Z",
+    "updated_at": "2026-07-31T17:34:10Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T09:34:42Z",
     "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
-    "description": "Octomind Agents Registry",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-07-31T08:32:10Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 9,
-    "updated_at": "2026-07-31T07:49:09Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:43:56Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   }
 ]
