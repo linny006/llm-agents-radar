@@ -1,5 +1,14 @@
 [
   {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 203,
+    "updated_at": "2026-07-31T10:00:51Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "Provider-neutral AI skill for Modrinth project pages, statistics, releases, and measurable growth plans",
     "id": "Etoryx/modrinth-project-growth",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "HuTa0kj/vetix",
     "stars": 45,
-    "updated_at": "2026-07-31T09:57:48Z",
+    "updated_at": "2026-07-31T10:01:16Z",
     "url": "https://github.com/HuTa0kj/vetix"
   },
   {
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T09:49:56Z",
+    "updated_at": "2026-07-31T10:10:09Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T09:48:44Z",
+    "updated_at": "2026-07-31T10:13:35Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-31T09:24:25Z",
+    "updated_at": "2026-07-31T10:12:26Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -175,7 +184,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6746,
+    "stars": 6747,
     "updated_at": "2026-07-31T07:55:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -275,7 +284,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 584,
-    "updated_at": "2026-07-31T07:19:39Z",
+    "updated_at": "2026-07-31T10:13:43Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -346,7 +355,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 509,
+    "stars": 510,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 28454,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 59,
-    "updated_at": "2026-07-31T02:01:36Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
