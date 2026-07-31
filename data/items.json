@@ -1,21 +1,57 @@
 [
   {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 204,
+    "updated_at": "2026-07-31T10:23:00Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:17:50Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:16:57Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 585,
+    "updated_at": "2026-07-31T10:13:43Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-31T10:12:26Z",
+    "updated_at": "2026-07-31T10:25:28Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
     "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 203,
-    "updated_at": "2026-07-31T10:00:51Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
+    "name": "HuTa0kj/vetix",
+    "stars": 46,
+    "updated_at": "2026-07-31T10:01:16Z",
+    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Provider-neutral AI skill for Modrinth project pages, statistics, releases, and measurable growth plans",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:58:43Z",
     "url": "https://github.com/Etoryx/modrinth-project-growth"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 45,
-    "updated_at": "2026-07-31T10:01:16Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T10:10:09Z",
+    "updated_at": "2026-07-31T10:28:05Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T10:14:28Z",
+    "updated_at": "2026-07-31T10:30:08Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T09:10:35Z",
+    "updated_at": "2026-07-31T10:28:20Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:40:00Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "\u2014",
@@ -277,15 +295,6 @@
     "stars": 5621,
     "updated_at": "2026-07-31T09:44:36Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 584,
-    "updated_at": "2026-07-31T10:13:43Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -439,14 +448,5 @@
     "stars": 5620,
     "updated_at": "2026-07-31T03:14:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28454,
-    "updated_at": "2026-07-31T02:33:06Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
