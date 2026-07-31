@@ -1,5 +1,23 @@
 [
   {
+    "description": "A command-line research assistant built with LangChain and Gemini that searches the web and Wikipedia, then returns stru",
+    "id": "stellaappiok/simple-ai-research-agent",
+    "language": "Python",
+    "name": "stellaappiok/simple-ai-research-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:45:13Z",
+    "url": "https://github.com/stellaappiok/simple-ai-research-agent"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:41:12Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T22:51:16Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:30:08Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -439,14 +448,5 @@
     "stars": 1634,
     "updated_at": "2026-07-31T11:52:01Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-07-31T11:47:55Z",
-    "url": "https://github.com/bigduu/Lotus"
   }
 ]
