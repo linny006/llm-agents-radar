@@ -1,5 +1,41 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:58:12Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:54:59Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:50:52Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation ",
+    "id": "Intelligent-CAT-Lab/ReCodeAgent",
+    "language": "C",
+    "name": "Intelligent-CAT-Lab/ReCodeAgent",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:50:39Z",
+    "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -52,24 +88,6 @@
     "stars": 9,
     "updated_at": "2026-07-31T15:27:23Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:20:26Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:15:56Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-07-31T09:53:54Z",
+    "updated_at": "2026-07-31T15:48:40Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5621,
     "updated_at": "2026-07-31T09:44:36Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Citation-grounded research agent for recommender-system paper analysis and reproduction planning",
-    "id": "yzy1147770433/rec-researcher",
-    "language": "Python",
-    "name": "yzy1147770433/rec-researcher",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:04:07Z",
-    "url": "https://github.com/yzy1147770433/rec-researcher"
-  },
-  {
-    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
-    "id": "9t29zhmwdh-coder/EmissaryKit",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/EmissaryKit",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:38:43Z",
-    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   }
 ]
