@@ -1,5 +1,32 @@
 [
   {
+    "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
+    "id": "Shomao1998/adpilot",
+    "language": "Python",
+    "name": "Shomao1998/adpilot",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:15:10Z",
+    "url": "https://github.com/Shomao1998/adpilot"
+  },
+  {
+    "description": "A DJ that starts with no taste. Runs a live set for one person \u2014 reads what they're actually doing instead of asking, pl",
+    "id": "savecharlie/bonsai",
+    "language": "Python",
+    "name": "savecharlie/bonsai",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:05:00Z",
+    "url": "https://github.com/savecharlie/bonsai"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:00:55Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T18:52:44Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:54:09Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -86,7 +104,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T17:45:14Z",
+    "updated_at": "2026-07-31T19:08:17Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-07-31T17:39:31Z",
+    "updated_at": "2026-07-31T19:13:14Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -202,7 +220,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16101,
+    "stars": 16099,
     "updated_at": "2026-07-31T16:11:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -430,23 +448,5 @@
     "stars": 585,
     "updated_at": "2026-07-31T10:41:59Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 48,
-    "updated_at": "2026-07-31T10:01:16Z",
-    "url": "https://github.com/HuTa0kj/vetix"
-  },
-  {
-    "description": "Provider-neutral AI skill for Modrinth project pages, statistics, releases, and measurable growth plans",
-    "id": "Etoryx/modrinth-project-growth",
-    "language": "Python",
-    "name": "Etoryx/modrinth-project-growth",
-    "stars": 0,
-    "updated_at": "2026-07-31T09:58:43Z",
-    "url": "https://github.com/Etoryx/modrinth-project-growth"
   }
 ]
