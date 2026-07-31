@@ -1,12 +1,30 @@
 [
   {
+    "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
+    "id": "holasoymalva/manyllm-app",
+    "language": "Swift",
+    "name": "holasoymalva/manyllm-app",
+    "stars": 0,
+    "updated_at": "2026-07-31T19:40:16Z",
+    "url": "https://github.com/holasoymalva/manyllm-app"
+  },
+  {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
     "name": "kashyaprajharsh/medha-agent",
     "stars": 0,
-    "updated_at": "2026-07-31T19:27:24Z",
+    "updated_at": "2026-07-31T19:40:55Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
+    "id": "kwkuh/chathermes",
+    "language": "TypeScript",
+    "name": "kwkuh/chathermes",
+    "stars": 7,
+    "updated_at": "2026-07-31T19:34:35Z",
+    "url": "https://github.com/kwkuh/chathermes"
   },
   {
     "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T19:24:37Z",
     "url": "https://github.com/Shomao1998/adpilot"
-  },
-  {
-    "description": "Hermes Agent SaaS \u2014 the most complete open-source implementation of Nous Research's hermes-agent runtime. Multi-tenant, ",
-    "id": "kwkuh/chathermes",
-    "language": "TypeScript",
-    "name": "kwkuh/chathermes",
-    "stars": 7,
-    "updated_at": "2026-07-31T19:19:27Z",
-    "url": "https://github.com/kwkuh/chathermes"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6752,
-    "updated_at": "2026-07-31T19:20:42Z",
+    "updated_at": "2026-07-31T19:41:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-07-31T19:13:14Z",
+    "updated_at": "2026-07-31T19:45:13Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 516,
-    "updated_at": "2026-07-31T16:20:22Z",
+    "updated_at": "2026-07-31T19:35:27Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -256,7 +265,7 @@
     "id": "Intelligent-CAT-Lab/ReCodeAgent",
     "language": "C",
     "name": "Intelligent-CAT-Lab/ReCodeAgent",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-07-31T15:50:39Z",
     "url": "https://github.com/Intelligent-CAT-Lab/ReCodeAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 41,
     "updated_at": "2026-07-31T10:20:20Z",
     "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:27:52Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
