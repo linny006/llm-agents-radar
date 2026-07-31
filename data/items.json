@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T05:45:06Z",
+    "updated_at": "2026-07-31T05:59:57Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:59:17Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
+    "id": "mohd-raza/copilot-harness-lab",
+    "language": "TypeScript",
+    "name": "mohd-raza/copilot-harness-lab",
+    "stars": 0,
+    "updated_at": "2026-07-31T05:57:02Z",
+    "url": "https://github.com/mohd-raza/copilot-harness-lab"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-07-31T05:54:16Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
@@ -72,15 +99,6 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-07-31T05:10:15Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
     "id": "rafactx/vtex-test",
     "language": "TypeScript",
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T05:33:01Z",
+    "updated_at": "2026-07-31T05:56:48Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -229,7 +247,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5617,
+    "stars": 5616,
     "updated_at": "2026-07-31T03:14:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:21:06Z",
     "url": "https://github.com/TirthBorasaniya/agent-roi-console"
-  },
-  {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-07-30T21:38:16Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-07-30T21:34:49Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   }
 ]
