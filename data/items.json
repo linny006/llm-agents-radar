@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T05:59:57Z",
+    "updated_at": "2026-07-31T06:15:04Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-31T06:11:36Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-31T06:11:11Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
+    "id": "rafactx/vtex-test",
+    "language": "TypeScript",
+    "name": "rafactx/vtex-test",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:08:34Z",
+    "url": "https://github.com/rafactx/vtex-test"
   },
   {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
@@ -76,7 +103,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 507,
+    "stars": 508,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -99,21 +126,12 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:02:59Z",
-    "url": "https://github.com/rafactx/vtex-test"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T05:56:48Z",
+    "updated_at": "2026-07-31T06:13:00Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -261,20 +279,11 @@
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-31T02:38:58Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28443,
+    "stars": 28445,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-30T22:33:38Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Full-stack multi-agent automation platform that converts LangGraph workflow runs into net ROI and per-tool cost attribut",
-    "id": "TirthBorasaniya/agent-roi-console",
-    "language": "Python",
-    "name": "TirthBorasaniya/agent-roi-console",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:21:06Z",
-    "url": "https://github.com/TirthBorasaniya/agent-roi-console"
   }
 ]
