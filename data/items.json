@@ -1,5 +1,14 @@
 [
   {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:51:57Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -49,7 +58,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 513,
+    "stars": 514,
     "updated_at": "2026-07-31T16:20:22Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -232,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T15:37:41Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:05:52Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "A curated paper list on On-Policy Distillation (OPD) & On-Policy Self-Distillation (OPSD) for LLMs \u2014 student rollouts + ",
