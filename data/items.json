@@ -1,5 +1,68 @@
 [
   {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 45,
+    "updated_at": "2026-07-31T01:43:23Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 320,
+    "updated_at": "2026-07-31T01:43:20Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 191,
+    "updated_at": "2026-07-31T01:42:56Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-31T01:42:25Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-31T01:32:24Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
+    "id": "wusuiling-if/mini-code-agent-langgraph",
+    "language": "Python",
+    "name": "wusuiling-if/mini-code-agent-langgraph",
+    "stars": 2,
+    "updated_at": "2026-07-31T01:36:57Z",
+    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 3,
+    "updated_at": "2026-07-31T01:31:28Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -81,15 +144,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-31T01:04:27Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -99,21 +153,12 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 3,
-    "updated_at": "2026-07-30T23:26:46Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T01:27:48Z",
+    "updated_at": "2026-07-31T01:45:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -396,24 +441,6 @@
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-31T01:14:58Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 191,
-    "updated_at": "2026-07-30T17:41:10Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 504,
     "updated_at": "2026-07-30T17:07:25Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-07-30T16:40:57Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-30T16:13:41Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
-    "id": "codedpro/agentic-game-factory",
-    "language": "GDScript",
-    "name": "codedpro/agentic-game-factory",
-    "stars": 1,
-    "updated_at": "2026-07-30T15:29:05Z",
-    "url": "https://github.com/codedpro/agentic-game-factory"
   }
 ]
