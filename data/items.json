@@ -59,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-30T23:50:09Z",
+    "updated_at": "2026-07-31T00:29:14Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -360,6 +360,15 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5615,
+    "updated_at": "2026-07-30T18:48:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Kumo Coding Agent \u2014 context docs, skills, and self-maintenance for building ML models with the Kumo SDK",
     "id": "kumo-ai/kumo-coding-agent",
     "language": "MDX",
@@ -367,15 +376,6 @@
     "stars": 39,
     "updated_at": "2026-07-30T18:35:02Z",
     "url": "https://github.com/kumo-ai/kumo-coding-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5614,
-    "updated_at": "2026-07-30T18:48:55Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 00:15 UTC
+> ⏰ Last updated: 2026-07-31 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-31 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 5 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 0 | Python | 2026-07-31 | Demon Cry — это автономный OSINT-агент, который использует LLM для проведения расследований в открытых источниках. |
 | 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-30 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-30 | AI-powered image generation and chat studio |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-31 | AI-powered image generation and chat studio |
 | 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-30 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 9 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-31 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 10 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 3 | TypeScript | 2026-07-30 | Open-source AI automation for SolidWorks — talk to your CAD. |
@@ -82,8 +82,8 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-07-30 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 39 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-30 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 40 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-07-30 | Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify — zero hallucinations. |
-| 41 | [kumo-ai/kumo-coding-agent](https://github.com/kumo-ai/kumo-coding-agent) | 39 | MDX | 2026-07-30 | Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK |
-| 42 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5614 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 41 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5615 | Python | 2026-07-30 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 42 | [kumo-ai/kumo-coding-agent](https://github.com/kumo-ai/kumo-coding-agent) | 39 | MDX | 2026-07-30 | Kumo Coding Agent — context docs, skills, and self-maintenance for building ML models with the Kumo SDK |
 | 43 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-07-30 | Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp) |
 | 44 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-07-30 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 45 | [zoyluoblue/mc_aiplayer](https://github.com/zoyluoblue/mc_aiplayer) | 191 | Java | 2026-07-30 | Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com |
