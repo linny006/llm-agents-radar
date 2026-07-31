@@ -1,21 +1,57 @@
 [
   {
-    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
-    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "language": "Python",
-    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:44:34Z",
-    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T08:36:38Z",
+    "updated_at": "2026-07-31T08:56:44Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-07-31T08:55:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
+    "id": "HuTa0kj/vetix",
+    "language": "Python",
+    "name": "HuTa0kj/vetix",
+    "stars": 45,
+    "updated_at": "2026-07-31T08:51:33Z",
+    "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T08:50:58Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
+    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "language": "Python",
+    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:50:20Z",
+    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T08:45:01Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Octomind Agents Registry",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T08:44:42Z",
+    "updated_at": "2026-07-31T08:59:52Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -52,24 +88,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T08:20:03Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T08:45:01Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
-    "id": "HuTa0kj/vetix",
-    "language": "Python",
-    "name": "HuTa0kj/vetix",
-    "stars": 45,
-    "updated_at": "2026-07-31T08:13:43Z",
-    "url": "https://github.com/HuTa0kj/vetix"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -189,15 +207,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:13:02Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "Citation-grounded research agent for recommender-system paper analysis and reproduction planning",
     "id": "yzy1147770433/rec-researcher",
     "language": "Python",
@@ -248,7 +257,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T07:52:38Z",
+    "updated_at": "2026-07-31T08:54:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -297,15 +306,6 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-07-31T08:38:50Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -320,7 +320,7 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-07-31T04:32:26Z",
+    "updated_at": "2026-07-31T08:56:25Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
