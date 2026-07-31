@@ -1,12 +1,12 @@
 [
   {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-07-31T18:29:18Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
+    "updated_at": "2026-07-31T18:42:24Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6752,
-    "updated_at": "2026-07-31T18:24:22Z",
+    "updated_at": "2026-07-31T18:36:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
+    "id": "Jacobcdsmith/k10-delta",
+    "language": "Python",
+    "name": "Jacobcdsmith/k10-delta",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:35:56Z",
+    "url": "https://github.com/Jacobcdsmith/k10-delta"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:34:08Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -135,15 +153,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-31T17:07:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-31T16:38:06Z",
+    "updated_at": "2026-07-31T18:39:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -166,7 +175,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 515,
+    "stars": 516,
     "updated_at": "2026-07-31T16:20:22Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T09:58:43Z",
     "url": "https://github.com/Etoryx/modrinth-project-growth"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 22,
-    "updated_at": "2026-07-31T09:53:15Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
