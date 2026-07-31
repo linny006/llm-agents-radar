@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 06:45 UTC
+> ⏰ Last updated: 2026-07-31 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-07-31 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
-| 2 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 8 | Python | 2026-07-31 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
-| 3 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-07-31 | GPT autonomous research and investigation using starintel |
-| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 5 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-07-31 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
-| 6 | [Underline-1024/loom-engine](https://github.com/Underline-1024/loom-engine) | 4 | Rust | 2026-07-31 | 🧵 A terminal-native narrative engine & text RPG in Rust 🦀. Play with any LLM: OpenAI, Anthropic, local models & more. |
-| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-31 | AI-powered image generation and chat studio |
-| 8 | [CUTEPKQ/NEWTON](https://github.com/CUTEPKQ/NEWTON) | 31 | Python | 2026-07-31 | NEWTON: Agentic Planning for Physically Grounded Video Generation |
-| 9 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 6 | Python | 2026-07-31 |  Where intent meets code — a local AI coding agent          |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [rafactx/vtex-test](https://github.com/rafactx/vtex-test) | 0 | TypeScript | 2026-07-31 | Read-only AI agent that investigates VTEX order/fulfillment tickets — the LLM proposes, a deterministic policy gate deci |
-| 12 | [mohd-raza/copilot-harness-lab](https://github.com/mohd-raza/copilot-harness-lab) | 0 | TypeScript | 2026-07-31 | A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou |
-| 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 21 | Python | 2026-07-31 | A productive AI coworker that learns, self-improves, and ships work. |
+| 1 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 6 | Python | 2026-07-31 |  Where intent meets code — a local AI coding agent          |
+| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 21 | Python | 2026-07-31 | A productive AI coworker that learns, self-improves, and ships work. |
+| 3 | [rafactx/vtex-test](https://github.com/rafactx/vtex-test) | 0 | TypeScript | 2026-07-31 | Read-only AI agent that investigates VTEX order/fulfillment tickets — the LLM proposes, a deterministic policy gate deci |
+| 4 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-07-31 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
+| 5 | [SJTU-DMTai/Awesome-Data-Agent-Papers](https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers) | 8 | Python | 2026-07-31 | 📚 A curated & auto-maintained reading list on LLM-based Data Agents — data preparation, NL2SQL, table reasoning, data an |
+| 6 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 1 | Python | 2026-07-31 | GPT autonomous research and investigation using starintel |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-07-31 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
+| 9 | [Underline-1024/loom-engine](https://github.com/Underline-1024/loom-engine) | 4 | Rust | 2026-07-31 | 🧵 A terminal-native narrative engine & text RPG in Rust 🦀. Play with any LLM: OpenAI, Anthropic, local models & more. |
+| 10 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-07-31 | AI-powered image generation and chat studio |
+| 11 | [CUTEPKQ/NEWTON](https://github.com/CUTEPKQ/NEWTON) | 31 | Python | 2026-07-31 | NEWTON: Agentic Planning for Physically Grounded Video Generation |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [mohd-raza/copilot-harness-lab](https://github.com/mohd-raza/copilot-harness-lab) | 0 | TypeScript | 2026-07-31 | A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou |
 | 14 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 4 | TypeScript | 2026-07-31 | Open-source AI automation for SolidWorks — talk to your CAD. |
 | 15 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-07-31 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
 | 16 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 509 | TypeScript | 2026-07-31 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
@@ -73,9 +73,9 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [zoyluoblue/mc_aiplayer](https://github.com/zoyluoblue/mc_aiplayer) | 191 | Java | 2026-07-31 | Autonomous AI agent that plays Minecraft on its own — a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com |
 | 30 | [hemantjuyal/SIMA2-Agent](https://github.com/hemantjuyal/SIMA2-Agent) | 0 | Python | 2026-07-31 | GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how |
 | 31 | [TirthBorasaniya/incidentpilot](https://github.com/TirthBorasaniya/incidentpilot) | 0 | Python | 2026-07-31 | LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra |
-| 32 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5618 | Python | 2026-07-31 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 32 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5619 | Python | 2026-07-31 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 33 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-07-31 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 34 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28445 | Python | 2026-07-31 | Build and run agents you can see, understand and trust. |
+| 34 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28447 | Python | 2026-07-31 | Build and run agents you can see, understand and trust. |
 | 35 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5620 | Python | 2026-07-31 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 36 | [yzy1147770433/rec-researcher](https://github.com/yzy1147770433/rec-researcher) | 0 | Python | 2026-07-31 | Citation-grounded research agent for recommender-system paper analysis and reproduction planning |
 | 37 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-07-31 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
