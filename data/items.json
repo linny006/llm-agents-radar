@@ -1,5 +1,41 @@
 [
   {
+    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
+    "id": "9t29zhmwdh-coder/EmissaryKit",
+    "language": "Swift",
+    "name": "9t29zhmwdh-coder/EmissaryKit",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:38:43Z",
+    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
+  },
+  {
+    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
+    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "language": "Python",
+    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
+    "stars": 8,
+    "updated_at": "2026-07-31T06:36:51Z",
+    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-31T06:45:15Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:32:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -14,17 +50,8 @@
     "language": "Rust",
     "name": "Underline-1024/loom-engine",
     "stars": 4,
-    "updated_at": "2026-07-31T06:28:51Z",
+    "updated_at": "2026-07-31T06:34:00Z",
     "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-31T06:30:01Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -34,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-07-31T06:26:04Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "NEWTON: Agentic Planning for Physically Grounded Video Generation",
+    "id": "CUTEPKQ/NEWTON",
+    "language": "Python",
+    "name": "CUTEPKQ/NEWTON",
+    "stars": 31,
+    "updated_at": "2026-07-31T06:18:46Z",
+    "url": "https://github.com/CUTEPKQ/NEWTON"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -79,24 +115,6 @@
     "stars": 21,
     "updated_at": "2026-07-31T05:54:16Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
-    "id": "9t29zhmwdh-coder/EmissaryKit",
-    "language": "Swift",
-    "name": "9t29zhmwdh-coder/EmissaryKit",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:24:10Z",
-    "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
-  },
-  {
-    "description": "\ud83d\udcda A curated & auto-maintained reading list on LLM-based Data Agents \u2014 data preparation, NL2SQL, table reasoning, data an",
-    "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "language": "Python",
-    "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 8,
-    "updated_at": "2026-07-31T05:33:47Z",
-    "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/puremachinery/carapace"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:36:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Python",
@@ -292,7 +301,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28446,
+    "stars": 28445,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5620,
-    "updated_at": "2026-07-31T06:19:56Z",
+    "updated_at": "2026-07-31T06:37:34Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-07-30T22:38:53Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Telegram bot that acts as a tactical advisor for the game Tribal Wars. Agentic architecture using Gemini function callin",
-    "id": "RonLhayanie/Tribal-Wars-AI-Agent",
-    "language": "Python",
-    "name": "RonLhayanie/Tribal-Wars-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:34:34Z",
-    "url": "https://github.com/RonLhayanie/Tribal-Wars-AI-Agent"
   }
 ]
