@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-07-31T11:14:20Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-07-31T11:10:30Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 46,
+    "updated_at": "2026-07-31T11:09:00Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
     "description": "\u4ece miniVERL \u5230 verl 0.8.0 \u7684\u4e2d\u6587\u4ea4\u4e92\u5f0f\u5b9e\u6218\u8bfe\u7a0b\uff1aGRPO/PPO\u3001HybridFlow\u3001ToolAgentLoop \u4e0e VeriCalc",
     "id": "I0G4N/miniVERL",
     "language": "Python",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T10:56:29Z",
+    "updated_at": "2026-07-31T11:14:22Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-07-31T10:55:35Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -52,15 +70,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T10:44:17Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-07-31T10:35:48Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -403,15 +412,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T03:48:41Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 46,
-    "updated_at": "2026-07-31T03:39:34Z",
-    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
