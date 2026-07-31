@@ -1,5 +1,41 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T14:13:43Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:15:08Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-31T14:05:52Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-31T14:00:49Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
     "id": "rafactx/vtex-test",
     "language": "TypeScript",
@@ -9,13 +45,13 @@
     "url": "https://github.com/rafactx/vtex-test"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
     "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-31T14:00:19Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+    "name": "lsdefine/GenericAgent",
+    "stars": 13623,
+    "updated_at": "2026-07-31T13:56:44Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6747,
-    "updated_at": "2026-07-31T13:08:18Z",
+    "updated_at": "2026-07-31T14:01:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-31T13:06:20Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -169,15 +196,6 @@
     "stars": 1634,
     "updated_at": "2026-07-31T11:52:01Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-31T11:50:24Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -396,15 +414,6 @@
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:30:03Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
     "description": "NEWTON: Agentic Planning for Physically Grounded Video Generation",
     "id": "CUTEPKQ/NEWTON",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 512,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-07-31T05:11:03Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
   }
 ]
