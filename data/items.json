@@ -1,12 +1,30 @@
 [
   {
-    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
-    "id": "hemantjuyal/SIMA2-Agent",
-    "language": "Python",
-    "name": "hemantjuyal/SIMA2-Agent",
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 34,
+    "updated_at": "2026-07-31T03:41:13Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 46,
+    "updated_at": "2026-07-31T03:39:34Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-07-31T03:26:44Z",
-    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
+    "updated_at": "2026-07-31T03:36:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "HuTa0kj/vetix",
     "stars": 45,
-    "updated_at": "2026-07-31T03:23:13Z",
+    "updated_at": "2026-07-31T03:41:19Z",
     "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 191,
+    "updated_at": "2026-07-31T03:32:32Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
+    "id": "hemantjuyal/SIMA2-Agent",
+    "language": "Python",
+    "name": "hemantjuyal/SIMA2-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:26:44Z",
+    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
   },
   {
     "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
@@ -31,7 +67,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5615,
+    "stars": 5616,
     "updated_at": "2026-07-31T03:14:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T03:24:20Z",
+    "updated_at": "2026-07-31T03:40:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T02:39:10Z",
+    "updated_at": "2026-07-31T03:42:27Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 191,
-    "updated_at": "2026-07-31T01:42:56Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T00:05:11Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-30T23:59:07Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:27:03Z",
     "url": "https://github.com/twanahc/Auto-Soulseek"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:19:20Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
-    "id": "WayneStr/Bellwether",
-    "language": "Python",
-    "name": "WayneStr/Bellwether",
-    "stars": 0,
-    "updated_at": "2026-07-30T20:17:47Z",
-    "url": "https://github.com/WayneStr/Bellwether"
   }
 ]
