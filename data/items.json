@@ -1,5 +1,23 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-31T22:55:24Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-07-31T22:51:16Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
     "id": "Ediebah/clinical-insight-agent",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T22:42:02Z",
+    "updated_at": "2026-07-31T22:57:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 155,
     "updated_at": "2026-07-31T22:03:30Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-31T21:51:48Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -148,7 +157,7 @@
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
-    "stars": 127,
+    "stars": 128,
     "updated_at": "2026-07-31T20:40:18Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
   },
@@ -160,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T20:25:16Z",
     "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-31T20:22:31Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
@@ -202,7 +202,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 518,
+    "stars": 519,
     "updated_at": "2026-07-31T19:35:27Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
