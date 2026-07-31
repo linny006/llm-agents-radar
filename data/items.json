@@ -1,12 +1,30 @@
 [
   {
+    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
+    "id": "hemantjuyal/SIMA2-Agent",
+    "language": "Python",
+    "name": "hemantjuyal/SIMA2-Agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:26:44Z",
+    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
+  },
+  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Python",
     "name": "HuTa0kj/vetix",
     "stars": 45,
-    "updated_at": "2026-07-31T03:14:37Z",
+    "updated_at": "2026-07-31T03:23:13Z",
     "url": "https://github.com/HuTa0kj/vetix"
+  },
+  {
+    "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
+    "id": "TirthBorasaniya/incidentpilot",
+    "language": "Python",
+    "name": "TirthBorasaniya/incidentpilot",
+    "stars": 0,
+    "updated_at": "2026-07-31T03:21:03Z",
+    "url": "https://github.com/TirthBorasaniya/incidentpilot"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T03:05:03Z",
+    "updated_at": "2026-07-31T03:24:20Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -76,7 +94,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28439,
+    "stars": 28441,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -324,15 +342,6 @@
     "url": "https://github.com/TirthBorasaniya/agent-roi-console"
   },
   {
-    "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
-    "id": "TirthBorasaniya/incidentpilot",
-    "language": "Python",
-    "name": "TirthBorasaniya/incidentpilot",
-    "stars": 0,
-    "updated_at": "2026-07-30T22:14:43Z",
-    "url": "https://github.com/TirthBorasaniya/incidentpilot"
-  },
-  {
     "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
     "id": "bydesign21/open-agent-sync",
     "language": "Rust",
@@ -382,7 +391,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6744,
+    "stars": 6743,
     "updated_at": "2026-07-30T21:01:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -391,7 +400,7 @@
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 24033,
+    "stars": 24034,
     "updated_at": "2026-07-30T20:54:12Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T20:17:47Z",
     "url": "https://github.com/WayneStr/Bellwether"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-07-30T20:17:03Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
