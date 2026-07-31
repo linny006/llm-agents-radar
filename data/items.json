@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-07-31T19:57:55Z",
-    "url": "https://github.com/dmirain/OctoForge"
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:09:26Z",
+    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
     "stars": 127,
-    "updated_at": "2026-07-31T19:51:09Z",
+    "updated_at": "2026-07-31T20:08:45Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:08:19Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
@@ -23,8 +32,26 @@
     "language": "TypeScript",
     "name": "kwkuh/chathermes",
     "stars": 7,
-    "updated_at": "2026-07-31T19:49:12Z",
+    "updated_at": "2026-07-31T20:07:51Z",
     "url": "https://github.com/kwkuh/chathermes"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:04:25Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-07-31T19:57:55Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -52,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T19:40:16Z",
     "url": "https://github.com/holasoymalva/manyllm-app"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T19:40:55Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
@@ -108,15 +126,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:42:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
     "id": "Jacobcdsmith/k10-delta",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 155,
     "updated_at": "2026-07-31T18:19:01Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:47:43Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -445,7 +445,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 204,
+    "stars": 203,
     "updated_at": "2026-07-31T10:23:00Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   }

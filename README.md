@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 20:00 UTC
+> ⏰ Last updated: 2026-07-31 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-07-31 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 1 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-07-31 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
 | 2 | [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) | 127 | Python | 2026-07-31 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
-| 3 | [kwkuh/chathermes](https://github.com/kwkuh/chathermes) | 7 | TypeScript | 2026-07-31 | Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent: |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-31 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [amemhq/amem](https://github.com/amemhq/amem) | 2 | TypeScript | 2026-07-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
-| 6 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-31 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
-| 7 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-07-31 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
-| 8 | [Shomao1998/adpilot](https://github.com/Shomao1998/adpilot) | 0 | Python | 2026-07-31 | Multimodal ad-delivery agent: generate creatives → simulate & auto-optimize cross-platform delivery on a data-driven auc |
-| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-31 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 10 | [savecharlie/bonsai](https://github.com/savecharlie/bonsai) | 0 | Python | 2026-07-31 | A DJ that starts with no taste. Runs a live set for one person — reads what they're actually doing instead of asking, pl |
-| 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6752 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 12 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-31 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [Jacobcdsmith/k10-delta](https://github.com/Jacobcdsmith/k10-delta) | 2 | Python | 2026-07-31 | Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime. |
-| 15 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-31 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 16 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-31 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 18 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-07-31 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [kwkuh/chathermes](https://github.com/kwkuh/chathermes) | 7 | TypeScript | 2026-07-31 | Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent: |
+| 5 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-07-31 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
+| 6 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-07-31 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-31 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [amemhq/amem](https://github.com/amemhq/amem) | 2 | TypeScript | 2026-07-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
+| 9 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-07-31 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
+| 10 | [Shomao1998/adpilot](https://github.com/Shomao1998/adpilot) | 0 | Python | 2026-07-31 | Multimodal ad-delivery agent: generate creatives → simulate & auto-optimize cross-platform delivery on a data-driven auc |
+| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-07-31 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 12 | [savecharlie/bonsai](https://github.com/savecharlie/bonsai) | 0 | Python | 2026-07-31 | A DJ that starts with no taste. Runs a live set for one person — reads what they're actually doing instead of asking, pl |
+| 13 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6752 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 14 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-31 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 15 | [Jacobcdsmith/k10-delta](https://github.com/Jacobcdsmith/k10-delta) | 2 | Python | 2026-07-31 | Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime. |
+| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-31 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-31 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 19 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-31 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 20 | [gptme/gptme](https://github.com/gptme/gptme) | 4373 | Python | 2026-07-31 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 21 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 21 | Go | 2026-07-31 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [d3stiny-io/aulthium](https://github.com/d3stiny-io/aulthium) | 4 | Shell | 2026-07-31 | Run Termix AI Agent instantly in Termux with a single command, no manual download required. |
 | 48 | [puremachinery/carapace](https://github.com/puremachinery/carapace) | 46 | Rust | 2026-07-31 | A secure, stable Rust alternative to openclaw/moltbot/clawdbot |
 | 49 | [I0G4N/miniVERL](https://github.com/I0G4N/miniVERL) | 1 | Python | 2026-07-31 | 从 miniVERL 到 verl 0.8.0 的中文交互式实战课程：GRPO/PPO、HybridFlow、ToolAgentLoop 与 VeriCalc |
-| 50 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 204 | Python | 2026-07-31 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 50 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 203 | Python | 2026-07-31 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
 <!-- TRACKER_TABLE_END -->
 
 ---
