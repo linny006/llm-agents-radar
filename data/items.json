@@ -1,5 +1,14 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-31T00:48:58Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -315,15 +324,6 @@
     "url": "https://github.com/twanahc/Auto-Soulseek"
   },
   {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-30T20:19:29Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
     "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
     "language": "Python",
@@ -401,7 +401,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-30T18:12:50Z",
+    "updated_at": "2026-07-31T00:51:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
