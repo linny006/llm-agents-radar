@@ -1,11 +1,20 @@
 [
   {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "krishagarwal314/CodeJury",
+    "language": "Python",
+    "name": "krishagarwal314/CodeJury",
+    "stars": 127,
+    "updated_at": "2026-07-31T20:40:18Z",
+    "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6752,
-    "updated_at": "2026-07-31T20:27:42Z",
+    "updated_at": "2026-07-31T20:41:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -81,15 +90,6 @@
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 127,
-    "updated_at": "2026-07-31T20:08:45Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -139,7 +139,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 517,
+    "stars": 518,
     "updated_at": "2026-07-31T19:35:27Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T20:25:52Z",
+    "updated_at": "2026-07-31T20:34:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
