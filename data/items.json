@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:14:44Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:13:02Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-31T07:15:19Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 582,
+    "updated_at": "2026-07-31T07:09:45Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
+    "id": "rafactx/vtex-test",
+    "language": "TypeScript",
+    "name": "rafactx/vtex-test",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:09:03Z",
+    "url": "https://github.com/rafactx/vtex-test"
+  },
+  {
+    "description": "Citation-grounded research agent for recommender-system paper analysis and reproduction planning",
+    "id": "yzy1147770433/rec-researcher",
+    "language": "Python",
+    "name": "yzy1147770433/rec-researcher",
+    "stars": 0,
+    "updated_at": "2026-07-31T07:04:07Z",
+    "url": "https://github.com/yzy1147770433/rec-researcher"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:46:47Z",
-    "url": "https://github.com/rafactx/vtex-test"
-  },
-  {
     "description": "Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies ",
     "id": "9t29zhmwdh-coder/EmissaryKit",
     "language": "Swift",
@@ -43,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-07-31T06:36:51Z",
     "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-31T07:00:03Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -301,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28447,
+    "stars": 28449,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -313,24 +349,6 @@
     "stars": 5620,
     "updated_at": "2026-07-31T06:37:34Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Citation-grounded research agent for recommender-system paper analysis and reproduction planning",
-    "id": "yzy1147770433/rec-researcher",
-    "language": "Python",
-    "name": "yzy1147770433/rec-researcher",
-    "stars": 0,
-    "updated_at": "2026-07-31T02:21:26Z",
-    "url": "https://github.com/yzy1147770433/rec-researcher"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-31T02:05:57Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -430,23 +448,5 @@
     "stars": 46,
     "updated_at": "2026-07-30T22:42:01Z",
     "url": "https://github.com/fishmingyu/OrcaLoca"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 484,
-    "updated_at": "2026-07-30T22:41:00Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-07-30T22:38:53Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
