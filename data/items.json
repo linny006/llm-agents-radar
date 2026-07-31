@@ -1,5 +1,77 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6752,
+    "updated_at": "2026-07-31T20:27:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
+    "id": "kwkuh/chathermes",
+    "language": "TypeScript",
+    "name": "kwkuh/chathermes",
+    "stars": 7,
+    "updated_at": "2026-07-31T20:27:15Z",
+    "url": "https://github.com/kwkuh/chathermes"
+  },
+  {
+    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
+    "id": "ahmedabbas52233-a11y/TerraVision-AI",
+    "language": "Python",
+    "name": "ahmedabbas52233-a11y/TerraVision-AI",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:25:16Z",
+    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-31T20:23:23Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:22:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-07-31T20:22:31Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T20:24:59Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-31T20:18:36Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T20:08:19Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
-    "id": "kwkuh/chathermes",
-    "language": "TypeScript",
-    "name": "kwkuh/chathermes",
-    "stars": 7,
-    "updated_at": "2026-07-31T20:07:51Z",
-    "url": "https://github.com/kwkuh/chathermes"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T20:04:25Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -81,6 +135,15 @@
     "url": "https://github.com/holasoymalva/manyllm-app"
   },
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 517,
+    "updated_at": "2026-07-31T19:35:27Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
     "id": "Shomao1998/adpilot",
     "language": "Python",
@@ -88,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T19:24:37Z",
     "url": "https://github.com/Shomao1998/adpilot"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5627,
+    "updated_at": "2026-07-31T19:18:22Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -108,15 +180,6 @@
     "url": "https://github.com/savecharlie/bonsai"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6752,
-    "updated_at": "2026-07-31T19:41:28Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -133,33 +196,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T18:35:56Z",
     "url": "https://github.com/Jacobcdsmith/k10-delta"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-31T18:24:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-31T18:23:23Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-31T18:19:01Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -216,15 +252,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 516,
-    "updated_at": "2026-07-31T19:35:27Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T16:08:44Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:58:12Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
     "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation ",
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T15:13:30Z",
+    "updated_at": "2026-07-31T20:25:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 46,
     "updated_at": "2026-07-31T11:09:00Z",
     "url": "https://github.com/puremachinery/carapace"
-  },
-  {
-    "description": "\u4ece miniVERL \u5230 verl 0.8.0 \u7684\u4e2d\u6587\u4ea4\u4e92\u5f0f\u5b9e\u6218\u8bfe\u7a0b\uff1aGRPO/PPO\u3001HybridFlow\u3001ToolAgentLoop \u4e0e VeriCalc",
-    "id": "I0G4N/miniVERL",
-    "language": "Python",
-    "name": "I0G4N/miniVERL",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:58:56Z",
-    "url": "https://github.com/I0G4N/miniVERL"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 203,
-    "updated_at": "2026-07-31T10:23:00Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
