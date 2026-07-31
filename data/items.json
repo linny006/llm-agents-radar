@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T11:14:20Z",
+    "updated_at": "2026-07-31T11:22:15Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A curated paper list on On-Policy Distillation (OPD) & On-Policy Self-Distillation (OPSD) for LLMs \u2014 student rollouts + ",
+    "id": "kissshhot/Awesome-OPD",
+    "language": "\u2014",
+    "name": "kissshhot/Awesome-OPD",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:21:34Z",
+    "url": "https://github.com/kissshhot/Awesome-OPD"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-07-31T11:29:40Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
@@ -14,7 +32,7 @@
     "language": "Shell",
     "name": "d3stiny-io/aulthium",
     "stars": 4,
-    "updated_at": "2026-07-31T11:10:30Z",
+    "updated_at": "2026-07-31T11:30:00Z",
     "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T10:58:56Z",
     "url": "https://github.com/I0G4N/miniVERL"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-07-31T11:14:22Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T10:28:20Z",
+    "updated_at": "2026-07-31T11:17:42Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-31T03:21:03Z",
     "url": "https://github.com/TirthBorasaniya/incidentpilot"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5620,
-    "updated_at": "2026-07-31T03:14:03Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
