@@ -1,12 +1,39 @@
 [
   {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-31T06:30:03Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "id": "Underline-1024/loom-engine",
+    "language": "Rust",
+    "name": "Underline-1024/loom-engine",
+    "stars": 4,
+    "updated_at": "2026-07-31T06:28:51Z",
+    "url": "https://github.com/Underline-1024/loom-engine"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T06:15:04Z",
+    "updated_at": "2026-07-31T06:30:01Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-31T06:26:04Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -36,15 +63,6 @@
     "url": "https://github.com/rafactx/vtex-test"
   },
   {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:59:17Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
     "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
     "id": "mohd-raza/copilot-harness-lab",
     "language": "TypeScript",
@@ -68,7 +86,7 @@
     "language": "Swift",
     "name": "9t29zhmwdh-coder/EmissaryKit",
     "stars": 0,
-    "updated_at": "2026-07-31T05:43:07Z",
+    "updated_at": "2026-07-31T06:24:10Z",
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
@@ -103,7 +121,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 508,
+    "stars": 509,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -124,15 +142,6 @@
     "stars": 12,
     "updated_at": "2026-07-31T05:11:03Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-31T06:13:00Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -265,7 +274,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5616,
+    "stars": 5618,
     "updated_at": "2026-07-31T03:14:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -283,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28445,
+    "stars": 28446,
     "updated_at": "2026-07-31T02:33:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5620,
-    "updated_at": "2026-07-31T02:29:44Z",
+    "updated_at": "2026-07-31T06:19:56Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-30T22:34:34Z",
     "url": "https://github.com/RonLhayanie/Tribal-Wars-AI-Agent"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-07-30T22:33:38Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
