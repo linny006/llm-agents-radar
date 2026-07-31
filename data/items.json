@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-07-31T19:57:55Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "krishagarwal314/CodeJury",
+    "language": "Python",
+    "name": "krishagarwal314/CodeJury",
+    "stars": 127,
+    "updated_at": "2026-07-31T19:51:09Z",
+    "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
     "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
     "id": "kwkuh/chathermes",
     "language": "TypeScript",
@@ -151,15 +169,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T17:41:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-07-31T17:37:10Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -439,14 +448,5 @@
     "stars": 204,
     "updated_at": "2026-07-31T10:23:00Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "A C++20 framework for building intelligent agents.",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 41,
-    "updated_at": "2026-07-31T10:20:20Z",
-    "url": "https://github.com/lkimuk/Wuwe"
   }
 ]
