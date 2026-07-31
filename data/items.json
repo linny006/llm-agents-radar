@@ -1,5 +1,14 @@
 [
   {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 34,
+    "updated_at": "2026-07-31T04:11:09Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
     "id": "rafactx/vtex-test",
     "language": "TypeScript",
@@ -16,15 +25,6 @@
     "stars": 12,
     "updated_at": "2026-07-31T03:47:12Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 34,
-    "updated_at": "2026-07-31T03:41:13Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
@@ -95,7 +95,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T04:00:09Z",
+    "updated_at": "2026-07-31T04:15:06Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -122,7 +122,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-07-31T03:42:27Z",
+    "updated_at": "2026-07-31T04:04:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-31T02:01:38Z",
+    "updated_at": "2026-07-31T04:10:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
