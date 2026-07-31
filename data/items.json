@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 4,
+    "updated_at": "2026-07-31T14:55:11Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -32,7 +41,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T14:32:02Z",
+    "updated_at": "2026-07-31T14:57:01Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -85,7 +94,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13623,
+    "stars": 13624,
     "updated_at": "2026-07-31T13:56:44Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -252,15 +261,6 @@
     "url": "https://github.com/I0G4N/miniVERL"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 4,
-    "updated_at": "2026-07-31T10:44:17Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -364,7 +364,7 @@
     "id": "SJTU-DMTai/Awesome-Data-Agent-Papers",
     "language": "Python",
     "name": "SJTU-DMTai/Awesome-Data-Agent-Papers",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-07-31T07:49:09Z",
     "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
