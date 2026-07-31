@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 4,
+    "updated_at": "2026-07-31T10:44:17Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-07-31T10:35:48Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:32:10Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 585,
-    "updated_at": "2026-07-31T10:13:43Z",
+    "updated_at": "2026-07-31T10:41:59Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-31T10:25:28Z",
+    "updated_at": "2026-07-31T10:36:38Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T10:30:08Z",
+    "updated_at": "2026-07-31T10:44:59Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-07-31T08:28:28Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -234,15 +252,6 @@
     "url": "https://github.com/SJTU-DMTai/Awesome-Data-Agent-Papers"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:46:36Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T07:43:56Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 4,
-    "updated_at": "2026-07-31T07:43:52Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -364,7 +364,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 510,
+    "stars": 511,
     "updated_at": "2026-07-31T05:12:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
