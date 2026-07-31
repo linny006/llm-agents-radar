@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T09:12:50Z",
+    "updated_at": "2026-07-31T09:27:05Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:25:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T09:24:25Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u4ece miniVERL \u5230 verl 0.8.0 \u7684\u4e2d\u6587\u4ea4\u4e92\u5f0f\u5b9e\u6218\u8bfe\u7a0b\uff1aGRPO/PPO\u3001HybridFlow\u3001ToolAgentLoop \u4e0e VeriCalc",
+    "id": "I0G4N/miniVERL",
+    "language": "Python",
+    "name": "I0G4N/miniVERL",
+    "stars": 0,
+    "updated_at": "2026-07-31T09:23:38Z",
+    "url": "https://github.com/I0G4N/miniVERL"
+  },
+  {
+    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
+    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "language": "Python",
+    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:21:54Z",
+    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 1,
+    "updated_at": "2026-07-31T09:30:09Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
@@ -25,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-07-31T09:10:35Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T09:09:50Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -72,15 +108,6 @@
     "url": "https://github.com/HuTa0kj/vetix"
   },
   {
-    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
-    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "language": "Python",
-    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 0,
-    "updated_at": "2026-07-31T08:50:20Z",
-    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
     "description": "Octomind Agents Registry",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -97,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T08:28:28Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:15:04Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -261,15 +279,6 @@
     "url": "https://github.com/9t29zhmwdh-coder/EmissaryKit"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-07-31T06:32:07Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -400,7 +409,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5619,
+    "stars": 5620,
     "updated_at": "2026-07-31T03:14:03Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-31T01:56:40Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 320,
-    "updated_at": "2026-07-31T01:43:20Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
