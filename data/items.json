@@ -1,5 +1,32 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-07-31T14:42:46Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:37:41Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-07-31T14:32:02Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -18,21 +45,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:22:59Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T14:29:36Z",
+    "updated_at": "2026-07-31T14:34:25Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:05:52Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-07-31T14:00:49Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
@@ -70,15 +79,6 @@
     "stars": 13623,
     "updated_at": "2026-07-31T13:56:44Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:37:47Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -130,7 +130,7 @@
     "id": "kissshhot/Awesome-OPD",
     "language": "\u2014",
     "name": "kissshhot/Awesome-OPD",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-07-31T12:42:30Z",
     "url": "https://github.com/kissshhot/Awesome-OPD"
   },
@@ -185,7 +185,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-07-31T12:21:33Z",
+    "updated_at": "2026-07-31T14:44:26Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
