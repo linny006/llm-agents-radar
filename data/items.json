@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6752,
+    "updated_at": "2026-07-31T18:52:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T18:52:44Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-07-31T18:54:09Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -9,15 +36,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6752,
-    "updated_at": "2026-07-31T18:36:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime.",
     "id": "Jacobcdsmith/k10-delta",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T18:35:56Z",
     "url": "https://github.com/Jacobcdsmith/k10-delta"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T18:34:08Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,15 +90,6 @@
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T17:45:10Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-31T17:38:07Z",
+    "updated_at": "2026-07-31T18:56:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T15:37:41Z",
+    "updated_at": "2026-07-31T18:59:50Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -436,7 +436,7 @@
     "id": "HuTa0kj/vetix",
     "language": "Python",
     "name": "HuTa0kj/vetix",
-    "stars": 47,
+    "stars": 48,
     "updated_at": "2026-07-31T10:01:16Z",
     "url": "https://github.com/HuTa0kj/vetix"
   },

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-07-31 18:45 UTC
+> ⏰ Last updated: 2026-07-31 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6752 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 3 | [Jacobcdsmith/k10-delta](https://github.com/Jacobcdsmith/k10-delta) | 2 | Python | 2026-07-31 | Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime. |
-| 4 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-07-31 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
-| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-31 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-31 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-31 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-07-31 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
-| 10 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-31 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 1 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6752 | Python | 2026-07-31 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 2 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-07-31 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 3 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-07-31 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-07-31 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [Jacobcdsmith/k10-delta](https://github.com/Jacobcdsmith/k10-delta) | 2 | Python | 2026-07-31 | Autonomous agent on ESP32-S3 that rewrites its own Python source at runtime. |
+| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-07-31 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-07-31 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-07-31 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-07-31 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-07-31 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
 | 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-07-31 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 12 | [amemhq/amem](https://github.com/amemhq/amem) | 2 | TypeScript | 2026-07-31 | Agentic-memory stack for LLM agents — memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven  |
 | 13 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-07-31 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 41 | C++ | 2026-07-31 | A C++20 framework for building intelligent agents. |
 | 47 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-07-31 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 48 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 585 | Go | 2026-07-31 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 49 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 47 | Python | 2026-07-31 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
+| 49 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 48 | Python | 2026-07-31 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
 | 50 | [Etoryx/modrinth-project-growth](https://github.com/Etoryx/modrinth-project-growth) | 0 | Python | 2026-07-31 | Provider-neutral AI skill for Modrinth project pages, statistics, releases, and measurable growth plans |
 <!-- TRACKER_TABLE_END -->
 
