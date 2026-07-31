@@ -1,5 +1,50 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 155,
+    "updated_at": "2026-07-31T11:58:05Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1634,
+    "updated_at": "2026-07-31T11:52:01Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-31T11:50:24Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-07-31T11:47:55Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-07-31T11:47:55Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-07-31T11:45:18Z",
+    "updated_at": "2026-07-31T12:00:15Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T11:45:12Z",
+    "updated_at": "2026-07-31T11:51:43Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 155,
-    "updated_at": "2026-07-31T09:43:30Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
     "id": "UncertaintyDeterminesYou4ndMe/flintrade",
     "language": "Python",
@@ -205,24 +241,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T09:11:40Z",
     "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-07-31T11:17:42Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-07-31T09:09:09Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -430,23 +448,5 @@
     "stars": 191,
     "updated_at": "2026-07-31T03:32:32Z",
     "url": "https://github.com/zoyluoblue/mc_aiplayer"
-  },
-  {
-    "description": "GSIMA (Grounded Semantic Instructable Multiworld Agent) is an independent, personal research project where I explore how",
-    "id": "hemantjuyal/SIMA2-Agent",
-    "language": "Python",
-    "name": "hemantjuyal/SIMA2-Agent",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:26:44Z",
-    "url": "https://github.com/hemantjuyal/SIMA2-Agent"
-  },
-  {
-    "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
-    "id": "TirthBorasaniya/incidentpilot",
-    "language": "Python",
-    "name": "TirthBorasaniya/incidentpilot",
-    "stars": 0,
-    "updated_at": "2026-07-31T03:21:03Z",
-    "url": "https://github.com/TirthBorasaniya/incidentpilot"
   }
 ]
