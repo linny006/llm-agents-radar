@@ -1,11 +1,56 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-07-31T15:27:23Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:20:26Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-07-31T15:15:56Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 52,
+    "updated_at": "2026-07-31T15:15:36Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T15:14:25Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 4,
-    "updated_at": "2026-07-31T14:55:11Z",
+    "updated_at": "2026-07-31T15:27:33Z",
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6748,
-    "updated_at": "2026-07-31T14:50:30Z",
+    "updated_at": "2026-07-31T15:15:59Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -34,24 +79,6 @@
     "stars": 6,
     "updated_at": "2026-07-31T14:42:46Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-07-31T14:37:41Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-07-31T15:10:38Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T14:34:25Z",
+    "updated_at": "2026-07-31T15:26:32Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T13:00:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:14:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A curated paper list on On-Policy Distillation (OPD) & On-Policy Self-Distillation (OPSD) for LLMs \u2014 student rollouts + ",
@@ -430,23 +448,5 @@
     "stars": 31,
     "updated_at": "2026-07-31T06:18:46Z",
     "url": "https://github.com/CUTEPKQ/NEWTON"
-  },
-  {
-    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
-    "id": "mohd-raza/copilot-harness-lab",
-    "language": "TypeScript",
-    "name": "mohd-raza/copilot-harness-lab",
-    "stars": 0,
-    "updated_at": "2026-07-31T05:57:02Z",
-    "url": "https://github.com/mohd-raza/copilot-harness-lab"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-07-31T05:15:36Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
