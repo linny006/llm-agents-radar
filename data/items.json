@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
+    "id": "kwkuh/chathermes",
+    "language": "TypeScript",
+    "name": "kwkuh/chathermes",
+    "stars": 7,
+    "updated_at": "2026-07-31T19:49:12Z",
+    "url": "https://github.com/kwkuh/chathermes"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-07-31T19:48:13Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
+    "id": "amemhq/amem",
+    "language": "TypeScript",
+    "name": "amemhq/amem",
+    "stars": 2,
+    "updated_at": "2026-07-31T19:45:13Z",
+    "url": "https://github.com/amemhq/amem"
+  },
+  {
     "description": "Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi",
     "id": "holasoymalva/manyllm-app",
     "language": "Swift",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T19:40:55Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
-    "id": "kwkuh/chathermes",
-    "language": "TypeScript",
-    "name": "kwkuh/chathermes",
-    "stars": 7,
-    "updated_at": "2026-07-31T19:34:35Z",
-    "url": "https://github.com/kwkuh/chathermes"
   },
   {
     "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
@@ -117,21 +135,12 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-31T18:05:12Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T19:08:17Z",
+    "updated_at": "2026-07-31T19:47:43Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-07-31T17:41:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:13Z",
-    "url": "https://github.com/amemhq/amem"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
