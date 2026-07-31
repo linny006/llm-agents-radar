@@ -1,11 +1,20 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T12:52:07Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T12:43:47Z",
+    "updated_at": "2026-07-31T13:00:11Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -176,7 +185,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-07-31T10:45:51Z",
+    "updated_at": "2026-07-31T13:00:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -187,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-07-31T10:44:17Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:32:10Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -274,7 +274,7 @@
     "id": "UncertaintyDeterminesYou4ndMe/flintrade",
     "language": "Python",
     "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-07-31T09:34:42Z",
     "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
   },
