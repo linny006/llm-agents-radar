@@ -1,5 +1,50 @@
 [
   {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-07-31T16:14:10Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16102,
+    "updated_at": "2026-07-31T16:11:55Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-07-31T16:08:44Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-07-31T16:03:39Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-07-31T16:03:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -23,7 +68,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-07-31T15:50:52Z",
+    "updated_at": "2026-07-31T16:12:29Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -90,6 +135,15 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6749,
+    "updated_at": "2026-07-31T15:15:59Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T15:14:25Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6748,
-    "updated_at": "2026-07-31T15:15:59Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -160,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T14:05:52Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-31T13:57:28Z",
-    "url": "https://github.com/rafactx/vtex-test"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-07-31T13:01:12Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-07-31T13:00:15Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A curated paper list on On-Policy Distillation (OPD) & On-Policy Self-Distillation (OPSD) for LLMs \u2014 student rollouts + ",
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T12:22:41Z",
     "url": "https://github.com/saas-claw/saasclaw"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-31T12:20:01Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -337,7 +346,7 @@
     "id": "HuTa0kj/vetix",
     "language": "Python",
     "name": "HuTa0kj/vetix",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-07-31T10:01:16Z",
     "url": "https://github.com/HuTa0kj/vetix"
   },
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-07-31T15:11:10Z",
+    "updated_at": "2026-07-31T16:14:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T07:38:24Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5621,
-    "updated_at": "2026-07-31T09:44:36Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
