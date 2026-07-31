@@ -1,11 +1,20 @@
 [
   {
+    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
+    "id": "rafactx/vtex-test",
+    "language": "TypeScript",
+    "name": "rafactx/vtex-test",
+    "stars": 0,
+    "updated_at": "2026-07-31T13:57:28Z",
+    "url": "https://github.com/rafactx/vtex-test"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-07-31T13:44:59Z",
+    "updated_at": "2026-07-31T14:00:19Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -358,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-07-31T07:38:24Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Read-only AI agent that investigates VTEX order/fulfillment tickets \u2014 the LLM proposes, a deterministic policy gate deci",
-    "id": "rafactx/vtex-test",
-    "language": "TypeScript",
-    "name": "rafactx/vtex-test",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:52:05Z",
-    "url": "https://github.com/rafactx/vtex-test"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
