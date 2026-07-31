@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T17:23:03Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Frontier models sell confidence. FABULA ships proof \u2014 an agent harness where any model is a swappable chip and every fin",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-07-31T17:00:26Z",
+    "updated_at": "2026-07-31T17:21:44Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 6751,
     "updated_at": "2026-07-31T17:14:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T15:14:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -409,7 +409,7 @@
     "id": "sky-valley/pi",
     "language": "Go",
     "name": "sky-valley/pi",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-07-31T09:53:15Z",
     "url": "https://github.com/sky-valley/pi"
   },
