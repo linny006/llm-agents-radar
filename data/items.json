@@ -1,11 +1,20 @@
 [
   {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-07-31T21:45:02Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
     "name": "kashyaprajharsh/medha-agent",
     "stars": 0,
-    "updated_at": "2026-07-31T21:22:17Z",
+    "updated_at": "2026-07-31T21:43:56Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-07-31T20:34:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-07-31T11:33:52Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   }
 ]
