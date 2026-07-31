@@ -1,5 +1,32 @@
 [
   {
+    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
+    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "language": "Python",
+    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "stars": 0,
+    "updated_at": "2026-07-31T08:44:34Z",
+    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-07-31T08:36:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-07-31T08:32:10Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
     "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
@@ -9,21 +36,12 @@
     "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-07-31T08:25:25Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 1,
-    "updated_at": "2026-07-31T08:30:10Z",
+    "updated_at": "2026-07-31T08:44:42Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 2,
-    "updated_at": "2026-07-31T08:13:48Z",
+    "updated_at": "2026-07-31T08:45:01Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -61,6 +79,15 @@
     "stars": 155,
     "updated_at": "2026-07-31T07:55:26Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6745,
+    "updated_at": "2026-07-31T07:55:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -151,15 +178,6 @@
     "stars": 583,
     "updated_at": "2026-07-31T07:19:39Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
-    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "language": "Python",
-    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 0,
-    "updated_at": "2026-07-31T07:18:49Z",
-    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-07-31T05:12:27Z",
+    "updated_at": "2026-07-31T08:38:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 320,
     "updated_at": "2026-07-31T01:43:20Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-07-31T00:31:47Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-07-31T00:14:47Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
