@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "Grizzly-Endeavors/grizzly-gameservers",
     "stars": 0,
-    "updated_at": "2026-08-01T18:42:13Z",
+    "updated_at": "2026-08-01T18:55:00Z",
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-01T18:50:32Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -304,15 +313,6 @@
     "stars": 60,
     "updated_at": "2026-08-01T14:02:07Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-01T16:52:29Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
