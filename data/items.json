@@ -1,5 +1,23 @@
 [
   {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-08-01T22:42:15Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-01T22:39:51Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -59,7 +77,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-01T22:00:29Z",
+    "updated_at": "2026-08-01T22:36:54Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T20:40:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-01T22:31:55Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T13:47:18Z",
     "url": "https://github.com/bydesign21/open-agent-sync"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-01T20:47:36Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
