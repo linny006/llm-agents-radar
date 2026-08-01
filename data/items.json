@@ -1,5 +1,23 @@
 [
   {
+    "description": "Awesome papers involving LLMs in Social Science.",
+    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "language": "\u2014",
+    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "stars": 641,
+    "updated_at": "2026-08-01T06:59:16Z",
+    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-01T06:55:43Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -97,15 +115,6 @@
     "stars": 20,
     "updated_at": "2026-08-01T04:53:01Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Awesome papers involving LLMs in Social Science.",
-    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "language": "\u2014",
-    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "stars": 641,
-    "updated_at": "2026-08-01T05:07:23Z",
-    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
   },
   {
     "description": "Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai",
@@ -268,15 +277,6 @@
     "stars": 60,
     "updated_at": "2026-08-01T02:02:43Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-01T06:42:05Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
