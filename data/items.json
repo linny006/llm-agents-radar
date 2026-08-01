@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 5,
+    "updated_at": "2026-08-01T12:50:23Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-01T12:48:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-08-01T12:42:49Z",
+    "updated_at": "2026-08-01T12:45:48Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "the-priest/PriestsBasilisk",
     "stars": 2,
-    "updated_at": "2026-08-01T12:21:33Z",
+    "updated_at": "2026-08-01T12:45:40Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T11:58:19Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-01T11:51:55Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -252,15 +261,6 @@
     "url": "https://github.com/bydesign21/open-agent-sync"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 5,
-    "updated_at": "2026-08-01T09:40:50Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
     "description": "Octomind Agents Registry",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -310,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28474,
+    "stars": 28473,
     "updated_at": "2026-08-01T08:47:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -374,7 +374,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-01T07:37:55Z",
+    "updated_at": "2026-08-01T12:53:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
