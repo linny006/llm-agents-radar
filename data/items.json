@@ -1,12 +1,12 @@
 [
   {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
     "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-01T13:58:32Z",
-    "url": "https://github.com/dmirain/OctoForge"
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-01T14:04:03Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
     "stars": 60,
-    "updated_at": "2026-08-01T13:59:28Z",
+    "updated_at": "2026-08-01T14:02:07Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-01T13:58:32Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
@@ -301,7 +310,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 204,
+    "stars": 205,
     "updated_at": "2026-08-01T10:31:41Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -382,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28473,
+    "stars": 28474,
     "updated_at": "2026-08-01T08:47:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 641,
     "updated_at": "2026-08-01T06:59:16Z",
     "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-01T12:53:24Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
