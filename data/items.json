@@ -1,5 +1,41 @@
 [
   {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:58:08Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-01T04:53:01Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Awesome papers involving LLMs in Social Science.",
+    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "language": "\u2014",
+    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "stars": 641,
+    "updated_at": "2026-08-01T04:52:16Z",
+    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
+  },
+  {
+    "description": "Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai",
+    "id": "udsy19/resume-builder",
+    "language": "Python",
+    "name": "udsy19/resume-builder",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:49:32Z",
+    "url": "https://github.com/udsy19/resume-builder"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-01T03:55:25Z",
+    "updated_at": "2026-08-01T04:49:07Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 12,
     "updated_at": "2026-08-01T02:52:32Z",
     "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai",
-    "id": "udsy19/resume-builder",
-    "language": "Python",
-    "name": "udsy19/resume-builder",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:52:02Z",
-    "url": "https://github.com/udsy19/resume-builder"
   },
   {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
@@ -421,32 +448,5 @@
     "stars": 128,
     "updated_at": "2026-07-31T20:40:18Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
-  },
-  {
-    "description": "Satellite-native crop yield intelligence: Spatio-Temporal Transformer + live Sentinel-2/ERA5 via Google Earth Engine, Fa",
-    "id": "ahmedabbas52233-a11y/TerraVision-AI",
-    "language": "Python",
-    "name": "ahmedabbas52233-a11y/TerraVision-AI",
-    "stars": 2,
-    "updated_at": "2026-07-31T20:25:16Z",
-    "url": "https://github.com/ahmedabbas52233-a11y/TerraVision-AI"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-07-31T22:41:05Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
-    "id": "amemhq/amem",
-    "language": "TypeScript",
-    "name": "amemhq/amem",
-    "stars": 2,
-    "updated_at": "2026-07-31T19:45:13Z",
-    "url": "https://github.com/amemhq/amem"
   }
 ]
