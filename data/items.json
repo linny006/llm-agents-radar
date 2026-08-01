@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-01T05:09:45Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "\u2014",
     "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
     "stars": 641,
-    "updated_at": "2026-08-01T04:52:16Z",
+    "updated_at": "2026-08-01T05:07:23Z",
     "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-08-01T04:28:58Z",
+    "updated_at": "2026-08-01T05:08:44Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -158,7 +167,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T03:03:50Z",
+    "updated_at": "2026-08-01T05:13:35Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-07-31T20:52:48Z",
     "url": "https://github.com/kwkuh/chathermes"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 128,
-    "updated_at": "2026-07-31T20:40:18Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
   }
 ]
