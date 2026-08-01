@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "id": "Underline-1024/loom-engine",
+    "language": "Rust",
+    "name": "Underline-1024/loom-engine",
+    "stars": 5,
+    "updated_at": "2026-08-01T12:44:36Z",
+    "url": "https://github.com/Underline-1024/loom-engine"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-01T12:42:49Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
     "id": "SugarMGP/MumuBot",
     "language": "Go",
@@ -207,15 +225,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:19:44Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
     "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
     "id": "vstorm-co/awesome-pydantic-ai",
     "language": "\u2014",
@@ -301,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28473,
+    "stars": 28474,
     "updated_at": "2026-08-01T08:47:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-01T04:49:07Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u57fa\u4e8e Qwen3-VL \u591a\u6a21\u6001\u5927\u6a21\u578b\u7684\u4e2d\u6587\u7968\u636e OCR \u667a\u80fd\u4f53\uff1a\u8bc6\u522b \u2192 \u6821\u9a8c \u2192 \u7ea0\u9519 \u2192 \u8fdb\u5316\u7684\u591a\u9636\u6bb5 Agent \u95ed\u73af\u6d41\u6c34\u7ebf\uff0c\u914d\u7f6e\u9a71\u52a8\u652f\u6301\u53d1\u7968\u3001\u8eab\u4efd\u8bc1\u7b49\u591a\u79cd\u7968\u79cd",
-    "id": "guvsta/OCRtist",
-    "language": "Python",
-    "name": "guvsta/OCRtist",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:23:51Z",
-    "url": "https://github.com/guvsta/OCRtist"
   }
 ]
