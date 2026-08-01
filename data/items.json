@@ -1,5 +1,50 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-01T14:59:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 156,
+    "updated_at": "2026-08-01T14:58:37Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "id": "Underline-1024/loom-engine",
+    "language": "Rust",
+    "name": "Underline-1024/loom-engine",
+    "stars": 5,
+    "updated_at": "2026-08-01T14:57:34Z",
+    "url": "https://github.com/Underline-1024/loom-engine"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:54:49Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-08-01T14:47:21Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -81,24 +126,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-08-01T13:55:48Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-01T13:55:06Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -153,15 +180,6 @@
     "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-01T13:26:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -178,15 +196,6 @@
     "stars": 9,
     "updated_at": "2026-08-01T13:16:10Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-01T13:15:49Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -207,21 +216,12 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
-    "id": "Underline-1024/loom-engine",
-    "language": "Rust",
-    "name": "Underline-1024/loom-engine",
-    "stars": 5,
-    "updated_at": "2026-08-01T12:44:36Z",
-    "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-08-01T12:45:48Z",
+    "updated_at": "2026-08-01T14:57:43Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -229,7 +229,7 @@
     "id": "SugarMGP/MumuBot",
     "language": "Go",
     "name": "SugarMGP/MumuBot",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-08-01T12:33:22Z",
     "url": "https://github.com/SugarMGP/MumuBot"
   },
