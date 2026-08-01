@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 04:30 UTC
+> ⏰ Last updated: 2026-08-01 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-01 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-01 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-01 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-01 | Agent 运行时 — 证据化文档排障、Harness/StepWatcher、四套离线 eval、跨仓闭环（非生产沙箱） |
-| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-08-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 6 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
-| 7 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 203 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 8 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-01 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 9 | [guvsta/OCRtist](https://github.com/guvsta/OCRtist) | 0 | Python | 2026-08-01 | 基于 Qwen3-VL 多模态大模型的中文票据 OCR 智能体：识别 → 校验 → 纠错 → 进化的多阶段 Agent 闭环流水线，配置驱动支持发票、身份证等多种票种 |
-| 10 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5628 | Python | 2026-08-01 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 11 | [shahriar-ahmed-seam/agentic-sre-assistant](https://github.com/shahriar-ahmed-seam/agentic-sre-assistant) | 0 | Python | 2026-08-01 | Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a  |
-| 12 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-01 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 13 | [udsy19/resume-builder](https://github.com/udsy19/resume-builder) | 0 | Python | 2026-08-01 | Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai |
-| 14 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-08-01 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
-| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 16 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28466 | Python | 2026-08-01 | Build and run agents you can see, understand and trust. |
-| 17 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 523 | TypeScript | 2026-08-01 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 18 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-08-01 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
-| 19 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5623 | Python | 2026-08-01 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 20 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-01 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 21 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-01 | AI-powered image generation and chat studio |
-| 22 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 23 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-01 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 24 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-08-01 |  |
-| 25 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-01 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 26 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-01 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-01 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-01 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 5 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-01 | Agent 运行时 — 证据化文档排障、Harness/StepWatcher、四套离线 eval、跨仓闭环（非生产沙箱） |
+| 6 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 155 | HTML | 2026-08-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 7 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
+| 8 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 203 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 9 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-01 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 10 | [guvsta/OCRtist](https://github.com/guvsta/OCRtist) | 0 | Python | 2026-08-01 | 基于 Qwen3-VL 多模态大模型的中文票据 OCR 智能体：识别 → 校验 → 纠错 → 进化的多阶段 Agent 闭环流水线，配置驱动支持发票、身份证等多种票种 |
+| 11 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5628 | Python | 2026-08-01 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 12 | [shahriar-ahmed-seam/agentic-sre-assistant](https://github.com/shahriar-ahmed-seam/agentic-sre-assistant) | 0 | Python | 2026-08-01 | Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a  |
+| 13 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-01 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 14 | [udsy19/resume-builder](https://github.com/udsy19/resume-builder) | 0 | Python | 2026-08-01 | Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai |
+| 15 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-08-01 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 17 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28466 | Python | 2026-08-01 | Build and run agents you can see, understand and trust. |
+| 18 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 523 | TypeScript | 2026-08-01 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 19 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-08-01 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
+| 20 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5623 | Python | 2026-08-01 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 21 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-01 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 22 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-01 | AI-powered image generation and chat studio |
+| 23 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 24 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-01 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 25 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-08-01 |  |
+| 26 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-01 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 27 | [bitranox/vnc-remote-control](https://github.com/bitranox/vnc-remote-control) | 0 | Python | 2026-08-01 | Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server. |
 | 28 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-08-01 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
 | 29 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-08-01 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
