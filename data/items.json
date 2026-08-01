@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a ",
+    "id": "shahriar-ahmed-seam/agentic-sre-assistant",
+    "language": "Python",
+    "name": "shahriar-ahmed-seam/agentic-sre-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-01T02:29:12Z",
+    "url": "https://github.com/shahriar-ahmed-seam/agentic-sre-assistant"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 521,
+    "updated_at": "2026-08-01T02:18:32Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
     "id": "ateliertoby/first-reader",
     "language": "JavaScript",
@@ -13,7 +31,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5621,
+    "stars": 5622,
     "updated_at": "2026-08-01T02:12:00Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-08-01T02:07:53Z",
+    "updated_at": "2026-08-01T02:15:32Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -59,7 +77,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T02:09:08Z",
+    "updated_at": "2026-08-01T02:24:10Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 9,
     "updated_at": "2026-08-01T01:58:38Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a ",
-    "id": "shahriar-ahmed-seam/agentic-sre-assistant",
-    "language": "Python",
-    "name": "shahriar-ahmed-seam/agentic-sre-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:58:28Z",
-    "url": "https://github.com/shahriar-ahmed-seam/agentic-sre-assistant"
   },
   {
     "description": "",
@@ -358,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T19:45:13Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 521,
-    "updated_at": "2026-07-31T19:35:27Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
