@@ -1,11 +1,38 @@
 [
   {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:19:28Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-01T10:18:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "vstorm-co/awesome-pydantic-ai",
+    "stars": 97,
+    "updated_at": "2026-08-01T10:17:33Z",
+    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
+  },
+  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-08-01T10:14:37Z",
+    "updated_at": "2026-08-01T10:21:07Z",
     "url": "https://github.com/amemhq/amem"
   },
   {
@@ -43,24 +70,6 @@
     "stars": 155,
     "updated_at": "2026-08-01T09:56:23Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-08-01T09:55:52Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-01T09:58:40Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
@@ -166,7 +175,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28471,
+    "stars": 28472,
     "updated_at": "2026-08-01T08:47:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T01:23:39Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-08-01T01:02:27Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
   }
 ]
