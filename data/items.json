@@ -1,5 +1,14 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 484,
+    "updated_at": "2026-08-01T16:20:51Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -319,7 +328,7 @@
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
-    "stars": 130,
+    "stars": 131,
     "updated_at": "2026-08-01T10:54:34Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T08:32:19Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:08:52Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   }
 ]
