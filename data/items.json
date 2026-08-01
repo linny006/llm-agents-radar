@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "stellaappiok/simple-ai-research-agent",
     "stars": 0,
-    "updated_at": "2026-07-31T23:45:13Z",
+    "updated_at": "2026-07-31T23:59:54Z",
     "url": "https://github.com/stellaappiok/simple-ai-research-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:56:34Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:52:11Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
+    "id": "mariarodr1136/Clay",
+    "language": "TypeScript",
+    "name": "mariarodr1136/Clay",
+    "stars": 0,
+    "updated_at": "2026-07-31T23:50:39Z",
+    "url": "https://github.com/mariarodr1136/Clay"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:50:11Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Ediebah/clinical-insight-agent",
     "stars": 1,
-    "updated_at": "2026-07-31T23:41:12Z",
+    "updated_at": "2026-07-31T23:57:20Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:27:10Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T23:09:53Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-31T22:51:16Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T22:09:56Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-07-31T22:06:56Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-31T12:22:41Z",
     "url": "https://github.com/saas-claw/saasclaw"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1634,
-    "updated_at": "2026-07-31T11:52:01Z",
-    "url": "https://github.com/AgentEra/Agently"
   }
 ]
