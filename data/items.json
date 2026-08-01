@@ -1,5 +1,41 @@
 [
   {
+    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
+    "id": "bydesign21/open-agent-sync",
+    "language": "Rust",
+    "name": "bydesign21/open-agent-sync",
+    "stars": 0,
+    "updated_at": "2026-08-01T13:43:49Z",
+    "url": "https://github.com/bydesign21/open-agent-sync"
+  },
+  {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-08-01T13:38:44Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-01T13:32:31Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Custom AWS Transform agent that migrates PyTorch/Triton kernels to AWS Trainium NKI (@nki.jit) and compiles, numerically",
+    "id": "aws-samples/sample-ATX-custom-NKI-Agent",
+    "language": "Python",
+    "name": "aws-samples/sample-ATX-custom-NKI-Agent",
+    "stars": 4,
+    "updated_at": "2026-08-01T13:34:20Z",
+    "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -43,15 +79,6 @@
     "stars": 156,
     "updated_at": "2026-08-01T13:15:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-08-01T13:15:16Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -189,15 +216,6 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "Custom AWS Transform agent that migrates PyTorch/Triton kernels to AWS Trainium NKI (@nki.jit) and compiles, numerically",
-    "id": "aws-samples/sample-ATX-custom-NKI-Agent",
-    "language": "Python",
-    "name": "aws-samples/sample-ATX-custom-NKI-Agent",
-    "stars": 4,
-    "updated_at": "2026-08-01T11:19:50Z",
-    "url": "https://github.com/aws-samples/sample-ATX-custom-NKI-Agent"
-  },
-  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -277,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T10:04:24Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:49:50Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
   },
   {
     "description": "Octomind Agents Registry",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-01T05:09:45Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Agentic one-page LaTeX resume builder. Compiles the PDF to measure page fit instead of guessing, judges every draft agai",
-    "id": "udsy19/resume-builder",
-    "language": "Python",
-    "name": "udsy19/resume-builder",
-    "stars": 0,
-    "updated_at": "2026-08-01T04:49:32Z",
-    "url": "https://github.com/udsy19/resume-builder"
   }
 ]
