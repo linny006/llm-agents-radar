@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-01T05:29:50Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -162,15 +171,6 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-01T05:13:35Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -184,7 +184,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28466,
+    "stars": 28467,
     "updated_at": "2026-08-01T02:34:39Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -193,7 +193,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 523,
+    "stars": 524,
     "updated_at": "2026-08-01T02:18:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -225,12 +225,21 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 60,
+    "updated_at": "2026-08-01T02:02:43Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-01T04:33:19Z",
+    "updated_at": "2026-08-01T05:21:41Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -436,17 +445,8 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6756,
+    "stars": 6757,
     "updated_at": "2026-07-31T21:10:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Build your own Hermes Agent SaaS. Open-source, self-hosted, multi-tenant agent platform on Nous Research's hermes-agent:",
-    "id": "kwkuh/chathermes",
-    "language": "TypeScript",
-    "name": "kwkuh/chathermes",
-    "stars": 7,
-    "updated_at": "2026-07-31T20:52:48Z",
-    "url": "https://github.com/kwkuh/chathermes"
   }
 ]
