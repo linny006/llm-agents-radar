@@ -1,5 +1,50 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-01T20:30:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-01T20:29:13Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
+    "id": "vstorm-co/awesome-pydantic-ai",
+    "language": "\u2014",
+    "name": "vstorm-co/awesome-pydantic-ai",
+    "stars": 97,
+    "updated_at": "2026-08-01T20:26:26Z",
+    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
+  },
+  {
+    "description": "RAG-based question answering over the metagenomics literature",
+    "id": "nesirli/meta-scholar",
+    "language": "Python",
+    "name": "nesirli/meta-scholar",
+    "stars": 1,
+    "updated_at": "2026-08-01T20:26:14Z",
+    "url": "https://github.com/nesirli/meta-scholar"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-08-01T20:16:08Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "A fast and minimal agent library for typescript and rust",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -63,15 +108,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 55,
-    "updated_at": "2026-08-01T19:46:59Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
@@ -88,15 +124,6 @@
     "stars": 205,
     "updated_at": "2026-08-01T19:40:47Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-01T19:35:19Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -166,7 +193,7 @@
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 24047,
+    "stars": 24048,
     "updated_at": "2026-08-01T18:24:30Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T18:08:14Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "RAG-based question answering over the metagenomics literature",
-    "id": "nesirli/meta-scholar",
-    "language": "Python",
-    "name": "nesirli/meta-scholar",
-    "stars": 1,
-    "updated_at": "2026-08-01T17:54:19Z",
-    "url": "https://github.com/nesirli/meta-scholar"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -401,7 +419,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-01T19:49:46Z",
+    "updated_at": "2026-08-01T20:22:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T13:02:41Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "The open-source control plane for AI agents \u2014 skill routing, context governance, trustworthy execution, evidence, securi",
-    "id": "Nolane-x/forge-os",
-    "language": "JavaScript",
-    "name": "Nolane-x/forge-os",
-    "stars": 10,
-    "updated_at": "2026-08-01T12:25:23Z",
-    "url": "https://github.com/Nolane-x/forge-os"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-01T12:45:40Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   }
 ]
