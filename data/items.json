@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-01T23:21:42Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:17:16Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:23:36Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-01T23:15:31Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -133,15 +169,6 @@
     "stars": 18,
     "updated_at": "2026-08-01T21:27:28Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-01T21:11:59Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -421,32 +448,5 @@
     "stars": 60,
     "updated_at": "2026-08-01T14:02:07Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 5,
-    "updated_at": "2026-08-01T13:50:46Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-01T23:12:47Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
-  },
-  {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-08-01T13:47:18Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
   }
 ]
