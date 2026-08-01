@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 19:51 UTC
+> ⏰ Last updated: 2026-08-01 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-08-01 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 3 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 55 | TypeScript | 2026-08-01 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
-| 4 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 76 | Python | 2026-08-01 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 5 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 205 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 7 | [sky-valley/pi](https://github.com/sky-valley/pi) | 23 | Go | 2026-08-01 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
-| 8 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 0 | Python | 2026-08-01 | Demon Cry — это автономный OSINT-агент, который использует LLM для проведения расследований в открытых источниках. |
-| 9 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 2 | Kotlin | 2026-08-01 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-08-01 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
-| 14 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-01 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 15 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-01 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 1 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-01 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 2 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-01 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-01 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 25 | Python | 2026-08-01 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 5 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 55 | TypeScript | 2026-08-01 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
+| 6 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 76 | Python | 2026-08-01 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 7 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 205 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-01 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 9 | [sky-valley/pi](https://github.com/sky-valley/pi) | 23 | Go | 2026-08-01 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
+| 10 | [Mooncore-inc/demon-cry](https://github.com/Mooncore-inc/demon-cry) | 0 | Python | 2026-08-01 | Demon Cry — это автономный OSINT-агент, который использует LLM для проведения расследований в открытых источниках. |
+| 11 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 2 | Kotlin | 2026-08-01 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-01 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-08-01 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-01 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
 | 16 | [letta-ai/letta](https://github.com/letta-ai/letta) | 24047 | Python | 2026-08-01 | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. |
 | 17 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-01 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 18 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-01 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
