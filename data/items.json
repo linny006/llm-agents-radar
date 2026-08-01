@@ -1,5 +1,14 @@
 [
   {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-08-01T16:29:17Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:43:27Z",
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 1,
-    "updated_at": "2026-08-01T08:32:19Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   }
 ]
