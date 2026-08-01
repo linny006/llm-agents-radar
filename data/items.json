@@ -1,5 +1,41 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-01T18:27:38Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 55,
+    "updated_at": "2026-08-01T18:27:10Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "id": "letta-ai/letta",
+    "language": "Python",
+    "name": "letta-ai/letta",
+    "stars": 24048,
+    "updated_at": "2026-08-01T18:24:30Z",
+    "url": "https://github.com/letta-ai/letta"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-01T18:16:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -7,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T18:12:20Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-01T18:10:17Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -72,21 +99,12 @@
     "url": "https://github.com/nesirli/meta-scholar"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 55,
-    "updated_at": "2026-08-01T17:42:36Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-01T17:41:17Z",
+    "updated_at": "2026-08-01T18:21:35Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 22,
     "updated_at": "2026-08-01T17:41:09Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-01T17:42:16Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -439,14 +448,5 @@
     "stars": 205,
     "updated_at": "2026-08-01T10:31:41Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
-    "id": "vstorm-co/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "vstorm-co/awesome-pydantic-ai",
-    "stars": 97,
-    "updated_at": "2026-08-01T10:17:33Z",
-    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
   }
 ]
