@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-01T09:10:55Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-01T09:08:51Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A safety-constrained coding agent for FastAPI defect diagnosis, isolated repair, revision-aware validation, human approv",
+    "id": "jbq8814-lab/FastFix",
+    "language": "Python",
+    "name": "jbq8814-lab/FastFix",
+    "stars": 1,
+    "updated_at": "2026-08-01T09:03:19Z",
+    "url": "https://github.com/jbq8814-lab/FastFix"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 203,
+    "updated_at": "2026-08-01T09:02:45Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
     "description": "Async-first Python platform for composable LLM agents and multi-agent workflows, with pluggable provider integrations (L",
     "id": "Mathieu-Le-Gouill/Agent-Platform",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T08:57:14Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-01T08:54:38Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T07:45:38Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-01T08:41:22Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -297,15 +315,6 @@
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 203,
-    "updated_at": "2026-08-01T03:55:26Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:49:19Z",
     "url": "https://github.com/Shomao1998/adpilot"
-  },
-  {
-    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
-    "id": "chan-monk/chan-monk",
-    "language": "\u2014",
-    "name": "chan-monk/chan-monk",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:36:53Z",
-    "url": "https://github.com/chan-monk/chan-monk"
   }
 ]
