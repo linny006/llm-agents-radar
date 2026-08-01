@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
+    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
+    "id": "chan-monk/chan-monk",
+    "language": "\u2014",
+    "name": "chan-monk/chan-monk",
+    "stars": 0,
+    "updated_at": "2026-08-01T00:31:13Z",
+    "url": "https://github.com/chan-monk/chan-monk"
+  },
+  {
+    "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
+    "id": "Hereon-InstituteMS/OASiS",
     "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 1,
-    "updated_at": "2026-08-01T00:08:13Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
+    "name": "Hereon-InstituteMS/OASiS",
+    "stars": 14,
+    "updated_at": "2026-08-01T00:30:03Z",
+    "url": "https://github.com/Hereon-InstituteMS/OASiS"
   },
   {
     "description": "A command-line research assistant built with LangChain and Gemini that searches the web and Wikipedia, then returns stru",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "stellaappiok/simple-ai-research-agent",
     "stars": 0,
-    "updated_at": "2026-08-01T00:07:38Z",
+    "updated_at": "2026-08-01T00:15:50Z",
     "url": "https://github.com/stellaappiok/simple-ai-research-agent"
+  },
+  {
+    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
+    "id": "Ediebah/clinical-insight-agent",
+    "language": "Python",
+    "name": "Ediebah/clinical-insight-agent",
+    "stars": 1,
+    "updated_at": "2026-08-01T00:08:13Z",
+    "url": "https://github.com/Ediebah/clinical-insight-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -238,7 +256,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 519,
+    "stars": 520,
     "updated_at": "2026-07-31T19:35:27Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 21,
     "updated_at": "2026-07-31T12:35:39Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
-    "id": "Mohitcr7/Credit-Risk-Underwriting-Engine",
-    "language": "Python",
-    "name": "Mohitcr7/Credit-Risk-Underwriting-Engine",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:24:12Z",
-    "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
-  },
-  {
-    "description": "SaaSClaw \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
-    "id": "saas-claw/saasclaw",
-    "language": "Python",
-    "name": "saas-claw/saasclaw",
-    "stars": 1,
-    "updated_at": "2026-07-31T12:22:41Z",
-    "url": "https://github.com/saas-claw/saasclaw"
   }
 ]
