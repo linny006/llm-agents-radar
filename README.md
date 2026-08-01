@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-01 04:00 UTC
+> ⏰ Last updated: 2026-08-01 04:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 203 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 2 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-01 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 3 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
+| 1 | [Grizzly-Endeavors/grizzly-gameservers](https://github.com/Grizzly-Endeavors/grizzly-gameservers) | 0 | Rust | 2026-08-01 | Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary) |
+| 2 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 203 | Python | 2026-08-01 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 3 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-01 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 4 | [guvsta/OCRtist](https://github.com/guvsta/OCRtist) | 0 | Python | 2026-08-01 | 基于 Qwen3-VL 多模态大模型的中文票据 OCR 智能体：识别 → 校验 → 纠错 → 进化的多阶段 Agent 闭环流水线，配置驱动支持发票、身份证等多种票种 |
 | 5 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5628 | Python | 2026-08-01 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 6 | [shahriar-ahmed-seam/agentic-sre-assistant](https://github.com/shahriar-ahmed-seam/agentic-sre-assistant) | 0 | Python | 2026-08-01 | Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a  |

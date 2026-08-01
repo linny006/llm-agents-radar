@@ -1,5 +1,14 @@
 [
   {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-08-01T04:02:55Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 11,
     "updated_at": "2026-08-01T03:55:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-08-01T03:42:14Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
     "description": "\u57fa\u4e8e Qwen3-VL \u591a\u6a21\u6001\u5927\u6a21\u578b\u7684\u4e2d\u6587\u7968\u636e OCR \u667a\u80fd\u4f53\uff1a\u8bc6\u522b \u2192 \u6821\u9a8c \u2192 \u7ea0\u9519 \u2192 \u8fdb\u5316\u7684\u591a\u9636\u6bb5 Agent \u95ed\u73af\u6d41\u6c34\u7ebf\uff0c\u914d\u7f6e\u9a71\u52a8\u652f\u6301\u53d1\u7968\u3001\u8eab\u4efd\u8bc1\u7b49\u591a\u79cd\u7968\u79cd",
