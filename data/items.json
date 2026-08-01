@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-08-01T09:24:08Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Async-first Python platform for composable LLM agents and multi-agent workflows, with pluggable provider integrations (L",
+    "id": "Mathieu-Le-Gouill/Agent-Platform",
+    "language": "Python",
+    "name": "Mathieu-Le-Gouill/Agent-Platform",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:20:42Z",
+    "url": "https://github.com/Mathieu-Le-Gouill/Agent-Platform"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-01T09:15:40Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
@@ -36,15 +63,6 @@
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
-    "description": "Async-first Python platform for composable LLM agents and multi-agent workflows, with pluggable provider integrations (L",
-    "id": "Mathieu-Le-Gouill/Agent-Platform",
-    "language": "Python",
-    "name": "Mathieu-Le-Gouill/Agent-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-01T08:57:40Z",
-    "url": "https://github.com/Mathieu-Le-Gouill/Agent-Platform"
-  },
-  {
     "description": "Agentic-memory stack for LLM agents \u2014 memories evolve, not just accumulate. Graph linking, hybrid retrieval, LLM-driven ",
     "id": "amemhq/amem",
     "language": "TypeScript",
@@ -76,7 +94,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28469,
+    "stars": 28470,
     "updated_at": "2026-08-01T08:47:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -94,7 +112,7 @@
     "id": "xcq20100224/Nolan",
     "language": "Python",
     "name": "xcq20100224/Nolan",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-01T08:37:35Z",
     "url": "https://github.com/xcq20100224/Nolan"
   },
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T07:05:16Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-01T07:04:19Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Awesome papers involving LLMs in Social Science.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T00:49:22Z",
     "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Multimodal ad-delivery agent: generate creatives \u2192 simulate & auto-optimize cross-platform delivery on a data-driven auc",
-    "id": "Shomao1998/adpilot",
-    "language": "Python",
-    "name": "Shomao1998/adpilot",
-    "stars": 0,
-    "updated_at": "2026-08-01T00:49:19Z",
-    "url": "https://github.com/Shomao1998/adpilot"
   }
 ]
