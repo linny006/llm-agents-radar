@@ -1,5 +1,14 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-01T11:38:59Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -158,17 +167,8 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-08-01T10:19:28Z",
+    "updated_at": "2026-08-01T11:40:37Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-01T11:38:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
