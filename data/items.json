@@ -1,5 +1,14 @@
 [
   {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:15:49Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -25,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:10:47Z",
     "url": "https://github.com/shahriar-ahmed-seam/agentic-sre-assistant"
+  },
+  {
+    "description": "\u57fa\u4e8e Qwen3-VL \u591a\u6a21\u6001\u5927\u6a21\u578b\u7684\u4e2d\u6587\u7968\u636e OCR \u667a\u80fd\u4f53\uff1a\u8bc6\u522b \u2192 \u6821\u9a8c \u2192 \u7ea0\u9519 \u2192 \u8fdb\u5316\u7684\u591a\u9636\u6bb5 Agent \u95ed\u73af\u6d41\u6c34\u7ebf\uff0c\u914d\u7f6e\u9a71\u52a8\u652f\u6301\u53d1\u7968\u3001\u8eab\u4efd\u8bc1\u7b49\u591a\u79cd\u7968\u79cd",
+    "id": "guvsta/OCRtist",
+    "language": "Python",
+    "name": "guvsta/OCRtist",
+    "stars": 0,
+    "updated_at": "2026-08-01T03:23:51Z",
+    "url": "https://github.com/guvsta/OCRtist"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-07-31T17:41:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4373,
-    "updated_at": "2026-08-01T01:50:31Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 21,
-    "updated_at": "2026-07-31T17:32:57Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   }
 ]
