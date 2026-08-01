@@ -1,5 +1,23 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 524,
+    "updated_at": "2026-08-01T06:45:13Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-08-01T06:39:32Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 2,
     "updated_at": "2026-08-01T06:13:33Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-08-01T05:56:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -225,15 +234,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 524,
-    "updated_at": "2026-08-01T02:18:32Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
     "id": "ateliertoby/first-reader",
     "language": "JavaScript",
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-01T05:21:41Z",
+    "updated_at": "2026-08-01T06:42:05Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
