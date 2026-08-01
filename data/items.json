@@ -1,11 +1,29 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-01T03:14:34Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5628,
+    "updated_at": "2026-08-01T03:12:18Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Agentic SRE assistant: LangGraph tool-calling agent that reads Prometheus/Loki telemetry, diagnoses incidents against a ",
     "id": "shahriar-ahmed-seam/agentic-sre-assistant",
     "language": "Python",
     "name": "shahriar-ahmed-seam/agentic-sre-assistant",
     "stars": 0,
-    "updated_at": "2026-08-01T02:57:47Z",
+    "updated_at": "2026-08-01T03:10:47Z",
     "url": "https://github.com/shahriar-ahmed-seam/agentic-sre-assistant"
   },
   {
@@ -18,21 +36,12 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-01T02:52:01Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T02:46:11Z",
+    "updated_at": "2026-08-01T03:03:50Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -58,7 +67,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 521,
+    "stars": 522,
     "updated_at": "2026-08-01T02:18:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -76,7 +85,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5622,
+    "stars": 5623,
     "updated_at": "2026-08-01T02:12:00Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -266,7 +275,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-01T01:24:44Z",
+    "updated_at": "2026-08-01T03:13:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T19:45:13Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5628,
-    "updated_at": "2026-07-31T19:18:22Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A DJ that starts with no taste. Runs a live set for one person \u2014 reads what they're actually doing instead of asking, pl",
