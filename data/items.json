@@ -1,5 +1,32 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-01T15:39:50Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-01T15:35:46Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-01T15:30:37Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 54,
     "updated_at": "2026-08-01T14:17:36Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-01T14:16:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -288,15 +306,6 @@
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-01T11:19:28Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T15:15:23Z",
+    "updated_at": "2026-08-01T15:41:37Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 20,
     "updated_at": "2026-08-01T11:34:59Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-01T07:36:31Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
