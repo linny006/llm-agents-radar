@@ -1,5 +1,14 @@
 [
   {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-08-01T23:07:24Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -61,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T22:28:39Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-08-01T22:25:17Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "issumer-ku/OSWorld-gui-tool",
     "stars": 0,
-    "updated_at": "2026-08-01T13:48:40Z",
+    "updated_at": "2026-08-01T23:12:47Z",
     "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   },
   {
