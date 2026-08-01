@@ -1,5 +1,50 @@
 [
   {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:56:53Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "krishagarwal314/CodeJury",
+    "language": "Python",
+    "name": "krishagarwal314/CodeJury",
+    "stars": 129,
+    "updated_at": "2026-08-01T10:54:34Z",
+    "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-01T10:53:16Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "A fast and minimal agent library for typescript and rust",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-08-01T10:53:34Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-01T10:50:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
     "id": "WayneStr/Bellwether",
     "language": "Python",
@@ -23,17 +68,8 @@
     "language": "TypeScript",
     "name": "amemhq/amem",
     "stars": 2,
-    "updated_at": "2026-08-01T10:41:10Z",
+    "updated_at": "2026-08-01T10:51:28Z",
     "url": "https://github.com/amemhq/amem"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 129,
-    "updated_at": "2026-08-01T10:36:09Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:20:42Z",
     "url": "https://github.com/Mathieu-Le-Gouill/Agent-Platform"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-01T09:15:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 176,
-    "updated_at": "2026-08-01T07:20:16Z",
+    "updated_at": "2026-08-01T10:59:53Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T03:10:47Z",
     "url": "https://github.com/shahriar-ahmed-seam/agentic-sre-assistant"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-08-01T02:52:32Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
-    "id": "ateliertoby/first-reader",
-    "language": "JavaScript",
-    "name": "ateliertoby/first-reader",
-    "stars": 0,
-    "updated_at": "2026-08-01T02:14:18Z",
-    "url": "https://github.com/ateliertoby/first-reader"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5623,
-    "updated_at": "2026-08-01T02:12:00Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
