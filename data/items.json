@@ -1,12 +1,39 @@
 [
   {
+    "description": "Data-agnostic Agentic RAG with hybrid BM25, Chroma, and Neo4j retrieval, source verification, bounded retries, and AWS E",
+    "id": "navneet-singh2907/GraphMind",
+    "language": "Python",
+    "name": "navneet-singh2907/GraphMind",
+    "stars": 0,
+    "updated_at": "2026-08-01T17:12:52Z",
+    "url": "https://github.com/navneet-singh2907/GraphMind"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-01T17:12:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Multi-provider, hot self-mutating agent with async REPL CLI (auto-detaching tool calls) and bidirectionally communicatin",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 25,
-    "updated_at": "2026-08-01T16:58:40Z",
+    "updated_at": "2026-08-01T17:10:34Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-01T17:12:15Z",
+    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -45,15 +72,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:46:22Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-01T16:36:26Z",
+    "updated_at": "2026-08-01T17:13:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-08-01T16:12:48Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-01T16:08:18Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -176,7 +185,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-01T15:53:16Z",
+    "updated_at": "2026-08-01T17:12:46Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-01T09:20:42Z",
     "url": "https://github.com/Mathieu-Le-Gouill/Agent-Platform"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:01:01Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   }
 ]
