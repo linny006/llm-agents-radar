@@ -1,11 +1,56 @@
 [
   {
+    "description": "An email first-reader agent for Outlook.com \u2014 a secretary, not a court reporter",
+    "id": "ateliertoby/first-reader",
+    "language": "JavaScript",
+    "name": "ateliertoby/first-reader",
+    "stars": 0,
+    "updated_at": "2026-08-01T02:14:18Z",
+    "url": "https://github.com/ateliertoby/first-reader"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5621,
+    "updated_at": "2026-08-01T02:12:00Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-01T02:05:50Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-01T02:01:30Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-01T02:00:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-08-01T01:59:48Z",
+    "updated_at": "2026-08-01T02:07:53Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -14,7 +59,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-01T01:59:44Z",
+    "updated_at": "2026-08-01T02:09:08Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-07-31T23:52:11Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A project tracker where the UI isn't fixed \u2014 describe the dashboard you want, and a Claude-powered agent builds it live ",
     "id": "mariarodr1136/Clay",
     "language": "TypeScript",
@@ -196,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-01T01:24:44Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:17:59Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-07-31T18:39:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
-    "id": "Underline-1024/loom-engine",
-    "language": "Rust",
-    "name": "Underline-1024/loom-engine",
-    "stars": 5,
-    "updated_at": "2026-07-31T16:17:29Z",
-    "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-07-31T16:14:10Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16099,
-    "updated_at": "2026-07-31T16:11:55Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
