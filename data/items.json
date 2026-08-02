@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-02T05:34:46Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
     "id": "juzikuwei/tech-radar-agent",
     "language": "Python",
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T05:19:14Z",
+    "updated_at": "2026-08-02T05:43:31Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -365,7 +374,7 @@
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 34,
-    "updated_at": "2026-08-01T22:02:47Z",
+    "updated_at": "2026-08-02T05:36:12Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 56,
     "updated_at": "2026-08-01T20:16:08Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "A fast and minimal agent library for typescript and rust",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-08-01T20:13:29Z",
-    "url": "https://github.com/codex-mohan/spectra"
   }
 ]
