@@ -1,5 +1,32 @@
 [
   {
+    "description": "RAG-based question answering app over the metagenomics literature",
+    "id": "nesirli/meta-scholar",
+    "language": "Python",
+    "name": "nesirli/meta-scholar",
+    "stars": 1,
+    "updated_at": "2026-08-02T15:12:28Z",
+    "url": "https://github.com/nesirli/meta-scholar"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:10:11Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-02T15:01:29Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -36,15 +63,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "RAG-based question answering app over the metagenomics literature",
-    "id": "nesirli/meta-scholar",
-    "language": "Python",
-    "name": "nesirli/meta-scholar",
-    "stars": 1,
-    "updated_at": "2026-08-02T14:48:09Z",
-    "url": "https://github.com/nesirli/meta-scholar"
-  },
-  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T14:36:52Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-02T14:34:49Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -167,7 +176,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-02T13:39:00Z",
+    "updated_at": "2026-08-02T15:09:10Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -247,7 +256,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5632,
+    "stars": 5633,
     "updated_at": "2026-08-02T12:53:04Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -333,15 +342,6 @@
     "url": "https://github.com/shimo4228/human-gate"
   },
   {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-02T11:39:05Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -373,7 +373,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16107,
+    "stars": 16108,
     "updated_at": "2026-08-02T09:57:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
