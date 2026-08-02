@@ -1,5 +1,14 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:12:14Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
     "id": "RudrenduPaul/agent-eval",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 156,
     "updated_at": "2026-08-02T22:54:35Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:52:36Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
