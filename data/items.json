@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:57:05Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-02T16:56:33Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:56:05Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:53:43Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 25,
+    "updated_at": "2026-08-02T16:52:34Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "Agent-driven, provenance-first job feed & explainable recommender for China campus recruitment (\u79cb\u62db). Ingests official AT",
     "id": "Xplore-LAB/careerflow-agent",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:49:13Z",
     "url": "https://github.com/Xplore-LAB/careerflow-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:42:13Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:33:35Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-02T16:27:58Z",
+    "updated_at": "2026-08-02T16:58:48Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-08-02T16:26:09Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-02T16:14:27Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -405,15 +423,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-08-02T11:49:36Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction",
     "id": "Abdulrahman0Khaled/youtube2skills",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 4374,
     "updated_at": "2026-08-02T11:31:58Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
-    "id": "NeoTheCapt/RedteamAgent",
-    "language": "Python",
-    "name": "NeoTheCapt/RedteamAgent",
-    "stars": 104,
-    "updated_at": "2026-08-02T10:01:53Z",
-    "url": "https://github.com/NeoTheCapt/RedteamAgent"
   }
 ]
