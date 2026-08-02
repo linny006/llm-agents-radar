@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted web search for AI agents",
+    "id": "WinPooh32/searxng-mcp",
+    "language": "Go",
+    "name": "WinPooh32/searxng-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:57:40Z",
+    "url": "https://github.com/WinPooh32/searxng-mcp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:57:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T11:53:11Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-02T11:50:58Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-08-02T11:49:36Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction",
+    "id": "Abdulrahman0Khaled/youtube2skills",
+    "language": "Python",
+    "name": "Abdulrahman0Khaled/youtube2skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T11:48:14Z",
+    "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -25,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T11:39:05Z",
     "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T11:36:09Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -126,15 +171,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:29:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -169,24 +205,6 @@
     "stars": 16107,
     "updated_at": "2026-08-02T09:57:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-02T11:07:07Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction",
-    "id": "Abdulrahman0Khaled/youtube2skills",
-    "language": "Python",
-    "name": "Abdulrahman0Khaled/youtube2skills",
-    "stars": 1,
-    "updated_at": "2026-08-02T09:32:28Z",
-    "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
   },
   {
     "description": "RAG-based question answering over the metagenomics literature",
@@ -261,11 +279,11 @@
     "url": "https://github.com/Yuan-ManX/SparkLabs"
   },
   {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
     "name": "d3stiny-io/aulthium",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-02T07:28:46Z",
     "url": "https://github.com/d3stiny-io/aulthium"
   },
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T09:56:27Z",
+    "updated_at": "2026-08-02T11:53:16Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 148,
     "updated_at": "2026-08-02T03:53:26Z",
     "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-08-02T03:22:25Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Search-engine-free semantic web search as an MCP server: a cheap LLM navigates the live web, a local embedding model ind",
-    "id": "jason920612/websearch-mcp",
-    "language": "Python",
-    "name": "jason920612/websearch-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:19:05Z",
-    "url": "https://github.com/jason920612/websearch-mcp"
   }
 ]
