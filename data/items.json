@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "shanananana/deepticket",
     "stars": 1,
-    "updated_at": "2026-08-02T07:45:00Z",
+    "updated_at": "2026-08-02T07:58:07Z",
     "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:49:14Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
   },
   {
     "description": "The self-improving SRE agent",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T06:23:27Z",
+    "updated_at": "2026-08-02T07:59:12Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T23:07:24Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-01T22:55:37Z",
-    "url": "https://github.com/peder1981/AdvPP"
   }
 ]
