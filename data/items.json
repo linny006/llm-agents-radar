@@ -1,5 +1,41 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:13:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-02T07:12:54Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:05:03Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
+    "id": "bydesign21/open-agent-sync",
+    "language": "Rust",
+    "name": "bydesign21/open-agent-sync",
+    "stars": 0,
+    "updated_at": "2026-08-02T07:03:33Z",
+    "url": "https://github.com/bydesign21/open-agent-sync"
+  },
+  {
     "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
     "id": "mohd-raza/copilot-harness-lab",
     "language": "TypeScript",
@@ -162,15 +198,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:35:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T04:24:54Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-08-02T04:17:53Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
@@ -297,15 +315,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-02T02:06:18Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 6,
-    "updated_at": "2026-08-02T06:56:33Z",
+    "updated_at": "2026-08-02T07:05:48Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-02T05:36:12Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-01T21:59:38Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   }
 ]
