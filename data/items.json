@@ -1,5 +1,32 @@
 [
   {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-02T14:11:42Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-02T14:09:19Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 4,
+    "updated_at": "2026-08-02T14:05:31Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -41,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-02T13:56:48Z",
+    "updated_at": "2026-08-02T14:03:56Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 4,
-    "updated_at": "2026-08-02T10:06:25Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-  },
-  {
     "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
     "id": "NeoTheCapt/RedteamAgent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T06:59:28Z",
     "url": "https://github.com/mohd-raza/copilot-harness-lab"
-  },
-  {
-    "description": "An isolated FastAPI microservice that powers semantic memory, trait extraction, and Qdrant vector synchronization for th",
-    "id": "musiliandrew/Personalization-Engine",
-    "language": "Python",
-    "name": "musiliandrew/Personalization-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:54:06Z",
-    "url": "https://github.com/musiliandrew/Personalization-Engine"
-  },
-  {
-    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
-    "id": "Underline-1024/loom-engine",
-    "language": "Rust",
-    "name": "Underline-1024/loom-engine",
-    "stars": 6,
-    "updated_at": "2026-08-02T06:44:41Z",
-    "url": "https://github.com/Underline-1024/loom-engine"
   }
 ]
