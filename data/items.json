@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13627,
+    "updated_at": "2026-08-02T13:26:53Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:23:50Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
     "id": "Grizzly-Endeavors/grizzly-gameservers",
     "language": "Rust",
     "name": "Grizzly-Endeavors/grizzly-gameservers",
     "stars": 0,
-    "updated_at": "2026-08-02T13:09:53Z",
+    "updated_at": "2026-08-02T13:23:37Z",
     "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:21:48Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-02T13:20:55Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:29:07Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
+    "id": "jarmstrong158/waveform-MCP",
+    "language": "Python",
+    "name": "jarmstrong158/waveform-MCP",
+    "stars": 2,
+    "updated_at": "2026-08-02T13:15:43Z",
+    "url": "https://github.com/jarmstrong158/waveform-MCP"
   },
   {
     "description": "The self-improving SRE agent",
@@ -14,7 +68,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T13:09:49Z",
+    "updated_at": "2026-08-02T13:28:56Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-02T12:58:42Z",
+    "updated_at": "2026-08-02T13:21:26Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/WinPooh32/searxng-mcp"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:55:22Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 2988,
     "updated_at": "2026-08-02T13:06:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-02T12:38:11Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Easy-to-use, high-quality secure code review agent skills. In progress...",
@@ -180,15 +216,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
-    "id": "jarmstrong158/waveform-MCP",
-    "language": "Python",
-    "name": "jarmstrong158/waveform-MCP",
-    "stars": 2,
-    "updated_at": "2026-08-02T13:15:13Z",
-    "url": "https://github.com/jarmstrong158/waveform-MCP"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T12:00:27Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-02T11:57:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -256,7 +274,7 @@
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4373,
+    "stars": 4374,
     "updated_at": "2026-08-02T11:31:58Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -292,7 +310,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16107,
+    "stars": 16108,
     "updated_at": "2026-08-02T09:57:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-02T06:44:41Z",
     "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
-    "id": "kulapoo/opencode-agent-harness",
-    "language": "Python",
-    "name": "kulapoo/opencode-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-08-02T05:59:26Z",
-    "url": "https://github.com/kulapoo/opencode-agent-harness"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-08-02T05:49:55Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   }
 ]
