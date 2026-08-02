@@ -5,8 +5,53 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T19:44:17Z",
+    "updated_at": "2026-08-02T19:59:15Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-02T19:58:04Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:57:41Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-02T19:55:44Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:54:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:45:27Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -18,15 +63,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:38:55Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T19:35:37Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:34:21Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "maok A.I. connects your local Riot Client to any AI model \u2014 including LM Studio, Ollama, vLLM, or the official OpenAI AP",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T18:51:56Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:42:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
@@ -270,15 +288,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 19,
-    "updated_at": "2026-08-02T16:56:33Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-08-02T19:09:27Z",
+    "updated_at": "2026-08-02T19:48:40Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2989,
     "updated_at": "2026-08-02T13:06:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-08-02T13:03:36Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
   }
 ]
