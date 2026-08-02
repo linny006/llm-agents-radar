@@ -1,5 +1,14 @@
 [
   {
+    "description": "ative PowerShell LCU Chatbot for League of Legends powered by local OpenAI-compatible LLMs (LM Studio, Ollama, vLLM)",
+    "id": "mrdevlorx/maokAI",
+    "language": "PowerShell",
+    "name": "mrdevlorx/maokAI",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:28:54Z",
+    "url": "https://github.com/mrdevlorx/maokAI"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -32,7 +41,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-02T18:09:24Z",
+    "updated_at": "2026-08-02T18:19:52Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5633,
     "updated_at": "2026-08-02T18:14:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Easy-to-use, high-quality secure code review agent skills. In progress...",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:21:27Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
   }
 ]
