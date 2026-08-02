@@ -5,7 +5,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-02T03:44:45Z",
+    "updated_at": "2026-08-02T03:53:58Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "hwfengcs/DM-Code-Agent",
     "stars": 148,
-    "updated_at": "2026-08-02T03:30:10Z",
+    "updated_at": "2026-08-02T03:53:26Z",
     "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-08-02T03:50:17Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T01:08:39Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-08-02T00:52:34Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
