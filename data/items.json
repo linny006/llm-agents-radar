@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 4,
+    "updated_at": "2026-08-02T00:52:34Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
     "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
     "id": "issumer-ku/OSWorld-gui-tool",
     "language": "Python",
@@ -43,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T00:35:56Z",
     "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
-  },
-  {
-    "description": "Run Termix AI Agent instantly in Termux with a single command, no manual download required.",
-    "id": "d3stiny-io/aulthium",
-    "language": "Shell",
-    "name": "d3stiny-io/aulthium",
-    "stars": 4,
-    "updated_at": "2026-08-02T00:09:48Z",
-    "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
     "description": "Agent Interface Discovery ",
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-02T00:44:38Z",
+    "updated_at": "2026-08-02T00:59:26Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -169,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-08-01T22:55:37Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "DeepEye: An Autonomous Data Agent System",
+    "id": "HKUSTDial/DeepEye",
+    "language": "Python",
+    "name": "HKUSTDial/DeepEye",
+    "stars": 221,
+    "updated_at": "2026-08-01T22:45:06Z",
+    "url": "https://github.com/HKUSTDial/DeepEye"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-01T16:12:48Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-01T15:35:46Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
