@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 06:00 UTC
+> ⏰ Last updated: 2026-08-02 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -75,7 +75,7 @@ expired items removed — so you can rely on what you see being current.
 | 31 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 4 | TypeScript | 2026-08-02 | Open-source AI automation for SolidWorks — talk to your CAD. |
 | 32 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 6 | Python | 2026-08-02 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
 | 33 | [issumer-ku/OSWorld-gui-tool](https://github.com/issumer-ku/OSWorld-gui-tool) | 0 | Python | 2026-08-02 | Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments |
-| 34 | [Xyntopia/taskyon](https://github.com/Xyntopia/taskyon) | 53 | TypeScript | 2026-08-02 | Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid. |
+| 34 | [Xyntopia/taskyon](https://github.com/Xyntopia/taskyon) | 54 | TypeScript | 2026-08-02 | Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid. |
 | 35 | [Mohitcr7/Credit-Risk-Underwriting-Engine](https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine) | 1 | Python | 2026-08-02 | End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof |
 | 36 | [agentcommunity/agent-identity-discovery](https://github.com/agentcommunity/agent-identity-discovery) | 43 | TypeScript | 2026-08-02 | Agent Interface Discovery  |
 | 37 | [Ediebah/clinical-insight-agent](https://github.com/Ediebah/clinical-insight-agent) | 1 | Python | 2026-08-01 | AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse |
@@ -90,8 +90,8 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 18 | Python | 2026-08-01 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
 | 47 | [sky-valley/pi](https://github.com/sky-valley/pi) | 23 | Go | 2026-08-01 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
 | 48 | [noluyorAbi/autonomous-agent-nightshift](https://github.com/noluyorAbi/autonomous-agent-nightshift) | 0 | Shell | 2026-08-01 | Claude Code skill + npm CLI for running AI agents overnight on your codebase. Write todo with Implementation+Validation  |
-| 49 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-01 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 50 | [vstorm-co/awesome-pydantic-ai](https://github.com/vstorm-co/awesome-pydantic-ai) | 97 | — | 2026-08-01 |  An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.  |
+| 49 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-01 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 50 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-01 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 <!-- TRACKER_TABLE_END -->
 
 ---

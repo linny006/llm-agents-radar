@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T05:43:31Z",
+    "updated_at": "2026-08-02T06:03:34Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -301,7 +301,7 @@
     "id": "Xyntopia/taskyon",
     "language": "TypeScript",
     "name": "Xyntopia/taskyon",
-    "stars": 53,
+    "stars": 54,
     "updated_at": "2026-08-02T00:42:37Z",
     "url": "https://github.com/Xyntopia/taskyon"
   },
@@ -432,6 +432,15 @@
     "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
   },
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-01T20:47:36Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T20:40:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": " An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources. ",
-    "id": "vstorm-co/awesome-pydantic-ai",
-    "language": "\u2014",
-    "name": "vstorm-co/awesome-pydantic-ai",
-    "stars": 97,
-    "updated_at": "2026-08-01T20:26:26Z",
-    "url": "https://github.com/vstorm-co/awesome-pydantic-ai"
   }
 ]
