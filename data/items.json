@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 156,
+    "updated_at": "2026-08-02T14:27:19Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-02T14:18:31Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "Shell",
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-02T14:03:56Z",
+    "updated_at": "2026-08-02T14:24:08Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -180,6 +198,15 @@
     "url": "https://github.com/WinPooh32/searxng-mcp"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5632,
+    "updated_at": "2026-08-02T12:53:04Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -252,24 +279,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-02T12:06:39Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-02T12:01:02Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -283,7 +292,7 @@
     "id": "Abdulrahman0Khaled/youtube2skills",
     "language": "Python",
     "name": "Abdulrahman0Khaled/youtube2skills",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-02T11:48:14Z",
     "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
   },
@@ -342,7 +351,7 @@
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "description": "RAG-based question answering over the metagenomics literature",
+    "description": "RAG-based question answering app over the metagenomics literature",
     "id": "nesirli/meta-scholar",
     "language": "Python",
     "name": "nesirli/meta-scholar",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T07:03:33Z",
     "url": "https://github.com/bydesign21/open-agent-sync"
-  },
-  {
-    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
-    "id": "mohd-raza/copilot-harness-lab",
-    "language": "TypeScript",
-    "name": "mohd-raza/copilot-harness-lab",
-    "stars": 0,
-    "updated_at": "2026-08-02T06:59:28Z",
-    "url": "https://github.com/mohd-raza/copilot-harness-lab"
   }
 ]
