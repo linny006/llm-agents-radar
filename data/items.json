@@ -1,5 +1,14 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-08-02T08:33:44Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T08:26:09Z",
+    "updated_at": "2026-08-02T08:35:03Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -85,7 +94,7 @@
     "id": "shanananana/deepticket",
     "language": "Python",
     "name": "shanananana/deepticket",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-02T08:07:21Z",
     "url": "https://github.com/shanananana/deepticket"
   },
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2987,
-    "updated_at": "2026-08-02T08:21:23Z",
+    "updated_at": "2026-08-02T08:43:54Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 5631,
     "updated_at": "2026-08-02T02:57:16Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-08-02T01:40:35Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
