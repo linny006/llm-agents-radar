@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:29:09Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:29:35Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-02T16:26:51Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-02T16:27:58Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-02T16:26:09Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 8,
     "updated_at": "2026-08-02T16:13:24Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T16:12:16Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T16:02:20Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:08:33Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "From thought to skill. From signal to structure.",
@@ -153,15 +180,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-02T15:40:09Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -202,7 +220,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13627,
+    "stars": 13628,
     "updated_at": "2026-08-02T15:18:36Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T16:10:36Z",
+    "updated_at": "2026-08-02T16:23:53Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 794,
     "updated_at": "2026-08-02T14:40:42Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
-    "id": "Grizzly-Endeavors/grizzly-gameservers",
-    "language": "Rust",
-    "name": "Grizzly-Endeavors/grizzly-gameservers",
-    "stars": 0,
-    "updated_at": "2026-08-02T13:33:16Z",
-    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
   },
   {
     "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
@@ -358,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T12:21:27Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-02T16:09:59Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
