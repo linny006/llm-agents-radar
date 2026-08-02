@@ -1,11 +1,47 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-02T11:42:46Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Always-loaded rule + deterministic hook fixing the second axis of an agent's approval gate: machines own artifact correc",
+    "id": "shimo4228/human-gate",
+    "language": "Shell",
+    "name": "shimo4228/human-gate",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:40:14Z",
+    "url": "https://github.com/shimo4228/human-gate"
+  },
+  {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:39:05Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T11:36:09Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4373,
-    "updated_at": "2026-08-02T11:29:25Z",
+    "updated_at": "2026-08-02T11:31:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -36,38 +72,20 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:20:38Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2988,
-    "updated_at": "2026-08-02T11:22:58Z",
+    "updated_at": "2026-08-02T11:42:17Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T11:17:44Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
     "id": "xcq20100224/Nolan",
     "language": "Python",
     "name": "xcq20100224/Nolan",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-08-02T11:11:26Z",
     "url": "https://github.com/xcq20100224/Nolan"
   },
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T10:29:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:12:34Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T03:19:05Z",
     "url": "https://github.com/jason920612/websearch-mcp"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:25:20Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   }
 ]
