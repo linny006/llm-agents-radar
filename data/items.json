@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-02T22:57:11Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
+    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
+    "id": "RudrenduPaul/agent-eval",
+    "language": "Python",
+    "name": "RudrenduPaul/agent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:04:34Z",
+    "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
     "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "Fikerdeep/document-intelligence-refinery",
     "stars": 0,
-    "updated_at": "2026-08-02T22:54:56Z",
+    "updated_at": "2026-08-02T23:04:31Z",
     "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
+  },
+  {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T23:00:06Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-02T22:57:11Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -54,31 +72,13 @@
     "url": "https://github.com/krishagarwal314/CodeJury"
   },
   {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:00:06Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-02T22:44:27Z",
+    "updated_at": "2026-08-02T23:03:12Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:44:04Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-02T22:32:30Z",
+    "updated_at": "2026-08-02T23:02:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
