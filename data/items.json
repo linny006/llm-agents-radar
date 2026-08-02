@@ -1,5 +1,14 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 6,
+    "updated_at": "2026-08-02T01:40:35Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T16:13:15Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 6,
-    "updated_at": "2026-08-01T16:12:48Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   }
 ]
