@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "jordanahern2009-svg/Tokio-ai",
     "stars": 1,
-    "updated_at": "2026-08-02T20:28:55Z",
+    "updated_at": "2026-08-02T20:43:10Z",
     "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:41:37Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-02T20:32:07Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The self-improving SRE agent",
@@ -14,8 +32,17 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T20:28:11Z",
+    "updated_at": "2026-08-02T20:30:51Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "A Python AI coding agent with tool calling, safe file operations, and multi-step agent loops.",
+    "id": "antonisloukis/bootdev-ai-agent",
+    "language": "Python",
+    "name": "antonisloukis/bootdev-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-02T20:25:16Z",
+    "url": "https://github.com/antonisloukis/bootdev-ai-agent"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T19:41:01Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:35:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "maok A.I. connects your local Riot Client to any AI model \u2014 including LM Studio, Ollama, vLLM, or the official OpenAI AP",
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-02T20:15:18Z",
+    "updated_at": "2026-08-02T20:42:36Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 9,
     "updated_at": "2026-08-02T17:40:47Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:53:43Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Agent-driven, provenance-first job feed & explainable recommender for China campus recruitment (\u79cb\u62db). Ingests official AT",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T13:15:43Z",
     "url": "https://github.com/jarmstrong158/waveform-MCP"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2989,
-    "updated_at": "2026-08-02T13:06:37Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
