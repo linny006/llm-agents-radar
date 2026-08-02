@@ -1,12 +1,30 @@
 [
   {
+    "description": "Search-engine-free semantic web search as an MCP server: a cheap LLM navigates the live web, a local embedding model ind",
+    "id": "jason920612/websearch-mcp",
+    "language": "Python",
+    "name": "jason920612/websearch-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-02T03:08:36Z",
+    "url": "https://github.com/jason920612/websearch-mcp"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-02T03:00:10Z",
+    "updated_at": "2026-08-02T03:14:11Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Safe execution harness for LLM agents operating on local workspaces.",
+    "id": "zhangyi-nb1/localflow",
+    "language": "Python",
+    "name": "zhangyi-nb1/localflow",
+    "stars": 0,
+    "updated_at": "2026-08-02T03:02:30Z",
+    "url": "https://github.com/zhangyi-nb1/localflow"
   },
   {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
@@ -22,7 +40,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5630,
+    "stars": 5631,
     "updated_at": "2026-08-02T02:57:16Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -167,7 +185,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-02T02:38:35Z",
+    "updated_at": "2026-08-02T03:03:48Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-01T23:41:57Z",
+    "updated_at": "2026-08-02T03:13:26Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-01T17:41:09Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Data-agnostic Agentic RAG with hybrid BM25, Chroma, and Neo4j retrieval, source verification, bounded retries, and AWS E",
-    "id": "navneet-singh2907/GraphMind",
-    "language": "Python",
-    "name": "navneet-singh2907/GraphMind",
-    "stars": 0,
-    "updated_at": "2026-08-01T17:12:52Z",
-    "url": "https://github.com/navneet-singh2907/GraphMind"
-  },
-  {
-    "description": "Experimental browser automation agent with Playwright, accessibility-tree grounding and LLM-guided planning.",
-    "id": "pelehatyjvadim0/SyncJarvis",
-    "language": "Python",
-    "name": "pelehatyjvadim0/SyncJarvis",
-    "stars": 0,
-    "updated_at": "2026-08-01T16:51:25Z",
-    "url": "https://github.com/pelehatyjvadim0/SyncJarvis"
   }
 ]
