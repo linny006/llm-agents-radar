@@ -1,5 +1,14 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-02T20:06:42Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T19:57:41Z",
     "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-02T19:55:44Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
