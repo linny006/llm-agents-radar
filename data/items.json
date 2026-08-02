@@ -1,10 +1,64 @@
 [
   {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-02T10:12:34Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 4,
+    "updated_at": "2026-08-02T10:06:25Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2988,
+    "updated_at": "2026-08-02T10:13:52Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-02T10:03:23Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-02T10:02:41Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T10:00:03Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16106,
+    "stars": 16107,
     "updated_at": "2026-08-02T09:57:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -16,15 +70,6 @@
     "stars": 13,
     "updated_at": "2026-08-02T09:46:40Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T10:00:03Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T09:31:16Z",
+    "updated_at": "2026-08-02T10:07:56Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -149,7 +194,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 8,
-    "updated_at": "2026-08-02T08:24:28Z",
+    "updated_at": "2026-08-02T10:14:31Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -169,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T09:11:48Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-02T07:35:41Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-02T07:34:37Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -286,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T09:56:27Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2987,
-    "updated_at": "2026-08-02T09:52:22Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Skills, subagents, commands, and tech conventions for opencode \u2014 one harness, no fragmentation.",
@@ -430,23 +448,5 @@
     "stars": 5631,
     "updated_at": "2026-08-02T09:34:19Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-02T01:29:46Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 6,
-    "updated_at": "2026-08-02T07:05:48Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   }
 ]
