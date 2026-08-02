@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:27:44Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
     "description": "maok A.I. connects your local Riot Client to any AI model \u2014 including LM Studio, Ollama, vLLM, or the official OpenAI AP",
     "id": "mrdevlorx/maokAI",
     "language": "PowerShell",
@@ -149,7 +158,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T18:01:46Z",
+    "updated_at": "2026-08-02T19:29:59Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 133,
     "updated_at": "2026-08-02T17:36:20Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
-  },
-  {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T17:34:57Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "Mooncore-inc/demon-cry",
     "stars": 0,
-    "updated_at": "2026-08-02T14:36:52Z",
+    "updated_at": "2026-08-02T19:27:27Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
