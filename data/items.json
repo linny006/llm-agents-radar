@@ -1,5 +1,14 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:51:56Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-02T18:38:50Z",
+    "updated_at": "2026-08-02T18:56:30Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -58,7 +67,7 @@
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
-    "stars": 794,
+    "stars": 793,
     "updated_at": "2026-08-02T18:08:14Z",
     "url": "https://github.com/helixml/helix"
   },
@@ -373,7 +382,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13628,
+    "stars": 13627,
     "updated_at": "2026-08-02T15:18:36Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-02T12:54:27Z",
     "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5633,
-    "updated_at": "2026-08-02T18:14:22Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
