@@ -1,12 +1,39 @@
 [
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 5,
-    "updated_at": "2026-08-02T11:11:26Z",
-    "url": "https://github.com/xcq20100224/Nolan"
+    "name": "gptme/gptme",
+    "stars": 4373,
+    "updated_at": "2026-08-02T11:29:25Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T11:26:46Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
+    "id": "jarmstrong158/waveform-MCP",
+    "language": "Python",
+    "name": "jarmstrong158/waveform-MCP",
+    "stars": 2,
+    "updated_at": "2026-08-02T11:24:11Z",
+    "url": "https://github.com/jarmstrong158/waveform-MCP"
+  },
+  {
+    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 0,
+    "updated_at": "2026-08-02T11:22:43Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 1,
-    "updated_at": "2026-08-02T11:07:46Z",
+    "updated_at": "2026-08-02T11:20:38Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2988,
+    "updated_at": "2026-08-02T11:22:58Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 18,
-    "updated_at": "2026-08-02T11:05:27Z",
+    "updated_at": "2026-08-02T11:17:44Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 5,
+    "updated_at": "2026-08-02T11:11:26Z",
+    "url": "https://github.com/xcq20100224/Nolan"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -54,15 +99,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2988,
-    "updated_at": "2026-08-02T11:03:58Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -70,15 +106,6 @@
     "stars": 8,
     "updated_at": "2026-08-02T10:36:00Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:32:52Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -148,18 +175,9 @@
     "id": "Abdulrahman0Khaled/youtube2skills",
     "language": "Python",
     "name": "Abdulrahman0Khaled/youtube2skills",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-02T09:32:28Z",
     "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T10:30:04Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "RAG-based question answering over the metagenomics literature",
@@ -387,15 +405,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
-    "id": "jarmstrong158/waveform-MCP",
-    "language": "Python",
-    "name": "jarmstrong158/waveform-MCP",
-    "stars": 2,
-    "updated_at": "2026-08-02T04:13:43Z",
-    "url": "https://github.com/jarmstrong158/waveform-MCP"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T03:25:20Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Safe execution harness for LLM agents operating on local workspaces.",
-    "id": "zhangyi-nb1/localflow",
-    "language": "Python",
-    "name": "zhangyi-nb1/localflow",
-    "stars": 0,
-    "updated_at": "2026-08-02T03:02:30Z",
-    "url": "https://github.com/zhangyi-nb1/localflow"
   }
 ]
