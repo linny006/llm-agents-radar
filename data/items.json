@@ -1,12 +1,30 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 5,
+    "updated_at": "2026-08-02T11:11:26Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 1,
-    "updated_at": "2026-08-02T10:58:26Z",
+    "updated_at": "2026-08-02T11:07:46Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T11:05:27Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T10:57:54Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 5,
-    "updated_at": "2026-08-02T10:57:51Z",
-    "url": "https://github.com/xcq20100224/Nolan"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2988,
-    "updated_at": "2026-08-02T10:48:34Z",
+    "updated_at": "2026-08-02T11:03:58Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T10:32:52Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T10:29:36Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -140,7 +140,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-02T09:46:40Z",
+    "updated_at": "2026-08-02T11:07:07Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
