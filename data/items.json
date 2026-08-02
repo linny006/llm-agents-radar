@@ -1,11 +1,56 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-08-02T23:24:38Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:22:03Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T23:18:09Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-02T23:17:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:17:18Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-08-02T23:12:14Z",
+    "updated_at": "2026-08-02T23:15:55Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T23:04:31Z",
     "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
-  },
-  {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:00:06Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -117,15 +153,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-02T23:02:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -207,15 +234,6 @@
     "url": "https://github.com/antonisloukis/bootdev-ai-agent"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:10:41Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -250,15 +268,6 @@
     "stars": 8,
     "updated_at": "2026-08-02T21:03:53Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-08-02T20:41:37Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "maok A.I. connects your local Riot Client to any AI model \u2014 including LM Studio, Ollama, vLLM, or the official OpenAI AP",
@@ -385,15 +394,6 @@
     "stars": 22,
     "updated_at": "2026-08-02T17:04:09Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:28:30Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
