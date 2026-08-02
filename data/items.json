@@ -1,5 +1,68 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:29:21Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T21:29:21Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 320,
+    "updated_at": "2026-08-02T21:24:16Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
+    "id": "Fikerdeep/document-intelligence-refinery",
+    "language": "Python",
+    "name": "Fikerdeep/document-intelligence-refinery",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:22:25Z",
+    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
+  },
+  {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-02T21:22:10Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:26:48Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:15:58Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -63,33 +126,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:13:42Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T21:00:30Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T21:12:42Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -126,15 +162,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-02T20:32:07Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -160,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T20:06:42Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-02T19:45:27Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "maok A.I. connects your local Riot Client to any AI model \u2014 including LM Studio, Ollama, vLLM, or the official OpenAI AP",
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-02T19:31:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13627,
-    "updated_at": "2026-08-02T15:18:36Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:10:11Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
