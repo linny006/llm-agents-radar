@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T09:38:32Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction",
+    "id": "Abdulrahman0Khaled/youtube2skills",
+    "language": "Python",
+    "name": "Abdulrahman0Khaled/youtube2skills",
+    "stars": 0,
+    "updated_at": "2026-08-02T09:32:28Z",
+    "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T09:31:16Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -70,15 +97,6 @@
     "stars": 41,
     "updated_at": "2026-08-02T08:28:59Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T09:20:28Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T07:34:37Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T07:32:31Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5631,
-    "updated_at": "2026-08-02T02:57:16Z",
+    "updated_at": "2026-08-02T09:34:19Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-02T07:05:48Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-02T00:43:14Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   }
 ]
