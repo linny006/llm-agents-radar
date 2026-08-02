@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T10:29:36Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-02T10:29:05Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
     "id": "issumer-ku/OSWorld-gui-tool",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2988,
-    "updated_at": "2026-08-02T10:13:52Z",
+    "updated_at": "2026-08-02T10:26:43Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T10:02:41Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-02T10:00:03Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
@@ -86,7 +95,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-02T10:07:56Z",
+    "updated_at": "2026-08-02T10:30:04Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -108,7 +117,7 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code)",
+    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
@@ -178,15 +187,6 @@
     "stars": 9,
     "updated_at": "2026-08-02T08:12:52Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-02T08:11:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
