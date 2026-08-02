@@ -1,11 +1,101 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-02T12:11:15Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-02T12:09:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 6,
+    "updated_at": "2026-08-02T12:08:39Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-02T12:11:00Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-02T12:08:01Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-02T12:07:43Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-02T12:06:39Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
+    "id": "jarmstrong158/waveform-MCP",
+    "language": "Python",
+    "name": "jarmstrong158/waveform-MCP",
+    "stars": 2,
+    "updated_at": "2026-08-02T12:02:47Z",
+    "url": "https://github.com/jarmstrong158/waveform-MCP"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 156,
+    "updated_at": "2026-08-02T12:01:02Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:00:27Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Self-hosted web search for AI agents",
     "id": "WinPooh32/searxng-mcp",
     "language": "Go",
     "name": "WinPooh32/searxng-mcp",
     "stars": 0,
-    "updated_at": "2026-08-02T11:57:40Z",
+    "updated_at": "2026-08-02T12:04:15Z",
     "url": "https://github.com/WinPooh32/searxng-mcp"
   },
   {
@@ -27,15 +117,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-02T11:50:58Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -52,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T11:48:14Z",
     "url": "https://github.com/Abdulrahman0Khaled/youtube2skills"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-02T11:42:46Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Always-loaded rule + deterministic hook fixing the second axis of an agent's approval gate: machines own artifact correc",
@@ -99,15 +171,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "MCP server giving Claude full control of Tracktion Waveform \u2014 compose, mix, master, render. 150+ tools, 6 composers, mus",
-    "id": "jarmstrong158/waveform-MCP",
-    "language": "Python",
-    "name": "jarmstrong158/waveform-MCP",
-    "stars": 2,
-    "updated_at": "2026-08-02T11:24:11Z",
-    "url": "https://github.com/jarmstrong158/waveform-MCP"
-  },
-  {
     "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -122,44 +185,8 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2988,
-    "updated_at": "2026-08-02T11:42:17Z",
+    "updated_at": "2026-08-02T12:11:18Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 6,
-    "updated_at": "2026-08-02T11:11:26Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-02T10:57:54Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T10:55:44Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-02T10:39:02Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -180,22 +207,13 @@
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-02T10:03:23Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-02T10:02:41Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+    "description": "An AI red-team agent for authorized labs and web app pentesting workflows. Turns Claude Code / OpenCode / Codex into a s",
+    "id": "NeoTheCapt/RedteamAgent",
+    "language": "Python",
+    "name": "NeoTheCapt/RedteamAgent",
+    "stars": 104,
+    "updated_at": "2026-08-02T10:01:53Z",
+    "url": "https://github.com/NeoTheCapt/RedteamAgent"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-02T07:26:29Z",
+    "updated_at": "2026-08-02T12:04:01Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T04:24:54Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-02T04:05:19Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
-    "id": "hwfengcs/DM-Code-Agent",
-    "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 148,
-    "updated_at": "2026-08-02T03:53:26Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
   }
 ]
