@@ -1,5 +1,14 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-02T03:44:45Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
     "id": "hwfengcs/DM-Code-Agent",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 5631,
     "updated_at": "2026-08-02T02:57:16Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-02T02:57:59Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -194,7 +194,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-02T03:03:48Z",
+    "updated_at": "2026-08-02T03:38:19Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -293,7 +293,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T03:13:26Z",
+    "updated_at": "2026-08-02T03:39:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
