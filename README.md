@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 17:45 UTC
+> ⏰ Last updated: 2026-08-02 17:55 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-02 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
-| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 3 | [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) | 133 | Python | 2026-08-02 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
-| 4 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-02 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 5 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-02 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
-| 6 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-02 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
-| 7 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-08-02 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 8 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-02 | Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify — zero hallucinations. |
-| 9 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-02 | The self-improving SRE agent |
-| 10 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-02 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 11 | [nesirli/meta-scholar](https://github.com/nesirli/meta-scholar) | 1 | Python | 2026-08-02 | RAG-based question answering app over the metagenomics literature |
-| 12 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-08-02 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 1 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 2 | MDX | 2026-08-02 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 2 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-02 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [krishagarwal314/CodeJury](https://github.com/krishagarwal314/CodeJury) | 133 | Python | 2026-08-02 | Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te |
+| 5 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-02 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 6 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-02 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
+| 7 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-02 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
+| 8 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-08-02 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 9 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-02 | Give your LLM a canonical knowledge backbone. 24 tools to validate, evolve, and verify — zero hallucinations. |
+| 10 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-02 | The self-improving SRE agent |
+| 11 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-02 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 12 | [nesirli/meta-scholar](https://github.com/nesirli/meta-scholar) | 1 | Python | 2026-08-02 | RAG-based question answering app over the metagenomics literature |
 | 13 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 25 | — | 2026-08-02 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent |
 | 14 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-02 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
 | 15 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |

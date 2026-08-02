@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-02T17:53:01Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-02T17:15:57Z",
     "url": "https://github.com/nesirli/meta-scholar"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:41:05Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent",
@@ -230,7 +230,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-02T17:39:47Z",
+    "updated_at": "2026-08-02T17:48:17Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
