@@ -1,6 +1,33 @@
 [
   {
-    "description": "ative PowerShell LCU Chatbot for League of Legends powered by local OpenAI-compatible LLMs (LM Studio, Ollama, vLLM)",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:42:27Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 2,
+    "updated_at": "2026-08-02T18:38:50Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-02T18:34:57Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
+    "description": "Native PowerShell LCU Chatbot for League of Legends powered by local OpenAI-compatible LLMs (LM Studio, Ollama, vLLM)",
     "id": "mrdevlorx/maokAI",
     "language": "PowerShell",
     "name": "mrdevlorx/maokAI",
@@ -34,15 +61,6 @@
     "stars": 794,
     "updated_at": "2026-08-02T18:08:14Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 2,
-    "updated_at": "2026-08-02T18:19:52Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -97,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T17:44:24Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:43:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -328,7 +337,7 @@
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
-    "stars": 60,
+    "stars": 61,
     "updated_at": "2026-08-02T15:57:40Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 8,
-    "updated_at": "2026-08-02T17:19:38Z",
+    "updated_at": "2026-08-02T18:36:42Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T15:10:11Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:01:29Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   },
   {
     "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
