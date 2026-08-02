@@ -1,5 +1,41 @@
 [
   {
+    "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
+    "id": "Grizzly-Endeavors/grizzly-gameservers",
+    "language": "Rust",
+    "name": "Grizzly-Endeavors/grizzly-gameservers",
+    "stars": 0,
+    "updated_at": "2026-08-02T13:09:53Z",
+    "url": "https://github.com/Grizzly-Endeavors/grizzly-gameservers"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T13:09:49Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
+    "id": "DylPorter/claude-telegram",
+    "language": "Python",
+    "name": "DylPorter/claude-telegram",
+    "stars": 1,
+    "updated_at": "2026-08-02T13:03:36Z",
+    "url": "https://github.com/DylPorter/claude-telegram"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 8,
+    "updated_at": "2026-08-02T13:00:39Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-02T12:56:53Z",
+    "updated_at": "2026-08-02T13:06:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -45,21 +81,12 @@
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T12:51:14Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2988,
-    "updated_at": "2026-08-02T12:58:59Z",
+    "updated_at": "2026-08-02T13:06:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "jarmstrong158/waveform-MCP",
     "stars": 2,
-    "updated_at": "2026-08-02T12:02:47Z",
+    "updated_at": "2026-08-02T13:15:13Z",
     "url": "https://github.com/jarmstrong158/waveform-MCP"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 8,
-    "updated_at": "2026-08-02T10:36:00Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-08-02T08:12:52Z",
+    "updated_at": "2026-08-02T13:14:33Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T05:49:55Z",
     "url": "https://github.com/shimo4228/akc-cycle"
-  },
-  {
-    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
-    "id": "juzikuwei/tech-radar-agent",
-    "language": "Python",
-    "name": "juzikuwei/tech-radar-agent",
-    "stars": 1,
-    "updated_at": "2026-08-02T05:10:42Z",
-    "url": "https://github.com/juzikuwei/tech-radar-agent"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-02T05:09:12Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
