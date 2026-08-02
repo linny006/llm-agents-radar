@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-02 21:45 UTC
+> ⏰ Last updated: 2026-08-02 22:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-02 | The self-improving SRE agent |
-| 3 | [Fikerdeep/document-intelligence-refinery](https://github.com/Fikerdeep/document-intelligence-refinery) | 0 | Python | 2026-08-02 | Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations. |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 320 | Python | 2026-08-02 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 6 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-02 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
-| 7 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-08-02 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
-| 8 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-08-02 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
-| 9 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-02 | Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify — zero hallucinations. |
-| 10 | [antonisloukis/bootdev-ai-agent](https://github.com/antonisloukis/bootdev-ai-agent) | 0 | Python | 2026-08-02 | A Python AI coding agent with tool calling, safe file operations, and multi-step agent loops. |
-| 11 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-02 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 12 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 19 | Python | 2026-08-02 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 13 | [chan-monk/chan-monk](https://github.com/chan-monk/chan-monk) | 0 | — | 2026-08-02 | Chán-Monk — LLM agent tending the Play-Box garden |
-| 14 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-02 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
-| 15 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-08-02 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-02 | The self-improving SRE agent |
+| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 3 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [Fikerdeep/document-intelligence-refinery](https://github.com/Fikerdeep/document-intelligence-refinery) | 0 | Python | 2026-08-02 | Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations. |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 320 | Python | 2026-08-02 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 8 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-02 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
+| 9 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 0 | Rust | 2026-08-02 | A verification-first AI agent harness — one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
+| 10 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-08-02 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
+| 11 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-02 | Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify — zero hallucinations. |
+| 12 | [antonisloukis/bootdev-ai-agent](https://github.com/antonisloukis/bootdev-ai-agent) | 0 | Python | 2026-08-02 | A Python AI coding agent with tool calling, safe file operations, and multi-step agent loops. |
+| 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-02 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 14 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 19 | Python | 2026-08-02 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 15 | [chan-monk/chan-monk](https://github.com/chan-monk/chan-monk) | 0 | — | 2026-08-02 | Chán-Monk — LLM agent tending the Play-Box garden |
+| 16 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-02 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
+| 17 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 8 | JavaScript | 2026-08-02 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
 | 18 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-02 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 | 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-02 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-02 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |

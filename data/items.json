@@ -1,5 +1,32 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T22:00:15Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 156,
+    "updated_at": "2026-08-02T21:54:03Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:49:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T21:39:22Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T21:39:04Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
@@ -135,24 +153,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-02T20:53:16Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:46:00Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -176,7 +176,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-02T20:13:20Z",
+    "updated_at": "2026-08-02T22:00:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
