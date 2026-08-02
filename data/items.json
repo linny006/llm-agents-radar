@@ -1,11 +1,47 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T19:44:17Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:41:01Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-02T19:38:55Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-02T19:35:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
     "id": "jordanahern2009-svg/Tokio-ai",
     "language": "Python",
     "name": "jordanahern2009-svg/Tokio-ai",
     "stars": 1,
-    "updated_at": "2026-08-02T19:27:44Z",
+    "updated_at": "2026-08-02T19:34:21Z",
     "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T19:09:33Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 25 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-02T19:07:26Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -90,15 +117,6 @@
     "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:11:34Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "My personal OpenCode configuration",
     "id": "andersonlizarazo/opencode-config",
     "language": "\u2014",
@@ -151,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-02T18:01:54Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T19:29:59Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 8,
-    "updated_at": "2026-08-02T18:36:42Z",
+    "updated_at": "2026-08-02T19:31:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-02T13:03:36Z",
     "url": "https://github.com/DylPorter/claude-telegram"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-02T14:47:38Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
