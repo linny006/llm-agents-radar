@@ -1,11 +1,29 @@
 [
   {
+    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
+    "id": "hwfengcs/DM-Code-Agent",
+    "language": "Python",
+    "name": "hwfengcs/DM-Code-Agent",
+    "stars": 148,
+    "updated_at": "2026-08-02T03:30:10Z",
+    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 25,
+    "updated_at": "2026-08-02T03:22:25Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Search-engine-free semantic web search as an MCP server: a cheap LLM navigates the live web, a local embedding model ind",
     "id": "jason920612/websearch-mcp",
     "language": "Python",
     "name": "jason920612/websearch-mcp",
     "stars": 0,
-    "updated_at": "2026-08-02T03:08:36Z",
+    "updated_at": "2026-08-02T03:19:05Z",
     "url": "https://github.com/jason920612/websearch-mcp"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-02T03:14:11Z",
+    "updated_at": "2026-08-02T03:25:20Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-02T02:06:18Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 25,
-    "updated_at": "2026-08-02T02:06:13Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T18:08:14Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-01T17:41:09Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   }
 ]
