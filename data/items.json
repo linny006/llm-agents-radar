@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-02T16:29:09Z",
+    "updated_at": "2026-08-02T16:42:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:39:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-08-02T16:39:06Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T16:34:24Z",
+    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
@@ -14,7 +41,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 2,
-    "updated_at": "2026-08-02T16:29:35Z",
+    "updated_at": "2026-08-02T16:33:35Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T15:47:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 8,
-    "updated_at": "2026-08-02T15:47:07Z",
+    "updated_at": "2026-08-02T16:38:03Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -266,17 +284,8 @@
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-08-02T14:37:15Z",
+    "updated_at": "2026-08-02T16:39:44Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T16:23:53Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -439,14 +448,5 @@
     "stars": 16108,
     "updated_at": "2026-08-02T09:57:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-02T08:49:24Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   }
 ]
