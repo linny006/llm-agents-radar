@@ -1,5 +1,14 @@
 [
   {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:58:30Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-02T14:47:38Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 6,
-    "updated_at": "2026-08-02T12:54:27Z",
-    "url": "https://github.com/xcq20100224/Nolan"
   }
 ]
