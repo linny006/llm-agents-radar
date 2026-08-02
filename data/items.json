@@ -1,5 +1,41 @@
 [
   {
+    "description": "A working, teachable example of what an AI coding-agent harness actually is - an outer harness (policy, permissions, bou",
+    "id": "mohd-raza/copilot-harness-lab",
+    "language": "TypeScript",
+    "name": "mohd-raza/copilot-harness-lab",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:59:28Z",
+    "url": "https://github.com/mohd-raza/copilot-harness-lab"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T06:59:21Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "An isolated FastAPI microservice that powers semantic memory, trait extraction, and Qdrant vector synchronization for th",
+    "id": "musiliandrew/Personalization-Engine",
+    "language": "Python",
+    "name": "musiliandrew/Personalization-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-02T06:54:06Z",
+    "url": "https://github.com/musiliandrew/Personalization-Engine"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 18,
+    "updated_at": "2026-08-02T06:50:06Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "HKUDS/DeepCode",
     "stars": 16106,
-    "updated_at": "2026-08-02T06:41:19Z",
+    "updated_at": "2026-08-02T06:58:36Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-02T05:34:46Z",
+    "updated_at": "2026-08-02T06:59:54Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -283,7 +319,7 @@
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-02T01:29:46Z",
     "url": "https://github.com/raylanlin/Millwright"
   },
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 6,
-    "updated_at": "2026-08-02T06:40:25Z",
+    "updated_at": "2026-08-02T06:56:33Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-01T21:59:38Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 18,
-    "updated_at": "2026-08-01T21:27:28Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 23,
-    "updated_at": "2026-08-01T21:00:27Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Claude Code skill + npm CLI for running AI agents overnight on your codebase. Write todo with Implementation+Validation ",
-    "id": "noluyorAbi/autonomous-agent-nightshift",
-    "language": "Shell",
-    "name": "noluyorAbi/autonomous-agent-nightshift",
-    "stars": 0,
-    "updated_at": "2026-08-01T20:59:36Z",
-    "url": "https://github.com/noluyorAbi/autonomous-agent-nightshift"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-02T06:34:57Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
