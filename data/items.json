@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local AI-agent research copilot: hybrid retrieval (E5 + BM25 + RRF + cross-encoder), bounded ReAct agent with determinis",
+    "id": "juzikuwei/tech-radar-agent",
+    "language": "Python",
+    "name": "juzikuwei/tech-radar-agent",
+    "stars": 1,
+    "updated_at": "2026-08-02T05:10:42Z",
+    "url": "https://github.com/juzikuwei/tech-radar-agent"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-02T05:09:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A low-cost, high-determinism workflow for detection, and an adaptive, open-ended agent for root-cause analysis. Referenc",
+    "id": "ZimmW/Monitoroot",
+    "language": "Python",
+    "name": "ZimmW/Monitoroot",
+    "stars": 0,
+    "updated_at": "2026-08-02T05:01:09Z",
+    "url": "https://github.com/ZimmW/Monitoroot"
+  },
+  {
     "description": "Discord-driven service to spin up and manage game servers on homelab Kubernetes via Agones, with an LLM ops agent (Gary)",
     "id": "Grizzly-Endeavors/grizzly-gameservers",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-01T20:13:29Z",
     "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 76,
-    "updated_at": "2026-08-01T19:42:00Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 205,
-    "updated_at": "2026-08-01T19:40:47Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 0,
-    "updated_at": "2026-08-01T19:27:57Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   }
 ]
