@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent-driven, provenance-first job feed & explainable recommender for China campus recruitment (\u79cb\u62db). Ingests official AT",
+    "id": "Xplore-LAB/careerflow-agent",
+    "language": "Python",
+    "name": "Xplore-LAB/careerflow-agent",
+    "stars": 0,
+    "updated_at": "2026-08-02T16:49:13Z",
+    "url": "https://github.com/Xplore-LAB/careerflow-agent"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 104,
     "updated_at": "2026-08-02T10:01:53Z",
     "url": "https://github.com/NeoTheCapt/RedteamAgent"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16108,
-    "updated_at": "2026-08-02T09:57:55Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
