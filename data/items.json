@@ -1,5 +1,23 @@
 [
   {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-02T02:29:58Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-02T02:29:57Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 6,
-    "updated_at": "2026-08-02T01:20:52Z",
+    "updated_at": "2026-08-02T02:24:46Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-01T23:21:42Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-02T02:15:06Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -439,14 +448,5 @@
     "stars": 484,
     "updated_at": "2026-08-01T16:20:51Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-01T16:13:15Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
