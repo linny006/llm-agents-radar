@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:39:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-02T21:39:04Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
+    "id": "Fikerdeep/document-intelligence-refinery",
+    "language": "Python",
+    "name": "Fikerdeep/document-intelligence-refinery",
+    "stars": 0,
+    "updated_at": "2026-08-02T21:32:33Z",
+    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -9,15 +36,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T21:29:21Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 320,
     "updated_at": "2026-08-02T21:24:16Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
-    "id": "Fikerdeep/document-intelligence-refinery",
-    "language": "Python",
-    "name": "Fikerdeep/document-intelligence-refinery",
-    "stars": 0,
-    "updated_at": "2026-08-02T21:22:25Z",
-    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
   },
   {
     "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
@@ -133,15 +142,6 @@
     "stars": 156,
     "updated_at": "2026-08-02T20:53:16Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T20:47:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
