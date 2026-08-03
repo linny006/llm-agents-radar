@@ -1,5 +1,59 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 27 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:58:25Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-03T11:48:29Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:48:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
+    "id": "issumer-ku/OSWorld-gui-tool",
+    "language": "Python",
+    "name": "issumer-ku/OSWorld-gui-tool",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:47:55Z",
+    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
+  },
+  {
+    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
+    "id": "Kengston/personal-llm-wiki",
+    "language": "TypeScript",
+    "name": "Kengston/personal-llm-wiki",
+    "stars": 1,
+    "updated_at": "2026-08-03T11:46:54Z",
+    "url": "https://github.com/Kengston/personal-llm-wiki"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:46:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "RAG-based question answering app over the metagenomics literature",
     "id": "nesirli/meta-scholar",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-03T11:42:56Z",
+    "updated_at": "2026-08-03T11:57:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-08-03T11:32:50Z",
+    "updated_at": "2026-08-03T12:00:00Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
-    "id": "Kengston/personal-llm-wiki",
-    "language": "TypeScript",
-    "name": "Kengston/personal-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:44:57Z",
-    "url": "https://github.com/Kengston/personal-llm-wiki"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2994,
-    "updated_at": "2026-08-03T10:51:56Z",
+    "updated_at": "2026-08-03T11:55:51Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 156,
     "updated_at": "2026-08-03T10:46:48Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 27 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:44:41Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -360,24 +396,6 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-03T08:14:53Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:14:14Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
     "id": "jinlingyuan123/arena-hero-balanced-tactic",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-03T07:15:21Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-08-03T07:12:37Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:10:59Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   }
 ]
