@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:07:59Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -43,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-03T15:43:52Z",
     "url": "https://github.com/msnikonov/tradebybit"
+  },
+  {
+    "description": "Hierarchical LangGraph multi-agent assistant for a digital music store \u2014 identity verification, tool-grounded catalog & ",
+    "id": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "language": "Python",
+    "name": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "stars": 0,
+    "updated_at": "2026-08-03T15:41:50Z",
+    "url": "https://github.com/YacoobMJ/Multi-Agent-Music-Store-support"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2996,
-    "updated_at": "2026-08-03T16:01:00Z",
+    "updated_at": "2026-08-03T16:13:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:31:24Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "RAG-based question answering app over the metagenomics literature",
     "id": "nesirli/meta-scholar",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T10:49:11Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
-    "id": "bydesign21/open-agent-sync",
-    "language": "Rust",
-    "name": "bydesign21/open-agent-sync",
-    "stars": 0,
-    "updated_at": "2026-08-03T10:48:11Z",
-    "url": "https://github.com/bydesign21/open-agent-sync"
   }
 ]
