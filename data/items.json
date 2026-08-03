@@ -1,5 +1,23 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5633,
+    "updated_at": "2026-08-03T03:14:49Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-03T03:09:49Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -77,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-03T02:26:57Z",
+    "updated_at": "2026-08-03T03:14:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T19:09:33Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
-    "id": "dudarievmykyta/ctxlog",
-    "language": "Go",
-    "name": "dudarievmykyta/ctxlog",
-    "stars": 1,
-    "updated_at": "2026-08-02T18:58:30Z",
-    "url": "https://github.com/dudarievmykyta/ctxlog"
-  },
-  {
-    "description": "Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments",
-    "id": "issumer-ku/OSWorld-gui-tool",
-    "language": "Python",
-    "name": "issumer-ku/OSWorld-gui-tool",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:34:57Z",
-    "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
   }
 ]
