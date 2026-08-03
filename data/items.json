@@ -1,12 +1,21 @@
 [
   {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
     "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-08-03T02:29:57Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:44:22Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-03T02:38:34Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "AiCrafter-pro/naked-browser",
     "stars": 0,
-    "updated_at": "2026-08-03T02:29:34Z",
+    "updated_at": "2026-08-03T02:35:26Z",
     "url": "https://github.com/AiCrafter-pro/naked-browser"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5631,
+    "updated_at": "2026-08-03T02:35:03Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
@@ -23,8 +41,17 @@
     "language": "Jupyter Notebook",
     "name": "genieincodebottle/generative-ai",
     "stars": 2582,
-    "updated_at": "2026-08-03T02:28:43Z",
+    "updated_at": "2026-08-03T02:32:30Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-08-03T02:29:57Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
@@ -108,15 +135,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:04:02Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -133,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T02:04:03Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-03T01:51:11Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:09:12Z",
     "url": "https://github.com/andersonlizarazo/opencode-config"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-02T20:42:36Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
