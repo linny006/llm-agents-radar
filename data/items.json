@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
+    "id": "omohikane/saku",
+    "language": "Python",
+    "name": "omohikane/saku",
+    "stars": 1,
+    "updated_at": "2026-08-03T05:39:27Z",
+    "url": "https://github.com/omohikane/saku"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 2,
+    "updated_at": "2026-08-03T05:39:02Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
+    "description": "A deterministic execution harness for AI agents, in Rust. Preview mutating tool calls before they run, journal every ste",
+    "id": "nlj3/kedge",
+    "language": "Rust",
+    "name": "nlj3/kedge",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:38:35Z",
+    "url": "https://github.com/nlj3/kedge"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-08-03T05:37:19Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-03T05:33:07Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
     "id": "xhqing/PersonalAssistantAgent",
     "language": "Shell",
@@ -9,15 +54,6 @@
     "url": "https://github.com/xhqing/PersonalAssistantAgent"
   },
   {
-    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
-    "id": "omohikane/saku",
-    "language": "Python",
-    "name": "omohikane/saku",
-    "stars": 1,
-    "updated_at": "2026-08-03T05:24:55Z",
-    "url": "https://github.com/omohikane/saku"
-  },
-  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T05:23:56Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-08-03T05:23:38Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "lostinheaven-knt/chatbi-harness",
     "stars": 0,
-    "updated_at": "2026-08-03T05:06:09Z",
+    "updated_at": "2026-08-03T05:38:31Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
@@ -157,8 +184,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 593,
-    "updated_at": "2026-08-03T04:00:36Z",
+    "stars": 594,
+    "updated_at": "2026-08-03T05:44:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 36,
-    "updated_at": "2026-08-03T05:12:08Z",
+    "updated_at": "2026-08-03T05:37:56Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "larlarua/AutoCVE",
     "stars": 1242,
-    "updated_at": "2026-08-03T03:16:17Z",
+    "updated_at": "2026-08-03T05:35:17Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 5634,
     "updated_at": "2026-08-03T03:14:49Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-03T03:09:49Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T22:40:19Z",
     "url": "https://github.com/TirthBorasaniya/incidentpilot"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-08-02T22:37:31Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-02T22:32:42Z",
-    "url": "https://github.com/Smana/runlore"
   }
 ]
