@@ -1,11 +1,74 @@
 [
   {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-08-03T02:29:57Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
+    "id": "AiCrafter-pro/naked-browser",
+    "language": "Python",
+    "name": "AiCrafter-pro/naked-browser",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:29:34Z",
+    "url": "https://github.com/AiCrafter-pro/naked-browser"
+  },
+  {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2582,
+    "updated_at": "2026-08-03T02:28:43Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-03T02:28:09Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-03T02:26:57Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
+    "id": "Fikerdeep/document-intelligence-refinery",
+    "language": "Python",
+    "name": "Fikerdeep/document-intelligence-refinery",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:26:37Z",
+    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
+  },
+  {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "Shell",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-08-03T02:26:14Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-03T02:14:58Z",
+    "updated_at": "2026-08-03T02:20:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -72,15 +135,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
-    "id": "xhqing/PersonalAssistantAgent",
-    "language": "Shell",
-    "name": "xhqing/PersonalAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:53:16Z",
-    "url": "https://github.com/xhqing/PersonalAssistantAgent"
-  },
-  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -108,15 +162,6 @@
     "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-03T01:43:50Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -142,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T01:04:45Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
-    "id": "AiCrafter-pro/naked-browser",
-    "language": "Python",
-    "name": "AiCrafter-pro/naked-browser",
-    "stars": 0,
-    "updated_at": "2026-08-03T01:00:59Z",
-    "url": "https://github.com/AiCrafter-pro/naked-browser"
-  },
-  {
-    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
-    "id": "Fikerdeep/document-intelligence-refinery",
-    "language": "Python",
-    "name": "Fikerdeep/document-intelligence-refinery",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:58:13Z",
-    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T23:15:55Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-03T01:36:12Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -430,23 +448,5 @@
     "stars": 793,
     "updated_at": "2026-08-02T20:42:36Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-02T17:44:24Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-02T17:21:36Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
