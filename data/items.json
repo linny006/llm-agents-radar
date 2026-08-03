@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "Fikerdeep/document-intelligence-refinery",
     "stars": 0,
-    "updated_at": "2026-08-03T00:40:32Z",
+    "updated_at": "2026-08-03T00:58:13Z",
     "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
   },
   {
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-03T00:37:20Z",
+    "updated_at": "2026-08-03T00:58:23Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-03T00:52:45Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
+    "id": "AiCrafter-pro/naked-browser",
+    "language": "Python",
+    "name": "AiCrafter-pro/naked-browser",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:41:15Z",
+    "url": "https://github.com/AiCrafter-pro/naked-browser"
   },
   {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
@@ -70,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-02T23:53:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
+    "id": "jinlingyuan123/arena-hero-balanced-tactic",
+    "language": "Python",
+    "name": "jinlingyuan123/arena-hero-balanced-tactic",
+    "stars": 0,
+    "updated_at": "2026-08-02T23:46:48Z",
+    "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -211,7 +238,7 @@
     "id": "monocle2ai/monocle",
     "language": "Python",
     "name": "monocle2ai/monocle",
-    "stars": 321,
+    "stars": 322,
     "updated_at": "2026-08-02T21:24:16Z",
     "url": "https://github.com/monocle2ai/monocle"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T16:49:13Z",
     "url": "https://github.com/Xplore-LAB/careerflow-agent"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-08-02T16:39:06Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-02T17:48:17Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-02T16:26:09Z",
-    "url": "https://github.com/raylanlin/Millwright"
   }
 ]
