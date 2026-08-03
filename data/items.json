@@ -1,12 +1,21 @@
 [
   {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
+    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
+    "id": "hwfengcs/DM-Code-Agent",
     "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-03T17:38:54Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
+    "name": "hwfengcs/DM-Code-Agent",
+    "stars": 149,
+    "updated_at": "2026-08-03T17:59:17Z",
+    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-03T17:57:18Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,17 +23,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-08-03T17:42:18Z",
+    "updated_at": "2026-08-03T17:57:14Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-03T17:34:12Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:56:42Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
@@ -34,6 +43,24 @@
     "stars": 0,
     "updated_at": "2026-08-03T17:45:02Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-03T17:38:54Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-03T17:55:42Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
@@ -166,27 +193,9 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 563,
+    "stars": 564,
     "updated_at": "2026-08-03T15:56:34Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-03T15:47:42Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-03T15:46:43Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T11:47:55Z",
     "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
-  },
-  {
-    "description": "\ud83e\udde0 Personal AI second brain \u2014 a self-maintaining Markdown wiki (Karpathy LLM-wiki pattern). TypeScript, no vector DB, Cla",
-    "id": "Kengston/personal-llm-wiki",
-    "language": "TypeScript",
-    "name": "Kengston/personal-llm-wiki",
-    "stars": 1,
-    "updated_at": "2026-08-03T11:46:54Z",
-    "url": "https://github.com/Kengston/personal-llm-wiki"
   }
 ]
