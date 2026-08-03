@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 01:00 UTC
+> ⏰ Last updated: 2026-08-03 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Fikerdeep/document-intelligence-refinery](https://github.com/Fikerdeep/document-intelligence-refinery) | 0 | Python | 2026-08-03 | Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations. |
-| 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
-| 3 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 6 | TypeScript | 2026-08-03 | Open-source AI automation for SolidWorks — talk to your CAD. |
-| 4 | [AiCrafter-pro/naked-browser](https://github.com/AiCrafter-pro/naked-browser) | 0 | Python | 2026-08-03 | If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe |
-| 5 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-03 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
-| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 7 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-03 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
-| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-03 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 11 | [jinlingyuan123/arena-hero-balanced-tactic](https://github.com/jinlingyuan123/arena-hero-balanced-tactic) | 0 | Python | 2026-08-02 | Balanced, configurable Python tactic for Arena Hero — safe-core turtling, radius-capped scouting, and worker claim-lock  |
-| 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-02 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 13 | [sky-valley/pi](https://github.com/sky-valley/pi) | 24 | Go | 2026-08-02 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
-| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-02 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-03 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-08-03 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 4 | [Fikerdeep/document-intelligence-refinery](https://github.com/Fikerdeep/document-intelligence-refinery) | 0 | Python | 2026-08-03 | Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations. |
+| 5 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
+| 6 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 6 | TypeScript | 2026-08-03 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 7 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-03 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
+| 8 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 9 | [jordanahern2009-svg/Tokio-ai](https://github.com/jordanahern2009-svg/Tokio-ai) | 1 | Python | 2026-08-03 | Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip |
+| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-03 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-02 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-02 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 13 | [jinlingyuan123/arena-hero-balanced-tactic](https://github.com/jinlingyuan123/arena-hero-balanced-tactic) | 0 | Python | 2026-08-02 | Balanced, configurable Python tactic for Arena Hero — safe-core turtling, radius-capped scouting, and worker claim-lock  |
+| 14 | [sky-valley/pi](https://github.com/sky-valley/pi) | 24 | Go | 2026-08-02 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
 | 15 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-02 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 | 16 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-02 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-02 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |

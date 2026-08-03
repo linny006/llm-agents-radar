@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:13:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:10:44Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
+    "id": "FeixueCode/miaoclaw-releases",
+    "language": "\u2014",
+    "name": "FeixueCode/miaoclaw-releases",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:04:45Z",
+    "url": "https://github.com/FeixueCode/miaoclaw-releases"
+  },
+  {
     "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
     "id": "Fikerdeep/document-intelligence-refinery",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-03T00:58:23Z",
+    "updated_at": "2026-08-03T01:14:39Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-08-03T00:52:45Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
-    "id": "AiCrafter-pro/naked-browser",
-    "language": "Python",
-    "name": "AiCrafter-pro/naked-browser",
-    "stars": 0,
-    "updated_at": "2026-08-03T00:41:15Z",
-    "url": "https://github.com/AiCrafter-pro/naked-browser"
   },
   {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
@@ -99,15 +117,6 @@
     "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:37:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
     "id": "sky-valley/pi",
     "language": "Go",
@@ -115,15 +124,6 @@
     "stars": 24,
     "updated_at": "2026-08-02T23:34:12Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:32:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
