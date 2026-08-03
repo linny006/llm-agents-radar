@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 10:15 UTC
+> ⏰ Last updated: 2026-08-03 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ankitai-s/superdialog-playbook-skill](https://github.com/ankitai-s/superdialog-playbook-skill) | 1 | — | 2026-08-03 | Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs — schema reference, 15-poin |
-| 2 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-03 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 3 | [nesirli/meta-scholar](https://github.com/nesirli/meta-scholar) | 1 | Python | 2026-08-03 | RAG-based question answering app over the metagenomics literature |
-| 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 5 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-03 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
-| 6 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-03 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
-| 7 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2994 | Python | 2026-08-03 | SRE Agent - CNCF Sandbox Project |
-| 8 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-08-03 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 9 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 206 | Python | 2026-08-03 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 10 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
-| 11 | [cckais/DocMind](https://github.com/cckais/DocMind) | 0 | Python | 2026-08-03 | 基于 LangChain + LangGraph + Chainlit 的中文 RAG 智能文档问答 Agent。上传 PDF/TXT 即可在 Web 端进行问答，并支持自动调用计算器等工具。 |
-| 12 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 13 | [helixml/helix](https://github.com/helixml/helix) | 793 | Go | 2026-08-03 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 14 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-03 | 🤖 Lightweight, message-first agent runtime |
-| 15 | [prabhukirangit/OKTS](https://github.com/prabhukirangit/OKTS) | 0 | Python | 2026-08-03 | OKT — open knowledge tools; OKTS — tool search and discovery for any agent. |
-| 16 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-03 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 1 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-03 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 2 | [nesirli/meta-scholar](https://github.com/nesirli/meta-scholar) | 1 | Python | 2026-08-03 | RAG-based question answering app over the metagenomics literature |
+| 3 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | — | 2026-08-03 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 4 | [ankitai-s/superdialog-playbook-skill](https://github.com/ankitai-s/superdialog-playbook-skill) | 1 | — | 2026-08-03 | Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs — schema reference, 15-poin |
+| 5 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-03 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 7 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-03 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 8 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-03 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
+| 9 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2994 | Python | 2026-08-03 | SRE Agent - CNCF Sandbox Project |
+| 10 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 206 | Python | 2026-08-03 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 11 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
+| 12 | [cckais/DocMind](https://github.com/cckais/DocMind) | 0 | Python | 2026-08-03 | 基于 LangChain + LangGraph + Chainlit 的中文 RAG 智能文档问答 Agent。上传 PDF/TXT 即可在 Web 端进行问答，并支持自动调用计算器等工具。 |
+| 13 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 14 | [helixml/helix](https://github.com/helixml/helix) | 793 | Go | 2026-08-03 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 15 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-03 | 🤖 Lightweight, message-first agent runtime |
+| 16 | [prabhukirangit/OKTS](https://github.com/prabhukirangit/OKTS) | 0 | Python | 2026-08-03 | OKT — open knowledge tools; OKTS — tool search and discovery for any agent. |
 | 17 | [agent-axiom/agent-arch](https://github.com/agent-axiom/agent-arch) | 10 | Python | 2026-08-03 |  |
 | 18 | [Admire-ljb/VoLN-UAV](https://github.com/Admire-ljb/VoLN-UAV) | 37 | Python | 2026-08-03 | Official code for VoLN: Vision-Only Long-Horizon Navigation—Paradigm, Benchmark, and Method. An embodied AI UAV benchmar |
 | 19 | [gptme/gptme](https://github.com/gptme/gptme) | 4374 | Python | 2026-08-03 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
