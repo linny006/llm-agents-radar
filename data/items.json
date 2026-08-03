@@ -1,20 +1,11 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4374,
-    "updated_at": "2026-08-03T08:59:30Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-03T08:54:52Z",
+    "updated_at": "2026-08-03T09:14:32Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -23,8 +14,71 @@
     "language": "Python",
     "name": "nesirli/meta-scholar",
     "stars": 1,
-    "updated_at": "2026-08-03T08:53:11Z",
+    "updated_at": "2026-08-03T09:14:25Z",
     "url": "https://github.com/nesirli/meta-scholar"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 10,
+    "updated_at": "2026-08-03T09:11:41Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
+    "id": "Admire-ljb/VoLN-UAV",
+    "language": "Python",
+    "name": "Admire-ljb/VoLN-UAV",
+    "stars": 37,
+    "updated_at": "2026-08-03T09:09:46Z",
+    "url": "https://github.com/Admire-ljb/VoLN-UAV"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-08-03T09:09:11Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 206,
+    "updated_at": "2026-08-03T09:07:46Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
+    "id": "prabhukirangit/OKTS",
+    "language": "Python",
+    "name": "prabhukirangit/OKTS",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:00:46Z",
+    "url": "https://github.com/prabhukirangit/OKTS"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4374,
+    "updated_at": "2026-08-03T09:11:13Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5633,
+    "updated_at": "2026-08-03T08:52:00Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
@@ -34,24 +88,6 @@
     "stars": 7,
     "updated_at": "2026-08-03T08:49:05Z",
     "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-08-03T09:00:21Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
-    "id": "prabhukirangit/OKTS",
-    "language": "Python",
-    "name": "prabhukirangit/OKTS",
-    "stars": 0,
-    "updated_at": "2026-08-03T08:44:26Z",
-    "url": "https://github.com/prabhukirangit/OKTS"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 26 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -117,15 +153,6 @@
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 206,
-    "updated_at": "2026-08-03T08:55:05Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -139,7 +166,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13635,
+    "stars": 13636,
     "updated_at": "2026-08-03T08:24:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:56:38Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
-    "id": "Admire-ljb/VoLN-UAV",
-    "language": "Python",
-    "name": "Admire-ljb/VoLN-UAV",
-    "stars": 37,
-    "updated_at": "2026-08-03T07:55:10Z",
-    "url": "https://github.com/Admire-ljb/VoLN-UAV"
   },
   {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
@@ -319,7 +337,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 556,
+    "stars": 557,
     "updated_at": "2026-08-03T06:24:40Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-03T08:38:16Z",
+    "updated_at": "2026-08-03T09:03:48Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T05:25:03Z",
     "url": "https://github.com/xhqing/PersonalAssistantAgent"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:23:56Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:13:55Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   }
 ]
