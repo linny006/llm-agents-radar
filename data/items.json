@@ -1,5 +1,77 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-03T06:26:51Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 554,
+    "updated_at": "2026-08-03T06:24:40Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-03T06:24:28Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-03T06:22:57Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-03T06:21:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-03T06:23:23Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:23:23Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
+    "id": "zuowen7/scholar-assistant-agent",
+    "language": "Python",
+    "name": "zuowen7/scholar-assistant-agent",
+    "stars": 2,
+    "updated_at": "2026-08-03T06:15:54Z",
+    "url": "https://github.com/zuowen7/scholar-assistant-agent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -9,21 +81,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-03T06:14:55Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-03T06:13:46Z",
+    "updated_at": "2026-08-03T06:23:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 206,
     "updated_at": "2026-08-03T06:11:44Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-03T06:10:27Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -81,15 +135,6 @@
     "url": "https://github.com/omohikane/saku"
   },
   {
-    "description": "Open-source Claude Code for academic papers \u2014 translate, write, review, and export research papers locally",
-    "id": "zuowen7/scholar-assistant-agent",
-    "language": "Python",
-    "name": "zuowen7/scholar-assistant-agent",
-    "stars": 2,
-    "updated_at": "2026-08-03T05:39:02Z",
-    "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
     "description": "A deterministic execution harness for AI agents, in Rust. Preview mutating tool calls before they run, journal every ste",
     "id": "nlj3/kedge",
     "language": "Rust",
@@ -108,15 +153,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-03T05:33:07Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
     "id": "xhqing/PersonalAssistantAgent",
     "language": "Shell",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T05:23:56Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-03T05:19:02Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 36,
-    "updated_at": "2026-08-03T05:37:56Z",
+    "updated_at": "2026-08-03T06:22:33Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -256,7 +283,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13631,
+    "stars": 13633,
     "updated_at": "2026-08-03T03:44:36Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5632,
-    "updated_at": "2026-08-03T05:08:57Z",
+    "updated_at": "2026-08-03T06:27:32Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-03T06:12:12Z",
+    "updated_at": "2026-08-03T06:26:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T01:29:26Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-03T00:02:40Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 24,
-    "updated_at": "2026-08-02T23:34:12Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-08-02T23:24:38Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
