@@ -1,5 +1,32 @@
 [
   {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-03T11:27:23Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
+    "id": "Lyz103/LLM-Agent-Paper-daily",
+    "language": "Python",
+    "name": "Lyz103/LLM-Agent-Paper-daily",
+    "stars": 20,
+    "updated_at": "2026-08-03T11:22:09Z",
+    "url": "https://github.com/Lyz103/LLM-Agent-Paper-daily"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5635,
+    "updated_at": "2026-08-03T11:15:32Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
     "id": "WayneStr/Bellwether",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-03T10:59:03Z",
+    "updated_at": "2026-08-03T11:27:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -50,7 +77,7 @@
     "language": "TypeScript",
     "name": "Kengston/personal-llm-wiki",
     "stars": 1,
-    "updated_at": "2026-08-03T10:51:08Z",
+    "updated_at": "2026-08-03T11:29:42Z",
     "url": "https://github.com/Kengston/personal-llm-wiki"
   },
   {
@@ -261,21 +288,12 @@
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5634,
-    "updated_at": "2026-08-03T10:19:19Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
     "name": "Underline-1024/loom-engine",
     "stars": 7,
-    "updated_at": "2026-08-03T08:49:05Z",
+    "updated_at": "2026-08-03T11:23:03Z",
     "url": "https://github.com/Underline-1024/loom-engine"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/omohikane/saku"
   },
   {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:56:38Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
     "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
     "id": "kashyaprajharsh/medha-agent",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:05:30Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-03T11:02:21Z",
-    "url": "https://github.com/Smana/runlore"
   }
 ]
