@@ -1,5 +1,23 @@
 [
   {
+    "description": "My personal OpenCode configuration",
+    "id": "andersonlizarazo/opencode-config",
+    "language": "Shell",
+    "name": "andersonlizarazo/opencode-config",
+    "stars": 0,
+    "updated_at": "2026-08-03T05:59:49Z",
+    "url": "https://github.com/andersonlizarazo/opencode-config"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 594,
+    "updated_at": "2026-08-03T05:56:46Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
     "id": "omohikane/saku",
     "language": "Python",
@@ -99,15 +117,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "My personal OpenCode configuration",
-    "id": "andersonlizarazo/opencode-config",
-    "language": "\u2014",
-    "name": "andersonlizarazo/opencode-config",
-    "stars": 0,
-    "updated_at": "2026-08-03T04:51:38Z",
-    "url": "https://github.com/andersonlizarazo/opencode-config"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-03T05:12:59Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 594,
-    "updated_at": "2026-08-03T05:44:08Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
