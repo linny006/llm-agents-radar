@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-03T07:40:56Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-03T07:28:02Z",
+    "updated_at": "2026-08-03T07:33:33Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -99,6 +108,15 @@
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 596,
+    "updated_at": "2026-08-03T06:45:25Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T06:44:05Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 594,
-    "updated_at": "2026-08-03T06:45:25Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
@@ -439,14 +448,5 @@
     "stars": 2583,
     "updated_at": "2026-08-03T02:32:30Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 10,
-    "updated_at": "2026-08-03T02:29:57Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
   }
 ]
