@@ -1,11 +1,20 @@
 [
   {
+    "description": "Hierarchical LangGraph multi-agent assistant for a digital music store \u2014 identity verification, tool-grounded catalog & ",
+    "id": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "language": "Python",
+    "name": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "stars": 0,
+    "updated_at": "2026-08-03T16:59:08Z",
+    "url": "https://github.com/YacoobMJ/Multi-Agent-Music-Store-support"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-03T16:42:21Z",
+    "updated_at": "2026-08-03T16:54:22Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -144,15 +153,6 @@
     "url": "https://github.com/msnikonov/tradebybit"
   },
   {
-    "description": "Hierarchical LangGraph multi-agent assistant for a digital music store \u2014 identity verification, tool-grounded catalog & ",
-    "id": "YacoobMJ/Multi-Agent-Music-Store-support",
-    "language": "Python",
-    "name": "YacoobMJ/Multi-Agent-Music-Store-support",
-    "stars": 0,
-    "updated_at": "2026-08-03T15:41:50Z",
-    "url": "https://github.com/YacoobMJ/Multi-Agent-Music-Store-support"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2996,
-    "updated_at": "2026-08-03T16:13:40Z",
+    "updated_at": "2026-08-03T16:49:21Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-03T16:28:03Z",
+    "updated_at": "2026-08-03T16:58:35Z",
     "url": "https://github.com/helixml/helix"
   },
   {
