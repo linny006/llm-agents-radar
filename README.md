@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 19:54 UTC
+> ⏰ Last updated: 2026-08-03 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 0 | — | 2026-08-03 | Easy-to-use, high-quality secure code review agent skills. In progress... |
-| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-03 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 4 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-03 | Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify — zero hallucinations. |
+| 1 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-03 | Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify — zero hallucinations. |
+| 2 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 0 | — | 2026-08-03 | Easy-to-use, high-quality secure code review agent skills. In progress... |
+| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-03 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 5 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-08-03 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
 | 6 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-03 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 | 7 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 26 | — | 2026-08-03 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent |

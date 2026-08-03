@@ -1,5 +1,14 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-03T19:54:55Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Easy-to-use, high-quality secure code review agent skills. In progress...",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -27,21 +36,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-03T19:42:19Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
     "id": "ivan-sincek/threat-modeling-agent-skills",
     "language": "\u2014",
     "name": "ivan-sincek/threat-modeling-agent-skills",
     "stars": 2,
-    "updated_at": "2026-08-03T19:38:44Z",
+    "updated_at": "2026-08-03T19:59:03Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6779,
-    "updated_at": "2026-08-03T19:10:33Z",
+    "updated_at": "2026-08-03T19:56:35Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
