@@ -1,11 +1,47 @@
 [
   {
+    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
+    "id": "RudrenduPaul/agent-eval",
+    "language": "Python",
+    "name": "RudrenduPaul/agent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-03T00:08:12Z",
+    "url": "https://github.com/RudrenduPaul/agent-eval"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-03T00:03:17Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-03T00:02:40Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-03T00:02:38Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-02T23:59:46Z",
+    "updated_at": "2026-08-03T00:01:06Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Open-source financial research agent that runs every claim through honest statistical testing (permutation tests, multip",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-02T23:18:09Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-02T23:15:55Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-02T23:52:36Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -187,24 +205,6 @@
     "stars": 102,
     "updated_at": "2026-08-02T22:21:01Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-02T22:00:36Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-02T22:00:15Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-08-02T17:40:47Z",
+    "updated_at": "2026-08-03T00:04:22Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
