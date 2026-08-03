@@ -36,6 +36,15 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 593,
+    "updated_at": "2026-08-03T02:34:35Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
     "id": "genieincodebottle/generative-ai",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T18:34:57Z",
     "url": "https://github.com/issumer-ku/OSWorld-gui-tool"
-  },
-  {
-    "description": "My personal OpenCode configuration",
-    "id": "andersonlizarazo/opencode-config",
-    "language": "\u2014",
-    "name": "andersonlizarazo/opencode-config",
-    "stars": 0,
-    "updated_at": "2026-08-02T18:09:12Z",
-    "url": "https://github.com/andersonlizarazo/opencode-config"
   }
 ]
