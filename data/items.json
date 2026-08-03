@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-03T07:28:02Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 2,
+    "updated_at": "2026-08-03T07:15:21Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "kashyaprajharsh/medha-agent",
     "stars": 0,
-    "updated_at": "2026-08-03T07:12:17Z",
+    "updated_at": "2026-08-03T07:19:09Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
@@ -144,21 +162,12 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-03T06:33:01Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "TypeScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 37,
-    "updated_at": "2026-08-03T06:22:33Z",
+    "updated_at": "2026-08-03T07:24:28Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-03T02:29:57Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Multi-stage PDF extraction pipeline: coverage-measured escalation, provenance-verified answers, sealed evaluations.",
-    "id": "Fikerdeep/document-intelligence-refinery",
-    "language": "Python",
-    "name": "Fikerdeep/document-intelligence-refinery",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:26:37Z",
-    "url": "https://github.com/Fikerdeep/document-intelligence-refinery"
   }
 ]
