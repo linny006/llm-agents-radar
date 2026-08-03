@@ -1,10 +1,46 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:45:05Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-03T09:41:11Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-08-03T09:38:49Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
+    "id": "prabhukirangit/OKTS",
+    "language": "Python",
+    "name": "prabhukirangit/OKTS",
+    "stars": 0,
+    "updated_at": "2026-08-03T09:31:31Z",
+    "url": "https://github.com/prabhukirangit/OKTS"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
     "name": "dmirain/OctoForge",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-08-03T09:26:56Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
@@ -25,15 +61,6 @@
     "stars": 9,
     "updated_at": "2026-08-03T09:19:14Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:16:41Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "RAG-based question answering app over the metagenomics literature",
@@ -72,21 +99,12 @@
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
-    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
-    "id": "prabhukirangit/OKTS",
-    "language": "Python",
-    "name": "prabhukirangit/OKTS",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:00:46Z",
-    "url": "https://github.com/prabhukirangit/OKTS"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-03T09:27:39Z",
+    "updated_at": "2026-08-03T09:43:15Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -175,7 +193,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13636,
+    "stars": 13637,
     "updated_at": "2026-08-03T08:24:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -205,6 +223,15 @@
     "stars": 2,
     "updated_at": "2026-08-03T08:09:34Z",
     "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6776,
+    "updated_at": "2026-08-03T08:01:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
@@ -284,7 +311,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 13,
-    "updated_at": "2026-08-03T09:28:25Z",
+    "updated_at": "2026-08-03T09:42:10Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -346,7 +373,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 558,
+    "stars": 559,
     "updated_at": "2026-08-03T06:24:40Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -358,15 +385,6 @@
     "stars": 37,
     "updated_at": "2026-08-03T08:10:33Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-03T09:03:48Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-03T06:04:04Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-  },
-  {
-    "description": "My personal OpenCode configuration",
-    "id": "andersonlizarazo/opencode-config",
-    "language": "Shell",
-    "name": "andersonlizarazo/opencode-config",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:59:49Z",
-    "url": "https://github.com/andersonlizarazo/opencode-config"
-  },
-  {
-    "description": "A deterministic execution harness for AI agents, in Rust. Preview mutating tool calls before they run, journal every ste",
-    "id": "nlj3/kedge",
-    "language": "Rust",
-    "name": "nlj3/kedge",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:38:35Z",
-    "url": "https://github.com/nlj3/kedge"
   }
 ]
