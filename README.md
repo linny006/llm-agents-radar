@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 14:45 UTC
+> ⏰ Last updated: 2026-08-03 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-08-03 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 2 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-03 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
-| 3 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 44 | Rust | 2026-08-03 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 4 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-03 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6777 | Python | 2026-08-03 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [prabhukirangit/OKTS](https://github.com/prabhukirangit/OKTS) | 0 | Python | 2026-08-03 | OKT — open knowledge tools; OKTS — tool search and discovery for any agent. |
-| 7 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-03 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 8 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-03 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 9 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-08-03 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 10 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-03 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 12 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-03 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 13 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-03 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 14 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 562 | TypeScript | 2026-08-03 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 15 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2995 | Python | 2026-08-03 | SRE Agent - CNCF Sandbox Project |
+| 1 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 2996 | Python | 2026-08-03 | SRE Agent - CNCF Sandbox Project |
+| 2 | [mintuz/skills](https://github.com/mintuz/skills) | 20 | Go | 2026-08-03 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 3 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-03 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
+| 4 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 44 | Rust | 2026-08-03 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 5 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-03 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
+| 6 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6777 | Python | 2026-08-03 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 7 | [prabhukirangit/OKTS](https://github.com/prabhukirangit/OKTS) | 0 | Python | 2026-08-03 | OKT — open knowledge tools; OKTS — tool search and discovery for any agent. |
+| 8 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-03 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 9 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-03 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 10 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-08-03 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 11 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-03 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-03 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 14 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-03 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 15 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 562 | TypeScript | 2026-08-03 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 16 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 11 | Rust | 2026-08-03 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
 | 17 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-03 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
 | 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-03 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [sky-valley/pi](https://github.com/sky-valley/pi) | 25 | Go | 2026-08-03 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
 | 47 | [Giggitycountless/LOL-AI-Intelligence](https://github.com/Giggitycountless/LOL-AI-Intelligence) | 1 | Rust | 2026-08-03 | AI-Powered League of Legends Desktop Companion — Real-time game intelligence, LLM-driven match analysis and AI coaching. |
 | 48 | [bydesign21/open-agent-sync](https://github.com/bydesign21/open-agent-sync) | 0 | Rust | 2026-08-03 | Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs. |
-| 49 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 597 | Go | 2026-08-03 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 49 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 596 | Go | 2026-08-03 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 50 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 <!-- TRACKER_TABLE_END -->
 

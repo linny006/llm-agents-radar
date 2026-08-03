@@ -1,5 +1,14 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2996,
+    "updated_at": "2026-08-03T14:58:55Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Go",
@@ -124,15 +133,6 @@
     "stars": 562,
     "updated_at": "2026-08-03T13:51:30Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2995,
-    "updated_at": "2026-08-03T14:41:49Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -436,7 +436,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 597,
+    "stars": 596,
     "updated_at": "2026-08-03T10:40:07Z",
     "url": "https://github.com/ongridio/ongrid"
   },
