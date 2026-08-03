@@ -1,5 +1,50 @@
 [
   {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-03T14:27:25Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-03T14:27:27Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6777,
+    "updated_at": "2026-08-03T14:16:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
+    "id": "prabhukirangit/OKTS",
+    "language": "Python",
+    "name": "prabhukirangit/OKTS",
+    "stars": 0,
+    "updated_at": "2026-08-03T14:16:12Z",
+    "url": "https://github.com/prabhukirangit/OKTS"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-03T14:13:56Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -61,6 +106,15 @@
     "stars": 561,
     "updated_at": "2026-08-03T13:51:30Z",
     "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2995,
+    "updated_at": "2026-08-03T13:50:45Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -252,15 +306,6 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "Smart functions with a brain inside. Inputs in. Pydantic out. Multi-turn agent in the middle.",
-    "id": "AIvanovitch/motor",
-    "language": "Python",
-    "name": "AIvanovitch/motor",
-    "stars": 0,
-    "updated_at": "2026-08-03T12:11:21Z",
-    "url": "https://github.com/AIvanovitch/motor"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -315,15 +360,6 @@
     "url": "https://github.com/Kengston/personal-llm-wiki"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-03T14:13:56Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Automatically Update LLM-Agent Papers Daily using Github Actions (Update Every 12th hours)",
     "id": "Lyz103/LLM-Agent-Paper-daily",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 25,
     "updated_at": "2026-08-03T10:50:58Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 2994,
-    "updated_at": "2026-08-03T13:50:45Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-03T10:14:56Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs \u2014 schema reference, 15-poin",
-    "id": "ankitai-s/superdialog-playbook-skill",
-    "language": "\u2014",
-    "name": "ankitai-s/superdialog-playbook-skill",
-    "stars": 1,
-    "updated_at": "2026-08-03T10:10:36Z",
-    "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
-  },
-  {
-    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
-    "id": "Yuan-ManX/SparkLabs",
-    "language": "Python",
-    "name": "Yuan-ManX/SparkLabs",
-    "stars": 12,
-    "updated_at": "2026-08-03T10:09:17Z",
-    "url": "https://github.com/Yuan-ManX/SparkLabs"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:57:17Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   }
 ]
