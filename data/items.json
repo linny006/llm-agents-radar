@@ -1,5 +1,50 @@
 [
   {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 181,
+    "updated_at": "2026-08-03T12:12:59Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Smart functions with a brain inside. Inputs in. Pydantic out. Multi-turn agent in the middle.",
+    "id": "AIvanovitch/motor",
+    "language": "Python",
+    "name": "AIvanovitch/motor",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:11:21Z",
+    "url": "https://github.com/AIvanovitch/motor"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4374,
+    "updated_at": "2026-08-03T12:10:10Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-03T12:06:11Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-08-03T12:01:55Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 27 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -63,15 +108,6 @@
     "url": "https://github.com/nesirli/meta-scholar"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4374,
-    "updated_at": "2026-08-03T11:57:39Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-03T11:36:18Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-08-03T12:00:00Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2994,
-    "updated_at": "2026-08-03T11:55:51Z",
+    "updated_at": "2026-08-03T12:03:12Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T09:49:24Z",
     "url": "https://github.com/cckais/DocMind"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-03T09:56:33Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T07:49:55Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-08-03T07:49:42Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 2,
-    "updated_at": "2026-08-03T07:15:21Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
