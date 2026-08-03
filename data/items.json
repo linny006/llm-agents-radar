@@ -1,12 +1,21 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-03T17:12:28Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Hierarchical LangGraph multi-agent assistant for a digital music store \u2014 identity verification, tool-grounded catalog & ",
-    "id": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "id": "YacoobMJ/AutoCare-Service-Multi-Agent-Support",
     "language": "Python",
-    "name": "YacoobMJ/Multi-Agent-Music-Store-support",
+    "name": "YacoobMJ/AutoCare-Service-Multi-Agent-Support",
     "stars": 0,
     "updated_at": "2026-08-03T16:59:08Z",
-    "url": "https://github.com/YacoobMJ/Multi-Agent-Music-Store-support"
+    "url": "https://github.com/YacoobMJ/AutoCare-Service-Multi-Agent-Support"
   },
   {
     "description": "The self-improving SRE agent",
@@ -367,15 +376,6 @@
     "stars": 4375,
     "updated_at": "2026-08-03T12:10:10Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-03T16:58:35Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 27 tools to validate, evolve, and verify \u2014 zero hallucinations.",
