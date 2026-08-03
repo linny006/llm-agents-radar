@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-03T13:52:17Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 561,
+    "updated_at": "2026-08-03T13:51:30Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-03T13:47:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T13:35:38Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 561,
-    "updated_at": "2026-08-03T13:35:09Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -115,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-03T13:00:29Z",
     "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "\u5143\u542f\u53d1\u5f0f\u7b97\u6cd5\uff08CA/VNS\uff09+ LLM Agent \u7684\u667a\u80fd\u65c5\u884c\u89c4\u5212\u7cfb\u7edf \u2014  \u4e0d\u662f\u751f\u6210\u653b\u7565\uff0c\u662f\u751f\u6210\u53ef\u6267\u884c\u7684\u884c\u7a0b\u65b9\u6848\u3002",
+    "id": "xiaojiune/TravelPal",
+    "language": "Python",
+    "name": "xiaojiune/TravelPal",
+    "stars": 0,
+    "updated_at": "2026-08-03T12:39:13Z",
+    "url": "https://github.com/xiaojiune/TravelPal"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2994,
-    "updated_at": "2026-08-03T12:03:12Z",
+    "updated_at": "2026-08-03T13:50:45Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 206,
     "updated_at": "2026-08-03T09:51:24Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "\u57fa\u4e8e LangChain + LangGraph + Chainlit \u7684\u4e2d\u6587 RAG \u667a\u80fd\u6587\u6863\u95ee\u7b54 Agent\u3002\u4e0a\u4f20 PDF/TXT \u5373\u53ef\u5728 Web \u7aef\u8fdb\u884c\u95ee\u7b54\uff0c\u5e76\u652f\u6301\u81ea\u52a8\u8c03\u7528\u8ba1\u7b97\u5668\u7b49\u5de5\u5177\u3002",
-    "id": "cckais/DocMind",
-    "language": "Python",
-    "name": "cckais/DocMind",
-    "stars": 0,
-    "updated_at": "2026-08-03T09:49:24Z",
-    "url": "https://github.com/cckais/DocMind"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1243,
-    "updated_at": "2026-08-03T09:43:45Z",
-    "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-08-03T09:38:49Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
   }
 ]
