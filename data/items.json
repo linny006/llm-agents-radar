@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 156,
+    "updated_at": "2026-08-03T03:24:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-03T03:21:21Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -36,20 +54,11 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "If you can see it in your browser, you should be able to take it. Give Claude Code your own logged-in Chromium on a fixe",
-    "id": "AiCrafter-pro/naked-browser",
-    "language": "Python",
-    "name": "AiCrafter-pro/naked-browser",
-    "stars": 0,
-    "updated_at": "2026-08-03T02:35:26Z",
-    "url": "https://github.com/AiCrafter-pro/naked-browser"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5631,
+    "stars": 5632,
     "updated_at": "2026-08-03T02:35:03Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -79,15 +88,6 @@
     "stars": 10,
     "updated_at": "2026-08-03T02:29:57Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-03T02:28:09Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -139,7 +139,7 @@
     "id": "xcq20100224/Nolan",
     "language": "Python",
     "name": "xcq20100224/Nolan",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-08-03T02:10:07Z",
     "url": "https://github.com/xcq20100224/Nolan"
   },
@@ -259,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T00:02:38Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-02T23:57:20Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -448,5 +439,14 @@
     "stars": 2,
     "updated_at": "2026-08-02T19:09:33Z",
     "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Lightweight CLI coordination journal for AI agent sessions. Per-shard JSONL files with BSD flock for safe concurrent wri",
+    "id": "dudarievmykyta/ctxlog",
+    "language": "Go",
+    "name": "dudarievmykyta/ctxlog",
+    "stars": 1,
+    "updated_at": "2026-08-02T18:58:30Z",
+    "url": "https://github.com/dudarievmykyta/ctxlog"
   }
 ]
