@@ -1,5 +1,14 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 13,
+    "updated_at": "2026-08-03T06:51:58Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -9,21 +18,12 @@
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-03T06:43:16Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 594,
-    "updated_at": "2026-08-03T06:43:09Z",
+    "updated_at": "2026-08-03T06:45:25Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -40,7 +40,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5634,
+    "stars": 5635,
     "updated_at": "2026-08-03T06:35:01Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -67,7 +67,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 554,
+    "stars": 555,
     "updated_at": "2026-08-03T06:24:40Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -86,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-03T06:21:59Z",
+    "updated_at": "2026-08-03T06:47:39Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -293,7 +293,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-03T05:12:59Z",
+    "updated_at": "2026-08-03T06:46:42Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -401,7 +401,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-03T06:26:53Z",
+    "updated_at": "2026-08-03T06:49:46Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {

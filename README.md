@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 06:45 UTC
+> ⏰ Last updated: 2026-08-03 06:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
-| 2 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-03 | The self-improving SRE agent |
+| 1 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-03 | The self-improving SRE agent |
+| 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-03 | GPT autonomous research and investigation using starintel |
 | 3 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 594 | Go | 2026-08-03 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 4 | [HuTa0kj/vetix](https://github.com/HuTa0kj/vetix) | 62 | Python | 2026-08-03 | Vetix — Automated scanning, identification, and assessment of SKILL security risks. |
-| 5 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5634 | Python | 2026-08-03 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 5 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5635 | Python | 2026-08-03 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-03 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 7 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-03 |  Where intent meets code — a local AI coding agent          |
-| 8 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 554 | TypeScript | 2026-08-03 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 8 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 555 | TypeScript | 2026-08-03 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 9 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 10 | [helixml/helix](https://github.com/helixml/helix) | 793 | Go | 2026-08-03 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 11 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-03 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
