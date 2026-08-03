@@ -1,12 +1,66 @@
 [
   {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-03T07:40:56Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
+    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
+    "id": "omohikane/saku",
+    "language": "Python",
+    "name": "omohikane/saku",
+    "stars": 1,
+    "updated_at": "2026-08-03T08:00:13Z",
+    "url": "https://github.com/omohikane/saku"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-08-03T07:57:15Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:56:38Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
+    "id": "Admire-ljb/VoLN-UAV",
+    "language": "Python",
+    "name": "Admire-ljb/VoLN-UAV",
+    "stars": 37,
+    "updated_at": "2026-08-03T07:55:10Z",
+    "url": "https://github.com/Admire-ljb/VoLN-UAV"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 0,
+    "updated_at": "2026-08-03T07:49:55Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-08-03T07:49:42Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 19,
+    "updated_at": "2026-08-03T07:52:25Z",
+    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,8 +68,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-03T07:33:33Z",
+    "updated_at": "2026-08-03T07:57:57Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-03T07:40:56Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -34,15 +97,6 @@
     "stars": 38,
     "updated_at": "2026-08-03T07:12:37Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 0,
-    "updated_at": "2026-08-03T07:19:09Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
@@ -139,18 +193,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5635,
+    "stars": 5636,
     "updated_at": "2026-08-03T06:35:01Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-08-03T06:32:13Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -261,15 +306,6 @@
     "url": "https://github.com/andersonlizarazo/opencode-config"
   },
   {
-    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
-    "id": "omohikane/saku",
-    "language": "Python",
-    "name": "omohikane/saku",
-    "stars": 1,
-    "updated_at": "2026-08-03T06:42:01Z",
-    "url": "https://github.com/omohikane/saku"
-  },
-  {
     "description": "A deterministic execution harness for AI agents, in Rust. Preview mutating tool calls before they run, journal every ste",
     "id": "nlj3/kedge",
     "language": "Rust",
@@ -304,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T05:13:55Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-03T05:38:31Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6775,
-    "updated_at": "2026-08-03T03:18:43Z",
+    "updated_at": "2026-08-03T07:57:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1242,
     "updated_at": "2026-08-03T05:35:17Z",
     "url": "https://github.com/larlarua/AutoCVE"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-03T02:44:22Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5632,
-    "updated_at": "2026-08-03T06:27:32Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2583,
-    "updated_at": "2026-08-03T02:32:30Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
   }
 ]
