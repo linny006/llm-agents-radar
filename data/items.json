@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-08-03T01:56:06Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "Shell",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-08-03T01:53:16Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c\u3001Harness/StepWatcher\u3001\u56db\u5957\u79bb\u7ebf eval\u3001\u8de8\u4ed3\u95ed\u73af\uff08\u975e\u751f\u4ea7\u6c99\u7bb1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-03T01:51:11Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-03T01:45:27Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
     "id": "RudrenduPaul/agent-eval",
     "language": "Python",
     "name": "RudrenduPaul/agent-eval",
     "stars": 0,
-    "updated_at": "2026-08-03T01:44:59Z",
+    "updated_at": "2026-08-03T01:45:19Z",
     "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 6,
     "updated_at": "2026-08-03T01:43:50Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-03T01:43:08Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
@@ -378,15 +405,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-02T18:01:54Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-02T17:12:25Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Self-hosted web search for AI agents",
-    "id": "WinPooh32/searxng-mcp",
-    "language": "Go",
-    "name": "WinPooh32/searxng-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-02T17:10:58Z",
-    "url": "https://github.com/WinPooh32/searxng-mcp"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-02T17:04:09Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   }
 ]
