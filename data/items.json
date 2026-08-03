@@ -1,5 +1,14 @@
 [
   {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-08-03T23:22:06Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -49,7 +58,7 @@
     "id": "yashkrush/jobkit",
     "language": "JavaScript",
     "name": "yashkrush/jobkit",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-03T23:08:09Z",
     "url": "https://github.com/yashkrush/jobkit"
   },
@@ -310,7 +319,7 @@
     "id": "krishagarwal314/CodeJury",
     "language": "Python",
     "name": "krishagarwal314/CodeJury",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-08-03T17:26:26Z",
     "url": "https://github.com/krishagarwal314/CodeJury"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-03T15:38:00Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-03T13:43:50Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
