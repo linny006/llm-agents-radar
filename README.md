@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-03 19:30 UTC
+> ⏰ Last updated: 2026-08-03 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-03 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 2 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-03 | Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify — zero hallucinations. |
-| 3 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-08-03 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
-| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6778 | Python | 2026-08-03 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 5 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 26 | — | 2026-08-03 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent |
-| 6 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-03 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
-| 7 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-03 | The self-improving SRE agent |
-| 8 | [veris-ai/riley-agent](https://github.com/veris-ai/riley-agent) | 7 | Python | 2026-08-03 | Voice Agent implementations for the VAmoS Benchmark |
-| 9 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 77 | Python | 2026-08-03 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 10 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 1 | TypeScript | 2026-08-03 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-03 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-03 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [ravisinghrajput95/local-triage-agent](https://github.com/ravisinghrajput95/local-triage-agent) | 0 | Python | 2026-08-03 | Diagnoses failing Kubernetes pods and host resource problems using a local LLM via Ollama. Reads logs, events and resour |
-| 14 | [hwfengcs/DM-Code-Agent](https://github.com/hwfengcs/DM-Code-Agent) | 149 | Python | 2026-08-03 | Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e |
-| 15 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-08-03 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 16 | [helixml/helix](https://github.com/helixml/helix) | 793 | Go | 2026-08-03 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 17 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 18 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-03 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 19 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 26 | Python | 2026-08-03 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 20 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-03 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
-| 21 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-08-03 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 1 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-03 | Give your LLM a canonical knowledge backbone. 32 tools to validate, evolve, and verify — zero hallucinations. |
+| 2 | [ivan-sincek/threat-modeling-agent-skills](https://github.com/ivan-sincek/threat-modeling-agent-skills) | 2 | — | 2026-08-03 | Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents. |
+| 3 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-03 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
+| 4 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 26 | — | 2026-08-03 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by an LLM Agent |
+| 5 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 2 | Swift | 2026-08-03 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 6 | [9t29zhmwdh-coder/EmissaryKit](https://github.com/9t29zhmwdh-coder/EmissaryKit) | 0 | Swift | 2026-08-03 | Lets a local language model use tools and act, not just answer. Swift package for Ollama and llama.cpp, no dependencies  |
+| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6779 | Python | 2026-08-03 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 8 | [EauDoon/hermes-parallel-followups](https://github.com/EauDoon/hermes-parallel-followups) | 0 | Python | 2026-08-03 | Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel |
+| 9 | [Smana/runlore](https://github.com/Smana/runlore) | 13 | Go | 2026-08-03 | The self-improving SRE agent |
+| 10 | [veris-ai/riley-agent](https://github.com/veris-ai/riley-agent) | 7 | Python | 2026-08-03 | Voice Agent implementations for the VAmoS Benchmark |
+| 11 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 77 | Python | 2026-08-03 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 12 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 1 | TypeScript | 2026-08-03 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-03 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-03 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [ravisinghrajput95/local-triage-agent](https://github.com/ravisinghrajput95/local-triage-agent) | 0 | Python | 2026-08-03 | Diagnoses failing Kubernetes pods and host resource problems using a local LLM via Ollama. Reads logs, events and resour |
+| 16 | [hwfengcs/DM-Code-Agent](https://github.com/hwfengcs/DM-Code-Agent) | 149 | Python | 2026-08-03 | Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e |
+| 17 | [dsswift/ion](https://github.com/dsswift/ion) | 3 | TypeScript | 2026-08-03 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 18 | [helixml/helix](https://github.com/helixml/helix) | 793 | Go | 2026-08-03 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 19 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-03 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-03 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 21 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 26 | Python | 2026-08-03 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 22 | [ivan-sincek/secure-code-review-agent-skills](https://github.com/ivan-sincek/secure-code-review-agent-skills) | 0 | — | 2026-08-03 | Easy-to-use, high-quality secure code review agent skills. In progress... |
 | 23 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-03 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 24 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-03 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
