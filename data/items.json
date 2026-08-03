@@ -1,5 +1,23 @@
 [
   {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-03T15:05:14Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 9,
+    "updated_at": "2026-08-03T15:03:25Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 20,
     "updated_at": "2026-08-03T14:40:34Z",
     "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-03T14:34:05Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -49,7 +58,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6777,
+    "stars": 6778,
     "updated_at": "2026-08-03T14:16:49Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -95,7 +104,7 @@
     "language": "Go",
     "name": "SugarMGP/MumuBot",
     "stars": 22,
-    "updated_at": "2026-08-03T14:06:46Z",
+    "updated_at": "2026-08-03T15:12:01Z",
     "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5637,
-    "updated_at": "2026-08-03T13:24:56Z",
+    "updated_at": "2026-08-03T15:07:01Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -295,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-03T12:30:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 9,
-    "updated_at": "2026-08-03T12:27:38Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "RAG-based question answering app over the metagenomics literature",
@@ -409,7 +409,7 @@
     "id": "sky-valley/pi",
     "language": "Go",
     "name": "sky-valley/pi",
-    "stars": 25,
+    "stars": 26,
     "updated_at": "2026-08-03T10:50:58Z",
     "url": "https://github.com/sky-valley/pi"
   },
