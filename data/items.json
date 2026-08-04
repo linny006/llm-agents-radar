@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-04T21:11:10Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6792,
+    "updated_at": "2026-08-04T21:09:07Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:05:08Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 26,
+    "updated_at": "2026-08-04T21:02:53Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-08-04T21:01:23Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:42:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 20,
-    "updated_at": "2026-08-04T20:41:08Z",
-    "url": "https://github.com/dmirain/OctoForge"
   },
   {
     "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
@@ -153,31 +189,13 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6791,
-    "updated_at": "2026-08-04T20:54:50Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T20:53:05Z",
+    "updated_at": "2026-08-04T21:12:11Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:22:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
@@ -252,15 +270,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 92,
-    "updated_at": "2026-08-04T19:18:31Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
     "description": "LangGraph-Agent f\u00fcr Text-to-SQL gegen echtes Postgres, mit SQL-Guardrails und Selbstkorrektur-Loop.",
     "id": "marco-stang/sql-copilot",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:14:44Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 26,
-    "updated_at": "2026-08-04T16:57:56Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
