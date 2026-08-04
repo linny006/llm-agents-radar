@@ -1,12 +1,66 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-04T15:58:30Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:55:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-04T15:53:55Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:53:43Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 26,
+    "updated_at": "2026-08-04T15:50:15Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
     "name": "watchcat/scout",
     "stars": 0,
-    "updated_at": "2026-08-04T15:45:07Z",
+    "updated_at": "2026-08-04T15:48:41Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-04T15:44:38Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6788,
-    "updated_at": "2026-08-04T15:40:25Z",
+    "updated_at": "2026-08-04T15:57:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T15:32:59Z",
+    "updated_at": "2026-08-04T16:00:23Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/shanananana/deepticket"
   },
   {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 26,
-    "updated_at": "2026-08-04T15:14:47Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -124,15 +169,6 @@
     "stars": 92,
     "updated_at": "2026-08-04T15:28:37Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-04T15:39:11Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 16,
-    "updated_at": "2026-08-04T15:01:56Z",
+    "updated_at": "2026-08-04T15:55:36Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T14:39:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-04T15:44:38Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T14:18:07Z",
     "url": "https://github.com/nhtera/OxiCode"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-04T15:37:47Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -250,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T13:29:09Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-04T13:27:53Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -324,15 +333,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Demon Cry \u2014 \u044d\u0442\u043e \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 OSINT-\u0430\u0433\u0435\u043d\u0442, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 LLM \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0440\u0430\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439 \u0432 \u043e\u0442\u043a\u0440\u044b\u0442\u044b\u0445 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430\u0445.",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:27:35Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
     "description": "Autonomous agent that plans its own task list, executes it via LLM calls with real tool-calling, and produces a polished",
     "id": "Vivekpatil200320/autonomous-docgen-agent",
     "language": "Python",
@@ -355,7 +355,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5645,
+    "stars": 5646,
     "updated_at": "2026-08-04T12:02:18Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
