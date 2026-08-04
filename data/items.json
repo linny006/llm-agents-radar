@@ -1,5 +1,50 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6790,
+    "updated_at": "2026-08-04T19:29:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T19:24:40Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:22:42Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
+    "language": "Python",
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:22:22Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
+  },
+  {
+    "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
+    "id": "sreenathvemula/finance-research-agent",
+    "language": "Python",
+    "name": "sreenathvemula/finance-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-04T19:20:01Z",
+    "url": "https://github.com/sreenathvemula/finance-research-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -34,15 +79,6 @@
     "stars": 20,
     "updated_at": "2026-08-04T18:49:53Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6790,
-    "updated_at": "2026-08-04T19:07:54Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-04T19:06:49Z",
+    "updated_at": "2026-08-04T19:21:00Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -158,7 +194,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 92,
-    "updated_at": "2026-08-04T17:49:40Z",
+    "updated_at": "2026-08-04T19:18:31Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -171,15 +207,6 @@
     "url": "https://github.com/marco-stang/sql-copilot"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:39:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
     "id": "Xyntopia/taskyon",
     "language": "TypeScript",
@@ -189,15 +216,6 @@
     "url": "https://github.com/Xyntopia/taskyon"
   },
   {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:16:50Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
-  },
-  {
     "description": "Easy-to-use, high-quality secure code review agent skills. In progress...",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:14:44Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T19:14:17Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -427,7 +436,7 @@
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4376,
+    "stars": 4374,
     "updated_at": "2026-08-04T13:24:53Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T13:17:35Z",
     "url": "https://github.com/TirthBorasaniya/incidentpilot"
-  },
-  {
-    "description": "Give you decision-ready references for the most common AI engineering problems",
-    "id": "louisfb01/ai-engineering-cheatsheets",
-    "language": "\u2014",
-    "name": "louisfb01/ai-engineering-cheatsheets",
-    "stars": 330,
-    "updated_at": "2026-08-04T13:11:47Z",
-    "url": "https://github.com/louisfb01/ai-engineering-cheatsheets"
   }
 ]
