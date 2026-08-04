@@ -1,5 +1,23 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 575,
+    "updated_at": "2026-08-04T06:43:25Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-08-04T06:41:28Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -68,17 +86,8 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 602,
-    "updated_at": "2026-08-04T06:11:49Z",
+    "updated_at": "2026-08-04T06:40:17Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-08-04T06:39:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -214,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T05:06:44Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 575,
-    "updated_at": "2026-08-04T06:38:38Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
