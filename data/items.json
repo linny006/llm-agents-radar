@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6788,
+    "updated_at": "2026-08-04T15:40:25Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:40:23Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T15:32:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-08-04T15:32:08Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Go",
@@ -45,15 +81,6 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T15:30:18Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -90,15 +117,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6788,
-    "updated_at": "2026-08-04T15:11:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-04T15:06:35Z",
+    "updated_at": "2026-08-04T15:39:11Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "HumanStudy-Hub/HumanStudy-Bench",
     "stars": 6,
-    "updated_at": "2026-08-04T14:35:40Z",
+    "updated_at": "2026-08-04T15:43:01Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-04T15:27:10Z",
+    "updated_at": "2026-08-04T15:37:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 582,
     "updated_at": "2026-08-04T14:09:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-08-04T13:59:46Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 2999,
-    "updated_at": "2026-08-04T14:39:12Z",
+    "updated_at": "2026-08-04T15:37:24Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
-    "id": "sehoon787/my-codex",
-    "language": "Shell",
-    "name": "sehoon787/my-codex",
-    "stars": 23,
-    "updated_at": "2026-08-04T09:53:10Z",
-    "url": "https://github.com/sehoon787/my-codex"
   }
 ]
