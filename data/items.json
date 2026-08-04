@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-04T13:27:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
     "id": "TirthBorasaniya/incidentpilot",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6787,
-    "updated_at": "2026-08-04T13:15:47Z",
+    "updated_at": "2026-08-04T13:24:58Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T11:55:13Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:50:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
