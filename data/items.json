@@ -1,12 +1,57 @@
 [
   {
+    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
+    "id": "Admire-ljb/VoLN-UAV",
+    "language": "Python",
+    "name": "Admire-ljb/VoLN-UAV",
+    "stars": 38,
+    "updated_at": "2026-08-04T05:15:03Z",
+    "url": "https://github.com/Admire-ljb/VoLN-UAV"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-04T05:13:06Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 485,
+    "updated_at": "2026-08-04T05:12:21Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-04T05:08:41Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 6,
-    "updated_at": "2026-08-04T04:57:20Z",
+    "updated_at": "2026-08-04T05:06:44Z",
     "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-08-04T05:05:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -16,15 +61,6 @@
     "stars": 27,
     "updated_at": "2026-08-04T04:52:23Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-04T04:50:38Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
@@ -189,15 +225,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-04T03:59:09Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -232,15 +259,6 @@
     "stars": 2997,
     "updated_at": "2026-08-04T03:01:33Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 485,
-    "updated_at": "2026-08-04T02:59:17Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -430,23 +448,5 @@
     "stars": 793,
     "updated_at": "2026-08-03T23:07:38Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-08-03T22:10:54Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-03T22:05:04Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
   }
 ]
