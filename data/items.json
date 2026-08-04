@@ -1,11 +1,47 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-04T11:25:44Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-04T11:24:42Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
+    "id": "nhtera/OxiCode",
+    "language": "Rust",
+    "name": "nhtera/OxiCode",
+    "stars": 0,
+    "updated_at": "2026-08-04T11:20:55Z",
+    "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 9,
+    "updated_at": "2026-08-04T11:20:22Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-04T11:13:51Z",
+    "updated_at": "2026-08-04T11:27:16Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -18,30 +54,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
-    "id": "nhtera/OxiCode",
-    "language": "Rust",
-    "name": "nhtera/OxiCode",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:06:14Z",
-    "url": "https://github.com/nhtera/OxiCode"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-04T11:03:04Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 578,
-    "updated_at": "2026-08-04T11:02:42Z",
+    "updated_at": "2026-08-04T11:28:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -63,15 +81,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 9,
-    "updated_at": "2026-08-04T10:43:44Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
     "description": "FSTN-4D: \u60c5\u7eea\u611f\u77e5 + \u5206\u5c42\u8bb0\u5fc6 + \u901a\u611f\u8054\u60f3\u7684 LLM Agent \u957f\u671f\u8bb0\u5fc6\u5f15\u64ce\u3002\u827e\u514b\u66fc\u60c5\u7eea\u6a21\u578b \u00d7 \u6590\u6ce2\u90a3\u5951\u9057\u5fd8\u66f2\u7ebf \u00d7 HNSW \u8bed\u4e49\u68c0\u7d22,32/32 \u57fa\u51c6\u901a\u8fc7,\u96f6\u4f9d\u8d56\u53ef\u8dd1\u3002",
     "id": "losedead/fstn-4d",
     "language": "Python",
@@ -86,7 +95,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T10:38:57Z",
+    "updated_at": "2026-08-04T11:29:52Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 44,
     "updated_at": "2026-08-04T10:33:15Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-04T11:06:41Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
