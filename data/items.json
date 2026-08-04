@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 606,
-    "updated_at": "2026-08-04T10:09:25Z",
+    "updated_at": "2026-08-04T10:28:36Z",
     "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
+    "id": "Giggitycountless/LOL-AI-Intelligence",
+    "language": "Rust",
+    "name": "Giggitycountless/LOL-AI-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-04T10:28:24Z",
+    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-04T10:15:45Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify \u2014 zero hallucinations.",
@@ -108,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-04T09:52:51Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T09:11:19Z",
+    "updated_at": "2026-08-04T10:29:12Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4375,
-    "updated_at": "2026-08-04T07:20:42Z",
+    "updated_at": "2026-08-04T10:30:07Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-04T04:47:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "OrcaLoca: An LLM Agent Framework for  Software Issue Localization [ICML 25]",
-    "id": "fishmingyu/OrcaLoca",
-    "language": "Python",
-    "name": "fishmingyu/OrcaLoca",
-    "stars": 46,
-    "updated_at": "2026-08-04T04:38:02Z",
-    "url": "https://github.com/fishmingyu/OrcaLoca"
   }
 ]
