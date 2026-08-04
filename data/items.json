@@ -1,5 +1,59 @@
 [
   {
+    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
+    "id": "nhtera/OxiCode",
+    "language": "Rust",
+    "name": "nhtera/OxiCode",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:58:19Z",
+    "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 4,
+    "updated_at": "2026-08-04T09:51:30Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-08-04T09:49:08Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:48:19Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28561,
+    "updated_at": "2026-08-04T09:46:16Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-04T09:45:11Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T09:42:58Z",
     "url": "https://github.com/Lunamos/OpenSCP079"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 4,
-    "updated_at": "2026-08-04T09:42:25Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -45,30 +90,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
-    "id": "nhtera/OxiCode",
-    "language": "Rust",
-    "name": "nhtera/OxiCode",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:40:33Z",
-    "url": "https://github.com/nhtera/OxiCode"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-04T09:45:11Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-08-04T09:39:42Z",
+    "updated_at": "2026-08-04T09:52:51Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T09:18:24Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-08-04T09:36:53Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3000,
-    "updated_at": "2026-08-04T08:59:59Z",
+    "updated_at": "2026-08-04T09:56:39Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 606,
-    "updated_at": "2026-08-04T09:36:37Z",
+    "updated_at": "2026-08-04T09:59:52Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 102,
     "updated_at": "2026-08-04T08:21:48Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28561,
-    "updated_at": "2026-08-04T08:20:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
@@ -270,15 +279,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:08:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5639,
-    "updated_at": "2026-08-04T06:41:07Z",
+    "updated_at": "2026-08-04T09:51:52Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 09:45 UTC
+> ⏰ Last updated: 2026-08-04 10:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-04 | Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify — zero hallucinations. |
-| 2 | [Lunamos/OpenSCP079](https://github.com/Lunamos/OpenSCP079) | 1 | Python | 2026-08-04 | A local-first containment console for an old AI that never stopped thinking. |
-| 3 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 4 | Python | 2026-08-04 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-04 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-04 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [nhtera/OxiCode](https://github.com/nhtera/OxiCode) | 0 | Rust | 2026-08-04 | Experimental Rust CLI agent for software engineering — a work-in-progress port of Claude Code (17-crate workspace, ratat |
-| 7 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-04 |  Where intent meets code — a local AI coding agent          |
-| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 21 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
-| 9 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 7 | TypeScript | 2026-08-04 | Open-source AI automation for SolidWorks — talk to your CAD. |
-| 10 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-04 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 11 | [lijiajia96/llm-local](https://github.com/lijiajia96/llm-local) | 0 | TypeScript | 2026-08-04 | Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation |
-| 12 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-04 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 13 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16125 | Python | 2026-08-04 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| 14 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3000 | Python | 2026-08-04 | SRE Agent - CNCF Sandbox Project |
-| 15 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 0 | Python | 2026-08-04 | AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) \| AI 日内交易代理，自动执行港股  |
-| 16 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-08-04 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
-| 17 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-04 | AI-powered image generation and chat studio |
-| 18 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-04 | MCPTap is a lightweight LLM proxy for Codex-compatible AI clients that intercepts traffic (currently OpenRouter/Requesty |
-| 19 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 606 | Go | 2026-08-04 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 20 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-04 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
-| 21 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 102 | Python | 2026-08-04 | Open-Source Intelligent Command Layer |
-| 22 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28561 | Python | 2026-08-04 | Build and run agents you can see, understand and trust. |
-| 23 | [msnikonov/tradebybit](https://github.com/msnikonov/tradebybit) | 0 | Python | 2026-08-04 | Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re |
-| 24 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 27 | Go | 2026-08-04 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
-| 25 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 26 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-04 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 27 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-08-04 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 28 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-04 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 29 | [gptme/gptme](https://github.com/gptme/gptme) | 4375 | Python | 2026-08-04 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 30 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-08-04 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 31 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [nhtera/OxiCode](https://github.com/nhtera/OxiCode) | 0 | Rust | 2026-08-04 | Experimental Rust CLI agent for software engineering — a work-in-progress port of Claude Code (17-crate workspace, ratat |
+| 2 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 4 | Python | 2026-08-04 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 3 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 14 | Go | 2026-08-04 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28561 | Python | 2026-08-04 | Build and run agents you can see, understand and trust. |
+| 6 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-04 |  Where intent meets code — a local AI coding agent          |
+| 7 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-04 | Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify — zero hallucinations. |
+| 8 | [Lunamos/OpenSCP079](https://github.com/Lunamos/OpenSCP079) | 1 | Python | 2026-08-04 | A local-first containment console for an old AI that never stopped thinking. |
+| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-04 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-04 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 21 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
+| 12 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 7 | TypeScript | 2026-08-04 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 13 | [lijiajia96/llm-local](https://github.com/lijiajia96/llm-local) | 0 | TypeScript | 2026-08-04 | Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation |
+| 14 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-04 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 15 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16125 | Python | 2026-08-04 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| 16 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3000 | Python | 2026-08-04 | SRE Agent - CNCF Sandbox Project |
+| 17 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 0 | Python | 2026-08-04 | AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) \| AI 日内交易代理，自动执行港股  |
+| 18 | [80x24/nuanua](https://github.com/80x24/nuanua) | 0 | TypeScript | 2026-08-04 | 메신저로 대화하는 나만의 AI 에이전트 — claude -p를 구독 인증으로 감싸 추가 비용 없이 돌리는 personal agent harness (Hermes 5기둥 + 승인 게이트 drift 방지) |
+| 19 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-04 | AI-powered image generation and chat studio |
+| 20 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-04 | MCPTap is a lightweight LLM proxy for Codex-compatible AI clients that intercepts traffic (currently OpenRouter/Requesty |
+| 21 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 606 | Go | 2026-08-04 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 22 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-04 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
+| 23 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 102 | Python | 2026-08-04 | Open-Source Intelligent Command Layer |
+| 24 | [msnikonov/tradebybit](https://github.com/msnikonov/tradebybit) | 0 | Python | 2026-08-04 | Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re |
+| 25 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 27 | Go | 2026-08-04 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
+| 26 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 156 | HTML | 2026-08-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 27 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-04 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 28 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-08-04 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 29 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-04 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 30 | [gptme/gptme](https://github.com/gptme/gptme) | 4375 | Python | 2026-08-04 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 31 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 2 | HTML | 2026-08-04 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 32 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-04 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 33 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5643 | Python | 2026-08-04 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 34 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 577 | TypeScript | 2026-08-04 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
