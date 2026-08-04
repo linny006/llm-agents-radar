@@ -1,11 +1,38 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-04T04:07:32Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 573,
+    "updated_at": "2026-08-04T04:05:25Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 27,
+    "updated_at": "2026-08-04T04:00:49Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
     "name": "bigduu/Lotus",
     "stars": 2,
-    "updated_at": "2026-08-04T03:57:22Z",
+    "updated_at": "2026-08-04T04:00:28Z",
     "url": "https://github.com/bigduu/Lotus"
   },
   {
@@ -25,24 +52,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T03:54:03Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 572,
-    "updated_at": "2026-08-04T03:48:58Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 27,
-    "updated_at": "2026-08-04T03:45:37Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-04T03:20:56Z",
+    "updated_at": "2026-08-04T04:07:01Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -284,17 +293,8 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 156,
-    "updated_at": "2026-08-04T00:07:15Z",
+    "updated_at": "2026-08-04T04:12:03Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:02:47Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Keep your MCP servers, skills, and plugins in sync across agentic coding CLIs.",
