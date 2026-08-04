@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 02:15 UTC
+> ⏰ Last updated: 2026-08-04 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-04 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 2 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-04 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 3 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 27 | Python | 2026-08-04 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 4 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6780 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-04 | AI-powered image generation and chat studio |
-| 7 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-04 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 8 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-04 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 1 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-04 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 9 | Python | 2026-08-04 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 3 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-04 | 每日新聞自動分析與摘要系統：Claude Cowork 定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 27 | Python | 2026-08-04 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
+| 6 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6780 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-04 | AI-powered image generation and chat studio |
+| 8 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-04 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
 | 9 | [issumer-ku/OSWorld-gui-tool](https://github.com/issumer-ku/OSWorld-gui-tool) | 0 | Python | 2026-08-04 | Cross-platform GUI for configuring, queuing, monitoring, and reporting OSWorld experiments |
 | 10 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-04 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
 | 11 | [adventurewave-labs/awesome-graph-engineering](https://github.com/adventurewave-labs/awesome-graph-engineering) | 0 | HTML | 2026-08-04 | A curated list of resources for designing multi-agent AI systems as graphs — topology patterns, orchestration frameworks |
