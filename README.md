@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 23:45 UTC
+> ⏰ Last updated: 2026-08-04 23:56 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -56,7 +56,7 @@ expired items removed — so you can rely on what you see being current.
 | 12 | [erickuhn19/deliverator](https://github.com/erickuhn19/deliverator) | 4 | Go | 2026-08-04 | Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet |
 | 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 158 | HTML | 2026-08-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 14 | [gptme/gptme](https://github.com/gptme/gptme) | 4374 | Python | 2026-08-04 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6793 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6794 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 16 | [stellaappiok/simple-ai-research-agent](https://github.com/stellaappiok/simple-ai-research-agent) | 0 | Python | 2026-08-04 | A command-line research assistant built with LangChain and Gemini that searches the web and Wikipedia, then returns stru |
 | 17 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-04 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
 | 18 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-04 | AI-powered image generation and chat studio |
