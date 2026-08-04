@@ -1,5 +1,14 @@
 [
   {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-04T11:33:28Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
     "id": "raylanlin/Millwright",
     "language": "TypeScript",
@@ -95,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T11:29:52Z",
+    "updated_at": "2026-08-04T11:31:52Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 38,
     "updated_at": "2026-08-04T05:15:03Z",
     "url": "https://github.com/Admire-ljb/VoLN-UAV"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 485,
-    "updated_at": "2026-08-04T05:12:21Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
