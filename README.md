@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-04 20:41 UTC
+> ⏰ Last updated: 2026-08-04 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-04 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 2 | [sreenathvemula/finance-research-agent](https://github.com/sreenathvemula/finance-research-agent) | 0 | Python | 2026-08-04 | AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW |
-| 3 | [sky-valley/pi](https://github.com/sky-valley/pi) | 26 | Go | 2026-08-04 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-04 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-04 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 6 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-08-04 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 7 | [veris-ai/riley-agent](https://github.com/veris-ai/riley-agent) | 7 | Python | 2026-08-04 | Voice Agent implementations for the VAmoS Benchmark |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 158 | HTML | 2026-08-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
-| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-04 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 11 | [lunasilvestre/nightglass](https://github.com/lunasilvestre/nightglass) | 0 | Python | 2026-08-04 | Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an |
-| 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-04 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 13 | [rudra496/worldsim-ai](https://github.com/rudra496/worldsim-ai) | 6 | Python | 2026-08-04 | 🌍 WorldSim AI — AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear |
-| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-04 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 15 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-04 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 16 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-04 | Give your LLM a canonical knowledge backbone. 39 tools to validate, evolve, and verify — zero hallucinations. |
-| 17 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6791 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 18 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-04 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-04 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-04 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-04 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 3 | [sreenathvemula/finance-research-agent](https://github.com/sreenathvemula/finance-research-agent) | 0 | Python | 2026-08-04 | AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW |
+| 4 | [sky-valley/pi](https://github.com/sky-valley/pi) | 26 | Go | 2026-08-04 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-04 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-04 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 7 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 3 | Swift | 2026-08-04 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 8 | [veris-ai/riley-agent](https://github.com/veris-ai/riley-agent) | 7 | Python | 2026-08-04 | Voice Agent implementations for the VAmoS Benchmark |
+| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 158 | HTML | 2026-08-04 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 10 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-04 | A productive AI coworker that learns, self-improves, and ships work. |
+| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-04 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 12 | [lunasilvestre/nightglass](https://github.com/lunasilvestre/nightglass) | 0 | Python | 2026-08-04 | Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an |
+| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-04 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 14 | [rudra496/worldsim-ai](https://github.com/rudra496/worldsim-ai) | 6 | Python | 2026-08-04 | 🌍 WorldSim AI — AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear |
+| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-04 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 16 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-08-04 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 17 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-04 | Give your LLM a canonical knowledge backbone. 39 tools to validate, evolve, and verify — zero hallucinations. |
+| 18 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6791 | Python | 2026-08-04 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 19 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-04 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 20 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-04 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 21 | [lesleyhalfbaked743/ComfyUI-FL-SeedVR2](https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2) | 0 | Python | 2026-08-04 | Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model. |
 | 22 | [222394/SkyPilot](https://github.com/222394/SkyPilot) | 0 | Java | 2026-08-04 | Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management. |
 | 23 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-08-04 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
