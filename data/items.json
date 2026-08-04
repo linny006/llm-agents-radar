@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 793,
+    "updated_at": "2026-08-04T06:52:00Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 7,
+    "updated_at": "2026-08-04T06:49:44Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -14,7 +32,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 14,
-    "updated_at": "2026-08-04T06:41:28Z",
+    "updated_at": "2026-08-04T06:50:14Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -104,7 +122,7 @@
     "language": "JavaScript",
     "name": "FeixueCode/miaoclaw-releases",
     "stars": 1,
-    "updated_at": "2026-08-04T05:55:45Z",
+    "updated_at": "2026-08-04T06:57:41Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T05:41:42Z",
     "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 793,
-    "updated_at": "2026-08-04T06:17:04Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -214,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T05:08:41Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-04T05:06:44Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
