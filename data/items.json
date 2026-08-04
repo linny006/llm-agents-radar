@@ -1,11 +1,101 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 9,
+    "updated_at": "2026-08-04T10:43:44Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-04T10:41:05Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "FSTN-4D: \u60c5\u7eea\u611f\u77e5 + \u5206\u5c42\u8bb0\u5fc6 + \u901a\u611f\u8054\u60f3\u7684 LLM Agent \u957f\u671f\u8bb0\u5fc6\u5f15\u64ce\u3002\u827e\u514b\u66fc\u60c5\u7eea\u6a21\u578b \u00d7 \u6590\u6ce2\u90a3\u5951\u9057\u5fd8\u66f2\u7ebf \u00d7 HNSW \u8bed\u4e49\u68c0\u7d22,32/32 \u57fa\u51c6\u901a\u8fc7,\u96f6\u4f9d\u8d56\u53ef\u8dd1\u3002",
+    "id": "losedead/fstn-4d",
+    "language": "Python",
+    "name": "losedead/fstn-4d",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:39:47Z",
+    "url": "https://github.com/losedead/fstn-4d"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T10:38:57Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
+    "id": "omerbsezer/Fast-LLM-Agent-MCP",
+    "language": "Python",
+    "name": "omerbsezer/Fast-LLM-Agent-MCP",
+    "stars": 85,
+    "updated_at": "2026-08-04T10:38:26Z",
+    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
+  },
+  {
+    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
+    "id": "nhtera/OxiCode",
+    "language": "Rust",
+    "name": "nhtera/OxiCode",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:37:33Z",
+    "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 157,
+    "updated_at": "2026-08-04T10:36:11Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-08-04T10:33:15Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-04T10:36:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-04T10:31:14Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 606,
-    "updated_at": "2026-08-04T10:28:36Z",
+    "updated_at": "2026-08-04T10:30:46Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -18,15 +108,6 @@
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-04T10:15:45Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -36,20 +117,11 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
-    "id": "nhtera/OxiCode",
-    "language": "Rust",
-    "name": "nhtera/OxiCode",
-    "stars": 0,
-    "updated_at": "2026-08-04T10:03:18Z",
-    "url": "https://github.com/nhtera/OxiCode"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-08-04T10:02:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
@@ -67,7 +139,7 @@
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
-    "stars": 14,
+    "stars": 13,
     "updated_at": "2026-08-04T09:49:08Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
@@ -126,15 +198,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 7,
-    "updated_at": "2026-08-04T09:18:24Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
     "id": "lijiajia96/llm-local",
     "language": "TypeScript",
@@ -144,15 +207,6 @@
     "url": "https://github.com/lijiajia96/llm-local"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T10:29:12Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -160,6 +214,15 @@
     "stars": 16125,
     "updated_at": "2026-08-04T09:04:22Z",
     "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 26,
+    "updated_at": "2026-08-04T08:58:12Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -234,33 +297,6 @@
     "url": "https://github.com/msnikonov/tradebybit"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 27,
-    "updated_at": "2026-08-04T08:58:12Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 156,
-    "updated_at": "2026-08-04T07:37:13Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T07:32:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4375,
-    "updated_at": "2026-08-04T10:30:07Z",
+    "updated_at": "2026-08-04T10:44:56Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 9,
-    "updated_at": "2026-08-04T06:33:09Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
     "description": "Diagnoses failing Kubernetes pods and host resource problems using a local LLM via Ollama. Reads logs, events and resour",
     "id": "ravisinghrajput95/local-triage-agent",
     "language": "Python",
@@ -340,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T06:33:07Z",
     "url": "https://github.com/ravisinghrajput95/local-triage-agent"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-04T06:22:20Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-04T05:08:41Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 27,
-    "updated_at": "2026-08-04T04:52:23Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-04T04:47:20Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
