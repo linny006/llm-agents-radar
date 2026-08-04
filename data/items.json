@@ -1,5 +1,23 @@
 [
   {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:18:04Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
+    "language": "Python",
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:16:50Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
+  },
+  {
     "description": "Easy-to-use, high-quality secure code review agent skills. In progress...",
     "id": "ivan-sincek/secure-code-review-agent-skills",
     "language": "\u2014",
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 92,
-    "updated_at": "2026-08-04T17:08:49Z",
+    "updated_at": "2026-08-04T17:15:35Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 6788,
     "updated_at": "2026-08-04T17:08:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:07:49Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
   },
   {
     "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-04T11:33:28Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:27:16Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
