@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:23:53Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:20:44Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
+    "id": "sreenathvemula/finance-research-agent",
+    "language": "Python",
+    "name": "sreenathvemula/finance-research-agent",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:19:48Z",
+    "url": "https://github.com/sreenathvemula/finance-research-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-04T21:18:41Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:17:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6792,
-    "updated_at": "2026-08-04T21:09:07Z",
+    "updated_at": "2026-08-04T21:23:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 92,
-    "updated_at": "2026-08-04T21:01:23Z",
+    "updated_at": "2026-08-04T21:19:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T20:42:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
-    "id": "sreenathvemula/finance-research-agent",
-    "language": "Python",
-    "name": "sreenathvemula/finance-research-agent",
-    "stars": 0,
-    "updated_at": "2026-08-04T20:39:05Z",
-    "url": "https://github.com/sreenathvemula/finance-research-agent"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -126,15 +162,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-04T19:59:00Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
     "id": "lunasilvestre/nightglass",
     "language": "Python",
@@ -144,15 +171,6 @@
     "url": "https://github.com/lunasilvestre/nightglass"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-04T19:45:56Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
     "id": "rudra496/worldsim-ai",
     "language": "Python",
@@ -160,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-08-04T19:44:56Z",
     "url": "https://github.com/rudra496/worldsim-ai"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-04T19:44:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T21:12:11Z",
+    "updated_at": "2026-08-04T21:20:14Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "erickuhn19/deliverator",
     "stars": 4,
-    "updated_at": "2026-08-04T15:03:12Z",
+    "updated_at": "2026-08-04T21:21:16Z",
     "url": "https://github.com/erickuhn19/deliverator"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T14:18:07Z",
     "url": "https://github.com/nhtera/OxiCode"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 590,
-    "updated_at": "2026-08-04T14:09:32Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
