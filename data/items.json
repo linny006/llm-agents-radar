@@ -1,5 +1,14 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-04T22:51:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -54,6 +63,15 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6793,
+    "updated_at": "2026-08-04T21:58:43Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:56:44Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-04T22:24:42Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A command-line research assistant built with LangChain and Gemini that searches the web and Wikipedia, then returns stru",
@@ -112,7 +121,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 94,
+    "stars": 96,
     "updated_at": "2026-08-04T21:19:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -133,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:17:55Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6792,
-    "updated_at": "2026-08-04T21:58:43Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
