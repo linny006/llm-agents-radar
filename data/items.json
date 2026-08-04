@@ -1,5 +1,59 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-04T06:12:04Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 602,
+    "updated_at": "2026-08-04T06:11:49Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-08-04T06:11:25Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 2,
+    "updated_at": "2026-08-04T06:08:39Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5641,
+    "updated_at": "2026-08-04T06:07:34Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Diagnoses failing Kubernetes pods and host resource problems using a local LLM via Ollama. Reads logs, events and resour",
+    "id": "ravisinghrajput95/local-triage-agent",
+    "language": "Python",
+    "name": "ravisinghrajput95/local-triage-agent",
+    "stars": 0,
+    "updated_at": "2026-08-04T06:02:05Z",
+    "url": "https://github.com/ravisinghrajput95/local-triage-agent"
+  },
+  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "JavaScript",
@@ -59,7 +113,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-04T05:59:03Z",
+    "updated_at": "2026-08-04T06:05:08Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 21,
     "updated_at": "2026-08-04T05:38:01Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-08-04T05:46:44Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
@@ -144,6 +189,15 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 574,
+    "updated_at": "2026-08-04T04:53:36Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 11,
     "updated_at": "2026-08-04T04:47:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 601,
-    "updated_at": "2026-08-04T05:47:53Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "OrcaLoca: An LLM Agent Framework for  Software Issue Localization [ICML 25]",
@@ -270,15 +315,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 573,
-    "updated_at": "2026-08-04T04:53:36Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
     "id": "bigduu/Lotus",
     "language": "TypeScript",
@@ -342,15 +378,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5640,
-    "updated_at": "2026-08-04T05:59:51Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
     "id": "Giggitycountless/LOL-AI-Intelligence",
     "language": "Rust",
@@ -382,7 +409,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6782,
+    "stars": 6783,
     "updated_at": "2026-08-04T01:49:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T01:06:28Z",
     "url": "https://github.com/Kike-Ramirez/home-assistant"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-08-04T01:05:08Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "LangGraph agent that triages ML pipeline alerts by querying live metrics and retrieving matching runbooks, with full tra",
-    "id": "TirthBorasaniya/incidentpilot",
-    "language": "Python",
-    "name": "TirthBorasaniya/incidentpilot",
-    "stars": 0,
-    "updated_at": "2026-08-04T01:00:23Z",
-    "url": "https://github.com/TirthBorasaniya/incidentpilot"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-04T00:15:50Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
