@@ -1,5 +1,59 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-04T14:57:40Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T14:56:45Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-04T14:58:13Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T14:49:15Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6787,
+    "updated_at": "2026-08-04T14:47:43Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 91,
+    "updated_at": "2026-08-04T14:46:20Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -18,13 +72,13 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
     "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-04T14:37:00Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:29:43Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -34,24 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T14:25:57Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T14:35:37Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-04T14:20:19Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
@@ -106,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T14:04:11Z",
     "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Go",
-    "name": "mintuz/skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T14:01:48Z",
-    "url": "https://github.com/mintuz/skills"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -187,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T13:15:08Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6787,
-    "updated_at": "2026-08-04T13:24:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Give you decision-ready references for the most common AI engineering problems",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T09:42:58Z",
     "url": "https://github.com/Lunamos/OpenSCP079"
-  },
-  {
-    "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
-    "id": "lijiajia96/llm-local",
-    "language": "TypeScript",
-    "name": "lijiajia96/llm-local",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:16:17Z",
-    "url": "https://github.com/lijiajia96/llm-local"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16126,
-    "updated_at": "2026-08-04T09:04:22Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
