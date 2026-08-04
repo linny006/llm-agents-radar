@@ -1,5 +1,77 @@
 [
   {
+    "description": "Autonomous agent that plans its own task list, executes it via LLM calls with real tool-calling, and produces a polished",
+    "id": "Vivekpatil200320/autonomous-docgen-agent",
+    "language": "Python",
+    "name": "Vivekpatil200320/autonomous-docgen-agent",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:13:11Z",
+    "url": "https://github.com/Vivekpatil200320/autonomous-docgen-agent"
+  },
+  {
+    "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
+    "id": "Kike-Ramirez/home-assistant",
+    "language": "Python",
+    "name": "Kike-Ramirez/home-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:11:21Z",
+    "url": "https://github.com/Kike-Ramirez/home-assistant"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-04T12:11:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-04T12:05:45Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 9,
+    "updated_at": "2026-08-04T12:05:10Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-04T12:04:54Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 1,
+    "updated_at": "2026-08-04T12:03:43Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
+    "id": "nhtera/OxiCode",
+    "language": "Rust",
+    "name": "nhtera/OxiCode",
+    "stars": 0,
+    "updated_at": "2026-08-04T12:02:37Z",
+    "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "JavaScript",
@@ -23,17 +95,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T11:54:46Z",
+    "updated_at": "2026-08-04T12:11:35Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 9,
-    "updated_at": "2026-08-04T11:51:43Z",
-    "url": "https://github.com/xcq20100224/Nolan"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -61,15 +124,6 @@
     "stars": 20,
     "updated_at": "2026-08-04T11:24:42Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
-    "id": "nhtera/OxiCode",
-    "language": "Rust",
-    "name": "nhtera/OxiCode",
-    "stars": 0,
-    "updated_at": "2026-08-04T11:20:55Z",
-    "url": "https://github.com/nhtera/OxiCode"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -180,15 +234,6 @@
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-04T10:02:47Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -223,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-04T09:42:58Z",
     "url": "https://github.com/Lunamos/OpenSCP079"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-04T09:42:19Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-04T09:41:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4375,
-    "updated_at": "2026-08-04T11:57:47Z",
+    "updated_at": "2026-08-04T12:11:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5644,
-    "updated_at": "2026-08-04T07:05:03Z",
+    "updated_at": "2026-08-04T12:02:18Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2585,
     "updated_at": "2026-08-04T05:32:09Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
-    "id": "hwfengcs/DM-Code-Agent",
-    "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 149,
-    "updated_at": "2026-08-04T05:22:08Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "A curated list of resources for designing multi-agent AI systems as graphs \u2014 topology patterns, orchestration frameworks",
-    "id": "adventurewave-labs/awesome-graph-engineering",
-    "language": "HTML",
-    "name": "adventurewave-labs/awesome-graph-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-04T05:22:01Z",
-    "url": "https://github.com/adventurewave-labs/awesome-graph-engineering"
-  },
-  {
-    "description": "Official code for VoLN: Vision-Only Long-Horizon Navigation\u2014Paradigm, Benchmark, and Method. An embodied AI UAV benchmar",
-    "id": "Admire-ljb/VoLN-UAV",
-    "language": "Python",
-    "name": "Admire-ljb/VoLN-UAV",
-    "stars": 38,
-    "updated_at": "2026-08-04T05:15:03Z",
-    "url": "https://github.com/Admire-ljb/VoLN-UAV"
   }
 ]
