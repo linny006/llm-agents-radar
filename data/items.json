@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-04T09:20:59Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 7,
+    "updated_at": "2026-08-04T09:18:24Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 14,
+    "updated_at": "2026-08-04T09:17:45Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 4,
+    "updated_at": "2026-08-04T09:16:39Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "Browser-based vLLM Chat Agent with local Memory, Skills, ReAct tools, and session isolation",
+    "id": "lijiajia96/llm-local",
+    "language": "TypeScript",
+    "name": "lijiajia96/llm-local",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:16:17Z",
+    "url": "https://github.com/lijiajia96/llm-local"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "nhtera/OxiCode",
     "stars": 0,
-    "updated_at": "2026-08-04T09:04:01Z",
+    "updated_at": "2026-08-04T09:25:44Z",
     "url": "https://github.com/nhtera/OxiCode"
   },
   {
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T08:56:46Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 14,
-    "updated_at": "2026-08-04T09:08:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 7,
-    "updated_at": "2026-08-04T09:15:12Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
@@ -99,6 +126,15 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 606,
+    "updated_at": "2026-08-04T08:29:40Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T08:29:14Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 605,
-    "updated_at": "2026-08-04T08:29:40Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -139,7 +166,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28559,
+    "stars": 28560,
     "updated_at": "2026-08-04T08:20:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -160,15 +187,6 @@
     "stars": 27,
     "updated_at": "2026-08-04T08:58:12Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 4,
-    "updated_at": "2026-08-04T08:12:43Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -320,7 +338,7 @@
     "language": "Kotlin",
     "name": "Torvian-eu/chatbot",
     "stars": 2,
-    "updated_at": "2026-08-04T06:08:39Z",
+    "updated_at": "2026-08-04T09:22:52Z",
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
@@ -340,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T05:41:42Z",
     "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-04T07:24:13Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
@@ -439,14 +448,5 @@
     "stars": 6347,
     "updated_at": "2026-08-04T04:30:01Z",
     "url": "https://github.com/jeinlee1991/chinese-llm-benchmark"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 2,
-    "updated_at": "2026-08-04T04:28:11Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   }
 ]
