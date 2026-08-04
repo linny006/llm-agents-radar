@@ -1,12 +1,102 @@
 [
   {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 21,
+    "updated_at": "2026-08-04T15:29:58Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-04T15:28:34Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-04T15:27:38Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
+    "id": "Kike-Ramirez/home-assistant",
+    "language": "Python",
+    "name": "Kike-Ramirez/home-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:24:44Z",
+    "url": "https://github.com/Kike-Ramirez/home-assistant"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-04T15:21:28Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T15:30:18Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:20:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-04T15:13:29Z",
+    "updated_at": "2026-08-04T15:20:52Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "AI Agent platform for incident triage & project Q&A on OpenHands \u2014 Git sync, logs, config center, Ingress/Webhook",
+    "id": "shanananana/deepticket",
+    "language": "Python",
+    "name": "shanananana/deepticket",
+    "stars": 3,
+    "updated_at": "2026-08-04T15:16:28Z",
+    "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 26,
+    "updated_at": "2026-08-04T15:14:47Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6788,
+    "updated_at": "2026-08-04T15:11:05Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 92,
-    "updated_at": "2026-08-04T15:09:22Z",
+    "updated_at": "2026-08-04T15:28:37Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 20,
     "updated_at": "2026-08-04T15:06:35Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-04T15:05:33Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
@@ -61,33 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T14:59:30Z",
     "url": "https://github.com/Zensoro/archagent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T15:12:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Go",
-    "name": "mintuz/skills",
-    "stars": 21,
-    "updated_at": "2026-08-04T14:49:15Z",
-    "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6787,
-    "updated_at": "2026-08-04T15:11:05Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -126,15 +180,6 @@
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
-    "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
-    "id": "Kike-Ramirez/home-assistant",
-    "language": "Python",
-    "name": "Kike-Ramirez/home-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-04T14:19:35Z",
-    "url": "https://github.com/Kike-Ramirez/home-assistant"
-  },
-  {
     "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
     "id": "nhtera/OxiCode",
     "language": "Rust",
@@ -144,21 +189,12 @@
     "url": "https://github.com/nhtera/OxiCode"
   },
   {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 26,
-    "updated_at": "2026-08-04T15:14:47Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-04T14:12:08Z",
+    "updated_at": "2026-08-04T15:27:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -166,7 +202,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 581,
+    "stars": 582,
     "updated_at": "2026-08-04T14:09:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -234,15 +270,6 @@
     "url": "https://github.com/TirthBorasaniya/incidentpilot"
   },
   {
-    "description": "AI Agent platform for incident triage & project Q&A on OpenHands \u2014 Git sync, logs, config center, Ingress/Webhook",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 3,
-    "updated_at": "2026-08-04T13:15:08Z",
-    "url": "https://github.com/shanananana/deepticket"
-  },
-  {
     "description": "Give you decision-ready references for the most common AI engineering problems",
     "id": "louisfb01/ai-engineering-cheatsheets",
     "language": "\u2014",
@@ -268,15 +295,6 @@
     "stars": 157,
     "updated_at": "2026-08-04T13:00:38Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:55:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -313,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T12:13:11Z",
     "url": "https://github.com/Vivekpatil200320/autonomous-docgen-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-04T12:05:45Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-04T12:04:54Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
