@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-04T14:57:40Z",
+    "updated_at": "2026-08-04T15:13:29Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-04T14:56:45Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-08-04T15:09:22Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -23,8 +23,53 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-04T14:58:13Z",
+    "updated_at": "2026-08-04T15:06:35Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-04T15:05:33Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 4,
+    "updated_at": "2026-08-04T15:03:12Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 16,
+    "updated_at": "2026-08-04T15:01:56Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
+    "description": "ArchAgent \u8003\u53e4\u5b66\u672f\u7a81\u7834\u70b9\u5206\u6790\u5668 \u2014 AI agent for detecting chronological/attribution/typological conflicts in Chinese Neolithic\u2013Bronz",
+    "id": "Zensoro/archagent",
+    "language": "Python",
+    "name": "Zensoro/archagent",
+    "stars": 0,
+    "updated_at": "2026-08-04T14:59:30Z",
+    "url": "https://github.com/Zensoro/archagent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-04T15:12:53Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6787,
-    "updated_at": "2026-08-04T14:47:43Z",
+    "updated_at": "2026-08-04T15:11:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 91,
-    "updated_at": "2026-08-04T14:46:20Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "sky-valley/pi",
     "stars": 26,
-    "updated_at": "2026-08-04T14:16:21Z",
+    "updated_at": "2026-08-04T15:14:47Z",
     "url": "https://github.com/sky-valley/pi"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 581,
     "updated_at": "2026-08-04T14:09:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 4,
-    "updated_at": "2026-08-04T14:04:11Z",
-    "url": "https://github.com/erickuhn19/deliverator"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -333,15 +360,6 @@
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-04T11:55:13Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -423,30 +441,12 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28563,
-    "updated_at": "2026-08-04T09:46:16Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-04T09:45:11Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A local-first containment console for an old AI that never stopped thinking.",
-    "id": "Lunamos/OpenSCP079",
-    "language": "Python",
-    "name": "Lunamos/OpenSCP079",
-    "stars": 1,
-    "updated_at": "2026-08-04T09:42:58Z",
-    "url": "https://github.com/Lunamos/OpenSCP079"
+    "description": "All-in-one agent harness for OpenAI Codex CLI \u2014 Boss meta-orchestrator, 17 curated agents (+17 opt-in AI specialists), 1",
+    "id": "sehoon787/my-codex",
+    "language": "Shell",
+    "name": "sehoon787/my-codex",
+    "stars": 23,
+    "updated_at": "2026-08-04T09:53:10Z",
+    "url": "https://github.com/sehoon787/my-codex"
   }
 ]
