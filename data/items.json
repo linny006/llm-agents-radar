@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-04T03:26:46Z",
+    "updated_at": "2026-08-04T03:43:01Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-04T03:41:44Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -61,6 +70,15 @@
     "stars": 9,
     "updated_at": "2026-08-04T03:07:33Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 2997,
+    "updated_at": "2026-08-04T03:01:33Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:07:12Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-04T02:04:43Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-03T19:08:14Z",
     "url": "https://github.com/EauDoon/hermes-parallel-followups"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 13,
-    "updated_at": "2026-08-03T19:06:32Z",
-    "url": "https://github.com/Smana/runlore"
   }
 ]
