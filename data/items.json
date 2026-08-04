@@ -1,5 +1,14 @@
 [
   {
+    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
+    "id": "nhtera/OxiCode",
+    "language": "Rust",
+    "name": "nhtera/OxiCode",
+    "stars": 0,
+    "updated_at": "2026-08-04T09:25:44Z",
+    "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 16125,
     "updated_at": "2026-08-04T09:04:22Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
-    "id": "nhtera/OxiCode",
-    "language": "Rust",
-    "name": "nhtera/OxiCode",
-    "stars": 0,
-    "updated_at": "2026-08-04T09:25:44Z",
-    "url": "https://github.com/nhtera/OxiCode"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
