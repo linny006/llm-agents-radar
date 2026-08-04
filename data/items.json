@@ -1,5 +1,23 @@
 [
   {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16124,
+    "updated_at": "2026-08-04T07:58:00Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 27,
+    "updated_at": "2026-08-04T07:56:25Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -54,21 +72,12 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 27,
-    "updated_at": "2026-08-04T07:34:34Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 604,
-    "updated_at": "2026-08-04T07:17:23Z",
+    "updated_at": "2026-08-04T07:51:08Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 793,
-    "updated_at": "2026-08-04T07:04:30Z",
+    "updated_at": "2026-08-04T07:46:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -130,7 +139,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 576,
+    "stars": 577,
     "updated_at": "2026-08-04T06:43:25Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T02:07:12Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6785,
-    "updated_at": "2026-08-04T01:49:19Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
