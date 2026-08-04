@@ -1,12 +1,39 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 606,
+    "updated_at": "2026-08-04T10:09:25Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-04T10:08:20Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Experimental Rust CLI agent for software engineering \u2014 a work-in-progress port of Claude Code (17-crate workspace, ratat",
     "id": "nhtera/OxiCode",
     "language": "Rust",
     "name": "nhtera/OxiCode",
     "stars": 0,
-    "updated_at": "2026-08-04T09:58:19Z",
+    "updated_at": "2026-08-04T10:03:18Z",
     "url": "https://github.com/nhtera/OxiCode"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 2,
+    "updated_at": "2026-08-04T10:02:47Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
     "stars": 4,
-    "updated_at": "2026-08-04T09:51:30Z",
+    "updated_at": "2026-08-04T10:00:29Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
@@ -40,7 +67,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28561,
+    "stars": 28562,
     "updated_at": "2026-08-04T09:46:16Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -52,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-04T09:45:11Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 33 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-04T09:43:55Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "A local-first containment console for an old AI that never stopped thinking.",
@@ -180,15 +198,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 606,
-    "updated_at": "2026-08-04T09:59:52Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
     "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
@@ -268,15 +277,6 @@
     "stars": 4375,
     "updated_at": "2026-08-04T07:20:42Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 2,
-    "updated_at": "2026-08-04T07:16:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
