@@ -1,5 +1,32 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-04T22:40:55Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 4,
+    "updated_at": "2026-08-04T22:33:43Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-04T22:32:19Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -72,15 +99,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:20:44Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "AI equity-research analyst for Indian equities (NSE/BSE) - Claude Agent SDK + 28 MCP tools + RAG + forensic/valuation/SW",
     "id": "sreenathvemula/finance-research-agent",
     "language": "Python",
@@ -94,7 +112,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 93,
+    "stars": 94,
     "updated_at": "2026-08-04T21:19:17Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -151,15 +169,6 @@
     "stars": 26,
     "updated_at": "2026-08-04T20:36:23Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-04T20:34:23Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Voice Agent implementations for the VAmoS Benchmark",
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T22:25:24Z",
+    "updated_at": "2026-08-04T22:42:14Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 3,
     "updated_at": "2026-08-04T15:16:28Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
-    "id": "erickuhn19/deliverator",
-    "language": "Go",
-    "name": "erickuhn19/deliverator",
-    "stars": 4,
-    "updated_at": "2026-08-04T21:21:16Z",
-    "url": "https://github.com/erickuhn19/deliverator"
   },
   {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
