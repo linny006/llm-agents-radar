@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 9,
-    "updated_at": "2026-08-04T00:14:08Z",
+    "updated_at": "2026-08-04T00:21:18Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-04T00:15:50Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-03T23:59:54Z",
     "url": "https://github.com/bydesign21/open-agent-sync"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-03T23:49:16Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
