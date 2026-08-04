@@ -1,5 +1,86 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:59:03Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-04T17:55:17Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-04T17:54:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 77,
+    "updated_at": "2026-08-04T17:54:51Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-04T17:51:27Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 92,
+    "updated_at": "2026-08-04T17:49:40Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30fb\u30d0\u30a4\u30fb\u30c7\u30b6\u30a4\u30f3\u306b\u57fa\u3065\u304f\u3001\u6b21\u4e16\u4ee3AI\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\uff06\u7761\u7720\u7ba1\u7406iOS\u30a2\u30d7\u30ea\u3002\u30aa\u30f3\u30c7\u30d0\u30a4\u30b9AI\uff08TensorFlow Lite\uff09\u3092\u7528\u3044\u305f\u7761\u7720\u89e3\u6790\u3068\u3001\u5916\u90e8API\u9023\u643a\u306b\u3088\u308b\u671d\u306e\u30eb\u30fc\u30c6\u30a3\u30f3\u306e\u5168\u81ea\u52d5\u6700\u9069\u5316\u3092\u5b9f\u73fe\u3057\u307e\u3059\u3002",
+    "id": "Maaa2005/Stellise",
+    "language": "Swift",
+    "name": "Maaa2005/Stellise",
+    "stars": 1,
+    "updated_at": "2026-08-04T17:59:10Z",
+    "url": "https://github.com/Maaa2005/Stellise"
+  },
+  {
+    "description": "LangGraph-Agent f\u00fcr Text-to-SQL gegen echtes Postgres, mit SQL-Guardrails und Selbstkorrektur-Loop.",
+    "id": "marco-stang/sql-copilot",
+    "language": "Python",
+    "name": "marco-stang/sql-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:47:11Z",
+    "url": "https://github.com/marco-stang/sql-copilot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-04T17:46:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -63,15 +144,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 92,
-    "updated_at": "2026-08-04T17:15:35Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -85,7 +157,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6788,
+    "stars": 6789,
     "updated_at": "2026-08-04T17:08:11Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -162,15 +234,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:55:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -223,24 +286,6 @@
     "stars": 21,
     "updated_at": "2026-08-04T15:29:58Z",
     "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-04T15:28:34Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-04T15:27:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Conversational home-device assistant over Telegram/Web, orchestrated with Claude/Gemini tool-use agents, MQTT event bus,",
@@ -403,50 +448,5 @@
     "stars": 5638,
     "updated_at": "2026-08-04T12:52:06Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-04T12:44:13Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 11,
-    "updated_at": "2026-08-04T12:48:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Autonomous agent that plans its own task list, executes it via LLM calls with real tool-calling, and produces a polished",
-    "id": "Vivekpatil200320/autonomous-docgen-agent",
-    "language": "Python",
-    "name": "Vivekpatil200320/autonomous-docgen-agent",
-    "stars": 0,
-    "updated_at": "2026-08-04T12:13:11Z",
-    "url": "https://github.com/Vivekpatil200320/autonomous-docgen-agent"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 1,
-    "updated_at": "2026-08-04T12:03:43Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5646,
-    "updated_at": "2026-08-04T17:06:59Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   }
 ]
