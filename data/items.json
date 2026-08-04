@@ -1,5 +1,14 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-04T15:45:07Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 6788,
     "updated_at": "2026-08-04T15:40:25Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-04T15:40:23Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "HumanStudy-Hub/HumanStudy-Bench",
     "stars": 6,
-    "updated_at": "2026-08-04T15:43:01Z",
+    "updated_at": "2026-08-04T15:44:38Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
