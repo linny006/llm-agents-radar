@@ -1,5 +1,14 @@
 [
   {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 54,
+    "updated_at": "2026-08-04T17:28:54Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
     "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
     "id": "222394/SkyPilot",
     "language": "Java",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 16,
-    "updated_at": "2026-08-04T15:55:36Z",
+    "updated_at": "2026-08-04T17:30:02Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -310,7 +319,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 587,
+    "stars": 588,
     "updated_at": "2026-08-04T14:09:32Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-04T11:56:39Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-08-04T11:33:28Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
