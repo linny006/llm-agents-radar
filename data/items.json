@@ -1,12 +1,57 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 46 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:44:29Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:41:55Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:40:06Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 62,
-    "updated_at": "2026-08-05T17:21:49Z",
+    "updated_at": "2026-08-05T17:39:37Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6808,
+    "updated_at": "2026-08-05T17:36:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Solana memecoin research & autonomous trading agent with deterministic risk gates",
+    "id": "rinorouu/vanilla-agent",
+    "language": "Python",
+    "name": "rinorouu/vanilla-agent",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:32:46Z",
+    "url": "https://github.com/rinorouu/vanilla-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -18,15 +63,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Solana memecoin research & autonomous trading agent with deterministic risk gates",
-    "id": "rinorouu/vanilla-agent",
-    "language": "Python",
-    "name": "rinorouu/vanilla-agent",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:06:48Z",
-    "url": "https://github.com/rinorouu/vanilla-agent"
-  },
-  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -34,15 +70,6 @@
     "stars": 9,
     "updated_at": "2026-08-05T17:04:13Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6807,
-    "updated_at": "2026-08-05T17:04:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
@@ -144,24 +171,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 1,
-    "updated_at": "2026-08-05T15:59:16Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-05T15:58:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
     "id": "passive-hotpepper515/area-checker-html-tool",
     "language": "HTML",
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-05T16:05:48Z",
+    "updated_at": "2026-08-05T17:35:48Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 392,
     "updated_at": "2026-08-05T14:41:43Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 46 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-05T14:32:36Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Voice Agent implementations for the VAmoS Benchmark",
