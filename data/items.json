@@ -1,5 +1,14 @@
 [
   {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-08-05T00:42:27Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -25,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T00:16:27Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:13:55Z",
-    "url": "https://github.com/Wenri/TaskSolver"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",

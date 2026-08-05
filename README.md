@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 00:30 UTC
+> ⏰ Last updated: 2026-08-05 00:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-05 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-05 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
-| 3 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-05 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 4 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-05 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
+| 1 | [Wenri/TaskSolver](https://github.com/Wenri/TaskSolver) | 0 | Python | 2026-08-05 | Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-05 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-05 | Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions. |
+| 4 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-05 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 26 | Python | 2026-08-05 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 7 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-08-05 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
