@@ -1,5 +1,14 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T05:28:22Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Grounded, multi-jurisdiction legal AI agent harness: primary-source connectors (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), verified pinp",
     "id": "WenzhuoXu/legal_ai_harness",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 11,
     "updated_at": "2026-08-05T05:01:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T04:53:13Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -347,7 +347,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 115,
-    "updated_at": "2026-08-05T01:01:12Z",
+    "updated_at": "2026-08-05T05:30:13Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
