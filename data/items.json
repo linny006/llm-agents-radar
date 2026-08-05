@@ -1,5 +1,50 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T09:12:48Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
+    "id": "tachyon-r/maximal-utility-agent-soul",
+    "language": "\u2014",
+    "name": "tachyon-r/maximal-utility-agent-soul",
+    "stars": 1,
+    "updated_at": "2026-08-05T09:12:31Z",
+    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-05T09:07:29Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:04:33Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 3,
+    "updated_at": "2026-08-05T08:59:42Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -27,15 +72,6 @@
     "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T08:45:50Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -43,6 +79,15 @@
     "stars": 13,
     "updated_at": "2026-08-05T08:41:40Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:35:55Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
@@ -90,15 +135,6 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-05T08:10:42Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -106,15 +142,6 @@
     "stars": 28590,
     "updated_at": "2026-08-05T08:06:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-08-05T08:41:27Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-05T08:32:49Z",
+    "updated_at": "2026-08-05T09:09:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 20,
-    "updated_at": "2026-08-05T08:50:33Z",
+    "updated_at": "2026-08-05T09:09:20Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 149,
     "updated_at": "2026-08-05T02:58:25Z",
     "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6801,
-    "updated_at": "2026-08-05T07:59:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5654,
-    "updated_at": "2026-08-05T02:41:37Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
-    "id": "larlarua/AutoCVE",
-    "language": "Python",
-    "name": "larlarua/AutoCVE",
-    "stars": 1249,
-    "updated_at": "2026-08-05T02:07:28Z",
-    "url": "https://github.com/larlarua/AutoCVE"
   }
 ]
