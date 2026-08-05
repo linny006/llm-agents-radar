@@ -4,7 +4,7 @@
     "id": "WenzhuoXu/legal_ai_harness",
     "language": "Python",
     "name": "WenzhuoXu/legal_ai_harness",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-05T05:15:05Z",
     "url": "https://github.com/WenzhuoXu/legal_ai_harness"
   },
@@ -113,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-05T05:13:10Z",
+    "updated_at": "2026-08-05T05:22:49Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -445,7 +445,7 @@
     "id": "sky-valley/pi",
     "language": "Go",
     "name": "sky-valley/pi",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-08-04T20:36:23Z",
     "url": "https://github.com/sky-valley/pi"
   }
