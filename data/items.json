@@ -1,5 +1,59 @@
 [
   {
+    "description": "LangGraph-Agent f\u00fcr Text-to-SQL gegen echtes Postgres, mit SQL-Guardrails und Selbstkorrektur-Loop.",
+    "id": "marco-stang/sql-copilot",
+    "language": "Python",
+    "name": "marco-stang/sql-copilot",
+    "stars": 0,
+    "updated_at": "2026-08-05T19:59:19Z",
+    "url": "https://github.com/marco-stang/sql-copilot"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-05T19:59:05Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 17,
+    "updated_at": "2026-08-05T19:57:05Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
+    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, fact",
+    "id": "laazizi/autoagent",
+    "language": "Python",
+    "name": "laazizi/autoagent",
+    "stars": 2,
+    "updated_at": "2026-08-05T19:56:29Z",
+    "url": "https://github.com/laazizi/autoagent"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T19:55:58Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
+    "id": "krishagarwal314/CodeJury",
+    "language": "Python",
+    "name": "krishagarwal314/CodeJury",
+    "stars": 136,
+    "updated_at": "2026-08-05T19:52:10Z",
+    "url": "https://github.com/krishagarwal314/CodeJury"
+  },
+  {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
     "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
     "language": "Python",
@@ -99,15 +153,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T19:51:08Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -115,15 +160,6 @@
     "stars": 6808,
     "updated_at": "2026-08-05T19:37:34Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 17,
-    "updated_at": "2026-08-05T19:37:32Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
@@ -187,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-08-05T19:26:10Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 136,
-    "updated_at": "2026-08-05T19:24:39Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -302,17 +329,8 @@
     "language": "\u2014",
     "name": "SHUKLAO/call-with-ai-agent",
     "stars": 3,
-    "updated_at": "2026-08-05T19:05:44Z",
+    "updated_at": "2026-08-05T19:59:52Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-05T19:05:15Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
@@ -356,7 +374,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-05T18:21:39Z",
+    "updated_at": "2026-08-05T20:00:22Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-05T17:04:13Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "hwfengcs/DM-Code-Agent",
-    "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 149,
-    "updated_at": "2026-08-05T17:00:23Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 173,
-    "updated_at": "2026-08-05T16:55:49Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
