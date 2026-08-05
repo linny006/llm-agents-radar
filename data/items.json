@@ -1,11 +1,38 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 392,
+    "updated_at": "2026-08-05T10:56:46Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3004,
+    "updated_at": "2026-08-05T10:46:57Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T10:46:14Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T10:39:24Z",
+    "updated_at": "2026-08-05T10:47:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -45,15 +72,6 @@
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T10:27:26Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "omohikane/saku",
     "stars": 1,
-    "updated_at": "2026-08-05T09:49:14Z",
+    "updated_at": "2026-08-05T10:57:40Z",
     "url": "https://github.com/omohikane/saku"
   },
   {
@@ -167,17 +185,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-05T10:21:03Z",
+    "updated_at": "2026-08-05T10:46:41Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3004,
-    "updated_at": "2026-08-05T10:19:57Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
@@ -283,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28592,
+    "stars": 28594,
     "updated_at": "2026-08-05T08:06:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-05T09:09:52Z",
+    "updated_at": "2026-08-05T10:49:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T04:08:56Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 9,
-    "updated_at": "2026-08-05T03:49:51Z",
-    "url": "https://github.com/xcq20100224/Nolan"
   }
 ]
