@@ -1,5 +1,41 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:50:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
+    "id": "Giggitycountless/LOL-AI-Intelligence",
+    "language": "Rust",
+    "name": "Giggitycountless/LOL-AI-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-05T08:49:08Z",
+    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
+    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
+    "id": "jiayi-ThE-CREATOR/es-coach-skills",
+    "language": "Python",
+    "name": "jiayi-ThE-CREATOR/es-coach-skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T08:46:19Z",
+    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T08:45:50Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -9,40 +45,13 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T08:39:44Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
-    "id": "jiayi-ThE-CREATOR/es-coach-skills",
-    "language": "Python",
-    "name": "jiayi-ThE-CREATOR/es-coach-skills",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:36:52Z",
-    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
     "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 145,
+    "stars": 146,
     "updated_at": "2026-08-05T08:34:48Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-05T08:25:51Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   },
   {
     "description": "Octomind Agents Registry",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 20,
-    "updated_at": "2026-08-05T08:36:19Z",
+    "updated_at": "2026-08-05T08:50:33Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T06:22:05Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-05T06:09:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",

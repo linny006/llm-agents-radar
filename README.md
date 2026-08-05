@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-05 08:45 UTC
+> ⏰ Last updated: 2026-08-05 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,35 +42,35 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-05 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 2 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-05 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [Giggitycountless/LOL-AI-Intelligence](https://github.com/Giggitycountless/LOL-AI-Intelligence) | 1 | Rust | 2026-08-05 | AI-Powered League of Legends Desktop Companion — Real-time game intelligence, LLM-driven match analysis and AI coaching. |
 | 3 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 0 | Python | 2026-08-05 | Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and |
-| 4 | [iBlinkQ/project-cairn](https://github.com/iBlinkQ/project-cairn) | 145 | Shell | 2026-08-05 | Turn project work into reusable knowledge — an AI-agent skill for Claude Code & Codex |
-| 5 | [Giggitycountless/LOL-AI-Intelligence](https://github.com/Giggitycountless/LOL-AI-Intelligence) | 1 | Rust | 2026-08-05 | AI-Powered League of Legends Desktop Companion — Real-time game intelligence, LLM-driven match analysis and AI coaching. |
-| 6 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-05 | Octomind Agents Registry |
-| 7 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 7 | TypeScript | 2026-08-05 | Open-source AI automation for SolidWorks — talk to your CAD. |
-| 8 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 44 | Rust | 2026-08-05 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 9 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 182 | JavaScript | 2026-08-05 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
-| 10 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-05 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 11 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28590 | Python | 2026-08-05 | Build and run agents you can see, understand and trust. |
-| 12 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-05 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
-| 13 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-05 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
-| 14 | [maisieyang/build-my-own-harness](https://github.com/maisieyang/build-my-own-harness) | 0 | Python | 2026-08-05 | Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha |
-| 15 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 2 | C# | 2026-08-05 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
-| 16 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 2 | Kotlin | 2026-08-05 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 17 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 3 | Python | 2026-08-05 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
-| 18 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-05 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 19 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-05 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 20 | [WenzhuoXu/lawgent](https://github.com/WenzhuoXu/lawgent) | 1 | Python | 2026-08-05 | Lawgent — an open-source legal AI agent. Grounded, multi-jurisdiction (CN · US · EU · ET · ICAO), citation-verified: eve |
-| 21 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3003 | Python | 2026-08-05 | SRE Agent - CNCF Sandbox Project |
-| 22 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-05 | AI-powered image generation and chat studio |
-| 23 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-05 | Give your LLM a canonical knowledge backbone. 41 tools to validate, evolve, and verify — zero hallucinations. |
-| 24 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-05 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 25 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-05 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 26 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-05 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 27 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 158 | HTML | 2026-08-05 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 28 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-05 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 29 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-05 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-05 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 5 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-05 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 6 | [iBlinkQ/project-cairn](https://github.com/iBlinkQ/project-cairn) | 146 | Shell | 2026-08-05 | Turn project work into reusable knowledge — an AI-agent skill for Claude Code & Codex |
+| 7 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-05 | Octomind Agents Registry |
+| 8 | [raylanlin/Millwright](https://github.com/raylanlin/Millwright) | 7 | TypeScript | 2026-08-05 | Open-source AI automation for SolidWorks — talk to your CAD. |
+| 9 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 44 | Rust | 2026-08-05 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 10 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 182 | JavaScript | 2026-08-05 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |
+| 11 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-05 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 12 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28590 | Python | 2026-08-05 | Build and run agents you can see, understand and trust. |
+| 13 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-05 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
+| 14 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-05 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
+| 15 | [maisieyang/build-my-own-harness](https://github.com/maisieyang/build-my-own-harness) | 0 | Python | 2026-08-05 | Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha |
+| 16 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 2 | C# | 2026-08-05 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
+| 17 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 2 | Kotlin | 2026-08-05 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 18 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 3 | Python | 2026-08-05 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
+| 19 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-05 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 20 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-05 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 21 | [WenzhuoXu/lawgent](https://github.com/WenzhuoXu/lawgent) | 1 | Python | 2026-08-05 | Lawgent — an open-source legal AI agent. Grounded, multi-jurisdiction (CN · US · EU · ET · ICAO), citation-verified: eve |
+| 22 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3003 | Python | 2026-08-05 | SRE Agent - CNCF Sandbox Project |
+| 23 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-05 | AI-powered image generation and chat studio |
+| 24 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-05 | Give your LLM a canonical knowledge backbone. 41 tools to validate, evolve, and verify — zero hallucinations. |
+| 25 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-05 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 26 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-05 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 27 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-05 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 28 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 158 | HTML | 2026-08-05 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 29 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-05 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 30 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 127 | TypeScript | 2026-08-05 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
 | 31 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 26 | Go | 2026-08-05 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
 | 32 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 610 | Go | 2026-08-05 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
