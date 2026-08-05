@@ -1,11 +1,47 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-05T11:09:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 28,
+    "updated_at": "2026-08-05T11:08:15Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-05T11:11:29Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-05T11:05:32Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 392,
-    "updated_at": "2026-08-05T10:56:46Z",
+    "updated_at": "2026-08-05T11:03:36Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-05T09:47:10Z",
+    "updated_at": "2026-08-05T11:00:44Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-05T10:46:41Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
     "id": "tachyon-r/maximal-utility-agent-soul",
     "language": "\u2014",
@@ -214,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-05T08:59:42Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-05T08:50:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
@@ -295,15 +313,6 @@
     "stars": 28594,
     "updated_at": "2026-08-05T08:06:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-05T08:03:52Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T04:12:00Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
-    "id": "FeixueCode/miaoclaw-releases",
-    "language": "JavaScript",
-    "name": "FeixueCode/miaoclaw-releases",
-    "stars": 1,
-    "updated_at": "2026-08-05T04:08:56Z",
-    "url": "https://github.com/FeixueCode/miaoclaw-releases"
   }
 ]
