@@ -1,5 +1,113 @@
 [
   {
+    "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
+    "id": "msnikonov/tradebybit",
+    "language": "Python",
+    "name": "msnikonov/tradebybit",
+    "stars": 1,
+    "updated_at": "2026-08-05T23:43:49Z",
+    "url": "https://github.com/msnikonov/tradebybit"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 9,
+    "updated_at": "2026-08-05T23:42:48Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:40:43Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:38:56Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-05T23:38:55Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 27,
+    "updated_at": "2026-08-05T23:38:33Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-05T23:40:15Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:35:48Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-05T23:31:39Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-05T23:31:13Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:31:00Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "socJweeU74EopXuTJGaTHt88zgvBfLdvGAo4zpo5Afu https://x.com/lorafinance",
+    "id": "Lora-Finance/socrates",
+    "language": "TypeScript",
+    "name": "Lora-Finance/socrates",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:30:27Z",
+    "url": "https://github.com/Lora-Finance/socrates"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -27,15 +135,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
-    "id": "msnikonov/tradebybit",
-    "language": "Python",
-    "name": "msnikonov/tradebybit",
-    "stars": 1,
-    "updated_at": "2026-08-05T23:17:44Z",
-    "url": "https://github.com/msnikonov/tradebybit"
-  },
-  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -52,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T23:15:56Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 9,
-    "updated_at": "2026-08-05T23:15:01Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -207,15 +297,6 @@
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-05T22:53:49Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -223,33 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T22:52:24Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:49:37Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:47:55Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:44:51Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -261,33 +315,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-05T22:41:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-05T22:40:42Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-05T22:40:04Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 6811,
     "updated_at": "2026-08-05T22:34:46Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-05T22:31:13Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -340,15 +358,6 @@
     "stars": 3,
     "updated_at": "2026-08-05T21:52:41Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "socJweeU74EopXuTJGaTHt88zgvBfLdvGAo4zpo5Afu https://x.com/socratesyielder",
-    "id": "Lora-Finance/socrates",
-    "language": "TypeScript",
-    "name": "Lora-Finance/socrates",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:24:18Z",
-    "url": "https://github.com/Lora-Finance/socrates"
   },
   {
     "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
@@ -439,14 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-05T20:12:56Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 0,
-    "updated_at": "2026-08-05T20:09:56Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
