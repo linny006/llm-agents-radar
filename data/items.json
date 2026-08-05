@@ -1,24 +1,87 @@
 [
   {
-    "description": "A safe, evaluable coding agent with disposable sandboxes, host-owned workflows, trusted patch replay, and reproducible b",
-    "id": "wentAInx/saferepo-agent",
-    "language": "Python",
-    "name": "wentAInx/saferepo-agent",
-    "stars": 0,
-    "updated_at": "2026-08-05T09:28:30Z",
-    "url": "https://github.com/wentAInx/saferepo-agent"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 3,
-    "updated_at": "2026-08-05T09:25:31Z",
+    "updated_at": "2026-08-05T09:44:06Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 41 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-05T09:40:37Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-05T09:40:19Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-05T09:44:00Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-08-05T09:41:58Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-05T09:36:46Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 158,
+    "updated_at": "2026-08-05T09:35:37Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T09:31:25Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A safe, evaluable coding agent with disposable sandboxes, host-owned workflows, trusted patch replay, and reproducible b",
+    "id": "wentAInx/saferepo-agent",
+    "language": "Python",
+    "name": "wentAInx/saferepo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-05T09:30:35Z",
+    "url": "https://github.com/wentAInx/saferepo-agent"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 42 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
@@ -27,21 +90,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-05T09:23:15Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-05T09:18:17Z",
+    "updated_at": "2026-08-05T09:43:38Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3004,
-    "updated_at": "2026-08-05T09:18:04Z",
+    "updated_at": "2026-08-05T09:39:42Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T08:46:19Z",
     "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-05T09:20:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -198,6 +243,15 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6802,
+    "updated_at": "2026-08-05T07:59:01Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
     "id": "maisieyang/build-my-own-harness",
     "language": "Python",
@@ -270,49 +324,13 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-05T06:34:17Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-05T06:33:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 20,
-    "updated_at": "2026-08-05T09:09:20Z",
+    "updated_at": "2026-08-05T09:34:43Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 158,
-    "updated_at": "2026-08-05T06:25:50Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-05T06:22:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -430,23 +448,5 @@
     "stars": 2585,
     "updated_at": "2026-08-05T03:35:26Z",
     "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 26,
-    "updated_at": "2026-08-05T03:27:16Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5638,
-    "updated_at": "2026-08-05T04:36:32Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
