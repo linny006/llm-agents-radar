@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "id": "Underline-1024/loom-engine",
+    "language": "Rust",
+    "name": "Underline-1024/loom-engine",
+    "stars": 8,
+    "updated_at": "2026-08-05T13:29:29Z",
+    "url": "https://github.com/Underline-1024/loom-engine"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 45 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:27:12Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:26:00Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-08-05T13:21:03Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6806,
+    "updated_at": "2026-08-05T13:20:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -34,6 +79,15 @@
     "stars": 7,
     "updated_at": "2026-08-05T13:07:36Z",
     "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5640,
+    "updated_at": "2026-08-05T13:05:45Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -189,21 +243,12 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-05T11:47:03Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-05T11:46:59Z",
+    "updated_at": "2026-08-05T13:29:08Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 28,
     "updated_at": "2026-08-05T11:08:15Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5639,
-    "updated_at": "2026-08-05T13:05:45Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -322,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T09:30:35Z",
     "url": "https://github.com/wentAInx/saferepo-agent"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 42 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-05T09:23:32Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
@@ -418,35 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28598,
+    "stars": 28599,
     "updated_at": "2026-08-05T08:06:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6804,
-    "updated_at": "2026-08-05T13:14:34Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
-    "id": "maisieyang/build-my-own-harness",
-    "language": "Python",
-    "name": "maisieyang/build-my-own-harness",
-    "stars": 0,
-    "updated_at": "2026-08-05T07:41:43Z",
-    "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
-    "id": "wusuiling-if/mini-code-agent-langgraph",
-    "language": "Python",
-    "name": "wusuiling-if/mini-code-agent-langgraph",
-    "stars": 3,
-    "updated_at": "2026-08-05T07:21:42Z",
-    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   }
 ]
