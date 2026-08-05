@@ -1,5 +1,14 @@
 [
   {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-08-05T04:37:07Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-05T04:09:08Z",
+    "updated_at": "2026-08-05T04:43:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -126,20 +135,11 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-08-05T03:30:47Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28577,
+    "stars": 28579,
     "updated_at": "2026-08-05T03:29:07Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5638,
-    "updated_at": "2026-08-05T03:21:46Z",
+    "updated_at": "2026-08-05T04:36:32Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -225,6 +225,15 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6797,
+    "updated_at": "2026-08-05T02:55:06Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -270,15 +279,6 @@
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6796,
-    "updated_at": "2026-08-05T02:55:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -310,7 +310,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 111,
+    "stars": 113,
     "updated_at": "2026-08-05T01:01:12Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
