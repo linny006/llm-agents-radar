@@ -1,19 +1,46 @@
 [
   {
+    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
+    "id": "hwfengcs/DM-Code-Agent",
+    "language": "Python",
+    "name": "hwfengcs/DM-Code-Agent",
+    "stars": 149,
+    "updated_at": "2026-08-05T02:58:25Z",
+    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28573,
+    "updated_at": "2026-08-05T02:56:14Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-05T02:44:50Z",
+    "updated_at": "2026-08-05T02:57:33Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 6,
+    "updated_at": "2026-08-05T02:46:36Z",
+    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5648,
+    "stars": 5651,
     "updated_at": "2026-08-05T02:41:37Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5637,
-    "updated_at": "2026-08-05T02:30:34Z",
+    "updated_at": "2026-08-05T02:58:31Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6796,
-    "updated_at": "2026-08-05T02:40:02Z",
+    "updated_at": "2026-08-05T02:55:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 103,
     "updated_at": "2026-08-05T01:01:12Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-05T00:48:30Z",
-    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "erickuhn19/deliverator",
     "stars": 4,
-    "updated_at": "2026-08-04T22:33:43Z",
+    "updated_at": "2026-08-05T02:48:21Z",
     "url": "https://github.com/erickuhn19/deliverator"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T01:42:26Z",
+    "updated_at": "2026-08-05T02:51:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-08-04T20:09:19Z",
+    "updated_at": "2026-08-05T02:58:16Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T17:59:03Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 78,
-    "updated_at": "2026-08-04T17:54:51Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "LangGraph-Agent f\u00fcr Text-to-SQL gegen echtes Postgres, mit SQL-Guardrails und Selbstkorrektur-Loop.",
-    "id": "marco-stang/sql-copilot",
-    "language": "Python",
-    "name": "marco-stang/sql-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-04T17:47:11Z",
-    "url": "https://github.com/marco-stang/sql-copilot"
   }
 ]
