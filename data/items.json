@@ -1,11 +1,29 @@
 [
   {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 17,
+    "updated_at": "2026-08-05T16:19:12Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T16:18:36Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 44,
-    "updated_at": "2026-08-05T16:12:33Z",
+    "updated_at": "2026-08-05T16:16:26Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -23,7 +41,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 603,
-    "updated_at": "2026-08-05T16:09:04Z",
+    "updated_at": "2026-08-05T16:25:22Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:08:20Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T16:03:37Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-05T10:28:25Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "\ud83c\udf11 SAKU (\u6714) \u2014 A self-evolving local AI agent with persistent personality and Markdown memory",
-    "id": "omohikane/saku",
-    "language": "Python",
-    "name": "omohikane/saku",
-    "stars": 1,
-    "updated_at": "2026-08-05T12:50:20Z",
-    "url": "https://github.com/omohikane/saku"
   }
 ]
