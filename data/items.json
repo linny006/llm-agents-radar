@@ -1,5 +1,59 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28580,
+    "updated_at": "2026-08-05T05:58:54Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 26,
+    "updated_at": "2026-08-05T05:56:08Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 609,
+    "updated_at": "2026-08-05T05:54:31Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Grounded, multi-jurisdiction legal AI agent harness: primary-source connectors (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), verified pinp",
+    "id": "WenzhuoXu/legal_ai_harness",
+    "language": "Python",
+    "name": "WenzhuoXu/legal_ai_harness",
+    "stars": 1,
+    "updated_at": "2026-08-05T05:50:58Z",
+    "url": "https://github.com/WenzhuoXu/legal_ai_harness"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T05:49:44Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 119,
+    "updated_at": "2026-08-05T05:44:26Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -16,33 +70,6 @@
     "stars": 20,
     "updated_at": "2026-08-05T05:34:15Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 116,
-    "updated_at": "2026-08-05T05:44:26Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T05:28:22Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Grounded, multi-jurisdiction legal AI agent harness: primary-source connectors (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), verified pinp",
-    "id": "WenzhuoXu/legal_ai_harness",
-    "language": "Python",
-    "name": "WenzhuoXu/legal_ai_harness",
-    "stars": 1,
-    "updated_at": "2026-08-05T05:15:05Z",
-    "url": "https://github.com/WenzhuoXu/legal_ai_harness"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -153,15 +180,6 @@
     "url": "https://github.com/xcq20100224/Nolan"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 609,
-    "updated_at": "2026-08-05T03:51:14Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
     "id": "chan-monk/chan-monk",
     "language": "\u2014",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:32:48Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28579,
-    "updated_at": "2026-08-05T03:29:07Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T21:19:48Z",
     "url": "https://github.com/sreenathvemula/finance-research-agent"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 27,
-    "updated_at": "2026-08-04T20:36:23Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
