@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-05T02:29:47Z",
+    "updated_at": "2026-08-05T02:44:50Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5648,
+    "updated_at": "2026-08-05T02:41:37Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-05T02:34:21Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5637,
+    "updated_at": "2026-08-05T02:30:34Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T02:30:26Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
@@ -16,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T02:29:31Z",
     "url": "https://github.com/chan-monk/chan-monk"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5637,
-    "updated_at": "2026-08-05T02:25:43Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-05T02:07:32Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -77,17 +95,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6796,
-    "updated_at": "2026-08-05T02:28:58Z",
+    "updated_at": "2026-08-05T02:40:02Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T01:47:08Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T17:47:11Z",
     "url": "https://github.com/marco-stang/sql-copilot"
-  },
-  {
-    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
-    "id": "Xyntopia/taskyon",
-    "language": "TypeScript",
-    "name": "Xyntopia/taskyon",
-    "stars": 54,
-    "updated_at": "2026-08-04T17:28:54Z",
-    "url": "https://github.com/Xyntopia/taskyon"
   }
 ]
