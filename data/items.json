@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "Giggitycountless/LOL-AI-Intelligence",
     "stars": 1,
-    "updated_at": "2026-08-05T09:56:09Z",
+    "updated_at": "2026-08-05T10:08:38Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T10:07:04Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3004,
-    "updated_at": "2026-08-05T09:39:42Z",
+    "updated_at": "2026-08-05T10:07:49Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 11,
-    "updated_at": "2026-08-05T05:01:21Z",
+    "updated_at": "2026-08-05T10:11:47Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-05T04:45:47Z",
+    "updated_at": "2026-08-05T10:14:27Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:49:12Z",
     "url": "https://github.com/chan-monk/chan-monk"
-  },
-  {
-    "description": "My personal OpenCode configuration",
-    "id": "andersonlizarazo/opencode-config",
-    "language": "Shell",
-    "name": "andersonlizarazo/opencode-config",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:36:36Z",
-    "url": "https://github.com/andersonlizarazo/opencode-config"
   }
 ]
