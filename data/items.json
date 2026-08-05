@@ -1,14 +1,5 @@
 [
   {
-    "description": "A minimal LangGraph/LangChain ReAct agent that generates and persists sample JSON data via a conversational CLI",
-    "id": "advayiscoding/10minagent",
-    "language": "Python",
-    "name": "advayiscoding/10minagent",
-    "stars": 0,
-    "updated_at": "2026-08-05T17:59:24Z",
-    "url": "https://github.com/advayiscoding/10minagent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -16,6 +7,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T18:00:00Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A minimal LangGraph/LangChain ReAct agent that generates and persists sample JSON data via a conversational CLI",
+    "id": "advayiscoding/10minagent",
+    "language": "Python",
+    "name": "advayiscoding/10minagent",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:59:24Z",
+    "url": "https://github.com/advayiscoding/10minagent"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -175,7 +175,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 605,
+    "stars": 606,
     "updated_at": "2026-08-05T16:27:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -428,7 +428,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3005,
-    "updated_at": "2026-08-05T17:53:29Z",
+    "updated_at": "2026-08-05T18:01:41Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
