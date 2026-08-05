@@ -1,5 +1,41 @@
 [
   {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T23:27:23Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:22:43Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-05T23:21:33Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
+    "id": "msnikonov/tradebybit",
+    "language": "Python",
+    "name": "msnikonov/tradebybit",
+    "stars": 1,
+    "updated_at": "2026-08-05T23:17:44Z",
+    "url": "https://github.com/msnikonov/tradebybit"
+  },
+  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T23:15:56Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T23:15:51Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T23:12:11Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
-    "id": "msnikonov/tradebybit",
-    "language": "Python",
-    "name": "msnikonov/tradebybit",
-    "stars": 1,
-    "updated_at": "2026-08-05T23:17:44Z",
-    "url": "https://github.com/msnikonov/tradebybit"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
@@ -324,22 +342,13 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "description": "socJweeU74EopXuTJGaTHt88zgvBfLdvGAo4zpo5Afu https://x.com/socratesyielder",
+    "id": "Lora-Finance/socrates",
+    "language": "TypeScript",
+    "name": "Lora-Finance/socrates",
     "stars": 0,
-    "updated_at": "2026-08-05T21:34:03Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-08-05T21:33:17Z",
-    "url": "https://github.com/EpsteinF1les/tts"
+    "updated_at": "2026-08-05T21:24:18Z",
+    "url": "https://github.com/Lora-Finance/socrates"
   },
   {
     "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T20:09:56Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-05T19:22:36Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
