@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 62,
-    "updated_at": "2026-08-05T13:37:53Z",
+    "updated_at": "2026-08-05T13:58:07Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Voice Agent implementations for the VAmoS Benchmark",
+    "id": "veris-ai/riley-agent",
+    "language": "Python",
+    "name": "veris-ai/riley-agent",
+    "stars": 8,
+    "updated_at": "2026-08-05T13:53:20Z",
+    "url": "https://github.com/veris-ai/riley-agent"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 45 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-05T13:53:20Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T13:53:18Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "HumanStudy-Hub/HumanStudy-Bench",
     "stars": 6,
-    "updated_at": "2026-08-05T13:35:17Z",
+    "updated_at": "2026-08-05T13:45:23Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-05T13:58:53Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
@@ -25,24 +61,6 @@
     "stars": 8,
     "updated_at": "2026-08-05T13:29:29Z",
     "url": "https://github.com/Underline-1024/loom-engine"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:44:28Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 45 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-05T13:27:12Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-08-05T13:21:03Z",
+    "updated_at": "2026-08-05T13:50:15Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "raylanlin/Millwright",
     "stars": 7,
-    "updated_at": "2026-08-05T13:07:36Z",
+    "updated_at": "2026-08-05T13:59:06Z",
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T13:39:40Z",
+    "updated_at": "2026-08-05T13:59:08Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -220,18 +238,9 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 158,
+    "stars": 159,
     "updated_at": "2026-08-05T11:58:13Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-05T11:53:30Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Cowork \u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -304,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T10:33:56Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "Voice Agent implementations for the VAmoS Benchmark",
-    "id": "veris-ai/riley-agent",
-    "language": "Python",
-    "name": "veris-ai/riley-agent",
-    "stars": 8,
-    "updated_at": "2026-08-05T13:43:25Z",
-    "url": "https://github.com/veris-ai/riley-agent"
   },
   {
     "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
@@ -418,7 +418,7 @@
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 146,
+    "stars": 147,
     "updated_at": "2026-08-05T08:34:48Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
