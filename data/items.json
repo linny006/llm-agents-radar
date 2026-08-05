@@ -1,5 +1,41 @@
 [
   {
+    "description": "Grounded, multi-jurisdiction legal AI agent harness: primary-source connectors (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), verified pinp",
+    "id": "WenzhuoXu/legal_ai_harness",
+    "language": "Python",
+    "name": "WenzhuoXu/legal_ai_harness",
+    "stars": 0,
+    "updated_at": "2026-08-05T05:15:05Z",
+    "url": "https://github.com/WenzhuoXu/legal_ai_harness"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 78,
+    "updated_at": "2026-08-05T05:13:54Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-05T05:07:53Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 11,
+    "updated_at": "2026-08-05T05:01:21Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-05T04:04:56Z",
+    "updated_at": "2026-08-05T05:13:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -229,7 +265,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6797,
+    "stars": 6798,
     "updated_at": "2026-08-05T02:55:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -310,7 +346,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 114,
+    "stars": 115,
     "updated_at": "2026-08-05T01:01:12Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T04:17:35Z",
+    "updated_at": "2026-08-05T05:11:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-04T20:36:23Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Voice Agent implementations for the VAmoS Benchmark",
-    "id": "veris-ai/riley-agent",
-    "language": "Python",
-    "name": "veris-ai/riley-agent",
-    "stars": 7,
-    "updated_at": "2026-08-04T20:22:47Z",
-    "url": "https://github.com/veris-ai/riley-agent"
-  },
-  {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:48:10Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
-  },
-  {
-    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
-    "id": "rudra496/worldsim-ai",
-    "language": "Python",
-    "name": "rudra496/worldsim-ai",
-    "stars": 6,
-    "updated_at": "2026-08-05T03:29:53Z",
-    "url": "https://github.com/rudra496/worldsim-ai"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-08-05T02:58:16Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
