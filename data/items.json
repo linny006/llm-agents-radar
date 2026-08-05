@@ -1,5 +1,59 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:09:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T17:08:49Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Solana memecoin research & autonomous trading agent with deterministic risk gates",
+    "id": "rinorouu/vanilla-agent",
+    "language": "Python",
+    "name": "rinorouu/vanilla-agent",
+    "stars": 0,
+    "updated_at": "2026-08-05T17:06:48Z",
+    "url": "https://github.com/rinorouu/vanilla-agent"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 9,
+    "updated_at": "2026-08-05T17:04:13Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6807,
+    "updated_at": "2026-08-05T17:04:07Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
+    "id": "hwfengcs/DM-Code-Agent",
+    "language": "Python",
+    "name": "hwfengcs/DM-Code-Agent",
+    "stars": 149,
+    "updated_at": "2026-08-05T17:00:23Z",
+    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -9,15 +63,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T16:55:23Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -25,15 +70,6 @@
     "stars": 173,
     "updated_at": "2026-08-05T16:55:49Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Solana memecoin research & autonomous trading agent with deterministic risk gates",
-    "id": "rinorouu/vanilla-agent",
-    "language": "Python",
-    "name": "rinorouu/vanilla-agent",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:44:44Z",
-    "url": "https://github.com/rinorouu/vanilla-agent"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -70,15 +106,6 @@
     "stars": 605,
     "updated_at": "2026-08-05T16:27:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6807,
-    "updated_at": "2026-08-05T16:27:38Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A local browser an agent can drive. Bundled ungoogled-chromium over CDP, pages compiled to a compact accessibility outli",
@@ -171,15 +198,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-05T15:38:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -216,13 +234,13 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "hwfengcs/DM-Code-Agent",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
     "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 149,
-    "updated_at": "2026-08-05T15:08:19Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
+    "name": "areal-project/AReaL",
+    "stars": 5642,
+    "updated_at": "2026-08-05T15:05:39Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T15:02:58Z",
+    "updated_at": "2026-08-05T17:07:52Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5641,
-    "updated_at": "2026-08-05T15:05:39Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "An autonomous AI coding agent with novel innovations in tool state management and code editing, running in a Docker sand",
     "id": "1001WillsStudio/AuroraCoder",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-05T11:37:43Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T11:31:15Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
