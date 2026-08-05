@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-05T16:41:46Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-05T16:40:28Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "RAG-based question answering app over the metagenomics literature",
+    "id": "nesirli/meta-scholar",
+    "language": "Python",
+    "name": "nesirli/meta-scholar",
+    "stars": 1,
+    "updated_at": "2026-08-05T16:39:57Z",
+    "url": "https://github.com/nesirli/meta-scholar"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T16:39:08Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -34,15 +70,6 @@
     "stars": 17,
     "updated_at": "2026-08-05T16:19:12Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T16:18:36Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -148,7 +175,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 129,
+    "stars": 130,
     "updated_at": "2026-08-05T15:11:31Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -257,17 +284,8 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 173,
-    "updated_at": "2026-08-05T15:49:04Z",
+    "updated_at": "2026-08-05T16:41:25Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-05T14:24:24Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
@@ -277,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-08-05T14:21:43Z",
     "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-05T14:13:09Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-05T10:33:56Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-05T10:28:25Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   }
 ]
