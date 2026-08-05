@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:54:41Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 9,
+    "updated_at": "2026-08-05T03:49:51Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 609,
+    "updated_at": "2026-08-05T03:51:14Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
+    "id": "chan-monk/chan-monk",
+    "language": "\u2014",
+    "name": "chan-monk/chan-monk",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:49:12Z",
+    "url": "https://github.com/chan-monk/chan-monk"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -81,6 +117,15 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5638,
+    "updated_at": "2026-08-05T03:21:46Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -151,24 +196,6 @@
     "stars": 20,
     "updated_at": "2026-08-05T02:34:21Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5637,
-    "updated_at": "2026-08-05T03:21:46Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
-    "id": "chan-monk/chan-monk",
-    "language": "\u2014",
-    "name": "chan-monk/chan-monk",
-    "stars": 0,
-    "updated_at": "2026-08-05T02:29:31Z",
-    "url": "https://github.com/chan-monk/chan-monk"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -247,7 +274,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 107,
+    "stars": 108,
     "updated_at": "2026-08-05T01:01:12Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-05T00:18:09Z",
+    "updated_at": "2026-08-05T03:55:53Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-05T00:09:05Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:00:42Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T03:41:58Z",
+    "updated_at": "2026-08-05T03:49:29Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -356,7 +374,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-04T22:11:47Z",
+    "updated_at": "2026-08-05T03:47:38Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 794,
     "updated_at": "2026-08-04T23:58:21Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 0,
-    "updated_at": "2026-08-04T19:09:05Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:56:52Z",
-    "url": "https://github.com/222394/SkyPilot"
   }
 ]
