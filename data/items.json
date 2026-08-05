@@ -1,5 +1,50 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-05T03:42:33Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "My personal OpenCode configuration",
+    "id": "andersonlizarazo/opencode-config",
+    "language": "Shell",
+    "name": "andersonlizarazo/opencode-config",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:36:36Z",
+    "url": "https://github.com/andersonlizarazo/opencode-config"
+  },
+  {
+    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
+    "id": "genieincodebottle/generative-ai",
+    "language": "Jupyter Notebook",
+    "name": "genieincodebottle/generative-ai",
+    "stars": 2584,
+    "updated_at": "2026-08-05T03:35:26Z",
+    "url": "https://github.com/genieincodebottle/generative-ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:32:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 44,
+    "updated_at": "2026-08-05T03:30:47Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 26,
     "updated_at": "2026-08-05T03:27:16Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-05T03:26:44Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -162,15 +198,6 @@
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 44,
-    "updated_at": "2026-08-05T01:54:45Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -252,15 +279,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-05T00:12:13Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T03:21:17Z",
+    "updated_at": "2026-08-05T03:41:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-04T18:56:52Z",
     "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:36:59Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Diagnoses failing Kubernetes pods and host resource problems using a local LLM via Ollama. Reads logs, events and resour",
-    "id": "ravisinghrajput95/local-triage-agent",
-    "language": "Python",
-    "name": "ravisinghrajput95/local-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-08-04T18:17:59Z",
-    "url": "https://github.com/ravisinghrajput95/local-triage-agent"
   }
 ]
