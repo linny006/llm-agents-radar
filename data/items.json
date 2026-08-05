@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-05T02:07:32Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 392,
+    "updated_at": "2026-08-05T02:03:49Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-05T02:01:22Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-05T01:58:32Z",
+    "updated_at": "2026-08-05T02:06:52Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -32,17 +59,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6796,
-    "updated_at": "2026-08-05T01:50:53Z",
+    "updated_at": "2026-08-05T02:07:07Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-05T01:48:13Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -205,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-08-04T23:08:19Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-04T22:58:49Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
@@ -436,17 +445,8 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5648,
+    "stars": 5647,
     "updated_at": "2026-08-04T17:06:59Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Lightweight, auditable Python code agent (~1500 LOC) \u2014 ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   e",
-    "id": "hwfengcs/DM-Code-Agent",
-    "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 149,
-    "updated_at": "2026-08-04T16:24:42Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
   }
 ]
