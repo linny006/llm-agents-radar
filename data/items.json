@@ -1,5 +1,50 @@
 [
   {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 392,
+    "updated_at": "2026-08-05T14:41:43Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-05T14:38:50Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6806,
+    "updated_at": "2026-08-05T14:41:45Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 46 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-05T14:32:36Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Voice Agent implementations for the VAmoS Benchmark",
+    "id": "veris-ai/riley-agent",
+    "language": "Python",
+    "name": "veris-ai/riley-agent",
+    "stars": 8,
+    "updated_at": "2026-08-05T14:28:30Z",
+    "url": "https://github.com/veris-ai/riley-agent"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -36,15 +81,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T14:15:47Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
     "id": "SugarMGP/MumuBot",
     "language": "Go",
@@ -59,26 +95,8 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-05T14:12:52Z",
+    "updated_at": "2026-08-05T14:44:24Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Voice Agent implementations for the VAmoS Benchmark",
-    "id": "veris-ai/riley-agent",
-    "language": "Python",
-    "name": "veris-ai/riley-agent",
-    "stars": 8,
-    "updated_at": "2026-08-05T14:28:30Z",
-    "url": "https://github.com/veris-ai/riley-agent"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 45 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-05T13:53:20Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -122,17 +140,8 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-08-05T13:50:15Z",
+    "updated_at": "2026-08-05T14:40:14Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6806,
-    "updated_at": "2026-08-05T14:17:46Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T14:06:35Z",
+    "updated_at": "2026-08-05T14:37:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-05T12:42:36Z",
+    "updated_at": "2026-08-05T14:35:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-05T12:13:58Z",
+    "updated_at": "2026-08-05T14:38:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 28,
     "updated_at": "2026-08-05T11:08:15Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 392,
-    "updated_at": "2026-08-05T11:03:36Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
