@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-05T14:13:09Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-05T14:12:52Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 62,
-    "updated_at": "2026-08-05T13:58:07Z",
+    "updated_at": "2026-08-05T14:02:42Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 7,
+    "updated_at": "2026-08-05T13:59:06Z",
+    "url": "https://github.com/raylanlin/Millwright"
   },
   {
     "description": "Voice Agent implementations for the VAmoS Benchmark",
@@ -45,15 +72,6 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-05T13:58:53Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
     "description": "\ud83e\uddf5 A terminal-native narrative engine & text RPG in Rust \ud83e\udd80. Play with any LLM: OpenAI, Anthropic, local models & more.",
     "id": "Underline-1024/loom-engine",
     "language": "Rust",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6806,
-    "updated_at": "2026-08-05T13:20:29Z",
+    "updated_at": "2026-08-05T14:14:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -117,20 +135,11 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 7,
-    "updated_at": "2026-08-05T13:59:06Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5640,
+    "stars": 5641,
     "updated_at": "2026-08-05T13:05:45Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-05T13:59:08Z",
+    "updated_at": "2026-08-05T14:06:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-05T11:51:04Z",
+    "updated_at": "2026-08-05T14:13:38Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -418,7 +427,7 @@
     "id": "iBlinkQ/project-cairn",
     "language": "Shell",
     "name": "iBlinkQ/project-cairn",
-    "stars": 147,
+    "stars": 148,
     "updated_at": "2026-08-05T08:34:48Z",
     "url": "https://github.com/iBlinkQ/project-cairn"
   },
@@ -439,14 +448,5 @@
     "stars": 44,
     "updated_at": "2026-08-05T08:19:44Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
-    "id": "EvoMap/awesome-agent-evolution",
-    "language": "JavaScript",
-    "name": "EvoMap/awesome-agent-evolution",
-    "stars": 182,
-    "updated_at": "2026-08-05T08:12:41Z",
-    "url": "https://github.com/EvoMap/awesome-agent-evolution"
   }
 ]
