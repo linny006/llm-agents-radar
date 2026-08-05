@@ -1,11 +1,20 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 158,
+    "updated_at": "2026-08-04T23:59:54Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
     "id": "Wenri/TaskSolver",
     "language": "Python",
     "name": "Wenri/TaskSolver",
     "stars": 0,
-    "updated_at": "2026-08-04T23:50:19Z",
+    "updated_at": "2026-08-04T23:58:49Z",
     "url": "https://github.com/Wenri/TaskSolver"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-04T22:33:43Z",
     "url": "https://github.com/erickuhn19/deliverator"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 158,
-    "updated_at": "2026-08-04T22:09:28Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -248,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-04T23:10:26Z",
+    "updated_at": "2026-08-04T23:58:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
