@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 7,
+    "updated_at": "2026-08-05T07:58:17Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
+    "id": "jiayi-ThE-CREATOR/es-coach-skills",
+    "language": "Python",
+    "name": "jiayi-ThE-CREATOR/es-coach-skills",
+    "stars": 0,
+    "updated_at": "2026-08-05T07:57:03Z",
+    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
+  },
+  {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
     "id": "maisieyang/build-my-own-harness",
     "language": "Python",
@@ -85,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28586,
+    "stars": 28587,
     "updated_at": "2026-08-05T06:52:18Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -324,15 +342,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
-    "id": "raylanlin/Millwright",
-    "language": "TypeScript",
-    "name": "raylanlin/Millwright",
-    "stars": 6,
-    "updated_at": "2026-08-05T03:23:55Z",
-    "url": "https://github.com/raylanlin/Millwright"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6801,
-    "updated_at": "2026-08-05T02:55:06Z",
+    "updated_at": "2026-08-05T07:59:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T00:42:27Z",
     "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-05T00:16:29Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
