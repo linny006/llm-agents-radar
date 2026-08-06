@@ -1,5 +1,23 @@
 [
   {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 3,
+    "updated_at": "2026-08-06T11:35:19Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-06T11:31:03Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "MCP server that gives text-only LLM coding agents vision \u2014 analyze images via any multimodal model (mimo, Claude, Gemini",
     "id": "KuaaMU/mcp-vision-bridge",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 62,
     "updated_at": "2026-08-06T11:20:18Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-06T11:18:41Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -79,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-06T11:06:28Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3011,
+    "updated_at": "2026-08-06T11:05:52Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -207,15 +225,6 @@
     "url": "https://github.com/juandavidru4641/dsplab"
   },
   {
-    "description": "An autonomous agent you can hand a shell to, because it can prove what it will not do.",
-    "id": "morningstarnasser/Talos",
-    "language": "Python",
-    "name": "morningstarnasser/Talos",
-    "stars": 0,
-    "updated_at": "2026-08-06T10:47:32Z",
-    "url": "https://github.com/morningstarnasser/Talos"
-  },
-  {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
     "id": "laoxs2002/genai-agentes",
     "language": "Jupyter Notebook",
@@ -338,7 +347,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-06T11:27:50Z",
+    "updated_at": "2026-08-06T11:35:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T10:38:57Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-06T10:02:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
