@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "watchcat/scout",
     "stars": 0,
-    "updated_at": "2026-08-06T23:13:12Z",
+    "updated_at": "2026-08-06T23:26:51Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-06T23:26:46Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-06T23:13:00Z",
+    "updated_at": "2026-08-06T23:24:29Z",
     "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-08-06T23:24:21Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-06T23:21:42Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-06T23:20:45Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
+    "id": "jinlingyuan123/arena-hero-balanced-tactic",
+    "language": "Python",
+    "name": "jinlingyuan123/arena-hero-balanced-tactic",
+    "stars": 2,
+    "updated_at": "2026-08-06T23:18:15Z",
+    "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -189,15 +234,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
-    "id": "jinlingyuan123/arena-hero-balanced-tactic",
-    "language": "Python",
-    "name": "jinlingyuan123/arena-hero-balanced-tactic",
-    "stars": 2,
-    "updated_at": "2026-08-06T22:45:40Z",
-    "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -223,33 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T22:41:49Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-06T22:36:25Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-06T22:34:12Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-06T22:31:20Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -310,7 +319,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6822,
+    "stars": 6823,
     "updated_at": "2026-08-06T19:49:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T16:56:55Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16252,
-    "updated_at": "2026-08-06T16:49:08Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
