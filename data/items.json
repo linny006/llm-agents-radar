@@ -1,11 +1,65 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-06T01:30:00Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-06T01:27:57Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "GemmaNode is a personal AI orchestration system routing coding tasks across free LLMs (Gemini Flash, DeepSeek, Qwen) via",
+    "id": "Linear-Loop-Systems/GemmaNode",
+    "language": "\u2014",
+    "name": "Linear-Loop-Systems/GemmaNode",
+    "stars": 1,
+    "updated_at": "2026-08-06T01:26:15Z",
+    "url": "https://github.com/Linear-Loop-Systems/GemmaNode"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-06T01:24:58Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-06T01:20:51Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-06T01:20:24Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-06T01:14:07Z",
+    "updated_at": "2026-08-06T01:17:05Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -27,21 +81,12 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "GemmaNode is a personal AI orchestration system routing coding tasks across free LLMs (Gemini Flash, DeepSeek, Qwen) via",
-    "id": "Linear-Loop-Systems/GemmaNode",
-    "language": "\u2014",
-    "name": "Linear-Loop-Systems/GemmaNode",
-    "stars": 0,
-    "updated_at": "2026-08-06T01:10:05Z",
-    "url": "https://github.com/Linear-Loop-Systems/GemmaNode"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4375,
-    "updated_at": "2026-08-06T01:13:03Z",
+    "updated_at": "2026-08-06T01:20:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -216,24 +261,6 @@
     "url": "https://github.com/raylanlin/Millwright"
   },
   {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:39:41Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:37:55Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -241,33 +268,6 @@
     "stars": 4,
     "updated_at": "2026-08-06T00:35:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:34:48Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-06T00:30:35Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:30:07Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -283,7 +283,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 140,
+    "stars": 143,
     "updated_at": "2026-08-06T00:16:48Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
