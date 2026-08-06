@@ -1,5 +1,32 @@
 [
   {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-06T09:28:54Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 10,
+    "updated_at": "2026-08-06T09:28:47Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-06T09:28:02Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -216,15 +243,6 @@
     "url": "https://github.com/muhzars/Agent.cpp"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-06T09:28:54Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Hermes Agent Android \u5ba2\u6237\u7aef\u4e0e\u4e2d\u6587\u79fb\u52a8 Dashboard\uff1a\u6a21\u578b/DeepSeek\u3001QQ Bot\u3001MCP\u3001\u8bb0\u5fc6\u3001\u8bed\u97f3\uff0c\u4ee5\u53ca\u53ef\u9009 Root\u3001Kali Linux/NetHunter \u5b89\u5168\u5de5\u5177\u96c6\u6210\u3002",
     "id": "fengnanrui/Hermes-Agent-Mobile",
     "language": "TypeScript",
@@ -279,15 +297,6 @@
     "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 10,
-    "updated_at": "2026-08-06T09:28:47Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -322,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-06T08:34:42Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-06T09:28:02Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Async Python API and agent-friendly CLI for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, que",
@@ -373,7 +373,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28641,
+    "stars": 28642,
     "updated_at": "2026-08-06T08:21:51Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -403,6 +403,15 @@
     "stars": 2,
     "updated_at": "2026-08-06T07:58:56Z",
     "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6813,
+    "updated_at": "2026-08-06T07:54:31Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -439,14 +448,5 @@
     "stars": 173,
     "updated_at": "2026-08-06T07:31:49Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-06T07:30:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
