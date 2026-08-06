@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:15:43Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "KuaaMU/mcp-vision-bridge",
     "stars": 8,
-    "updated_at": "2026-08-06T13:06:50Z",
+    "updated_at": "2026-08-06T13:17:53Z",
     "url": "https://github.com/KuaaMU/mcp-vision-bridge"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T12:18:09Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:15:16Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
