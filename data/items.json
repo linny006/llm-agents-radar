@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-06T00:44:41Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-06T00:41:37Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
+    "id": "scrapfly/scrapfly-cli",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-cli",
+    "stars": 3,
+    "updated_at": "2026-08-06T00:41:10Z",
+    "url": "https://github.com/scrapfly/scrapfly-cli"
+  },
+  {
+    "description": "Open-source AI automation for SolidWorks \u2014 talk to your CAD.",
+    "id": "raylanlin/Millwright",
+    "language": "TypeScript",
+    "name": "raylanlin/Millwright",
+    "stars": 7,
+    "updated_at": "2026-08-06T00:40:33Z",
+    "url": "https://github.com/raylanlin/Millwright"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-06T00:39:41Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-06T00:37:55Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-06T00:35:32Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-06T00:34:48Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-06T00:30:35Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-06T00:30:07Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -13,7 +103,7 @@
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
-    "stars": 133,
+    "stars": 136,
     "updated_at": "2026-08-06T00:16:48Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
@@ -153,15 +243,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-05T23:52:38Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -180,15 +261,6 @@
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-08-05T23:45:29Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
     "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
     "id": "msnikonov/tradebybit",
     "language": "Python",
@@ -196,24 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T23:43:49Z",
     "url": "https://github.com/msnikonov/tradebybit"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-05T23:40:43Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-05T23:38:56Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -241,33 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-05T23:40:15Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-05T23:35:48Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-05T23:31:39Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-06T00:30:07Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T20:01:26Z",
     "url": "https://github.com/openpeeps/chachachat"
-  },
-  {
-    "description": "Terminal-first, knowledge-grounded multi-agent software delivery pipeline: scope requirements, implement changes, run te",
-    "id": "krishagarwal314/CodeJury",
-    "language": "Python",
-    "name": "krishagarwal314/CodeJury",
-    "stars": 136,
-    "updated_at": "2026-08-05T20:01:15Z",
-    "url": "https://github.com/krishagarwal314/CodeJury"
-  },
-  {
-    "description": "LangGraph-Agent f\u00fcr Text-to-SQL gegen echtes Postgres, mit SQL-Guardrails und Selbstkorrektur-Loop.",
-    "id": "marco-stang/sql-copilot",
-    "language": "Python",
-    "name": "marco-stang/sql-copilot",
-    "stars": 0,
-    "updated_at": "2026-08-05T19:59:19Z",
-    "url": "https://github.com/marco-stang/sql-copilot"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 17,
-    "updated_at": "2026-08-05T20:12:56Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   }
 ]
