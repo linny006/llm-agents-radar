@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-06T14:10:20Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 63,
+    "updated_at": "2026-08-06T14:07:23Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-06T14:07:19Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-06T14:02:47Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-06T14:00:11Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-06T13:58:49Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16241,
+    "updated_at": "2026-08-06T13:58:27Z",
+    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -99,15 +153,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 63,
-    "updated_at": "2026-08-06T13:44:12Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -180,6 +225,15 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 175,
+    "updated_at": "2026-08-06T13:35:37Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
     "description": "\u4e13\u5229\u4fb5\u6743\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c\u4ea7\u51fa\u7ade\u54c1\u4fb5\u6743\u5206\u6790\u62a5\u544a\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent\uff08codex\uff0cclaude code \u7b49\uff09 \u8c03\u7528\u3002",
     "id": "yuc16/PatentRadar",
     "language": "Python",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T13:34:30Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-06T13:32:54Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "irandysousa/langgraph-llama-cpp-starter",
     "stars": 2,
-    "updated_at": "2026-08-06T13:18:32Z",
+    "updated_at": "2026-08-06T14:13:08Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 8,
     "updated_at": "2026-08-06T13:17:53Z",
     "url": "https://github.com/KuaaMU/mcp-vision-bridge"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-06T13:15:43Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-06T13:59:17Z",
+    "updated_at": "2026-08-06T14:09:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -349,15 +385,6 @@
     "stars": 8,
     "updated_at": "2026-08-06T13:06:42Z",
     "url": "https://github.com/veris-ai/riley-agent"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-08-06T14:00:11Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -421,32 +448,5 @@
     "stars": 155,
     "updated_at": "2026-08-06T12:06:19Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-06T12:05:45Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-06T12:01:12Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:45:37Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   }
 ]
