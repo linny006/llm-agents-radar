@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-08-06T00:45:31Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
     "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
     "id": "axxafo/awesome-agent-benchmarks",
     "language": "\u2014",
@@ -250,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-08-05T23:51:02Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-08-05T23:46:22Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   },
   {
     "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
