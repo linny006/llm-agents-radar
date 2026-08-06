@@ -1,12 +1,48 @@
 [
   {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:30:08Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 27,
-    "updated_at": "2026-08-06T07:11:13Z",
+    "updated_at": "2026-08-06T07:29:51Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-06T07:20:30Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16222,
+    "updated_at": "2026-08-06T07:17:29Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-06T07:15:55Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -99,15 +135,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:38:02Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T06:35:40Z",
     "url": "https://github.com/xiabai2008/dawnforge-pentest"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16222,
-    "updated_at": "2026-08-06T07:09:53Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T05:42:00Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Traceable LLM Agent for industrial battery data quality analysis with LangChain StructuredTools, FastAPI and Streamlit.",
-    "id": "lyt49767-lgtm/industrial-data-quality-agent",
-    "language": "Python",
-    "name": "lyt49767-lgtm/industrial-data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-06T05:41:07Z",
-    "url": "https://github.com/lyt49767-lgtm/industrial-data-quality-agent"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 17,
-    "updated_at": "2026-08-06T05:31:30Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   }
 ]
