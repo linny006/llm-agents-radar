@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-06T11:57:01Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 62,
+    "updated_at": "2026-08-06T11:51:54Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-06T11:48:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-06T11:45:37Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
     "id": "mathisarends/sonosify",
     "language": "Python",
@@ -45,22 +81,13 @@
     "url": "https://github.com/KuaaMU/mcp-vision-bridge"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 62,
-    "updated_at": "2026-08-06T11:20:18Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:45:06Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 394,
+    "updated_at": "2026-08-06T11:24:22Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
@@ -97,15 +124,6 @@
     "stars": 616,
     "updated_at": "2026-08-06T11:09:40Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:06:28Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "xcq20100224/Nolan",
     "stars": 10,
-    "updated_at": "2026-08-06T10:47:57Z",
+    "updated_at": "2026-08-06T12:00:12Z",
     "url": "https://github.com/xcq20100224/Nolan"
   },
   {
@@ -319,7 +337,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16233,
+    "stars": 16234,
     "updated_at": "2026-08-06T10:41:50Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4374,
-    "updated_at": "2026-08-06T11:44:30Z",
+    "updated_at": "2026-08-06T11:51:53Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T10:20:19Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-06T10:16:34Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-06T10:25:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
