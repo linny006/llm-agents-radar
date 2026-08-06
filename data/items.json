@@ -1,5 +1,68 @@
 [
   {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-06T03:50:44Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 27,
+    "updated_at": "2026-08-06T03:50:06Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-06T03:49:56Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-06T03:58:11Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-06T03:47:57Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Multi-agent AI penetration testing workbench. Evidence-enforced anti-hallucination, agent-agnostic (Claude/Codex/OpenCod",
+    "id": "xiabai2008/dawnforge-pentest",
+    "language": "Python",
+    "name": "xiabai2008/dawnforge-pentest",
+    "stars": 0,
+    "updated_at": "2026-08-06T03:57:29Z",
+    "url": "https://github.com/xiabai2008/dawnforge-pentest"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-06T03:45:12Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
     "description": "Pi's coding agent ported to Rust",
     "id": "y0usaf/pi-rs",
     "language": "Rust",
@@ -106,24 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T03:31:58Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 27,
-    "updated_at": "2026-08-06T03:30:23Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-06T03:29:22Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Autonomous equity-research agent: a ticker in, a sourced investment memo out. Claude tool-use loop over SEC EDGAR + mark",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5643,
-    "updated_at": "2026-08-06T03:13:56Z",
+    "updated_at": "2026-08-06T03:49:18Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 4375,
     "updated_at": "2026-08-06T03:02:23Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-06T03:32:37Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -387,24 +423,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 0,
-    "updated_at": "2026-08-06T02:01:39Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-08-06T02:00:58Z",
-    "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -412,15 +430,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T02:00:47Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-08-06T03:45:12Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "GemmaNode is a personal AI orchestration system routing coding tasks across free LLMs (Gemini Flash, DeepSeek, Qwen) via",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T01:04:23Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-06T00:55:34Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
