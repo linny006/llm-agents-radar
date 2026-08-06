@@ -1,12 +1,48 @@
 [
   {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:43:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
     "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16221,
-    "updated_at": "2026-08-06T06:31:21Z",
-    "url": "https://github.com/HKUDS/DeepCode"
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-06T06:38:02Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-06T06:37:16Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-06T06:36:36Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-06T06:39:29Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Multi-agent AI penetration testing workbench. Evidence-enforced anti-hallucination, agent-agnostic (Claude/Codex/OpenCod",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "xiabai2008/dawnforge-pentest",
     "stars": 0,
-    "updated_at": "2026-08-06T06:30:22Z",
+    "updated_at": "2026-08-06T06:35:40Z",
     "url": "https://github.com/xiabai2008/dawnforge-pentest"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16222,
+    "updated_at": "2026-08-06T06:31:21Z",
+    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -34,15 +79,6 @@
     "stars": 22,
     "updated_at": "2026-08-06T06:29:30Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-06T06:28:30Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -90,15 +126,6 @@
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-06T06:22:07Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
     "id": "clashroy5384/ai-papers-hub",
     "language": "\u2014",
@@ -140,7 +167,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-06T06:31:29Z",
+    "updated_at": "2026-08-06T06:41:20Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5643,
-    "updated_at": "2026-08-06T06:20:16Z",
+    "updated_at": "2026-08-06T06:43:31Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-06T04:14:54Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-06T06:28:55Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Pi's coding agent ported to Rust",
-    "id": "y0usaf/pi-rs",
-    "language": "Rust",
-    "name": "y0usaf/pi-rs",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:12:58Z",
-    "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:13:50Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
