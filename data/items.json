@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-06T05:44:18Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-06T05:42:58Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-06T05:42:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Traceable LLM Agent for industrial battery data quality analysis with LangChain StructuredTools, FastAPI and Streamlit.",
+    "id": "lyt49767-lgtm/industrial-data-quality-agent",
+    "language": "Python",
+    "name": "lyt49767-lgtm/industrial-data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-06T05:41:07Z",
+    "url": "https://github.com/lyt49767-lgtm/industrial-data-quality-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-06T05:36:54Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-06T05:34:55Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-06T05:34:14Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 17,
+    "updated_at": "2026-08-06T05:31:30Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-06T05:28:40Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-06T05:27:32Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-06T05:22:24Z",
+    "updated_at": "2026-08-06T05:40:57Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-06T05:12:08Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -221,7 +275,7 @@
     "language": "\u2014",
     "name": "SHUKLAO/call-with-ai-agent",
     "stars": 3,
-    "updated_at": "2026-08-06T04:51:50Z",
+    "updated_at": "2026-08-06T05:44:52Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-06T04:51:20Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -250,24 +295,6 @@
     "stars": 7,
     "updated_at": "2026-08-06T04:50:26Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
-    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "language": "Python",
-    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:42:35Z",
-    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
-  },
-  {
-    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
-    "id": "EpsteinF1les/tts",
-    "language": "\u2014",
-    "name": "EpsteinF1les/tts",
-    "stars": 0,
-    "updated_at": "2026-08-06T04:42:16Z",
-    "url": "https://github.com/EpsteinF1les/tts"
   },
   {
     "description": "Multi-agent AI penetration testing workbench. Evidence-enforced anti-hallucination, agent-agnostic (Claude/Codex/OpenCod",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-06T03:15:20Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4374,
-    "updated_at": "2026-08-06T05:13:35Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-08-06T02:57:03Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "A framework-agnostic maximal-utility agent SOUL for autonomous AI agents.",
-    "id": "tachyon-r/maximal-utility-agent-soul",
-    "language": "\u2014",
-    "name": "tachyon-r/maximal-utility-agent-soul",
-    "stars": 1,
-    "updated_at": "2026-08-06T02:44:34Z",
-    "url": "https://github.com/tachyon-r/maximal-utility-agent-soul"
   }
 ]
