@@ -1,5 +1,95 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:14:24Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 9,
+    "updated_at": "2026-08-06T13:13:10Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4374,
+    "updated_at": "2026-08-06T13:13:53Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-06T13:08:18Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-06T13:07:03Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-08-06T13:07:01Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "MCP server that gives text-only LLM coding agents vision \u2014 analyze images via any multimodal model (mimo, Claude, Gemini",
+    "id": "KuaaMU/mcp-vision-bridge",
+    "language": "TypeScript",
+    "name": "KuaaMU/mcp-vision-bridge",
+    "stars": 8,
+    "updated_at": "2026-08-06T13:06:50Z",
+    "url": "https://github.com/KuaaMU/mcp-vision-bridge"
+  },
+  {
+    "description": "Voice Agent implementations for the VAmoS Benchmark",
+    "id": "veris-ai/riley-agent",
+    "language": "Python",
+    "name": "veris-ai/riley-agent",
+    "stars": 8,
+    "updated_at": "2026-08-06T13:06:42Z",
+    "url": "https://github.com/veris-ai/riley-agent"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 63,
+    "updated_at": "2026-08-06T13:05:18Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-06T13:04:32Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
     "id": "passive-hotpepper515/area-checker-html-tool",
     "language": "HTML",
@@ -99,15 +189,6 @@
     "url": "https://github.com/strobilevitellus470/argus-ai"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-06T12:43:18Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
     "id": "juandavidru4641/dsplab",
     "language": "JavaScript",
@@ -180,15 +261,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-06T12:31:28Z",
-    "url": "https://github.com/watchcat/scout"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -207,22 +279,13 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 63,
-    "updated_at": "2026-08-06T12:28:09Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 9,
-    "updated_at": "2026-08-06T12:27:43Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
+    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
+    "id": "yigitxenes/StockPredictionWithAI",
+    "language": "Python",
+    "name": "yigitxenes/StockPredictionWithAI",
+    "stars": 1,
+    "updated_at": "2026-08-06T12:28:05Z",
+    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
@@ -288,15 +351,6 @@
     "url": "https://github.com/Alessandro114/landiq"
   },
   {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-08-06T12:31:00Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Go",
@@ -322,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-06T12:05:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4374,
-    "updated_at": "2026-08-06T12:53:47Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -396,15 +441,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "MCP server that gives text-only LLM coding agents vision \u2014 analyze images via any multimodal model (mimo, Claude, Gemini",
-    "id": "KuaaMU/mcp-vision-bridge",
-    "language": "TypeScript",
-    "name": "KuaaMU/mcp-vision-bridge",
-    "stars": 8,
-    "updated_at": "2026-08-06T11:28:20Z",
-    "url": "https://github.com/KuaaMU/mcp-vision-bridge"
-  },
-  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -412,41 +448,5 @@
     "stars": 394,
     "updated_at": "2026-08-06T12:22:49Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-08-06T11:17:05Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-06T11:15:19Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 78,
-    "updated_at": "2026-08-06T11:11:06Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 616,
-    "updated_at": "2026-08-06T11:09:40Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
