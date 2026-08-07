@@ -1,5 +1,104 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T07:13:19Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
+    "id": "zoyluoblue/mc_aiplayer",
+    "language": "Java",
+    "name": "zoyluoblue/mc_aiplayer",
+    "stars": 185,
+    "updated_at": "2026-08-07T07:12:47Z",
+    "url": "https://github.com/zoyluoblue/mc_aiplayer"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 8,
+    "updated_at": "2026-08-07T07:12:45Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:11:28Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "OKT \u2014 open knowledge tools; OKTS \u2014 tool search and discovery for any agent.",
+    "id": "prabhukirangit/OKTS",
+    "language": "Python",
+    "name": "prabhukirangit/OKTS",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:10:55Z",
+    "url": "https://github.com/prabhukirangit/OKTS"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-08-07T07:09:02Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
+    "id": "iBlinkQ/project-cairn",
+    "language": "Shell",
+    "name": "iBlinkQ/project-cairn",
+    "stars": 163,
+    "updated_at": "2026-08-07T07:08:14Z",
+    "url": "https://github.com/iBlinkQ/project-cairn"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4377,
+    "updated_at": "2026-08-07T07:15:01Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:06:48Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-07T07:06:17Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-07T07:05:02Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Real-time voice customer-support agent. Talk to it in the browser or call it on a phone number. Answers from a live orde",
     "id": "Ajinkya259/Customer-Support-Agent",
     "language": "Python",
@@ -22,7 +121,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16259,
+    "stars": 16260,
     "updated_at": "2026-08-07T06:56:57Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -36,15 +135,6 @@
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 8,
-    "updated_at": "2026-08-07T06:57:44Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
     "id": "Blondieredistributed612/pocket-agent",
     "language": "Python",
@@ -52,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T06:55:35Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T06:59:17Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -133,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T06:47:52Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
-    "id": "zoyluoblue/mc_aiplayer",
-    "language": "Java",
-    "name": "zoyluoblue/mc_aiplayer",
-    "stars": 185,
-    "updated_at": "2026-08-07T06:45:40Z",
-    "url": "https://github.com/zoyluoblue/mc_aiplayer"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -297,15 +369,6 @@
     "url": "https://github.com/Muvon/octomind-tap"
   },
   {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-07T06:20:40Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
     "description": "An honesty harness for LLM trading research: point-in-time discipline, leakage self-tests, and forward-only LLM feature ",
     "id": "flysheep-ai/NoAlpha",
     "language": "Python",
@@ -315,15 +378,6 @@
     "url": "https://github.com/flysheep-ai/NoAlpha"
   },
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-07T06:18:13Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -331,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T06:17:08Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-07T06:15:33Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T05:44:52Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 3,
-    "updated_at": "2026-08-07T05:41:09Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-07T06:33:45Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
-    "id": "caterpi11ar/giclaw",
-    "language": "TypeScript",
-    "name": "caterpi11ar/giclaw",
-    "stars": 5,
-    "updated_at": "2026-08-07T05:34:30Z",
-    "url": "https://github.com/caterpi11ar/giclaw"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-07T05:32:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-07T05:32:26Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
