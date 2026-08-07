@@ -1,5 +1,41 @@
 [
   {
+    "description": "Real-time voice customer-support agent. Talk to it in the browser or call it on a phone number. Answers from a live orde",
+    "id": "Ajinkya259/Customer-Support-Agent",
+    "language": "Python",
+    "name": "Ajinkya259/Customer-Support-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T06:12:57Z",
+    "url": "https://github.com/Ajinkya259/Customer-Support-Agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-07T06:07:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
+    "id": "Morephine/feltstate",
+    "language": "Python",
+    "name": "Morephine/feltstate",
+    "stars": 5,
+    "updated_at": "2026-08-07T06:07:28Z",
+    "url": "https://github.com/Morephine/feltstate"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T06:04:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 5646,
     "updated_at": "2026-08-07T05:54:03Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T05:52:12Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -270,15 +297,6 @@
     "url": "https://github.com/juandavidru4641/dsplab"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-07T04:52:55Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
     "id": "laoxs2002/genai-agentes",
     "language": "Jupyter Notebook",
@@ -430,23 +448,5 @@
     "stars": 175,
     "updated_at": "2026-08-07T05:20:22Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
-    "id": "Morephine/feltstate",
-    "language": "Python",
-    "name": "Morephine/feltstate",
-    "stars": 5,
-    "updated_at": "2026-08-07T04:16:02Z",
-    "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 27,
-    "updated_at": "2026-08-07T04:06:50Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
