@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T13:09:14Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-07T13:07:41Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Shell and coding agent on mcp clients",
+    "id": "rusiaaman/wcgw",
+    "language": "Python",
+    "name": "rusiaaman/wcgw",
+    "stars": 670,
+    "updated_at": "2026-08-07T13:02:37Z",
+    "url": "https://github.com/rusiaaman/wcgw"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 159,
     "updated_at": "2026-08-07T12:58:11Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T12:55:24Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-07T12:54:43Z",
+    "updated_at": "2026-08-07T13:15:02Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-08-07T12:29:08Z",
+    "updated_at": "2026-08-07T13:10:38Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 20,
-    "updated_at": "2026-08-07T12:43:58Z",
+    "updated_at": "2026-08-07T13:15:11Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
@@ -409,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28707,
+    "stars": 28708,
     "updated_at": "2026-08-07T10:39:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -430,23 +448,5 @@
     "stars": 5679,
     "updated_at": "2026-08-07T10:30:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
-    "id": "xhqing/ProductStrategistAgent",
-    "language": "\u2014",
-    "name": "xhqing/ProductStrategistAgent",
-    "stars": 0,
-    "updated_at": "2026-08-07T10:17:18Z",
-    "url": "https://github.com/xhqing/ProductStrategistAgent"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-07T10:12:34Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
   }
 ]
