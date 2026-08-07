@@ -1,12 +1,30 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 0,
+    "updated_at": "2026-08-07T01:11:02Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-07T00:56:27Z",
+    "updated_at": "2026-08-07T01:10:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T01:03:33Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
@@ -405,15 +423,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-06T21:33:27Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-06T21:07:51Z",
     "url": "https://github.com/veris-ai/riley-agent"
-  },
-  {
-    "description": "Local-first CRM built on the Model Context Protocol (MCP) \u2014 customer/project management exposed as MCP tools, usable fro",
-    "id": "bhairavaa/local-mcp-crm",
-    "language": "Python",
-    "name": "bhairavaa/local-mcp-crm",
-    "stars": 1,
-    "updated_at": "2026-08-06T20:07:50Z",
-    "url": "https://github.com/bhairavaa/local-mcp-crm"
   }
 ]
