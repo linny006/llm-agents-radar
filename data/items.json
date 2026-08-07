@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T12:26:58Z",
+    "updated_at": "2026-08-07T12:40:24Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 3,
+    "updated_at": "2026-08-07T12:36:01Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 621,
+    "updated_at": "2026-08-07T12:33:43Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -88,15 +106,6 @@
     "stars": 19,
     "updated_at": "2026-08-07T11:54:00Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-08-07T11:53:28Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -351,15 +360,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 621,
-    "updated_at": "2026-08-07T12:27:43Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -391,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28706,
+    "stars": 28707,
     "updated_at": "2026-08-07T10:39:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -409,7 +409,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5677,
+    "stars": 5679,
     "updated_at": "2026-08-07T10:30:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
