@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 19:30 UTC
+> ⏰ Last updated: 2026-08-07 19:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 19 | Python | 2026-08-07 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 3 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-07 | Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify — zero hallucinations. |
-| 4 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-07 | A productive AI coworker that learns, self-improves, and ships work. |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 215 | Python | 2026-08-07 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 7 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-07 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
-| 8 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 10 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 326 | Python | 2026-08-07 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 11 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 79 | Python | 2026-08-07 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 13 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-07 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 14 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 19 | Python | 2026-08-07 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 4 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-07 | Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify — zero hallucinations. |
+| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 20 | Python | 2026-08-07 | A productive AI coworker that learns, self-improves, and ships work. |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 215 | Python | 2026-08-07 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 8 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-07 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
+| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 11 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 326 | Python | 2026-08-07 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 12 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 79 | Python | 2026-08-07 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 14 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-07 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 16 | [projectsaturnstudios/pocketflow-php](https://github.com/projectsaturnstudios/pocketflow-php) | 1 | PHP | 2026-08-07 | A translation of The-Pocket/pocketflow for PHP |
 | 17 | [sky-valley/pi](https://github.com/sky-valley/pi) | 30 | Go | 2026-08-07 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
