@@ -1,5 +1,32 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 621,
+    "updated_at": "2026-08-07T15:11:58Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 19,
+    "updated_at": "2026-08-07T15:11:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "End-to-end health-prevention data platform: Snowflake, Airflow, dbt, and Metabase, with a Claude-powered analytics agent",
+    "id": "CatSatOK/prevention-data-platform",
+    "language": "Python",
+    "name": "CatSatOK/prevention-data-platform",
+    "stars": 0,
+    "updated_at": "2026-08-07T15:01:09Z",
+    "url": "https://github.com/CatSatOK/prevention-data-platform"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -9,13 +36,13 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 621,
-    "updated_at": "2026-08-07T14:53:22Z",
-    "url": "https://github.com/ongridio/ongrid"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-07T14:58:46Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -43,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T14:46:32Z",
     "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "End-to-end health-prevention data platform: Snowflake, Airflow, dbt, and Metabase, with a Claude-powered analytics agent",
-    "id": "CatSatOK/prevention-data-platform",
-    "language": "Python",
-    "name": "CatSatOK/prevention-data-platform",
-    "stars": 0,
-    "updated_at": "2026-08-07T14:41:15Z",
-    "url": "https://github.com/CatSatOK/prevention-data-platform"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -90,21 +108,12 @@
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 19,
-    "updated_at": "2026-08-07T14:17:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-07T14:38:33Z",
+    "updated_at": "2026-08-07T15:12:26Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-08-07T13:46:07Z",
     "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-07T14:58:46Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
