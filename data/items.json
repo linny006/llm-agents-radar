@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6832,
-    "updated_at": "2026-08-07T20:11:53Z",
+    "updated_at": "2026-08-07T20:16:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -202,7 +202,7 @@
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
     "name": "edjafarov/kiagent-core",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-07T18:23:43Z",
     "url": "https://github.com/edjafarov/kiagent-core"
   },
@@ -277,6 +277,15 @@
     "stars": 28,
     "updated_at": "2026-08-07T17:47:00Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 179,
+    "updated_at": "2026-08-07T17:34:40Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
@@ -439,14 +448,5 @@
     "stars": 20,
     "updated_at": "2026-08-07T13:58:50Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4378,
-    "updated_at": "2026-08-07T13:54:32Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
