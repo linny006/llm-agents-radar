@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-07T13:27:48Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-07T13:39:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 19,
-    "updated_at": "2026-08-07T13:27:04Z",
+    "updated_at": "2026-08-07T13:37:13Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -25,6 +25,15 @@
     "stars": 20,
     "updated_at": "2026-08-07T13:30:01Z",
     "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-07T13:27:48Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
@@ -151,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T12:24:07Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-07T12:10:36Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -436,7 +436,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28708,
+    "stars": 28709,
     "updated_at": "2026-08-07T10:39:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
