@@ -1,11 +1,20 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-07T01:59:38Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-07T01:40:24Z",
+    "updated_at": "2026-08-07T02:00:15Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 0,
-    "updated_at": "2026-08-07T01:39:44Z",
+    "updated_at": "2026-08-07T01:51:18Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -22,7 +31,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 1257,
+    "stars": 1259,
     "updated_at": "2026-08-07T01:34:15Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 27,
-    "updated_at": "2026-08-07T01:27:21Z",
+    "updated_at": "2026-08-07T01:58:32Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T00:12:43Z",
     "url": "https://github.com/jinlingyuan123/arena-hero-balanced-tactic"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-07T00:11:15Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
