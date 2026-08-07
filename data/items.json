@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-07T03:32:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
     "id": "chiam-ck/bss-cli",
     "language": "Rust",
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T03:28:33Z",
+    "updated_at": "2026-08-07T03:37:12Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -364,7 +373,7 @@
     "id": "larlarua/AutoCVE",
     "language": "Python",
     "name": "larlarua/AutoCVE",
-    "stars": 1265,
+    "stars": 1267,
     "updated_at": "2026-08-07T01:34:15Z",
     "url": "https://github.com/larlarua/AutoCVE"
   },
@@ -430,15 +439,6 @@
     "stars": 5,
     "updated_at": "2026-08-07T00:58:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-07T00:31:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
