@@ -1,5 +1,32 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T12:26:58Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-07T12:25:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-07T12:24:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +41,7 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-08-07T12:09:52Z",
+    "updated_at": "2026-08-07T12:29:08Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 7,
     "updated_at": "2026-08-07T12:08:30Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T12:08:18Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
@@ -225,15 +243,6 @@
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-07T11:30:44Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 621,
-    "updated_at": "2026-08-07T11:44:43Z",
+    "updated_at": "2026-08-07T12:27:43Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -367,15 +376,6 @@
     "stars": 159,
     "updated_at": "2026-08-07T11:00:25Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-07T12:05:04Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI agent that plays Minecraft on its own \u2014 a server-side Fabric mod (MC 1.21.3) where a DeepSeek / OpenAI-com",
@@ -409,7 +409,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5676,
+    "stars": 5677,
     "updated_at": "2026-08-07T10:30:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
