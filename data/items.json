@@ -1,5 +1,68 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T18:28:37Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 3,
+    "updated_at": "2026-08-07T18:23:43Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:23:27Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 19,
+    "updated_at": "2026-08-07T18:23:23Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:22:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 9,
+    "updated_at": "2026-08-07T18:18:48Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
+    "id": "WenzhuoXu/lawgent",
+    "language": "Python",
+    "name": "WenzhuoXu/lawgent",
+    "stars": 2,
+    "updated_at": "2026-08-07T18:18:06Z",
+    "url": "https://github.com/WenzhuoXu/lawgent"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 19,
-    "updated_at": "2026-08-07T18:06:43Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 12,
     "updated_at": "2026-08-07T18:03:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T18:04:50Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Artifact repository for the paper \"ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation ",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 5,
-    "updated_at": "2026-08-07T17:45:55Z",
+    "updated_at": "2026-08-07T18:28:15Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:42:57Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-07T17:26:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
@@ -216,15 +252,6 @@
     "url": "https://github.com/Hereon-InstituteMS/OASiS"
   },
   {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 9,
-    "updated_at": "2026-08-07T16:37:32Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Prompts, skills, and agents that survive contact with real workflows. No vendor loyalty. Occasionally heretical.  \ud83e\uddd9\ud83c\udffb\u200d\u2640\ufe0f",
     "id": "MarieLynneBlock/arcanum-artifex",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 794,
     "updated_at": "2026-08-07T16:56:22Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 3,
-    "updated_at": "2026-08-07T16:27:39Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T15:54:00Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Lawgent \u2014 an open-source legal AI agent. Grounded, multi-jurisdiction (CN \u00b7 US \u00b7 EU \u00b7 ET \u00b7 ICAO), citation-verified: eve",
-    "id": "WenzhuoXu/lawgent",
-    "language": "Python",
-    "name": "WenzhuoXu/lawgent",
-    "stars": 2,
-    "updated_at": "2026-08-07T15:40:19Z",
-    "url": "https://github.com/WenzhuoXu/lawgent"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -412,15 +421,6 @@
     "stars": 671,
     "updated_at": "2026-08-07T13:02:37Z",
     "url": "https://github.com/rusiaaman/wcgw"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-07T12:44:00Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
