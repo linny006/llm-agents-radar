@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:18:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-07T05:15:43Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T04:59:55Z",
+    "updated_at": "2026-08-07T05:22:00Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -338,7 +356,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 175,
-    "updated_at": "2026-08-07T04:21:36Z",
+    "updated_at": "2026-08-07T05:20:22Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-07T03:37:34Z",
     "url": "https://github.com/Meko1/llm-interview-guide"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:32:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
-    "id": "chiam-ck/bss-cli",
-    "language": "Rust",
-    "name": "chiam-ck/bss-cli",
-    "stars": 1,
-    "updated_at": "2026-08-07T03:29:59Z",
-    "url": "https://github.com/chiam-ck/bss-cli"
   }
 ]
