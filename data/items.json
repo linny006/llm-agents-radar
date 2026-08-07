@@ -1,12 +1,57 @@
 [
   {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "stars": 31,
+    "updated_at": "2026-08-07T09:12:23Z",
+    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
+  },
+  {
+    "description": "A framework for building intelligent agents",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 43,
+    "updated_at": "2026-08-07T09:11:54Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T08:59:28Z",
+    "updated_at": "2026-08-07T09:13:27Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 96,
+    "updated_at": "2026-08-07T09:07:52Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-07T09:06:33Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-07T09:06:16Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
@@ -49,7 +94,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28698,
+    "stars": 28701,
     "updated_at": "2026-08-07T08:53:20Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -88,15 +133,6 @@
     "stars": 16261,
     "updated_at": "2026-08-07T08:45:56Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 96,
-    "updated_at": "2026-08-07T08:44:19Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "ibrahima0101/python-ai-chatbot-huggingface",
     "stars": 0,
-    "updated_at": "2026-08-07T08:08:59Z",
+    "updated_at": "2026-08-07T09:15:04Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-07T07:43:20Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:42:23Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:42:03Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-07T07:40:57Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-08-07T07:39:34Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   }
 ]
