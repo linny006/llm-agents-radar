@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-07 22:00 UTC
+> ⏰ Last updated: 2026-08-07 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-07 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 2 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 3 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-07 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-08-07 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 7 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 0 | Python | 2026-08-07 | Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 10 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-07 | GPT autonomous research and investigation using starintel |
-| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 12 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-07 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
-| 13 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 19 | Python | 2026-08-07 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 16 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 28 | Python | 2026-08-07 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 17 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-07 | Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify — zero hallucinations. |
-| 18 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-08-07 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
+| 1 | [holasoymalva/manyllm-app](https://github.com/holasoymalva/manyllm-app) | 0 | Swift | 2026-08-07 | Native SwiftUI application for iPhone & iPad to run and connect LLMs locally (via Ollama) and remotely (OpenAI, Anthropi |
+| 2 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-07 | GPT autonomous research and investigation using starintel |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-07 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-07 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-07 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 6 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-07 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 7 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-07 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 8 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-07 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 9 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 2 | Python | 2026-08-07 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 10 | [jiayi-ThE-CREATOR/es-coach-skills](https://github.com/jiayi-ThE-CREATOR/es-coach-skills) | 0 | Python | 2026-08-07 | Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and |
+| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-07 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-07 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-07 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 14 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 20 | Python | 2026-08-07 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
+| 15 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 19 | Python | 2026-08-07 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 16 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-07 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 17 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 28 | Python | 2026-08-07 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 18 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-07 | Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify — zero hallucinations. |
 | 19 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6832 | Python | 2026-08-07 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 20 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 173 | Rust | 2026-08-07 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
 | 21 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 9 | JavaScript | 2026-08-07 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
