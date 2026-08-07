@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T18:29:39Z",
+    "updated_at": "2026-08-07T18:43:34Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A translation of The-Pocket/pocketflow for PHP",
+    "id": "projectsaturnstudios/pocketflow-php",
+    "language": "PHP",
+    "name": "projectsaturnstudios/pocketflow-php",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:38:38Z",
+    "url": "https://github.com/projectsaturnstudios/pocketflow-php"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 30,
+    "updated_at": "2026-08-07T18:38:10Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-07T18:36:23Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-07T18:40:31Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 629,
+    "updated_at": "2026-08-07T18:32:07Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 19,
+    "updated_at": "2026-08-07T18:31:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -25,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-07T18:23:27Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 19,
-    "updated_at": "2026-08-07T18:23:23Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -180,15 +225,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-07T18:28:15Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
@@ -223,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:21:58Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 629,
-    "updated_at": "2026-08-07T16:57:44Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -421,32 +448,5 @@
     "stars": 671,
     "updated_at": "2026-08-07T13:02:37Z",
     "url": "https://github.com/rusiaaman/wcgw"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 3,
-    "updated_at": "2026-08-07T12:36:01Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-08-07T14:35:56Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 7,
-    "updated_at": "2026-08-07T12:08:30Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
