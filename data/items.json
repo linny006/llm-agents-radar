@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 19,
+    "updated_at": "2026-08-07T21:25:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:23:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:22:02Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 20,
+    "updated_at": "2026-08-07T21:18:23Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-07T21:17:48Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -25,24 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T20:54:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 19,
-    "updated_at": "2026-08-07T20:53:36Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-07T20:50:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -211,7 +238,7 @@
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
     "name": "BlockRunAI/Franklin",
-    "stars": 629,
+    "stars": 628,
     "updated_at": "2026-08-07T18:32:07Z",
     "url": "https://github.com/BlockRunAI/Franklin"
   },
@@ -351,15 +378,6 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-07T16:10:52Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 622,
     "updated_at": "2026-08-07T15:11:58Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "End-to-end health-prevention data platform: Snowflake, Airflow, dbt, and Metabase, with a Claude-powered analytics agent",
-    "id": "CatSatOK/prevention-data-platform",
-    "language": "Python",
-    "name": "CatSatOK/prevention-data-platform",
-    "stars": 0,
-    "updated_at": "2026-08-07T15:01:09Z",
-    "url": "https://github.com/CatSatOK/prevention-data-platform"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-07T14:46:32Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
   }
 ]
