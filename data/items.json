@@ -1,12 +1,12 @@
 [
   {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-07T05:23:21Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
+    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
+    "id": "xhqing/ProductStrategistAgent",
+    "language": "Python",
+    "name": "xhqing/ProductStrategistAgent",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:43:40Z",
+    "url": "https://github.com/xhqing/ProductStrategistAgent"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 20,
-    "updated_at": "2026-08-07T05:22:00Z",
+    "updated_at": "2026-08-07T05:42:25Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 3,
+    "updated_at": "2026-08-07T05:41:09Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
+    "id": "Giggitycountless/LOL-AI-Intelligence",
+    "language": "Rust",
+    "name": "Giggitycountless/LOL-AI-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-07T05:38:05Z",
+    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
+    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
+    "id": "caterpi11ar/giclaw",
+    "language": "TypeScript",
+    "name": "caterpi11ar/giclaw",
+    "stars": 5,
+    "updated_at": "2026-08-07T05:34:30Z",
+    "url": "https://github.com/caterpi11ar/giclaw"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-07T05:32:14Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-07T05:32:26Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-07T05:32:18Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T05:13:28Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
-    "id": "caterpi11ar/giclaw",
-    "language": "TypeScript",
-    "name": "caterpi11ar/giclaw",
-    "stars": 5,
-    "updated_at": "2026-08-07T05:12:55Z",
-    "url": "https://github.com/caterpi11ar/giclaw"
   },
   {
     "description": "\ud83c\udfdb\ufe0f Torn between \"buy now\" and \"don't chase the top\"? Let AI Buffett, Dalio, Marks, Greenblatt & Lynch debate it out \u2014 qu",
@@ -279,15 +324,6 @@
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   },
   {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-07T05:25:25Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
     "id": "amineeng/scraping-browser",
     "language": "\u2014",
@@ -342,20 +378,11 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-07T04:27:14Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28688,
+    "stars": 28687,
     "updated_at": "2026-08-07T04:22:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -401,7 +428,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-07T03:53:30Z",
+    "updated_at": "2026-08-07T05:44:52Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T03:50:54Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 619,
-    "updated_at": "2026-08-07T03:47:48Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by ",
-    "id": "hwfengcs/DM-Code-Agent",
-    "language": "Python",
-    "name": "hwfengcs/DM-Code-Agent",
-    "stars": 149,
-    "updated_at": "2026-08-07T03:47:06Z",
-    "url": "https://github.com/hwfengcs/DM-Code-Agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-07T03:45:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
