@@ -1,5 +1,14 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 20,
+    "updated_at": "2026-08-07T17:30:58Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-07T17:21:58Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 20,
-    "updated_at": "2026-08-07T17:20:36Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -310,7 +310,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 621,
+    "stars": 622,
     "updated_at": "2026-08-07T15:11:58Z",
     "url": "https://github.com/ongridio/ongrid"
   },
