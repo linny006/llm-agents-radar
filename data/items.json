@@ -1,5 +1,14 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-08T15:16:57Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -14,7 +23,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-08T15:12:37Z",
+    "updated_at": "2026-08-08T15:16:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 217,
-    "updated_at": "2026-08-08T14:56:24Z",
+    "updated_at": "2026-08-08T15:21:18Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -131,7 +140,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-08T14:25:41Z",
+    "updated_at": "2026-08-08T15:22:40Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T04:43:18Z",
     "url": "https://github.com/Juveria22/bunni-backend"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 623,
-    "updated_at": "2026-08-08T04:38:36Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
