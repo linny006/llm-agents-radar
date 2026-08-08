@@ -1,5 +1,50 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-08T19:15:16Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-08T19:15:05Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-08T19:14:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
+    "language": "Python",
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-08T19:10:40Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-08T19:04:20Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-08-08T18:39:17Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:59:47Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-08T18:27:46Z",
+    "updated_at": "2026-08-08T19:07:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -103,18 +139,9 @@
     "id": "Stephenson-Software/create-dev-loop",
     "language": "Python",
     "name": "Stephenson-Software/create-dev-loop",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:25:16Z",
-    "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-08T18:18:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "updated_at": "2026-08-08T19:12:30Z",
+    "url": "https://github.com/Stephenson-Software/create-dev-loop"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -142,24 +169,6 @@
     "stars": 5685,
     "updated_at": "2026-08-08T17:52:31Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-08T18:53:54Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:43:11Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -364,7 +373,7 @@
     "id": "tanzeeldevAi/zara-ai-laptop-agent",
     "language": "Python",
     "name": "tanzeeldevAi/zara-ai-laptop-agent",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-08T12:38:10Z",
     "url": "https://github.com/tanzeeldevAi/zara-ai-laptop-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T10:48:09Z",
     "url": "https://github.com/hghalebi/agentic-rust-core-labs-101"
-  },
-  {
-    "description": "AI day-trading agent that auto-executes HK/US equity trades on paper accounts (built on Claude Code) | AI \u65e5\u5185\u4ea4\u6613\u4ee3\u7406\uff0c\u81ea\u52a8\u6267\u884c\u6e2f\u80a1 ",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 1,
-    "updated_at": "2026-08-08T10:45:54Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   }
 ]
