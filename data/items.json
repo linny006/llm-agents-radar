@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 3,
-    "updated_at": "2026-08-08T00:44:57Z",
+    "updated_at": "2026-08-08T00:58:50Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-08T00:46:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-08T00:05:02Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:52:33Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -166,7 +166,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 24,
+    "stars": 25,
     "updated_at": "2026-08-07T22:20:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -176,7 +176,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-07T23:08:03Z",
+    "updated_at": "2026-08-08T00:52:31Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
