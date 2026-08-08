@@ -1,5 +1,14 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:30:41Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -43,15 +52,6 @@
     "stars": 29,
     "updated_at": "2026-08-08T06:10:19Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-08T06:09:37Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 180,
-    "updated_at": "2026-08-08T06:23:54Z",
+    "updated_at": "2026-08-08T06:31:57Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
