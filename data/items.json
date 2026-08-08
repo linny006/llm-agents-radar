@@ -1,11 +1,20 @@
 [
   {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:49:38Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
     "id": "WiseriaAI/pie-ai-agent",
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 181,
-    "updated_at": "2026-08-08T15:44:59Z",
+    "updated_at": "2026-08-08T15:48:32Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -117,15 +126,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T15:04:25Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
     "id": "robinwalterfit/osaurus-acp",
     "language": "TypeScript",
@@ -229,7 +229,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8954,
+    "stars": 8955,
     "updated_at": "2026-08-08T12:20:20Z",
     "url": "https://github.com/EvoMap/evolver"
   },
