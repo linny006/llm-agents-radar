@@ -1,11 +1,20 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-08T21:59:22Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-08-08T21:52:16Z",
+    "updated_at": "2026-08-08T21:55:02Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-08T21:53:22Z",
+    "updated_at": "2026-08-08T21:59:30Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T19:15:05Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-08T18:39:17Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
