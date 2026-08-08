@@ -1,11 +1,20 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-08T09:21:31Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-08-08T09:13:35Z",
+    "updated_at": "2026-08-08T09:25:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-08T08:37:51Z",
+    "updated_at": "2026-08-08T09:24:29Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,17 +122,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4378,
-    "updated_at": "2026-08-08T09:13:29Z",
+    "updated_at": "2026-08-08T09:19:16Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-08T09:14:54Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -194,7 +194,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 180,
-    "updated_at": "2026-08-08T08:50:01Z",
+    "updated_at": "2026-08-08T09:18:15Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5683,
-    "updated_at": "2026-08-08T09:06:50Z",
+    "updated_at": "2026-08-08T09:25:25Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
