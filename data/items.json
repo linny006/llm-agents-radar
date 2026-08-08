@@ -1,5 +1,14 @@
 [
   {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 4,
+    "updated_at": "2026-08-08T09:50:15Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T23:22:21Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Demon Cry - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 0,
-    "updated_at": "2026-08-07T23:13:50Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
   }
 ]
