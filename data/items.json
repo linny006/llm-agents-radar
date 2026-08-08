@@ -1,5 +1,23 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 0,
+    "updated_at": "2026-08-08T04:10:36Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 622,
+    "updated_at": "2026-08-08T04:11:49Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -180,15 +198,6 @@
     "url": "https://github.com/chan-monk/chan-monk"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 622,
-    "updated_at": "2026-08-08T01:21:27Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -283,7 +292,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 25,
+    "stars": 27,
     "updated_at": "2026-08-07T22:20:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -304,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-07T22:03:01Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 0,
-    "updated_at": "2026-08-07T21:58:07Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
