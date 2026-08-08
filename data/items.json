@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 3,
-    "updated_at": "2026-08-08T00:15:06Z",
+    "updated_at": "2026-08-08T00:30:08Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-08T00:27:29Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -139,7 +148,7 @@
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
-    "stars": 215,
+    "stars": 214,
     "updated_at": "2026-08-07T22:37:05Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
@@ -157,7 +166,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 21,
+    "stars": 23,
     "updated_at": "2026-08-07T22:20:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-07T16:35:43Z",
     "url": "https://github.com/MarieLynneBlock/arcanum-artifex"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-07T16:56:22Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
