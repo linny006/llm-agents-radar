@@ -1,12 +1,12 @@
 [
   {
-    "description": "Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs \u2014 schema reference, 15-poin",
-    "id": "ankitai-s/superdialog-playbook-skill",
-    "language": "\u2014",
-    "name": "ankitai-s/superdialog-playbook-skill",
-    "stars": 2,
-    "updated_at": "2026-08-08T06:14:26Z",
-    "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-08T06:26:18Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 30,
-    "updated_at": "2026-08-08T06:12:45Z",
+    "updated_at": "2026-08-08T06:23:42Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 3,
+    "updated_at": "2026-08-08T06:18:51Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs \u2014 schema reference, 15-poin",
+    "id": "ankitai-s/superdialog-playbook-skill",
+    "language": "\u2014",
+    "name": "ankitai-s/superdialog-playbook-skill",
+    "stars": 2,
+    "updated_at": "2026-08-08T06:14:26Z",
+    "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -54,15 +72,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 3,
-    "updated_at": "2026-08-08T05:55:18Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
     "description": "Direct Blender with an AI agent from your terminal.",
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
@@ -70,15 +79,6 @@
     "stars": 48,
     "updated_at": "2026-08-08T05:55:13Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:49:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "WiseriaAI/pie-ai-agent",
     "stars": 180,
-    "updated_at": "2026-08-08T06:14:44Z",
+    "updated_at": "2026-08-08T06:23:54Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
