@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 21:15 UTC
+> ⏰ Last updated: 2026-08-08 21:23 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-08 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-08 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-08 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-08 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-08 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 6 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2574 | TypeScript | 2026-08-08 | An open-sourced research agent system deeply rooted in your Zotero library. |
-| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 30 | Python | 2026-08-08 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
-| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-08 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 9 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-08 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-08 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-08 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-08 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-08 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-08 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 15 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 9 | JavaScript | 2026-08-08 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 16 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-08 | GPT autonomous research and investigation using starintel |
+| 1 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-08 | GPT autonomous research and investigation using starintel |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 5 | Python | 2026-08-08 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-08 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-08 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-08 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-08 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 7 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 2574 | TypeScript | 2026-08-08 | An open-sourced research agent system deeply rooted in your Zotero library. |
+| 8 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 30 | Python | 2026-08-08 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 9 | [ljchang/mecha](https://github.com/ljchang/mecha) | 0 | Rust | 2026-08-08 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 10 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-08 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-08 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-08 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-08 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-08 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-08 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 16 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 9 | JavaScript | 2026-08-08 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
 | 17 | [gptme/gptme](https://github.com/gptme/gptme) | 4378 | Python | 2026-08-08 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 18 | [chan-monk/chan-monk](https://github.com/chan-monk/chan-monk) | 0 | — | 2026-08-08 | Chán-Monk — LLM agent tending the Play-Box garden |
 | 19 | [lunasilvestre/nightglass](https://github.com/lunasilvestre/nightglass) | 0 | Python | 2026-08-08 | Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an |
@@ -79,19 +79,19 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 652 | TypeScript | 2026-08-08 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 36 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-08 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
 | 37 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-08 | 基于LLM的量化因子开发Agent |
-| 38 | [Juveria22/bunni-backend](https://github.com/Juveria22/bunni-backend) | 0 | Python | 2026-08-08 | Backend for bunni! A multi tenant AI SMS agent for easy calendar organization.  |
-| 39 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 0 | TypeScript | 2026-08-08 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
-| 40 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 181 | TypeScript | 2026-08-08 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
-| 41 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-08 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 42 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-08 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 43 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-08 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
-| 44 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 217 | Python | 2026-08-08 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
-| 45 | [EpisodeYu/3GPP-Everything](https://github.com/EpisodeYu/3GPP-Everything) | 15 | Python | 2026-08-08 | 生产级 3GPP 5G 规范 RAG Agent：自然语言提问，回答带段落级原文引用 + 严格 grounding，覆盖 Rel-18/19 全部 TS。 |
-| 46 | [KuaaMU/mcp-vision-bridge](https://github.com/KuaaMU/mcp-vision-bridge) | 9 | TypeScript | 2026-08-08 | MCP server that gives text-only LLM coding agents vision — analyze images via any multimodal model (mimo, Claude, Gemini |
-| 47 | [tanzeeldevAi/zara-ai-laptop-agent](https://github.com/tanzeeldevAi/zara-ai-laptop-agent) | 3 | Python | 2026-08-08 | Control your Windows laptop from your phone with AI. Zara is a Discord-based personal AI assistant - takes screenshots,  |
-| 48 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8955 | JavaScript | 2026-08-08 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
-| 49 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-08-08 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
-| 50 | [sky-valley/pi](https://github.com/sky-valley/pi) | 30 | Go | 2026-08-08 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
+| 38 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-08 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 39 | [Juveria22/bunni-backend](https://github.com/Juveria22/bunni-backend) | 0 | Python | 2026-08-08 | Backend for bunni! A multi tenant AI SMS agent for easy calendar organization.  |
+| 40 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 0 | TypeScript | 2026-08-08 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
+| 41 | [WiseriaAI/pie-ai-agent](https://github.com/WiseriaAI/pie-ai-agent) | 181 | TypeScript | 2026-08-08 | Browser-automation agent for Chrome — natural-language tasks executed through native tool calling, scoped Skills, CDP ke |
+| 42 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-08 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 43 | [helixml/helix](https://github.com/helixml/helix) | 794 | Go | 2026-08-08 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 44 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-08 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
+| 45 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 217 | Python | 2026-08-08 | Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval. |
+| 46 | [EpisodeYu/3GPP-Everything](https://github.com/EpisodeYu/3GPP-Everything) | 15 | Python | 2026-08-08 | 生产级 3GPP 5G 规范 RAG Agent：自然语言提问，回答带段落级原文引用 + 严格 grounding，覆盖 Rel-18/19 全部 TS。 |
+| 47 | [KuaaMU/mcp-vision-bridge](https://github.com/KuaaMU/mcp-vision-bridge) | 9 | TypeScript | 2026-08-08 | MCP server that gives text-only LLM coding agents vision — analyze images via any multimodal model (mimo, Claude, Gemini |
+| 48 | [tanzeeldevAi/zara-ai-laptop-agent](https://github.com/tanzeeldevAi/zara-ai-laptop-agent) | 3 | Python | 2026-08-08 | Control your Windows laptop from your phone with AI. Zara is a Discord-based personal AI assistant - takes screenshots,  |
+| 49 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8955 | JavaScript | 2026-08-08 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 50 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-08-08 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
 <!-- TRACKER_TABLE_END -->
 
 ---

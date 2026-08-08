@@ -1,5 +1,23 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-08T21:21:13Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 5,
+    "updated_at": "2026-08-08T21:16:23Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -34,15 +52,6 @@
     "stars": 29,
     "updated_at": "2026-08-08T21:10:02Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 5,
-    "updated_at": "2026-08-08T21:11:33Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
@@ -135,15 +144,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-08T21:14:28Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -194,7 +194,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-08-08T20:39:50Z",
+    "updated_at": "2026-08-08T21:16:13Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -333,6 +333,15 @@
     "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-08T16:14:15Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
     "id": "Juveria22/bunni-backend",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 794,
-    "updated_at": "2026-08-08T20:45:38Z",
+    "updated_at": "2026-08-08T21:16:54Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T11:41:53Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 30,
-    "updated_at": "2026-08-08T11:35:11Z",
-    "url": "https://github.com/sky-valley/pi"
   }
 ]
