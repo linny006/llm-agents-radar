@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-08T05:27:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Natural-language analytics agent for arbitrary PostgreSQL databases: hybrid NL\u2192SQL (learned / deterministic / coder casc",
+    "id": "Abdirayimov/schema-agnostic-rag-agent",
+    "language": "Python",
+    "name": "Abdirayimov/schema-agnostic-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T05:20:39Z",
+    "url": "https://github.com/Abdirayimov/schema-agnostic-rag-agent"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T05:01:23Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Natural-language analytics agent for arbitrary PostgreSQL databases: hybrid NL\u2192SQL (learned / deterministic / coder casc",
-    "id": "Abdirayimov/schema-agnostic-rag-agent",
-    "language": "Python",
-    "name": "Abdirayimov/schema-agnostic-rag-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T05:11:54Z",
-    "url": "https://github.com/Abdirayimov/schema-agnostic-rag-agent"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -97,15 +106,6 @@
     "stars": 29,
     "updated_at": "2026-08-08T04:43:16Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-08T04:41:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
