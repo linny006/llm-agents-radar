@@ -1,5 +1,23 @@
 [
   {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 485,
+    "updated_at": "2026-08-08T01:39:41Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
+    "id": "chan-monk/chan-monk",
+    "language": "\u2014",
+    "name": "chan-monk/chan-monk",
+    "stars": 0,
+    "updated_at": "2026-08-08T01:36:06Z",
+    "url": "https://github.com/chan-monk/chan-monk"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -283,7 +301,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6832,
+    "stars": 6833,
     "updated_at": "2026-08-07T20:16:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T17:51:51Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 179,
-    "updated_at": "2026-08-07T17:34:40Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "stars": 31,
-    "updated_at": "2026-08-07T17:26:17Z",
-    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
   }
 ]
