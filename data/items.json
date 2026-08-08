@@ -1,11 +1,29 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-08T19:48:14Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 30,
+    "updated_at": "2026-08-08T19:47:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4378,
-    "updated_at": "2026-08-08T19:45:15Z",
+    "updated_at": "2026-08-08T19:50:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-08T19:36:37Z",
+    "updated_at": "2026-08-08T19:50:04Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T19:23:32Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-08T19:20:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-08T11:23:27Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
-    "id": "codedpro/agentic-game-factory",
-    "language": "GDScript",
-    "name": "codedpro/agentic-game-factory",
-    "stars": 1,
-    "updated_at": "2026-08-08T11:17:50Z",
-    "url": "https://github.com/codedpro/agentic-game-factory"
   }
 ]
