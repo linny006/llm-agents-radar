@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 10,
+    "updated_at": "2026-08-08T01:55:07Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-08T01:49:31Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5682,
+    "updated_at": "2026-08-08T01:46:49Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 10,
-    "updated_at": "2026-08-08T01:23:24Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T01:08:33Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-08T00:58:50Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-07T17:54:18Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-07T17:51:51Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
   }
 ]
