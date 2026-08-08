@@ -1,5 +1,23 @@
 [
   {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-08T09:59:26Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 4,
+    "updated_at": "2026-08-08T09:58:06Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -86,7 +104,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 3,
-    "updated_at": "2026-08-08T09:21:31Z",
+    "updated_at": "2026-08-08T10:00:12Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 29,
     "updated_at": "2026-08-08T07:53:04Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-08-08T09:38:52Z",
-    "url": "https://github.com/bigduu/Lotus"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -313,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T03:35:14Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 4,
-    "updated_at": "2026-08-08T03:30:01Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
