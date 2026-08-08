@@ -1,5 +1,23 @@
 [
   {
+    "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
+    "id": "Hereon-InstituteMS/OASiS",
+    "language": "Python",
+    "name": "Hereon-InstituteMS/OASiS",
+    "stars": 17,
+    "updated_at": "2026-08-08T23:48:22Z",
+    "url": "https://github.com/Hereon-InstituteMS/OASiS"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-08T23:46:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-08T23:45:10Z",
+    "updated_at": "2026-08-08T23:51:55Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T23:21:57Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:13:22Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-08T22:20:27Z",
+    "updated_at": "2026-08-08T23:49:36Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 654,
-    "updated_at": "2026-08-08T16:32:07Z",
+    "updated_at": "2026-08-08T23:45:28Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 217,
     "updated_at": "2026-08-08T15:21:18Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "\u751f\u4ea7\u7ea7 3GPP 5G \u89c4\u8303 RAG Agent\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee\uff0c\u56de\u7b54\u5e26\u6bb5\u843d\u7ea7\u539f\u6587\u5f15\u7528 + \u4e25\u683c grounding\uff0c\u8986\u76d6 Rel-18/19 \u5168\u90e8 TS\u3002",
-    "id": "EpisodeYu/3GPP-Everything",
-    "language": "Python",
-    "name": "EpisodeYu/3GPP-Everything",
-    "stars": 15,
-    "updated_at": "2026-08-08T13:16:25Z",
-    "url": "https://github.com/EpisodeYu/3GPP-Everything"
   }
 ]
