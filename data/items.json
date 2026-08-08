@@ -1,5 +1,41 @@
 [
   {
+    "description": "Control your Windows laptop from your phone with AI. Zara is a Discord-based personal AI assistant powered by Claude - t",
+    "id": "tanzeeldevAi/zara-ai-laptop-agent",
+    "language": "Python",
+    "name": "tanzeeldevAi/zara-ai-laptop-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T12:07:09Z",
+    "url": "https://github.com/tanzeeldevAi/zara-ai-laptop-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 0,
+    "updated_at": "2026-08-08T12:06:54Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-08T12:07:00Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-08T12:03:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -16,15 +52,6 @@
     "stars": 8954,
     "updated_at": "2026-08-08T11:46:48Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-08T11:44:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4378,
-    "updated_at": "2026-08-08T11:38:48Z",
+    "updated_at": "2026-08-08T12:10:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -355,18 +382,9 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13697,
+    "stars": 13698,
     "updated_at": "2026-08-08T04:24:29Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 0,
-    "updated_at": "2026-08-08T04:21:41Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Balanced, configurable Python tactic for Arena Hero \u2014 safe-core turtling, radius-capped scouting, and worker claim-lock ",
@@ -430,23 +448,5 @@
     "stars": 5683,
     "updated_at": "2026-08-08T09:31:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 485,
-    "updated_at": "2026-08-08T01:39:41Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
-    "id": "chan-monk/chan-monk",
-    "language": "\u2014",
-    "name": "chan-monk/chan-monk",
-    "stars": 0,
-    "updated_at": "2026-08-08T01:36:06Z",
-    "url": "https://github.com/chan-monk/chan-monk"
   }
 ]
