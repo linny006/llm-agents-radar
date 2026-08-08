@@ -1,5 +1,77 @@
 [
   {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 9,
+    "updated_at": "2026-08-08T15:15:07Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 794,
+    "updated_at": "2026-08-08T15:12:37Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-08T15:10:19Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-08T15:04:50Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-08T15:04:42Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 12,
+    "updated_at": "2026-08-08T15:10:19Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:04:25Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
+    "id": "robinwalterfit/osaurus-acp",
+    "language": "TypeScript",
+    "name": "robinwalterfit/osaurus-acp",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:02:28Z",
+    "url": "https://github.com/robinwalterfit/osaurus-acp"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -18,24 +90,6 @@
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-08T14:41:02Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 9,
-    "updated_at": "2026-08-08T14:39:14Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T14:37:26Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 794,
-    "updated_at": "2026-08-08T14:50:50Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -117,15 +162,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T13:44:48Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -142,24 +178,6 @@
     "stars": 15,
     "updated_at": "2026-08-08T13:16:25Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-08T13:17:49Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-08T14:47:00Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "MCP server that gives text-only LLM coding agents vision \u2014 analyze images via any multimodal model (mimo, Claude, Gemini",
@@ -202,7 +220,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8955,
+    "stars": 8954,
     "updated_at": "2026-08-08T12:20:20Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -387,15 +405,6 @@
     "url": "https://github.com/ankitai-s/superdialog-playbook-skill"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-08T14:59:39Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
     "description": "Natural-language analytics agent for arbitrary PostgreSQL databases: hybrid NL\u2192SQL (learned / deterministic / coder casc",
     "id": "Abdirayimov/schema-agnostic-rag-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 623,
     "updated_at": "2026-08-08T04:38:36Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13699,
-    "updated_at": "2026-08-08T04:24:29Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
