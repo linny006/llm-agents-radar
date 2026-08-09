@@ -1,12 +1,39 @@
 [
   {
+    "description": "\u84ec\u83b1 Penglai \u2014 TypeScript Host + Pi \u6838\u5fc3\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0 \u00b7 Desktop / CLI / Feishu / WeChat",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "TypeScript",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 10,
+    "updated_at": "2026-08-09T13:29:03Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
     "description": "\u591a\u6a21\u6001 RAG \u667a\u80fd\u4f53\uff1aMCP \u534f\u8bae + GraphRAG + Cross-Encoder \u7cbe\u6392 + \u591a Agent \u7f16\u6392 + RAGAS \u8bc4\u4f30",
     "id": "Apageoflove/mcp-rag-agent",
     "language": "Python",
     "name": "Apageoflove/mcp-rag-agent",
     "stars": 4,
-    "updated_at": "2026-08-09T13:14:50Z",
+    "updated_at": "2026-08-09T13:26:36Z",
     "url": "https://github.com/Apageoflove/mcp-rag-agent"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 660,
+    "updated_at": "2026-08-09T13:28:47Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T13:22:38Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 42,
-    "updated_at": "2026-08-09T13:13:15Z",
+    "updated_at": "2026-08-09T13:18:48Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 660,
-    "updated_at": "2026-08-09T13:11:51Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "Apache-2.0 Agent Seat Protocol, generic MCP companion, and standalone X11 provider",
     "id": "ZaguanLabs/agent-seat-proto",
     "language": "Rust",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T13:11:23Z",
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "\u84ec\u83b1 Penglai \u2014 TypeScript Host + Pi \u6838\u5fc3\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0 \u00b7 Desktop / CLI / Feishu / WeChat",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "TypeScript",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 10,
-    "updated_at": "2026-08-09T13:14:58Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T13:05:29Z",
+    "updated_at": "2026-08-09T13:30:16Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "hyuga611/llm-safe-sql",
     "stars": 0,
-    "updated_at": "2026-08-09T12:30:37Z",
+    "updated_at": "2026-08-09T13:29:48Z",
     "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 10,
     "updated_at": "2026-08-09T12:21:37Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T12:17:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
