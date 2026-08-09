@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 09:00 UTC
+> ⏰ Last updated: 2026-08-09 09:08 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -60,7 +60,7 @@ expired items removed — so you can rely on what you see being current.
 | 16 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-09 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
 | 17 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 624 | Go | 2026-08-09 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 18 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16314 | Python | 2026-08-09 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| 19 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 540 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 19 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 543 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
 | 20 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 21 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-09 |  Where intent meets code — a local AI coding agent          |
 | 22 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-09 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
