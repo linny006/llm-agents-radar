@@ -1,11 +1,47 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-09T06:44:02Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 658,
+    "updated_at": "2026-08-09T06:39:57Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 29,
+    "updated_at": "2026-08-09T06:39:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-09T06:32:17Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-09T06:28:18Z",
+    "updated_at": "2026-08-09T06:39:27Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-09T06:23:12Z",
+    "updated_at": "2026-08-09T06:43:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-09T06:09:29Z",
+    "updated_at": "2026-08-09T06:37:15Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -90,15 +126,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:47:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T05:39:43Z",
     "url": "https://github.com/sototheng12138/deepplanning-constraint-agent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-09T05:34:23Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
@@ -234,21 +252,12 @@
     "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 29,
-    "updated_at": "2026-08-09T03:49:54Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-09T06:00:37Z",
+    "updated_at": "2026-08-09T06:41:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -351,6 +360,15 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 67,
+    "updated_at": "2026-08-09T01:04:30Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
     "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
     "id": "avasec/TreeLens",
     "language": "Python",
@@ -358,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T00:48:38Z",
     "url": "https://github.com/avasec/TreeLens"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 658,
-    "updated_at": "2026-08-09T00:39:23Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
@@ -439,14 +448,5 @@
     "stars": 795,
     "updated_at": "2026-08-09T06:19:13Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2578,
-    "updated_at": "2026-08-08T21:06:35Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
