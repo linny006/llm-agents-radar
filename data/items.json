@@ -1,5 +1,32 @@
 [
   {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:11:35Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-09T00:10:23Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 31,
+    "updated_at": "2026-08-09T00:06:45Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
     "id": "vincent123zhang/PaperClaw",
     "language": "Python",
@@ -72,21 +99,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 30,
-    "updated_at": "2026-08-08T23:28:45Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-08T23:59:44Z",
+    "updated_at": "2026-08-09T00:15:15Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -142,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-08T22:51:55Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-08T23:32:17Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:58:39Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "avasec/TreeLens",
     "stars": 1,
-    "updated_at": "2026-08-08T16:48:27Z",
+    "updated_at": "2026-08-09T00:09:52Z",
     "url": "https://github.com/avasec/TreeLens"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-08T16:14:15Z",
+    "updated_at": "2026-08-09T00:14:40Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
