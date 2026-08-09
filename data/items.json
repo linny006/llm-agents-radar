@@ -1,10 +1,37 @@
 [
   {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-09T02:39:58Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T02:36:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ub9d0 \ud55c\ub9c8\ub514\ub85c \ub178\uc158 \ub8e8\ud2f4\uacfc \uc2dc\uac04\uc744 \uae30\ub85d\ud574 \uc8fc\ub294 LLM \uae30\ubc18 \ub514\uc2a4\ucf54\ub4dc \uc9d1\uc0ac \ubd07 '\uacf5\uc8fc\ube44\uc11c' \ud83c\udf80",
+    "id": "Subin9227/princess-secretary",
+    "language": "Python",
+    "name": "Subin9227/princess-secretary",
+    "stars": 0,
+    "updated_at": "2026-08-09T02:24:54Z",
+    "url": "https://github.com/Subin9227/princess-secretary"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 34,
+    "stars": 35,
     "updated_at": "2026-08-09T02:24:23Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T02:23:35Z",
+    "updated_at": "2026-08-09T02:32:27Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-09T01:56:15Z",
+    "updated_at": "2026-08-09T02:33:30Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T00:36:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T00:33:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-09T02:28:11Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T16:02:53Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 181,
-    "updated_at": "2026-08-08T15:59:34Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   }
 ]
