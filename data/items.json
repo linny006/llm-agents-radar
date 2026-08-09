@@ -1,5 +1,23 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-09T06:09:29Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T06:01:42Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:59:03Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
+    "id": "acmiyaguchi/fen-web",
+    "language": "TypeScript",
+    "name": "acmiyaguchi/fen-web",
+    "stars": 0,
+    "updated_at": "2026-08-09T05:58:41Z",
+    "url": "https://github.com/acmiyaguchi/fen-web"
   },
   {
     "description": "\u4e13\u5229\u4fb5\u6743\u5206\u6790\u7cfb\u7edf \u2014\u2014 \u8f93\u5165\u4e13\u5229\u516c\u5f00\u53f7\uff0c\u4ea7\u51fa\u7ade\u54c1\u4fb5\u6743\u5206\u6790\u62a5\u544a\uff1b\u540c\u65f6\u6253\u5305\u6210 skill\uff0c\u53ef\u88ab\u4efb\u610f agent\uff08codex\uff0cclaude code \u7b49\uff09 \u8c03\u7528\u3002",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-09T05:56:19Z",
+    "updated_at": "2026-08-09T06:06:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -70,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-09T05:52:07Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Typed, verification-gated planning for the Qwen-Agent DeepPlanning benchmark.",
+    "id": "sototheng12138/deepplanning-constraint-agent",
+    "language": "Python",
+    "name": "sototheng12138/deepplanning-constraint-agent",
+    "stars": 1,
+    "updated_at": "2026-08-09T05:39:43Z",
+    "url": "https://github.com/sototheng12138/deepplanning-constraint-agent"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -90,21 +126,12 @@
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T05:15:21Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T05:59:29Z",
+    "updated_at": "2026-08-09T06:12:22Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -203,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-09T03:47:35Z",
+    "updated_at": "2026-08-09T06:00:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -409,7 +436,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2577,
+    "stars": 2578,
     "updated_at": "2026-08-08T21:06:35Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -421,32 +448,5 @@
     "stars": 4378,
     "updated_at": "2026-08-09T04:08:35Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Ch\u00e1n-Monk \u2014 LLM agent tending the Play-Box garden",
-    "id": "chan-monk/chan-monk",
-    "language": "\u2014",
-    "name": "chan-monk/chan-monk",
-    "stars": 0,
-    "updated_at": "2026-08-08T19:26:37Z",
-    "url": "https://github.com/chan-monk/chan-monk"
-  },
-  {
-    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
-    "id": "lunasilvestre/nightglass",
-    "language": "Python",
-    "name": "lunasilvestre/nightglass",
-    "stars": 0,
-    "updated_at": "2026-08-08T20:10:54Z",
-    "url": "https://github.com/lunasilvestre/nightglass"
-  },
-  {
-    "description": "Chat with Claude Code from your phone via Telegram. Uses your Max plan auth (no API key) \u2014 runs as a systemd service on ",
-    "id": "DylPorter/claude-telegram",
-    "language": "Python",
-    "name": "DylPorter/claude-telegram",
-    "stars": 1,
-    "updated_at": "2026-08-08T18:31:04Z",
-    "url": "https://github.com/DylPorter/claude-telegram"
   }
 ]
