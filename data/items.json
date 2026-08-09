@@ -1,5 +1,14 @@
 [
   {
+    "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
+    "id": "vincent123zhang/PaperClaw",
+    "language": "Python",
+    "name": "vincent123zhang/PaperClaw",
+    "stars": 0,
+    "updated_at": "2026-08-08T23:57:19Z",
+    "url": "https://github.com/vincent123zhang/PaperClaw"
+  },
+  {
     "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
     "id": "Hereon-InstituteMS/OASiS",
     "language": "Python",
@@ -16,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-08T23:46:52Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 655,
+    "updated_at": "2026-08-08T23:45:28Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-08T23:51:55Z",
+    "updated_at": "2026-08-08T23:59:44Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-08T23:49:36Z",
+    "updated_at": "2026-08-08T23:58:39Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/codex-mohan/spectra"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 654,
-    "updated_at": "2026-08-08T23:45:28Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
     "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T15:02:28Z",
     "url": "https://github.com/robinwalterfit/osaurus-acp"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 217,
-    "updated_at": "2026-08-08T15:21:18Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
