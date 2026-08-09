@@ -1,5 +1,41 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-09T07:43:25Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-09T07:39:56Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16312,
+    "updated_at": "2026-08-09T07:37:39Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 795,
+    "updated_at": "2026-08-09T07:33:38Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
     "id": "SugarMGP/MumuBot",
     "language": "Go",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 658,
-    "updated_at": "2026-08-09T06:39:57Z",
+    "updated_at": "2026-08-09T07:41:43Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-09T06:37:15Z",
+    "updated_at": "2026-08-09T07:36:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -288,13 +324,13 @@
     "url": "https://github.com/maisieyang/build-my-own-harness"
   },
   {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-09T04:13:39Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4379,
+    "updated_at": "2026-08-09T04:08:35Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
@@ -319,7 +355,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 41,
+    "stars": 42,
     "updated_at": "2026-08-09T03:22:47Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -412,41 +448,5 @@
     "stars": 67,
     "updated_at": "2026-08-09T01:04:30Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
-    "id": "avasec/TreeLens",
-    "language": "Python",
-    "name": "avasec/TreeLens",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:48:38Z",
-    "url": "https://github.com/avasec/TreeLens"
-  },
-  {
-    "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
-    "id": "vincent123zhang/PaperClaw",
-    "language": "Python",
-    "name": "vincent123zhang/PaperClaw",
-    "stars": 0,
-    "updated_at": "2026-08-08T23:57:19Z",
-    "url": "https://github.com/vincent123zhang/PaperClaw"
-  },
-  {
-    "description": "OASiS \u2014 an open-source agentic framework for verified multi-physics, multi-code simulation. MCP server letting any AI mo",
-    "id": "Hereon-InstituteMS/OASiS",
-    "language": "Python",
-    "name": "Hereon-InstituteMS/OASiS",
-    "stars": 17,
-    "updated_at": "2026-08-08T23:48:22Z",
-    "url": "https://github.com/Hereon-InstituteMS/OASiS"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 96,
-    "updated_at": "2026-08-08T21:50:43Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   }
 ]
