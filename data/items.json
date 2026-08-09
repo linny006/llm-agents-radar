@@ -1,12 +1,66 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:29:07Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:26:45Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T09:29:21Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:23:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
+    "id": "Kishore-dev-21/DataMind_AI",
+    "language": "TypeScript",
+    "name": "Kishore-dev-21/DataMind_AI",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:21:36Z",
+    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4379,
-    "updated_at": "2026-08-09T09:14:39Z",
+    "updated_at": "2026-08-09T09:27:21Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 42,
+    "updated_at": "2026-08-09T09:19:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 658,
-    "updated_at": "2026-08-09T09:03:18Z",
+    "updated_at": "2026-08-09T09:15:25Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T08:51:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:45:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -117,24 +162,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
-    "id": "Kishore-dev-21/DataMind_AI",
-    "language": "TypeScript",
-    "name": "Kishore-dev-21/DataMind_AI",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:23:33Z",
-    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:10:23Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "Shell",
@@ -175,7 +202,7 @@
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 543,
+    "stars": 547,
     "updated_at": "2026-08-09T07:52:40Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
@@ -252,15 +279,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T06:51:13Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -286,15 +304,6 @@
     "stars": 50,
     "updated_at": "2026-08-09T05:58:35Z",
     "url": "https://github.com/yuc16/PatentRadar"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-09T05:47:10Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -392,17 +401,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-09T06:41:32Z",
+    "updated_at": "2026-08-09T09:19:40Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 42,
-    "updated_at": "2026-08-09T03:22:47Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\ub9d0 \ud55c\ub9c8\ub514\ub85c \ub178\uc158 \ub8e8\ud2f4\uacfc \uc2dc\uac04\uc744 \uae30\ub85d\ud574 \uc8fc\ub294 LLM \uae30\ubc18 \ub514\uc2a4\ucf54\ub4dc \uc9d1\uc0ac \ubd07 '\uacf5\uc8fc\ube44\uc11c' \ud83c\udf80",
