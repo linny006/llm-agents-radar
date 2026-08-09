@@ -1,5 +1,59 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-09T19:42:45Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 1,
+    "updated_at": "2026-08-09T19:44:15Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-09T19:38:53Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-09T19:38:04Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
+    "id": "RudrenduPaul/agent-eval",
+    "language": "Python",
+    "name": "RudrenduPaul/agent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-09T19:44:57Z",
+    "url": "https://github.com/RudrenduPaul/agent-eval"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-09T19:31:23Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -32,17 +86,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-09T19:23:17Z",
+    "updated_at": "2026-08-09T19:35:35Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-09T19:18:53Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-09T19:15:22Z",
+    "updated_at": "2026-08-09T19:35:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -113,7 +158,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-09T19:23:14Z",
+    "updated_at": "2026-08-09T19:30:38Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -133,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:56:50Z",
     "url": "https://github.com/ZaguanLabs/agent-seat-proto"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-09T18:50:51Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-09T18:50:22Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T18:40:30Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-09T18:37:16Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
@@ -430,23 +448,5 @@
     "stars": 18,
     "updated_at": "2026-08-09T17:46:51Z",
     "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 182,
-    "updated_at": "2026-08-09T19:18:28Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-09T19:10:11Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   }
 ]
