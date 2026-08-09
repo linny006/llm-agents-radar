@@ -1,5 +1,149 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 42,
+    "updated_at": "2026-08-09T12:14:46Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16318,
+    "updated_at": "2026-08-09T12:14:00Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:12:55Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:12:35Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:11:21Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 1,
+    "updated_at": "2026-08-09T12:09:57Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:07:51Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:06:49Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:06:29Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:05:22Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-09T12:04:20Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-08-09T12:04:04Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 TypeScript Host + Pi \u6838\u5fc3\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0 \u00b7 Desktop / CLI / Feishu / WeChat",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 10,
+    "updated_at": "2026-08-09T12:04:02Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-08-09T12:03:33Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-09T12:04:34Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 10,
+    "updated_at": "2026-08-09T12:01:10Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -43,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T11:56:06Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-09T11:58:37Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -117,15 +252,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "\u84ec\u83b1 Penglai \u2014 TypeScript Host + Pi \u6838\u5fc3\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0 \u00b7 Desktop / CLI / Feishu / WeChat",
-    "id": "kevinchennewbee/PenglaiAgent",
-    "language": "Python",
-    "name": "kevinchennewbee/PenglaiAgent",
-    "stars": 10,
-    "updated_at": "2026-08-09T11:50:37Z",
-    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
-  },
-  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -133,24 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T11:48:49Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 42,
-    "updated_at": "2026-08-09T11:47:18Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 1,
-    "updated_at": "2026-08-09T11:46:50Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -340,113 +448,5 @@
     "stars": 181,
     "updated_at": "2026-08-09T11:18:06Z",
     "url": "https://github.com/WiseriaAI/pie-ai-agent"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-08-09T10:51:46Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 660,
-    "updated_at": "2026-08-09T11:55:35Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:29:32Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:25:36Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-08-09T10:20:45Z",
-    "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-09T10:17:45Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:10:55Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-09T10:02:38Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-09T11:56:21Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
-    "id": "vincent123zhang/PaperClaw",
-    "language": "Python",
-    "name": "vincent123zhang/PaperClaw",
-    "stars": 0,
-    "updated_at": "2026-08-09T09:57:41Z",
-    "url": "https://github.com/vincent123zhang/PaperClaw"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T09:56:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "AI day-trading agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 1,
-    "updated_at": "2026-08-09T10:07:26Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   }
 ]
