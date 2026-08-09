@@ -1,5 +1,23 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4379,
+    "updated_at": "2026-08-09T09:14:39Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
+    "id": "RudrenduPaul/agent-eval",
+    "language": "Python",
+    "name": "RudrenduPaul/agent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:09:36Z",
+    "url": "https://github.com/RudrenduPaul/agent-eval"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T08:08:56Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:08:17Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -367,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:10:34Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4379,
-    "updated_at": "2026-08-09T07:46:38Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
