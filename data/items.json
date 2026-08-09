@@ -1,5 +1,14 @@
 [
   {
+    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
+    "id": "Kishore-dev-21/DataMind_AI",
+    "language": "TypeScript",
+    "name": "Kishore-dev-21/DataMind_AI",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:30:14Z",
+    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
+  },
+  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 43,
-    "updated_at": "2026-08-09T18:29:21Z",
+    "updated_at": "2026-08-09T18:30:33Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -25,15 +34,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T18:28:30Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
-    "id": "Kishore-dev-21/DataMind_AI",
-    "language": "TypeScript",
-    "name": "Kishore-dev-21/DataMind_AI",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:30:14Z",
-    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-09T18:29:13Z",
+    "updated_at": "2026-08-09T18:30:30Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -338,7 +338,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-09T17:25:20Z",
+    "updated_at": "2026-08-09T18:30:37Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
