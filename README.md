@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 08:45 UTC
+> ⏰ Last updated: 2026-08-09 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 399 | Go | 2026-08-09 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 2 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-08-09 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
-| 3 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 658 | TypeScript | 2026-08-09 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 5 | [arjun3037/JReAct](https://github.com/arjun3037/JReAct) | 0 | Java | 2026-08-09 | ReAct Agent Loop Built from Scratch in Java |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [Kishore-dev-21/DataMind_AI](https://github.com/Kishore-dev-21/DataMind_AI) | 0 | TypeScript | 2026-08-09 | Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase |
-| 8 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-09 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
-| 9 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-09 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
-| 10 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-09 | Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify — zero hallucinations. |
-| 11 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-09 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
-| 12 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 624 | Go | 2026-08-09 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 13 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16314 | Python | 2026-08-09 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 15 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 16 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 537 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
-| 17 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 18 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-09 |  Where intent meets code — a local AI coding agent          |
-| 19 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 20 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-09 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 21 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 22 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-09 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 23 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-09 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 24 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 25 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 658 | TypeScript | 2026-08-09 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 4 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 399 | Go | 2026-08-09 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 8 | [metric-space-ai/greppy](https://github.com/metric-space-ai/greppy) | 8 | Rust | 2026-08-09 | Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact  |
+| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 10 | [arjun3037/JReAct](https://github.com/arjun3037/JReAct) | 0 | Java | 2026-08-09 | ReAct Agent Loop Built from Scratch in Java |
+| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 12 | [Kishore-dev-21/DataMind_AI](https://github.com/Kishore-dev-21/DataMind_AI) | 0 | TypeScript | 2026-08-09 | Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase |
+| 13 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-09 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
+| 14 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-09 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
+| 15 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-09 | Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify — zero hallucinations. |
+| 16 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-09 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
+| 17 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 624 | Go | 2026-08-09 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 18 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16314 | Python | 2026-08-09 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| 19 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 540 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 20 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 21 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-09 |  Where intent meets code — a local AI coding agent          |
+| 22 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-09 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 23 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 24 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-09 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 25 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-09 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 26 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 5 | TypeScript | 2026-08-09 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
 | 27 | [ljchang/mecha](https://github.com/ljchang/mecha) | 1 | Rust | 2026-08-09 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 28 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-09 | Template for building protoLabs A2A agents on LangGraph — fork me |

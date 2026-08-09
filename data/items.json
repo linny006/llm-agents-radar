@@ -1,5 +1,59 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 658,
+    "updated_at": "2026-08-09T08:59:58Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:55:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-09T08:52:12Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 22,
+    "updated_at": "2026-08-09T08:51:39Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-09T08:51:15Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:45:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -16,15 +70,6 @@
     "stars": 8,
     "updated_at": "2026-08-09T08:41:24Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 658,
-    "updated_at": "2026-08-09T08:41:00Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -117,29 +162,11 @@
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:00:41Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:57:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 537,
+    "stars": 540,
     "updated_at": "2026-08-09T07:52:40Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
@@ -160,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-08-09T07:43:25Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 22,
-    "updated_at": "2026-08-09T07:26:31Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -205,24 +223,6 @@
     "stars": 29,
     "updated_at": "2026-08-09T07:07:02Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-09T07:05:38Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-09T07:04:42Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
