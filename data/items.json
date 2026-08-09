@@ -1,5 +1,68 @@
 [
   {
+    "description": "Apache-2.0 Agent Seat Protocol, generic MCP companion, and standalone X11 provider",
+    "id": "ZaguanLabs/agent-seat-proto",
+    "language": "Rust",
+    "name": "ZaguanLabs/agent-seat-proto",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:56:50Z",
+    "url": "https://github.com/ZaguanLabs/agent-seat-proto"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 3,
+    "updated_at": "2026-08-09T18:55:03Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T18:53:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-09T18:50:51Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-09T18:50:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 96,
+    "updated_at": "2026-08-09T18:47:25Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-09T18:58:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
     "id": "passive-hotpepper515/area-checker-html-tool",
     "language": "HTML",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "synapseorch-ai/synapse-ai",
     "stars": 307,
-    "updated_at": "2026-08-09T18:40:35Z",
+    "updated_at": "2026-08-09T18:48:12Z",
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
@@ -288,24 +351,6 @@
     "url": "https://github.com/StephenSook/silent-drift-sentinel"
   },
   {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 3,
-    "updated_at": "2026-08-09T18:01:49Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T18:01:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -356,35 +401,8 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-09T18:34:48Z",
+    "updated_at": "2026-08-09T18:54:03Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-09T18:36:18Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-09T17:36:49Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-09T17:36:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\u80a1\u7968\u5206\u6790\u4e0e\u89c4\u5212 AI Agent \u2014 LLM \u53ea\u505a\u63a8\u7406\u7efc\u5408\u4e0d\u505a\u7b97\u672f\uff0c\u6307\u6807/\u4f30\u503c/\u7ec4\u5408\u7edf\u8ba1\u5168\u90e8\u4ee3\u7801\u786e\u5b9a\u6027\u8ba1\u7b97\u3002\u7814\u7a76\u8f85\u52a9\u5de5\u5177\uff0c\u975e\u6295\u8d44\u5efa\u8bae\u3002",
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-09T18:41:24Z",
+    "updated_at": "2026-08-09T18:59:37Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-09T17:09:28Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-09T18:42:01Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
