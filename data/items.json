@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 4,
+    "updated_at": "2026-08-09T04:00:03Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:59:15Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:56:51Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "ArchAgent \u8003\u53e4\u5b66\u672f\u7a81\u7834\u70b9\u5206\u6790\u5668 \u2014 AI agent for detecting chronological/attribution/typological conflicts in Chinese Neolithic\u2013Bronz",
+    "id": "Zensoro/archagent",
+    "language": "Python",
+    "name": "Zensoro/archagent",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:53:30Z",
+    "url": "https://github.com/Zensoro/archagent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 29,
+    "updated_at": "2026-08-09T03:49:54Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-09T03:47:35Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 159,
     "updated_at": "2026-08-09T03:39:58Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-09T03:45:12Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -52,15 +97,6 @@
     "stars": 38,
     "updated_at": "2026-08-09T03:22:47Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 4,
-    "updated_at": "2026-08-09T03:16:39Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "\ub9d0 \ud55c\ub9c8\ub514\ub85c \ub178\uc158 \ub8e8\ud2f4\uacfc \uc2dc\uac04\uc744 \uae30\ub85d\ud574 \uc8fc\ub294 LLM \uae30\ubc18 \ub514\uc2a4\ucf54\ub4dc \uc9d1\uc0ac \ubd07 '\uacf5\uc8fc\ube44\uc11c' \ud83c\udf80",
@@ -97,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T02:49:17Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-09T02:39:58Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -225,20 +252,11 @@
     "url": "https://github.com/avasec/TreeLens"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-09T03:09:51Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 657,
+    "stars": 658,
     "updated_at": "2026-08-09T00:39:23Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -259,15 +277,6 @@
     "stars": 17,
     "updated_at": "2026-08-08T23:48:22Z",
     "url": "https://github.com/Hereon-InstituteMS/OASiS"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 29,
-    "updated_at": "2026-08-08T23:11:12Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T16:40:41Z",
     "url": "https://github.com/kirahowe/claimgraph"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-08-08T16:37:52Z",
-    "url": "https://github.com/codex-mohan/spectra"
   }
 ]
