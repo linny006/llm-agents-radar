@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T01:30:05Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-09T01:30:03Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -27,15 +45,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
-    "id": "agent-island/project-autonomous-agent",
-    "language": "JavaScript",
-    "name": "agent-island/project-autonomous-agent",
-    "stars": 0,
-    "updated_at": "2026-08-09T00:57:01Z",
-    "url": "https://github.com/agent-island/project-autonomous-agent"
-  },
-  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T00:44:55Z",
+    "updated_at": "2026-08-09T01:24:45Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T01:03:25Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-09T01:09:58Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
@@ -187,15 +187,6 @@
     "stars": 29,
     "updated_at": "2026-08-08T23:11:12Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T01:14:38Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -419,7 +410,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-09T01:09:35Z",
+    "updated_at": "2026-08-09T01:30:06Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -448,5 +439,14 @@
     "stars": 794,
     "updated_at": "2026-08-08T21:16:54Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
+    "id": "robinwalterfit/osaurus-acp",
+    "language": "TypeScript",
+    "name": "robinwalterfit/osaurus-acp",
+    "stars": 0,
+    "updated_at": "2026-08-08T15:02:28Z",
+    "url": "https://github.com/robinwalterfit/osaurus-acp"
   }
 ]
