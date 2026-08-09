@@ -1,5 +1,50 @@
 [
   {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:34:59Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:34:52Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:34:37Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:33:25Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:30:21Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -7,6 +52,15 @@
     "stars": 159,
     "updated_at": "2026-08-09T21:29:58Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T21:29:56Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
@@ -86,7 +140,7 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-08-09T21:29:34Z",
+    "updated_at": "2026-08-09T21:30:47Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T21:14:39Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:14:39Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -261,15 +306,6 @@
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T21:29:56Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -306,42 +342,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:36:37Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:36:20Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:35:15Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:31:45Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-09T21:14:26Z",
+    "updated_at": "2026-08-09T21:37:36Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
