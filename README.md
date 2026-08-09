@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 08:00 UTC
+> ⏰ Last updated: 2026-08-09 08:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16312 | Python | 2026-08-09 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| 3 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 532 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
-| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 5 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 6 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 658 | TypeScript | 2026-08-09 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 7 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-09 |  Where intent meets code — a local AI coding agent          |
-| 8 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-09 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
-| 9 | [helixml/helix](https://github.com/helixml/helix) | 795 | Go | 2026-08-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 10 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 11 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-09 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 12 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 13 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 14 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-09 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 15 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-09 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 18 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 5 | TypeScript | 2026-08-09 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 19 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-09 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
-| 20 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-09 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
-| 21 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 399 | Go | 2026-08-09 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 22 | [ljchang/mecha](https://github.com/ljchang/mecha) | 1 | Rust | 2026-08-09 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 23 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-09 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 24 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-09 | Give your LLM a canonical knowledge backbone. 55 tools to validate, evolve, and verify — zero hallucinations. |
+| 1 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 658 | TypeScript | 2026-08-09 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 2 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-09 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
+| 3 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-09 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
+| 4 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-09 | Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify — zero hallucinations. |
+| 5 | [RudrenduPaul/agent-eval](https://github.com/RudrenduPaul/agent-eval) | 0 | Python | 2026-08-09 | Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu |
+| 6 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16314 | Python | 2026-08-09 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-09 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-09 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 533 | Python | 2026-08-09 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 10 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-09 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-09 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-09 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 13 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-09 |  Where intent meets code — a local AI coding agent          |
+| 14 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-09 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 15 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-09 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 16 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 17 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-09 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 18 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 29 | Python | 2026-08-09 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 21 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 5 | TypeScript | 2026-08-09 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 22 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 399 | Go | 2026-08-09 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 23 | [ljchang/mecha](https://github.com/ljchang/mecha) | 1 | Rust | 2026-08-09 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 24 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-09 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 25 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-09 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
 | 26 | [acmiyaguchi/fen-web](https://github.com/acmiyaguchi/fen-web) | 0 | TypeScript | 2026-08-09 | Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99) |
 | 27 | [yuc16/PatentRadar](https://github.com/yuc16/PatentRadar) | 50 | Python | 2026-08-09 | 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（codex，claude code 等） 调用。 |

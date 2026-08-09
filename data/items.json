@@ -1,5 +1,68 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 658,
+    "updated_at": "2026-08-09T08:14:56Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:10:23Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:09:40Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:08:56Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
+    "id": "RudrenduPaul/agent-eval",
+    "language": "Python",
+    "name": "RudrenduPaul/agent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-09T08:08:17Z",
+    "url": "https://github.com/RudrenduPaul/agent-eval"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16314,
+    "updated_at": "2026-08-09T08:04:35Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T08:00:41Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -9,22 +72,22 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16312,
-    "updated_at": "2026-08-09T07:57:27Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 532,
+    "stars": 533,
     "updated_at": "2026-08-09T07:52:40Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-09T07:52:34Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -45,15 +108,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 658,
-    "updated_at": "2026-08-09T07:47:24Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -61,24 +115,6 @@
     "stars": 7,
     "updated_at": "2026-08-09T07:43:25Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:39:56Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 795,
-    "updated_at": "2026-08-09T07:52:34Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T07:12:16Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T07:09:50Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -162,24 +189,6 @@
     "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
-    "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
-    "id": "RudrenduPaul/agent-eval",
-    "language": "Python",
-    "name": "RudrenduPaul/agent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-09T07:02:46Z",
-    "url": "https://github.com/RudrenduPaul/agent-eval"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-09T06:57:09Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
     "id": "mnemon-dev/mnemon",
     "language": "Go",
@@ -207,21 +216,12 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 55 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-09T06:19:55Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-09T07:36:45Z",
+    "updated_at": "2026-08-09T08:09:47Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
