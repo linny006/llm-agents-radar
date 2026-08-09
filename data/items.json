@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ub9d0 \ud55c\ub9c8\ub514\ub85c \ub178\uc158 \ub8e8\ud2f4\uacfc \uc2dc\uac04\uc744 \uae30\ub85d\ud574 \uc8fc\ub294 LLM \uae30\ubc18 \ub514\uc2a4\ucf54\ub4dc \uc9d1\uc0ac \ubd07 '\uacf5\uc8fc\ube44\uc11c' \ud83c\udf80",
+    "id": "Subin9227/princess-secretary",
+    "language": "Python",
+    "name": "Subin9227/princess-secretary",
+    "stars": 0,
+    "updated_at": "2026-08-09T03:11:53Z",
+    "url": "https://github.com/Subin9227/princess-secretary"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 38,
-    "updated_at": "2026-08-09T03:03:06Z",
+    "updated_at": "2026-08-09T03:07:50Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T02:36:58Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ub9d0 \ud55c\ub9c8\ub514\ub85c \ub178\uc158 \ub8e8\ud2f4\uacfc \uc2dc\uac04\uc744 \uae30\ub85d\ud574 \uc8fc\ub294 LLM \uae30\ubc18 \ub514\uc2a4\ucf54\ub4dc \uc9d1\uc0ac \ubd07 '\uacf5\uc8fc\ube44\uc11c' \ud83c\udf80",
-    "id": "Subin9227/princess-secretary",
-    "language": "Python",
-    "name": "Subin9227/princess-secretary",
-    "stars": 0,
-    "updated_at": "2026-08-09T02:24:54Z",
-    "url": "https://github.com/Subin9227/princess-secretary"
   },
   {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T01:43:58Z",
+    "updated_at": "2026-08-09T03:13:09Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-09T02:26:48Z",
+    "updated_at": "2026-08-09T03:09:51Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4378,
-    "updated_at": "2026-08-09T01:46:04Z",
+    "updated_at": "2026-08-09T03:11:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
