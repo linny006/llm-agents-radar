@@ -1,12 +1,84 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 42,
+    "updated_at": "2026-08-09T09:42:07Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-08-09T09:29:07Z",
+    "updated_at": "2026-08-09T09:40:35Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:40:29Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 658,
+    "updated_at": "2026-08-09T09:39:05Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T09:38:00Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T09:38:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-09T09:36:43Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-09T09:32:45Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16317,
+    "updated_at": "2026-08-09T09:32:14Z",
+    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T09:26:45Z",
     "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T09:29:21Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -54,15 +117,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 42,
-    "updated_at": "2026-08-09T09:19:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Threshold testing is blind to agent regression. agent-eval runs your agent 50x on version A and B and gives you a p-valu",
     "id": "RudrenduPaul/agent-eval",
     "language": "Python",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T09:09:36Z",
     "url": "https://github.com/RudrenduPaul/agent-eval"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 658,
-    "updated_at": "2026-08-09T09:15:25Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:55:06Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -135,15 +171,6 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-09T08:39:50Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "ReAct Agent Loop Built from Scratch in Java",
     "id": "arjun3037/JReAct",
     "language": "Java",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T08:35:48Z",
     "url": "https://github.com/arjun3037/JReAct"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-09T08:34:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -171,15 +189,6 @@
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
-    "description": "Give your LLM a canonical knowledge backbone. 57 tools to validate, evolve, and verify \u2014 zero hallucinations.",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-09T08:08:56Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -189,20 +198,11 @@
     "url": "https://github.com/ongridio/ongrid"
   },
   {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16314,
-    "updated_at": "2026-08-09T08:04:35Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 547,
+    "stars": 550,
     "updated_at": "2026-08-09T07:52:40Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
