@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T15:14:44Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-09T15:10:28Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-09T15:07:53Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -31,7 +58,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 0,
+    "stars": 4,
     "updated_at": "2026-08-09T14:58:53Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -50,7 +77,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 663,
-    "updated_at": "2026-08-09T14:53:27Z",
+    "updated_at": "2026-08-09T15:08:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -72,15 +99,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T14:46:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\u591a\u6a21\u6001 RAG \u667a\u80fd\u4f53\uff1aMCP \u534f\u8bae + GraphRAG + Cross-Encoder \u7cbe\u6392 + \u591a Agent \u7f16\u6392 + RAGAS \u8bc4\u4f30",
     "id": "Apageoflove/mcp-rag-agent",
     "language": "Python",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T14:46:30Z",
+    "updated_at": "2026-08-09T15:09:33Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -414,6 +432,15 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3023,
+    "updated_at": "2026-08-09T13:36:09Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Give your LLM a canonical knowledge backbone. 60 tools to validate, evolve, and verify \u2014 zero hallucinations.",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T13:36:09Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-09T13:35:47Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3022,
-    "updated_at": "2026-08-09T13:36:09Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-09T13:33:16Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   }
 ]
