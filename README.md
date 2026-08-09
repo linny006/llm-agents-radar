@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-09 02:15 UTC
+> ⏰ Last updated: 2026-08-09 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-09 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 1 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 34 | Python | 2026-08-09 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
 | 2 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-09 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 5 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-09 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 34 | Python | 2026-08-09 | The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. ♾️ |
+| 3 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-09 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 155 | HTML | 2026-08-09 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-09 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-09 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 7 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-09 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 8 | [erickuhn19/deliverator](https://github.com/erickuhn19/deliverator) | 4 | Go | 2026-08-09 | Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet |
 | 9 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-09 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 10 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5686 | Python | 2026-08-09 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
