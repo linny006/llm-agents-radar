@@ -1,11 +1,56 @@
 [
   {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-09T22:59:54Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:56:58Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-09T22:55:07Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-08-09T22:52:24Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-09T22:49:41Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T22:47:00Z",
+    "updated_at": "2026-08-09T22:58:38Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -306,15 +351,6 @@
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
   },
   {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-09T22:02:25Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -324,24 +360,6 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-09T21:57:08Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-09T21:54:47Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
     "description": "Ask your video library anything \u2014 an AI agent that watches, reasons in a tool-use loop, and answers with playable clips ",
     "id": "kenny0312/videosense-agent",
     "language": "Python",
@@ -349,15 +367,6 @@
     "stars": 33,
     "updated_at": "2026-08-09T21:54:31Z",
     "url": "https://github.com/kenny0312/videosense-agent"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-09T21:52:16Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "LangGraph agent that plans, writes, validates and runs SQL from plain-language questions. Postgres, Groq, FastAPI, Strea",
@@ -383,7 +392,7 @@
     "language": "Go",
     "name": "eshanized/M31A",
     "stars": 8,
-    "updated_at": "2026-08-09T22:27:03Z",
+    "updated_at": "2026-08-09T22:53:14Z",
     "url": "https://github.com/eshanized/M31A"
   },
   {
@@ -430,15 +439,6 @@
     "stars": 8,
     "updated_at": "2026-08-09T19:49:16Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-09T22:46:41Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
