@@ -1,5 +1,14 @@
 [
   {
+    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
+    "id": "secondorderai/ouroboros",
+    "language": "TypeScript",
+    "name": "secondorderai/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-09T04:45:04Z",
+    "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T04:25:13Z",
+    "updated_at": "2026-08-09T04:43:38Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T04:10:34Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-09T04:10:04Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-09T03:24:43Z",
+    "updated_at": "2026-08-09T04:45:15Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T04:33:29Z",
+    "updated_at": "2026-08-09T04:38:55Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
