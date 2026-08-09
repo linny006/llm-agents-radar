@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
+    "id": "agent-island/project-autonomous-agent",
+    "language": "JavaScript",
+    "name": "agent-island/project-autonomous-agent",
+    "stars": 0,
+    "updated_at": "2026-08-09T00:57:01Z",
+    "url": "https://github.com/agent-island/project-autonomous-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 33,
+    "updated_at": "2026-08-09T00:48:52Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
+    "id": "avasec/TreeLens",
+    "language": "Python",
+    "name": "avasec/TreeLens",
+    "stars": 1,
+    "updated_at": "2026-08-09T00:48:38Z",
+    "url": "https://github.com/avasec/TreeLens"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 33,
-    "updated_at": "2026-08-09T00:38:04Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-09T00:36:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
-    "id": "avasec/TreeLens",
-    "language": "Python",
-    "name": "avasec/TreeLens",
-    "stars": 1,
-    "updated_at": "2026-08-09T00:36:06Z",
-    "url": "https://github.com/avasec/TreeLens"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T00:41:40Z",
+    "updated_at": "2026-08-09T00:57:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 5686,
     "updated_at": "2026-08-08T17:52:31Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Open-source autonomous AI agent framework for persistent memory, self-directed actions, model continuity, and artificial",
-    "id": "agent-island/project-autonomous-agent",
-    "language": "JavaScript",
-    "name": "agent-island/project-autonomous-agent",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:13:48Z",
-    "url": "https://github.com/agent-island/project-autonomous-agent"
   },
   {
     "description": "Give your LLM a canonical knowledge backbone. 53 tools to validate, evolve, and verify \u2014 zero hallucinations.",
