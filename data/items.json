@@ -1,21 +1,66 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-09T01:30:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-09T01:30:03Z",
+    "updated_at": "2026-08-09T01:43:58Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-09T01:41:12Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-08-09T01:38:12Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-09T01:37:38Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-09T01:35:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 34,
+    "updated_at": "2026-08-09T01:30:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-09T01:37:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -45,15 +90,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 34,
-    "updated_at": "2026-08-09T00:48:52Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Server-side, diff-synced mirror of a host's live hierarchy \u2014 a host-agnostic pattern for building MCP servers over apps ",
     "id": "avasec/TreeLens",
     "language": "Python",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-09T01:24:45Z",
+    "updated_at": "2026-08-09T01:33:45Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -77,7 +113,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-09T01:12:52Z",
+    "updated_at": "2026-08-09T01:33:27Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 656,
     "updated_at": "2026-08-09T00:39:23Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-09T00:37:58Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T00:33:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-09T01:03:25Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Bounded agentic paper retrieval with metadata-first candidate sandboxes, full-text GrepRank, and plan-aware context cont",
@@ -160,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-08T23:34:08Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-08T23:26:17Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4378,
-    "updated_at": "2026-08-08T23:15:35Z",
+    "updated_at": "2026-08-09T01:40:08Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-09T01:30:06Z",
+    "updated_at": "2026-08-09T01:36:58Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 794,
     "updated_at": "2026-08-08T21:16:54Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
-    "id": "robinwalterfit/osaurus-acp",
-    "language": "TypeScript",
-    "name": "robinwalterfit/osaurus-acp",
-    "stars": 0,
-    "updated_at": "2026-08-08T15:02:28Z",
-    "url": "https://github.com/robinwalterfit/osaurus-acp"
   }
 ]
