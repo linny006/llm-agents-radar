@@ -1,5 +1,59 @@
 [
   {
+    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
+    "id": "WiseriaAI/pie-ai-agent",
+    "language": "TypeScript",
+    "name": "WiseriaAI/pie-ai-agent",
+    "stars": 181,
+    "updated_at": "2026-08-09T10:55:10Z",
+    "url": "https://github.com/WiseriaAI/pie-ai-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-09T10:55:04Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u84ec\u83b1 Penglai \u2014 TypeScript Host + Pi \u6838\u5fc3\u7684\u672c\u5730 AI \u5de5\u4f5c\u53f0 \u00b7 Desktop / CLI / Feishu / WeChat",
+    "id": "kevinchennewbee/PenglaiAgent",
+    "language": "Python",
+    "name": "kevinchennewbee/PenglaiAgent",
+    "stars": 10,
+    "updated_at": "2026-08-09T10:59:31Z",
+    "url": "https://github.com/kevinchennewbee/PenglaiAgent"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-08-09T10:51:46Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-09T10:51:15Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-09T10:46:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "The Open Source Agent Harness Framework. Any LLM. Any platform. Agentic Programming Paradigm. \u267e\ufe0f",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 660,
     "updated_at": "2026-08-09T10:37:14Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Browser-automation agent for Chrome \u2014 natural-language tasks executed through native tool calling, scoped Skills, CDP ke",
-    "id": "WiseriaAI/pie-ai-agent",
-    "language": "TypeScript",
-    "name": "WiseriaAI/pie-ai-agent",
-    "stars": 181,
-    "updated_at": "2026-08-09T10:36:43Z",
-    "url": "https://github.com/WiseriaAI/pie-ai-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -99,15 +144,6 @@
     "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-09T10:25:33Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -124,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-08-09T10:17:45Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-09T10:14:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
@@ -160,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-09T10:02:38Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:02:34Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -328,7 +346,7 @@
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 555,
+    "stars": 557,
     "updated_at": "2026-08-09T07:52:40Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T05:39:43Z",
     "url": "https://github.com/sototheng12138/deepplanning-constraint-agent"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-09T10:21:29Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
-    "id": "secondorderai/ouroboros",
-    "language": "TypeScript",
-    "name": "secondorderai/ouroboros",
-    "stars": 2,
-    "updated_at": "2026-08-09T04:45:04Z",
-    "url": "https://github.com/secondorderai/ouroboros"
   }
 ]
