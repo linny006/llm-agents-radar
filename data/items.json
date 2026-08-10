@@ -1,5 +1,14 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-10T19:12:33Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-10T19:01:15Z",
+    "updated_at": "2026-08-10T19:14:37Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 159,
     "updated_at": "2026-08-10T18:54:24Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-10T19:12:33Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-10T19:03:03Z",
+    "updated_at": "2026-08-10T19:15:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
