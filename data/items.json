@@ -1,29 +1,11 @@
 [
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 682,
-    "updated_at": "2026-08-10T15:23:34Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-10T15:22:16Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 58,
-    "updated_at": "2026-08-10T15:19:43Z",
+    "updated_at": "2026-08-10T15:45:05Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -32,8 +14,62 @@
     "language": "Python",
     "name": "diet-required/Linkdroid",
     "stars": 0,
-    "updated_at": "2026-08-10T15:17:23Z",
+    "updated_at": "2026-08-10T15:43:07Z",
     "url": "https://github.com/diet-required/Linkdroid"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:42:35Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
+    "id": "sameerhimati/bean-app",
+    "language": "Python",
+    "name": "sameerhimati/bean-app",
+    "stars": 0,
+    "updated_at": "2026-08-10T15:42:18Z",
+    "url": "https://github.com/sameerhimati/bean-app"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 682,
+    "updated_at": "2026-08-10T15:40:19Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-10T15:39:30Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Your agent said done. It wasn't. Ten failure modes, a claim taxonomy, and the protocol to catch false completions before",
+    "id": "Nagacash/prove-it",
+    "language": "\u2014",
+    "name": "Nagacash/prove-it",
+    "stars": 0,
+    "updated_at": "2026-08-10T15:35:54Z",
+    "url": "https://github.com/Nagacash/prove-it"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-10T15:31:01Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -43,6 +79,15 @@
     "stars": 6865,
     "updated_at": "2026-08-10T15:22:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4380,
+    "updated_at": "2026-08-10T15:13:02Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -153,15 +198,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4379,
-    "updated_at": "2026-08-10T15:13:02Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -169,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-10T14:40:19Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:38:48Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
@@ -387,15 +414,6 @@
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 1,
-    "updated_at": "2026-08-10T15:15:50Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
     "id": "shiro1707778/episodic-memory-pipeline",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-10T13:58:52Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28771,
-    "updated_at": "2026-08-10T13:57:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 630,
-    "updated_at": "2026-08-10T13:38:34Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
