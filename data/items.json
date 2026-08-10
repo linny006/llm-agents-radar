@@ -1,5 +1,50 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 62,
+    "updated_at": "2026-08-10T18:42:53Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-10T18:35:26Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
+    "id": "greentechgear/tirekicker",
+    "language": "Python",
+    "name": "greentechgear/tirekicker",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:33:14Z",
+    "url": "https://github.com/greentechgear/tirekicker"
+  },
+  {
+    "description": "A lightweight Windows desktop AI assistant powered by local Ollama models, designed for coding, learning, research, and ",
+    "id": "PrashantPKP/ai-desktop-assistant",
+    "language": "Python",
+    "name": "PrashantPKP/ai-desktop-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:30:21Z",
+    "url": "https://github.com/PrashantPKP/ai-desktop-assistant"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:28:15Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -7,15 +52,6 @@
     "stars": 796,
     "updated_at": "2026-08-10T18:26:21Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 61,
-    "updated_at": "2026-08-10T18:20:58Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -27,21 +63,12 @@
     "url": "https://github.com/watchcat/scout"
   },
   {
-    "description": "A lightweight Windows desktop AI assistant powered by local Ollama models, designed for coding, learning, research, and ",
-    "id": "PrashantPKP/ai-desktop-assistant",
-    "language": "Python",
-    "name": "PrashantPKP/ai-desktop-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:19:18Z",
-    "url": "https://github.com/PrashantPKP/ai-desktop-assistant"
-  },
-  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-10T18:17:01Z",
+    "updated_at": "2026-08-10T18:32:28Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T18:14:53Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
-    "id": "greentechgear/tirekicker",
-    "language": "Python",
-    "name": "greentechgear/tirekicker",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:09:57Z",
-    "url": "https://github.com/greentechgear/tirekicker"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -151,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T17:34:18Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-10T18:28:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3029,
-    "updated_at": "2026-08-10T18:22:01Z",
+    "updated_at": "2026-08-10T18:40:02Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:37:19Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:36:02Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
