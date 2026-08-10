@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-10T17:57:06Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6867,
+    "updated_at": "2026-08-10T17:54:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 60,
+    "updated_at": "2026-08-10T17:53:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Your agent said done. It wasn't. Ten failure modes, a claim taxonomy, and the protocol to catch false completions before",
+    "id": "Nagacash/prove-it",
+    "language": "\u2014",
+    "name": "Nagacash/prove-it",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:53:23Z",
+    "url": "https://github.com/Nagacash/prove-it"
+  },
+  {
+    "description": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence.",
+    "id": "Guayamose/Oryon-Pentest",
+    "language": "Python",
+    "name": "Guayamose/Oryon-Pentest",
+    "stars": 1,
+    "updated_at": "2026-08-10T17:51:37Z",
+    "url": "https://github.com/Guayamose/Oryon-Pentest"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:45:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -27,15 +81,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence.",
-    "id": "Guayamose/Oryon-Pentest",
-    "language": "Python",
-    "name": "Guayamose/Oryon-Pentest",
-    "stars": 1,
-    "updated_at": "2026-08-10T17:37:58Z",
-    "url": "https://github.com/Guayamose/Oryon-Pentest"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -54,15 +99,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6866,
-    "updated_at": "2026-08-10T17:33:08Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -79,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T17:38:13Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 59,
-    "updated_at": "2026-08-10T17:21:29Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -153,15 +180,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-10T16:58:54Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -169,15 +187,6 @@
     "stars": 796,
     "updated_at": "2026-08-10T17:11:28Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:47:29Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-10T16:16:59Z",
+    "updated_at": "2026-08-10T17:46:03Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T15:53:22Z",
     "url": "https://github.com/diet-required/Linkdroid"
-  },
-  {
-    "description": "Your agent said done. It wasn't. Ten failure modes, a claim taxonomy, and the protocol to catch false completions before",
-    "id": "Nagacash/prove-it",
-    "language": "\u2014",
-    "name": "Nagacash/prove-it",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:35:54Z",
-    "url": "https://github.com/Nagacash/prove-it"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
