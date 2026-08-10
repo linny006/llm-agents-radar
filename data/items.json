@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 66,
-    "updated_at": "2026-08-10T20:57:14Z",
+    "updated_at": "2026-08-10T21:13:49Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
+    "id": "Alessandro114/landiq",
+    "language": "Python",
+    "name": "Alessandro114/landiq",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:12:45Z",
+    "url": "https://github.com/Alessandro114/landiq"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-10T21:12:42Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
+    "id": "Wenri/TaskSolver",
+    "language": "Python",
+    "name": "Wenri/TaskSolver",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:12:10Z",
+    "url": "https://github.com/Wenri/TaskSolver"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-10T21:01:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 1,
-    "updated_at": "2026-08-10T20:59:49Z",
+    "updated_at": "2026-08-10T21:12:01Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T20:54:35Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:54:07Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Voice Agent implementations for the VAmoS Benchmark",
@@ -148,7 +175,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6868,
+    "stars": 6869,
     "updated_at": "2026-08-10T20:19:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -160,24 +187,6 @@
     "stars": 4381,
     "updated_at": "2026-08-10T20:55:11Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:12:53Z",
-    "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-10T20:11:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-10T16:20:18Z",
+    "updated_at": "2026-08-10T21:14:13Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-10T16:11:22Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "Self-improving SC2 Protoss bot: rule-based + PPO + Claude advisor, with autonomous code-level self-improvement loop.",
-    "id": "aberson/Alpha4Gate",
-    "language": "Python",
-    "name": "aberson/Alpha4Gate",
-    "stars": 4,
-    "updated_at": "2026-08-10T16:40:27Z",
-    "url": "https://github.com/aberson/Alpha4Gate"
   }
 ]
