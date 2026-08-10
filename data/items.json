@@ -1,5 +1,68 @@
 [
   {
+    "description": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence.",
+    "id": "Guayamose/Oryon-Pentest",
+    "language": "Python",
+    "name": "Guayamose/Oryon-Pentest",
+    "stars": 1,
+    "updated_at": "2026-08-10T18:14:53Z",
+    "url": "https://github.com/Guayamose/Oryon-Pentest"
+  },
+  {
+    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
+    "id": "greentechgear/tirekicker",
+    "language": "Python",
+    "name": "greentechgear/tirekicker",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:09:57Z",
+    "url": "https://github.com/greentechgear/tirekicker"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6867,
+    "updated_at": "2026-08-10T18:07:35Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 60,
+    "updated_at": "2026-08-10T18:15:03Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A policy-controlled bridge for AI agents to observe and operate Linux desktops.",
+    "id": "ZaguanLabs/agent-seat-proto",
+    "language": "Rust",
+    "name": "ZaguanLabs/agent-seat-proto",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:03:52Z",
+    "url": "https://github.com/ZaguanLabs/agent-seat-proto"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-10T18:02:39Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-10T18:00:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -9,24 +72,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6867,
-    "updated_at": "2026-08-10T17:54:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 60,
-    "updated_at": "2026-08-10T17:53:25Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Your agent said done. It wasn't. Ten failure modes, a claim taxonomy, and the protocol to catch false completions before",
     "id": "Nagacash/prove-it",
     "language": "\u2014",
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T17:53:23Z",
     "url": "https://github.com/Nagacash/prove-it"
-  },
-  {
-    "description": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence.",
-    "id": "Guayamose/Oryon-Pentest",
-    "language": "Python",
-    "name": "Guayamose/Oryon-Pentest",
-    "stars": 1,
-    "updated_at": "2026-08-10T17:51:37Z",
-    "url": "https://github.com/Guayamose/Oryon-Pentest"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -63,21 +99,12 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
-    "id": "greentechgear/tirekicker",
-    "language": "Python",
-    "name": "greentechgear/tirekicker",
-    "stars": 0,
-    "updated_at": "2026-08-10T17:41:12Z",
-    "url": "https://github.com/greentechgear/tirekicker"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-10T17:40:01Z",
+    "updated_at": "2026-08-10T18:14:53Z",
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/Xyntopia/taskyon"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-10T18:00:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4380,
-    "updated_at": "2026-08-10T16:49:41Z",
+    "updated_at": "2026-08-10T18:14:45Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -346,7 +364,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3028,
+    "stars": 3029,
     "updated_at": "2026-08-10T15:24:05Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:35:17Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:32:34Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:31:01Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
