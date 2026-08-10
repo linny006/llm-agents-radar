@@ -1,5 +1,32 @@
 [
   {
+    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
+    "id": "greentechgear/tirekicker",
+    "language": "Python",
+    "name": "greentechgear/tirekicker",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:15:10Z",
+    "url": "https://github.com/greentechgear/tirekicker"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 54,
+    "updated_at": "2026-08-10T17:09:18Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-10T17:08:42Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-10T17:01:48Z",
+    "updated_at": "2026-08-10T17:11:28Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 4380,
     "updated_at": "2026-08-10T16:49:41Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-10T16:45:04Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 59,
-    "updated_at": "2026-08-10T16:18:10Z",
+    "updated_at": "2026-08-10T17:15:12Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 30,
     "updated_at": "2026-08-10T15:58:24Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A persona-driven autonomous evaluator for web apps: give it a skeptical user, a target URL, and a real browser, and it f",
-    "id": "greentechgear/tirekicker",
-    "language": "Python",
-    "name": "greentechgear/tirekicker",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:56:14Z",
-    "url": "https://github.com/greentechgear/tirekicker"
   },
   {
     "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T14:23:00Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-08-10T14:22:46Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
