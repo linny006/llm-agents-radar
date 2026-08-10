@@ -1,12 +1,57 @@
 [
   {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-10T16:38:34Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:38:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4380,
+    "updated_at": "2026-08-10T16:39:34Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-10T16:23:16Z",
+    "updated_at": "2026-08-10T16:45:04Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 682,
+    "updated_at": "2026-08-10T16:33:35Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a",
+    "id": "DominikSienkiewicz/StockAgent",
+    "language": "Python",
+    "name": "DominikSienkiewicz/StockAgent",
+    "stars": 0,
+    "updated_at": "2026-08-10T16:33:02Z",
+    "url": "https://github.com/DominikSienkiewicz/StockAgent"
   },
   {
     "description": "Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview.",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "aberson/Alpha4Gate",
     "stars": 4,
-    "updated_at": "2026-08-10T16:16:59Z",
+    "updated_at": "2026-08-10T16:40:27Z",
     "url": "https://github.com/aberson/Alpha4Gate"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6865,
-    "updated_at": "2026-08-10T16:04:40Z",
+    "updated_at": "2026-08-10T16:42:06Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -157,7 +202,7 @@
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
-    "stars": 29,
+    "stars": 30,
     "updated_at": "2026-08-10T15:58:24Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T15:56:14Z",
     "url": "https://github.com/greentechgear/tirekicker"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-10T15:55:03Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
@@ -216,24 +252,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:49:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 682,
-    "updated_at": "2026-08-10T16:18:24Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
     "description": "Your agent said done. It wasn't. Ten failure modes, a claim taxonomy, and the protocol to catch false completions before",
     "id": "Nagacash/prove-it",
     "language": "\u2014",
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T15:35:54Z",
     "url": "https://github.com/Nagacash/prove-it"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4380,
-    "updated_at": "2026-08-10T16:21:16Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-10T14:22:46Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-08-10T14:22:40Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
   }
 ]
