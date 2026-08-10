@@ -1,12 +1,30 @@
 [
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 1,
+    "updated_at": "2026-08-10T20:26:25Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-10T20:19:49Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
     "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-10T20:13:24Z",
-    "url": "https://github.com/SashaEee/auditLens"
+    "name": "gptme/gptme",
+    "stars": 4381,
+    "updated_at": "2026-08-10T20:22:18Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-10T20:14:06Z",
+    "updated_at": "2026-08-10T20:29:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-10T20:13:24Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-10T20:11:40Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 1,
-    "updated_at": "2026-08-10T20:14:39Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-10T19:56:08Z",
+    "updated_at": "2026-08-10T20:28:04Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6867,
-    "updated_at": "2026-08-10T19:32:43Z",
+    "updated_at": "2026-08-10T20:19:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-10T19:12:33Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4381,
-    "updated_at": "2026-08-10T19:37:40Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -214,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T18:19:51Z",
     "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 401,
+    "updated_at": "2026-08-10T18:15:48Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Autonomous pentesting runtime with explicit tool contracts and auditable evidence.",
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-10T16:01:36Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-10T15:58:24Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
-    "id": "sameerhimati/bean-app",
-    "language": "Python",
-    "name": "sameerhimati/bean-app",
-    "stars": 0,
-    "updated_at": "2026-08-10T15:54:53Z",
-    "url": "https://github.com/sameerhimati/bean-app"
   }
 ]
