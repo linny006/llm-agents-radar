@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-08-10T05:02:32Z",
+    "updated_at": "2026-08-10T05:15:06Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-10T05:13:18Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-10T04:58:04Z",
+    "updated_at": "2026-08-10T05:09:42Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-10T05:02:10Z",
+    "updated_at": "2026-08-10T05:10:41Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -238,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28752,
+    "stars": 28753,
     "updated_at": "2026-08-10T03:55:41Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-10T03:28:26Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-10T03:25:52Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
   }
 ]
