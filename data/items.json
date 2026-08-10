@@ -1,5 +1,77 @@
 [
   {
+    "description": "Give your LLM a canonical knowledge backbone. 60 tools to validate, evolve, and verify \u2014 zero hallucinations.",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:29:39Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:28:45Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-08-10T06:26:21Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:24:47Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "\u4e13\u4e3a\u300a\u539f\u795e\u300b\u6253\u9020\u2014\u2014\u5229\u7528\u89c6\u89c9 AI \u4ee3\u7406\u8fdb\u884c\u4e91\u6e38\u620f\uff0c\u8ba9\u60a8\u65e0\u9700\u4eb2\u81ea\u64cd\u4f5c",
+    "id": "caterpi11ar/giclaw",
+    "language": "TypeScript",
+    "name": "caterpi11ar/giclaw",
+    "stars": 5,
+    "updated_at": "2026-08-10T06:23:50Z",
+    "url": "https://github.com/caterpi11ar/giclaw"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 28,
+    "updated_at": "2026-08-10T06:23:10Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 0,
+    "updated_at": "2026-08-10T06:22:20Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-10T06:21:14Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "JavaScript",
@@ -106,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T06:01:41Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 28,
-    "updated_at": "2026-08-10T06:01:36Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -297,15 +360,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:30:47Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -315,24 +369,6 @@
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-08-10T05:28:23Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
-    "id": "amineeng/scraping-browser",
-    "language": "\u2014",
-    "name": "amineeng/scraping-browser",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:27:02Z",
-    "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -340,24 +376,6 @@
     "stars": 159,
     "updated_at": "2026-08-10T05:24:34Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 0,
-    "updated_at": "2026-08-10T05:24:34Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:23:28Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-10T04:44:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
-    "id": "Shadowell/Alpha",
-    "language": "Python",
-    "name": "Shadowell/Alpha",
-    "stars": 18,
-    "updated_at": "2026-08-10T04:08:59Z",
-    "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-10T05:19:57Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
