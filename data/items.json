@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-08-10T03:28:26Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-10T03:25:52Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
     "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
     "id": "Juveria22/bunni-backend",
     "language": "Python",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 21,
-    "updated_at": "2026-08-10T03:16:39Z",
+    "updated_at": "2026-08-10T03:26:41Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -306,29 +324,11 @@
     "url": "https://github.com/Amri854/obsidian-mcp-server"
   },
   {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-10T02:31:51Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-10T02:29:18Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
     "id": "Pan-Chera/Multi-Agent-CAD",
     "language": "Python",
     "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 631,
+    "stars": 632,
     "updated_at": "2026-08-10T02:20:42Z",
     "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   },
@@ -392,7 +392,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-10T02:05:22Z",
+    "updated_at": "2026-08-10T03:28:42Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-10T03:19:23Z",
+    "updated_at": "2026-08-10T03:29:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
