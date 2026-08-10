@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-10T04:30:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 0,
+    "updated_at": "2026-08-10T04:17:30Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
     "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
     "id": "Shadowell/Alpha",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-10T04:13:45Z",
+    "updated_at": "2026-08-10T04:29:21Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-10T03:38:42Z",
+    "updated_at": "2026-08-10T04:26:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -304,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T03:36:06Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 0,
-    "updated_at": "2026-08-10T03:35:15Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
@@ -349,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T03:25:52Z",
     "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-10T04:13:09Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
