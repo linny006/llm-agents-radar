@@ -1,5 +1,14 @@
 [
   {
+    "description": "Agent Interface Discovery ",
+    "id": "agentcommunity/agent-identity-discovery",
+    "language": "TypeScript",
+    "name": "agentcommunity/agent-identity-discovery",
+    "stars": 45,
+    "updated_at": "2026-08-10T22:01:39Z",
+    "url": "https://github.com/agentcommunity/agent-identity-discovery"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -176,7 +185,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-10T21:54:49Z",
+    "updated_at": "2026-08-10T22:14:25Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -400,7 +409,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 684,
+    "stars": 685,
     "updated_at": "2026-08-10T16:33:35Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T16:15:37Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 8,
-    "updated_at": "2026-08-10T16:11:22Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
