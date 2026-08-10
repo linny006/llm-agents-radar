@@ -1,5 +1,23 @@
 [
   {
+    "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
+    "id": "Juveria22/bunni-backend",
+    "language": "Python",
+    "name": "Juveria22/bunni-backend",
+    "stars": 0,
+    "updated_at": "2026-08-10T03:18:22Z",
+    "url": "https://github.com/Juveria22/bunni-backend"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 21,
+    "updated_at": "2026-08-10T03:16:39Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -54,13 +72,13 @@
     "url": "https://github.com/Blondieredistributed612/pocket-agent"
   },
   {
-    "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
-    "id": "Juveria22/bunni-backend",
-    "language": "Python",
-    "name": "Juveria22/bunni-backend",
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
     "stars": 0,
-    "updated_at": "2026-08-10T03:04:57Z",
-    "url": "https://github.com/Juveria22/bunni-backend"
+    "updated_at": "2026-08-10T03:04:32Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-10T03:00:21Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 21,
-    "updated_at": "2026-08-10T03:07:14Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -410,7 +419,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-10T03:07:16Z",
+    "updated_at": "2026-08-10T03:19:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 159,
     "updated_at": "2026-08-10T01:39:10Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-10T01:30:51Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
   }
 ]
