@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5cAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
+    "id": "Athas-Ed/Logos",
+    "language": "Python",
+    "name": "Athas-Ed/Logos",
+    "stars": 1,
+    "updated_at": "2026-08-11T09:41:28Z",
+    "url": "https://github.com/Athas-Ed/Logos"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T09:37:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 6,
+    "updated_at": "2026-08-11T09:36:00Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T09:35:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T09:34:41Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-11T09:33:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
+    "id": "acmiyaguchi/fen-web",
+    "language": "TypeScript",
+    "name": "acmiyaguchi/fen-web",
+    "stars": 0,
+    "updated_at": "2026-08-11T09:31:51Z",
+    "url": "https://github.com/acmiyaguchi/fen-web"
+  },
+  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -25,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T09:20:48Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T09:25:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -99,15 +153,6 @@
     "url": "https://github.com/mrdron1314-afk/jupyter-llm-assistant"
   },
   {
-    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
-    "id": "acmiyaguchi/fen-web",
-    "language": "TypeScript",
-    "name": "acmiyaguchi/fen-web",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:23:41Z",
-    "url": "https://github.com/acmiyaguchi/fen-web"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -157,7 +202,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 338,
+    "stars": 341,
     "updated_at": "2026-08-11T08:43:42Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -178,24 +223,6 @@
     "stars": 4,
     "updated_at": "2026-08-11T08:37:41Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:35:39Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T08:32:54Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
@@ -238,7 +265,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6876,
+    "stars": 6877,
     "updated_at": "2026-08-11T07:59:55Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5653,
-    "updated_at": "2026-08-11T08:29:20Z",
+    "updated_at": "2026-08-11T09:31:02Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T05:52:54Z",
     "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "AI day-trading agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:13:45Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 6,
-    "updated_at": "2026-08-11T05:52:31Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-08-11T05:52:16Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
