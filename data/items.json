@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T07:59:07Z",
+    "updated_at": "2026-08-11T08:14:00Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 1,
+    "updated_at": "2026-08-11T08:13:18Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:07:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview.",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 50,
+    "updated_at": "2026-08-11T08:07:12Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:04:06Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 75,
+    "updated_at": "2026-08-11T08:00:32Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
@@ -36,24 +81,6 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:54:21Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 75,
-    "updated_at": "2026-08-11T07:50:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "AI agent that turns Slack messages into Jira tickets, with human-in-the-loop review on low-confidence cases, duplicate d",
     "id": "pavani-aiml-space/jira-slack-triage-agent",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T07:41:38Z",
     "url": "https://github.com/pavani-aiml-space/jira-slack-triage-agent"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:38:40Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -130,7 +148,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5652,
+    "stars": 5653,
     "updated_at": "2026-08-11T07:21:27Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -180,15 +198,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:56:08Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
     "id": "forger-labs-hq/researchforge",
     "language": "Python",
@@ -211,18 +220,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28810,
+    "stars": 28811,
     "updated_at": "2026-08-11T06:29:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview.",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 50,
-    "updated_at": "2026-08-11T06:28:18Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
