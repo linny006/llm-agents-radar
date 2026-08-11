@@ -1,5 +1,32 @@
 [
   {
+    "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
+    "id": "Yuan-ManX/SparkLabs",
+    "language": "Python",
+    "name": "Yuan-ManX/SparkLabs",
+    "stars": 12,
+    "updated_at": "2026-08-11T04:00:20Z",
+    "url": "https://github.com/Yuan-ManX/SparkLabs"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 632,
+    "updated_at": "2026-08-11T03:59:50Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13732,
+    "updated_at": "2026-08-11T03:50:13Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-11T03:41:20Z",
+    "updated_at": "2026-08-11T03:45:47Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T03:31:41Z",
+    "updated_at": "2026-08-11T03:53:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "AlanFokCo/agentscope-go",
     "stars": 28,
-    "updated_at": "2026-08-11T03:15:27Z",
+    "updated_at": "2026-08-11T03:51:37Z",
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
@@ -225,15 +252,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 632,
-    "updated_at": "2026-08-11T02:08:04Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
     "id": "maisieyang/build-my-own-harness",
     "language": "Python",
@@ -277,15 +295,6 @@
     "stars": 2602,
     "updated_at": "2026-08-11T01:24:38Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13731,
-    "updated_at": "2026-08-11T00:31:05Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-10T22:53:23Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:53:05Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
