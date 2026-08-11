@@ -1,5 +1,77 @@
 [
   {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-08-11T20:22:47Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-08-11T20:22:24Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-08-11T20:22:22Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-11T20:21:18Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-08-11T20:20:26Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T20:20:00Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-11T20:16:55Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "Reads a failing GitHub Actions run, works out what broke and where, and proposes a patch. A patch only counts if rerunni",
+    "id": "rajeev-chaurasia/build-sleuth",
+    "language": "Python",
+    "name": "rajeev-chaurasia/build-sleuth",
+    "stars": 0,
+    "updated_at": "2026-08-11T20:15:36Z",
+    "url": "https://github.com/rajeev-chaurasia/build-sleuth"
+  },
+  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T20:11:08Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-11T20:10:39Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
@@ -126,21 +189,12 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-11T19:54:03Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-11T19:41:20Z",
+    "updated_at": "2026-08-11T20:24:17Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T19:39:36Z",
     "url": "https://github.com/jman4162/agentic-phased-array-builder"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T19:34:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Cloud billing variance analysis platform \u2014 trace every dollar of cloud cost change to a specific engineering decision",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:15:42Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Demon Cry - AI-powered OSINT engine",
-    "id": "Mooncore-inc/demon-cry",
-    "language": "Python",
-    "name": "Mooncore-inc/demon-cry",
-    "stars": 0,
-    "updated_at": "2026-08-11T16:15:12Z",
-    "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 4,
-    "updated_at": "2026-08-11T16:07:30Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-11T16:00:40Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
-    "id": "Kishore-dev-21/DataMind_AI",
-    "language": "TypeScript",
-    "name": "Kishore-dev-21/DataMind_AI",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:43:12Z",
-    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-11T15:18:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
