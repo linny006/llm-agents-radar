@@ -1,11 +1,20 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T17:38:27Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-11T17:38:06Z",
+    "updated_at": "2026-08-11T17:40:49Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "hgsanyang/SoulTuner-Agent",
     "stars": 17,
-    "updated_at": "2026-08-11T17:04:40Z",
+    "updated_at": "2026-08-11T17:43:46Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
@@ -162,15 +171,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T16:37:41Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-11T16:16:48Z",
+    "updated_at": "2026-08-11T17:39:53Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
