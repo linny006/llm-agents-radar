@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 10:00 UTC
+> ⏰ Last updated: 2026-08-11 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,11 +43,11 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-11 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-11 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 3 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 4 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 45 | C++ | 2026-08-11 | A framework for building intelligent agents |
-| 5 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-11 | 基于LLM的量化因子开发Agent |
-| 6 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-11 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
+| 2 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-11 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
+| 3 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 45 | C++ | 2026-08-11 | A framework for building intelligent agents |
+| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-11 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 5 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-11 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 6 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-11 | 基于LLM的量化因子开发Agent |
 | 7 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 1 | TypeScript | 2026-08-11 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
 | 8 | [Athas-Ed/Logos](https://github.com/Athas-Ed/Logos) | 1 | Python | 2026-08-11 | 面向游戏叙事创作者的本地智能写作Agent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+. |
 | 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
@@ -67,12 +67,12 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-11 |  Where intent meets code — a local AI coding agent          |
 | 24 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 75 | Python | 2026-08-11 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
 | 25 | [ellmos-ai/worksheet-generator](https://github.com/ellmos-ai/worksheet-generator) | 1 | Python | 2026-08-11 | Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware) |
-| 26 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 348 | TypeScript | 2026-08-11 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
+| 26 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 352 | TypeScript | 2026-08-11 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
 | 27 | [MikhailXiaomaikou/Standard-Astro](https://github.com/MikhailXiaomaikou/Standard-Astro) | 4 | Python | 2026-08-11 | AI research workbench for observational cosmology that provably refuses to fabricate — every number traces to a register |
 | 28 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-11 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
 | 29 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 633 | Go | 2026-08-11 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 30 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-11 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 31 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6877 | Python | 2026-08-11 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 31 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6878 | Python | 2026-08-11 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 32 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 690 | TypeScript | 2026-08-11 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 33 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 413 | Go | 2026-08-11 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
 | 34 | [pavani-aiml-space/jira-slack-triage-agent](https://github.com/pavani-aiml-space/jira-slack-triage-agent) | 0 | Python | 2026-08-11 | AI agent that turns Slack messages into Jira tickets, with human-in-the-loop review on low-confidence cases, duplicate d |
@@ -83,7 +83,7 @@ expired items removed — so you can rely on what you see being current.
 | 39 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-11 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 40 | [BZHDZNJJ/zh-time-parser](https://github.com/BZHDZNJJ/zh-time-parser) | 0 | Python | 2026-08-11 | 中文自然语言时间语义解析器 — 零依赖 Python 库，将「上个月」「明天下午3点」「同比」「截至月底」等中文表达解析为结构化时间语义，可用于 Agent、BI、NL2SQL、搜索与工作流。A Chinese temporal seman |
 | 41 | [forger-labs-hq/researchforge](https://github.com/forger-labs-hq/researchforge) | 4 | Python | 2026-08-11 | Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos — |
-| 42 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28816 | Python | 2026-08-11 | Build and run agents you can see, understand and trust. |
+| 42 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28817 | Python | 2026-08-11 | Build and run agents you can see, understand and trust. |
 | 43 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 44 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-08-11 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
 | 45 | [Aureliedumbfounding630/agent-governance-toolkit](https://github.com/Aureliedumbfounding630/agent-governance-toolkit) | 0 | — | 2026-08-11 | Manage and monitor AI agents in production environments with tools for governance, safety, and compliance. |
