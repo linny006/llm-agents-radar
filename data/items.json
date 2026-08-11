@@ -1,6 +1,33 @@
 [
   {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview.",
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4381,
+    "updated_at": "2026-08-11T12:43:27Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
+    "id": "acmiyaguchi/fen-web",
+    "language": "TypeScript",
+    "name": "acmiyaguchi/fen-web",
+    "stars": 0,
+    "updated_at": "2026-08-11T12:40:28Z",
+    "url": "https://github.com/acmiyaguchi/fen-web"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 1,
+    "updated_at": "2026-08-11T12:35:12Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
@@ -63,15 +90,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4381,
-    "updated_at": "2026-08-11T12:13:41Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -99,21 +117,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 1,
-    "updated_at": "2026-08-11T11:58:00Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-11T12:21:01Z",
+    "updated_at": "2026-08-11T12:44:19Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -315,15 +324,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
-    "id": "acmiyaguchi/fen-web",
-    "language": "TypeScript",
-    "name": "acmiyaguchi/fen-web",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:31:51Z",
-    "url": "https://github.com/acmiyaguchi/fen-web"
-  },
-  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -373,7 +373,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 398,
+    "stars": 401,
     "updated_at": "2026-08-11T08:43:42Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
