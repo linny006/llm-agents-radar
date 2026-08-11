@@ -1,11 +1,47 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T19:41:20Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 11,
+    "updated_at": "2026-08-11T19:39:41Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
+    "id": "jman4162/agentic-phased-array-builder",
+    "language": "Python",
+    "name": "jman4162/agentic-phased-array-builder",
+    "stars": 1,
+    "updated_at": "2026-08-11T19:39:36Z",
+    "url": "https://github.com/jman4162/agentic-phased-array-builder"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T19:34:06Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T19:26:02Z",
+    "updated_at": "2026-08-11T19:41:49Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 11,
-    "updated_at": "2026-08-11T18:48:15Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T19:04:48Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T18:34:31Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
@@ -124,15 +142,6 @@
     "stars": 13,
     "updated_at": "2026-08-11T18:28:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T18:26:00Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 79,
-    "updated_at": "2026-08-11T17:37:35Z",
+    "updated_at": "2026-08-11T19:33:30Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -283,7 +292,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 55,
+    "stars": 56,
     "updated_at": "2026-08-11T16:30:51Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:43:30Z",
     "url": "https://github.com/ZhihaoZhang97/wcpredict"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:42:19Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
