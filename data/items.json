@@ -1,12 +1,12 @@
 [
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T21:14:01Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T21:24:20Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -14,17 +14,26 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 11,
-    "updated_at": "2026-08-11T21:13:39Z",
+    "updated_at": "2026-08-11T21:21:47Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T21:13:20Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-11T21:17:31Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T21:14:01Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-11T20:58:34Z",
+    "updated_at": "2026-08-11T21:27:07Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -148,7 +157,7 @@
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
     "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-11T20:31:30Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   },
@@ -439,14 +448,5 @@
     "stars": 1521,
     "updated_at": "2026-08-11T18:20:05Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 419,
-    "updated_at": "2026-08-11T18:11:48Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   }
 ]
