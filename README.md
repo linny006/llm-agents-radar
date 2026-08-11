@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 00:00 UTC
+> ⏰ Last updated: 2026-08-11 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,7 +42,7 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-10 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-11 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-10 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 69 | Python | 2026-08-10 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
 | 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-10 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
@@ -86,7 +86,7 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-10 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 43 | [pavani-aiml-space/jira-slack-triage-agent](https://github.com/pavani-aiml-space/jira-slack-triage-agent) | 0 | Python | 2026-08-10 | AI agent that turns Slack messages into Jira tickets, with human-in-the-loop review on low-confidence cases, duplicate d |
 | 44 | [NygenAnalytics/CyteType](https://github.com/NygenAnalytics/CyteType) | 135 | Python | 2026-08-10 | Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data |
-| 45 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-10 | AI-powered image generation and chat studio |
+| 45 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-11 | AI-powered image generation and chat studio |
 | 46 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6869 | Python | 2026-08-10 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 47 | [gptme/gptme](https://github.com/gptme/gptme) | 4381 | Python | 2026-08-10 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 48 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 11 | JavaScript | 2026-08-10 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
