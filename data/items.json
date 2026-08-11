@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6881,
+    "updated_at": "2026-08-11T14:04:02Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-11T14:03:14Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:00:28Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
     "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:47:25Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-11T13:44:28Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "AI agent that predicts World Cup 2026 matches \u2014 LangGraph + Claude + Tavily on openfootball data",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-11T13:37:22Z",
+    "updated_at": "2026-08-11T14:03:57Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -139,7 +157,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-08-11T13:35:40Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:34:39Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:33:35Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-11T12:25:12Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 11,
-    "updated_at": "2026-08-11T12:11:29Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
