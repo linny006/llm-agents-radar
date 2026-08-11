@@ -1,5 +1,140 @@
 [
   {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 52,
+    "updated_at": "2026-08-11T13:29:04Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:27:27Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 486,
+    "updated_at": "2026-08-11T13:26:53Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T13:25:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-11T13:23:39Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-11T13:23:25Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-11T13:23:17Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 11,
+    "updated_at": "2026-08-11T13:19:59Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-11T13:19:56Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "A framework for building intelligent agents",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 45,
+    "updated_at": "2026-08-11T13:19:52Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:18:44Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:18:35Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-11T13:17:34Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
+    "id": "yigitxenes/StockPredictionWithAI",
+    "language": "Python",
+    "name": "yigitxenes/StockPredictionWithAI",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:16:07Z",
+    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:15:34Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -25,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:11:39Z",
     "url": "https://github.com/acmiyaguchi/fen-web"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-11T13:10:30Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -126,15 +252,6 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 51,
-    "updated_at": "2026-08-11T12:27:27Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
     "id": "ZXTLQQ/FactorGPT",
     "language": "Python",
@@ -171,15 +288,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "A framework for building intelligent agents",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 45,
-    "updated_at": "2026-08-11T12:12:35Z",
-    "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -205,33 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T12:07:28Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T12:02:33Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-11T11:49:58Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:48:47Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Cloud billing variance analysis platform \u2014 trace every dollar of cloud cost change to a specific engineering decision",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T10:52:33Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
-    "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 6,
-    "updated_at": "2026-08-11T09:36:00Z",
-    "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-11T09:48:13Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-11T09:14:31Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 LLM-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0434\u043b\u044f Jupyter \u0441 tool calling: 16 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u043a\u043e\u0434\u0430, HDFS, Hive, CSV, Excel, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0447\u0435\u0440\u0435\u0437 Oll",
-    "id": "mrdron1314-afk/jupyter-llm-assistant",
-    "language": "Python",
-    "name": "mrdron1314-afk/jupyter-llm-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:05:11Z",
-    "url": "https://github.com/mrdron1314-afk/jupyter-llm-assistant"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-11T09:02:46Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 75,
-    "updated_at": "2026-08-11T08:57:16Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Individualized worksheets for educational and therapeutic professionals - from a support goal, level and age (ICF-aware)",
-    "id": "ellmos-ai/worksheet-generator",
-    "language": "Python",
-    "name": "ellmos-ai/worksheet-generator",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:46:04Z",
-    "url": "https://github.com/ellmos-ai/worksheet-generator"
-  },
-  {
-    "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
-    "id": "SaladDay/pi-from-scratch",
-    "language": "TypeScript",
-    "name": "SaladDay/pi-from-scratch",
-    "stars": 407,
-    "updated_at": "2026-08-11T08:43:42Z",
-    "url": "https://github.com/SaladDay/pi-from-scratch"
-  },
-  {
-    "description": "AI research workbench for observational cosmology that provably refuses to fabricate \u2014 every number traces to a register",
-    "id": "MikhailXiaomaikou/Standard-Astro",
-    "language": "Python",
-    "name": "MikhailXiaomaikou/Standard-Astro",
-    "stars": 4,
-    "updated_at": "2026-08-11T08:37:41Z",
-    "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
   }
 ]
