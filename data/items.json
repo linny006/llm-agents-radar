@@ -1,11 +1,29 @@
 [
   {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 75,
+    "updated_at": "2026-08-11T07:50:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:49:06Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T07:42:17Z",
+    "updated_at": "2026-08-11T07:48:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -144,15 +162,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-11T06:58:05Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -184,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28807,
+    "stars": 28808,
     "updated_at": "2026-08-11T06:29:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-11T05:33:43Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-11T05:32:27Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
