@@ -1,5 +1,32 @@
 [
   {
+    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
+    "id": "Kishore-dev-21/DataMind_AI",
+    "language": "TypeScript",
+    "name": "Kishore-dev-21/DataMind_AI",
+    "stars": 0,
+    "updated_at": "2026-08-11T15:43:12Z",
+    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T15:42:08Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-11T15:41:01Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 6882,
     "updated_at": "2026-08-11T15:14:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T14:48:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T13:14:32Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-11T13:12:06Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
-    "id": "acmiyaguchi/fen-web",
-    "language": "TypeScript",
-    "name": "acmiyaguchi/fen-web",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:11:39Z",
-    "url": "https://github.com/acmiyaguchi/fen-web"
   }
 ]
