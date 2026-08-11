@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-11T12:58:19Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-11T13:14:32Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\uff0cSWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 36.7% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u53ef\u590d\u73b0\u62a5\u544a\uff09\u3002\u652f\u6301 7",
-    "id": "xianyu-sheng/Xenon",
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
     "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-11T12:54:22Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:12:06Z",
+    "url": "https://github.com/yigido41/agentic-ai"
   },
   {
     "description": "Browser-resident fen: WASM demo + extension, consuming fen core as a submodule (fen#99)",
@@ -23,8 +23,80 @@
     "language": "TypeScript",
     "name": "acmiyaguchi/fen-web",
     "stars": 0,
-    "updated_at": "2026-08-11T12:57:43Z",
+    "updated_at": "2026-08-11T13:11:39Z",
     "url": "https://github.com/acmiyaguchi/fen-web"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-11T13:10:30Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:10:00Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:06:34Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\uff0cSWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 36.7% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u53ef\u590d\u73b0\u62a5\u544a\uff09\u3002\u652f\u6301 7",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-11T13:04:09Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-11T13:01:57Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-11T13:01:18Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-11T12:59:08Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-11T12:58:19Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -144,15 +216,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 796,
-    "updated_at": "2026-08-11T12:58:41Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -169,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T11:48:47Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-11T12:59:08Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Cloud billing variance analysis platform \u2014 trace every dollar of cloud cost change to a specific engineering decision",
@@ -382,7 +436,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 404,
+    "stars": 407,
     "updated_at": "2026-08-11T08:43:42Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-11T08:37:41Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 633,
-    "updated_at": "2026-08-11T08:22:41Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6881,
-    "updated_at": "2026-08-11T07:59:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 691,
-    "updated_at": "2026-08-11T07:55:49Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 416,
-    "updated_at": "2026-08-11T07:54:34Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "AI agent that turns Slack messages into Jira tickets, with human-in-the-loop review on low-confidence cases, duplicate d",
-    "id": "pavani-aiml-space/jira-slack-triage-agent",
-    "language": "Python",
-    "name": "pavani-aiml-space/jira-slack-triage-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:41:38Z",
-    "url": "https://github.com/pavani-aiml-space/jira-slack-triage-agent"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 3,
-    "updated_at": "2026-08-11T07:37:52Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   }
 ]
