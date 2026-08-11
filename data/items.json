@@ -1,12 +1,30 @@
 [
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-11T11:42:45Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 1,
+    "updated_at": "2026-08-11T11:58:00Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 796,
+    "updated_at": "2026-08-11T11:55:51Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-11T11:54:37Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-11T11:41:41Z",
+    "updated_at": "2026-08-11T11:52:09Z",
     "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-11T11:49:58Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:48:47Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-11T11:42:45Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -106,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T11:05:17Z",
     "url": "https://github.com/Athas-Ed/Logos"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-11T10:55:43Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-11T10:55:03Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "AI day-trading agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
@@ -225,15 +252,6 @@
     "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 1,
-    "updated_at": "2026-08-11T09:49:18Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
     "id": "S3YED/appie-kit",
     "language": "Python",
@@ -279,15 +297,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-11T09:14:13Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 LLM-\u0430\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0434\u043b\u044f Jupyter \u0441 tool calling: 16 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 \u0434\u043b\u044f \u043a\u043e\u0434\u0430, HDFS, Hive, CSV, Excel, \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0447\u0435\u0440\u0435\u0437 Oll",
     "id": "mrdron1314-afk/jupyter-llm-assistant",
     "language": "Python",
@@ -328,7 +337,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 380,
+    "stars": 385,
     "updated_at": "2026-08-11T08:43:42Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -382,7 +391,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 415,
+    "stars": 416,
     "updated_at": "2026-08-11T07:54:34Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T07:07:31Z",
     "url": "https://github.com/BZHDZNJJ/zh-time-parser"
-  },
-  {
-    "description": "Autonomous AI agent & benchmarking CLI for Claude Code and Cursor. Build, validate, and ship research hypotheses repos \u2014",
-    "id": "forger-labs-hq/researchforge",
-    "language": "Python",
-    "name": "forger-labs-hq/researchforge",
-    "stars": 4,
-    "updated_at": "2026-08-11T06:49:40Z",
-    "url": "https://github.com/forger-labs-hq/researchforge"
   }
 ]
