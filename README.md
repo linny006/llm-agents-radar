@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 06:30 UTC
+> ⏰ Last updated: 2026-08-11 06:34 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28802 | Python | 2026-08-11 | Build and run agents you can see, understand and trust. |
-| 2 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 50 | JavaScript | 2026-08-11 | Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview. |
-| 3 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-11 |  Where intent meets code — a local AI coding agent          |
-| 4 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-11 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 1 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-11 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 2 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 28803 | Python | 2026-08-11 | Build and run agents you can see, understand and trust. |
+| 3 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 50 | JavaScript | 2026-08-11 | Browser-based 3D staging studio: scene blocking, character posing, prompt-block sequencing, and ARDY motion preview. |
+| 4 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-11 |  Where intent meets code — a local AI coding agent          |
 | 5 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-11 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-11 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-11 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
