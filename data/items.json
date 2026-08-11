@@ -1,5 +1,68 @@
 [
   {
+    "description": "A job-application app whose backend is a headless LLM agent (Claude Code CLI). Markdown + git as the database.",
+    "id": "yashkrush/jobkit",
+    "language": "JavaScript",
+    "name": "yashkrush/jobkit",
+    "stars": 2,
+    "updated_at": "2026-08-11T14:39:56Z",
+    "url": "https://github.com/yashkrush/jobkit"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-11T14:38:34Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6882,
+    "updated_at": "2026-08-11T14:36:39Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T14:34:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 75,
+    "updated_at": "2026-08-11T14:32:02Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-08-11T14:31:00Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-11T14:26:22Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 75,
-    "updated_at": "2026-08-11T14:16:55Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -36,21 +90,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6882,
-    "updated_at": "2026-08-11T14:04:02Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-11T14:16:32Z",
+    "updated_at": "2026-08-11T14:40:45Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-11T14:26:22Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-11T14:03:57Z",
+    "updated_at": "2026-08-11T14:34:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -184,7 +220,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 53,
+    "stars": 54,
     "updated_at": "2026-08-11T13:35:40Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -241,15 +277,6 @@
     "stars": 486,
     "updated_at": "2026-08-11T14:23:32Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:25:07Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -421,32 +448,5 @@
     "stars": 4381,
     "updated_at": "2026-08-11T12:49:58Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 1,
-    "updated_at": "2026-08-11T12:35:12Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 4,
-    "updated_at": "2026-08-11T12:27:00Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-11T12:26:07Z",
-    "url": "https://github.com/SashaEee/auditLens"
   }
 ]
