@@ -1,12 +1,12 @@
 [
   {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:57:57Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T06:11:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "linynZ/chrono-npc-agent",
     "stars": 0,
-    "updated_at": "2026-08-11T05:57:33Z",
+    "updated_at": "2026-08-11T06:09:05Z",
     "url": "https://github.com/linynZ/chrono-npc-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:08:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T06:07:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
+    "id": "alejandrogg15/Minimax-H3-Turbo",
+    "language": "Python",
+    "name": "alejandrogg15/Minimax-H3-Turbo",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:02:41Z",
+    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
+  },
+  {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:01:30Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
+    "id": "222394/SkyPilot",
+    "language": "Java",
+    "name": "222394/SkyPilot",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:01:26Z",
+    "url": "https://github.com/222394/SkyPilot"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:00:43Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:57:57Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -54,15 +117,6 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T05:59:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "xhqing/DayTradingAgent",
     "stars": 1,
-    "updated_at": "2026-08-11T05:52:39Z",
+    "updated_at": "2026-08-11T06:13:45Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
@@ -243,30 +297,12 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T05:20:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:18:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-11T05:17:43Z",
+    "updated_at": "2026-08-11T06:15:15Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -274,7 +310,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 632,
+    "stars": 633,
     "updated_at": "2026-08-11T05:17:42Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T03:26:32Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:04:44Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-11T03:28:01Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "A framework for building intelligent agents",
-    "id": "lkimuk/Wuwe",
-    "language": "C++",
-    "name": "lkimuk/Wuwe",
-    "stars": 45,
-    "updated_at": "2026-08-11T02:55:15Z",
-    "url": "https://github.com/lkimuk/Wuwe"
-  },
-  {
-    "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
-    "id": "eddyficial/skillmint",
-    "language": "Python",
-    "name": "eddyficial/skillmint",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:52:03Z",
-    "url": "https://github.com/eddyficial/skillmint"
   }
 ]
