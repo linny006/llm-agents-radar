@@ -1,5 +1,167 @@
 [
   {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:57:57Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
+    "id": "linynZ/chrono-npc-agent",
+    "language": "Python",
+    "name": "linynZ/chrono-npc-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:57:33Z",
+    "url": "https://github.com/linynZ/chrono-npc-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 155,
+    "updated_at": "2026-08-11T05:57:05Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
+    "id": "80x24/nuanua",
+    "language": "TypeScript",
+    "name": "80x24/nuanua",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:57:00Z",
+    "url": "https://github.com/80x24/nuanua"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:56:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:56:19Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T05:59:27Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:52:54Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "AI day-trading agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:52:39Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 6,
+    "updated_at": "2026-08-11T05:52:31Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-08-11T05:52:16Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:48:18Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-11T05:48:10Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:48:03Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:47:57Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "An AI agent builds complete mobile games end to end \u2014 design, code, art, music, 136 headless tests, store assets, in-app",
+    "id": "codedpro/agentic-game-factory",
+    "language": "GDScript",
+    "name": "codedpro/agentic-game-factory",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:47:29Z",
+    "url": "https://github.com/codedpro/agentic-game-factory"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:45:46Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:45:19Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
     "id": "mena256/ai-pair-engineer",
     "language": "Python",
@@ -189,33 +351,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
-    "updated_at": "2026-08-11T04:24:47Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-11T04:24:30Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T05:35:50Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -279,15 +414,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
-    "id": "linynZ/chrono-npc-agent",
-    "language": "Python",
-    "name": "linynZ/chrono-npc-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:15:16Z",
-    "url": "https://github.com/linynZ/chrono-npc-agent"
-  },
-  {
     "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:52:03Z",
     "url": "https://github.com/eddyficial/skillmint"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-11T02:44:57Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 406,
-    "updated_at": "2026-08-11T02:32:51Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:20:19Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:13:11Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
-    "id": "maisieyang/build-my-own-harness",
-    "language": "Python",
-    "name": "maisieyang/build-my-own-harness",
-    "stars": 0,
-    "updated_at": "2026-08-11T02:05:00Z",
-    "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6873,
-    "updated_at": "2026-08-11T01:55:46Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5704,
-    "updated_at": "2026-08-11T01:53:09Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u300a\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\ubc14 21\ub85c \uad6c\ud604\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc758 \ub0b4\ubd80\u300b \uc7a5\ubcc4 \uc608\uc81c \ucf54\ub4dc. ch02~ch25 \uac01 \ub514\ub809\ud130\ub9ac\uac00 \uadf8 \uc7a5\uc744 \ub05d\ub0c8\uc744 \ub54c\uc758 \uc2a4\ub0c5\uc0f7\uc774\uc790 \ub3c5\ub9bd \uc2e4\ud589 \uac00\ub2a5\ud55c Gradle \ud504\ub85c\uc81d\ud2b8(JDK 2",
-    "id": "kangwoo/build-a-coding-agent",
-    "language": "Java",
-    "name": "kangwoo/build-a-coding-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T01:48:00Z",
-    "url": "https://github.com/kangwoo/build-a-coding-agent"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2602,
-    "updated_at": "2026-08-11T01:24:38Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-11T00:29:38Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Provider-agnostic VLM query flow: one Agent that dispatches to OpenAI / Anthropic / Gemini / vLLM / Claude Code CLI / lo",
-    "id": "Wenri/TaskSolver",
-    "language": "Python",
-    "name": "Wenri/TaskSolver",
-    "stars": 0,
-    "updated_at": "2026-08-11T00:27:26Z",
-    "url": "https://github.com/Wenri/TaskSolver"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 75,
-    "updated_at": "2026-08-10T23:49:47Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Composable Agent Skills suite for senior-level Python development: 12 single-responsibility skills (architect, coder, re",
-    "id": "bzdvdn/python-developer-ai-skill",
-    "language": "Python",
-    "name": "bzdvdn/python-developer-ai-skill",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:12:07Z",
-    "url": "https://github.com/bzdvdn/python-developer-ai-skill"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:10:12Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
