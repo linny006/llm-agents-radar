@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-11T02:14:17Z",
+    "updated_at": "2026-08-11T02:25:20Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 405,
+    "updated_at": "2026-08-11T02:23:17Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "AlanFokCo/agentscope-go",
+    "language": "Go",
+    "name": "AlanFokCo/agentscope-go",
+    "stars": 28,
+    "updated_at": "2026-08-11T02:20:46Z",
+    "url": "https://github.com/AlanFokCo/agentscope-go"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-11T02:20:19Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -36,15 +63,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 405,
-    "updated_at": "2026-08-11T02:08:47Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -70,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:05:00Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6872,
+    "updated_at": "2026-08-11T01:55:46Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -421,32 +448,5 @@
     "stars": 45,
     "updated_at": "2026-08-10T22:01:39Z",
     "url": "https://github.com/agentcommunity/agent-identity-discovery"
-  },
-  {
-    "description": "Autonomous AI agent for real estate feasibility analysis. Give it an address \u2014 it researches, models DCF + Monte Carlo, ",
-    "id": "Alessandro114/landiq",
-    "language": "Python",
-    "name": "Alessandro114/landiq",
-    "stars": 0,
-    "updated_at": "2026-08-10T21:37:31Z",
-    "url": "https://github.com/Alessandro114/landiq"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-10T21:30:04Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 1,
-    "updated_at": "2026-08-11T02:04:32Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
