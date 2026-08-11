@@ -1,21 +1,57 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T10:13:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
     "name": "Deus-corp/cks-mcp",
     "stars": 1,
-    "updated_at": "2026-08-11T10:03:12Z",
+    "updated_at": "2026-08-11T10:30:06Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-11T10:28:11Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\uff0cSWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 36.7% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u53ef\u590d\u73b0\u62a5\u544a\uff09\u3002\u652f\u6301 7",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-11T10:23:35Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-11T10:18:45Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T10:19:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 33,
+    "updated_at": "2026-08-11T10:18:14Z",
+    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -90,15 +126,6 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-11T09:34:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -122,7 +149,7 @@
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 50,
-    "updated_at": "2026-08-11T09:26:22Z",
+    "updated_at": "2026-08-11T10:16:34Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -229,7 +256,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 352,
+    "stars": 356,
     "updated_at": "2026-08-11T08:43:42Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:00:43Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:57:57Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "\uba54\uc2e0\uc800\ub85c \ub300\ud654\ud558\ub294 \ub098\ub9cc\uc758 AI \uc5d0\uc774\uc804\ud2b8 \u2014 claude -p\ub97c \uad6c\ub3c5 \uc778\uc99d\uc73c\ub85c \uac10\uc2f8 \ucd94\uac00 \ube44\uc6a9 \uc5c6\uc774 \ub3cc\ub9ac\ub294 personal agent harness (Hermes 5\uae30\ub465 + \uc2b9\uc778 \uac8c\uc774\ud2b8 drift \ubc29\uc9c0)",
-    "id": "80x24/nuanua",
-    "language": "TypeScript",
-    "name": "80x24/nuanua",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:57:00Z",
-    "url": "https://github.com/80x24/nuanua"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:56:19Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
