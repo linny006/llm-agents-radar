@@ -1,5 +1,14 @@
 [
   {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 55,
+    "updated_at": "2026-08-11T16:30:51Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -81,15 +90,6 @@
     "url": "https://github.com/Mooncore-inc/demon-cry"
   },
   {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 55,
-    "updated_at": "2026-08-11T16:14:23Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
     "id": "ZXTLQQ/FactorGPT",
     "language": "Python",
@@ -112,7 +112,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 75,
+    "stars": 76,
     "updated_at": "2026-08-11T16:02:56Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
