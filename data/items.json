@@ -1,12 +1,30 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T08:14:00Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:30:03Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
+    "id": "SaladDay/pi-from-scratch",
+    "language": "TypeScript",
+    "name": "SaladDay/pi-from-scratch",
+    "stars": 304,
+    "updated_at": "2026-08-11T08:26:15Z",
+    "url": "https://github.com/SaladDay/pi-from-scratch"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 633,
+    "updated_at": "2026-08-11T08:22:41Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
@@ -14,8 +32,26 @@
     "language": "TypeScript",
     "name": "vuhai2002/zalo-agent",
     "stars": 1,
-    "updated_at": "2026-08-11T08:13:18Z",
+    "updated_at": "2026-08-11T08:20:14Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3036,
+    "updated_at": "2026-08-11T08:17:30Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T08:26:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -52,15 +88,6 @@
     "stars": 75,
     "updated_at": "2026-08-11T08:00:32Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:58:53Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5653,
-    "updated_at": "2026-08-11T07:21:27Z",
+    "updated_at": "2026-08-11T08:29:20Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T05:42:32Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:41:11Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
-    "id": "benjaminjkern/hank",
-    "language": "TypeScript",
-    "name": "benjaminjkern/hank",
-    "stars": 1,
-    "updated_at": "2026-08-11T05:40:36Z",
-    "url": "https://github.com/benjaminjkern/hank"
-  },
-  {
-    "description": "ReAct Agent Loop Built from Scratch in Java",
-    "id": "arjun3037/JReAct",
-    "language": "Java",
-    "name": "arjun3037/JReAct",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:38:41Z",
-    "url": "https://github.com/arjun3037/JReAct"
   }
 ]
