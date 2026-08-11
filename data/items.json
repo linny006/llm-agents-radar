@@ -5,15 +5,33 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-11T06:34:10Z",
+    "updated_at": "2026-08-11T06:42:02Z",
     "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-11T06:41:12Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "LLM \uc5d0\uc774\uc804\ud2b8\ub97c \uc704\ud55c \ud55c\uad6d \ub0a0\uc528\u00b7\uc2dc\uac04 MCP \uc11c\ubc84 \u2014 \uae30\uc0c1\uccad \ub2e8\uae30\uc608\ubcf4 + \uc2dc\uac04\ub300 \uc870\ud68c | Korean weather & time MCP server for LLM agents",
+    "id": "jshsakura/oc-korea-weather-time-mcp",
+    "language": "Python",
+    "name": "jshsakura/oc-korea-weather-time-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-11T06:39:04Z",
+    "url": "https://github.com/jshsakura/oc-korea-weather-time-mcp"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28803,
+    "stars": 28804,
     "updated_at": "2026-08-11T06:29:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:08:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-11T06:18:27Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "MikhailXiaomaikou/Standard-Astro",
     "stars": 4,
-    "updated_at": "2026-08-11T05:13:26Z",
+    "updated_at": "2026-08-11T06:37:27Z",
     "url": "https://github.com/MikhailXiaomaikou/Standard-Astro"
-  },
-  {
-    "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
-    "id": "Juveria22/bunni-backend",
-    "language": "Python",
-    "name": "Juveria22/bunni-backend",
-    "stars": 0,
-    "updated_at": "2026-08-11T03:20:49Z",
-    "url": "https://github.com/Juveria22/bunni-backend"
   }
 ]
