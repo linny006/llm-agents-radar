@@ -1,11 +1,38 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:37:04Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:34:31Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
+    "id": "NygenAnalytics/CyteType",
+    "language": "Python",
+    "name": "NygenAnalytics/CyteType",
+    "stars": 135,
+    "updated_at": "2026-08-11T18:35:35Z",
+    "url": "https://github.com/NygenAnalytics/CyteType"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-08-11T18:31:09Z",
+    "updated_at": "2026-08-11T18:41:36Z",
     "url": "https://github.com/peder1981/AdvPP"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-11T18:09:33Z",
+    "updated_at": "2026-08-11T18:38:01Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-11T18:29:56Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
     "id": "hgsanyang/SoulTuner-Agent",
     "language": "Python",
@@ -142,15 +160,6 @@
     "stars": 17,
     "updated_at": "2026-08-11T17:48:04Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:38:27Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
@@ -193,7 +202,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 155,
+    "stars": 156,
     "updated_at": "2026-08-11T17:03:45Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T13:37:21Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-11T13:37:18Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
