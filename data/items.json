@@ -1,5 +1,50 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-12T09:43:20Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 3,
+    "updated_at": "2026-08-12T09:42:08Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T09:41:22Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning \u2014 desig",
+    "id": "EyalShahaf/mobile-log-triage",
+    "language": "HTML",
+    "name": "EyalShahaf/mobile-log-triage",
+    "stars": 0,
+    "updated_at": "2026-08-12T09:39:16Z",
+    "url": "https://github.com/EyalShahaf/mobile-log-triage"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-12T09:28:00Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -23,26 +68,8 @@
     "language": "Python",
     "name": "HKUDS/DeepCode",
     "stars": 16338,
-    "updated_at": "2026-08-12T09:23:32Z",
+    "updated_at": "2026-08-12T09:40:48Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-12T09:23:30Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning \u2014 desig",
-    "id": "EyalShahaf/mobile-log-triage",
-    "language": "HTML",
-    "name": "EyalShahaf/mobile-log-triage",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:20:23Z",
-    "url": "https://github.com/EyalShahaf/mobile-log-triage"
   },
   {
     "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
@@ -115,15 +142,6 @@
     "stars": 28859,
     "updated_at": "2026-08-12T08:49:15Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T08:47:35Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -225,15 +243,6 @@
     "url": "https://github.com/bajshorya/llm-observability-agent"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-12T09:28:00Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -256,7 +265,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 661,
+    "stars": 664,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -329,7 +338,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T09:19:16Z",
+    "updated_at": "2026-08-12T09:41:14Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 201,
     "updated_at": "2026-08-12T03:49:54Z",
     "url": "https://github.com/langchain-ai/agent-auth-payments"
-  },
-  {
-    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
-    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "language": "Python",
-    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:31:29Z",
-    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
   }
 ]
