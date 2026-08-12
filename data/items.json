@@ -1,5 +1,23 @@
 [
   {
+    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
+    "id": "benjaminjkern/hank",
+    "language": "TypeScript",
+    "name": "benjaminjkern/hank",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:40:23Z",
+    "url": "https://github.com/benjaminjkern/hank"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 487,
+    "updated_at": "2026-08-12T20:39:25Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-12T20:20:46Z",
+    "updated_at": "2026-08-12T20:42:07Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -77,17 +95,8 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6887,
-    "updated_at": "2026-08-12T20:04:52Z",
+    "updated_at": "2026-08-12T20:42:28Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 487,
-    "updated_at": "2026-08-12T20:31:43Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-12T18:39:18Z",
+    "updated_at": "2026-08-12T20:44:09Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 4386,
     "updated_at": "2026-08-12T18:34:01Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
-    "id": "benjaminjkern/hank",
-    "language": "TypeScript",
-    "name": "benjaminjkern/hank",
-    "stars": 1,
-    "updated_at": "2026-08-12T18:07:11Z",
-    "url": "https://github.com/benjaminjkern/hank"
   },
   {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",

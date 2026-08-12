@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 20:34 UTC
+> ⏰ Last updated: 2026-08-12 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 95 | TypeScript | 2026-08-12 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 94 | Python | 2026-08-12 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-08-12 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-12 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 7 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-08-12 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
-| 8 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-12 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6887 | Python | 2026-08-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 10 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 487 | Python | 2026-08-12 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 12 | JavaScript | 2026-08-12 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 14 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-08-12 | Research framework for adaptive, purposeful agents under uncertainty |
-| 15 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-12 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 16 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-12 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 17 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-12 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 20 | [Morephine/feltstate](https://github.com/Morephine/feltstate) | 5 | Python | 2026-08-12 | A character engine for AI agents — persistent affect, provenance-aware memory, gated proactivity, and an auditable forge |
-| 21 | [Crystalhihihi/minecraft-ai-building](https://github.com/Crystalhihihi/minecraft-ai-building) | 0 | Python | 2026-08-12 | In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin |
-| 22 | [Crystalhihihi/matmcp](https://github.com/Crystalhihihi/matmcp) | 0 | Python | 2026-08-12 | Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat |
-| 23 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-12 | AI-powered image generation and chat studio |
-| 24 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 25 | [gptme/gptme](https://github.com/gptme/gptme) | 4386 | Python | 2026-08-12 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 26 | [benjaminjkern/hank](https://github.com/benjaminjkern/hank) | 1 | TypeScript | 2026-08-12 | An AI agent that runs your job search — finds companies, scrapes their job boards, screens every role against your résum |
+| 1 | [benjaminjkern/hank](https://github.com/benjaminjkern/hank) | 1 | TypeScript | 2026-08-12 | An AI agent that runs your job search — finds companies, scrapes their job boards, screens every role against your résum |
+| 2 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 487 | Python | 2026-08-12 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
+| 3 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 95 | TypeScript | 2026-08-12 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
+| 4 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 94 | Python | 2026-08-12 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [indyfive11/gabagent](https://github.com/indyfive11/gabagent) | 0 | Python | 2026-08-12 | Claude Code-style AI coding assistant built on the Gab AI Developer API |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-12 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 9 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-08-12 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
+| 10 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-12 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 11 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6887 | Python | 2026-08-12 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 14 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 12 | JavaScript | 2026-08-12 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 15 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-08-12 | Research framework for adaptive, purposeful agents under uncertainty |
+| 16 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-12 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 17 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-12 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 18 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-12 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 21 | [Morephine/feltstate](https://github.com/Morephine/feltstate) | 5 | Python | 2026-08-12 | A character engine for AI agents — persistent affect, provenance-aware memory, gated proactivity, and an auditable forge |
+| 22 | [Crystalhihihi/minecraft-ai-building](https://github.com/Crystalhihihi/minecraft-ai-building) | 0 | Python | 2026-08-12 | In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin |
+| 23 | [Crystalhihihi/matmcp](https://github.com/Crystalhihihi/matmcp) | 0 | Python | 2026-08-12 | Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat |
+| 24 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-12 | AI-powered image generation and chat studio |
+| 25 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 26 | [gptme/gptme](https://github.com/gptme/gptme) | 4386 | Python | 2026-08-12 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 27 | [BiBoyang/ForgeLoopTUI](https://github.com/BiBoyang/ForgeLoopTUI) | 1 | Swift | 2026-08-12 | Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders. |
 | 28 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-12 | Octomind Agents Registry |
 | 29 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16338 | Python | 2026-08-12 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
