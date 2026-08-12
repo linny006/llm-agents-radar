@@ -1,11 +1,65 @@
 [
   {
+    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
+    "id": "maisieyang/build-my-own-harness",
+    "language": "Python",
+    "name": "maisieyang/build-my-own-harness",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:00:10Z",
+    "url": "https://github.com/maisieyang/build-my-own-harness"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:55:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T10:57:27Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-12T10:52:20Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "R",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:52:16Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-12T10:48:58Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
     "id": "dominikj111/Engram",
     "language": "Rust",
     "name": "dominikj111/Engram",
     "stars": 2,
-    "updated_at": "2026-08-12T10:43:03Z",
+    "updated_at": "2026-08-12T10:58:14Z",
     "url": "https://github.com/dominikj111/Engram"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T10:18:04Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "R",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-12T10:17:38Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -153,15 +198,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:55:14Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -169,15 +205,6 @@
     "stars": 13,
     "updated_at": "2026-08-12T10:03:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T10:34:14Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -346,7 +373,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 674,
+    "stars": 675,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -405,15 +432,6 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-12T10:45:03Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "\u5355\u6587\u4ef6 AI \u667a\u80fd\u4f53\u5de5\u4f5c\u53f0\uff1a\u684c\u9762 + \u56fe\u6807 + \u7a97\u53e3\uff0c\u6bcf\u4e2a\u56fe\u6807 = \u4e00\u4e2a\u72ec\u7acb\u5bf9\u8bdd Agent\u3002Vue 3.5 + AI SDK v7\uff0c\u96f6\u6784\u5efa\u53cc\u51fb\u5373\u7528\uff0c\u5185\u7f6e\u53cc\u514d\u8d39\u6a21\u578b\u9884\u8bbe\u3001\u8054\u7f51\u641c\u7d22\u3001\u89c6\u89c9\u5de5\u5177\u3001\u8bb0\u5fc6\u81ea\u6cbb\u7406\u4e0e\u4efb\u52a1\u6cbb\u7406\u95e8\u7981\uff0c\u6570\u636e\u5168\u5728\u6d4f\u89c8\u5668\u672c\u5730\u3002",
     "id": "kael-odin/Amadeus-Agent",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 4384,
     "updated_at": "2026-08-12T10:19:19Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:32:00Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 17,
-    "updated_at": "2026-08-12T05:30:02Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   }
 ]
