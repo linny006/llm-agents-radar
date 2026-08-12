@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 06:15 UTC
+> ⏰ Last updated: 2026-08-12 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-12 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 3 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 4 | [kael-odin/Amadeus-Agent](https://github.com/kael-odin/Amadeus-Agent) | 1 | HTML | 2026-08-12 | 单文件 AI 智能体工作台：桌面 + 图标 + 窗口，每个图标 = 一个独立对话 Agent。Vue 3.5 + AI SDK v7，零构建双击即用，内置双免费模型预设、联网搜索、视觉工具、记忆自治理与任务治理门禁，数据全在浏览器本地。 |
-| 5 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5656 | Python | 2026-08-12 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
-| 6 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-12 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 7 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 46 | Rust | 2026-08-12 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 8 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-12 | Agent 业务执行底座：受控工具调用、多应用 HTTP、可审计轨迹与回归闭环 |
-| 9 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 17 | Python | 2026-08-12 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
-| 10 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-12 | A productive AI coworker that learns, self-improves, and ships work. |
-| 11 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 12 | [cse-creative-systems-engineering/aios](https://github.com/cse-creative-systems-engineering/aios) | 0 | Rust | 2026-08-12 | Aios — Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and |
-| 13 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 14 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 1 | TypeScript | 2026-08-12 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
-| 15 | [xcq20100224/Nolan](https://github.com/xcq20100224/Nolan) | 11 | Python | 2026-08-12 | 本地优先的中文语音 AI 管家——说一句话，它替你操作 Windows（GLM-5.2 Agent + 本地 Whisper + GUI 自动化） |
-| 16 | [helixml/helix](https://github.com/helixml/helix) | 796 | Go | 2026-08-12 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 17 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-12 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 7 | [helixml/helix](https://github.com/helixml/helix) | 797 | Go | 2026-08-12 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 8 | [kael-odin/Amadeus-Agent](https://github.com/kael-odin/Amadeus-Agent) | 1 | HTML | 2026-08-12 | 单文件 AI 智能体工作台：桌面 + 图标 + 窗口，每个图标 = 一个独立对话 Agent。Vue 3.5 + AI SDK v7，零构建双击即用，内置双免费模型预设、联网搜索、视觉工具、记忆自治理与任务治理门禁，数据全在浏览器本地。 |
+| 9 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5656 | Python | 2026-08-12 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 10 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-12 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 11 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 46 | Rust | 2026-08-12 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 12 | [weihuaguo270-ops/react-agent](https://github.com/weihuaguo270-ops/react-agent) | 1 | Python | 2026-08-12 | Agent 业务执行底座：受控工具调用、多应用 HTTP、可审计轨迹与回归闭环 |
+| 13 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 17 | Python | 2026-08-12 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
+| 14 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-12 | A productive AI coworker that learns, self-improves, and ships work. |
+| 15 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 16 | [cse-creative-systems-engineering/aios](https://github.com/cse-creative-systems-engineering/aios) | 0 | Rust | 2026-08-12 | Aios — Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and |
+| 17 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 18 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 1 | TypeScript | 2026-08-12 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
+| 19 | [xcq20100224/Nolan](https://github.com/xcq20100224/Nolan) | 11 | Python | 2026-08-12 | 本地优先的中文语音 AI 管家——说一句话，它替你操作 Windows（GLM-5.2 Agent + 本地 Whisper + GUI 自动化） |
 | 20 | [chickadeeer/abyssal](https://github.com/chickadeeer/abyssal) | 0 | Python | 2026-08-12 | The Most Unique DeepSeek Client. |
 | 21 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-12 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
 | 22 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-12 |  Where intent meets code — a local AI coding agent          |
