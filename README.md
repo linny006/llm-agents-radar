@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 10:30 UTC
+> ⏰ Last updated: 2026-08-12 10:35 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,26 +43,26 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-12 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [dominikj111/Engram](https://github.com/dominikj111/Engram) | 2 | Rust | 2026-08-12 | Δ Engram is a deterministic reasoning kernel — symbolic AI, a finite state machine, with configurable boundaries and sel |
-| 3 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-12 | Octomind Agents Registry |
-| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 5 | [fsy2004/MetaWingman](https://github.com/fsy2004/MetaWingman) | 0 | R | 2026-08-12 | Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden |
-| 6 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 62 | C++ | 2026-08-12 | A framework for building intelligent agents |
-| 7 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-12 | The self-improving SRE agent |
-| 8 | [EyalShahaf/mobile-log-triage](https://github.com/EyalShahaf/mobile-log-triage) | 0 | HTML | 2026-08-12 | Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning — desig |
-| 9 | [LikeMirage/Tiance](https://github.com/LikeMirage/Tiance) | 0 | Python | 2026-08-12 | 本地优先、透明可见无黑盒的多项目、多智能体 AI 工作台 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration. |
-| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-12 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
-| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 14 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-12 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
-| 15 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-08-12 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
-| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 17 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-12 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 18 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 90 | Python | 2026-08-12 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
-| 19 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 3 | Kotlin | 2026-08-12 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
-| 20 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16338 | Python | 2026-08-12 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| 21 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-12 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [LikeMirage/Tiance](https://github.com/LikeMirage/Tiance) | 0 | Python | 2026-08-12 | 本地优先、透明可见无黑盒的多项目、多智能体 AI 工作台 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration. |
+| 4 | [dominikj111/Engram](https://github.com/dominikj111/Engram) | 2 | Rust | 2026-08-12 | Δ Engram is a deterministic reasoning kernel — symbolic AI, a finite state machine, with configurable boundaries and sel |
+| 5 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-12 | Octomind Agents Registry |
+| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-12 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 7 | [fsy2004/MetaWingman](https://github.com/fsy2004/MetaWingman) | 0 | R | 2026-08-12 | Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden |
+| 8 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 62 | C++ | 2026-08-12 | A framework for building intelligent agents |
+| 9 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-12 | The self-improving SRE agent |
+| 10 | [EyalShahaf/mobile-log-triage](https://github.com/EyalShahaf/mobile-log-triage) | 0 | HTML | 2026-08-12 | Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning — desig |
+| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [FeixueCode/miaoclaw-releases](https://github.com/FeixueCode/miaoclaw-releases) | 1 | JavaScript | 2026-08-12 | 🐱 Miaoclaw(喵喵)· 本地优先的中文桌面 AI 助手:办公文档交付 / 联网调研 / 语音纪要 / 手帐记忆 / 桌面宠物。此仓库发布 Windows 安装包与更新通道 \| Local-first desktop AI assis |
+| 14 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 15 | [Yuan-ManX/SparkLabs](https://github.com/Yuan-ManX/SparkLabs) | 12 | Python | 2026-08-12 | SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! 💥 🎮 |
+| 16 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-08-12 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
+| 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 18 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-12 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 19 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 90 | Python | 2026-08-12 | The Open Source Agent Harness Framework. Agentic Programming Paradigm. |
+| 20 | [Torvian-eu/chatbot](https://github.com/Torvian-eu/chatbot) | 3 | Kotlin | 2026-08-12 | Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open |
+| 21 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16338 | Python | 2026-08-12 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 | 22 | [fightheyyy/barena](https://github.com/fightheyyy/barena) | 0 | TypeScript | 2026-08-12 | Agentic evaluation and release framework for AI agents — run, replay, verify, and gate skills, roles, prompts, tools, an |
 | 23 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-12 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 24 | [vuhai2002/zalo-agent](https://github.com/vuhai2002/zalo-agent) | 1 | TypeScript | 2026-08-12 | Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-08-12 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
 | 36 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-12 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 37 | [jman4162/agentic-phased-array-builder](https://github.com/jman4162/agentic-phased-array-builder) | 1 | Python | 2026-08-12 | LLM-driven phased-array antenna design & analysis via MCP tools — unit-cell simulation, array patterns, system trades |
-| 38 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 672 | TypeScript | 2026-08-12 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
+| 38 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | 673 | TypeScript | 2026-08-12 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
 | 39 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5656 | Python | 2026-08-12 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 40 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-12 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
 | 41 | [EvoMap/awesome-agent-evolution](https://github.com/EvoMap/awesome-agent-evolution) | 183 | JavaScript | 2026-08-12 | A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. \| evomap |

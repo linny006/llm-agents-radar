@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-12T10:29:55Z",
+    "updated_at": "2026-08-12T10:33:49Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T10:32:04Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
+    "id": "LikeMirage/Tiance",
+    "language": "Python",
+    "name": "LikeMirage/Tiance",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:30:25Z",
+    "url": "https://github.com/LikeMirage/Tiance"
   },
   {
     "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T10:16:16Z",
     "url": "https://github.com/EyalShahaf/mobile-log-triage"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
-    "id": "LikeMirage/Tiance",
-    "language": "Python",
-    "name": "LikeMirage/Tiance",
-    "stars": 0,
-    "updated_at": "2026-08-12T10:15:17Z",
-    "url": "https://github.com/LikeMirage/Tiance"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 90,
-    "updated_at": "2026-08-12T10:29:54Z",
+    "updated_at": "2026-08-12T10:34:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 16338,
     "updated_at": "2026-08-12T09:40:48Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T09:26:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
@@ -337,7 +337,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 672,
+    "stars": 673,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
