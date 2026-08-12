@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
     "stars": 69,
-    "updated_at": "2026-08-12T15:44:55Z",
+    "updated_at": "2026-08-12T16:00:05Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-12T15:58:43Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6886,
+    "updated_at": "2026-08-12T15:57:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-12T15:57:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:54:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "From thought to skill. From signal to structure.",
+    "id": "agentsope/SkillAlchemy",
+    "language": "Python",
+    "name": "agentsope/SkillAlchemy",
+    "stars": 301,
+    "updated_at": "2026-08-12T15:53:08Z",
+    "url": "https://github.com/agentsope/SkillAlchemy"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:48:46Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -126,15 +180,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6886,
-    "updated_at": "2026-08-12T15:11:24Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T15:17:23Z",
+    "updated_at": "2026-08-12T15:52:58Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -198,24 +243,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "From thought to skill. From signal to structure.",
-    "id": "agentsope/SkillAlchemy",
-    "language": "Python",
-    "name": "agentsope/SkillAlchemy",
-    "stars": 301,
-    "updated_at": "2026-08-12T15:43:28Z",
-    "url": "https://github.com/agentsope/SkillAlchemy"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-12T14:54:17Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
     "id": "Kishore-dev-21/DataMind_AI",
     "language": "TypeScript",
@@ -243,15 +270,6 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:17:28Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Self-hosted SRE orchestration for business teams: MCP + logs + config + ITSM, no platform conflict \u00b7 \u4e1a\u52a1\u7ec4\u5185\u7f51 \u00b7 \u8584\u7f16\u6392\u5c42 \u00b7 on-c",
     "id": "shanananana/deepticket",
     "language": "Python",
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:07:03Z",
     "url": "https://github.com/guuzaa/oven-llm"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-12T15:41:43Z",
-    "url": "https://github.com/dsswift/ion"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -304,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:39:49Z",
     "url": "https://github.com/Athas-Ed/Logos"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:37:28Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
     "description": "Octomind Agents Registry",
