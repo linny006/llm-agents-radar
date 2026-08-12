@@ -1,5 +1,23 @@
 [
   {
+    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
+    "id": "Kishore-dev-21/DataMind_AI",
+    "language": "TypeScript",
+    "name": "Kishore-dev-21/DataMind_AI",
+    "stars": 0,
+    "updated_at": "2026-08-12T12:29:19Z",
+    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
+  },
+  {
+    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
+    "id": "Giggitycountless/LOL-AI-Intelligence",
+    "language": "Rust",
+    "name": "Giggitycountless/LOL-AI-Intelligence",
+    "stars": 1,
+    "updated_at": "2026-08-12T12:22:50Z",
+    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 90,
-    "updated_at": "2026-08-12T12:04:17Z",
+    "updated_at": "2026-08-12T12:27:02Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 22,
     "updated_at": "2026-08-12T12:02:31Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
-    "id": "Kishore-dev-21/DataMind_AI",
-    "language": "TypeScript",
-    "name": "Kishore-dev-21/DataMind_AI",
-    "stars": 0,
-    "updated_at": "2026-08-12T12:01:56Z",
-    "url": "https://github.com/Kishore-dev-21/DataMind_AI"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4385,
-    "updated_at": "2026-08-12T12:14:08Z",
+    "updated_at": "2026-08-12T12:29:10Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T12:02:42Z",
+    "updated_at": "2026-08-12T12:25:55Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -241,6 +250,15 @@
     "stars": 3,
     "updated_at": "2026-08-12T10:22:44Z",
     "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5657,
+    "updated_at": "2026-08-12T10:19:21Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "A framework for building intelligent agents",
@@ -418,18 +436,9 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 681,
+    "stars": 685,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5656,
-    "updated_at": "2026-08-12T10:19:21Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-12T07:08:52Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A Hermes Agent skills tap - self-hosted service integrations (Radicale calendar, IKEA DIRIGERA lights, more to come).",
-    "id": "KoenradusXLVIII/hermes-skills",
-    "language": "Python",
-    "name": "KoenradusXLVIII/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:04:55Z",
-    "url": "https://github.com/KoenradusXLVIII/hermes-skills"
   }
 ]
