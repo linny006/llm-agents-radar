@@ -1,5 +1,32 @@
 [
   {
+    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
+    "id": "Crystalhihihi/minecraft-ai-building",
+    "language": "Python",
+    "name": "Crystalhihihi/minecraft-ai-building",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:35:25Z",
+    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:31:30Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
+    "id": "jman4162/agentic-phased-array-builder",
+    "language": "Python",
+    "name": "jman4162/agentic-phased-array-builder",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:30:25Z",
+    "url": "https://github.com/jman4162/agentic-phased-array-builder"
+  },
+  {
     "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
     "id": "Crystalhihihi/matmcp",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T15:27:46Z",
     "url": "https://github.com/Crystalhihihi/rusted-warfare-llm-pilot"
-  },
-  {
-    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
-    "id": "Crystalhihihi/minecraft-ai-building",
-    "language": "Python",
-    "name": "Crystalhihihi/minecraft-ai-building",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:26:30Z",
-    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -187,15 +205,6 @@
     "stars": 797,
     "updated_at": "2026-08-12T15:28:17Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:34:05Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T11:00:10Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:52:20Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   }
 ]
