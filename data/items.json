@@ -1,5 +1,41 @@
 [
   {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:57:20Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T03:59:25Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28850,
+    "updated_at": "2026-08-12T03:49:59Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "fullstack chat agent with authentication, request credits and payments built in",
+    "id": "langchain-ai/agent-auth-payments",
+    "language": "TypeScript",
+    "name": "langchain-ai/agent-auth-payments",
+    "stars": 201,
+    "updated_at": "2026-08-12T03:49:54Z",
+    "url": "https://github.com/langchain-ai/agent-auth-payments"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T03:31:29Z",
     "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T03:45:50Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T02:38:21Z",
+    "updated_at": "2026-08-12T04:00:00Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -400,7 +427,7 @@
     "id": "unohee/kis-agent",
     "language": "Python",
     "name": "unohee/kis-agent",
-    "stars": 51,
+    "stars": 50,
     "updated_at": "2026-08-12T01:32:13Z",
     "url": "https://github.com/unohee/kis-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-12T01:15:57Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Framework-agnostic AI agent skill: turn a plain-language goal into a real, time-blocked calendar \u2014 grounded in classic +",
-    "id": "frankjdwu/ai-daily-planner",
-    "language": "\u2014",
-    "name": "frankjdwu/ai-daily-planner",
-    "stars": 1,
-    "updated_at": "2026-08-12T01:06:47Z",
-    "url": "https://github.com/frankjdwu/ai-daily-planner"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 11,
-    "updated_at": "2026-08-12T01:05:57Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "fullstack chat agent with authentication, request credits and payments built in",
-    "id": "langchain-ai/agent-auth-payments",
-    "language": "TypeScript",
-    "name": "langchain-ai/agent-auth-payments",
-    "stars": 201,
-    "updated_at": "2026-08-12T01:00:46Z",
-    "url": "https://github.com/langchain-ai/agent-auth-payments"
   }
 ]
