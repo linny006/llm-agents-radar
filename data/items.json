@@ -1,5 +1,68 @@
 [
   {
+    "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
+    "id": "Crystalhihihi/matmcp",
+    "language": "Python",
+    "name": "Crystalhihihi/matmcp",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:28:20Z",
+    "url": "https://github.com/Crystalhihihi/matmcp"
+  },
+  {
+    "description": "\u94c1\u9508\u6218\u4e89\u5355\u673a LLM \u6307\u6325\u94fe\uff1ajavaagent \u5b9e\u65f6\u53d6\u6570 + Python \u5206\u5c42\u591a agent \u51b3\u7b56\uff08\u7eaf\u5355\u673a\u7814\u7a76\u9879\u76ee\uff0c\u4e25\u7981\u7528\u4e8e\u591a\u4eba\u5bf9\u6218\uff09",
+    "id": "Crystalhihihi/rusted-warfare-llm-pilot",
+    "language": "Python",
+    "name": "Crystalhihihi/rusted-warfare-llm-pilot",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:27:46Z",
+    "url": "https://github.com/Crystalhihihi/rusted-warfare-llm-pilot"
+  },
+  {
+    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
+    "id": "Crystalhihihi/minecraft-ai-building",
+    "language": "Python",
+    "name": "Crystalhihihi/minecraft-ai-building",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:26:30Z",
+    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4386,
+    "updated_at": "2026-08-12T15:24:49Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-12T15:20:38Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Runtime LLM agent for game NPCs: persona and player-state injection, tool calls, guardrails that survived live testing, ",
+    "id": "linynZ/chrono-npc-agent",
+    "language": "Python",
+    "name": "linynZ/chrono-npc-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:17:06Z",
+    "url": "https://github.com/linynZ/chrono-npc-agent"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-12T15:16:11Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -23,7 +86,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-12T15:09:59Z",
+    "updated_at": "2026-08-12T15:16:25Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T15:07:08Z",
+    "updated_at": "2026-08-12T15:17:23Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T14:59:18Z",
+    "updated_at": "2026-08-12T15:28:17Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:28:45Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4386,
-    "updated_at": "2026-08-12T15:08:05Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
@@ -194,7 +248,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-08-12T13:53:11Z",
+    "updated_at": "2026-08-12T15:18:52Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T10:52:20Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "R",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-12T10:52:16Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
-    "id": "dominikj111/Engram",
-    "language": "Rust",
-    "name": "dominikj111/Engram",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:05:02Z",
-    "url": "https://github.com/dominikj111/Engram"
-  },
-  {
-    "description": "Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning \u2014 desig",
-    "id": "EyalShahaf/mobile-log-triage",
-    "language": "HTML",
-    "name": "EyalShahaf/mobile-log-triage",
-    "stars": 0,
-    "updated_at": "2026-08-12T10:39:43Z",
-    "url": "https://github.com/EyalShahaf/mobile-log-triage"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-08-12T10:37:27Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
-    "id": "LikeMirage/Tiance",
-    "language": "Python",
-    "name": "LikeMirage/Tiance",
-    "stars": 0,
-    "updated_at": "2026-08-12T10:30:25Z",
-    "url": "https://github.com/LikeMirage/Tiance"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5658,
-    "updated_at": "2026-08-12T14:55:39Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
