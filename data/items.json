@@ -1,5 +1,140 @@
 [
   {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 12,
+    "updated_at": "2026-08-12T22:28:04Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:27:23Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:26:17Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:25:55Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:25:00Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 100,
+    "updated_at": "2026-08-12T22:23:55Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-08-12T22:23:33Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:23:02Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-12T22:22:51Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 32,
+    "updated_at": "2026-08-12T22:22:45Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "AI agent that reads sales meeting notes, decides the next action, drafts a follow-up email, and logs the decision. Built",
+    "id": "mohammedsalmankhan/meeting-followup-agent",
+    "language": "Python",
+    "name": "mohammedsalmankhan/meeting-followup-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:21:19Z",
+    "url": "https://github.com/mohammedsalmankhan/meeting-followup-agent"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:19:21Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-08-12T22:18:38Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:16:20Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:15:48Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
     "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
     "id": "heba-ramdan/harness",
     "language": "TypeScript",
@@ -18,15 +153,6 @@
     "url": "https://github.com/Ronit0p/AutoGod"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 100,
-    "updated_at": "2026-08-12T22:13:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
     "id": "lukky262/ARE",
     "language": "\u2014",
@@ -43,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T22:11:06Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-12T22:11:23Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -122,7 +239,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6888,
-    "updated_at": "2026-08-12T22:00:00Z",
+    "updated_at": "2026-08-12T22:29:37Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -297,15 +414,6 @@
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
   },
   {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 12,
-    "updated_at": "2026-08-12T19:44:22Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -340,113 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-12T19:25:30Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
-    "id": "Morephine/feltstate",
-    "language": "Python",
-    "name": "Morephine/feltstate",
-    "stars": 5,
-    "updated_at": "2026-08-12T18:55:24Z",
-    "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
-    "id": "Crystalhihihi/minecraft-ai-building",
-    "language": "Python",
-    "name": "Crystalhihihi/minecraft-ai-building",
-    "stars": 0,
-    "updated_at": "2026-08-12T18:48:46Z",
-    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
-  },
-  {
-    "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
-    "id": "Crystalhihihi/matmcp",
-    "language": "Python",
-    "name": "Crystalhihihi/matmcp",
-    "stars": 0,
-    "updated_at": "2026-08-12T18:48:42Z",
-    "url": "https://github.com/Crystalhihihi/matmcp"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-12T22:10:58Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4386,
-    "updated_at": "2026-08-12T18:34:01Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-12T18:05:49Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
-  },
-  {
-    "description": "Octomind Agents Registry",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-08-12T16:59:46Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16339,
-    "updated_at": "2026-08-12T16:57:44Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:45:40Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
-  },
-  {
-    "description": "From thought to skill. From signal to structure.",
-    "id": "agentsope/SkillAlchemy",
-    "language": "Python",
-    "name": "agentsope/SkillAlchemy",
-    "stars": 301,
-    "updated_at": "2026-08-12T16:44:28Z",
-    "url": "https://github.com/agentsope/SkillAlchemy"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 9,
-    "updated_at": "2026-08-12T16:39:22Z",
-    "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 69,
-    "updated_at": "2026-08-12T16:28:54Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
