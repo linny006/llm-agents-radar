@@ -1,5 +1,14 @@
 [
   {
+    "description": "Personal AI research and financial intelligence agent with governed tools, secure plugins, memory and self-evolution cap",
+    "id": "emrahbadas/CAKAL",
+    "language": "JavaScript",
+    "name": "emrahbadas/CAKAL",
+    "stars": 0,
+    "updated_at": "2026-08-12T21:26:22Z",
+    "url": "https://github.com/emrahbadas/CAKAL"
+  },
+  {
     "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
     "id": "benjaminjkern/hank",
     "language": "TypeScript",
@@ -58,7 +67,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 423,
+    "stars": 424,
     "updated_at": "2026-08-12T21:10:27Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T21:02:06Z",
     "url": "https://github.com/andersonlizarazo/opencode-config"
-  },
-  {
-    "description": "Personal AI research and financial intelligence agent with governed tools, secure plugins, memory and self-evolution cap",
-    "id": "emrahbadas/CAKAL",
-    "language": "JavaScript",
-    "name": "emrahbadas/CAKAL",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:01:53Z",
-    "url": "https://github.com/emrahbadas/CAKAL"
   },
   {
     "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-12T21:19:16Z",
+    "updated_at": "2026-08-12T21:26:39Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
