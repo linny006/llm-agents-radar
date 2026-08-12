@@ -1,5 +1,68 @@
 [
   {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-08-12T16:59:46Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-12T16:59:18Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-12T16:58:42Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16338,
+    "updated_at": "2026-08-12T16:57:44Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6886,
+    "updated_at": "2026-08-12T16:57:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T16:51:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
+    "id": "dakshitha-a/computational-chemistry-agent",
+    "language": "Python",
+    "name": "dakshitha-a/computational-chemistry-agent",
+    "stars": 0,
+    "updated_at": "2026-08-12T16:45:40Z",
+    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
+  },
+  {
     "description": "From thought to skill. From signal to structure.",
     "id": "agentsope/SkillAlchemy",
     "language": "Python",
@@ -13,18 +76,9 @@
     "id": "jonortega20/fantasybot",
     "language": "Python",
     "name": "jonortega20/fantasybot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-12T16:39:22Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16338,
-    "updated_at": "2026-08-12T16:38:24Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -72,15 +126,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:18:07Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
-  },
-  {
     "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "the-priest/PriestsBasilisk",
     "stars": 2,
-    "updated_at": "2026-08-12T16:17:20Z",
+    "updated_at": "2026-08-12T16:52:39Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
@@ -142,33 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-12T15:58:43Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6886,
-    "updated_at": "2026-08-12T15:57:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-12T15:57:15Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:54:15Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
@@ -378,15 +396,6 @@
     "url": "https://github.com/Athas-Ed/Logos"
   },
   {
-    "description": "Octomind Agents Registry",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-08-12T13:36:34Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T13:17:33Z",
     "url": "https://github.com/Mooncore-inc/demon-cry"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-12T12:43:59Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   }
 ]
