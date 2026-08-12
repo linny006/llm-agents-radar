@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T04:59:52Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:59:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:53:13Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 156,
+    "updated_at": "2026-08-12T04:52:40Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-12T04:52:19Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "The Most Unique DeepSeek Client.",
+    "id": "chickadeeer/abyssal",
+    "language": "Python",
+    "name": "chickadeeer/abyssal",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:42:04Z",
+    "url": "https://github.com/chickadeeer/abyssal"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -18,21 +72,12 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T04:19:42Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
     "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
     "id": "krish-patel-01/NEO",
     "language": "Python",
     "name": "krish-patel-01/NEO",
     "stars": 0,
-    "updated_at": "2026-08-12T04:18:13Z",
+    "updated_at": "2026-08-12T04:51:53Z",
     "url": "https://github.com/krish-patel-01/NEO"
   },
   {
@@ -252,15 +297,6 @@
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:09:16Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
     "id": "mohahasan/ios-agentic-skills",
     "language": "JavaScript",
@@ -351,29 +387,11 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 156,
-    "updated_at": "2026-08-12T02:28:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-12T02:26:27Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A framework for building intelligent agents",
     "id": "lkimuk/Wuwe",
     "language": "C++",
     "name": "lkimuk/Wuwe",
-    "stars": 49,
+    "stars": 50,
     "updated_at": "2026-08-12T02:24:21Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T04:07:55Z",
+    "updated_at": "2026-08-12T04:58:19Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T01:46:25Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-12T01:37:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
-    "id": "unohee/kis-agent",
-    "language": "Python",
-    "name": "unohee/kis-agent",
-    "stars": 50,
-    "updated_at": "2026-08-12T01:32:13Z",
-    "url": "https://github.com/unohee/kis-agent"
   }
 ]
