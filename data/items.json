@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6886,
+    "updated_at": "2026-08-12T17:35:26Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T17:32:52Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:31:06Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T17:10:34Z",
     "url": "https://github.com/benjaminjkern/hank"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6886,
-    "updated_at": "2026-08-12T17:05:35Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -112,7 +130,7 @@
     "id": "jonortega20/fantasybot",
     "language": "Python",
     "name": "jonortega20/fantasybot",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-12T16:39:22Z",
     "url": "https://github.com/jonortega20/fantasybot"
   },
@@ -133,15 +151,6 @@
     "stars": 69,
     "updated_at": "2026-08-12T16:28:54Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-12T16:28:49Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -166,7 +175,7 @@
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
     "name": "shouzhuoshouzhuo/FloatTrip",
-    "stars": 33,
+    "stars": 36,
     "updated_at": "2026-08-12T16:17:27Z",
     "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
   },
@@ -234,15 +243,6 @@
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T15:41:08Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
     "id": "Crystalhihihi/minecraft-ai-building",
     "language": "Python",
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4386,
-    "updated_at": "2026-08-12T16:37:49Z",
+    "updated_at": "2026-08-12T17:36:06Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
