@@ -1,5 +1,77 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-12T10:29:55Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u0394 Engram is a deterministic reasoning kernel \u2014 symbolic AI, a finite state machine, with configurable boundaries and sel",
+    "id": "dominikj111/Engram",
+    "language": "Rust",
+    "name": "dominikj111/Engram",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:24:20Z",
+    "url": "https://github.com/dominikj111/Engram"
+  },
+  {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-08-12T10:22:44Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:18:04Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "R",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:17:38Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "A framework for building intelligent agents",
+    "id": "lkimuk/Wuwe",
+    "language": "C++",
+    "name": "lkimuk/Wuwe",
+    "stars": 62,
+    "updated_at": "2026-08-12T10:17:31Z",
+    "url": "https://github.com/lkimuk/Wuwe"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-12T10:16:20Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning \u2014 desig",
+    "id": "EyalShahaf/mobile-log-triage",
+    "language": "HTML",
+    "name": "EyalShahaf/mobile-log-triage",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:16:16Z",
+    "url": "https://github.com/EyalShahaf/mobile-log-triage"
+  },
+  {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
     "id": "LikeMirage/Tiance",
     "language": "Python",
@@ -63,15 +135,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-12T10:13:58Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -79,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:55:14Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Shipping a Flutter app's logs into a central ELK cluster, then building an agent that triages them every morning \u2014 desig",
-    "id": "EyalShahaf/mobile-log-triage",
-    "language": "HTML",
-    "name": "EyalShahaf/mobile-log-triage",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:53:39Z",
-    "url": "https://github.com/EyalShahaf/mobile-log-triage"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 90,
-    "updated_at": "2026-08-12T10:07:31Z",
+    "updated_at": "2026-08-12T10:29:54Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -121,7 +175,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16337,
+    "stars": 16338,
     "updated_at": "2026-08-12T09:40:48Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:19:33Z",
     "url": "https://github.com/fightheyyy/barena"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:08:43Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -202,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28860,
+    "stars": 28862,
     "updated_at": "2026-08-12T08:49:15Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -292,7 +337,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 669,
+    "stars": 672,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -302,7 +347,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5656,
-    "updated_at": "2026-08-12T10:09:48Z",
+    "updated_at": "2026-08-12T10:19:21Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4384,
-    "updated_at": "2026-08-12T05:57:39Z",
+    "updated_at": "2026-08-12T10:19:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-12T05:30:02Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-12T05:24:11Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-12T05:20:14Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 0,
-    "updated_at": "2026-08-12T05:18:10Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
-    "id": "xcq20100224/Nolan",
-    "language": "Python",
-    "name": "xcq20100224/Nolan",
-    "stars": 11,
-    "updated_at": "2026-08-12T05:13:57Z",
-    "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "The Most Unique DeepSeek Client.",
-    "id": "chickadeeer/abyssal",
-    "language": "Python",
-    "name": "chickadeeer/abyssal",
-    "stars": 0,
-    "updated_at": "2026-08-12T04:42:04Z",
-    "url": "https://github.com/chickadeeer/abyssal"
   }
 ]
