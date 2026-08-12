@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T06:50:04Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
+    "id": "krish-patel-01/NEO",
+    "language": "Python",
+    "name": "krish-patel-01/NEO",
+    "stars": 0,
+    "updated_at": "2026-08-12T06:47:52Z",
+    "url": "https://github.com/krish-patel-01/NEO"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T06:46:01Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T06:45:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "Shell",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T06:18:54Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T06:36:59Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -162,24 +189,6 @@
     "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:15:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T05:15:08Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
     "id": "xcq20100224/Nolan",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-08-12T04:36:16Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
-    "id": "krish-patel-01/NEO",
-    "language": "Python",
-    "name": "krish-patel-01/NEO",
-    "stars": 0,
-    "updated_at": "2026-08-12T04:51:53Z",
-    "url": "https://github.com/krish-patel-01/NEO"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
