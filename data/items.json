@@ -1,11 +1,47 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T06:13:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-12T06:11:58Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T06:08:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u5355\u6587\u4ef6 AI \u667a\u80fd\u4f53\u5de5\u4f5c\u53f0\uff1a\u684c\u9762 + \u56fe\u6807 + \u7a97\u53e3\uff0c\u6bcf\u4e2a\u56fe\u6807 = \u4e00\u4e2a\u72ec\u7acb\u5bf9\u8bdd Agent\u3002Vue 3.5 + AI SDK v7\uff0c\u96f6\u6784\u5efa\u53cc\u51fb\u5373\u7528\uff0c\u5185\u7f6e\u53cc\u514d\u8d39\u6a21\u578b\u9884\u8bbe\u3001\u8054\u7f51\u641c\u7d22\u3001\u89c6\u89c9\u5de5\u5177\u3001\u8bb0\u5fc6\u81ea\u6cbb\u7406\u4e0e\u4efb\u52a1\u6cbb\u7406\u95e8\u7981\uff0c\u6570\u636e\u5168\u5728\u6d4f\u89c8\u5668\u672c\u5730\u3002",
+    "id": "kael-odin/Amadeus-Agent",
+    "language": "HTML",
+    "name": "kael-odin/Amadeus-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T06:00:39Z",
+    "url": "https://github.com/kael-odin/Amadeus-Agent"
+  },
+  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5656,
-    "updated_at": "2026-08-12T05:58:34Z",
+    "updated_at": "2026-08-12T06:14:37Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 46,
     "updated_at": "2026-08-12T05:42:03Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T05:59:49Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -113,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-12T05:47:43Z",
+    "updated_at": "2026-08-12T06:01:06Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/krish-patel-01/NEO"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-12T04:05:52Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -196,15 +214,6 @@
     "stars": 4383,
     "updated_at": "2026-08-12T05:57:39Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T04:00:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T02:48:10Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-12T02:47:41Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
