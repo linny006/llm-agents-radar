@@ -1,19 +1,46 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-12T17:48:43Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6886,
-    "updated_at": "2026-08-12T17:35:26Z",
+    "updated_at": "2026-08-12T17:44:58Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:40:06Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
+    "id": "benjaminjkern/hank",
+    "language": "TypeScript",
+    "name": "benjaminjkern/hank",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:39:56Z",
+    "url": "https://github.com/benjaminjkern/hank"
   },
   {
     "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 90,
+    "stars": 91,
     "updated_at": "2026-08-12T17:32:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -34,15 +61,6 @@
     "stars": 95,
     "updated_at": "2026-08-12T17:30:08Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
-    "id": "benjaminjkern/hank",
-    "language": "TypeScript",
-    "name": "benjaminjkern/hank",
-    "stars": 1,
-    "updated_at": "2026-08-12T17:10:34Z",
-    "url": "https://github.com/benjaminjkern/hank"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -79,15 +97,6 @@
     "stars": 159,
     "updated_at": "2026-08-12T16:59:18Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:25:03Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
@@ -133,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T16:39:22Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T16:37:46Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
