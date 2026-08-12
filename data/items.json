@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T04:19:42Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
+    "id": "krish-patel-01/NEO",
+    "language": "Python",
+    "name": "krish-patel-01/NEO",
+    "stars": 0,
+    "updated_at": "2026-08-12T04:18:13Z",
+    "url": "https://github.com/krish-patel-01/NEO"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -135,15 +153,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:23:35Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -151,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T03:22:33Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
-    "id": "krish-patel-01/NEO",
-    "language": "Python",
-    "name": "krish-patel-01/NEO",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:20:50Z",
-    "url": "https://github.com/krish-patel-01/NEO"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -391,7 +391,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 59,
+    "stars": 60,
     "updated_at": "2026-08-12T01:58:11Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
