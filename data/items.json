@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-12T05:24:11Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-12T05:20:14Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 0,
+    "updated_at": "2026-08-12T05:18:10Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T05:15:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -18,30 +54,12 @@
     "url": "https://github.com/xcq20100224/Nolan"
   },
   {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 0,
-    "updated_at": "2026-08-12T05:09:18Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-12T05:08:47Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 796,
-    "updated_at": "2026-08-12T05:05:46Z",
+    "updated_at": "2026-08-12T05:25:01Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -207,15 +225,6 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T03:27:51Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -340,15 +349,6 @@
     "stars": 4,
     "updated_at": "2026-08-12T03:08:11Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-12T03:06:33Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
