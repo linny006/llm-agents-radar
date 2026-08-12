@@ -1,5 +1,131 @@
 [
   {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:29:45Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-12T03:28:54Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:27:51Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:24:59Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T03:25:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:24:19Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
+    "description": "Agent \u8fd0\u884c\u65f6 \u2014 \u4e09\u7c7b\u5e94\u7528\uff08\u7f16\u7801/\u5ba2\u670d/RAG\uff09\u00b7 \u591a app HTTP \u00b7 \u8bc1\u636e\u5316\u6587\u6863\u6392\u969c \u00b7 Harness/StepWatcher\uff08v0.5.1\uff09",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:23:35Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "language": "Python",
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-08-12T03:22:33Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
+  },
+  {
+    "description": "A ReAct agent with self-hosted SearXNG web search and Wolfram Alpha, running on Groq",
+    "id": "krish-patel-01/NEO",
+    "language": "Python",
+    "name": "krish-patel-01/NEO",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:20:50Z",
+    "url": "https://github.com/krish-patel-01/NEO"
+  },
+  {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:20:31Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
+    "id": "Arjunadh5305/ios-skills-collection",
+    "language": "\u2014",
+    "name": "Arjunadh5305/ios-skills-collection",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:20:30Z",
+    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
+  },
+  {
+    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
+    "id": "Stolas34/voice-input-src",
+    "language": "\u2014",
+    "name": "Stolas34/voice-input-src",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:20:10Z",
+    "url": "https://github.com/Stolas34/voice-input-src"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:18:08Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:16:50Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
     "id": "mezoali100/exforum-auto-poster",
     "language": "\u2014",
@@ -34,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T03:11:40Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T03:13:07Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -176,7 +293,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5656,
-    "updated_at": "2026-08-12T03:05:10Z",
+    "updated_at": "2026-08-12T03:26:28Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -214,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T01:57:28Z",
     "url": "https://github.com/benjaminjkern/hank"
-  },
-  {
-    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
-    "id": "KiKDraS/mtg-life-counter-app",
-    "language": "TypeScript",
-    "name": "KiKDraS/mtg-life-counter-app",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:12:39Z",
-    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -270,15 +378,6 @@
     "url": "https://github.com/unohee/kis-agent"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-12T01:26:48Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -315,15 +414,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T01:02:18Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "fullstack chat agent with authentication, request credits and payments built in",
     "id": "langchain-ai/agent-auth-payments",
     "language": "TypeScript",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T00:17:37Z",
     "url": "https://github.com/Ediebah/clinical-insight-agent"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-12T00:19:33Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:09:24Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:14:37Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13746,
-    "updated_at": "2026-08-11T23:12:42Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-11T22:47:14Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 84,
-    "updated_at": "2026-08-11T22:45:39Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 308,
-    "updated_at": "2026-08-11T22:34:36Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-08-11T22:32:34Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-11T23:00:17Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6884,
-    "updated_at": "2026-08-12T02:26:21Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
