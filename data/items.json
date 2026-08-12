@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6886,
+    "updated_at": "2026-08-12T18:31:02Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T18:10:41Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6886,
-    "updated_at": "2026-08-12T17:44:58Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T18:07:58Z",
+    "updated_at": "2026-08-12T18:30:32Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
