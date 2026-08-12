@@ -1,5 +1,23 @@
 [
   {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2619,
+    "updated_at": "2026-08-12T23:44:48Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 12,
+    "updated_at": "2026-08-12T23:42:35Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "jonortega20/fantasybot",
     "stars": 10,
-    "updated_at": "2026-08-12T23:33:07Z",
+    "updated_at": "2026-08-12T23:45:17Z",
     "url": "https://github.com/jonortega20/fantasybot"
   },
   {
@@ -59,17 +77,8 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-12T23:21:33Z",
+    "updated_at": "2026-08-12T23:43:51Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 12,
-    "updated_at": "2026-08-12T23:20:31Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
@@ -439,14 +448,5 @@
     "stars": 424,
     "updated_at": "2026-08-12T21:10:27Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "My personal OpenCode configuration",
-    "id": "andersonlizarazo/opencode-config",
-    "language": "Shell",
-    "name": "andersonlizarazo/opencode-config",
-    "stars": 0,
-    "updated_at": "2026-08-12T21:02:06Z",
-    "url": "https://github.com/andersonlizarazo/opencode-config"
   }
 ]
