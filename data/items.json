@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T11:25:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4385,
+    "updated_at": "2026-08-12T11:20:26Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 33,
+    "updated_at": "2026-08-12T11:18:57Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 90,
-    "updated_at": "2026-08-12T11:08:32Z",
+    "updated_at": "2026-08-12T11:25:35Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -23,7 +50,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-12T11:07:29Z",
+    "updated_at": "2026-08-12T11:22:28Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -77,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T10:48:58Z",
+    "updated_at": "2026-08-12T11:22:15Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:32:04Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
     "id": "LikeMirage/Tiance",
     "language": "Python",
@@ -148,7 +166,7 @@
     "id": "lkimuk/Wuwe",
     "language": "C++",
     "name": "lkimuk/Wuwe",
-    "stars": 62,
+    "stars": 63,
     "updated_at": "2026-08-12T10:17:31Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
@@ -373,7 +391,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 675,
+    "stars": 677,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -394,6 +412,15 @@
     "stars": 4,
     "updated_at": "2026-08-12T07:08:52Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A Hermes Agent skills tap - self-hosted service integrations (Radicale calendar, IKEA DIRIGERA lights, more to come).",
+    "id": "KoenradusXLVIII/hermes-skills",
+    "language": "Python",
+    "name": "KoenradusXLVIII/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:04:55Z",
+    "url": "https://github.com/KoenradusXLVIII/hermes-skills"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T06:40:15Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
-    "id": "metric-space-ai/greppy",
-    "language": "Rust",
-    "name": "metric-space-ai/greppy",
-    "stars": 8,
-    "updated_at": "2026-08-12T07:16:14Z",
-    "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "\u5355\u6587\u4ef6 AI \u667a\u80fd\u4f53\u5de5\u4f5c\u53f0\uff1a\u684c\u9762 + \u56fe\u6807 + \u7a97\u53e3\uff0c\u6bcf\u4e2a\u56fe\u6807 = \u4e00\u4e2a\u72ec\u7acb\u5bf9\u8bdd Agent\u3002Vue 3.5 + AI SDK v7\uff0c\u96f6\u6784\u5efa\u53cc\u51fb\u5373\u7528\uff0c\u5185\u7f6e\u53cc\u514d\u8d39\u6a21\u578b\u9884\u8bbe\u3001\u8054\u7f51\u641c\u7d22\u3001\u89c6\u89c9\u5de5\u5177\u3001\u8bb0\u5fc6\u81ea\u6cbb\u7406\u4e0e\u4efb\u52a1\u6cbb\u7406\u95e8\u7981\uff0c\u6570\u636e\u5168\u5728\u6d4f\u89c8\u5668\u672c\u5730\u3002",
-    "id": "kael-odin/Amadeus-Agent",
-    "language": "HTML",
-    "name": "kael-odin/Amadeus-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T06:00:39Z",
-    "url": "https://github.com/kael-odin/Amadeus-Agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4384,
-    "updated_at": "2026-08-12T11:09:01Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
