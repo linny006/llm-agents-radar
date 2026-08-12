@@ -1,5 +1,50 @@
 [
   {
+    "description": "All-in-one agent harness for Claude Code \u2014 Boss meta-orchestrator, 32 curated agents, 139 curated skills, 2 named workfl",
+    "id": "sehoon787/my-claude",
+    "language": "JavaScript",
+    "name": "sehoon787/my-claude",
+    "stars": 16,
+    "updated_at": "2026-08-12T08:52:01Z",
+    "url": "https://github.com/sehoon787/my-claude"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 7,
+    "updated_at": "2026-08-12T08:56:43Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28860,
+    "updated_at": "2026-08-12T08:49:15Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T08:47:35Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 95,
+    "updated_at": "2026-08-12T08:47:00Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "AI Agents \u2022 LLMs \u2022 Intelligent Automation \u2022 Building practical AI-powered systems",
     "id": "poladai/poladai",
     "language": "\u2014",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "lostinheaven-knt/chatbi-harness",
     "stars": 0,
-    "updated_at": "2026-08-12T08:37:26Z",
+    "updated_at": "2026-08-12T08:57:41Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T08:34:26Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T08:40:25Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,15 +117,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28859,
-    "updated_at": "2026-08-12T08:10:52Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-12T08:39:36Z",
+    "updated_at": "2026-08-12T08:46:26Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -112,7 +139,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6884,
+    "stars": 6885,
     "updated_at": "2026-08-12T07:59:56Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T07:55:53Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 7,
-    "updated_at": "2026-08-12T07:53:42Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
@@ -184,7 +202,7 @@
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 651,
+    "stars": 655,
     "updated_at": "2026-08-12T07:10:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T03:24:19Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
-    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "language": "Python",
-    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
-    "stars": 5,
-    "updated_at": "2026-08-12T03:22:33Z",
-    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-12T03:20:31Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
