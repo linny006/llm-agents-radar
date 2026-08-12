@@ -1,5 +1,32 @@
 [
   {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:31:29Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T03:35:43Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-12T03:30:26Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
     "id": "EpsteinF1les/tts",
     "language": "\u2014",
@@ -27,6 +54,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3039,
+    "updated_at": "2026-08-12T03:26:46Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
     "id": "Vuongngu8186/langgraph-langchain-agent-setup",
     "language": "\u2014",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T03:24:59Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T03:25:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -283,7 +310,7 @@
     "id": "lkimuk/Wuwe",
     "language": "C++",
     "name": "lkimuk/Wuwe",
-    "stars": 47,
+    "stars": 48,
     "updated_at": "2026-08-12T02:24:21Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
@@ -421,32 +448,5 @@
     "stars": 201,
     "updated_at": "2026-08-12T01:00:46Z",
     "url": "https://github.com/langchain-ai/agent-auth-payments"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 2,
-    "updated_at": "2026-08-12T00:38:50Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 4,
-    "updated_at": "2026-08-12T00:25:41Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "AI agent doing end-to-end data science over a dbt-modeled synthetic healthcare warehouse",
-    "id": "Ediebah/clinical-insight-agent",
-    "language": "Python",
-    "name": "Ediebah/clinical-insight-agent",
-    "stars": 1,
-    "updated_at": "2026-08-12T00:17:37Z",
-    "url": "https://github.com/Ediebah/clinical-insight-agent"
   }
 ]
