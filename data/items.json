@@ -1,5 +1,77 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:23:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 156,
+    "updated_at": "2026-08-12T13:23:33Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:23:01Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:22:05Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
+    "id": "yigitxenes/StockPredictionWithAI",
+    "language": "Python",
+    "name": "yigitxenes/StockPredictionWithAI",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:21:36Z",
+    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3043,
+    "updated_at": "2026-08-12T13:29:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Demon Cry - AI-powered OSINT engine",
+    "id": "Mooncore-inc/demon-cry",
+    "language": "Python",
+    "name": "Mooncore-inc/demon-cry",
+    "stars": 0,
+    "updated_at": "2026-08-12T13:17:33Z",
+    "url": "https://github.com/Mooncore-inc/demon-cry"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T13:29:24Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -25,15 +97,6 @@
     "stars": 159,
     "updated_at": "2026-08-12T13:03:43Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T13:11:40Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T12:59:58Z",
+    "updated_at": "2026-08-12T13:26:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -126,15 +189,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:59:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -142,24 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T11:57:45Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 156,
-    "updated_at": "2026-08-12T11:53:14Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:51:59Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The self-improving SRE agent",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4385,
-    "updated_at": "2026-08-12T13:07:18Z",
+    "updated_at": "2026-08-12T13:29:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T08:34:26Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-12T08:13:10Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6886,
-    "updated_at": "2026-08-12T07:59:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:43:45Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
-    "id": "jman4162/agentic-phased-array-builder",
-    "language": "Python",
-    "name": "jman4162/agentic-phased-array-builder",
-    "stars": 1,
-    "updated_at": "2026-08-12T07:12:37Z",
-    "url": "https://github.com/jman4162/agentic-phased-array-builder"
   }
 ]
