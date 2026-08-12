@@ -22,7 +22,7 @@
     "id": "lkimuk/Wuwe",
     "language": "C++",
     "name": "lkimuk/Wuwe",
-    "stars": 46,
+    "stars": 47,
     "updated_at": "2026-08-12T02:24:21Z",
     "url": "https://github.com/lkimuk/Wuwe"
   },
@@ -81,12 +81,21 @@
     "url": "https://github.com/benjaminjkern/hank"
   },
   {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:56:14Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-12T01:49:16Z",
+    "updated_at": "2026-08-12T02:38:21Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-12T01:26:48Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
-    "id": "KiKDraS/mtg-life-counter-app",
-    "language": "TypeScript",
-    "name": "KiKDraS/mtg-life-counter-app",
-    "stars": 0,
-    "updated_at": "2026-08-12T01:56:14Z",
-    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",

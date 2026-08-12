@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 02:30 UTC
+> ⏰ Last updated: 2026-08-12 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,20 +44,20 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 156 | HTML | 2026-08-12 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-12 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 3 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 46 | C++ | 2026-08-12 | A framework for building intelligent agents |
+| 3 | [lkimuk/Wuwe](https://github.com/lkimuk/Wuwe) | 47 | C++ | 2026-08-12 | A framework for building intelligent agents |
 | 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-12 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 5 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5656 | Python | 2026-08-12 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-12 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 7 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5706 | Python | 2026-08-12 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 8 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 58 | JavaScript | 2026-08-12 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
 | 9 | [benjaminjkern/hank](https://github.com/benjaminjkern/hank) | 1 | TypeScript | 2026-08-12 | An AI agent that runs your job search — finds companies, scrapes their job boards, screens every role against your résum |
-| 10 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-12 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 12 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-12 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 13 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 14 | [unohee/kis-agent](https://github.com/unohee/kis-agent) | 51 | Python | 2026-08-12 | 한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent |
-| 15 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-12 |  Where intent meets code — a local AI coding agent          |
-| 16 | [KiKDraS/mtg-life-counter-app](https://github.com/KiKDraS/mtg-life-counter-app) | 0 | TypeScript | 2026-08-12 | PWA for Magic: The Gathering — life tracking at dice speed for 2–6 players, plus an AI rules judge grounded in the Compr |
+| 10 | [KiKDraS/mtg-life-counter-app](https://github.com/KiKDraS/mtg-life-counter-app) | 0 | TypeScript | 2026-08-12 | PWA for Magic: The Gathering — life tracking at dice speed for 2–6 players, plus an AI rules judge grounded in the Compr |
+| 11 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-12 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-12 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 13 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 3 | Python | 2026-08-12 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 14 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-12 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 15 | [unohee/kis-agent](https://github.com/unohee/kis-agent) | 51 | Python | 2026-08-12 | 한국투자증권 OpenAPI Python 래퍼 — CLI · Python SDK · LLM Agent · 실시간 WebSocket. 문서: unohee.github.io/kis-agent |
+| 16 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 7 | Python | 2026-08-12 |  Where intent meets code — a local AI coding agent          |
 | 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-12 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 18 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-12 | 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心，SWE-bench_Lite 官方评测 36.7% 实例级通过率（可复现报告）。支持 7 |
 | 19 | [frankjdwu/ai-daily-planner](https://github.com/frankjdwu/ai-daily-planner) | 1 | — | 2026-08-12 | Framework-agnostic AI agent skill: turn a plain-language goal into a real, time-blocked calendar — grounded in classic + |
