@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 69,
+    "updated_at": "2026-08-12T15:44:55Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:42:17Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-12T15:42:09Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-12T15:41:08Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
     "id": "Crystalhihihi/minecraft-ai-building",
     "language": "Python",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4386,
-    "updated_at": "2026-08-12T15:24:49Z",
+    "updated_at": "2026-08-12T15:40:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "agentsope/SkillAlchemy",
     "stars": 301,
-    "updated_at": "2026-08-12T14:56:40Z",
+    "updated_at": "2026-08-12T15:43:28Z",
     "url": "https://github.com/agentsope/SkillAlchemy"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 159,
     "updated_at": "2026-08-12T14:54:17Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:45:36Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-12T15:28:17Z",
+    "updated_at": "2026-08-12T15:42:39Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:28:45Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "The Open Source Agent Harness Framework. Agentic Programming Paradigm.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-12T14:18:43Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-08-12T15:18:52Z",
+    "updated_at": "2026-08-12T15:41:43Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 33,
     "updated_at": "2026-08-12T11:18:57Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 95,
-    "updated_at": "2026-08-12T11:04:37Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
-    "id": "maisieyang/build-my-own-harness",
-    "language": "Python",
-    "name": "maisieyang/build-my-own-harness",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:00:10Z",
-    "url": "https://github.com/maisieyang/build-my-own-harness"
   }
 ]
