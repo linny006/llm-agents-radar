@@ -1,5 +1,32 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-12T01:37:42Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-12T01:37:30Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 51,
+    "updated_at": "2026-08-12T01:32:13Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -16,6 +43,15 @@
     "stars": 1,
     "updated_at": "2026-08-12T01:21:53Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-08-12T01:37:14Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -88,15 +124,6 @@
     "stars": 201,
     "updated_at": "2026-08-12T01:00:46Z",
     "url": "https://github.com/langchain-ai/agent-auth-payments"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-12T01:29:52Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -220,7 +247,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 83,
+    "stars": 84,
     "updated_at": "2026-08-11T22:45:39Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "Maximooch/penguin",
     "stars": 6,
-    "updated_at": "2026-08-12T00:51:08Z",
+    "updated_at": "2026-08-12T01:30:16Z",
     "url": "https://github.com/Maximooch/penguin"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-11T20:20:26Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-11T20:16:55Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Reads a failing GitHub Actions run, works out what broke and where, and proposes a patch. A patch only counts if rerunni",
-    "id": "rajeev-chaurasia/build-sleuth",
-    "language": "Python",
-    "name": "rajeev-chaurasia/build-sleuth",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:15:36Z",
-    "url": "https://github.com/rajeev-chaurasia/build-sleuth"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:12:09Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
