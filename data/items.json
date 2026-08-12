@@ -1,5 +1,41 @@
 [
   {
+    "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
+    "id": "Morephine/feltstate",
+    "language": "Python",
+    "name": "Morephine/feltstate",
+    "stars": 5,
+    "updated_at": "2026-08-12T18:55:24Z",
+    "url": "https://github.com/Morephine/feltstate"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-12T18:53:49Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
+    "id": "Crystalhihihi/minecraft-ai-building",
+    "language": "Python",
+    "name": "Crystalhihihi/minecraft-ai-building",
+    "stars": 0,
+    "updated_at": "2026-08-12T18:48:46Z",
+    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
+  },
+  {
+    "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
+    "id": "Crystalhihihi/matmcp",
+    "language": "Python",
+    "name": "Crystalhihihi/matmcp",
+    "stars": 0,
+    "updated_at": "2026-08-12T18:48:42Z",
+    "url": "https://github.com/Crystalhihihi/matmcp"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6886,
-    "updated_at": "2026-08-12T18:31:02Z",
+    "updated_at": "2026-08-12T18:49:54Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -90,21 +126,12 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:53:51Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-12T18:10:41Z",
+    "updated_at": "2026-08-12T18:46:56Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
-    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
-    "id": "Crystalhihihi/minecraft-ai-building",
-    "language": "Python",
-    "name": "Crystalhihihi/minecraft-ai-building",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:35:25Z",
-    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
-  },
-  {
     "description": "LLM-driven phased-array antenna design & analysis via MCP tools \u2014 unit-cell simulation, array patterns, system trades",
     "id": "jman4162/agentic-phased-array-builder",
     "language": "Python",
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T15:30:25Z",
     "url": "https://github.com/jman4162/agentic-phased-array-builder"
-  },
-  {
-    "description": "Verified DFT workflow MCP toolchain: dual-engine (GPAW/QE), convergence gates that actually gate, runtime results-vs-Mat",
-    "id": "Crystalhihihi/matmcp",
-    "language": "Python",
-    "name": "Crystalhihihi/matmcp",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:28:20Z",
-    "url": "https://github.com/Crystalhihihi/matmcp"
   },
   {
     "description": "\u94c1\u9508\u6218\u4e89\u5355\u673a LLM \u6307\u6325\u94fe\uff1ajavaagent \u5b9e\u65f6\u53d6\u6570 + Python \u5206\u5c42\u591a agent \u51b3\u7b56\uff08\u7eaf\u5355\u673a\u7814\u7a76\u9879\u76ee\uff0c\u4e25\u7981\u7528\u4e8e\u591a\u4eba\u5bf9\u6218\uff09",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:35:19Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3045,
-    "updated_at": "2026-08-12T13:29:44Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
