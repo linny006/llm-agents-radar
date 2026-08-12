@@ -1,5 +1,14 @@
 [
   {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 95,
+    "updated_at": "2026-08-12T17:30:08Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "An AI agent that runs your job search \u2014 finds companies, scrapes their job boards, screens every role against your r\u00e9sum",
     "id": "benjaminjkern/hank",
     "language": "TypeScript",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-12T17:14:56Z",
+    "updated_at": "2026-08-12T17:25:03Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -346,7 +355,7 @@
     "id": "Kishore-dev-21/DataMind_AI",
     "language": "TypeScript",
     "name": "Kishore-dev-21/DataMind_AI",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-12T14:41:49Z",
     "url": "https://github.com/Kishore-dev-21/DataMind_AI"
   },
@@ -414,6 +423,15 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3044,
+    "updated_at": "2026-08-12T13:29:44Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T13:22:05Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
-    "id": "yigitxenes/StockPredictionWithAI",
-    "language": "Python",
-    "name": "yigitxenes/StockPredictionWithAI",
-    "stars": 1,
-    "updated_at": "2026-08-12T13:21:36Z",
-    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3043,
-    "updated_at": "2026-08-12T13:29:44Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   }
 ]
