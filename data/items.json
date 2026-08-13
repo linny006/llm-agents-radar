@@ -1,12 +1,66 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T08:14:57Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T08:14:59Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 3,
-    "updated_at": "2026-08-13T08:01:58Z",
+    "updated_at": "2026-08-13T08:13:02Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u751f\u4ea7\u7ea7 3GPP 5G \u89c4\u8303 RAG Agent\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee\uff0c\u56de\u7b54\u5e26\u6bb5\u843d\u7ea7\u539f\u6587\u5f15\u7528 + \u4e25\u683c grounding\uff0c\u8986\u76d6 Rel-18/19 \u5168\u90e8 TS\u3002",
+    "id": "EpisodeYu/3GPP-Everything",
+    "language": "Python",
+    "name": "EpisodeYu/3GPP-Everything",
+    "stars": 15,
+    "updated_at": "2026-08-13T08:11:14Z",
+    "url": "https://github.com/EpisodeYu/3GPP-Everything"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-13T08:07:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 75,
+    "updated_at": "2026-08-13T08:07:19Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 10,
+    "updated_at": "2026-08-13T08:03:44Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T07:59:34Z",
     "url": "https://github.com/sjkwon-1023/langgraph_cad"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T08:03:52Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -153,15 +198,6 @@
     "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-13T06:47:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -214,24 +250,6 @@
     "stars": 159,
     "updated_at": "2026-08-13T06:14:28Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:11:21Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-13T08:03:44Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -414,20 +432,11 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 75,
-    "updated_at": "2026-08-13T05:33:27Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "A travel planning Agent powered by LangGraph, Amap POI, route clustering and LLM-based itinerary generation.",
     "id": "shouzhuoshouzhuo/FloatTrip",
     "language": "Python",
     "name": "shouzhuoshouzhuo/FloatTrip",
-    "stars": 45,
+    "stars": 46,
     "updated_at": "2026-08-13T05:31:40Z",
     "url": "https://github.com/shouzhuoshouzhuo/FloatTrip"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T05:31:30Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-08-13T05:29:04Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
