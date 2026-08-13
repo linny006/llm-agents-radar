@@ -1,5 +1,50 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T04:29:56Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 74,
+    "updated_at": "2026-08-13T04:24:10Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "LangGraph-based regulatory compliance intelligence agent for consumer electronics exporters \u2014 plans retrieval strategy, ",
+    "id": "LingyiMeng01/RegPilot",
+    "language": "Python",
+    "name": "LingyiMeng01/RegPilot",
+    "stars": 1,
+    "updated_at": "2026-08-13T04:24:35Z",
+    "url": "https://github.com/LingyiMeng01/RegPilot"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T04:27:23Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 28897,
+    "updated_at": "2026-08-13T04:17:58Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T04:09:38Z",
+    "updated_at": "2026-08-13T04:24:20Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-13T04:08:16Z",
+    "updated_at": "2026-08-13T04:18:35Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T04:05:02Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T04:13:33Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -178,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T02:56:22Z",
     "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T02:42:00Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:31:46Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:30:35Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:27:23Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:26:17Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
