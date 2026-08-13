@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 111,
-    "updated_at": "2026-08-13T06:57:39Z",
+    "updated_at": "2026-08-13T07:13:53Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
+    "id": "Athas-Ed/Logos",
+    "language": "Python",
+    "name": "Athas-Ed/Logos",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:12:37Z",
+    "url": "https://github.com/Athas-Ed/Logos"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:11:29Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "\u5355\u6587\u4ef6 AI \u667a\u80fd\u4f53\u5de5\u4f5c\u53f0\uff1a\u684c\u9762 + \u56fe\u6807 + \u7a97\u53e3\uff0c\u6bcf\u4e2a\u56fe\u6807 = \u4e00\u4e2a\u72ec\u7acb\u5bf9\u8bdd Agent\u3002Vue 3.5 + AI SDK v7\uff0c\u96f6\u6784\u5efa\u53cc\u51fb\u5373\u7528\uff0c\u5185\u7f6e\u53cc\u514d\u8d39\u6a21\u578b\u9884\u8bbe\u3001\u8054\u7f51\u641c\u7d22\u3001\u89c6\u89c9\u5de5\u5177\u3001\u8bb0\u5fc6\u81ea\u6cbb\u7406\u4e0e\u4efb\u52a1\u6cbb\u7406\u95e8\u7981\uff0c\u6570\u636e\u5168\u5728\u6d4f\u89c8\u5668\u672c\u5730\u3002",
@@ -14,8 +32,35 @@
     "language": "HTML",
     "name": "kael-odin/Amadeus-Agent",
     "stars": 1,
-    "updated_at": "2026-08-13T06:54:05Z",
+    "updated_at": "2026-08-13T07:08:05Z",
     "url": "https://github.com/kael-odin/Amadeus-Agent"
+  },
+  {
+    "description": "A verification-first AI agent harness \u2014 one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 1,
+    "updated_at": "2026-08-13T07:06:13Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 329,
+    "updated_at": "2026-08-13T07:03:15Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-13T07:00:26Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T06:35:22Z",
+    "updated_at": "2026-08-13T07:12:16Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 156,
     "updated_at": "2026-08-13T06:23:19Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-13T06:58:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T05:18:45Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-13T05:16:52Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:14:52Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "",
-    "id": "JortegaR/ai-notes-api",
-    "language": "JavaScript",
-    "name": "JortegaR/ai-notes-api",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:13:33Z",
-    "url": "https://github.com/JortegaR/ai-notes-api"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-13T05:12:56Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
