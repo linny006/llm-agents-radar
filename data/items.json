@@ -1,5 +1,59 @@
 [
   {
+    "description": "A self-hosted Agent Skills marketplace",
+    "id": "nanoinfraorg/skills-server",
+    "language": "Go",
+    "name": "nanoinfraorg/skills-server",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:58:38Z",
+    "url": "https://github.com/nanoinfraorg/skills-server"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 10,
+    "updated_at": "2026-08-13T03:53:14Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T03:53:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:52:22Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 106,
+    "updated_at": "2026-08-13T03:48:53Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
+    "id": "dakshitha-a/computational-chemistry-agent",
+    "language": "Python",
+    "name": "dakshitha-a/computational-chemistry-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:46:10Z",
+    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
+  },
+  {
     "description": "The benchmark tasks and evaluation harness for \"PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments\".",
     "id": "HealthRex/PhysicianBench",
     "language": "Python",
@@ -9,21 +63,12 @@
     "url": "https://github.com/HealthRex/PhysicianBench"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T03:43:30Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-13T03:43:33Z",
+    "updated_at": "2026-08-13T03:48:24Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 5660,
     "updated_at": "2026-08-13T03:38:33Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 105,
-    "updated_at": "2026-08-13T03:34:05Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T03:17:56Z",
+    "updated_at": "2026-08-13T03:51:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T03:17:25Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A self-hosted Agent Skills marketplace",
-    "id": "nanoinfraorg/skills-server",
-    "language": "Go",
-    "name": "nanoinfraorg/skills-server",
-    "stars": 0,
-    "updated_at": "2026-08-13T03:16:11Z",
-    "url": "https://github.com/nanoinfraorg/skills-server"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
@@ -124,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T02:42:00Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-13T02:39:01Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T02:30:52Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "dsswift/ion",
     "stars": 4,
-    "updated_at": "2026-08-13T00:34:14Z",
+    "updated_at": "2026-08-13T03:55:25Z",
     "url": "https://github.com/dsswift/ion"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:25:55Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:25:00Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
