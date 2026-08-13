@@ -5,8 +5,35 @@
     "language": "TypeScript",
     "name": "sergezuber/FABULA-LLM-5",
     "stars": 96,
-    "updated_at": "2026-08-13T12:08:41Z",
+    "updated_at": "2026-08-13T12:13:44Z",
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-13T12:13:37Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T12:14:44Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 13,
+    "updated_at": "2026-08-13T12:11:44Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -43,15 +70,6 @@
     "stars": 797,
     "updated_at": "2026-08-13T12:02:59Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-13T12:00:45Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
@@ -126,15 +144,6 @@
     "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T11:59:26Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T11:16:28Z",
     "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 13,
-    "updated_at": "2026-08-13T11:08:16Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3052,
-    "updated_at": "2026-08-13T12:05:59Z",
+    "updated_at": "2026-08-13T12:10:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {

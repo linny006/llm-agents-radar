@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 12:09 UTC
+> ⏰ Last updated: 2026-08-13 12:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,26 +43,26 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [sergezuber/FABULA-LLM-5](https://github.com/sergezuber/FABULA-LLM-5) | 96 | TypeScript | 2026-08-13 | The agent harness that makes small local models finish hard tasks — and prove it. Done is enforced by the engine, not th |
-| 2 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-08-13 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
-| 3 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-13 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 4 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 75 | JavaScript | 2026-08-13 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
-| 5 | [helixml/helix](https://github.com/helixml/helix) | 797 | Go | 2026-08-13 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 6 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-13 | 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6. |
-| 7 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 792 | Python | 2026-08-13 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
-| 8 | [Athas-Ed/Logos](https://github.com/Athas-Ed/Logos) | 1 | Python | 2026-08-13 | 面向游戏叙事创作者的本地智能写作助手Agent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+. |
-| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 10 | [cse-creative-systems-engineering/aios](https://github.com/cse-creative-systems-engineering/aios) | 0 | Rust | 2026-08-13 | Aios — Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and |
-| 11 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 13 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 14 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 2 | Go | 2026-08-13 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 15 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-13 | A productive AI coworker that learns, self-improves, and ships work. |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [srilahari-nori/ReviewMind](https://github.com/srilahari-nori/ReviewMind) | 0 | Python | 2026-08-13 | Autonomous AI agent that reviews GitHub pull requests via GitHub Actions — reasons about risk, code quality, and test co |
-| 18 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 19 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-13 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
-| 20 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-13 | Pi's coding agent ported to Rust |
-| 21 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-13 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 2 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-13 | 开源终端 AI 编程 Agent：以在线 Evidence Runtime 验证链（LLM 输出是 Claim、工具结果才是 Evidence）为核心。SWE-bench_Lite 官方评测 40.0% 实例级通过率（同模型 A/B +6. |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-13 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-13 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 5 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-08-13 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
+| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-13 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 7 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 75 | JavaScript | 2026-08-13 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
+| 8 | [helixml/helix](https://github.com/helixml/helix) | 797 | Go | 2026-08-13 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 9 | [Pan-Chera/Multi-Agent-CAD](https://github.com/Pan-Chera/Multi-Agent-CAD) | 792 | Python | 2026-08-13 | MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute |
+| 10 | [Athas-Ed/Logos](https://github.com/Athas-Ed/Logos) | 1 | Python | 2026-08-13 | 面向游戏叙事创作者的本地智能写作助手Agent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+. |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [cse-creative-systems-engineering/aios](https://github.com/cse-creative-systems-engineering/aios) | 0 | Rust | 2026-08-13 | Aios — Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and |
+| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 16 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 2 | Go | 2026-08-13 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 18 | [srilahari-nori/ReviewMind](https://github.com/srilahari-nori/ReviewMind) | 0 | Python | 2026-08-13 | Autonomous AI agent that reviews GitHub pull requests via GitHub Actions — reasons about risk, code quality, and test co |
+| 19 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 20 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-13 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
+| 21 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-13 | Pi's coding agent ported to Rust |
 | 22 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5664 | Python | 2026-08-13 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 23 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-13 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
 | 24 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-13 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
