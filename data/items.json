@@ -1,12 +1,66 @@
 [
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
+    "id": "Athas-Ed/Logos",
+    "language": "Python",
+    "name": "Athas-Ed/Logos",
+    "stars": 1,
+    "updated_at": "2026-08-13T11:56:52Z",
+    "url": "https://github.com/Athas-Ed/Logos"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-13T11:43:20Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:56:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:53:43Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:53:32Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 156,
+    "updated_at": "2026-08-13T11:53:03Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:52:26Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:51:57Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,17 +68,17 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T11:44:50Z",
+    "updated_at": "2026-08-13T11:59:26Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 1,
-    "updated_at": "2026-08-13T11:33:20Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-13T11:43:20Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Autonomous AI agent that reviews GitHub pull requests via GitHub Actions \u2014 reasons about risk, code quality, and test co",
@@ -72,15 +126,6 @@
     "url": "https://github.com/y0usaf/pi-rs"
   },
   {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:13:18Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -90,13 +135,13 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:07:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5664,
+    "updated_at": "2026-08-13T11:05:19Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T11:08:35Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T10:59:52Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -216,30 +252,12 @@
     "url": "https://github.com/LikeMirage/Tiance"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 156,
-    "updated_at": "2026-08-13T10:14:51Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:14:01Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-13T11:40:01Z",
+    "updated_at": "2026-08-13T11:48:17Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 7,
     "updated_at": "2026-08-13T09:58:24Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5663,
-    "updated_at": "2026-08-13T11:05:19Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Demon Cry - AI-powered OSINT engine",
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3052,
-    "updated_at": "2026-08-13T11:39:16Z",
+    "updated_at": "2026-08-13T11:58:03Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T08:57:30Z",
     "url": "https://github.com/sjkwon-1023/langgraph_cad"
-  },
-  {
-    "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
-    "id": "Athas-Ed/Logos",
-    "language": "Python",
-    "name": "Athas-Ed/Logos",
-    "stars": 1,
-    "updated_at": "2026-08-13T07:12:37Z",
-    "url": "https://github.com/Athas-Ed/Logos"
   }
 ]
