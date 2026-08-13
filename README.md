@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 15:45 UTC
+> ⏰ Last updated: 2026-08-13 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ConradLu2740/pa-dsh](https://github.com/ConradLu2740/pa-dsh) | 0 | JavaScript | 2026-08-13 | ProactiveAgent × DeepSeek Harness 插件组：把主动记忆 + 主动建议接入 DSH（6 个 cordis 插件，引擎零重写） |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 111 | Python | 2026-08-13 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
-| 3 | [yuyu0529nya/YuResearchAgent](https://github.com/yuyu0529nya/YuResearchAgent) | 4 | Python | 2026-08-13 | Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an |
-| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-13 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6898 | Python | 2026-08-13 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-08-13 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an |
-| 8 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 1 | TypeScript | 2026-08-13 | Mnemon 与 DSH 的深度集成插件，为 DSH 提供完备的本地三层记忆体能力：Runtime Memory、可检索 Documents 与受监督 Memory Spaces。 |
-| 9 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 13 | Python | 2026-08-13 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
-| 10 | [chyoyoo776-ui/eda-agent](https://github.com/chyoyoo776-ui/eda-agent) | 0 | Python | 2026-08-13 | Autonomous ReAct agent for exploratory data analysis — self-diagnoses failure modes via real debugging, validated across |
-| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-13 | A productive AI coworker that learns, self-improves, and ships work. |
-| 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 13 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 15 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-13 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 69 | Python | 2026-08-13 | 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 \| Visual RPA for WeChat |
-| 18 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 2 | Go | 2026-08-13 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 19 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3053 | Python | 2026-08-13 | SRE Agent - CNCF Sandbox Project |
-| 20 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 1 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
-| 21 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-08-13 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
-| 22 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-13 | 🤖 Lightweight, message-first agent runtime |
-| 23 | [xiaoyesoso/XTAO](https://github.com/xiaoyesoso/XTAO) | 1 | Python | 2026-08-13 | Agent 规划与执行框架｜Plan 即运行时对象｜G4C 五要素 + TAO 步骤级执行 + Replan 自我修正 + 失败回溯 + 信任状态管理 |
-| 24 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 69 | Python | 2026-08-13 | 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 \| Visual RPA for WeChat |
+| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 3 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-08-13 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an |
+| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 5 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3053 | Python | 2026-08-13 | SRE Agent - CNCF Sandbox Project |
+| 6 | [ConradLu2740/pa-dsh](https://github.com/ConradLu2740/pa-dsh) | 0 | JavaScript | 2026-08-13 | ProactiveAgent × DeepSeek Harness 插件组：把主动记忆 + 主动建议接入 DSH（6 个 cordis 插件，引擎零重写） |
+| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6898 | Python | 2026-08-13 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 8 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 111 | Python | 2026-08-13 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
+| 9 | [yuyu0529nya/YuResearchAgent](https://github.com/yuyu0529nya/YuResearchAgent) | 4 | Python | 2026-08-13 | Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an |
+| 10 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-13 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 1 | TypeScript | 2026-08-13 | Mnemon 与 DSH 的深度集成插件，为 DSH 提供完备的本地三层记忆体能力：Runtime Memory、可检索 Documents 与受监督 Memory Spaces。 |
+| 13 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 13 | Python | 2026-08-13 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
+| 14 | [chyoyoo776-ui/eda-agent](https://github.com/chyoyoo776-ui/eda-agent) | 0 | Python | 2026-08-13 | Autonomous ReAct agent for exploratory data analysis — self-diagnoses failure modes via real debugging, validated across |
+| 15 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-13 | A productive AI coworker that learns, self-improves, and ships work. |
+| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 18 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 19 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-13 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 20 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 2 | Go | 2026-08-13 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 21 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 3 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
+| 22 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-08-13 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
+| 23 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-13 | 🤖 Lightweight, message-first agent runtime |
+| 24 | [xiaoyesoso/XTAO](https://github.com/xiaoyesoso/XTAO) | 1 | Python | 2026-08-13 | Agent 规划与执行框架｜Plan 即运行时对象｜G4C 五要素 + TAO 步骤级执行 + Replan 自我修正 + 失败回溯 + 信任状态管理 |
 | 25 | [haibingzhao/easyai](https://github.com/haibingzhao/easyai) | 1 | Kotlin | 2026-08-13 | Use AI to Create AI — Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie |
 | 26 | [lostinheaven-knt/chatbi-harness](https://github.com/lostinheaven-knt/chatbi-harness) | 0 | Python | 2026-08-13 | Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g |
 | 27 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 76 | JavaScript | 2026-08-13 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
