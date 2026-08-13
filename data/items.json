@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-13T04:40:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-13T04:33:05Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T04:43:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -13,7 +40,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 74,
+    "stars": 75,
     "updated_at": "2026-08-13T04:24:10Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -27,20 +54,11 @@
     "url": "https://github.com/LingyiMeng01/RegPilot"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T04:27:23Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28897,
+    "stars": 28898,
     "updated_at": "2026-08-13T04:17:58Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -70,15 +88,6 @@
     "stars": 582,
     "updated_at": "2026-08-13T04:07:12Z",
     "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-13T04:18:35Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 10,
-    "updated_at": "2026-08-13T03:53:14Z",
+    "updated_at": "2026-08-13T04:45:15Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -130,7 +139,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 106,
+    "stars": 108,
     "updated_at": "2026-08-13T03:48:53Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:32:07Z",
     "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:31:46Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
