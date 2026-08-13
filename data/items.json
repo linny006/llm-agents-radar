@@ -1,12 +1,12 @@
 [
   {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 76,
-    "updated_at": "2026-08-13T16:32:30Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3054,
+    "updated_at": "2026-08-13T16:43:12Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "hec-ovi/censurado-web-brain",
     "stars": 1,
-    "updated_at": "2026-08-13T16:32:12Z",
+    "updated_at": "2026-08-13T16:41:56Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-13T16:38:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:35:34Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
+    "description": "[Beta] Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 77,
+    "updated_at": "2026-08-13T16:32:30Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 3,
+    "updated_at": "2026-08-13T16:29:54Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
@@ -58,7 +94,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 6,
+    "stars": 8,
     "updated_at": "2026-08-13T16:21:01Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3054,
-    "updated_at": "2026-08-13T16:06:47Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-08-13T15:38:57Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u4e09\u5c42\u8bb0\u5fc6\u4f53\u80fd\u529b\uff1aRuntime Memory\u3001\u53ef\u68c0\u7d22 Documents \u4e0e\u53d7\u76d1\u7763 Memory Spaces\u3002",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 1,
-    "updated_at": "2026-08-13T15:20:05Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
@@ -324,15 +342,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-13T16:19:38Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
     "id": "dakshitha-a/computational-chemistry-agent",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-13T16:28:04Z",
+    "updated_at": "2026-08-13T16:39:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:45:54Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:44:40Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
   }
 ]
