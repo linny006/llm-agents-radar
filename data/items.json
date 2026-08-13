@@ -1,5 +1,14 @@
 [
   {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2619,
+    "updated_at": "2026-08-13T00:26:13Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
     "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
     "id": "dakshitha-a/computational-chemistry-agent",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-13T00:07:31Z",
+    "updated_at": "2026-08-13T00:30:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -106,15 +115,6 @@
     "stars": 10,
     "updated_at": "2026-08-12T23:45:17Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2619,
-    "updated_at": "2026-08-12T23:44:48Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
