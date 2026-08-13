@@ -1,5 +1,32 @@
 [
   {
+    "description": "ProactiveAgent \u00d7 DeepSeek Harness \u63d2\u4ef6\u7ec4\uff1a\u628a\u4e3b\u52a8\u8bb0\u5fc6 + \u4e3b\u52a8\u5efa\u8bae\u63a5\u5165 DSH\uff086 \u4e2a cordis \u63d2\u4ef6\uff0c\u5f15\u64ce\u96f6\u91cd\u5199\uff09",
+    "id": "ConradLu2740/pa-dsh",
+    "language": "JavaScript",
+    "name": "ConradLu2740/pa-dsh",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:44:52Z",
+    "url": "https://github.com/ConradLu2740/pa-dsh"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 111,
+    "updated_at": "2026-08-13T15:44:06Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-13T15:42:47Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -7,6 +34,15 @@
     "stars": 4,
     "updated_at": "2026-08-13T15:38:57Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6898,
+    "updated_at": "2026-08-13T15:33:56Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -18,15 +54,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6897,
-    "updated_at": "2026-08-13T15:33:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
     "id": "hec-ovi/censurado-web-brain",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T15:30:32Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 111,
-    "updated_at": "2026-08-13T15:30:18Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u4e09\u5c42\u8bb0\u5fc6\u4f53\u80fd\u529b\uff1aRuntime Memory\u3001\u53ef\u68c0\u7d22 Documents \u4e0e\u53d7\u76d1\u7763 Memory Spaces\u3002",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T15:01:04Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 4,
-    "updated_at": "2026-08-13T14:57:37Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-13T13:46:14Z",
+    "updated_at": "2026-08-13T15:42:09Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:39:39Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-13T12:38:19Z",
-    "url": "https://github.com/dsswift/ion"
   }
 ]
