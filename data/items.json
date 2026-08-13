@@ -1,12 +1,48 @@
 [
   {
+    "description": "The benchmark tasks and evaluation harness for \"PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments\".",
+    "id": "HealthRex/PhysicianBench",
+    "language": "Python",
+    "name": "HealthRex/PhysicianBench",
+    "stars": 50,
+    "updated_at": "2026-08-13T03:44:18Z",
+    "url": "https://github.com/HealthRex/PhysicianBench"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T03:28:40Z",
+    "updated_at": "2026-08-13T03:43:30Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-13T03:43:33Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5660,
+    "updated_at": "2026-08-13T03:38:33Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 105,
+    "updated_at": "2026-08-13T03:34:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -61,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T03:15:32Z",
     "url": "https://github.com/maisieyang/build-my-own-harness"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-13T03:24:33Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 104,
-    "updated_at": "2026-08-13T02:58:50Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -193,7 +211,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5713,
+    "stars": 5714,
     "updated_at": "2026-08-13T02:07:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -220,7 +238,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2621,
+    "stars": 2622,
     "updated_at": "2026-08-13T01:40:01Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:25:00Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-08-12T22:23:33Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:23:02Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   }
 ]
