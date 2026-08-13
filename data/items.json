@@ -1,12 +1,12 @@
 [
   {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-13T22:01:20Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
+    "description": "Starter kit for DeepSeek Harness personal-adaptation derivatives \u2014 what Hermes Harness is, 3-step install, usage example",
+    "id": "h565656445/dsh-starter-kit",
+    "language": "\u2014",
+    "name": "h565656445/dsh-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:13:11Z",
+    "url": "https://github.com/h565656445/dsh-starter-kit"
   },
   {
     "description": "LLM agent control-plane design guide for DeepSeek Harness \u2014 control loops, worker protocol, approval boundaries, observa",
@@ -14,7 +14,7 @@
     "language": "\u2014",
     "name": "h565656445/dsh-llm-agent-harness-guide",
     "stars": 0,
-    "updated_at": "2026-08-13T22:01:07Z",
+    "updated_at": "2026-08-13T22:11:41Z",
     "url": "https://github.com/h565656445/dsh-llm-agent-harness-guide"
   },
   {
@@ -23,7 +23,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-integration",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:56Z",
+    "updated_at": "2026-08-13T22:11:23Z",
     "url": "https://github.com/h565656445/dsh-integration"
   },
   {
@@ -32,7 +32,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-harness-core",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:48Z",
+    "updated_at": "2026-08-13T22:11:16Z",
     "url": "https://github.com/h565656445/dsh-harness-core"
   },
   {
@@ -41,7 +41,7 @@
     "language": "\u2014",
     "name": "h565656445/dsh-architecture-guide",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:17Z",
+    "updated_at": "2026-08-13T22:10:50Z",
     "url": "https://github.com/h565656445/dsh-architecture-guide"
   },
   {
@@ -50,7 +50,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-agent-os-worker-protocol",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:13Z",
+    "updated_at": "2026-08-13T22:10:47Z",
     "url": "https://github.com/h565656445/dsh-agent-os-worker-protocol"
   },
   {
@@ -59,7 +59,7 @@
     "language": "\u2014",
     "name": "h565656445/dsh-agent-os-specs",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:09Z",
+    "updated_at": "2026-08-13T22:10:43Z",
     "url": "https://github.com/h565656445/dsh-agent-os-specs"
   },
   {
@@ -68,7 +68,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-agent-os-runtime",
     "stars": 0,
-    "updated_at": "2026-08-13T22:00:01Z",
+    "updated_at": "2026-08-13T22:10:35Z",
     "url": "https://github.com/h565656445/dsh-agent-os-runtime"
   },
   {
@@ -77,7 +77,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-agent-os-planning",
     "stars": 0,
-    "updated_at": "2026-08-13T21:59:57Z",
+    "updated_at": "2026-08-13T22:10:31Z",
     "url": "https://github.com/h565656445/dsh-agent-os-planning"
   },
   {
@@ -86,8 +86,17 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-agent-os-observability",
     "stars": 0,
-    "updated_at": "2026-08-13T21:59:53Z",
+    "updated_at": "2026-08-13T22:10:27Z",
     "url": "https://github.com/h565656445/dsh-agent-os-observability"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:09:15Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -124,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T21:52:48Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Starter kit for DeepSeek Harness personal-adaptation derivatives \u2014 what Hermes Harness is, 3-step install, usage example",
-    "id": "h565656445/dsh-starter-kit",
-    "language": "\u2014",
-    "name": "h565656445/dsh-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:51:17Z",
-    "url": "https://github.com/h565656445/dsh-starter-kit"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4387,
-    "updated_at": "2026-08-13T21:23:50Z",
+    "updated_at": "2026-08-13T22:11:42Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
