@@ -1,5 +1,23 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-13T20:39:17Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:35:25Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-08-13T20:25:51Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "End-to-end ML system predicting clinical toxicity & FDA approval from molecular structure (ClinTox). RDKit cheminformati",
+    "id": "SoodeDashti/clintox-toxicity-fda-prediction",
+    "language": "HTML",
+    "name": "SoodeDashti/clintox-toxicity-fda-prediction",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:21:54Z",
+    "url": "https://github.com/SoodeDashti/clintox-toxicity-fda-prediction"
   },
   {
     "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
@@ -54,29 +81,11 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-13T19:54:39Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:53:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 116,
+    "stars": 117,
     "updated_at": "2026-08-13T19:41:07Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T17:21:51Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:20:43Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
