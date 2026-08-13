@@ -1,12 +1,12 @@
 [
   {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:28:16Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 95,
+    "updated_at": "2026-08-13T07:35:03Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,17 +14,26 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T07:26:30Z",
+    "updated_at": "2026-08-13T07:43:29Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 95,
-    "updated_at": "2026-08-13T07:17:57Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3051,
+    "updated_at": "2026-08-13T07:45:17Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:28:16Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T07:15:35Z",
+    "updated_at": "2026-08-13T07:45:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T05:25:17Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:24:06Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
