@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:23:33Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Agentic pipeline that fact-checks SEC 10-K growth claims against independently calculated XBRL data, with human-in-the-l",
     "id": "nico-earth/sec-intelligence-mcp",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-13T01:10:52Z",
+    "updated_at": "2026-08-13T01:22:33Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 101,
-    "updated_at": "2026-08-13T01:10:13Z",
+    "updated_at": "2026-08-13T01:27:39Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 159,
     "updated_at": "2026-08-12T23:38:34Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-12T23:34:12Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
