@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-08-13T22:01:20Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "LLM agent control-plane design guide for DeepSeek Harness \u2014 control loops, worker protocol, approval boundaries, observa",
+    "id": "h565656445/dsh-llm-agent-harness-guide",
+    "language": "\u2014",
+    "name": "h565656445/dsh-llm-agent-harness-guide",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:01:07Z",
+    "url": "https://github.com/h565656445/dsh-llm-agent-harness-guide"
+  },
+  {
+    "description": "Master integration for DeepSeek Harness personal-adaptation derivatives \u2014 40-project catalog + one-click preset installe",
+    "id": "h565656445/dsh-integration",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-integration",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:56Z",
+    "url": "https://github.com/h565656445/dsh-integration"
+  },
+  {
+    "description": "Hermes Harness core control plane for DeepSeek Harness \u2014 task contract, routing, safety gates, supervised worker (PowerS",
+    "id": "h565656445/dsh-harness-core",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-harness-core",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:48Z",
+    "url": "https://github.com/h565656445/dsh-harness-core"
+  },
+  {
+    "description": "Hermes Harness architecture guide for DeepSeek Harness \u2014 control loop, authority boundaries, five-phase lifecycle (bilin",
+    "id": "h565656445/dsh-architecture-guide",
+    "language": "\u2014",
+    "name": "h565656445/dsh-architecture-guide",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:17Z",
+    "url": "https://github.com/h565656445/dsh-architecture-guide"
+  },
+  {
+    "description": "Agent OS unified worker protocol for DeepSeek Harness \u2014 Prepare/Accept/Inspect seam with recomputable evidence hashes",
+    "id": "h565656445/dsh-agent-os-worker-protocol",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-worker-protocol",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:13Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-worker-protocol"
+  },
+  {
     "description": "The five Agent OS specification documents \u2014 runtime kernel, planning loop, worker protocol, scheduler, observability (au",
     "id": "h565656445/dsh-agent-os-specs",
     "language": "\u2014",
@@ -36,15 +90,6 @@
     "url": "https://github.com/h565656445/dsh-agent-os-observability"
   },
   {
-    "description": "LLM agent control-plane design guide for DeepSeek Harness \u2014 control loops, worker protocol, approval boundaries, observa",
-    "id": "h565656445/dsh-llm-agent-harness-guide",
-    "language": "\u2014",
-    "name": "h565656445/dsh-llm-agent-harness-guide",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:55:47Z",
-    "url": "https://github.com/h565656445/dsh-llm-agent-harness-guide"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:54:49Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Hermes Harness architecture guide for DeepSeek Harness \u2014 control loop, authority boundaries, five-phase lifecycle (bilin",
-    "id": "h565656445/dsh-architecture-guide",
-    "language": "\u2014",
-    "name": "h565656445/dsh-architecture-guide",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:54:30Z",
-    "url": "https://github.com/h565656445/dsh-architecture-guide"
-  },
-  {
-    "description": "Agent OS unified worker protocol for DeepSeek Harness \u2014 Prepare/Accept/Inspect seam with recomputable evidence hashes",
-    "id": "h565656445/dsh-agent-os-worker-protocol",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-worker-protocol",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:00:13Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-worker-protocol"
   },
   {
     "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
@@ -108,24 +135,6 @@
     "url": "https://github.com/h565656445/dsh-starter-kit"
   },
   {
-    "description": "Master integration for DeepSeek Harness personal-adaptation derivatives \u2014 40-project catalog + one-click preset installe",
-    "id": "h565656445/dsh-integration",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-integration",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:51:13Z",
-    "url": "https://github.com/h565656445/dsh-integration"
-  },
-  {
-    "description": "Hermes Harness core control plane for DeepSeek Harness \u2014 task contract, routing, safety gates, supervised worker (PowerS",
-    "id": "h565656445/dsh-harness-core",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-harness-core",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:51:09Z",
-    "url": "https://github.com/h565656445/dsh-harness-core"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -142,15 +151,6 @@
     "stars": 159,
     "updated_at": "2026-08-13T21:42:06Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:38:44Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",

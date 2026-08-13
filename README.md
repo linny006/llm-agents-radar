@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 22:00 UTC
+> ⏰ Last updated: 2026-08-13 22:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [h565656445/dsh-agent-os-specs](https://github.com/h565656445/dsh-agent-os-specs) | 0 | — | 2026-08-13 | The five Agent OS specification documents — runtime kernel, planning loop, worker protocol, scheduler, observability (au |
-| 2 | [h565656445/dsh-agent-os-runtime](https://github.com/h565656445/dsh-agent-os-runtime) | 0 | PowerShell | 2026-08-13 | Agent OS runtime kernel for DeepSeek Harness — task contract, hash-chained ledger recovery, lifecycle control (PowerShel |
-| 3 | [h565656445/dsh-agent-os-planning](https://github.com/h565656445/dsh-agent-os-planning) | 0 | PowerShell | 2026-08-13 | Agent OS planning loop for DeepSeek Harness — compiles long-term goals into a dependency-ordered task graph with human-a |
-| 4 | [h565656445/dsh-agent-os-observability](https://github.com/h565656445/dsh-agent-os-observability) | 0 | PowerShell | 2026-08-13 | Agent OS observability, cost & quality gates for DeepSeek Harness — unified ledger, stage reserves, token cost and quali |
-| 5 | [h565656445/dsh-llm-agent-harness-guide](https://github.com/h565656445/dsh-llm-agent-harness-guide) | 0 | — | 2026-08-13 | LLM agent control-plane design guide for DeepSeek Harness — control loops, worker protocol, approval boundaries, observa |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [h565656445/dsh-architecture-guide](https://github.com/h565656445/dsh-architecture-guide) | 0 | — | 2026-08-13 | Hermes Harness architecture guide for DeepSeek Harness — control loop, authority boundaries, five-phase lifecycle (bilin |
-| 8 | [h565656445/dsh-agent-os-worker-protocol](https://github.com/h565656445/dsh-agent-os-worker-protocol) | 0 | PowerShell | 2026-08-13 | Agent OS unified worker protocol for DeepSeek Harness — Prepare/Accept/Inspect seam with recomputable evidence hashes |
-| 9 | [yuyu0529nya/YuResearchAgent](https://github.com/yuyu0529nya/YuResearchAgent) | 4 | Python | 2026-08-13 | Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an |
-| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [h565656445/dsh-starter-kit](https://github.com/h565656445/dsh-starter-kit) | 0 | — | 2026-08-13 | Starter kit for DeepSeek Harness personal-adaptation derivatives — what Hermes Harness is, 3-step install, usage example |
-| 13 | [h565656445/dsh-integration](https://github.com/h565656445/dsh-integration) | 0 | PowerShell | 2026-08-13 | Master integration for DeepSeek Harness personal-adaptation derivatives — 40-project catalog + one-click preset installe |
-| 14 | [h565656445/dsh-harness-core](https://github.com/h565656445/dsh-harness-core) | 0 | PowerShell | 2026-08-13 | Hermes Harness core control plane for DeepSeek Harness — task contract, routing, safety gates, supervised worker (PowerS |
-| 15 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-08-13 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an |
+| 1 | [hec-ovi/censurado-web-brain](https://github.com/hec-ovi/censurado-web-brain) | 1 | Python | 2026-08-13 | Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an |
+| 2 | [h565656445/dsh-llm-agent-harness-guide](https://github.com/h565656445/dsh-llm-agent-harness-guide) | 0 | — | 2026-08-13 | LLM agent control-plane design guide for DeepSeek Harness — control loops, worker protocol, approval boundaries, observa |
+| 3 | [h565656445/dsh-integration](https://github.com/h565656445/dsh-integration) | 0 | PowerShell | 2026-08-13 | Master integration for DeepSeek Harness personal-adaptation derivatives — 40-project catalog + one-click preset installe |
+| 4 | [h565656445/dsh-harness-core](https://github.com/h565656445/dsh-harness-core) | 0 | PowerShell | 2026-08-13 | Hermes Harness core control plane for DeepSeek Harness — task contract, routing, safety gates, supervised worker (PowerS |
+| 5 | [h565656445/dsh-architecture-guide](https://github.com/h565656445/dsh-architecture-guide) | 0 | — | 2026-08-13 | Hermes Harness architecture guide for DeepSeek Harness — control loop, authority boundaries, five-phase lifecycle (bilin |
+| 6 | [h565656445/dsh-agent-os-worker-protocol](https://github.com/h565656445/dsh-agent-os-worker-protocol) | 0 | PowerShell | 2026-08-13 | Agent OS unified worker protocol for DeepSeek Harness — Prepare/Accept/Inspect seam with recomputable evidence hashes |
+| 7 | [h565656445/dsh-agent-os-specs](https://github.com/h565656445/dsh-agent-os-specs) | 0 | — | 2026-08-13 | The five Agent OS specification documents — runtime kernel, planning loop, worker protocol, scheduler, observability (au |
+| 8 | [h565656445/dsh-agent-os-runtime](https://github.com/h565656445/dsh-agent-os-runtime) | 0 | PowerShell | 2026-08-13 | Agent OS runtime kernel for DeepSeek Harness — task contract, hash-chained ledger recovery, lifecycle control (PowerShel |
+| 9 | [h565656445/dsh-agent-os-planning](https://github.com/h565656445/dsh-agent-os-planning) | 0 | PowerShell | 2026-08-13 | Agent OS planning loop for DeepSeek Harness — compiles long-term goals into a dependency-ordered task graph with human-a |
+| 10 | [h565656445/dsh-agent-os-observability](https://github.com/h565656445/dsh-agent-os-observability) | 0 | PowerShell | 2026-08-13 | Agent OS observability, cost & quality gates for DeepSeek Harness — unified ledger, stage reserves, token cost and quali |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-13 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [yuyu0529nya/YuResearchAgent](https://github.com/yuyu0529nya/YuResearchAgent) | 4 | Python | 2026-08-13 | Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an |
+| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 157 | HTML | 2026-08-13 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-13 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 15 | [h565656445/dsh-starter-kit](https://github.com/h565656445/dsh-starter-kit) | 0 | — | 2026-08-13 | Starter kit for DeepSeek Harness personal-adaptation derivatives — what Hermes Harness is, 3-step install, usage example |
+| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-13 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 159 | HTML | 2026-08-13 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-13 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 19 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 10 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
 | 20 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-13 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
