@@ -1,5 +1,32 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-13T07:28:16Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T07:26:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 95,
+    "updated_at": "2026-08-13T07:17:57Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T07:00:26Z",
+    "updated_at": "2026-08-13T07:15:35Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-08-13T06:41:37Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T07:12:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
@@ -149,7 +167,7 @@
     "language": "JavaScript",
     "name": "sjkwon-1023/langgraph_cad",
     "stars": 1,
-    "updated_at": "2026-08-13T06:14:49Z",
+    "updated_at": "2026-08-13T07:26:24Z",
     "url": "https://github.com/sjkwon-1023/langgraph_cad"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T05:24:06Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Just Another AI Client (JAAC)",
-    "id": "Jacwoodhug/Just-Another-AI-Client",
-    "language": "JavaScript",
-    "name": "Jacwoodhug/Just-Another-AI-Client",
-    "stars": 0,
-    "updated_at": "2026-08-13T05:20:23Z",
-    "url": "https://github.com/Jacwoodhug/Just-Another-AI-Client"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-13T05:18:45Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
