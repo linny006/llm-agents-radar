@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T13:34:57Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:32:33Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-13T13:30:00Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-13T13:39:21Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T13:24:47Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T13:29:45Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Autonomous Bybit spot trading agent: an LLM proposes orders, a deterministic risk guard validates every one before it re",
@@ -140,7 +158,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3053,
-    "updated_at": "2026-08-13T13:11:18Z",
+    "updated_at": "2026-08-13T13:31:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T12:16:10Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:14:33Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "In-game coding agent that autonomously plans, builds and self-inspects Minecraft structures (custom MCP bridge, determin",
-    "id": "Crystalhihihi/minecraft-ai-building",
-    "language": "Python",
-    "name": "Crystalhihihi/minecraft-ai-building",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:14:29Z",
-    "url": "https://github.com/Crystalhihihi/minecraft-ai-building"
   }
 ]
