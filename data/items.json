@@ -1,5 +1,68 @@
 [
   {
+    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
+    "id": "sergezuber/FABULA-LLM-5",
+    "language": "TypeScript",
+    "name": "sergezuber/FABULA-LLM-5",
+    "stars": 96,
+    "updated_at": "2026-08-13T12:08:41Z",
+    "url": "https://github.com/sergezuber/FABULA-LLM-5"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:06:57Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:05:43Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 75,
+    "updated_at": "2026-08-13T12:05:19Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-13T12:02:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-13T12:00:45Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 792,
+    "updated_at": "2026-08-13T11:59:56Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
     "description": "\u9762\u5411\u6e38\u620f\u53d9\u4e8b\u521b\u4f5c\u8005\u7684\u672c\u5730\u667a\u80fd\u5199\u4f5c\u52a9\u624bAgent. Electron desktop, React GUI, MCP skills, RAG, OpenAI-compatible LLM. Python 3.11+.",
     "id": "Athas-Ed/Logos",
     "language": "Python",
@@ -40,7 +103,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 156,
+    "stars": 157,
     "updated_at": "2026-08-13T11:53:03Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -99,15 +162,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-13T11:23:14Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -151,24 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T11:08:35Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 96,
-    "updated_at": "2026-08-13T10:56:40Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 75,
-    "updated_at": "2026-08-13T10:49:22Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -250,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T10:18:36Z",
     "url": "https://github.com/LikeMirage/Tiance"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-13T11:48:17Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3052,
-    "updated_at": "2026-08-13T11:58:03Z",
+    "updated_at": "2026-08-13T12:05:59Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-13T08:11:14Z",
     "url": "https://github.com/EpisodeYu/3GPP-Everything"
-  },
-  {
-    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
-    "id": "synapseorch-ai/synapse-ai",
-    "language": "Python",
-    "name": "synapseorch-ai/synapse-ai",
-    "stars": 310,
-    "updated_at": "2026-08-13T08:03:43Z",
-    "url": "https://github.com/synapseorch-ai/synapse-ai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6894,
-    "updated_at": "2026-08-13T08:01:42Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "langgraph graphic design tool",
-    "id": "sjkwon-1023/langgraph_cad",
-    "language": "JavaScript",
-    "name": "sjkwon-1023/langgraph_cad",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:57:30Z",
-    "url": "https://github.com/sjkwon-1023/langgraph_cad"
   }
 ]
