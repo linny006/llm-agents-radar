@@ -1,12 +1,12 @@
 [
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T20:08:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6902,
+    "updated_at": "2026-08-13T20:27:20Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "hec-ovi/censurado-web-brain",
     "stars": 1,
-    "updated_at": "2026-08-13T20:05:18Z",
+    "updated_at": "2026-08-13T20:25:51Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-13T20:20:12Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:08:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -34,15 +52,6 @@
     "stars": 3055,
     "updated_at": "2026-08-13T20:02:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6902,
-    "updated_at": "2026-08-13T19:55:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -67,7 +76,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 115,
+    "stars": 116,
     "updated_at": "2026-08-13T19:41:07Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T17:20:43Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:17:49Z",
-    "url": "https://github.com/adamskijow/Hob"
   }
 ]
