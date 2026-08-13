@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 111,
+    "updated_at": "2026-08-13T06:57:39Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u5355\u6587\u4ef6 AI \u667a\u80fd\u4f53\u5de5\u4f5c\u53f0\uff1a\u684c\u9762 + \u56fe\u6807 + \u7a97\u53e3\uff0c\u6bcf\u4e2a\u56fe\u6807 = \u4e00\u4e2a\u72ec\u7acb\u5bf9\u8bdd Agent\u3002Vue 3.5 + AI SDK v7\uff0c\u96f6\u6784\u5efa\u53cc\u51fb\u5373\u7528\uff0c\u5185\u7f6e\u53cc\u514d\u8d39\u6a21\u578b\u9884\u8bbe\u3001\u8054\u7f51\u641c\u7d22\u3001\u89c6\u89c9\u5de5\u5177\u3001\u8bb0\u5fc6\u81ea\u6cbb\u7406\u4e0e\u4efb\u52a1\u6cbb\u7406\u95e8\u7981\uff0c\u6570\u636e\u5168\u5728\u6d4f\u89c8\u5668\u672c\u5730\u3002",
+    "id": "kael-odin/Amadeus-Agent",
+    "language": "HTML",
+    "name": "kael-odin/Amadeus-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:54:05Z",
+    "url": "https://github.com/kael-odin/Amadeus-Agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-13T06:52:23Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
+    "id": "dakshitha-a/computational-chemistry-agent",
+    "language": "Python",
+    "name": "dakshitha-a/computational-chemistry-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T06:51:52Z",
+    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-13T06:47:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-13T06:43:50Z",
+    "updated_at": "2026-08-13T06:58:25Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 10,
     "updated_at": "2026-08-13T06:08:20Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 110,
-    "updated_at": "2026-08-13T06:14:10Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -412,41 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-13T05:12:56Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-13T05:12:41Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-13T05:10:33Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-08-13T05:04:26Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 779,
-    "updated_at": "2026-08-13T04:53:22Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
   }
 ]
