@@ -1,5 +1,86 @@
 [
   {
+    "description": "Starter kit for DeepSeek Harness personal-adaptation derivatives \u2014 what Hermes Harness is, 3-step install, usage example",
+    "id": "h565656445/dsh-starter-kit",
+    "language": "\u2014",
+    "name": "h565656445/dsh-starter-kit",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:44:09Z",
+    "url": "https://github.com/h565656445/dsh-starter-kit"
+  },
+  {
+    "description": "Master integration for DeepSeek Harness personal-adaptation derivatives \u2014 40-project catalog + one-click preset installe",
+    "id": "h565656445/dsh-integration",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-integration",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:44:03Z",
+    "url": "https://github.com/h565656445/dsh-integration"
+  },
+  {
+    "description": "Hermes Harness core control plane for DeepSeek Harness \u2014 task contract, routing, safety gates, supervised worker (PowerS",
+    "id": "h565656445/dsh-harness-core",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-harness-core",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:43:55Z",
+    "url": "https://github.com/h565656445/dsh-harness-core"
+  },
+  {
+    "description": "Agent OS runtime kernel for DeepSeek Harness \u2014 task contract, hash-chained ledger recovery, lifecycle control (PowerShel",
+    "id": "h565656445/dsh-agent-os-runtime",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:43:40Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-runtime"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-13T21:42:27Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-13T21:42:06Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-08-13T21:38:44Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:38:13Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 10,
+    "updated_at": "2026-08-13T21:36:09Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -27,24 +108,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 10,
-    "updated_at": "2026-08-13T21:16:17Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-13T21:00:21Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T21:00:00Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-13T20:54:47Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -88,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T20:50:21Z",
     "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-13T20:39:17Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T20:35:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -412,41 +448,5 @@
     "stars": 43,
     "updated_at": "2026-08-13T18:18:00Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 1,
-    "updated_at": "2026-08-13T18:16:59Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-13T18:13:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
-    "id": "LikeMirage/Tiance",
-    "language": "Python",
-    "name": "LikeMirage/Tiance",
-    "stars": 1,
-    "updated_at": "2026-08-13T17:48:31Z",
-    "url": "https://github.com/LikeMirage/Tiance"
-  },
-  {
-    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 3,
-    "updated_at": "2026-08-13T19:19:35Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   }
 ]
