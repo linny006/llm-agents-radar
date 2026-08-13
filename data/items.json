@@ -1,12 +1,39 @@
 [
   {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:23:14Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
     "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "stars": 0,
-    "updated_at": "2026-08-13T11:10:58Z",
+    "updated_at": "2026-08-13T11:21:04Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Pi's coding agent ported to Rust",
+    "id": "y0usaf/pi-rs",
+    "language": "Rust",
+    "name": "y0usaf/pi-rs",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:16:28Z",
+    "url": "https://github.com/y0usaf/pi-rs"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:13:18Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -77,7 +104,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-13T10:39:55Z",
+    "updated_at": "2026-08-13T11:27:52Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-13T11:02:24Z",
+    "updated_at": "2026-08-13T11:20:15Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3052,
-    "updated_at": "2026-08-13T11:08:42Z",
+    "updated_at": "2026-08-13T11:24:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -378,6 +405,15 @@
     "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6894,
+    "updated_at": "2026-08-13T08:01:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "langgraph graphic design tool",
     "id": "sjkwon-1023/langgraph_cad",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T07:08:05Z",
     "url": "https://github.com/kael-odin/Amadeus-Agent"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 329,
-    "updated_at": "2026-08-13T07:03:15Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T06:51:52Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-13T06:41:37Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-13T06:27:21Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   }
 ]
