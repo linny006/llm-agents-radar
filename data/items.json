@@ -1,12 +1,21 @@
 [
   {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
+    "description": "Agent \u89c4\u5212\u4e0e\u6267\u884c\u6846\u67b6\uff5cPlan \u5373\u8fd0\u884c\u65f6\u5bf9\u8c61\uff5cG4C \u4e94\u8981\u7d20 + TAO \u6b65\u9aa4\u7ea7\u6267\u884c + Replan \u81ea\u6211\u4fee\u6b63 + \u5931\u8d25\u56de\u6eaf + \u4fe1\u4efb\u72b6\u6001\u7ba1\u7406",
+    "id": "xiaoyesoso/XTAO",
     "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
+    "name": "xiaoyesoso/XTAO",
     "stars": 1,
-    "updated_at": "2026-08-13T14:12:54Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
+    "updated_at": "2026-08-13T14:29:30Z",
+    "url": "https://github.com/xiaoyesoso/XTAO"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:19:49Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 1,
-    "updated_at": "2026-08-13T14:15:18Z",
+    "updated_at": "2026-08-13T14:18:21Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:18:21Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:12:54Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
     "stars": 69,
-    "updated_at": "2026-08-13T13:56:35Z",
+    "updated_at": "2026-08-13T14:23:00Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
   {
@@ -239,17 +266,8 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3053,
-    "updated_at": "2026-08-13T13:48:36Z",
+    "updated_at": "2026-08-13T14:15:59Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:55:48Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:29:15Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:28:48Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:28:10Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
   }
 ]
