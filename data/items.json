@@ -1,11 +1,110 @@
 [
   {
+    "description": "The five Agent OS specification documents \u2014 runtime kernel, planning loop, worker protocol, scheduler, observability (au",
+    "id": "h565656445/dsh-agent-os-specs",
+    "language": "\u2014",
+    "name": "h565656445/dsh-agent-os-specs",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:09Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-specs"
+  },
+  {
+    "description": "Agent OS runtime kernel for DeepSeek Harness \u2014 task contract, hash-chained ledger recovery, lifecycle control (PowerShel",
+    "id": "h565656445/dsh-agent-os-runtime",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:01Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-runtime"
+  },
+  {
+    "description": "Agent OS planning loop for DeepSeek Harness \u2014 compiles long-term goals into a dependency-ordered task graph with human-a",
+    "id": "h565656445/dsh-agent-os-planning",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-planning",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:59:57Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-planning"
+  },
+  {
+    "description": "Agent OS observability, cost & quality gates for DeepSeek Harness \u2014 unified ledger, stage reserves, token cost and quali",
+    "id": "h565656445/dsh-agent-os-observability",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-observability",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:59:53Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-observability"
+  },
+  {
+    "description": "LLM agent control-plane design guide for DeepSeek Harness \u2014 control loops, worker protocol, approval boundaries, observa",
+    "id": "h565656445/dsh-llm-agent-harness-guide",
+    "language": "\u2014",
+    "name": "h565656445/dsh-llm-agent-harness-guide",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:55:47Z",
+    "url": "https://github.com/h565656445/dsh-llm-agent-harness-guide"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:54:49Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Hermes Harness architecture guide for DeepSeek Harness \u2014 control loop, authority boundaries, five-phase lifecycle (bilin",
+    "id": "h565656445/dsh-architecture-guide",
+    "language": "\u2014",
+    "name": "h565656445/dsh-architecture-guide",
+    "stars": 0,
+    "updated_at": "2026-08-13T21:54:30Z",
+    "url": "https://github.com/h565656445/dsh-architecture-guide"
+  },
+  {
+    "description": "Agent OS unified worker protocol for DeepSeek Harness \u2014 Prepare/Accept/Inspect seam with recomputable evidence hashes",
+    "id": "h565656445/dsh-agent-os-worker-protocol",
+    "language": "PowerShell",
+    "name": "h565656445/dsh-agent-os-worker-protocol",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:00:13Z",
+    "url": "https://github.com/h565656445/dsh-agent-os-worker-protocol"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-13T21:53:49Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 157,
+    "updated_at": "2026-08-13T21:53:15Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-13T21:52:48Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Starter kit for DeepSeek Harness personal-adaptation derivatives \u2014 what Hermes Harness is, 3-step install, usage example",
     "id": "h565656445/dsh-starter-kit",
     "language": "\u2014",
     "name": "h565656445/dsh-starter-kit",
     "stars": 0,
-    "updated_at": "2026-08-13T21:44:09Z",
+    "updated_at": "2026-08-13T21:51:17Z",
     "url": "https://github.com/h565656445/dsh-starter-kit"
   },
   {
@@ -14,7 +113,7 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-integration",
     "stars": 0,
-    "updated_at": "2026-08-13T21:44:03Z",
+    "updated_at": "2026-08-13T21:51:13Z",
     "url": "https://github.com/h565656445/dsh-integration"
   },
   {
@@ -23,17 +122,8 @@
     "language": "PowerShell",
     "name": "h565656445/dsh-harness-core",
     "stars": 0,
-    "updated_at": "2026-08-13T21:43:55Z",
+    "updated_at": "2026-08-13T21:51:09Z",
     "url": "https://github.com/h565656445/dsh-harness-core"
-  },
-  {
-    "description": "Agent OS runtime kernel for DeepSeek Harness \u2014 task contract, hash-chained ledger recovery, lifecycle control (PowerShel",
-    "id": "h565656445/dsh-agent-os-runtime",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:43:40Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-runtime"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -108,33 +198,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T21:00:00Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 157,
-    "updated_at": "2026-08-13T20:51:19Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-13T20:50:24Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Pi's coding agent ported to Rust",
     "id": "y0usaf/pi-rs",
     "language": "Rust",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T20:21:54Z",
     "url": "https://github.com/SoodeDashti/clintox-toxicity-fda-prediction"
-  },
-  {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 4,
-    "updated_at": "2026-08-13T20:20:12Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:06:01Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:04:28Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-13T20:13:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2632,
-    "updated_at": "2026-08-13T18:54:08Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-13T19:45:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A Telegram bot that replans one person's day: it moves unfinished tasks instead of cloning them, shows the plan before i",
-    "id": "M1zz1-ai/notion-bot",
-    "language": "Python",
-    "name": "M1zz1-ai/notion-bot",
-    "stars": 1,
-    "updated_at": "2026-08-13T18:22:30Z",
-    "url": "https://github.com/M1zz1-ai/notion-bot"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-13T18:18:00Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   }
 ]
