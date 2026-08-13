@@ -1,12 +1,12 @@
 [
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3055,
-    "updated_at": "2026-08-13T19:59:49Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T20:08:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "hec-ovi/censurado-web-brain",
     "stars": 1,
-    "updated_at": "2026-08-13T19:57:35Z",
+    "updated_at": "2026-08-13T20:05:18Z",
     "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-13T20:00:34Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3055,
+    "updated_at": "2026-08-13T20:02:57Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -49,18 +67,9 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 113,
+    "stars": 115,
     "updated_at": "2026-08-13T19:41:07Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:35:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-13T19:33:54Z",
+    "updated_at": "2026-08-13T20:07:35Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -216,15 +225,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:16:20Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
     "id": "mena256/ai-pair-engineer",
     "language": "Python",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-13T19:48:29Z",
+    "updated_at": "2026-08-13T20:13:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
