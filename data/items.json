@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6897,
+    "updated_at": "2026-08-13T15:26:06Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
+    "id": "hec-ovi/censurado-web-brain",
+    "language": "Python",
+    "name": "hec-ovi/censurado-web-brain",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:25:16Z",
+    "url": "https://github.com/hec-ovi/censurado-web-brain"
+  },
+  {
+    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u4e09\u5c42\u8bb0\u5fc6\u4f53\u80fd\u529b\uff1aRuntime Memory\u3001\u53ef\u68c0\u7d22 Documents \u4e0e\u53d7\u76d1\u7763 Memory Spaces\u3002",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 1,
+    "updated_at": "2026-08-13T15:20:05Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 13,
+    "updated_at": "2026-08-13T15:16:10Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
     "description": "Autonomous ReAct agent for exploratory data analysis \u2014 self-diagnoses failure modes via real debugging, validated across",
     "id": "chyoyoo776-ui/eda-agent",
     "language": "Python",
@@ -9,15 +45,6 @@
     "url": "https://github.com/chyoyoo776-ui/eda-agent"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6897,
-    "updated_at": "2026-08-13T15:05:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -25,15 +52,6 @@
     "stars": 22,
     "updated_at": "2026-08-13T15:05:17Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
-    "id": "hec-ovi/censurado-web-brain",
-    "language": "Python",
-    "name": "hec-ovi/censurado-web-brain",
-    "stars": 1,
-    "updated_at": "2026-08-13T15:09:28Z",
-    "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3053,
-    "updated_at": "2026-08-13T15:09:52Z",
+    "updated_at": "2026-08-13T15:26:15Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -202,18 +220,9 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 75,
+    "stars": 76,
     "updated_at": "2026-08-13T14:05:56Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 13,
-    "updated_at": "2026-08-13T13:50:24Z",
-    "url": "https://github.com/jonortega20/fantasybot"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4386,
-    "updated_at": "2026-08-13T15:09:49Z",
+    "updated_at": "2026-08-13T15:17:50Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-13T12:35:48Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-08-13T12:35:41Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
