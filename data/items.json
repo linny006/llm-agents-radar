@@ -1,30 +1,12 @@
 [
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 32,
-    "updated_at": "2026-08-13T01:44:53Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 102,
-    "updated_at": "2026-08-13T01:42:26Z",
+    "updated_at": "2026-08-13T01:59:49Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2619,
-    "updated_at": "2026-08-13T01:40:01Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
@@ -32,8 +14,35 @@
     "language": "Go",
     "name": "peder1981/AdvPP",
     "stars": 2,
-    "updated_at": "2026-08-13T01:37:59Z",
+    "updated_at": "2026-08-13T01:53:47Z",
     "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-13T01:48:52Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 32,
+    "updated_at": "2026-08-13T01:47:10Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2618,
+    "updated_at": "2026-08-13T01:40:01Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -79,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-13T01:09:59Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-08-13T00:59:48Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -178,15 +196,6 @@
     "stars": 10,
     "updated_at": "2026-08-12T23:45:17Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-12T23:38:34Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T22:05:52Z",
     "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
-  },
-  {
-    "description": "Grounded, citation-bearing Q&A agent over a legacy Progress 4GL / OpenEdge (ABL) codebase - refuses to guess. Eval-first",
-    "id": "SpSharon/openedge-code-intelligence-agent",
-    "language": "Python",
-    "name": "SpSharon/openedge-code-intelligence-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:05:21Z",
-    "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
   }
 ]
