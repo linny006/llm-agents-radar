@@ -1,11 +1,20 @@
 [
   {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 69,
+    "updated_at": "2026-08-13T13:44:58Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T13:34:57Z",
+    "updated_at": "2026-08-13T13:43:50Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3053,
-    "updated_at": "2026-08-13T13:31:40Z",
+    "updated_at": "2026-08-13T13:45:04Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-13T12:17:36Z",
     "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:16:10Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
