@@ -1,12 +1,57 @@
 [
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 46,
-    "updated_at": "2026-08-13T05:04:26Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 1,
+    "updated_at": "2026-08-13T05:14:52Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-13T05:13:33Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-13T05:13:33Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Just Another AI Client (JAAC)",
+    "id": "Jacwoodhug/Just-Another-AI-Client",
+    "language": "JavaScript",
+    "name": "Jacwoodhug/Just-Another-AI-Client",
+    "stars": 0,
+    "updated_at": "2026-08-13T05:13:19Z",
+    "url": "https://github.com/Jacwoodhug/Just-Another-AI-Client"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-13T05:12:56Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-13T05:12:41Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-13T05:02:15Z",
+    "updated_at": "2026-08-13T05:12:06Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 10,
+    "updated_at": "2026-08-13T05:10:19Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-13T05:10:33Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 46,
+    "updated_at": "2026-08-13T05:04:26Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
@@ -72,15 +144,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-13T04:45:15Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -88,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T04:40:12Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-13T04:50:11Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -223,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T03:20:34Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-13T03:17:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
@@ -378,15 +423,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-13T00:40:49Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 16+ providers, 59+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:18:08Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
-    "id": "ivan-sincek/secure-code-review-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/secure-code-review-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-12T23:09:28Z",
-    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-08-12T23:08:16Z",
-    "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 329,
-    "updated_at": "2026-08-12T22:58:33Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-13T00:43:35Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
