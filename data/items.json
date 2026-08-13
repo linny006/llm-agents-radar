@@ -1,5 +1,32 @@
 [
   {
+    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:38:50Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:30:18Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-13T17:30:15Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
     "description": "Agentic control layer for the Censurado self-hosted AI news portal: a stdlib Python CLI plus an MCP server (32 tools) an",
     "id": "hec-ovi/censurado-web-brain",
     "language": "Python",
@@ -27,6 +54,15 @@
     "url": "https://github.com/xiaomaozjj666/issue-agent"
   },
   {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u57fa\u4e8e\u80fd\u529b\u63a7\u5236\u7684\u81ea\u4e3b AI Agent \u8fd0\u884c\u65f6\uff0c\u8ba9\u667a\u80fd\u4f53\u80fd\u591f\u5728\u53ef\u914d\u7f6e\u5de5\u5177\u3001\u6a21\u578b\u80fd\u529b\u9002\u914d\u3001\u6267\u884c\u5ba1\u8ba1\u548c\u4eba\u5de5\u76d1\u7763\u673a\u5236\u4e0b\u53ef\u9760\u8fd0\u884c\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 1,
+    "updated_at": "2026-08-13T17:26:55Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T17:20:43Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:08:50Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-13T17:28:02Z",
+    "updated_at": "2026-08-13T17:36:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -157,7 +184,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 82,
+    "stars": 83,
     "updated_at": "2026-08-13T16:32:30Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -169,15 +196,6 @@
     "stars": 3,
     "updated_at": "2026-08-13T16:29:54Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:28:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -238,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6898,
+    "stars": 6899,
     "updated_at": "2026-08-13T16:07:41Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -283,7 +301,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 111,
+    "stars": 112,
     "updated_at": "2026-08-13T15:44:06Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-13T14:07:58Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 96,
-    "updated_at": "2026-08-13T13:25:27Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-13T16:39:13Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
