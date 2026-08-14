@@ -1,21 +1,48 @@
 [
   {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-08-14T05:12:16Z",
-    "url": "https://github.com/QodeXcli/QodeX"
-  },
-  {
     "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T05:08:39Z",
+    "updated_at": "2026-08-14T05:30:01Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-08-14T05:29:24Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-14T05:26:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-14T05:26:36Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-14T05:23:31Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T04:26:11Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-14T05:02:54Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:07:10Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5722,
-    "updated_at": "2026-08-14T02:05:54Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-14T02:04:42Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
