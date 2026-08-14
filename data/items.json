@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u6d77\u9f9f\u6c64\uff08\u60c5\u5883\u731c\u8c1c/\u6a2a\u5411\u601d\u7ef4\u8c1c\u9898\uff09\u521b\u4f5c\u65b9\u6cd5\u8bba\u2014\u2014\u56db\u9636\u6bb5\u65bd\u5de5\u6846\u67b6 | A methodology for crafting turtle soup / lateral thinking puzzles: 4-phase pipeline fro",
-    "id": "906491213/writing-turtle-soup",
-    "language": "\u2014",
-    "name": "906491213/writing-turtle-soup",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:44:17Z",
-    "url": "https://github.com/906491213/writing-turtle-soup"
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-14T06:49:27Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T06:43:53Z",
+    "updated_at": "2026-08-14T06:48:59Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:47:32Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "\u6d77\u9f9f\u6c64\uff08\u60c5\u5883\u731c\u8c1c/\u6a2a\u5411\u601d\u7ef4\u8c1c\u9898\uff09\u521b\u4f5c\u65b9\u6cd5\u8bba\u2014\u2014\u56db\u9636\u6bb5\u65bd\u5de5\u6846\u67b6 | A methodology for crafting turtle soup / lateral thinking puzzles: 4-phase pipeline fro",
+    "id": "906491213/writing-turtle-soup",
+    "language": "\u2014",
+    "name": "906491213/writing-turtle-soup",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:44:17Z",
+    "url": "https://github.com/906491213/writing-turtle-soup"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "saas-claw/saasclaw",
     "stars": 1,
-    "updated_at": "2026-08-14T06:42:01Z",
+    "updated_at": "2026-08-14T06:49:31Z",
     "url": "https://github.com/saas-claw/saasclaw"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T06:36:45Z",
     "url": "https://github.com/ruoshui-xiaoxiang/SCU-CUF6.2"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:33:59Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -394,15 +403,6 @@
     "stars": 24235,
     "updated_at": "2026-08-14T03:08:41Z",
     "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-14T03:04:07Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
