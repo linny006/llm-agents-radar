@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 131,
+    "updated_at": "2026-08-14T14:45:10Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T14:42:55Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-14T14:42:55Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "ProactiveAgent \u00d7 DeepSeek Harness \u63d2\u4ef6\u7ec4\uff1a\u628a\u4e3b\u52a8\u8bb0\u5fc6 + \u4e3b\u52a8\u5efa\u8bae\u63a5\u5165 DSH\uff086 \u4e2a cordis \u63d2\u4ef6\uff0c\u5f15\u64ce\u96f6\u91cd\u5199\uff09",
+    "id": "ConradLu2740/pa-dsh",
+    "language": "JavaScript",
+    "name": "ConradLu2740/pa-dsh",
+    "stars": 1,
+    "updated_at": "2026-08-14T14:39:47Z",
+    "url": "https://github.com/ConradLu2740/pa-dsh"
+  },
+  {
+    "description": "\u7075\u7280\u6d41\u5e8f\uff08Lingxi Flow\uff09\uff1a\u8fd0\u884c\u5728 HarmonyOS NEXT \u4e0a\u7684 AI \u667a\u80fd\u4f53\uff08Agent\uff09\u4e2a\u4eba\u52a9\u7406\u3002\u4e00\u53e5\u8bdd\u63cf\u8ff0\u9700\u6c42\uff0cAI \u81ea\u4e3b\u89c4\u5212\u3001\u8c03\u7528\u7cfb\u7edf\u5de5\u5177\u5b8c\u6210\u4efb\u52a1\u3002\u7eaf ArkTS \u5b9e\u73b0\uff0c\u652f\u6301 25+ \u7cfb\u7edf\u5de5\u5177\uff08\u6587\u4ef6/\u63d0\u9192/\u65e5\u5386/\u5929\u6c14/",
+    "id": "XCNXNXNX/lingxi-flow-agent",
+    "language": "TypeScript",
+    "name": "XCNXNXNX/lingxi-flow-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T14:37:04Z",
+    "url": "https://github.com/XCNXNXNX/lingxi-flow-agent"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -36,15 +81,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:35:36Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
     "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
     "language": "Python",
@@ -68,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-14T14:29:31Z",
+    "updated_at": "2026-08-14T14:40:31Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -99,6 +135,15 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
+    "description": "[Beta] Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 107,
+    "updated_at": "2026-08-14T14:43:41Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T14:25:58Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 131,
-    "updated_at": "2026-08-14T14:25:03Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -194,7 +230,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 30,
-    "updated_at": "2026-08-14T14:19:32Z",
+    "updated_at": "2026-08-14T14:39:33Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -256,7 +292,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2,
+    "stars": 7,
     "updated_at": "2026-08-14T14:06:47Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -286,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T14:00:38Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "[Beta] Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 106,
-    "updated_at": "2026-08-14T14:26:20Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -340,15 +367,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T13:51:08Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-14T13:51:01Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T13:07:14Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "ProactiveAgent \u00d7 DeepSeek Harness \u63d2\u4ef6\u7ec4\uff1a\u628a\u4e3b\u52a8\u8bb0\u5fc6 + \u4e3b\u52a8\u5efa\u8bae\u63a5\u5165 DSH\uff086 \u4e2a cordis \u63d2\u4ef6\uff0c\u5f15\u64ce\u96f6\u91cd\u5199\uff09",
-    "id": "ConradLu2740/pa-dsh",
-    "language": "JavaScript",
-    "name": "ConradLu2740/pa-dsh",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:37:29Z",
-    "url": "https://github.com/ConradLu2740/pa-dsh"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-14T13:01:41Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
