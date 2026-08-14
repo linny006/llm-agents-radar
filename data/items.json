@@ -1,11 +1,20 @@
 [
   {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-08-14T05:12:16Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
     "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T04:57:54Z",
+    "updated_at": "2026-08-14T05:08:39Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T04:57:40Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-08-14T04:56:03Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-14T04:45:35Z",
+    "updated_at": "2026-08-14T05:02:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T04:41:34Z",
+    "updated_at": "2026-08-14T05:10:56Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -175,7 +175,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 19,
+    "stars": 20,
     "updated_at": "2026-08-14T04:03:33Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "weihuaguo270-ops/react-agent",
     "stars": 1,
-    "updated_at": "2026-08-14T03:44:14Z",
+    "updated_at": "2026-08-14T05:07:14Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
