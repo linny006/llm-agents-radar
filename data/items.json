@@ -1,5 +1,167 @@
 [
   {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:14:01Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 7,
+    "updated_at": "2026-08-14T02:13:46Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-08-14T02:13:45Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
+    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:12:17Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-14T02:12:05Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A Rust library for calling LLM providers with a unified API.",
+    "id": "guuzaa/oven-llm",
+    "language": "Rust",
+    "name": "guuzaa/oven-llm",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:11:40Z",
+    "url": "https://github.com/guuzaa/oven-llm"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:10:02Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-08-14T02:09:51Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:09:46Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
+  },
+  {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:07:32Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:07:10Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5722,
+    "updated_at": "2026-08-14T02:05:54Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-14T02:04:42Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
+    "id": "Victongo/ai-daily-news",
+    "language": "Ruby",
+    "name": "Victongo/ai-daily-news",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:04:36Z",
+    "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-08-14T02:04:35Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
+  },
+  {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-08-14T02:03:39Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 14,
+    "updated_at": "2026-08-14T02:02:18Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Turn project work into reusable knowledge \u2014 an AI-agent skill for Claude Code & Codex",
+    "id": "iBlinkQ/project-cairn",
+    "language": "Shell",
+    "name": "iBlinkQ/project-cairn",
+    "stars": 195,
+    "updated_at": "2026-08-14T02:01:25Z",
+    "url": "https://github.com/iBlinkQ/project-cairn"
+  },
+  {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
     "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
     "language": "HTML",
@@ -52,24 +214,6 @@
     "stars": 4387,
     "updated_at": "2026-08-14T01:54:07Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-14T01:53:37Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T01:48:29Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -171,15 +315,6 @@
     "url": "https://github.com/hec-ovi/censurado-web-brain"
   },
   {
-    "description": "A Rust library for calling LLM providers with a unified API.",
-    "id": "guuzaa/oven-llm",
-    "language": "Rust",
-    "name": "guuzaa/oven-llm",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:05:02Z",
-    "url": "https://github.com/guuzaa/oven-llm"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -248,7 +383,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-13T23:25:10Z",
+    "updated_at": "2026-08-14T02:02:21Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T22:18:28Z",
     "url": "https://github.com/KiKDraS/mtg-life-counter-app"
-  },
-  {
-    "description": "Starter kit for DeepSeek Harness personal-adaptation derivatives \u2014 what Hermes Harness is, 3-step install, usage example",
-    "id": "h565656445/dsh-starter-kit",
-    "language": "\u2014",
-    "name": "h565656445/dsh-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:13:11Z",
-    "url": "https://github.com/h565656445/dsh-starter-kit"
-  },
-  {
-    "description": "LLM agent control-plane design guide for DeepSeek Harness \u2014 control loops, worker protocol, approval boundaries, observa",
-    "id": "h565656445/dsh-llm-agent-harness-guide",
-    "language": "\u2014",
-    "name": "h565656445/dsh-llm-agent-harness-guide",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:11:41Z",
-    "url": "https://github.com/h565656445/dsh-llm-agent-harness-guide"
-  },
-  {
-    "description": "Master integration for DeepSeek Harness personal-adaptation derivatives \u2014 40-project catalog + one-click preset installe",
-    "id": "h565656445/dsh-integration",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-integration",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:11:23Z",
-    "url": "https://github.com/h565656445/dsh-integration"
-  },
-  {
-    "description": "Hermes Harness core control plane for DeepSeek Harness \u2014 task contract, routing, safety gates, supervised worker (PowerS",
-    "id": "h565656445/dsh-harness-core",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-harness-core",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:11:16Z",
-    "url": "https://github.com/h565656445/dsh-harness-core"
-  },
-  {
-    "description": "Hermes Harness architecture guide for DeepSeek Harness \u2014 control loop, authority boundaries, five-phase lifecycle (bilin",
-    "id": "h565656445/dsh-architecture-guide",
-    "language": "\u2014",
-    "name": "h565656445/dsh-architecture-guide",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:50Z",
-    "url": "https://github.com/h565656445/dsh-architecture-guide"
-  },
-  {
-    "description": "Agent OS unified worker protocol for DeepSeek Harness \u2014 Prepare/Accept/Inspect seam with recomputable evidence hashes",
-    "id": "h565656445/dsh-agent-os-worker-protocol",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-worker-protocol",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:47Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-worker-protocol"
-  },
-  {
-    "description": "The five Agent OS specification documents \u2014 runtime kernel, planning loop, worker protocol, scheduler, observability (au",
-    "id": "h565656445/dsh-agent-os-specs",
-    "language": "\u2014",
-    "name": "h565656445/dsh-agent-os-specs",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:43Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-specs"
-  },
-  {
-    "description": "Agent OS runtime kernel for DeepSeek Harness \u2014 task contract, hash-chained ledger recovery, lifecycle control (PowerShel",
-    "id": "h565656445/dsh-agent-os-runtime",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:35Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-runtime"
-  },
-  {
-    "description": "Agent OS planning loop for DeepSeek Harness \u2014 compiles long-term goals into a dependency-ordered task graph with human-a",
-    "id": "h565656445/dsh-agent-os-planning",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-planning",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:31Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-planning"
-  },
-  {
-    "description": "Agent OS observability, cost & quality gates for DeepSeek Harness \u2014 unified ledger, stage reserves, token cost and quali",
-    "id": "h565656445/dsh-agent-os-observability",
-    "language": "PowerShell",
-    "name": "h565656445/dsh-agent-os-observability",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:10:27Z",
-    "url": "https://github.com/h565656445/dsh-agent-os-observability"
-  },
-  {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 4,
-    "updated_at": "2026-08-13T21:53:49Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 12,
-    "updated_at": "2026-08-13T21:36:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
-    "id": "letta-ai/letta",
-    "language": "Python",
-    "name": "letta-ai/letta",
-    "stars": 24231,
-    "updated_at": "2026-08-13T21:21:17Z",
-    "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": "Pi's coding agent ported to Rust",
-    "id": "y0usaf/pi-rs",
-    "language": "Rust",
-    "name": "y0usaf/pi-rs",
-    "stars": 0,
-    "updated_at": "2026-08-13T20:50:21Z",
-    "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6904,
-    "updated_at": "2026-08-14T01:26:41Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
