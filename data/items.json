@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "yuyu0529nya/YuResearchAgent",
     "stars": 4,
-    "updated_at": "2026-08-14T06:14:00Z",
+    "updated_at": "2026-08-14T06:29:00Z",
     "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16350,
+    "updated_at": "2026-08-14T06:28:58Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Enterprise Autonomous AI Agent Control Plane & Automation Platform",
+    "id": "NadeemAhmad3/ai-agent-control-plane",
+    "language": "TypeScript",
+    "name": "NadeemAhmad3/ai-agent-control-plane",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:27:52Z",
+    "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
+  },
+  {
+    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:27:42Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-08-14T06:26:44Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-14T06:22:55Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 157,
+    "updated_at": "2026-08-14T06:19:13Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:18:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "cafferychen777/ChatSpatial",
     "stars": 43,
-    "updated_at": "2026-08-14T06:13:58Z",
+    "updated_at": "2026-08-14T06:22:53Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
-    "description": "Enterprise Autonomous AI Agent Control Plane & Automation Platform",
-    "id": "NadeemAhmad3/ai-agent-control-plane",
-    "language": "JavaScript",
-    "name": "NadeemAhmad3/ai-agent-control-plane",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:13:55Z",
-    "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -36,15 +90,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:10:36Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T06:08:38Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-08-14T06:07:17Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T06:02:21Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16350,
-    "updated_at": "2026-08-14T05:59:27Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
@@ -131,7 +158,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T06:13:57Z",
+    "updated_at": "2026-08-14T06:16:14Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -157,8 +184,8 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5665,
-    "updated_at": "2026-08-14T05:39:22Z",
+    "stars": 5666,
+    "updated_at": "2026-08-14T06:21:37Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -187,33 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T04:57:40Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 157,
-    "updated_at": "2026-08-14T04:53:47Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-14T04:53:16Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:52:44Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -346,7 +346,7 @@
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 24232,
+    "stars": 24235,
     "updated_at": "2026-08-14T03:08:41Z",
     "url": "https://github.com/letta-ai/letta"
   },
