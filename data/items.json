@@ -1,21 +1,30 @@
 [
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-14T03:44:28Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T03:42:47Z",
+    "updated_at": "2026-08-14T03:59:23Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-14T03:55:19Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-08-14T03:47:43Z",
+    "url": "https://github.com/v2-io/agentic-systems"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T03:42:12Z",
+    "updated_at": "2026-08-14T03:59:48Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -94,7 +103,7 @@
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 24232,
+    "stars": 24231,
     "updated_at": "2026-08-14T03:08:41Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -428,7 +437,7 @@
     "language": "Makefile",
     "name": "cse-creative-systems-engineering/aios",
     "stars": 0,
-    "updated_at": "2026-08-14T03:33:07Z",
+    "updated_at": "2026-08-14T03:58:48Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4387,
     "updated_at": "2026-08-14T02:21:50Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-14T01:46:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
