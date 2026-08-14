@@ -1,5 +1,77 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:56:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:56:38Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:53:38Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-14T22:52:40Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:48:13Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:47:12Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "Standalone tool-calling agent (Claude API) for the robotics portfolio - real benchmark reporting and GitHub issue triage",
+    "id": "Asif-Ucchwas/portfolio-agent",
+    "language": "Python",
+    "name": "Asif-Ucchwas/portfolio-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:46:33Z",
+    "url": "https://github.com/Asif-Ucchwas/portfolio-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:46:03Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
     "id": "yigido41/agentic-ai",
     "language": "Python",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T22:40:27Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-14T22:37:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "",
@@ -99,15 +162,6 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:21:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
     "id": "omdsh-dev/dsh-mnemon",
     "language": "JavaScript",
@@ -124,15 +178,6 @@
     "stars": 123,
     "updated_at": "2026-08-14T22:19:58Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-14T22:19:56Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -369,20 +414,11 @@
     "url": "https://github.com/xiaomaozjj666/issue-agent"
   },
   {
-    "description": "Standalone tool-calling agent (Claude API) for the robotics portfolio - real benchmark reporting and GitHub issue triage",
-    "id": "Asif-Ucchwas/portfolio-agent",
-    "language": "Python",
-    "name": "Asif-Ucchwas/portfolio-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T18:02:36Z",
-    "url": "https://github.com/Asif-Ucchwas/portfolio-agent"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 32,
+    "stars": 33,
     "updated_at": "2026-08-14T18:02:04Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-14T17:40:36Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-14T17:37:32Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "Evidence-grounded product opportunity research system: Agentic RAG, DeepResearch, multi-agent review, and evaluation.",
-    "id": "gaoming-a/OppScout-showcase",
-    "language": "\u2014",
-    "name": "gaoming-a/OppScout-showcase",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:35:04Z",
-    "url": "https://github.com/gaoming-a/OppScout-showcase"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16355,
-    "updated_at": "2026-08-14T17:30:35Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 0,
-    "updated_at": "2026-08-14T17:12:13Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   }
 ]
