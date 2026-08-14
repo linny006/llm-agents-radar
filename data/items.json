@@ -1,5 +1,86 @@
 [
   {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-14T06:14:00Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-14T06:13:58Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "Enterprise Autonomous AI Agent Control Plane & Automation Platform",
+    "id": "NadeemAhmad3/ai-agent-control-plane",
+    "language": "JavaScript",
+    "name": "NadeemAhmad3/ai-agent-control-plane",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:13:55Z",
+    "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-14T06:11:51Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:10:36Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:08:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-08-14T06:07:17Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 21,
+    "updated_at": "2026-08-14T06:02:49Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:02:21Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T05:56:02Z",
     "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:55:22Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -54,21 +126,12 @@
     "url": "https://github.com/mingger77/research-skills"
   },
   {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-08-14T05:52:22Z",
-    "url": "https://github.com/QodeXcli/QodeX"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T06:00:13Z",
+    "updated_at": "2026-08-14T06:13:57Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 5665,
     "updated_at": "2026-08-14T05:39:22Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 4,
-    "updated_at": "2026-08-14T05:36:03Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -225,15 +279,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-14T04:06:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
@@ -241,24 +286,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T04:05:26Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization \u00b7 PPT \u00b7 Co",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 21,
-    "updated_at": "2026-08-14T04:03:33Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-14T04:01:15Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -315,20 +342,11 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-14T03:14:18Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
-  },
-  {
     "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
     "id": "letta-ai/letta",
     "language": "Python",
     "name": "letta-ai/letta",
-    "stars": 24231,
+    "stars": 24232,
     "updated_at": "2026-08-14T03:08:41Z",
     "url": "https://github.com/letta-ai/letta"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-14T02:13:46Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-08-14T02:13:45Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:11:50Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   }
 ]
