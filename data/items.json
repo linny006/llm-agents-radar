@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T09:44:47Z",
+    "updated_at": "2026-08-14T09:59:43Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 159,
+    "updated_at": "2026-08-14T09:58:30Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
+    "id": "cafferychen777/ChatSpatial",
+    "language": "Python",
+    "name": "cafferychen777/ChatSpatial",
+    "stars": 43,
+    "updated_at": "2026-08-14T09:57:50Z",
+    "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-14T09:55:17Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:53:52Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:55:00Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Portable, persistent memory for your agents",
+    "id": "kirahowe/claimgraph",
+    "language": "Clojure",
+    "name": "kirahowe/claimgraph",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:52:18Z",
+    "url": "https://github.com/kirahowe/claimgraph"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-14T09:45:19Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -36,15 +99,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-14T09:38:14Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
     "id": "sky-valley/pi",
     "language": "Go",
@@ -52,15 +106,6 @@
     "stars": 33,
     "updated_at": "2026-08-14T09:37:48Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
-    "id": "cafferychen777/ChatSpatial",
-    "language": "Python",
-    "name": "cafferychen777/ChatSpatial",
-    "stars": 43,
-    "updated_at": "2026-08-14T09:31:38Z",
-    "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -103,7 +148,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16352,
+    "stars": 16353,
     "updated_at": "2026-08-14T08:59:17Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -162,15 +207,6 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:42:50Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -189,15 +225,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 159,
-    "updated_at": "2026-08-14T08:13:43Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -205,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T08:13:22Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:10:11Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5666,
-    "updated_at": "2026-08-14T08:57:05Z",
+    "updated_at": "2026-08-14T09:59:30Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -247,7 +265,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28942,
+    "stars": 28943,
     "updated_at": "2026-08-14T07:48:51Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -391,7 +409,7 @@
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4388,
+    "stars": 4389,
     "updated_at": "2026-08-14T05:18:12Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-14T04:37:48Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-14T04:12:32Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u900f\u660e\u53ef\u89c1\u65e0\u9ed1\u76d2\u7684\u591a\u9879\u76ee\u3001\u591a\u667a\u80fd\u4f53 AI \u5de5\u4f5c\u53f0 / A local-first, transparent workspace for multi-project and multi-agent AI collaboration.",
-    "id": "LikeMirage/Tiance",
-    "language": "Python",
-    "name": "LikeMirage/Tiance",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:09:28Z",
-    "url": "https://github.com/LikeMirage/Tiance"
   }
 ]
