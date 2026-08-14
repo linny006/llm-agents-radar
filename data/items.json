@@ -1,5 +1,14 @@
 [
   {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-14T00:47:15Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
     "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
     "id": "dakshitha-a/computational-chemistry-agent",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T23:59:12Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-14T00:42:51Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4387,
-    "updated_at": "2026-08-14T00:34:29Z",
+    "updated_at": "2026-08-14T00:58:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6904,
-    "updated_at": "2026-08-14T00:41:01Z",
+    "updated_at": "2026-08-14T00:57:00Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -400,7 +400,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 117,
+    "stars": 119,
     "updated_at": "2026-08-13T19:41:07Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
