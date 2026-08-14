@@ -1,5 +1,86 @@
 [
   {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 33,
+    "updated_at": "2026-08-14T07:14:49Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:12:02Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16350,
+    "updated_at": "2026-08-14T07:10:54Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-14T07:07:20Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-14T07:03:15Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "SCU+CUF 6.2 \u2014 \u9886\u5bfc\u8005AI\u6784\u60f3\u6f14\u8fdb\u8def\u7ebf\uff1a\u4ece\u5de5\u5177\u5230\u4f19\u4f34\u5230\u793e\u4f1a\u7684AI\u7ba1\u7406\u7cfb\u7edf\uff5c\u89d2\u8272\u5f39\u6027\uff5c\u6e10\u8fdb\u5f0f\u5bf9\u9f50\uff5c4\u5c42D/M/W1/W2\u67b6\u6784\uff5c7D\u5e73\u8861\u6001CUF Guard\uff5cAutoBootstrap\u81ea\u4e3e\u4f9d\u8d56\uff5cWan2.1\u672c\u5730GPU\u89c6\u9891\u751f\u6210\uff5c\u591a\u667a\u80fd",
+    "id": "ruoshui-xiaoxiang/SCU-CUF6.2",
+    "language": "Python",
+    "name": "ruoshui-xiaoxiang/SCU-CUF6.2",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:58:08Z",
+    "url": "https://github.com/ruoshui-xiaoxiang/SCU-CUF6.2"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 3,
+    "updated_at": "2026-08-14T06:58:08Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
+    "id": "dakshitha-a/computational-chemistry-agent",
+    "language": "Python",
+    "name": "dakshitha-a/computational-chemistry-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:52:41Z",
+    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
+  },
+  {
+    "description": "SaaSClaw \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
+    "id": "saas-claw/saasclaw",
+    "language": "Python",
+    "name": "saas-claw/saasclaw",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:52:14Z",
+    "url": "https://github.com/saas-claw/saasclaw"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 8,
     "updated_at": "2026-08-14T06:49:27Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Local-first data reliability agent with dataset profiling, typed findings, quality scoring, and report traces.",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:48:59Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -45,24 +117,6 @@
     "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
-    "description": "\"DeepCode: Open Agentic Coding ((Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16350,
-    "updated_at": "2026-08-14T06:42:42Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "SaaSClaw \u2014 \u4f01\u4e1a\u7ea7SaaS\u5316\u4e2a\u4eba\u8d85\u7ea7\u52a9\u7406\uff0c\u539f\u751f\u89e3\u51b3\u4f01\u4e1a\u80cc\u666f\u4e0b\u7684\u4e2a\u4eba\u52a9\u7406\u5b89\u5168\u95ee\u9898",
-    "id": "saas-claw/saasclaw",
-    "language": "Python",
-    "name": "saas-claw/saasclaw",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:49:31Z",
-    "url": "https://github.com/saas-claw/saasclaw"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -72,30 +126,12 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
-    "id": "yuyu0529nya/YuResearchAgent",
-    "language": "Python",
-    "name": "yuyu0529nya/YuResearchAgent",
-    "stars": 4,
-    "updated_at": "2026-08-14T06:38:33Z",
-    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
-  },
-  {
-    "description": "SCU+CUF 6.2 \u2014 \u9886\u5bfc\u8005AI\u6784\u60f3\u6f14\u8fdb\u8def\u7ebf\uff1a\u4ece\u5de5\u5177\u5230\u4f19\u4f34\u5230\u793e\u4f1a\u7684AI\u7ba1\u7406\u7cfb\u7edf\uff5c\u89d2\u8272\u5f39\u6027\uff5c\u6e10\u8fdb\u5f0f\u5bf9\u9f50\uff5c4\u5c42D/M/W1/W2\u67b6\u6784\uff5c7D\u5e73\u8861\u6001CUF Guard\uff5cAutoBootstrap\u81ea\u4e3e\u4f9d\u8d56\uff5cWan2.1\u672c\u5730GPU\u89c6\u9891\u751f\u6210\uff5c\u591a\u667a\u80fd",
-    "id": "ruoshui-xiaoxiang/SCU-CUF6.2",
-    "language": "Python",
-    "name": "ruoshui-xiaoxiang/SCU-CUF6.2",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:36:45Z",
-    "url": "https://github.com/ruoshui-xiaoxiang/SCU-CUF6.2"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T06:44:22Z",
+    "updated_at": "2026-08-14T07:10:42Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -106,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T06:39:50Z",
     "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
-  },
-  {
-    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
-    "id": "QodeXcli/QodeX",
-    "language": "TypeScript",
-    "name": "QodeXcli/QodeX",
-    "stars": 33,
-    "updated_at": "2026-08-14T06:26:44Z",
-    "url": "https://github.com/QodeXcli/QodeX"
   },
   {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
@@ -225,15 +252,6 @@
     "url": "https://github.com/mingger77/research-skills"
   },
   {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 3,
-    "updated_at": "2026-08-14T05:49:42Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
     "description": "",
     "id": "agent-axiom/agent-arch",
     "language": "Python",
@@ -315,15 +333,6 @@
     "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T04:36:42Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -355,7 +364,7 @@
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-14T04:05:26Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T03:31:52Z",
     "url": "https://github.com/Fragmentaim/lab-resource-reservation-platform"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-14T03:25:00Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
