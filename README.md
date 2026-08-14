@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 19:13 UTC
+> ⏰ Last updated: 2026-08-14 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-14 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 2 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-08-14 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
-| 3 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 111 | JavaScript | 2026-08-14 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
-| 4 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-14 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-14 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-14 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 331 | Python | 2026-08-14 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 8 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6907 | Python | 2026-08-14 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 9 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 81 | Python | 2026-08-14 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-14 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-14 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
-| 12 | [mikeb26/octium](https://github.com/mikeb26/octium) | 1 | Go | 2026-08-14 | A Linux-only, ncurses based TUI AI coding agent. |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-14 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-14 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 15 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 14 | TypeScript | 2026-08-14 | Mnemon 与 DSH 的深度集成插件，为 DSH 提供完备的本地记忆系统：运行时记忆、可检索档案与受监督记忆体。 |
-| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-14 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 17 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-14 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 18 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-14 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-14 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-14 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 3 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-08-14 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
+| 4 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 111 | JavaScript | 2026-08-14 | Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A |
+| 5 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 12 | Rust | 2026-08-14 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-14 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-14 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 331 | Python | 2026-08-14 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6907 | Python | 2026-08-14 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 10 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 81 | Python | 2026-08-14 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-14 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [cafferychen777/ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | 43 | Python | 2026-08-14 | MCP server for spatial transcriptomics analysis through natural language interfaces. |
+| 13 | [mikeb26/octium](https://github.com/mikeb26/octium) | 1 | Go | 2026-08-14 | A Linux-only, ncurses based TUI AI coding agent. |
+| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-14 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 15 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-14 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 16 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 14 | TypeScript | 2026-08-14 | Mnemon 与 DSH 的深度集成插件，为 DSH 提供完备的本地记忆系统：运行时记忆、可检索档案与受监督记忆体。 |
+| 17 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-14 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 18 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-14 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
 | 19 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-14 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
 | 20 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 31 | TypeScript | 2026-08-14 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 21 | [Kishore-dev-21/DataMind_AI](https://github.com/Kishore-dev-21/DataMind_AI) | 1 | TypeScript | 2026-08-14 | Ask questions about Brazilian e-commerce data in natural language. DataMind AI uses Gemini to query a real SQLite datase |
