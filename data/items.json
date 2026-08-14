@@ -1,11 +1,20 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-14T11:29:22Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
     "id": "marko1olo/agentrouter-setup-guide",
     "language": "HTML",
     "name": "marko1olo/agentrouter-setup-guide",
     "stars": 8,
-    "updated_at": "2026-08-14T11:22:53Z",
+    "updated_at": "2026-08-14T11:28:54Z",
     "url": "https://github.com/marko1olo/agentrouter-setup-guide"
   },
   {
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T11:21:40Z",
+    "updated_at": "2026-08-14T11:27:20Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-14T11:26:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T11:26:19Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -117,15 +144,6 @@
     "url": "https://github.com/LikeMirage/Tiance"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-14T10:41:45Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -133,15 +151,6 @@
     "stars": 28,
     "updated_at": "2026-08-14T10:39:57Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-14T10:39:36Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Production-grade Python LLM agent harness AND a framework-design case study. Tool loop, MCP, sandbox, sub-agents. 17 pha",
@@ -430,15 +439,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T06:44:17Z",
     "url": "https://github.com/906491213/writing-turtle-soup"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:18:00Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   },
   {
     "description": "Enterprise Autonomous AI Agent Control Plane & Automation Platform",
