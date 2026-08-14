@@ -1,12 +1,30 @@
 [
   {
+    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
+    "id": "rudra496/worldsim-ai",
+    "language": "Python",
+    "name": "rudra496/worldsim-ai",
+    "stars": 7,
+    "updated_at": "2026-08-14T20:17:17Z",
+    "url": "https://github.com/rudra496/worldsim-ai"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-14T20:12:51Z",
+    "updated_at": "2026-08-14T20:16:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 90,
+    "updated_at": "2026-08-14T20:15:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -25,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T20:05:11Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 90,
-    "updated_at": "2026-08-14T20:15:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 1,
-    "updated_at": "2026-08-14T16:01:38Z",
+    "updated_at": "2026-08-14T20:23:55Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T15:46:21Z",
     "url": "https://github.com/ConradLu2740/pa-dsh"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 28949,
-    "updated_at": "2026-08-14T15:37:06Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
