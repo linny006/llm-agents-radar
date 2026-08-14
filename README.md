@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 00:15 UTC
+> ⏰ Last updated: 2026-08-14 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -77,13 +77,13 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [h565656445/dsh-agent-os-planning](https://github.com/h565656445/dsh-agent-os-planning) | 0 | PowerShell | 2026-08-13 | Agent OS planning loop for DeepSeek Harness — compiles long-term goals into a dependency-ordered task graph with human-a |
 | 34 | [h565656445/dsh-agent-os-observability](https://github.com/h565656445/dsh-agent-os-observability) | 0 | PowerShell | 2026-08-13 | Agent OS observability, cost & quality gates for DeepSeek Harness — unified ledger, stage reserves, token cost and quali |
 | 35 | [yuyu0529nya/YuResearchAgent](https://github.com/yuyu0529nya/YuResearchAgent) | 4 | Python | 2026-08-13 | Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an |
-| 36 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 11 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
+| 36 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 12 | TypeScript | 2026-08-13 | A curated list of plugins, skills, MCP servers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Co |
 | 37 | [letta-ai/letta](https://github.com/letta-ai/letta) | 24231 | Python | 2026-08-13 | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. |
-| 38 | [gptme/gptme](https://github.com/gptme/gptme) | 4387 | Python | 2026-08-13 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 38 | [gptme/gptme](https://github.com/gptme/gptme) | 4387 | Python | 2026-08-14 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 39 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-13 | Pi's coding agent ported to Rust |
 | 40 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6904 | Python | 2026-08-13 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 | 41 | [SoodeDashti/clintox-toxicity-fda-prediction](https://github.com/SoodeDashti/clintox-toxicity-fda-prediction) | 0 | HTML | 2026-08-13 | End-to-end ML system predicting clinical toxicity & FDA approval from molecular structure (ClinTox). RDKit cheminformati |
-| 42 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3055 | Python | 2026-08-13 | SRE Agent - CNCF Sandbox Project |
+| 42 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3054 | Python | 2026-08-13 | SRE Agent - CNCF Sandbox Project |
 | 43 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 117 | Python | 2026-08-13 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
 | 44 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-08-13 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
 | 45 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-08-13 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
