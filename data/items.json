@@ -1,5 +1,23 @@
 [
   {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 13,
+    "updated_at": "2026-08-14T09:16:09Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 5,
+    "updated_at": "2026-08-14T09:15:02Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T09:08:27Z",
     "url": "https://github.com/Athas-Ed/Logos"
-  },
-  {
-    "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 5,
-    "updated_at": "2026-08-14T09:15:02Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-14T04:09:03Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-08-14T03:47:43Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   }
 ]
