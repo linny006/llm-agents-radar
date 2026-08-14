@@ -1,5 +1,32 @@
 [
   {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T10:27:53Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 3,
+    "updated_at": "2026-08-14T10:17:04Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-14T10:15:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -58,18 +85,9 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-08-14T10:08:51Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-14T10:07:07Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
@@ -79,6 +97,15 @@
     "stars": 43,
     "updated_at": "2026-08-14T10:05:02Z",
     "url": "https://github.com/cafferychen777/ChatSpatial"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5667,
+    "updated_at": "2026-08-14T09:59:30Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-14T09:55:17Z",
+    "updated_at": "2026-08-14T10:20:03Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-14T10:13:10Z",
+    "updated_at": "2026-08-14T10:29:05Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T09:52:18Z",
     "url": "https://github.com/kirahowe/claimgraph"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-14T10:13:57Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -270,15 +288,6 @@
     "url": "https://github.com/QodeXcli/QodeX"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5666,
-    "updated_at": "2026-08-14T09:59:30Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Claude Code / Codex skill for authoring and reviewing SuperDialog voice-agent playbook YAMLs \u2014 schema reference, 15-poin",
     "id": "ankitai-s/superdialog-playbook-skill",
     "language": "\u2014",
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "guuzaa/oven-llm",
     "stars": 0,
-    "updated_at": "2026-08-14T07:31:17Z",
+    "updated_at": "2026-08-14T10:23:23Z",
     "url": "https://github.com/guuzaa/oven-llm"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4389,
     "updated_at": "2026-08-14T05:18:12Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 3,
-    "updated_at": "2026-08-14T04:57:40Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
