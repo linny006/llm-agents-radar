@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 92,
+    "updated_at": "2026-08-14T22:11:25Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:08:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Voice Agent implementations for the VAmoS Benchmark",
+    "id": "veris-ai/riley-agent",
+    "language": "Python",
+    "name": "veris-ai/riley-agent",
+    "stars": 14,
+    "updated_at": "2026-08-14T22:07:50Z",
+    "url": "https://github.com/veris-ai/riley-agent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:08:07Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Mnemon \u4e0e DSH \u7684\u6df1\u5ea6\u96c6\u6210\u63d2\u4ef6\uff0c\u4e3a DSH \u63d0\u4f9b\u5b8c\u5907\u7684\u672c\u5730\u8bb0\u5fc6\u7cfb\u7edf\uff1a\u8fd0\u884c\u65f6\u8bb0\u5fc6\u3001\u53ef\u68c0\u7d22\u6863\u6848\u4e0e\u53d7\u76d1\u7763\u8bb0\u5fc6\u4f53\u3002",
     "id": "omdsh-dev/dsh-mnemon",
     "language": "JavaScript",
@@ -16,24 +52,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T21:55:10Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:50:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 91,
-    "updated_at": "2026-08-14T21:49:45Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T21:16:14Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:58:54Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -310,7 +319,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-08-14T18:02:04Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T16:10:11Z",
     "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-14T16:00:42Z",
-    "url": "https://github.com/ljchang/mecha"
   }
 ]
