@@ -1,5 +1,41 @@
 [
   {
+    "description": "PWA for Magic: The Gathering \u2014 life tracking at dice speed for 2\u20136 players, plus an AI rules judge grounded in the Compr",
+    "id": "KiKDraS/mtg-life-counter-app",
+    "language": "TypeScript",
+    "name": "KiKDraS/mtg-life-counter-app",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:54:27Z",
+    "url": "https://github.com/KiKDraS/mtg-life-counter-app"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-08-14T19:46:55Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "Easy-to-use, easy-to-customize, and high-quality secure code review skills for AI agents.",
+    "id": "ivan-sincek/secure-code-review-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/secure-code-review-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-14T19:50:14Z",
+    "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 123,
+    "updated_at": "2026-08-14T19:45:57Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-14T19:43:43Z",
+    "updated_at": "2026-08-14T19:45:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,7 +86,7 @@
     "language": "\u2014",
     "name": "ivan-sincek/threat-modeling-agent-skills",
     "stars": 2,
-    "updated_at": "2026-08-14T19:38:24Z",
+    "updated_at": "2026-08-14T19:47:13Z",
     "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 6907,
     "updated_at": "2026-08-14T18:56:52Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-14T18:50:42Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A Linux-only, ncurses based TUI AI coding agent.",
@@ -421,32 +448,5 @@
     "stars": 28949,
     "updated_at": "2026-08-14T15:37:06Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Self-hosted SRE orchestration for business teams: MCP + logs + config + ITSM, no platform conflict \u00b7 \u4e1a\u52a1\u7ec4\u5185\u7f51 \u00b7 \u8584\u7f16\u6392\u5c42 \u00b7 on-c",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 3,
-    "updated_at": "2026-08-14T15:27:57Z",
-    "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
-    "id": "AndriiLavrekha/awesome-progress-tracker",
-    "language": "TypeScript",
-    "name": "AndriiLavrekha/awesome-progress-tracker",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:17:08Z",
-    "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
-    "id": "eshanized/M31A",
-    "language": "Go",
-    "name": "eshanized/M31A",
-    "stars": 8,
-    "updated_at": "2026-08-14T14:50:10Z",
-    "url": "https://github.com/eshanized/M31A"
   }
 ]
