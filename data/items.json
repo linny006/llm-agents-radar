@@ -1,21 +1,30 @@
 [
   {
-    "description": "Complete guide to run Claude Code CLI & VS Code with AgentRouter using a WAF bypass proxy",
-    "id": "marko1olo/agentrouter-setup-guide",
-    "language": "HTML",
-    "name": "marko1olo/agentrouter-setup-guide",
-    "stars": 8,
-    "updated_at": "2026-08-14T11:43:21Z",
-    "url": "https://github.com/marko1olo/agentrouter-setup-guide"
-  },
-  {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 131,
-    "updated_at": "2026-08-14T11:41:23Z",
+    "updated_at": "2026-08-14T11:58:12Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "LLM-assisted code auditing. 54 phases, custom overlays, accountability.",
+    "id": "sturec5/code-audit-protocol",
+    "language": "Shell",
+    "name": "sturec5/code-audit-protocol",
+    "stars": 5,
+    "updated_at": "2026-08-14T11:57:01Z",
+    "url": "https://github.com/sturec5/code-audit-protocol"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-14T11:55:24Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -23,8 +32,26 @@
     "language": "Python",
     "name": "sunnnn2005/data-quality-agent",
     "stars": 0,
-    "updated_at": "2026-08-14T11:41:12Z",
+    "updated_at": "2026-08-14T11:51:23Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 157,
+    "updated_at": "2026-08-14T11:50:13Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-14T11:49:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -207,24 +234,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 157,
-    "updated_at": "2026-08-14T10:10:26Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-14T10:09:55Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "MCP server for spatial transcriptomics analysis through natural language interfaces.",
     "id": "cafferychen777/ChatSpatial",
     "language": "Python",
@@ -292,7 +301,7 @@
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
-    "stars": 9,
+    "stars": 11,
     "updated_at": "2026-08-14T09:21:44Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
@@ -382,7 +391,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 28943,
+    "stars": 28944,
     "updated_at": "2026-08-14T07:48:51Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T06:52:14Z",
     "url": "https://github.com/saas-claw/saasclaw"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:47:32Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   }
 ]
