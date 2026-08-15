@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 09:15 UTC
+> ⏰ Last updated: 2026-08-15 09:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-15 | Nexus-LLM is a ai model which can run locally on your device. |
 | 28 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 2 | TypeScript | 2026-08-15 | The plunge for pi to boost his search ability |
 | 29 | [secondorderai/ouroboros](https://github.com/secondorderai/ouroboros) | 2 | TypeScript | 2026-08-15 | Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer |
-| 30 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 1376 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 30 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 1378 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 31 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-15 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 32 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-15 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
 | 33 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-15 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
