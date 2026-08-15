@@ -1,5 +1,23 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-15T13:42:49Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-15T13:42:47Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
     "id": "xiaomaozjj666/issue-agent",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T13:22:11Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-15T13:17:01Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
@@ -274,7 +283,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1812,
+    "stars": 1819,
     "updated_at": "2026-08-15T11:42:35Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -403,15 +412,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T09:18:23Z",
     "url": "https://github.com/Aeloria-cmd/youbao"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-15T09:14:43Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
