@@ -1,5 +1,41 @@
 [
   {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 15,
+    "updated_at": "2026-08-15T11:41:31Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-15T11:40:49Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T11:34:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T11:34:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -16,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T11:25:29Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 15,
-    "updated_at": "2026-08-15T11:20:54Z",
-    "url": "https://github.com/jonortega20/fantasybot"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -45,15 +72,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T11:13:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -61,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T11:13:40Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T11:11:56Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T11:03:04Z",
     "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-15T10:54:06Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
@@ -148,7 +148,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1603,
+    "stars": 1622,
     "updated_at": "2026-08-15T10:21:51Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -365,7 +365,7 @@
     "language": "TypeScript",
     "name": "Mr-remon219/pi-search-boost",
     "stars": 2,
-    "updated_at": "2026-08-15T09:53:18Z",
+    "updated_at": "2026-08-15T11:41:58Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
