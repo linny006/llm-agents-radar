@@ -1,5 +1,50 @@
 [
   {
+    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
+    "id": "Chloride233/dsh-cot-profile",
+    "language": "JavaScript",
+    "name": "Chloride233/dsh-cot-profile",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:43:08Z",
+    "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-15T15:40:29Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:39:15Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
+    "id": "yuyu0529nya/YuResearchAgent",
+    "language": "Python",
+    "name": "yuyu0529nya/YuResearchAgent",
+    "stars": 4,
+    "updated_at": "2026-08-15T15:36:15Z",
+    "url": "https://github.com/yuyu0529nya/YuResearchAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T15:34:30Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -59,7 +104,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-15T15:30:09Z",
+    "updated_at": "2026-08-15T15:37:42Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:09:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
     "id": "wjabanjj/aifp-mcp",
     "language": "TypeScript",
@@ -108,20 +144,11 @@
     "url": "https://github.com/wjabanjj/aifp-mcp"
   },
   {
-    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
-    "id": "Chloride233/dsh-cot-profile",
-    "language": "JavaScript",
-    "name": "Chloride233/dsh-cot-profile",
-    "stars": 1,
-    "updated_at": "2026-08-15T15:08:58Z",
-    "url": "https://github.com/Chloride233/dsh-cot-profile"
-  },
-  {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1958,
+    "stars": 1971,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "Dr1mH4X/TeamSpeakClaw",
     "stars": 6,
-    "updated_at": "2026-08-15T14:38:25Z",
+    "updated_at": "2026-08-15T15:45:08Z",
     "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
   },
   {
@@ -175,7 +202,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 137,
+    "stars": 140,
     "updated_at": "2026-08-15T14:32:27Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T13:41:04Z",
     "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-15T13:32:53Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -391,7 +409,7 @@
     "id": "Fantasality/astrbot_plugin_dsh_bridge",
     "language": "Python",
     "name": "Fantasality/astrbot_plugin_dsh_bridge",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-15T12:21:51Z",
     "url": "https://github.com/Fantasality/astrbot_plugin_dsh_bridge"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "The plunge for pi to boost his search ability",
-    "id": "Mr-remon219/pi-search-boost",
-    "language": "TypeScript",
-    "name": "Mr-remon219/pi-search-boost",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:50:55Z",
-    "url": "https://github.com/Mr-remon219/pi-search-boost"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-15T11:41:31Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-15T11:03:33Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
   }
 ]
