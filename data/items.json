@@ -1,5 +1,23 @@
 [
   {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 2,
+    "updated_at": "2026-08-15T16:00:03Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T15:59:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,17 +32,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-15T15:51:06Z",
+    "updated_at": "2026-08-15T15:57:16Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
+    "description": "DSH \u667a\u80fd\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6 \u2014\u2014 \u5728\u6709\u9650\u7a97\u53e3\u5185\u7ba1\u7406\u8ba4\u77e5\u8d44\u6e90\uff0c\u8ba9 Agent \u8bb0\u4f4f\u771f\u6b63\u91cd\u8981\u7684\u4fe1\u606f\u3002                 Smart context compression for DSH \u2014 managing cognitive ",
+    "id": "Whatsmore-nf/dsh-context-steward",
+    "language": "\u2014",
+    "name": "Whatsmore-nf/dsh-context-steward",
     "stars": 0,
-    "updated_at": "2026-08-15T15:45:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "updated_at": "2026-08-15T15:46:25Z",
+    "url": "https://github.com/Whatsmore-nf/dsh-context-steward"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -61,15 +79,6 @@
     "stars": 7,
     "updated_at": "2026-08-15T15:40:29Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "The plunge for pi to boost his search ability",
-    "id": "Mr-remon219/pi-search-boost",
-    "language": "TypeScript",
-    "name": "Mr-remon219/pi-search-boost",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:39:15Z",
-    "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
     "description": "Evidence-grounded multi-agent deep research with claim-level attribution, gap-driven retrieval, auditable evaluation, an",
@@ -157,7 +166,7 @@
     "id": "wjabanjj/aifp-mcp",
     "language": "TypeScript",
     "name": "wjabanjj/aifp-mcp",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-15T15:09:14Z",
     "url": "https://github.com/wjabanjj/aifp-mcp"
   },
@@ -166,7 +175,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1980,
+    "stars": 1986,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T11:44:00Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 15,
-    "updated_at": "2026-08-15T11:41:31Z",
-    "url": "https://github.com/jonortega20/fantasybot"
   }
 ]
