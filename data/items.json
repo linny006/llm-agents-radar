@@ -1,5 +1,50 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-15T18:56:49Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4389,
+    "updated_at": "2026-08-15T18:57:51Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-08-15T18:53:51Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-15T18:53:43Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-15T18:59:39Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -90,24 +135,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-15T18:44:44Z",
-    "url": "https://github.com/peder1981/AdvPP"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-08-15T18:34:57Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 123,
     "updated_at": "2026-08-15T18:25:30Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-15T18:53:21Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -158,7 +176,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T18:50:42Z",
+    "updated_at": "2026-08-15T18:54:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -391,7 +409,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2115,
+    "stars": 2118,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:34:34Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 144,
-    "updated_at": "2026-08-15T14:32:27Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:32:26Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   }
 ]
