@@ -1,5 +1,32 @@
 [
   {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-15T18:26:55Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 123,
+    "updated_at": "2026-08-15T18:25:30Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-15T18:28:20Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -59,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T18:22:32Z",
+    "updated_at": "2026-08-15T18:28:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-08-15T17:23:06Z",
     "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-15T17:18:09Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -261,15 +279,6 @@
     "url": "https://github.com/Aeloria-cmd/youbao"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-15T18:18:32Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "DSH \u667a\u80fd\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6 \u2014\u2014 \u5728\u6709\u9650\u7a97\u53e3\u5185\u7ba1\u7406\u8ba4\u77e5\u8d44\u6e90\uff0c\u8ba9 Agent \u8bb0\u4f4f\u771f\u6b63\u91cd\u8981\u7684\u4fe1\u606f\u3002                 Smart context compression for DSH \u2014 managing cognitive ",
     "id": "Whatsmore-nf/dsh-context-steward",
     "language": "\u2014",
@@ -337,7 +346,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2099,
+    "stars": 2107,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T14:18:42Z",
     "url": "https://github.com/plutorion275/radar-req-agent-demo"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 127,
-    "updated_at": "2026-08-15T14:11:43Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   }
 ]
