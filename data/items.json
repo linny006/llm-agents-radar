@@ -1,20 +1,83 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:41:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
     "id": "TJR181/Cruiser-Agent",
     "language": "Python",
     "name": "TJR181/Cruiser-Agent",
     "stars": 1,
-    "updated_at": "2026-08-15T14:30:12Z",
+    "updated_at": "2026-08-15T14:40:24Z",
     "url": "https://github.com/TJR181/Cruiser-Agent"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-08-15T14:38:25Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 13,
+    "updated_at": "2026-08-15T14:38:02Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 48,
+    "updated_at": "2026-08-15T14:36:20Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:34:34Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 132,
+    "updated_at": "2026-08-15T14:32:27Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-15T14:32:26Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1881,
-    "updated_at": "2026-08-15T14:30:11Z",
+    "stars": 1900,
+    "updated_at": "2026-08-15T14:45:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
@@ -45,13 +108,13 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:23:02Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
+    "description": "DSH Minimal reasoning-trajectory steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode.",
+    "id": "vavilonska/SeekAnchor",
+    "language": "TypeScript",
+    "name": "vavilonska/SeekAnchor",
+    "stars": 1,
+    "updated_at": "2026-08-15T14:28:15Z",
+    "url": "https://github.com/vavilonska/SeekAnchor"
   },
   {
     "description": "AI agent that diagnoses faults in automotive CAN bus logs and radar point-cloud data, with a React UI that shows its ful",
@@ -104,17 +167,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-15T14:18:54Z",
+    "updated_at": "2026-08-15T14:31:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T14:15:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -133,15 +187,6 @@
     "stars": 124,
     "updated_at": "2026-08-15T14:11:43Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 47,
-    "updated_at": "2026-08-15T14:06:23Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -169,15 +214,6 @@
     "stars": 33,
     "updated_at": "2026-08-15T13:57:02Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-15T13:42:47Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -360,15 +396,6 @@
     "url": "https://github.com/jonortega20/fantasybot"
   },
   {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 13,
-    "updated_at": "2026-08-15T11:18:36Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T09:55:58Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-15T09:31:04Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
-    "id": "ivan-sincek/threat-modeling-agent-skills",
-    "language": "\u2014",
-    "name": "ivan-sincek/threat-modeling-agent-skills",
-    "stars": 2,
-    "updated_at": "2026-08-15T09:31:50Z",
-    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
-  },
-  {
-    "description": "Unifies YouTube Music and Tidal into one library - bidirectional sync, fuzzy cross-service matching, a genre/mood knowle",
-    "id": "Jesko-dmls/MusicManager",
-    "language": "Python",
-    "name": "Jesko-dmls/MusicManager",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:25:31Z",
-    "url": "https://github.com/Jesko-dmls/MusicManager"
   }
 ]
