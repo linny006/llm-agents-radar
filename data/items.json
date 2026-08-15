@@ -1,11 +1,29 @@
 [
   {
+    "description": "The hybrid CLI/Web coding agent that works your way.",
+    "id": "martydill/flexorama",
+    "language": "Rust",
+    "name": "martydill/flexorama",
+    "stars": 1,
+    "updated_at": "2026-08-15T01:34:37Z",
+    "url": "https://github.com/martydill/flexorama"
+  },
+  {
+    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
+    "id": "dakshitha-a/computational-chemistry-agent",
+    "language": "Python",
+    "name": "dakshitha-a/computational-chemistry-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T01:33:40Z",
+    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 33,
-    "updated_at": "2026-08-15T01:30:14Z",
+    "updated_at": "2026-08-15T01:34:38Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -25,15 +43,6 @@
     "stars": 5729,
     "updated_at": "2026-08-15T01:19:46Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "The hybrid CLI/Web coding agent that works your way.",
-    "id": "martydill/flexorama",
-    "language": "Rust",
-    "name": "martydill/flexorama",
-    "stars": 1,
-    "updated_at": "2026-08-15T01:19:13Z",
-    "url": "https://github.com/martydill/flexorama"
   },
   {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
@@ -115,15 +124,6 @@
     "stars": 6,
     "updated_at": "2026-08-15T00:31:26Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Conversational, WebMO-style agent for quantum chemistry: local LLM + LangGraph + PySCF/ORCA/BAGEL",
-    "id": "dakshitha-a/computational-chemistry-agent",
-    "language": "Python",
-    "name": "dakshitha-a/computational-chemistry-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T00:13:07Z",
-    "url": "https://github.com/dakshitha-a/computational-chemistry-agent"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
