@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 16:14 UTC
+> ⏰ Last updated: 2026-08-15 16:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -64,14 +64,14 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 1 | — | 2026-08-15 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
 | 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-15 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 22 | [wjabanjj/aifp-mcp](https://github.com/wjabanjj/aifp-mcp) | 2 | TypeScript | 2026-08-15 | AiFP 记忆感知系统｜MCP 服务，一套记忆全 AI 共享。面向中文的 Agent 感知记忆，支持叙事链、语义纠错、感知链图扩散。兼容 DeepSeek‑Harness、Claude Code、Cursor、Codex等全部 MCP 客户 |
-| 23 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2003 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 23 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2004 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 24 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 1 | Python | 2026-08-15 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
 | 25 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-15 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
 | 26 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 48 | TypeScript | 2026-08-15 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 27 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-15 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
 | 28 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 141 | Python | 2026-08-15 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
 | 29 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-15 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 30 | [vavilonska/SeekAnchor](https://github.com/vavilonska/SeekAnchor) | 4 | TypeScript | 2026-08-15 | DSH Minimal reasoning-trajectory steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode. |
+| 30 | [vavilonska/SeekAnchor](https://github.com/vavilonska/SeekAnchor) | 6 | TypeScript | 2026-08-15 | DSH Minimal reasoning-trajectory steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode. |
 | 31 | [plutorion275/radar-diagnostic-assistant](https://github.com/plutorion275/radar-diagnostic-assistant) | 0 | Python | 2026-08-15 | AI agent that diagnoses faults in automotive CAN bus logs and radar point-cloud data, with a React UI that shows its ful |
 | 32 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-15 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
 | 33 | [plutorion275/radar-req-agent-demo](https://github.com/plutorion275/radar-req-agent-demo) | 0 | Python | 2026-08-15 | RAG + tool-calling agent demo that turns a requirement CSV into a generated C++ header, splitting deterministic logic fr |
