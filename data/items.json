@@ -1,12 +1,30 @@
 [
   {
-    "description": "Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need\u2026 / I need\u2026, not Let me\u2026",
-    "id": "Averyyy/pi-dsh-minimal",
-    "language": "TypeScript",
-    "name": "Averyyy/pi-dsh-minimal",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-15T16:58:23Z",
-    "url": "https://github.com/Averyyy/pi-dsh-minimal"
+    "updated_at": "2026-08-15T17:14:36Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T17:13:27Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 4,
+    "updated_at": "2026-08-15T17:08:09Z",
+    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "freshxiaoyao/openclaw-human-gate",
     "stars": 1,
-    "updated_at": "2026-08-15T16:57:56Z",
+    "updated_at": "2026-08-15T17:05:52Z",
     "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:02:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:00:07Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need\u2026 / I need\u2026, not Let me\u2026",
+    "id": "Averyyy/pi-dsh-minimal",
+    "language": "TypeScript",
+    "name": "Averyyy/pi-dsh-minimal",
+    "stars": 0,
+    "updated_at": "2026-08-15T16:58:23Z",
+    "url": "https://github.com/Averyyy/pi-dsh-minimal"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -27,24 +72,6 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T16:53:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 4,
-    "updated_at": "2026-08-15T16:48:11Z",
-    "url": "https://github.com/muthuishere/toolnexus"
-  },
-  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -52,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T16:44:33Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:43:58Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:00:07Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "The plunge for pi to boost his search ability",
@@ -144,15 +153,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T16:16:33Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -176,7 +176,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-15T16:06:12Z",
+    "updated_at": "2026-08-15T17:14:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -274,7 +274,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2048,
+    "stars": 2065,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -346,7 +346,7 @@
     "id": "vavilonska/SeekAnchor",
     "language": "TypeScript",
     "name": "vavilonska/SeekAnchor",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-08-15T14:28:15Z",
     "url": "https://github.com/vavilonska/SeekAnchor"
   },
@@ -382,7 +382,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 126,
+    "stars": 127,
     "updated_at": "2026-08-15T14:11:43Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
