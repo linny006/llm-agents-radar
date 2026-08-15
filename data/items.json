@@ -1,5 +1,32 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-15T09:14:43Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Unifies YouTube Music and Tidal into one library - bidirectional sync, fuzzy cross-service matching, a genre/mood knowle",
+    "id": "Jesko-dmls/MusicManager",
+    "language": "Python",
+    "name": "Jesko-dmls/MusicManager",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:14:02Z",
+    "url": "https://github.com/Jesko-dmls/MusicManager"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:11:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -32,17 +59,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 797,
-    "updated_at": "2026-08-15T08:51:35Z",
+    "updated_at": "2026-08-15T09:14:12Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T08:48:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
@@ -247,7 +265,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1348,
+    "stars": 1376,
     "updated_at": "2026-08-15T07:13:25Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:53:50Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:50:06Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-15T05:49:52Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
