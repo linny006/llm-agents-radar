@@ -1,12 +1,84 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-15T07:13:40Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 1164,
+    "updated_at": "2026-08-15T07:13:25Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-15T07:13:09Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-15T07:11:35Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
     "description": "The plunge for pi to boost his search ability",
     "id": "Mr-remon219/pi-search-boost",
     "language": "TypeScript",
     "name": "Mr-remon219/pi-search-boost",
     "stars": 1,
-    "updated_at": "2026-08-15T06:59:45Z",
+    "updated_at": "2026-08-15T07:11:12Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
+    "id": "wjabanjj/aifp-mcp",
+    "language": "TypeScript",
+    "name": "wjabanjj/aifp-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-15T07:10:13Z",
+    "url": "https://github.com/wjabanjj/aifp-mcp"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-15T07:08:57Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Ouroboros is an Agent Harness, CLI and Desktop App with Self-Improvement layer",
+    "id": "secondorderai/ouroboros",
+    "language": "TypeScript",
+    "name": "secondorderai/ouroboros",
+    "stars": 2,
+    "updated_at": "2026-08-15T07:05:35Z",
+    "url": "https://github.com/secondorderai/ouroboros"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T07:05:03Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
@@ -34,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T06:53:15Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
-    "id": "wjabanjj/aifp-mcp",
-    "language": "TypeScript",
-    "name": "wjabanjj/aifp-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-15T06:51:05Z",
-    "url": "https://github.com/wjabanjj/aifp-mcp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T06:59:48Z",
+    "updated_at": "2026-08-15T07:13:40Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -142,24 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T06:24:39Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-15T06:54:32Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:23:44Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -178,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-08-15T06:22:32Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1139,
-    "updated_at": "2026-08-15T06:18:06Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -297,15 +333,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:55:48Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -349,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T05:47:48Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-15T05:46:16Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-15T05:29:52Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-15T05:28:16Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Local-first text-to-CAD agent: NL spec -> verified manufacturable parts on one 8GB GPU. build123d observe-edit loop, det",
-    "id": "Anthonyhangprinter/maker-agent",
-    "language": "Python",
-    "name": "Anthonyhangprinter/maker-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:28:12Z",
-    "url": "https://github.com/Anthonyhangprinter/maker-agent"
   }
 ]
