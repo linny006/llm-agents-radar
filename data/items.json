@@ -1,5 +1,23 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:44:00Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 1629,
+    "updated_at": "2026-08-15T11:42:35Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
     "id": "jonortega20/fantasybot",
     "language": "Python",
@@ -144,15 +162,6 @@
     "url": "https://github.com/cafferychen777/ChatSpatial"
   },
   {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1622,
-    "updated_at": "2026-08-15T10:21:51Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "Deus-corp/cks-mcp",
     "language": "Python",
@@ -205,15 +214,6 @@
     "stars": 12,
     "updated_at": "2026-08-15T09:27:35Z",
     "url": "https://github.com/xcq20100224/Nolan"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-15T09:26:36Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
     "description": "Unifies YouTube Music and Tidal into one library - bidirectional sync, fuzzy cross-service matching, a genre/mood knowle",
