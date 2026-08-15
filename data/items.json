@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:57:57Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:57:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -25,15 +43,6 @@
     "stars": 5,
     "updated_at": "2026-08-15T20:46:13Z",
     "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T20:38:07Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -439,14 +448,5 @@
     "stars": 3069,
     "updated_at": "2026-08-15T14:46:00Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
-    "id": "TJR181/Cruiser-Agent",
-    "language": "Python",
-    "name": "TJR181/Cruiser-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-15T14:40:24Z",
-    "url": "https://github.com/TJR181/Cruiser-Agent"
   }
 ]
