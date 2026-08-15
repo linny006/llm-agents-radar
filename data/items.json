@@ -1,12 +1,30 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:52:10Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T20:43:44Z",
+    "updated_at": "2026-08-15T20:52:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-08-15T20:46:13Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T20:38:07Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:32:03Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T20:42:22Z",
+    "updated_at": "2026-08-15T20:54:41Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 4389,
     "updated_at": "2026-08-15T19:51:26Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-08-15T20:40:18Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -427,7 +427,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2141,
+    "stars": 2147,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
