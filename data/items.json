@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-15T19:59:58Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "Oxygen-Low/LocalLLM",
     "stars": 0,
-    "updated_at": "2026-08-15T19:53:33Z",
+    "updated_at": "2026-08-15T19:55:07Z",
     "url": "https://github.com/Oxygen-Low/LocalLLM"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-15T19:50:23Z",
+    "updated_at": "2026-08-15T19:59:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T19:51:54Z",
+    "updated_at": "2026-08-15T19:59:19Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -342,15 +351,6 @@
     "url": "https://github.com/Chloride233/dsh-cot-profile"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-15T17:15:36Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "\u9762\u5411\u5b89\u5168\u9776\u573a\u7684\u81ea\u4e3b\u6e17\u900f Agent\uff1aReAct \u53cc\u5c42\u67b6\u6784 \u00b7 \u4e09\u5c42\u8bb0\u5fc6 \u00b7 \u53ef\u81ea\u6211\u6269\u5c55\u7684 pentool \u5de5\u5177\u6ce8\u518c\u8868\uff0c\u5185\u6838\u4e3a 600 \u884c TypeScript nano-pi",
     "id": "Aeloria-cmd/youbao",
     "language": "TypeScript",
@@ -427,7 +427,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2131,
+    "stars": 2133,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
