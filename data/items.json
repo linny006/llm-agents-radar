@@ -1,12 +1,30 @@
 [
   {
+    "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
+    "id": "Apageoflove/DSH-changeproof",
+    "language": "TypeScript",
+    "name": "Apageoflove/DSH-changeproof",
+    "stars": 2,
+    "updated_at": "2026-08-15T10:41:09Z",
+    "url": "https://github.com/Apageoflove/DSH-changeproof"
+  },
+  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
     "name": "Ven0m0/gemini-web-wrapper",
     "stars": 4,
-    "updated_at": "2026-08-15T10:40:01Z",
+    "updated_at": "2026-08-15T10:41:09Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 44,
+    "updated_at": "2026-08-15T10:37:07Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -76,7 +94,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1532,
+    "stars": 1543,
     "updated_at": "2026-08-15T10:21:51Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -115,15 +133,6 @@
     "stars": 10,
     "updated_at": "2026-08-15T10:15:01Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 43,
-    "updated_at": "2026-08-15T10:37:07Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -216,15 +225,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
-    "id": "Apageoflove/DSH-changeproof",
-    "language": "TypeScript",
-    "name": "Apageoflove/DSH-changeproof",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:48:23Z",
-    "url": "https://github.com/Apageoflove/DSH-changeproof"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T10:20:05Z",
+    "updated_at": "2026-08-15T10:42:17Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
