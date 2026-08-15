@@ -1,5 +1,32 @@
 [
   {
+    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 121,
+    "updated_at": "2026-08-15T08:17:09Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T08:16:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-15T08:15:48Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -22,7 +49,7 @@
     "id": "Apageoflove/DSH-changeproof",
     "language": "TypeScript",
     "name": "Apageoflove/DSH-changeproof",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-15T08:10:16Z",
     "url": "https://github.com/Apageoflove/DSH-changeproof"
   },
@@ -31,7 +58,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 40,
+    "stars": 41,
     "updated_at": "2026-08-15T08:05:40Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -63,15 +90,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T07:52:12Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 7,
     "updated_at": "2026-08-15T07:50:10Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "Browser-based 3D staging studio: scene blocking, character posing, camera moves and cuts, prompt-block sequencing, and A",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 121,
-    "updated_at": "2026-08-15T07:43:33Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -153,20 +162,11 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-15T08:04:56Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1273,
+    "stars": 1275,
     "updated_at": "2026-08-15T07:13:25Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
