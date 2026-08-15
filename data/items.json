@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T03:21:02Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-15T03:19:20Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -90,15 +108,6 @@
     "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T02:38:05Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "SparkLabs - The First AI-Native Game Engine. Ignite Your Infinite Play! \ud83d\udca5 \ud83c\udfae",
     "id": "Yuan-ManX/SparkLabs",
     "language": "Python",
@@ -121,7 +130,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 665,
+    "stars": 671,
     "updated_at": "2026-08-15T02:27:48Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "martydill/flexorama",
     "stars": 1,
-    "updated_at": "2026-08-15T01:48:20Z",
+    "updated_at": "2026-08-15T03:20:41Z",
     "url": "https://github.com/martydill/flexorama"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T22:46:33Z",
     "url": "https://github.com/Asif-Ucchwas/portfolio-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-14T22:42:13Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
