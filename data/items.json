@@ -1,5 +1,32 @@
 [
   {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-15T17:59:55Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
+    "id": "freshxiaoyao/openclaw-human-gate",
+    "language": "TypeScript",
+    "name": "freshxiaoyao/openclaw-human-gate",
+    "stars": 1,
+    "updated_at": "2026-08-15T17:59:13Z",
+    "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-15T17:58:26Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
     "id": "indyfive11/gabagent",
     "language": "Python",
@@ -99,15 +126,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
-    "id": "freshxiaoyao/openclaw-human-gate",
-    "language": "TypeScript",
-    "name": "freshxiaoyao/openclaw-human-gate",
-    "stars": 1,
-    "updated_at": "2026-08-15T17:05:52Z",
-    "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T16:58:23Z",
     "url": "https://github.com/Averyyy/pi-dsh-minimal"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-15T16:56:05Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -160,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T16:33:33Z",
     "url": "https://github.com/Kishore-dev-21/DataMind_AI"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-15T16:28:15Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
@@ -310,7 +310,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2086,
+    "stars": 2087,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
