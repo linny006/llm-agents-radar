@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 13:05 UTC
+> ⏰ Last updated: 2026-08-15 13:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-15 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [Apageoflove/DSH-changeproof](https://github.com/Apageoflove/DSH-changeproof) | 2 | TypeScript | 2026-08-15 | 变更证明（ChangeProof）— DeepSeek Harness 插件：代码改动后确认改动的行真的被测试覆盖到 |
-| 4 | [cookiespiggy/deepseek-harness-stair-cookbook](https://github.com/cookiespiggy/deepseek-harness-stair-cookbook) | 0 | TypeScript | 2026-08-15 | 学习官方 deepseek-harness 的阶梯式教程：从 Cordis 基础到二次开发，12 步可独立运行，中文注释。 |
+| 1 | [Apageoflove/DSH-changeproof](https://github.com/Apageoflove/DSH-changeproof) | 2 | TypeScript | 2026-08-15 | 变更证明（ChangeProof）— DeepSeek Harness 插件：代码改动后确认改动的行真的被测试覆盖到 |
+| 2 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-15 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 4 | [cookiespiggy/deepseek-harness-stair-cookbook](https://github.com/cookiespiggy/deepseek-harness-stair-cookbook) | 1 | TypeScript | 2026-08-15 | 学习官方 deepseek-harness 的阶梯式教程：从 Cordis 基础到二次开发，12 步可独立运行，中文注释。 |
 | 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-15 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 6 | [xcq20100224/Nolan](https://github.com/xcq20100224/Nolan) | 12 | Python | 2026-08-15 | 本地优先的中文语音 AI 管家——说一句话，它替你操作 Windows（GLM-5.2 Agent + 本地 Whisper + GUI 自动化） |
 | 7 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-15 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 1 | — | 2026-08-15 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
 | 23 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 2 | TypeScript | 2026-08-15 | The plunge for pi to boost his search ability |
 | 24 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-15 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
-| 25 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 1750 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 25 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 1766 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 26 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 15 | Python | 2026-08-15 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
 | 27 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-15 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
 | 28 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-15 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
