@@ -1,5 +1,77 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T09:28:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u8bed\u97f3 AI \u7ba1\u5bb6\u2014\u2014\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u66ff\u4f60\u64cd\u4f5c Windows\uff08GLM-5.2 Agent + \u672c\u5730 Whisper + GUI \u81ea\u52a8\u5316\uff09",
+    "id": "xcq20100224/Nolan",
+    "language": "Python",
+    "name": "xcq20100224/Nolan",
+    "stars": 12,
+    "updated_at": "2026-08-15T09:27:35Z",
+    "url": "https://github.com/xcq20100224/Nolan"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-15T09:26:36Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 797,
+    "updated_at": "2026-08-15T09:26:15Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Unifies YouTube Music and Tidal into one library - bidirectional sync, fuzzy cross-service matching, a genre/mood knowle",
+    "id": "Jesko-dmls/MusicManager",
+    "language": "Python",
+    "name": "Jesko-dmls/MusicManager",
+    "stars": 1,
+    "updated_at": "2026-08-15T09:25:31Z",
+    "url": "https://github.com/Jesko-dmls/MusicManager"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 123,
+    "updated_at": "2026-08-15T09:23:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-15T09:19:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u9762\u5411\u5b89\u5168\u9776\u573a\u7684\u81ea\u4e3b\u6e17\u900f Agent\uff1aReAct \u53cc\u5c42\u67b6\u6784 \u00b7 \u4e09\u5c42\u8bb0\u5fc6 \u00b7 \u53ef\u81ea\u6211\u6269\u5c55\u7684 pentool \u5de5\u5177\u6ce8\u518c\u8868\uff0c\u5185\u6838\u4e3a 600 \u884c TypeScript nano-pi",
+    "id": "Aeloria-cmd/youbao",
+    "language": "TypeScript",
+    "name": "Aeloria-cmd/youbao",
+    "stars": 2,
+    "updated_at": "2026-08-15T09:18:23Z",
+    "url": "https://github.com/Aeloria-cmd/youbao"
+  },
+  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -9,15 +81,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Unifies YouTube Music and Tidal into one library - bidirectional sync, fuzzy cross-service matching, a genre/mood knowle",
-    "id": "Jesko-dmls/MusicManager",
-    "language": "Python",
-    "name": "Jesko-dmls/MusicManager",
-    "stars": 1,
-    "updated_at": "2026-08-15T09:14:02Z",
-    "url": "https://github.com/Jesko-dmls/MusicManager"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -25,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T09:11:54Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:57:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
@@ -50,17 +104,8 @@
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 121,
-    "updated_at": "2026-08-15T08:53:51Z",
+    "updated_at": "2026-08-15T09:19:14Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 797,
-    "updated_at": "2026-08-15T09:16:08Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
@@ -70,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T08:48:23Z",
     "url": "https://github.com/Apageoflove/DSH-changeproof"
-  },
-  {
-    "description": "\u9762\u5411\u5b89\u5168\u9776\u573a\u7684\u81ea\u4e3b\u6e17\u900f Agent\uff1aReAct \u53cc\u5c42\u67b6\u6784 \u00b7 \u4e09\u5c42\u8bb0\u5fc6 \u00b7 \u53ef\u81ea\u6211\u6269\u5c55\u7684 pentool \u5de5\u5177\u6ce8\u518c\u8868\uff0c\u5185\u6838\u4e3a 600 \u884c TypeScript nano-pi",
-    "id": "Aeloria-cmd/youbao",
-    "language": "TypeScript",
-    "name": "Aeloria-cmd/youbao",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:46:39Z",
-    "url": "https://github.com/Aeloria-cmd/youbao"
   },
   {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
@@ -135,6 +171,15 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
+    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
+    "id": "zimodzh/dsh-plugin-dev-skills",
+    "language": "\u2014",
+    "name": "zimodzh/dsh-plugin-dev-skills",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:35:04Z",
+    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -178,24 +223,6 @@
     "stars": 54,
     "updated_at": "2026-08-15T08:27:46Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-15T08:24:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:19:39Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "Mr-remon219/pi-search-boost",
     "stars": 2,
-    "updated_at": "2026-08-15T07:54:33Z",
+    "updated_at": "2026-08-15T09:29:34Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
@@ -265,7 +292,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1378,
+    "stars": 1401,
     "updated_at": "2026-08-15T07:13:25Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:57:38Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:57:19Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:55:12Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:53:50Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
