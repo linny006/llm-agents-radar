@@ -1,11 +1,47 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:51:19Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI chat and developer platform.",
+    "id": "Oxygen-Low/LocalLLM",
+    "language": "TypeScript",
+    "name": "Oxygen-Low/LocalLLM",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:53:33Z",
+    "url": "https://github.com/Oxygen-Low/LocalLLM"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-15T19:50:23Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:50:04Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A Claude Code plugin: real, observable Chrome tab control an agent drives interactively (click, type, read DOM/console/n",
     "id": "MananKakkar1/browser-agent",
     "language": "Python",
     "name": "MananKakkar1/browser-agent",
     "stars": 0,
-    "updated_at": "2026-08-15T19:41:47Z",
+    "updated_at": "2026-08-15T19:48:19Z",
     "url": "https://github.com/MananKakkar1/browser-agent"
   },
   {
@@ -18,30 +54,12 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:34:08Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:33:16Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T19:25:52Z",
+    "updated_at": "2026-08-15T19:51:54Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -61,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T19:25:26Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-15T19:26:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4389,
-    "updated_at": "2026-08-15T18:57:51Z",
+    "updated_at": "2026-08-15T19:51:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -418,7 +427,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2128,
+    "stars": 2131,
     "updated_at": "2026-08-15T14:47:52Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T14:40:24Z",
     "url": "https://github.com/TJR181/Cruiser-Agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 50,
-    "updated_at": "2026-08-15T14:36:20Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
