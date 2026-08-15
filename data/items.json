@@ -1,12 +1,102 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:27:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-15T06:13:50Z",
+    "updated_at": "2026-08-15T06:28:01Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 3,
+    "updated_at": "2026-08-15T06:24:39Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-15T06:27:48Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-15T06:23:44Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 10,
+    "updated_at": "2026-08-15T06:22:54Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-08-15T06:22:32Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:21:54Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 1072,
+    "updated_at": "2026-08-15T06:18:06Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-15T06:16:30Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
+    "id": "wjabanjj/aifp-mcp",
+    "language": "TypeScript",
+    "name": "wjabanjj/aifp-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-15T06:26:58Z",
+    "url": "https://github.com/wjabanjj/aifp-mcp"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -25,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T06:08:43Z",
     "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-15T06:08:39Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
@@ -169,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T05:55:12Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:53:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -369,15 +441,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:19:27Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T05:54:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:01:27Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-15T06:13:49Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 3,
-    "updated_at": "2026-08-15T04:27:51Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-15T04:18:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 1036,
-    "updated_at": "2026-08-15T04:08:46Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-15T04:04:03Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
-    "id": "shimo4228/akc-cycle",
-    "language": "Python",
-    "name": "shimo4228/akc-cycle",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:57:48Z",
-    "url": "https://github.com/shimo4228/akc-cycle"
   }
 ]
