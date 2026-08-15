@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 17:30 UTC
+> ⏰ Last updated: 2026-08-15 17:42 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 3 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 4 | MDX | 2026-08-15 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
-| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-15 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 5 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-15 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 6 | [Tomsabay/abaqus_agent](https://github.com/Tomsabay/abaqus_agent) | 20 | Python | 2026-08-15 | AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec |
-| 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-15 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-15 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 9 | [freshxiaoyao/openclaw-human-gate](https://github.com/freshxiaoyao/openclaw-human-gate) | 1 | TypeScript | 2026-08-15 | Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project—a t |
-| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-15 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 5 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 4 | MDX | 2026-08-15 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 6 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-15 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 7 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-15 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 8 | [Tomsabay/abaqus_agent](https://github.com/Tomsabay/abaqus_agent) | 20 | Python | 2026-08-15 | AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec |
+| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-15 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 10 | [freshxiaoyao/openclaw-human-gate](https://github.com/freshxiaoyao/openclaw-human-gate) | 1 | TypeScript | 2026-08-15 | Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project—a t |
 | 11 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-15 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
 | 12 | [Averyyy/pi-dsh-minimal](https://github.com/Averyyy/pi-dsh-minimal) | 0 | TypeScript | 2026-08-15 | Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need… / I need…, not Let me… |
 | 13 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-15 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
@@ -74,13 +74,13 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-15 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 31 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 1 | — | 2026-08-15 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
 | 32 | [wjabanjj/aifp-mcp](https://github.com/wjabanjj/aifp-mcp) | 2 | TypeScript | 2026-08-15 | AiFP 记忆感知系统｜MCP 服务，一套记忆全 AI 共享。面向中文的 Agent 感知记忆，支持叙事链、语义纠错、感知链图扩散。兼容 DeepSeek‑Harness、Claude Code、Cursor、Codex等全部 MCP 客户 |
-| 33 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2076 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 33 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2082 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 34 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3069 | Python | 2026-08-15 | SRE Agent - CNCF Sandbox Project |
 | 35 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 1 | Python | 2026-08-15 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
 | 36 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 13 | JavaScript | 2026-08-15 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 37 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 49 | TypeScript | 2026-08-15 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 37 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 50 | TypeScript | 2026-08-15 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 38 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-15 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
-| 39 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 141 | Python | 2026-08-15 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
+| 39 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 140 | Python | 2026-08-15 | Self-Programming AI Agent Framework. Agents create and refine their own workflows. |
 | 40 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-15 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
 | 41 | [vavilonska/SeekAnchor](https://github.com/vavilonska/SeekAnchor) | 8 | TypeScript | 2026-08-15 | DSH Minimal reasoning-trajectory steering adapters for DeepSeek V4 Pro on Pi, Oh My Pi, and OpenCode. |
 | 42 | [plutorion275/radar-diagnostic-assistant](https://github.com/plutorion275/radar-diagnostic-assistant) | 0 | Python | 2026-08-15 | AI agent that diagnoses faults in automotive CAN bus logs and radar point-cloud data, with a React UI that shows its ful |
