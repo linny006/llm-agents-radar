@@ -1,21 +1,30 @@
 [
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
     "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:55:23Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
+    "name": "monocle2ai/monocle",
+    "stars": 332,
+    "updated_at": "2026-08-15T23:14:21Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2166,
-    "updated_at": "2026-08-15T22:55:15Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:13:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:12:38Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -23,7 +32,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-15T22:52:25Z",
+    "updated_at": "2026-08-15T23:12:29Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -32,8 +41,35 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-15T22:52:07Z",
+    "updated_at": "2026-08-15T23:09:00Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-15T23:08:11Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
+    "id": "Tomsabay/abaqus_agent",
+    "language": "Python",
+    "name": "Tomsabay/abaqus_agent",
+    "stars": 20,
+    "updated_at": "2026-08-15T23:02:38Z",
+    "url": "https://github.com/Tomsabay/abaqus_agent"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 2170,
+    "updated_at": "2026-08-15T22:55:15Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -43,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-08-15T22:46:07Z",
     "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "A from-scratch tool-calling agent using a local LLM+Apify search",
+    "id": "JGonzX/ollama-web-agent",
+    "language": "Python",
+    "name": "JGonzX/ollama-web-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:41:39Z",
+    "url": "https://github.com/JGonzX/ollama-web-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -79,15 +124,6 @@
     "stars": 123,
     "updated_at": "2026-08-15T22:18:13Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-15T22:14:16Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -270,15 +306,6 @@
     "url": "https://github.com/amineeng/scraping-browser"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:11:19Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
     "id": "Saran1536/ComfyUI-LoaderUtils",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 4389,
     "updated_at": "2026-08-15T19:51:26Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 3,
-    "updated_at": "2026-08-15T18:53:43Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Claude Code-style AI coding assistant built on the Gab AI Developer API",
-    "id": "indyfive11/gabagent",
-    "language": "Python",
-    "name": "indyfive11/gabagent",
-    "stars": 0,
-    "updated_at": "2026-08-15T18:52:18Z",
-    "url": "https://github.com/indyfive11/gabagent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-15T18:48:20Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
