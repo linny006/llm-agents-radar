@@ -1,5 +1,14 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-15T05:01:27Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -121,7 +130,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 860,
+    "stars": 863,
     "updated_at": "2026-08-15T04:08:46Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-14T23:07:26Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-14T23:05:32Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
