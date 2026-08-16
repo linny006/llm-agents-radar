@@ -1,5 +1,14 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5734,
+    "updated_at": "2026-08-16T01:25:18Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -166,7 +175,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2197,
+    "stars": 2205,
     "updated_at": "2026-08-15T22:55:15Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 797,
     "updated_at": "2026-08-15T19:59:58Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI chat and developer platform.",
-    "id": "Oxygen-Low/LocalLLM",
-    "language": "TypeScript",
-    "name": "Oxygen-Low/LocalLLM",
-    "stars": 0,
-    "updated_at": "2026-08-15T19:55:07Z",
-    "url": "https://github.com/Oxygen-Low/LocalLLM"
   }
 ]
