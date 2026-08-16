@@ -1,5 +1,32 @@
 [
   {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-16T12:34:51Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 123,
+    "updated_at": "2026-08-16T12:34:24Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 14,
+    "updated_at": "2026-08-16T12:30:21Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-16T12:25:24Z",
+    "updated_at": "2026-08-16T12:41:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T12:21:17Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-16T12:20:11Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -59,7 +77,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 79,
-    "updated_at": "2026-08-16T12:06:48Z",
+    "updated_at": "2026-08-16T12:41:40Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -189,15 +207,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-16T11:17:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
     "id": "robinwalterfit/osaurus-acp",
     "language": "TypeScript",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3069,
-    "updated_at": "2026-08-16T11:52:14Z",
+    "updated_at": "2026-08-16T12:38:47Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -301,7 +310,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2729,
+    "stars": 2739,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:36:16Z",
     "url": "https://github.com/Whatsmore-nf/dsh-context-steward"
-  },
-  {
-    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
-    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "language": "Python",
-    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:22:09Z",
-    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
   }
 ]
