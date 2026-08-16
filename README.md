@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 18:45 UTC
+> ⏰ Last updated: 2026-08-16 18:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -69,7 +69,7 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 9 | Python | 2026-08-16 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
 | 26 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 0 | Python | 2026-08-16 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
 | 27 | [ljchang/mecha](https://github.com/ljchang/mecha) | 3 | Rust | 2026-08-16 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 28 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2978 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 28 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2981 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 29 | [Ottoman-reticule726/zara-ai-laptop-agent](https://github.com/Ottoman-reticule726/zara-ai-laptop-agent) | 0 | Python | 2026-08-16 | Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu. |
 | 30 | [alejandrogg15/Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo) | 0 | Python | 2026-08-16 | Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons. |
 | 31 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-08-16 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
