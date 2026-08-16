@@ -1,5 +1,23 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 170,
+    "updated_at": "2026-08-16T21:44:06Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "\u81ea\u9a71\u52a8\u6539\u8fdb\u95ed\u73af\uff1aAI agent \u7684\u81ea\u6211\u6539\u8fdb\u65b9\u6cd5\u8bba\u6280\u80fd\uff08\u6570\u636e\u8bca\u65ad\u2192\u4e1a\u754c\u8c03\u7814\u2192\u7cfb\u7edf\u53cd\u601d\u2192\u5438\u6536\u2192\u843d\u5730\u2192\u6c89\u6dc0\uff09",
+    "id": "2008924/self-improvement-loop",
+    "language": "\u2014",
+    "name": "2008924/self-improvement-loop",
+    "stars": 0,
+    "updated_at": "2026-08-16T21:43:02Z",
+    "url": "https://github.com/2008924/self-improvement-loop"
+  },
+  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:39:10Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:35:47Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 7,
-    "updated_at": "2026-08-16T16:35:36Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
   }
 ]
