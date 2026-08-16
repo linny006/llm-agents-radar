@@ -1,11 +1,29 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:49:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:45:46Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec",
     "id": "Tomsabay/abaqus_agent",
     "language": "Python",
     "name": "Tomsabay/abaqus_agent",
     "stars": 20,
-    "updated_at": "2026-08-16T17:41:29Z",
+    "updated_at": "2026-08-16T17:53:18Z",
     "url": "https://github.com/Tomsabay/abaqus_agent"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 14,
     "updated_at": "2026-08-16T17:31:54Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:31:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -166,7 +175,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2963,
+    "stars": 2968,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -187,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:46:17Z",
     "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:35:13Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
