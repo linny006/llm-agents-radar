@@ -1,12 +1,48 @@
 [
   {
+    "description": "Nexus-LLM is a ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:08:39Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-16T11:09:02Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:07:23Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-16T10:50:30Z",
+    "updated_at": "2026-08-16T11:07:18Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:05:22Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -16,15 +52,6 @@
     "stars": 7,
     "updated_at": "2026-08-16T10:49:57Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:49:07Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Pi's coding agent ported to Rust",
@@ -45,20 +72,11 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:40:23Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 74,
+    "stars": 75,
     "updated_at": "2026-08-16T10:39:28Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3069,
-    "updated_at": "2026-08-16T10:49:05Z",
+    "updated_at": "2026-08-16T11:10:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -175,7 +193,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2666,
+    "stars": 2677,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -277,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T08:32:29Z",
     "url": "https://github.com/wjabanjj/aifp-mcp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-16T10:51:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A fully explainable Text-to-SQL agent built with LangChain + Gemini  schema grounding, scope guardrails, SQL safety vali",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T04:28:04Z",
     "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
-  },
-  {
-    "description": "Verify area values quickly with this web-based HTML calculator tool.",
-    "id": "passive-hotpepper515/area-checker-html-tool",
-    "language": "HTML",
-    "name": "passive-hotpepper515/area-checker-html-tool",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:27:40Z",
-    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
   }
 ]
