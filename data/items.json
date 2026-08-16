@@ -1,5 +1,14 @@
 [
   {
+    "description": "",
+    "id": "CikeSeven/dsh-code-memory",
+    "language": "TypeScript",
+    "name": "CikeSeven/dsh-code-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:31:43Z",
+    "url": "https://github.com/CikeSeven/dsh-code-memory"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T19:27:26Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "",
-    "id": "CikeSeven/dsh-code-memory",
-    "language": "TypeScript",
-    "name": "CikeSeven/dsh-code-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:25:47Z",
-    "url": "https://github.com/CikeSeven/dsh-code-memory"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -113,7 +113,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-16T19:13:43Z",
+    "updated_at": "2026-08-16T19:31:31Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -274,7 +274,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2991,
+    "stars": 2993,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
