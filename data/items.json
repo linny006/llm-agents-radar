@@ -1,5 +1,14 @@
 [
   {
+    "description": "Nexus-LLM is a ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:45:52Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T14:44:29Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Nexus-LLM is a ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:44:52Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
@@ -445,7 +445,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2848,
+    "stars": 2849,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   }

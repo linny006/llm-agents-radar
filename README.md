@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 14:45 UTC
+> ⏰ Last updated: 2026-08-16 14:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-16 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 2 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
+| 1 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
+| 2 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-16 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 3 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 2 | Python | 2026-08-16 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
 | 4 | [freshxiaoyao/openclaw-human-gate](https://github.com/freshxiaoyao/openclaw-human-gate) | 2 | TypeScript | 2026-08-16 | Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project—a t |
 | 5 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-16 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-16 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
 | 48 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-16 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
 | 49 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 3 | TypeScript | 2026-08-16 | The plunge for pi to boost his search ability |
-| 50 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2848 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 50 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2849 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 <!-- TRACKER_TABLE_END -->
 
 ---
