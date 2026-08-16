@@ -1,5 +1,14 @@
 [
   {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:51:59Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -18,15 +27,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:40:17Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
     "description": "",
     "id": "CikeSeven/dsh-code-memory",
     "language": "TypeScript",
@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-16T19:27:26Z",
+    "updated_at": "2026-08-16T19:46:17Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
