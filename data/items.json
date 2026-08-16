@@ -1,5 +1,23 @@
 [
   {
+    "description": "",
+    "id": "dsh-tui-ecosystem/dsh-code-memory",
+    "language": "TypeScript",
+    "name": "dsh-tui-ecosystem/dsh-code-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T22:04:38Z",
+    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-16T22:00:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -16,15 +34,6 @@
     "stars": 6,
     "updated_at": "2026-08-16T21:54:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-16T21:48:27Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:33:14Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "",
-    "id": "dsh-tui-ecosystem/dsh-code-memory",
-    "language": "TypeScript",
-    "name": "dsh-tui-ecosystem/dsh-code-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T20:28:19Z",
-    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -373,7 +373,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3007,
+    "stars": 3008,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
