@@ -1,11 +1,29 @@
 [
   {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 3,
+    "updated_at": "2026-08-16T10:17:44Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:16:26Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API",
     "id": "qsrahman/picode",
     "language": "TypeScript",
     "name": "qsrahman/picode",
     "stars": 0,
-    "updated_at": "2026-08-16T10:13:48Z",
+    "updated_at": "2026-08-16T10:17:22Z",
     "url": "https://github.com/qsrahman/picode"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-16T10:09:42Z",
+    "updated_at": "2026-08-16T10:16:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -45,15 +63,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "The plunge for pi to boost his search ability",
-    "id": "Mr-remon219/pi-search-boost",
-    "language": "TypeScript",
-    "name": "Mr-remon219/pi-search-boost",
-    "stars": 3,
-    "updated_at": "2026-08-16T10:07:13Z",
-    "url": "https://github.com/Mr-remon219/pi-search-boost"
-  },
-  {
     "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -67,7 +76,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2634,
+    "stars": 2637,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -198,15 +207,6 @@
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:21:04Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "AI Harness build on top of typescript",
     "id": "puristajs/harness",
     "language": "TypeScript",
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3069,
-    "updated_at": "2026-08-16T09:46:26Z",
+    "updated_at": "2026-08-16T10:17:53Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
