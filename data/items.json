@@ -1,12 +1,12 @@
 [
   {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
     "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-16T17:28:41Z",
-    "url": "https://github.com/SashaEee/auditLens"
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 9,
+    "updated_at": "2026-08-16T17:33:23Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "adamskijow/Hob",
     "stars": 1,
-    "updated_at": "2026-08-16T17:27:39Z",
+    "updated_at": "2026-08-16T17:32:11Z",
     "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 14,
+    "updated_at": "2026-08-16T17:31:54Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:31:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:28:41Z",
+    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -34,15 +61,6 @@
     "stars": 121,
     "updated_at": "2026-08-16T17:25:02Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 9,
-    "updated_at": "2026-08-16T17:24:49Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
@@ -70,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T17:22:38Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 14,
-    "updated_at": "2026-08-16T17:21:26Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -117,20 +126,11 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:08:14Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2958,
+    "stars": 2959,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
