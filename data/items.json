@@ -180,6 +180,15 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3070,
+    "updated_at": "2026-08-16T12:38:47Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -342,15 +351,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3069,
-    "updated_at": "2026-08-16T12:38:47Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -373,7 +373,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2796,
+    "stars": 2797,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },

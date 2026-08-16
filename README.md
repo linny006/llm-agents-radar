@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 13:42 UTC
+> ⏰ Last updated: 2026-08-16 13:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -62,28 +62,28 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 0 | Python | 2026-08-16 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
 | 19 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-16 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
 | 20 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 83 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 21 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 14 | JavaScript | 2026-08-16 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 22 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-16 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
-| 23 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 24 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 25 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-16 | Pi's coding agent ported to Rust |
-| 26 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 0 | Python | 2026-08-16 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
-| 27 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-08-16 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 28 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-16 | AI-powered image generation and chat studio |
-| 29 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 32 | — | 2026-08-16 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
-| 30 | [paipaipai666/nexus-browser-mcp](https://github.com/paipaipai666/nexus-browser-mcp) | 0 | Python | 2026-08-16 | Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服 |
-| 31 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-16 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
-| 32 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 33 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-16 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
-| 34 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-16 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
-| 35 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
-| 36 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-16 | A productive AI coworker that learns, self-improves, and ships work. |
-| 37 | [qsrahman/picode](https://github.com/qsrahman/picode) | 0 | TypeScript | 2026-08-16 | Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API |
-| 38 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-16 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 39 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3069 | Python | 2026-08-16 | SRE Agent - CNCF Sandbox Project |
+| 21 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3070 | Python | 2026-08-16 | SRE Agent - CNCF Sandbox Project |
+| 22 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 14 | JavaScript | 2026-08-16 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 23 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-16 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
+| 24 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 25 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 26 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-16 | Pi's coding agent ported to Rust |
+| 27 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 0 | Python | 2026-08-16 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
+| 28 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-08-16 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 29 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-16 | AI-powered image generation and chat studio |
+| 30 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 32 | — | 2026-08-16 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
+| 31 | [paipaipai666/nexus-browser-mcp](https://github.com/paipaipai666/nexus-browser-mcp) | 0 | Python | 2026-08-16 | Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服 |
+| 32 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-16 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
+| 33 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 34 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-16 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
+| 35 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-16 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
+| 36 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
+| 37 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-16 | A productive AI coworker that learns, self-improves, and ships work. |
+| 38 | [qsrahman/picode](https://github.com/qsrahman/picode) | 0 | TypeScript | 2026-08-16 | Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API |
+| 39 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-16 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
 | 40 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-16 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
 | 41 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 3 | TypeScript | 2026-08-16 | The plunge for pi to boost his search ability |
-| 42 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2796 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 42 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2797 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 43 | [sjkwon-1023/langgraph_cad](https://github.com/sjkwon-1023/langgraph_cad) | 1 | JavaScript | 2026-08-16 | langgraph graphic design tool |
 | 44 | [OseMultaharju/gemini-pentest-pro](https://github.com/OseMultaharju/gemini-pentest-pro) | 0 | Python | 2026-08-16 | Human-in-the-loop LLM agent that orchestrates Kali Linux pentest tools via the Google Gemini API. Brain (Gemini) + deter |
 | 45 | [hua695/MathModel-Framework](https://github.com/hua695/MathModel-Framework) | 0 | Python | 2026-08-16 | Closed-loop AI research agent framework for mathematical modeling competitions: problem parsing, topic scoring, baseline |
