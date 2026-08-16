@@ -1,5 +1,14 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-16T18:16:28Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
     "id": "freshxiaoyao/openclaw-human-gate",
     "language": "TypeScript",
@@ -7,15 +16,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T18:14:48Z",
     "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-16T18:13:55Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -229,7 +229,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2972,
+    "stars": 2973,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
