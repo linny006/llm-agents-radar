@@ -1,12 +1,57 @@
 [
   {
-    "description": "Nexus-LLM is a ai model which can run locally on your device.",
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-16T14:45:52Z",
+    "updated_at": "2026-08-16T14:59:12Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:57:09Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:56:33Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-16T14:53:27Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-16T14:51:00Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
+    "id": "freshxiaoyao/openclaw-human-gate",
+    "language": "TypeScript",
+    "name": "freshxiaoyao/openclaw-human-gate",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:49:02Z",
+    "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -27,24 +72,6 @@
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
-    "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
-    "id": "freshxiaoyao/openclaw-human-gate",
-    "language": "TypeScript",
-    "name": "freshxiaoyao/openclaw-human-gate",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:40:53Z",
-    "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:39:48Z",
-    "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 14,
     "updated_at": "2026-08-16T14:38:04Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T14:37:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -90,13 +108,13 @@
     "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-16T14:31:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 51,
+    "updated_at": "2026-08-16T14:32:18Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-16T14:38:27Z",
+    "updated_at": "2026-08-16T14:56:31Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3070,
-    "updated_at": "2026-08-16T14:12:11Z",
+    "updated_at": "2026-08-16T14:49:35Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Chloride233/dsh-cot-profile",
     "language": "JavaScript",
     "name": "Chloride233/dsh-cot-profile",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-16T13:22:07Z",
     "url": "https://github.com/Chloride233/dsh-cot-profile"
   },
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-16T14:13:32Z",
+    "updated_at": "2026-08-16T14:48:43Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/qsrahman/picode"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-16T10:26:32Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T14:15:45Z",
     "url": "https://github.com/Mr-remon219/pi-search-boost"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2849,
-    "updated_at": "2026-08-16T09:59:56Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   }
 ]
