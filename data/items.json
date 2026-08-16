@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 98,
+    "updated_at": "2026-08-16T22:40:41Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "dsh-tui-ecosystem/dsh-code-memory",
+    "language": "TypeScript",
+    "name": "dsh-tui-ecosystem/dsh-code-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T22:39:59Z",
+    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T22:13:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "",
-    "id": "dsh-tui-ecosystem/dsh-code-memory",
-    "language": "TypeScript",
-    "name": "dsh-tui-ecosystem/dsh-code-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T22:04:38Z",
-    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -124,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T21:29:07Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 98,
-    "updated_at": "2026-08-16T21:25:47Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to",
@@ -373,7 +373,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3009,
+    "stars": 3011,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
