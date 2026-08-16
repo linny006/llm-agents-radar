@@ -1,5 +1,14 @@
 [
   {
+    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 42,
+    "updated_at": "2026-08-16T08:45:00Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
     "description": "Evidence-driven ACM/OI verifier agent with independent LLM solvers, deterministic replay, and case-level adjudication.",
     "id": "zhou-liyang/acm-oi-agent-platform",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T08:43:58Z",
     "url": "https://github.com/zhou-liyang/acm-oi-agent-platform"
-  },
-  {
-    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 42,
-    "updated_at": "2026-08-16T08:43:07Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",

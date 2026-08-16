@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 08:44 UTC
+> ⏰ Last updated: 2026-08-16 08:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zhou-liyang/acm-oi-agent-platform](https://github.com/zhou-liyang/acm-oi-agent-platform) | 0 | Python | 2026-08-16 | Evidence-driven ACM/OI verifier agent with independent LLM solvers, deterministic replay, and case-level adjudication. |
-| 2 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 42 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
+| 1 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 42 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
+| 2 | [zhou-liyang/acm-oi-agent-platform](https://github.com/zhou-liyang/acm-oi-agent-platform) | 0 | Python | 2026-08-16 | Evidence-driven ACM/OI verifier agent with independent LLM solvers, deterministic replay, and case-level adjudication. |
 | 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-16 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 4 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 55 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
