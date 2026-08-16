@@ -1,12 +1,39 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:51:15Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
+    "id": "Dr1mH4X/TeamSpeakClaw",
+    "language": "Rust",
+    "name": "Dr1mH4X/TeamSpeakClaw",
+    "stars": 6,
+    "updated_at": "2026-08-16T15:46:21Z",
+    "url": "https://github.com/Dr1mH4X/TeamSpeakClaw"
+  },
+  {
     "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
     "id": "nexpeakcore/deepseek-harness-pr-review",
     "language": "Python",
     "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 7,
-    "updated_at": "2026-08-16T15:41:50Z",
+    "stars": 8,
+    "updated_at": "2026-08-16T15:53:40Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:45:44Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -211,7 +238,7 @@
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-08-16T14:32:18Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
@@ -421,32 +448,5 @@
     "stars": 33,
     "updated_at": "2026-08-16T11:39:40Z",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:36:01Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:37:22Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-16T11:21:02Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
