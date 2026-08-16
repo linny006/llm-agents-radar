@@ -1,12 +1,66 @@
 [
   {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:59:37Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
     "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
     "id": "Chloride233/dsh-cot-profile",
     "language": "JavaScript",
     "name": "Chloride233/dsh-cot-profile",
     "stars": 1,
-    "updated_at": "2026-08-16T06:43:22Z",
+    "updated_at": "2026-08-16T06:57:52Z",
     "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
+    "id": "shanananana/deepticket",
+    "language": "Python",
+    "name": "shanananana/deepticket",
+    "stars": 3,
+    "updated_at": "2026-08-16T06:57:16Z",
+    "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-16T06:50:14Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-16T06:49:43Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:47:44Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:45:57Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,17 +68,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-16T06:43:46Z",
+    "updated_at": "2026-08-16T06:51:18Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:37:56Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   },
   {
     "description": "DSH \u667a\u80fd\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6 \u2014\u2014 \u5728\u6709\u9650\u7a97\u53e3\u5185\u7ba1\u7406\u8ba4\u77e5\u8d44\u6e90\uff0c\u8ba9 Agent \u8bb0\u4f4f\u771f\u6b63\u91cd\u8981\u7684\u4fe1\u606f\u3002                 Smart context compression for DSH \u2014 managing cognitive ",
@@ -86,7 +131,7 @@
     "language": "JavaScript",
     "name": "omdsh-dev/dsh-mnemon",
     "stars": 38,
-    "updated_at": "2026-08-16T06:15:20Z",
+    "updated_at": "2026-08-16T06:58:07Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T06:14:42Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 3,
-    "updated_at": "2026-08-16T06:14:01Z",
-    "url": "https://github.com/shanananana/deepticket"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -135,15 +171,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:58:29Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A curated list of training & evaluation environments for LLM/VLM agents (SWE-Gym, GEM, RAGEN, AgentGym, WebArena, OSWorl",
     "id": "V01dMur10c/awesome-agent-rl-environments",
     "language": "\u2014",
@@ -160,24 +187,6 @@
     "stars": 455,
     "updated_at": "2026-08-16T05:42:45Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-16T05:33:20Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:32:50Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T03:58:55Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-16T03:57:48Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
