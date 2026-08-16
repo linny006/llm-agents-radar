@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 07:45 UTC
+> ⏰ Last updated: 2026-08-16 08:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-16 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 5 | [Mahendra-Chouhan/Ask-your-database](https://github.com/Mahendra-Chouhan/Ask-your-database) | 0 | Jupyter Notebook | 2026-08-16 | A fully explainable Text-to-SQL agent built with LangChain + Gemini  schema grounding, scope guardrails, SQL safety vali |
-| 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-16 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 7 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 40 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-16 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 10 | [2892480843/CityPulse](https://github.com/2892480843/CityPulse) | 0 | Python | 2026-08-16 | CityPulse 热城先知 — 面向去哪儿的爆火小城预测与产品生成智能体 |
-| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-16 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [Mahendra-Chouhan/Ask-your-database](https://github.com/Mahendra-Chouhan/Ask-your-database) | 0 | Jupyter Notebook | 2026-08-16 | A fully explainable Text-to-SQL agent built with LangChain + Gemini  schema grounding, scope guardrails, SQL safety vali |
+| 7 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-16 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 8 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 40 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
+| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-16 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 11 | [2892480843/CityPulse](https://github.com/2892480843/CityPulse) | 0 | Python | 2026-08-16 | CityPulse 热城先知 — 面向去哪儿的爆火小城预测与产品生成智能体 |
 | 12 | [xhqing/DayTradingAgent](https://github.com/xhqing/DayTradingAgent) | 1 | Python | 2026-08-16 | AI day-trading agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s |
 | 13 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 14 | [Chloride233/dsh-cot-profile](https://github.com/Chloride233/dsh-cot-profile) | 1 | JavaScript | 2026-08-16 | Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment,  |
