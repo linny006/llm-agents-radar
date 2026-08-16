@@ -1,5 +1,32 @@
 [
   {
+    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
+    "id": "2892480843/CityPulse",
+    "language": "Python",
+    "name": "2892480843/CityPulse",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:29:20Z",
+    "url": "https://github.com/2892480843/CityPulse"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:29:15Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 3,
+    "updated_at": "2026-08-16T06:27:23Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
     "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
     "id": "Chloride233/dsh-cot-profile",
     "language": "JavaScript",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:22:09Z",
     "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
-  },
-  {
-    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
-    "id": "2892480843/CityPulse",
-    "language": "Python",
-    "name": "2892480843/CityPulse",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:15:39Z",
-    "url": "https://github.com/2892480843/CityPulse"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -104,7 +122,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-16T05:49:56Z",
+    "updated_at": "2026-08-16T06:28:46Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T05:25:10Z",
     "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:21:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T03:57:48Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
-    "id": "letta-ai/letta",
-    "language": "\u2014",
-    "name": "letta-ai/letta",
-    "stars": 24263,
-    "updated_at": "2026-08-16T03:56:11Z",
-    "url": "https://github.com/letta-ai/letta"
   }
 ]
