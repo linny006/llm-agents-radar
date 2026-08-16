@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 13:15 UTC
+> ⏰ Last updated: 2026-08-16 13:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gptme/gptme](https://github.com/gptme/gptme) | 4390 | Python | 2026-08-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-16 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-16 | A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning, |
-| 4 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-16 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
-| 5 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-16 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 6 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 0 | Python | 2026-08-16 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 10 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-16 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
-| 11 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 81 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-16 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 13 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 14 | JavaScript | 2026-08-16 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
-| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 15 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-16 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
-| 16 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
-| 17 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 18 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-16 | Pi's coding agent ported to Rust |
-| 19 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 0 | Python | 2026-08-16 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
-| 20 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-08-16 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 21 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 1 | Python | 2026-08-16 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
-| 22 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-16 | AI-powered image generation and chat studio |
-| 23 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 32 | — | 2026-08-16 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
-| 24 | [paipaipai666/nexus-browser-mcp](https://github.com/paipaipai666/nexus-browser-mcp) | 0 | Python | 2026-08-16 | Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服 |
-| 25 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-16 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
-| 26 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 27 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-16 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
-| 28 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-16 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
-| 29 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
-| 30 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-16 | A productive AI coworker that learns, self-improves, and ships work. |
-| 31 | [qsrahman/picode](https://github.com/qsrahman/picode) | 0 | TypeScript | 2026-08-16 | Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API |
-| 32 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-16 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 33 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-16 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
-| 34 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3069 | Python | 2026-08-16 | SRE Agent - CNCF Sandbox Project |
-| 35 | [Chloride233/dsh-cot-profile](https://github.com/Chloride233/dsh-cot-profile) | 1 | JavaScript | 2026-08-16 | Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment,  |
-| 36 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-16 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
-| 37 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 3 | TypeScript | 2026-08-16 | The plunge for pi to boost his search ability |
-| 38 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2768 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
-| 39 | [sjkwon-1023/langgraph_cad](https://github.com/sjkwon-1023/langgraph_cad) | 1 | JavaScript | 2026-08-16 | langgraph graphic design tool |
-| 40 | [OseMultaharju/gemini-pentest-pro](https://github.com/OseMultaharju/gemini-pentest-pro) | 0 | Python | 2026-08-16 | Human-in-the-loop LLM agent that orchestrates Kali Linux pentest tools via the Google Gemini API. Brain (Gemini) + deter |
-| 41 | [hua695/MathModel-Framework](https://github.com/hua695/MathModel-Framework) | 0 | Python | 2026-08-16 | Closed-loop AI research agent framework for mathematical modeling competitions: problem parsing, topic scoring, baseline |
-| 42 | [OneZero-Y/dsh-plugin-kit](https://github.com/OneZero-Y/dsh-plugin-kit) | 3 | TypeScript | 2026-08-16 | Agent skills and a working template for building standalone DeepSeek Harness (DSH) plugins |
-| 43 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 45 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
-| 44 | [puristajs/harness](https://github.com/puristajs/harness) | 5 | TypeScript | 2026-08-16 | AI Harness build on top of typescript |
-| 45 | [zhou-liyang/acm-oi-agent-platform](https://github.com/zhou-liyang/acm-oi-agent-platform) | 0 | Python | 2026-08-16 | Evidence-driven ACM/OI verifier agent with dual-provider LLM cross-checking and deterministic local replay. |
-| 46 | [xhqing/PersonalAssistantAgent](https://github.com/xhqing/PersonalAssistantAgent) | 0 | — | 2026-08-16 | 个人助理 Kit｜通用助手。Personal Assistant — a general-purpose helper for odd jobs. |
-| 47 | [JAYANSHUBADLANI/grounded-data-analyst-agent](https://github.com/JAYANSHUBADLANI/grounded-data-analyst-agent) | 0 | Python | 2026-08-16 | Multi-step SQL agent over a relational e-commerce database: schema exploration, self-correcting retry loop, numeric hall |
-| 48 | [wjabanjj/aifp-mcp](https://github.com/wjabanjj/aifp-mcp) | 2 | TypeScript | 2026-08-16 | AiFP 记忆感知系统｜MCP 服务，一套记忆全 AI 共享。面向中文的 Agent 感知记忆，支持叙事链、语义纠错、感知链图扩散。兼容 DeepSeek‑Harness、Claude Code、Cursor、Codex等全部 MCP 客户 |
-| 49 | [Mahendra-Chouhan/Ask-your-database](https://github.com/Mahendra-Chouhan/Ask-your-database) | 0 | Jupyter Notebook | 2026-08-16 | A fully explainable Text-to-SQL agent built with LangChain + Gemini  schema grounding, scope guardrails, SQL safety vali |
-| 50 | [2892480843/CityPulse](https://github.com/2892480843/CityPulse) | 0 | Python | 2026-08-16 | CityPulse 热城先知 — 面向去哪儿的爆火小城预测与产品生成智能体 |
+| 1 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-16 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 2 | [TJR181/Cruiser-Agent](https://github.com/TJR181/Cruiser-Agent) | 1 | Python | 2026-08-16 | 面向 CTF 竞赛评测平台（TSec Benchmark）的自动化 Web/逻辑漏洞挖掘与利用 Agent：分层调度 + 多会话并发 + 跨会话共享黑板 + 平台权威校验 |
+| 3 | [STARDUSTLC666/dsh-minimal-ptc](https://github.com/STARDUSTLC666/dsh-minimal-ptc) | 1 | JavaScript | 2026-08-16 | Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96). |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-16 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 7 | [Averyyy/pi-dsh-minimal](https://github.com/Averyyy/pi-dsh-minimal) | 1 | TypeScript | 2026-08-16 | Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need… / I need…, not Let me… |
+| 8 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-16 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |
+| 9 | [watchcat/scout](https://github.com/watchcat/scout) | 0 | Rust | 2026-08-16 | A Telegram shopping researcher that verifies prices and links instead of inventing them |
+| 10 | [Chloride233/dsh-cot-profile](https://github.com/Chloride233/dsh-cot-profile) | 1 | JavaScript | 2026-08-16 | Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment,  |
+| 11 | [gptme/gptme](https://github.com/gptme/gptme) | 4390 | Python | 2026-08-16 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-16 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 13 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-16 | A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning, |
+| 14 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 0 | Python | 2026-08-16 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 15 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-16 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 16 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-16 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 17 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-16 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
+| 18 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 82 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 19 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 14 | JavaScript | 2026-08-16 | Enchant Version of 9Router. Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to |
+| 20 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-16 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
+| 21 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 1 | Python | 2026-08-16 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
+| 22 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-16 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 23 | [y0usaf/pi-rs](https://github.com/y0usaf/pi-rs) | 0 | Rust | 2026-08-16 | Pi's coding agent ported to Rust |
+| 24 | [itpartypattaya/hermes-dashboard](https://github.com/itpartypattaya/hermes-dashboard) | 0 | Python | 2026-08-16 | Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron |
+| 25 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-08-16 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
+| 26 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-16 | AI-powered image generation and chat studio |
+| 27 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 32 | — | 2026-08-16 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
+| 28 | [paipaipai666/nexus-browser-mcp](https://github.com/paipaipai666/nexus-browser-mcp) | 0 | Python | 2026-08-16 | Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / 事件驱动确定性快照的浏览器操控 MCP 服 |
+| 29 | [hyuga611/llm-safe-sql](https://github.com/hyuga611/llm-safe-sql) | 0 | TypeScript | 2026-08-16 | Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always |
+| 30 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 31 | [Deus-corp/cks-mcp](https://github.com/Deus-corp/cks-mcp) | 1 | Python | 2026-08-16 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
+| 32 | [robinwalterfit/osaurus-acp](https://github.com/robinwalterfit/osaurus-acp) | 0 | TypeScript | 2026-08-16 | ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients. |
+| 33 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-16 | Nexus-LLM is a ai model which can run locally on your device. |
+| 34 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-16 | A productive AI coworker that learns, self-improves, and ships work. |
+| 35 | [qsrahman/picode](https://github.com/qsrahman/picode) | 0 | TypeScript | 2026-08-16 | Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API |
+| 36 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-16 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 37 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-16 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
+| 38 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3069 | Python | 2026-08-16 | SRE Agent - CNCF Sandbox Project |
+| 39 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 2 | Python | 2026-08-16 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
+| 40 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 3 | TypeScript | 2026-08-16 | The plunge for pi to boost his search ability |
+| 41 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2784 | JavaScript | 2026-08-16 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 42 | [sjkwon-1023/langgraph_cad](https://github.com/sjkwon-1023/langgraph_cad) | 1 | JavaScript | 2026-08-16 | langgraph graphic design tool |
+| 43 | [OseMultaharju/gemini-pentest-pro](https://github.com/OseMultaharju/gemini-pentest-pro) | 0 | Python | 2026-08-16 | Human-in-the-loop LLM agent that orchestrates Kali Linux pentest tools via the Google Gemini API. Brain (Gemini) + deter |
+| 44 | [hua695/MathModel-Framework](https://github.com/hua695/MathModel-Framework) | 0 | Python | 2026-08-16 | Closed-loop AI research agent framework for mathematical modeling competitions: problem parsing, topic scoring, baseline |
+| 45 | [OneZero-Y/dsh-plugin-kit](https://github.com/OneZero-Y/dsh-plugin-kit) | 3 | TypeScript | 2026-08-16 | Agent skills and a working template for building standalone DeepSeek Harness (DSH) plugins |
+| 46 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 45 | TypeScript | 2026-08-16 | Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem |
+| 47 | [puristajs/harness](https://github.com/puristajs/harness) | 5 | TypeScript | 2026-08-16 | AI Harness build on top of typescript |
+| 48 | [zhou-liyang/acm-oi-agent-platform](https://github.com/zhou-liyang/acm-oi-agent-platform) | 0 | Python | 2026-08-16 | Evidence-driven ACM/OI verifier agent with dual-provider LLM cross-checking and deterministic local replay. |
+| 49 | [xhqing/PersonalAssistantAgent](https://github.com/xhqing/PersonalAssistantAgent) | 0 | — | 2026-08-16 | 个人助理 Kit｜通用助手。Personal Assistant — a general-purpose helper for odd jobs. |
+| 50 | [JAYANSHUBADLANI/grounded-data-analyst-agent](https://github.com/JAYANSHUBADLANI/grounded-data-analyst-agent) | 0 | Python | 2026-08-16 | Multi-step SQL agent over a relational e-commerce database: schema exploration, self-correcting retry loop, numeric hall |
 <!-- TRACKER_TABLE_END -->
 
 ---
