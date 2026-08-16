@@ -1,12 +1,12 @@
 [
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-16T05:14:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "updated_at": "2026-08-16T05:19:24Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
@@ -14,8 +14,17 @@
     "language": "JavaScript",
     "name": "Chloride233/dsh-cot-profile",
     "stars": 1,
-    "updated_at": "2026-08-16T05:12:13Z",
+    "updated_at": "2026-08-16T05:15:35Z",
     "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-16T05:14:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-16T03:27:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
-    "id": "2892480843/CityPulse",
-    "language": "Python",
-    "name": "2892480843/CityPulse",
-    "stars": 0,
-    "updated_at": "2026-08-16T03:25:32Z",
-    "url": "https://github.com/2892480843/CityPulse"
   }
 ]
