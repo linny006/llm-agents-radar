@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T21:59:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -16,15 +25,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T21:48:27Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T21:47:02Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -373,7 +373,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3006,
+    "stars": 3007,
     "updated_at": "2026-08-16T17:06:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
