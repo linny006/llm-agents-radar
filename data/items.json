@@ -1,5 +1,32 @@
 [
   {
+    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
+    "id": "Chloride233/dsh-cot-profile",
+    "language": "JavaScript",
+    "name": "Chloride233/dsh-cot-profile",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:23:54Z",
+    "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
+    "id": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "language": "Python",
+    "name": "orangeofcarl0-sys/dsv4-behavior-bench",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:22:09Z",
+    "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
+  },
+  {
+    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
+    "id": "2892480843/CityPulse",
+    "language": "Python",
+    "name": "2892480843/CityPulse",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:15:39Z",
+    "url": "https://github.com/2892480843/CityPulse"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -23,7 +50,7 @@
     "language": "JavaScript",
     "name": "omdsh-dev/dsh-mnemon",
     "stars": 37,
-    "updated_at": "2026-08-16T06:13:42Z",
+    "updated_at": "2026-08-16T06:15:20Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-16T06:07:44Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
-    "id": "2892480843/CityPulse",
-    "language": "Python",
-    "name": "2892480843/CityPulse",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:06:25Z",
-    "url": "https://github.com/2892480843/CityPulse"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -97,15 +115,6 @@
     "stars": 7,
     "updated_at": "2026-08-16T05:48:23Z",
     "url": "https://github.com/V01dMur10c/awesome-agent-rl-environments"
-  },
-  {
-    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
-    "id": "Chloride233/dsh-cot-profile",
-    "language": "JavaScript",
-    "name": "Chloride233/dsh-cot-profile",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:43:07Z",
-    "url": "https://github.com/Chloride233/dsh-cot-profile"
   },
   {
     "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
@@ -436,17 +445,8 @@
     "id": "letta-ai/letta",
     "language": "\u2014",
     "name": "letta-ai/letta",
-    "stars": 24262,
+    "stars": 24263,
     "updated_at": "2026-08-16T03:56:11Z",
     "url": "https://github.com/letta-ai/letta"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-16T03:52:24Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
   }
 ]
