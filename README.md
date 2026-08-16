@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 00:45 UTC
+> ⏰ Last updated: 2026-08-16 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 51 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-16 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 5 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-15 | 基于LLM的量化因子开发Agent |
-| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 7 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-15 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 8 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 9 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-15 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [2892480843/CityPulse](https://github.com/2892480843/CityPulse) | 0 | Python | 2026-08-15 | CityPulse 热城先知 — 面向去哪儿的爆火小城预测与产品生成智能体 |
-| 12 | [yanjin101/my_tiny_agent](https://github.com/yanjin101/my_tiny_agent) | 0 | TypeScript | 2026-08-15 | Spec-driven small LLM agent that operates a real desktop end-to-end (OCR + YOLO + Win32), no vision LLM required. 规范驱动的端 |
-| 13 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 332 | Python | 2026-08-15 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
-| 14 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-15 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-15 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 16 | [Tomsabay/abaqus_agent](https://github.com/Tomsabay/abaqus_agent) | 20 | Python | 2026-08-15 | AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec |
-| 17 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2192 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
-| 18 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-08-15 | Research framework for adaptive, purposeful agents under uncertainty |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-16 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [2892480843/CityPulse](https://github.com/2892480843/CityPulse) | 0 | Python | 2026-08-16 | CityPulse 热城先知 — 面向去哪儿的爆火小城预测与产品生成智能体 |
+| 3 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-16 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 4 | [v2-io/agentic-systems](https://github.com/v2-io/agentic-systems) | 2 | TeX | 2026-08-16 | Research framework for adaptive, purposeful agents under uncertainty |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-16 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 51 | TypeScript | 2026-08-16 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-16 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-16 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 9 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-15 | 基于LLM的量化因子开发Agent |
+| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-15 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 11 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-15 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 12 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-15 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 123 | HTML | 2026-08-15 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 14 | [yanjin101/my_tiny_agent](https://github.com/yanjin101/my_tiny_agent) | 0 | TypeScript | 2026-08-15 | Spec-driven small LLM agent that operates a real desktop end-to-end (OCR + YOLO + Win32), no vision LLM required. 规范驱动的端 |
+| 15 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 332 | Python | 2026-08-15 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |
+| 16 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-15 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 17 | [Tomsabay/abaqus_agent](https://github.com/Tomsabay/abaqus_agent) | 20 | Python | 2026-08-15 | AI-driven Abaqus workbench: describe a model in a spec, get a real solved one back. Every capability is backed by a chec |
+| 18 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 2194 | JavaScript | 2026-08-15 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 19 | [JGonzX/ollama-web-agent](https://github.com/JGonzX/ollama-web-agent) | 0 | Python | 2026-08-15 | A from-scratch tool-calling agent using a local LLM+Apify search |
 | 20 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-15 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
 | 21 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 0 | JavaScript | 2026-08-15 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
