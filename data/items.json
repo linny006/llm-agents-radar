@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:14:10Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:13:08Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
     "description": "Nexus-LLM is a ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:07:18Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:05:22Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -180,15 +189,6 @@
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:16:26Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
@@ -256,7 +256,7 @@
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
-    "stars": 44,
+    "stars": 45,
     "updated_at": "2026-08-16T09:21:54Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
