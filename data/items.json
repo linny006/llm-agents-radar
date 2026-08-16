@@ -1,5 +1,14 @@
 [
   {
+    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
+    "id": "2892480843/CityPulse",
+    "language": "Python",
+    "name": "2892480843/CityPulse",
+    "stars": 0,
+    "updated_at": "2026-08-16T02:29:18Z",
+    "url": "https://github.com/2892480843/CityPulse"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -126,15 +135,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
-    "id": "2892480843/CityPulse",
-    "language": "Python",
-    "name": "2892480843/CityPulse",
-    "stars": 0,
-    "updated_at": "2026-08-16T00:55:59Z",
-    "url": "https://github.com/2892480843/CityPulse"
-  },
-  {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
     "id": "v2-io/agentic-systems",
     "language": "TeX",
@@ -184,7 +184,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2248,
+    "stars": 2253,
     "updated_at": "2026-08-15T22:55:15Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
