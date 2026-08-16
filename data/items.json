@@ -1,12 +1,48 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-16T14:29:15Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:28:37Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:27:30Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
     "description": "Nexus-LLM is a ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-16T14:24:44Z",
+    "updated_at": "2026-08-16T14:27:16Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
+    "id": "ThorJS24/ai-autonomous-pentest",
+    "language": "Python",
+    "name": "ThorJS24/ai-autonomous-pentest",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:24:44Z",
+    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T14:10:45Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:08:48Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -160,24 +187,6 @@
     "stars": 13,
     "updated_at": "2026-08-16T13:57:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-16T13:35:55Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-16T13:35:35Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -319,7 +328,7 @@
     "id": "zimodzh/dsh-plugin-dev-skills",
     "language": "\u2014",
     "name": "zimodzh/dsh-plugin-dev-skills",
-    "stars": 32,
+    "stars": 33,
     "updated_at": "2026-08-16T11:39:40Z",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
   },
@@ -409,7 +418,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2833,
+    "stars": 2835,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:28:49Z",
     "url": "https://github.com/hua695/MathModel-Framework"
-  },
-  {
-    "description": "Agent skills and a working template for building standalone DeepSeek Harness (DSH) plugins",
-    "id": "OneZero-Y/dsh-plugin-kit",
-    "language": "TypeScript",
-    "name": "OneZero-Y/dsh-plugin-kit",
-    "stars": 3,
-    "updated_at": "2026-08-16T09:22:20Z",
-    "url": "https://github.com/OneZero-Y/dsh-plugin-kit"
   }
 ]
