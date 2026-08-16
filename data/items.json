@@ -1,5 +1,14 @@
 [
   {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T19:15:17Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
     "description": "End-to-end ML system predicting clinical toxicity & FDA approval from molecular structure (ClinTox). RDKit cheminformati",
     "id": "SoodeDashti/clintox-toxicity-fda-prediction",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:27:50Z",
     "url": "https://github.com/qsrahman/picode"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:25:41Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
