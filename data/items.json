@@ -1,5 +1,50 @@
 [
   {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:59:03Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
+    "description": "Evidence-driven ACM/OI verifier agent with dual-provider LLM cross-checking and deterministic local replay.",
+    "id": "zhou-liyang/acm-oi-agent-platform",
+    "language": "Python",
+    "name": "zhou-liyang/acm-oi-agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:51:34Z",
+    "url": "https://github.com/zhou-liyang/acm-oi-agent-platform"
+  },
+  {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:48:23Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-16T08:47:11Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-16T08:46:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
@@ -7,15 +52,6 @@
     "stars": 42,
     "updated_at": "2026-08-16T08:45:00Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
-  },
-  {
-    "description": "Evidence-driven ACM/OI verifier agent with independent LLM solvers, deterministic replay, and case-level adjudication.",
-    "id": "zhou-liyang/acm-oi-agent-platform",
-    "language": "Python",
-    "name": "zhou-liyang/acm-oi-agent-platform",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:43:58Z",
-    "url": "https://github.com/zhou-liyang/acm-oi-agent-platform"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -31,7 +67,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 55,
+    "stars": 59,
     "updated_at": "2026-08-16T08:38:21Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -54,15 +90,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:35:39Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
     "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
     "id": "wjabanjj/aifp-mcp",
     "language": "TypeScript",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3069,
-    "updated_at": "2026-08-16T08:32:01Z",
+    "updated_at": "2026-08-16T08:58:03Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-08-16T08:12:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:11:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -306,15 +324,6 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-16T04:45:22Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "An agent OS whose userland it writes itself, plus a JEPA-style world model that predicts a syscall's effect before it ru",
     "id": "Cortex-Research-Group/aios",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T04:12:05Z",
     "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:10:37Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
