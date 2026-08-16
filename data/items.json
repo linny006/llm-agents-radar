@@ -1,5 +1,50 @@
 [
   {
+    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
+    "id": "Chloride233/dsh-cot-profile",
+    "language": "JavaScript",
+    "name": "Chloride233/dsh-cot-profile",
+    "stars": 1,
+    "updated_at": "2026-08-16T06:43:22Z",
+    "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-16T06:43:46Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:37:56Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
+    "description": "DSH \u667a\u80fd\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6 \u2014\u2014 \u5728\u6709\u9650\u7a97\u53e3\u5185\u7ba1\u7406\u8ba4\u77e5\u8d44\u6e90\uff0c\u8ba9 Agent \u8bb0\u4f4f\u771f\u6b63\u91cd\u8981\u7684\u4fe1\u606f\u3002                 Smart context compression for DSH \u2014 managing cognitive ",
+    "id": "Whatsmore-nf/dsh-context-steward",
+    "language": "TypeScript",
+    "name": "Whatsmore-nf/dsh-context-steward",
+    "stars": 0,
+    "updated_at": "2026-08-16T06:36:16Z",
+    "url": "https://github.com/Whatsmore-nf/dsh-context-steward"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 123,
+    "updated_at": "2026-08-16T06:35:46Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "CityPulse \u70ed\u57ce\u5148\u77e5 \u2014 \u9762\u5411\u53bb\u54ea\u513f\u7684\u7206\u706b\u5c0f\u57ce\u9884\u6d4b\u4e0e\u4ea7\u54c1\u751f\u6210\u667a\u80fd\u4f53",
     "id": "2892480843/CityPulse",
     "language": "Python",
@@ -27,15 +72,6 @@
     "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
-    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
-    "id": "Chloride233/dsh-cot-profile",
-    "language": "JavaScript",
-    "name": "Chloride233/dsh-cot-profile",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:23:54Z",
-    "url": "https://github.com/Chloride233/dsh-cot-profile"
-  },
-  {
     "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
     "id": "orangeofcarl0-sys/dsv4-behavior-bench",
     "language": "Python",
@@ -43,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:22:09Z",
     "url": "https://github.com/orangeofcarl0-sys/dsv4-behavior-bench"
+  },
+  {
+    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "JavaScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 38,
+    "updated_at": "2026-08-16T06:15:20Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -63,15 +108,6 @@
     "url": "https://github.com/shanananana/deepticket"
   },
   {
-    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "JavaScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 37,
-    "updated_at": "2026-08-16T06:15:20Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -85,7 +121,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 52,
+    "stars": 53,
     "updated_at": "2026-08-16T06:03:10Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -106,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T05:58:29Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:54:12Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-16T06:28:46Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "A curated list of training & evaluation environments for LLM/VLM agents (SWE-Gym, GEM, RAGEN, AgentGym, WebArena, OSWorl",
@@ -169,15 +187,6 @@
     "stars": 22,
     "updated_at": "2026-08-16T05:42:06Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 123,
-    "updated_at": "2026-08-16T05:25:46Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
@@ -385,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T04:08:57Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "DSH \u667a\u80fd\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6 \u2014\u2014 \u5728\u6709\u9650\u7a97\u53e3\u5185\u7ba1\u7406\u8ba4\u77e5\u8d44\u6e90\uff0c\u8ba9 Agent \u8bb0\u4f4f\u771f\u6b63\u91cd\u8981\u7684\u4fe1\u606f\u3002                 Smart context compression for DSH \u2014 managing cognitive ",
-    "id": "Whatsmore-nf/dsh-context-steward",
-    "language": "TypeScript",
-    "name": "Whatsmore-nf/dsh-context-steward",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:07:55Z",
-    "url": "https://github.com/Whatsmore-nf/dsh-context-steward"
   },
   {
     "description": "",
