@@ -1,5 +1,59 @@
 [
   {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 3,
+    "updated_at": "2026-08-16T09:36:15Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:36:13Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-16T09:32:58Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:32:39Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
+    "id": "Chloride233/dsh-cot-profile",
+    "language": "JavaScript",
+    "name": "Chloride233/dsh-cot-profile",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:30:48Z",
+    "url": "https://github.com/Chloride233/dsh-cot-profile"
+  },
+  {
+    "description": "Human-in-the-loop LLM agent that orchestrates Kali Linux pentest tools via the Google Gemini API. Brain (Gemini) + deter",
+    "id": "OseMultaharju/gemini-pentest-pro",
+    "language": "Python",
+    "name": "OseMultaharju/gemini-pentest-pro",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:29:03Z",
+    "url": "https://github.com/OseMultaharju/gemini-pentest-pro"
+  },
+  {
     "description": "Closed-loop AI research agent framework for mathematical modeling competitions: problem parsing, topic scoring, baseline",
     "id": "hua695/MathModel-Framework",
     "language": "Python",
@@ -99,15 +153,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-16T09:02:09Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Model-agnostic, CLI-based AI coding agent built on the OpenAI Responses API",
     "id": "qsrahman/picode",
     "language": "TypeScript",
@@ -157,27 +202,9 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 65,
+    "stars": 67,
     "updated_at": "2026-08-16T08:38:21Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-16T08:36:53Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:35:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "AiFP \u8bb0\u5fc6\u611f\u77e5\u7cfb\u7edf\uff5cMCP \u670d\u52a1\uff0c\u4e00\u5957\u8bb0\u5fc6\u5168 AI \u5171\u4eab\u3002\u9762\u5411\u4e2d\u6587\u7684 Agent \u611f\u77e5\u8bb0\u5fc6\uff0c\u652f\u6301\u53d9\u4e8b\u94fe\u3001\u8bed\u4e49\u7ea0\u9519\u3001\u611f\u77e5\u94fe\u56fe\u6269\u6563\u3002\u517c\u5bb9 DeepSeek\u2011Harness\u3001Claude Code\u3001Cursor\u3001Codex\u7b49\u5168\u90e8 MCP \u5ba2\u6237",
@@ -234,15 +261,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Real-time chain-of-thought trajectory profiling for DeepSeek Harness: live wording indicators, profile-family judgment, ",
-    "id": "Chloride233/dsh-cot-profile",
-    "language": "JavaScript",
-    "name": "Chloride233/dsh-cot-profile",
-    "stars": 1,
-    "updated_at": "2026-08-16T07:03:29Z",
-    "url": "https://github.com/Chloride233/dsh-cot-profile"
-  },
-  {
     "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
     "id": "shanananana/deepticket",
     "language": "Python",
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:36:16Z",
     "url": "https://github.com/Whatsmore-nf/dsh-context-steward"
-  },
-  {
-    "description": "The plunge for pi to boost his search ability",
-    "id": "Mr-remon219/pi-search-boost",
-    "language": "TypeScript",
-    "name": "Mr-remon219/pi-search-boost",
-    "stars": 3,
-    "updated_at": "2026-08-16T06:27:23Z",
-    "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
     "description": "DSV4 behavior-discrimination benchmark: 81 lightweight zero-dependency pytest grading tests (d10/d11/d12/t2/t3/t4/v4) fo",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T04:20:50Z",
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-08-16T04:19:34Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   }
 ]
