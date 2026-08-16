@@ -1,5 +1,23 @@
 [
   {
+    "description": "Pi's coding agent ported to Rust",
+    "id": "y0usaf/pi-rs",
+    "language": "Rust",
+    "name": "y0usaf/pi-rs",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:59:34Z",
+    "url": "https://github.com/y0usaf/pi-rs"
+  },
+  {
+    "description": "Static system dashboard for a Hermes Agent installation: host status, security, model routing, honest cost, memory, cron",
+    "id": "itpartypattaya/hermes-dashboard",
+    "language": "Python",
+    "name": "itpartypattaya/hermes-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:58:39Z",
+    "url": "https://github.com/itpartypattaya/hermes-dashboard"
+  },
+  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -162,15 +180,6 @@
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Pi's coding agent ported to Rust",
-    "id": "y0usaf/pi-rs",
-    "language": "Rust",
-    "name": "y0usaf/pi-rs",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:48:20Z",
-    "url": "https://github.com/y0usaf/pi-rs"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -256,7 +265,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2702,
+    "stars": 2708,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T06:07:44Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-16T06:02:21Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
