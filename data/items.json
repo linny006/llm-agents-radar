@@ -1,11 +1,20 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 3,
+    "updated_at": "2026-08-16T15:32:17Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 12,
-    "updated_at": "2026-08-16T15:27:51Z",
+    "updated_at": "2026-08-16T15:32:34Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -139,7 +148,7 @@
     "id": "nexpeakcore/deepseek-harness-pr-review",
     "language": "Python",
     "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-16T14:41:39Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
@@ -319,7 +328,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5737,
+    "stars": 5738,
     "updated_at": "2026-08-16T13:16:56Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-16T11:21:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "ACP (Agent Client Protocol) adapter that exposes Osaurus agents to ACP clients.",
-    "id": "robinwalterfit/osaurus-acp",
-    "language": "TypeScript",
-    "name": "robinwalterfit/osaurus-acp",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:17:28Z",
-    "url": "https://github.com/robinwalterfit/osaurus-acp"
   }
 ]
