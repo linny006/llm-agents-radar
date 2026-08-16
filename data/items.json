@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u9762\u5411 CTF \u7ade\u8d5b\u8bc4\u6d4b\u5e73\u53f0\uff08TSec Benchmark\uff09\u7684\u81ea\u52a8\u5316 Web/\u903b\u8f91\u6f0f\u6d1e\u6316\u6398\u4e0e\u5229\u7528 Agent\uff1a\u5206\u5c42\u8c03\u5ea6 + \u591a\u4f1a\u8bdd\u5e76\u53d1 + \u8de8\u4f1a\u8bdd\u5171\u4eab\u9ed1\u677f + \u5e73\u53f0\u6743\u5a01\u6821\u9a8c",
+    "id": "TJR181/Cruiser-Agent",
+    "language": "Python",
+    "name": "TJR181/Cruiser-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:40:19Z",
+    "url": "https://github.com/TJR181/Cruiser-Agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-16T11:39:40Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
+    "id": "zimodzh/dsh-plugin-dev-skills",
+    "language": "\u2014",
+    "name": "zimodzh/dsh-plugin-dev-skills",
+    "stars": 22,
+    "updated_at": "2026-08-16T11:39:40Z",
+    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
+  },
+  {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:36:01Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
     "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
     "id": "hyuga611/llm-safe-sql",
     "language": "TypeScript",
     "name": "hyuga611/llm-safe-sql",
     "stars": 0,
-    "updated_at": "2026-08-16T11:32:43Z",
+    "updated_at": "2026-08-16T11:37:22Z",
     "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T11:18:42Z",
     "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:18:38Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3069,
-    "updated_at": "2026-08-16T11:10:40Z",
+    "updated_at": "2026-08-16T11:36:28Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -220,7 +247,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 2688,
+    "stars": 2695,
     "updated_at": "2026-08-16T09:59:56Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-16T05:48:23Z",
     "url": "https://github.com/V01dMur10c/awesome-agent-rl-environments"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 457,
-    "updated_at": "2026-08-16T05:42:45Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
-    "id": "DivyanshuVortex/vortex",
-    "language": "TypeScript",
-    "name": "DivyanshuVortex/vortex",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:25:10Z",
-    "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-16T05:19:24Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
