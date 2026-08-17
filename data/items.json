@@ -1,5 +1,50 @@
 [
   {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 334,
+    "updated_at": "2026-08-17T23:37:55Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Makefile",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:36:40Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "Aquaponics design that shows its work. A deterministic, cited engineering core sizes and optimises systems with no LLM a",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:34:52Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 170,
+    "updated_at": "2026-08-17T23:33:09Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:30:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -23,17 +68,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-17T23:30:24Z",
+    "updated_at": "2026-08-17T23:38:16Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 170,
-    "updated_at": "2026-08-17T23:30:17Z",
-    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -126,15 +162,6 @@
     "url": "https://github.com/madhavnair2009-arch/ronin"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:30:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T23:14:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Makefile",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 1,
-    "updated_at": "2026-08-17T22:28:11Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T19:48:28Z",
     "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-17T19:45:32Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:44:54Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
