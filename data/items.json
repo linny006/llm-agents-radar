@@ -1,5 +1,68 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T07:11:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Code mode for Go agents: the model writes one JavaScript program that calls your tools, instead of one tool call per tur",
+    "id": "gtoxlili/codemode-go",
+    "language": "Go",
+    "name": "gtoxlili/codemode-go",
+    "stars": 1,
+    "updated_at": "2026-08-17T07:10:34Z",
+    "url": "https://github.com/gtoxlili/codemode-go"
+  },
+  {
+    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
+    "id": "Huoyanlifusu/rkcockpit",
+    "language": "Python",
+    "name": "Huoyanlifusu/rkcockpit",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:09:10Z",
+    "url": "https://github.com/Huoyanlifusu/rkcockpit"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-17T07:07:01Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-17T07:06:00Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13783,
+    "updated_at": "2026-08-17T07:00:33Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-17T07:00:18Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
     "id": "muthuishere/toolnexus",
     "language": "MDX",
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-17T06:49:24Z",
+    "updated_at": "2026-08-17T07:05:10Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -113,8 +176,17 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-17T06:52:58Z",
+    "updated_at": "2026-08-17T07:08:24Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 104,
+    "updated_at": "2026-08-17T06:46:28Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -220,7 +292,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 647,
+    "stars": 651,
     "updated_at": "2026-08-17T06:38:58Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -315,15 +387,6 @@
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-17T07:00:18Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
     "description": "\u622a\u56fe\u5230\u52a8\u4f5c\u7684\u79fb\u52a8\u7aef GUI Agent / Screenshot-to-action mobile GUI Agent with coordinate grounding and offline evaluation",
     "id": "qizhanggu/mobile-gui-agent",
     "language": "Python",
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "AgentEra/Agently",
     "stars": 1636,
-    "updated_at": "2026-08-17T06:22:42Z",
+    "updated_at": "2026-08-17T07:10:41Z",
     "url": "https://github.com/AgentEra/Agently"
   },
   {
@@ -382,71 +445,8 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3253,
+    "stars": 3257,
     "updated_at": "2026-08-17T06:19:58Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "\u5728\u8d8a\u72f1 iPhone \u4e0a\u8dd1\u7684\u81ea\u7136\u8bed\u8a00 GUI Agent\uff1a\u8bf4\u4e00\u53e5\u8bdd\uff0c\u5b83\u81ea\u5df1\u770b\u5c4f\u5e55\u3001\u70b9\u6309\u3001\u9a8c\u8bc1\uff0c\u8de8\u4efb\u610f App \u5b8c\u6210\u4efb\u52a1\u3002Manager/Executor/Reflector \u4e09\u89d2\u8272\u5faa\u73af + \u7aef\u4e0a\u5e38\u9a7b daemon\u3002",
-    "id": "a178960320/ios-agent-harness",
-    "language": "Objective-C",
-    "name": "a178960320/ios-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:18:53Z",
-    "url": "https://github.com/a178960320/ios-agent-harness"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-17T06:16:02Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4389,
-    "updated_at": "2026-08-17T06:13:11Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 103,
-    "updated_at": "2026-08-17T06:46:28Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
-    "id": "ThorJS24/ai-autonomous-pentest",
-    "language": "Python",
-    "name": "ThorJS24/ai-autonomous-pentest",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:10:24Z",
-    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:08:12Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 545,
-    "updated_at": "2026-08-17T06:06:39Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
   }
 ]
