@@ -1,5 +1,59 @@
 [
   {
+    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
+    "id": "H97y/dsh-devflow",
+    "language": "TypeScript",
+    "name": "H97y/dsh-devflow",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:13:14Z",
+    "url": "https://github.com/H97y/dsh-devflow"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-17T03:13:30Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:11:50Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T03:11:03Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-17T03:05:46Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-17T03:05:03Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -13,18 +67,9 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3138,
+    "stars": 3153,
     "updated_at": "2026-08-17T02:58:21Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-17T02:57:41Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -72,6 +117,24 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
+    "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 59,
+    "updated_at": "2026-08-17T02:47:46Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 97,
+    "updated_at": "2026-08-17T02:45:47Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -108,15 +171,6 @@
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 96,
-    "updated_at": "2026-08-17T02:45:47Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -142,42 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T02:13:35Z",
     "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-17T02:07:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 58,
-    "updated_at": "2026-08-17T02:47:46Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-17T01:43:51Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-17T01:41:55Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T01:21:21Z",
     "url": "https://github.com/Nullunnn/career-coach-agent"
-  },
-  {
-    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
-    "id": "H97y/dsh-devflow",
-    "language": "TypeScript",
-    "name": "H97y/dsh-devflow",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:16:35Z",
-    "url": "https://github.com/H97y/dsh-devflow"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T23:23:03Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:20:41Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
