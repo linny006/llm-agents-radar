@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-17T14:00:03Z",
+    "updated_at": "2026-08-17T14:14:49Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T14:13:07Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4389,
+    "updated_at": "2026-08-17T14:14:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 118,
+    "updated_at": "2026-08-17T14:10:21Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
+    "id": "JianFeng1104/CultureMate",
+    "language": "Python",
+    "name": "JianFeng1104/CultureMate",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:09:45Z",
+    "url": "https://github.com/JianFeng1104/CultureMate"
+  },
+  {
+    "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
+    "id": "JianFeng1104/TripMate",
+    "language": "Python",
+    "name": "JianFeng1104/TripMate",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:09:45Z",
+    "url": "https://github.com/JianFeng1104/TripMate"
+  },
+  {
+    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-08-17T14:07:39Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:03:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -18,22 +81,13 @@
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 118,
-    "updated_at": "2026-08-17T13:57:57Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:47:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
+    "language": "Python",
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 33,
+    "updated_at": "2026-08-17T14:11:30Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
@@ -99,15 +153,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:33:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T13:28:34Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 32,
-    "updated_at": "2026-08-17T13:50:28Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
@@ -185,26 +221,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-17T13:21:35Z",
+    "updated_at": "2026-08-17T14:04:00Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
-    "id": "JianFeng1104/CultureMate",
-    "language": "Python",
-    "name": "JianFeng1104/CultureMate",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:20:53Z",
-    "url": "https://github.com/JianFeng1104/CultureMate"
-  },
-  {
-    "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
-    "id": "JianFeng1104/TripMate",
-    "language": "Python",
-    "name": "JianFeng1104/TripMate",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:20:34Z",
-    "url": "https://github.com/JianFeng1104/TripMate"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-17T13:40:13Z",
+    "updated_at": "2026-08-17T14:08:53Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/sergezuber/FABULA-LLM-5"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4389,
-    "updated_at": "2026-08-17T13:49:04Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
     "id": "Go1c/workflow-plugin",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-17T10:45:51Z",
     "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
-  },
-  {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 4,
-    "updated_at": "2026-08-17T10:43:28Z",
-    "url": "https://github.com/muthuishere/toolnexus"
   }
 ]
