@@ -1,5 +1,14 @@
 [
   {
+    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
+    "id": "Huoyanlifusu/rkcockpit",
+    "language": "Python",
+    "name": "Huoyanlifusu/rkcockpit",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:13:34Z",
+    "url": "https://github.com/Huoyanlifusu/rkcockpit"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,17 +23,8 @@
     "language": "Go",
     "name": "gtoxlili/codemode-go",
     "stars": 1,
-    "updated_at": "2026-08-17T07:10:34Z",
+    "updated_at": "2026-08-17T07:14:11Z",
     "url": "https://github.com/gtoxlili/codemode-go"
-  },
-  {
-    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
-    "id": "Huoyanlifusu/rkcockpit",
-    "language": "Python",
-    "name": "Huoyanlifusu/rkcockpit",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:09:10Z",
-    "url": "https://github.com/Huoyanlifusu/rkcockpit"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -292,7 +292,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 651,
+    "stars": 653,
     "updated_at": "2026-08-17T06:38:58Z",
     "url": "https://github.com/ongridio/ongrid"
   },

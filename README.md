@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 07:13 UTC
+> ⏰ Last updated: 2026-08-17 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,9 +42,9 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [gtoxlili/codemode-go](https://github.com/gtoxlili/codemode-go) | 1 | Go | 2026-08-17 | Code mode for Go agents: the model writes one JavaScript program that calls your tools, instead of one tool call per tur |
-| 3 | [Huoyanlifusu/rkcockpit](https://github.com/Huoyanlifusu/rkcockpit) | 0 | Python | 2026-08-17 | Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local — with a built-in LLM age |
+| 1 | [Huoyanlifusu/rkcockpit](https://github.com/Huoyanlifusu/rkcockpit) | 0 | Python | 2026-08-17 | Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local — with a built-in LLM age |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [gtoxlili/codemode-go](https://github.com/gtoxlili/codemode-go) | 1 | Go | 2026-08-17 | Code mode for Go agents: the model writes one JavaScript program that calls your tools, instead of one tool call per tur |
 | 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-17 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 6 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 13783 | Python | 2026-08-17 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [tessellated-statisticalcommission243/deep-research-skill](https://github.com/tessellated-statisticalcommission243/deep-research-skill) | 3 | — | 2026-08-17 | Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities |
 | 31 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 32 | [xcq20100224/Nolan](https://github.com/xcq20100224/Nolan) | 12 | Python | 2026-08-17 | 本地优先的中文语音 AI 管家——说一句话，它替你操作 Windows（GLM-5.2 Agent + 本地 Whisper + GUI 自动化） |
-| 33 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 651 | Go | 2026-08-17 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 33 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 653 | Go | 2026-08-17 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 34 | [chadwickhyperboloidal943/knowl](https://github.com/chadwickhyperboloidal943/knowl) | 0 | TypeScript | 2026-08-17 | Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations |
 | 35 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-08-17 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
 | 36 | [Jssu8541/ouro-loop](https://github.com/Jssu8541/ouro-loop) | 0 | — | 2026-08-17 | Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope |
