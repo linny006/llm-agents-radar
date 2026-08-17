@@ -1,5 +1,23 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 2,
+    "updated_at": "2026-08-17T00:28:52Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 90,
+    "updated_at": "2026-08-17T00:21:45Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 98,
-    "updated_at": "2026-08-16T23:46:27Z",
+    "updated_at": "2026-08-17T00:16:42Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -148,7 +166,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3019,
+    "stars": 3021,
     "updated_at": "2026-08-16T23:29:35Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -410,7 +428,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-17T00:06:19Z",
+    "updated_at": "2026-08-17T00:27:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 489,
     "updated_at": "2026-08-16T20:09:26Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-16T20:02:59Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:54:06Z",
-    "url": "https://github.com/leejoong/whalex"
   }
 ]
