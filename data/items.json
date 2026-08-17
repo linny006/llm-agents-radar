@@ -1,5 +1,23 @@
 [
   {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 4,
+    "updated_at": "2026-08-17T04:57:07Z",
+    "url": "https://github.com/muthuishere/toolnexus"
+  },
+  {
+    "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web",
+    "id": "omdsh-dev/dsh-mnemon",
+    "language": "TypeScript",
+    "name": "omdsh-dev/dsh-mnemon",
+    "stars": 62,
+    "updated_at": "2026-08-17T04:56:27Z",
+    "url": "https://github.com/omdsh-dev/dsh-mnemon"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -50,7 +68,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-17T04:47:39Z",
+    "updated_at": "2026-08-17T05:00:03Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-17T04:53:19Z",
+    "updated_at": "2026-08-17T04:58:52Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -95,17 +113,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-17T04:25:10Z",
+    "updated_at": "2026-08-17T04:58:48Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web",
-    "id": "omdsh-dev/dsh-mnemon",
-    "language": "TypeScript",
-    "name": "omdsh-dev/dsh-mnemon",
-    "stars": 62,
-    "updated_at": "2026-08-17T04:54:07Z",
-    "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -247,7 +256,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3206,
+    "stars": 3208,
     "updated_at": "2026-08-17T02:58:21Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T23:36:48Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:36:31Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
