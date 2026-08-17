@@ -1,12 +1,12 @@
 [
   {
-    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
-    "id": "muthuishere/toolnexus",
-    "language": "MDX",
-    "name": "muthuishere/toolnexus",
-    "stars": 4,
-    "updated_at": "2026-08-17T10:43:28Z",
-    "url": "https://github.com/muthuishere/toolnexus"
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-17T10:47:09Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-17T10:43:23Z",
+    "updated_at": "2026-08-17T10:46:14Z",
     "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
+    "id": "zimodzh/dsh-plugin-dev-skills",
+    "language": "\u2014",
+    "name": "zimodzh/dsh-plugin-dev-skills",
+    "stars": 34,
+    "updated_at": "2026-08-17T10:45:51Z",
+    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
+  },
+  {
+    "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
+    "id": "muthuishere/toolnexus",
+    "language": "MDX",
+    "name": "muthuishere/toolnexus",
+    "stars": 4,
+    "updated_at": "2026-08-17T10:43:28Z",
+    "url": "https://github.com/muthuishere/toolnexus"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -103,7 +121,7 @@
     "id": "yile180304/embodied-robot-llm-agent",
     "language": "Python",
     "name": "yile180304/embodied-robot-llm-agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-17T10:26:37Z",
     "url": "https://github.com/yile180304/embodied-robot-llm-agent"
   },
@@ -178,15 +196,6 @@
     "stars": 7,
     "updated_at": "2026-08-17T10:11:37Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-17T10:37:45Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
@@ -439,14 +448,5 @@
     "stars": 5673,
     "updated_at": "2026-08-17T09:33:20Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "GAT \u2014 Godot Agent Team: a full-cycle (design\u2192implementation) Godot game-development agent / \u6e38\u620f\u5236\u4f5c\u667a\u80fd\u4f53. Multi-agent, style-",
-    "id": "chenhangcuisg-code/gat",
-    "language": "Python",
-    "name": "chenhangcuisg-code/gat",
-    "stars": 3,
-    "updated_at": "2026-08-17T07:15:30Z",
-    "url": "https://github.com/chenhangcuisg-code/gat"
   }
 ]
