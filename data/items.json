@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "Huoyanlifusu/rkcockpit",
     "stars": 0,
-    "updated_at": "2026-08-17T07:13:34Z",
+    "updated_at": "2026-08-17T07:29:52Z",
     "url": "https://github.com/Huoyanlifusu/rkcockpit"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-17T07:28:15Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:27:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5672,
+    "updated_at": "2026-08-17T07:26:06Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Agent-centric smart-cockpit simulation sandbox \u2014 \u7ed9\u5ea7\u8231\u4ea7\u54c1\u7ecf\u7406\u7684 AI Demo \u516c\u5171\u5e95\u5ea7\uff08\u96f6\u540e\u7aef\u3001\u96f6\u8fd0\u884c\u65f6\u4f9d\u8d56\uff09",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:25:07Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 101,
+    "updated_at": "2026-08-17T07:21:55Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "GAT \u2014 Godot Agent Team: a full-cycle (design\u2192implementation) Godot game-development agent / \u6e38\u620f\u5236\u4f5c\u667a\u80fd\u4f53. Multi-agent, style-",
+    "id": "chenhangcuisg-code/gat",
+    "language": "Python",
+    "name": "chenhangcuisg-code/gat",
+    "stars": 3,
+    "updated_at": "2026-08-17T07:15:30Z",
+    "url": "https://github.com/chenhangcuisg-code/gat"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -52,15 +106,6 @@
     "stars": 13783,
     "updated_at": "2026-08-17T07:00:33Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-17T07:00:18Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Your LLM, with MCP tools + agent skills built in \u2014 MCP \u00b7 skills \u00b7 native \u00b7 HTTP \u00b7 built-in \u00b7 A2A tools behind one interf",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-17T07:05:10Z",
+    "updated_at": "2026-08-17T07:15:46Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T06:48:47Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Agent-centric smart-cockpit simulation sandbox \u2014 \u7ed9\u5ea7\u8231\u4ea7\u54c1\u7ecf\u7406\u7684 AI Demo \u516c\u5171\u5e95\u5ea7\uff08\u96f6\u540e\u7aef\u3001\u96f6\u8fd0\u884c\u65f6\u4f9d\u8d56\uff09",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:48:17Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
@@ -292,7 +328,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 653,
+    "stars": 657,
     "updated_at": "2026-08-17T06:38:58Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "alex8224/synapse-agent",
     "stars": 8,
-    "updated_at": "2026-08-17T06:33:54Z",
+    "updated_at": "2026-08-17T07:29:44Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "qizhanggu/mobile-gui-agent",
     "stars": 0,
-    "updated_at": "2026-08-17T06:24:23Z",
+    "updated_at": "2026-08-17T07:24:38Z",
     "url": "https://github.com/qizhanggu/mobile-gui-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1636,
     "updated_at": "2026-08-17T07:10:41Z",
     "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-17T06:21:32Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:21:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:19:59Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3257,
-    "updated_at": "2026-08-17T06:19:58Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   }
 ]
