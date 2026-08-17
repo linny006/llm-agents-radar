@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 05:15 UTC
+> ⏰ Last updated: 2026-08-17 05:28 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-17 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-17 | A productive AI coworker that learns, self-improves, and ships work. |
-| 3 | [yancent-dao/cockpit-agent-sim](https://github.com/yancent-dao/cockpit-agent-sim) | 0 | TypeScript | 2026-08-17 | Agent-centric smart-cockpit simulation sandbox — 给座舱产品经理的 AI Demo 公共底座（零后端、零运行时依赖） |
-| 4 | [wangyuahn/nori-code](https://github.com/wangyuahn/nori-code) | 13 | TypeScript | 2026-08-17 | Loop-core multi-agent coding tool that orchestrates work through plan→implement→review cycles. The    orchestrator is re |
-| 5 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-17 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-17 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-17 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
-| 8 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-17 | The self-improving SRE agent |
-| 9 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 4 | MDX | 2026-08-17 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
-| 10 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 62 | TypeScript | 2026-08-17 | Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web |
-| 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 12 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-17 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
-| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-17 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 15 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-17 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 17 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 28 | Go | 2026-08-17 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
-| 18 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-17 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 19 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-17 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 20 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 25 | Go | 2026-08-17 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
-| 21 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-17 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 22 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-17 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 23 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 100 | TypeScript | 2026-08-17 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 1 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 100 | TypeScript | 2026-08-17 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 2 | [yancent-dao/cockpit-agent-sim](https://github.com/yancent-dao/cockpit-agent-sim) | 0 | TypeScript | 2026-08-17 | Agent-centric smart-cockpit simulation sandbox — 给座舱产品经理的 AI Demo 公共底座（零后端、零运行时依赖） |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-17 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-17 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 5 | [wangyuahn/nori-code](https://github.com/wangyuahn/nori-code) | 13 | TypeScript | 2026-08-17 | Loop-core multi-agent coding tool that orchestrates work through plan→implement→review cycles. The    orchestrator is re |
+| 6 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-17 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-17 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-17 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
+| 9 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-17 | The self-improving SRE agent |
+| 10 | [muthuishere/toolnexus](https://github.com/muthuishere/toolnexus) | 4 | MDX | 2026-08-17 | Your LLM, with MCP tools + agent skills built in — MCP · skills · native · HTTP · built-in · A2A tools behind one interf |
+| 11 | [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 62 | TypeScript | 2026-08-17 | Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web |
+| 12 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 13 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-17 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
+| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-17 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-17 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-17 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-17 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 18 | [AlanFokCo/agentscope-go](https://github.com/AlanFokCo/agentscope-go) | 28 | Go | 2026-08-17 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
+| 19 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-17 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 20 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-17 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 21 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 25 | Go | 2026-08-17 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
+| 22 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 3 | Shell | 2026-08-17 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 23 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-17 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
 | 24 | [martydill/flexorama](https://github.com/martydill/flexorama) | 1 | Rust | 2026-08-17 | The hybrid CLI/Web coding agent that works your way. |
 | 25 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 161 | Python | 2026-08-17 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
 | 26 | [wzh4464/self-evolving-media-agent](https://github.com/wzh4464/self-evolving-media-agent) | 0 | Python | 2026-08-17 | 自演进的番剧媒体库治理 agent：查重/改名/TMDB对齐/死种清理，能发现规则盲区并自动演进出新规则 |
@@ -74,7 +74,7 @@ expired items removed — so you can rely on what you see being current.
 | 30 | [zhou-liyang/acm-oi-agent-platform](https://github.com/zhou-liyang/acm-oi-agent-platform) | 0 | Python | 2026-08-17 | Evidence-driven ACM/OI verifier agent with dual-provider LLM cross-checking and deterministic local replay. |
 | 31 | [qizhanggu/mobile-gui-agent](https://github.com/qizhanggu/mobile-gui-agent) | 0 | Python | 2026-08-17 | 截图到动作的移动端 GUI Agent / Screenshot-to-action mobile GUI Agent with coordinate grounding and offline evaluation |
 | 32 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-17 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 33 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3211 | JavaScript | 2026-08-17 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 33 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3217 | JavaScript | 2026-08-17 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
 | 34 | [Mr-remon219/pi-search-boost](https://github.com/Mr-remon219/pi-search-boost) | 3 | TypeScript | 2026-08-17 | The plunge for pi to boost his search ability |
 | 35 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 8 | Python | 2026-08-17 |  Where intent meets code — a local AI coding agent          |
 | 36 | [ljchang/mecha](https://github.com/ljchang/mecha) | 3 | Rust | 2026-08-17 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
