@@ -1,14 +1,5 @@
 [
   {
-    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
-    "id": "H97y/dsh-devflow",
-    "language": "TypeScript",
-    "name": "H97y/dsh-devflow",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:13:14Z",
-    "url": "https://github.com/H97y/dsh-devflow"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -16,6 +7,15 @@
     "stars": 22,
     "updated_at": "2026-08-17T03:13:30Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
+    "id": "H97y/dsh-devflow",
+    "language": "TypeScript",
+    "name": "H97y/dsh-devflow",
+    "stars": 0,
+    "updated_at": "2026-08-17T03:13:14Z",
+    "url": "https://github.com/H97y/dsh-devflow"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -67,7 +67,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3153,
+    "stars": 3156,
     "updated_at": "2026-08-17T02:58:21Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
