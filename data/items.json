@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-17T23:56:00Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-17T23:55:10Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:51:00Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:49:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:45:33Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -54,15 +99,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:30:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -86,7 +122,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-17T23:38:16Z",
+    "updated_at": "2026-08-17T23:56:28Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -144,24 +180,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:07:24Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-17T23:04:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
     "id": "madhavnair2009-arch/ronin",
     "language": "Python",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:04:42Z",
     "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-17T22:55:04Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T19:49:50Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
-    "id": "d-ouyang/dsh-plugin-ascension",
-    "language": "\u2014",
-    "name": "d-ouyang/dsh-plugin-ascension",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:48:28Z",
-    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
   }
 ]
