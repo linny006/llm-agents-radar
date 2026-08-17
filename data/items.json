@@ -1,5 +1,23 @@
 [
   {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-17T16:49:44Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T16:44:38Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Personal agronomy agent for aquaponics: a tool-calling LLM over a deterministic, tested, cited engineering core. Designs",
     "id": "Rekin226/Agronaut",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T16:12:24Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T16:44:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -382,7 +391,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6930,
+    "stars": 6931,
     "updated_at": "2026-08-17T13:14:32Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T13:04:40Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-17T13:02:45Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
