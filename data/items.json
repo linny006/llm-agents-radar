@@ -1,5 +1,23 @@
 [
   {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3087,
+    "updated_at": "2026-08-17T01:59:12Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 3,
+    "updated_at": "2026-08-17T01:45:48Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -7,15 +25,6 @@
     "stars": 121,
     "updated_at": "2026-08-17T01:43:51Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3074,
-    "updated_at": "2026-08-17T01:43:08Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "skymanbp/cc-tree",
     "stars": 161,
-    "updated_at": "2026-08-17T01:27:55Z",
+    "updated_at": "2026-08-17T01:53:21Z",
     "url": "https://github.com/skymanbp/cc-tree"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-17T00:34:59Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-17T00:31:12Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
