@@ -1,5 +1,23 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 3,
+    "updated_at": "2026-08-17T00:04:26Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-08-17T00:02:03Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -52,15 +70,6 @@
     "stars": 15,
     "updated_at": "2026-08-16T23:46:26Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 3,
-    "updated_at": "2026-08-16T23:38:51Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -139,7 +148,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3017,
+    "stars": 3019,
     "updated_at": "2026-08-16T23:29:35Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -387,15 +396,6 @@
     "url": "https://github.com/SashaEee/auditLens"
   },
   {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-08-16T21:37:07Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
     "description": "Composable Agent Skills suite for senior-level Python development: 12 single-responsibility skills (architect, coder, re",
     "id": "bzdvdn/python-developer-ai-skill",
     "language": "Python",
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-16T23:14:09Z",
+    "updated_at": "2026-08-17T00:06:19Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
