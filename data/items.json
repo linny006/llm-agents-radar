@@ -1,10 +1,64 @@
 [
   {
+    "description": "Safe LangGraph + MQTT + Python/Three.js quadruped simulation MVP",
+    "id": "yile180304/embodied-robot-llm-agent",
+    "language": "Python",
+    "name": "yile180304/embodied-robot-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:26:37Z",
+    "url": "https://github.com/yile180304/embodied-robot-llm-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:25:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u4e2d\u6587\u804c\u573a\u54a8\u8be2\u5e08 Agent\uff08v0.2\uff09\uff1a\u8986\u76d6\u5411\u4e0a\u6c9f\u901a\u3001\u8d23\u4efb\u8fb9\u754c\u3001\u8de8\u90e8\u95e8\u534f\u4f5c\u3001\u7ee9\u6548\u664b\u5347\u3001\u53bb\u7559\u51b3\u7b56\u4e94\u5927 P0 \u573a\u666f\uff0c40 \u4f8b\u8bc4\u6d4b + 7 \u7ef4 28 \u5206\u8bc4\u5206\u4f53\u7cfb",
+    "id": "Nullunnn/career-coach-agent",
+    "language": "Python",
+    "name": "Nullunnn/career-coach-agent",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:18:41Z",
+    "url": "https://github.com/Nullunnn/career-coach-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:15:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:14:48Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 104,
+    "updated_at": "2026-08-17T10:14:17Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 113,
+    "stars": 114,
     "updated_at": "2026-08-17T10:14:04Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 0,
-    "updated_at": "2026-08-17T10:10:50Z",
+    "updated_at": "2026-08-17T10:29:17Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-17T10:12:56Z",
+    "updated_at": "2026-08-17T10:20:05Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:42:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Programmatic tool calling for Go agents: the model writes one JavaScript program that calls the tools you already have. ",
     "id": "gtoxlili/codemode-go",
     "language": "Go",
@@ -126,31 +171,13 @@
     "url": "https://github.com/gtoxlili/codemode-go"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:14:48Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 124,
-    "updated_at": "2026-08-17T09:38:40Z",
+    "updated_at": "2026-08-17T10:29:30Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:34:36Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -167,7 +194,7 @@
     "language": "MDX",
     "name": "muthuishere/toolnexus",
     "stars": 4,
-    "updated_at": "2026-08-17T09:58:50Z",
+    "updated_at": "2026-08-17T10:21:51Z",
     "url": "https://github.com/muthuishere/toolnexus"
   },
   {
@@ -225,21 +252,12 @@
     "url": "https://github.com/H97y/dsh-devflow"
   },
   {
-    "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 103,
-    "updated_at": "2026-08-17T10:14:17Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-17T10:15:07Z",
+    "updated_at": "2026-08-17T10:28:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-17T08:57:42Z",
+    "updated_at": "2026-08-17T10:23:30Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -409,7 +427,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13783,
+    "stars": 13782,
     "updated_at": "2026-08-17T07:00:33Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-17T06:51:15Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
-    "id": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "language": "Python",
-    "name": "Ottoman-reticule726/zara-ai-laptop-agent",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:50:54Z",
-    "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:50:40Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
   }
 ]
