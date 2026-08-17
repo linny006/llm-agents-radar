@@ -1,5 +1,23 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-17T15:15:57Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 1,
+    "updated_at": "2026-08-17T15:15:36Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 34,
     "updated_at": "2026-08-17T15:10:44Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:11:03Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -108,13 +117,13 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-17T14:25:47Z",
-    "url": "https://github.com/tomcounsell/ai"
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 796,
+    "updated_at": "2026-08-17T14:28:33Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T12:07:54Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-17T13:30:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
