@@ -1,12 +1,48 @@
 [
   {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3050,
-    "updated_at": "2026-08-17T01:14:49Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
+    "id": "eddyficial/skillmint",
+    "language": "Python",
+    "name": "eddyficial/skillmint",
+    "stars": 0,
+    "updated_at": "2026-08-17T01:28:36Z",
+    "url": "https://github.com/eddyficial/skillmint"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 161,
+    "updated_at": "2026-08-17T01:27:55Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5739,
+    "updated_at": "2026-08-17T01:22:08Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-17T01:21:42Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
+    "description": "\u4e2d\u6587\u804c\u573a\u54a8\u8be2\u5e08 Agent\uff08v0.2\uff09\uff1a\u8986\u76d6\u5411\u4e0a\u6c9f\u901a\u3001\u8d23\u4efb\u8fb9\u754c\u3001\u8de8\u90e8\u95e8\u534f\u4f5c\u3001\u7ee9\u6548\u664b\u5347\u3001\u53bb\u7559\u51b3\u7b56\u4e94\u5927 P0 \u573a\u666f\uff0c40 \u4f8b\u8bc4\u6d4b + 7 \u7ef4 28 \u5206\u8bc4\u5206\u4f53\u7cfb",
+    "id": "Nullunnn/career-coach-agent",
+    "language": "Python",
+    "name": "Nullunnn/career-coach-agent",
+    "stars": 0,
+    "updated_at": "2026-08-17T01:21:21Z",
+    "url": "https://github.com/Nullunnn/career-coach-agent"
   },
   {
     "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
@@ -14,8 +50,17 @@
     "language": "TypeScript",
     "name": "H97y/dsh-devflow",
     "stars": 0,
-    "updated_at": "2026-08-17T01:09:44Z",
+    "updated_at": "2026-08-17T01:16:35Z",
     "url": "https://github.com/H97y/dsh-devflow"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3061,
+    "updated_at": "2026-08-17T01:14:49Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -34,15 +79,6 @@
     "stars": 124,
     "updated_at": "2026-08-17T01:07:34Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
-    "id": "eddyficial/skillmint",
-    "language": "Python",
-    "name": "eddyficial/skillmint",
-    "stars": 0,
-    "updated_at": "2026-08-17T01:04:57Z",
-    "url": "https://github.com/eddyficial/skillmint"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -130,7 +166,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 94,
+    "stars": 95,
     "updated_at": "2026-08-17T00:16:42Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T22:39:59Z",
     "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-16T21:54:45Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 170,
-    "updated_at": "2026-08-16T21:44:06Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\u81ea\u9a71\u52a8\u6539\u8fdb\u95ed\u73af\uff1aAI agent \u7684\u81ea\u6211\u6539\u8fdb\u65b9\u6cd5\u8bba\u6280\u80fd\uff08\u6570\u636e\u8bca\u65ad\u2192\u4e1a\u754c\u8c03\u7814\u2192\u7cfb\u7edf\u53cd\u601d\u2192\u5438\u6536\u2192\u843d\u5730\u2192\u6c89\u6dc0\uff09",
-    "id": "2008924/self-improvement-loop",
-    "language": "\u2014",
-    "name": "2008924/self-improvement-loop",
-    "stars": 0,
-    "updated_at": "2026-08-16T21:43:02Z",
-    "url": "https://github.com/2008924/self-improvement-loop"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-16T21:39:14Z",
-    "url": "https://github.com/SashaEee/auditLens"
   }
 ]
