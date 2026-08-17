@@ -1,11 +1,29 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-17T21:15:57Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6931,
+    "updated_at": "2026-08-17T21:15:23Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-17T21:12:18Z",
+    "updated_at": "2026-08-17T21:16:22Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-17T21:09:16Z",
+    "updated_at": "2026-08-17T21:17:48Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -50,7 +68,7 @@
     "language": "Makefile",
     "name": "cse-creative-systems-engineering/aios",
     "stars": 1,
-    "updated_at": "2026-08-17T21:01:49Z",
+    "updated_at": "2026-08-17T21:17:42Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:27:37Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6931,
-    "updated_at": "2026-08-17T21:04:14Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -412,15 +421,6 @@
     "stars": 13,
     "updated_at": "2026-08-17T19:06:06Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-17T19:01:03Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
