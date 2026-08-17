@@ -1,12 +1,66 @@
 [
   {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:44:32Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
     "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
     "id": "sriharshpragya/ai-data-analyst",
     "language": "Python",
     "name": "sriharshpragya/ai-data-analyst",
     "stars": 0,
-    "updated_at": "2026-08-17T20:29:51Z",
+    "updated_at": "2026-08-17T20:38:26Z",
     "url": "https://github.com/sriharshpragya/ai-data-analyst"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:36:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:35:55Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-17T20:33:07Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-17T20:32:58Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-17T20:31:30Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -34,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:27:37Z",
     "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6931,
+    "updated_at": "2026-08-17T20:26:48Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -176,7 +239,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-17T20:09:50Z",
+    "updated_at": "2026-08-17T20:42:50Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -196,24 +259,6 @@
     "stars": 4,
     "updated_at": "2026-08-17T20:05:51Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:03:52Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:02:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -241,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T19:55:00Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6931,
-    "updated_at": "2026-08-17T20:26:48Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -324,24 +360,6 @@
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-17T19:33:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:32:44Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -387,15 +405,6 @@
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-17T20:27:29Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -437,16 +446,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-17T18:05:03Z",
+    "updated_at": "2026-08-17T20:39:18Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:03:48Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   }
 ]
