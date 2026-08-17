@@ -1,5 +1,14 @@
 [
   {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:46:42Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -7,6 +16,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:44:32Z",
     "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:42:50Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:36:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:35:55Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -185,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-17T20:16:12Z",
+    "updated_at": "2026-08-17T20:46:24Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T20:11:22Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:42:50Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
