@@ -9,6 +9,15 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Makefile",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 1,
+    "updated_at": "2026-08-17T22:13:47Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T21:56:35Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Makefile",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 1,
-    "updated_at": "2026-08-17T22:13:47Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
