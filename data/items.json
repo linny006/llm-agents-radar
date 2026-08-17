@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
+    "id": "sriharshpragya/ai-data-analyst",
+    "language": "Python",
+    "name": "sriharshpragya/ai-data-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:29:51Z",
+    "url": "https://github.com/sriharshpragya/ai-data-analyst"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 2,
+    "updated_at": "2026-08-17T20:29:20Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:28:21Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:27:37Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 124,
+    "updated_at": "2026-08-17T20:23:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 6,
     "updated_at": "2026-08-17T20:22:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:22:54Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -18,13 +72,13 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
-    "id": "sriharshpragya/ai-data-analyst",
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
-    "name": "sriharshpragya/ai-data-analyst",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:20:50Z",
-    "url": "https://github.com/sriharshpragya/ai-data-analyst"
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-08-17T20:20:22Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6931,
-    "updated_at": "2026-08-17T19:54:02Z",
+    "updated_at": "2026-08-17T20:26:48Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -265,7 +319,7 @@
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
     "name": "Anil-matcha/awesome-dsh-plugin",
-    "stars": 928,
+    "stars": 929,
     "updated_at": "2026-08-17T19:34:57Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
@@ -286,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T19:32:44Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 124,
-    "updated_at": "2026-08-17T19:25:32Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-17T18:33:20Z",
+    "updated_at": "2026-08-17T20:27:29Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T18:03:48Z",
     "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "An LLM agent for building OpenAPI specifications based on the given code",
-    "id": "grauwolf32/contractor",
-    "language": "Python",
-    "name": "grauwolf32/contractor",
-    "stars": 1,
-    "updated_at": "2026-08-17T18:21:21Z",
-    "url": "https://github.com/grauwolf32/contractor"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1637,
-    "updated_at": "2026-08-17T17:53:42Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-17T20:22:33Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 12,
-    "updated_at": "2026-08-17T17:14:54Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 105,
-    "updated_at": "2026-08-17T17:10:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
