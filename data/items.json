@@ -1,11 +1,20 @@
 [
   {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-17T22:45:51Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-17T22:43:55Z",
+    "updated_at": "2026-08-17T22:45:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:52:08Z",
     "url": "https://github.com/sriharshpragya/ai-data-analyst"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:46:42Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
