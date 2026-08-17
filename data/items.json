@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-17T19:55:00Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6931,
+    "updated_at": "2026-08-17T19:54:02Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
     "id": "Daniyal-GraphicDesigner/ai-trading-agent",
     "language": "CSS",
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T19:13:06Z",
     "url": "https://github.com/gtoxlili/codemode-go"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6931,
-    "updated_at": "2026-08-17T19:54:02Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T14:09:45Z",
     "url": "https://github.com/JianFeng1104/CultureMate"
-  },
-  {
-    "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
-    "id": "JianFeng1104/TripMate",
-    "language": "Python",
-    "name": "JianFeng1104/TripMate",
-    "stars": 0,
-    "updated_at": "2026-08-17T14:09:45Z",
-    "url": "https://github.com/JianFeng1104/TripMate"
   }
 ]
