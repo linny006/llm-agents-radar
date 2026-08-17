@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:40:33Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Code mode for Go agents: the model writes one JavaScript program that calls your tools, instead of one tool call per tur",
+    "id": "gtoxlili/codemode-go",
+    "language": "Go",
+    "name": "gtoxlili/codemode-go",
+    "stars": 1,
+    "updated_at": "2026-08-17T07:39:24Z",
+    "url": "https://github.com/gtoxlili/codemode-go"
+  },
+  {
+    "description": "Agent-centric smart-cockpit simulation sandbox \u2014 \u7ed9\u5ea7\u8231\u4ea7\u54c1\u7ecf\u7406\u7684 AI Demo \u516c\u5171\u5e95\u5ea7\uff08\u96f6\u540e\u7aef\u3001\u96f6\u8fd0\u884c\u65f6\u4f9d\u8d56\uff09",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-17T07:39:14Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 13,
+    "updated_at": "2026-08-17T07:36:53Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-17T07:34:12Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-17T07:33:45Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "A minimal LLM agent that drives a real browser via a 4-layer perception cascade: HTTP text extraction, accessibility-tre",
+    "id": "sanjeev29/scout-browser-agent",
+    "language": "Python",
+    "name": "sanjeev29/scout-browser-agent",
+    "stars": 1,
+    "updated_at": "2026-08-17T07:30:36Z",
+    "url": "https://github.com/sanjeev29/scout-browser-agent"
+  },
+  {
     "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
     "id": "Huoyanlifusu/rkcockpit",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/Huoyanlifusu/rkcockpit"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
     "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-17T07:28:15Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-17T07:29:44Z",
+    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -34,15 +97,6 @@
     "stars": 5672,
     "updated_at": "2026-08-17T07:26:06Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Agent-centric smart-cockpit simulation sandbox \u2014 \u7ed9\u5ea7\u8231\u4ea7\u54c1\u7ecf\u7406\u7684 AI Demo \u516c\u5171\u5e95\u5ea7\uff08\u96f6\u540e\u7aef\u3001\u96f6\u8fd0\u884c\u65f6\u4f9d\u8d56\uff09",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:25:07Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "Self-Programming AI Agent Framework. Agents create and refine their own workflows.",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T07:11:40Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Code mode for Go agents: the model writes one JavaScript program that calls your tools, instead of one tool call per tur",
-    "id": "gtoxlili/codemode-go",
-    "language": "Go",
-    "name": "gtoxlili/codemode-go",
-    "stars": 1,
-    "updated_at": "2026-08-17T07:14:11Z",
-    "url": "https://github.com/gtoxlili/codemode-go"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-17T07:08:24Z",
+    "updated_at": "2026-08-17T07:44:48Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -220,7 +265,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 104,
+    "stars": 105,
     "updated_at": "2026-08-17T06:46:28Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -378,15 +423,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-17T07:29:44Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
     "id": "mena256/ai-pair-engineer",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T06:30:05Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-17T06:26:17Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\u622a\u56fe\u5230\u52a8\u4f5c\u7684\u79fb\u52a8\u7aef GUI Agent / Screenshot-to-action mobile GUI Agent with coordinate grounding and offline evaluation",
-    "id": "qizhanggu/mobile-gui-agent",
-    "language": "Python",
-    "name": "qizhanggu/mobile-gui-agent",
-    "stars": 0,
-    "updated_at": "2026-08-17T07:24:38Z",
-    "url": "https://github.com/qizhanggu/mobile-gui-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 9,
-    "updated_at": "2026-08-17T06:22:58Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1636,
-    "updated_at": "2026-08-17T07:10:41Z",
-    "url": "https://github.com/AgentEra/Agently"
   }
 ]
