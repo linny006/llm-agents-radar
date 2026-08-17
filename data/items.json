@@ -1,5 +1,14 @@
 [
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 1,
+    "updated_at": "2026-08-17T15:46:15Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -25,15 +34,6 @@
     "stars": 925,
     "updated_at": "2026-08-17T15:39:38Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:39:56Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",

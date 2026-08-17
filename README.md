@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 15:45 UTC
+> ⏰ Last updated: 2026-08-17 15:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 796 | TypeScript | 2026-08-17 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) | 925 | — | 2026-08-17 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem |
-| 4 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-17 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 1 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-17 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 2 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 796 | TypeScript | 2026-08-17 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-17 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 4 | [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) | 925 | — | 2026-08-17 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem |
 | 5 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-17 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
 | 6 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-17 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 7 | [waywaywayway/deepseek-harness-lazy-capability](https://github.com/waywaywayway/deepseek-harness-lazy-capability) | 0 | JavaScript | 2026-08-17 | 梁神按需模式 / LiangShen Lazy — DeepSeek Harness 的按需工具隔离 preset：默认极简，需要什么能力才临时开放什么，用完自动收回。A minimal-by-default, capability-on- |
