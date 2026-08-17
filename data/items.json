@@ -1,12 +1,21 @@
 [
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3050,
+    "updated_at": "2026-08-17T01:14:49Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
+    "id": "H97y/dsh-devflow",
+    "language": "TypeScript",
+    "name": "H97y/dsh-devflow",
     "stars": 0,
-    "updated_at": "2026-08-17T00:54:10Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+    "updated_at": "2026-08-17T01:09:44Z",
+    "url": "https://github.com/H97y/dsh-devflow"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -14,8 +23,35 @@
     "language": "Python",
     "name": "madhavnair2009-arch/ronin",
     "stars": 0,
-    "updated_at": "2026-08-17T00:53:57Z",
+    "updated_at": "2026-08-17T01:08:12Z",
     "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 124,
+    "updated_at": "2026-08-17T01:07:34Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
+    "id": "eddyficial/skillmint",
+    "language": "Python",
+    "name": "eddyficial/skillmint",
+    "stars": 0,
+    "updated_at": "2026-08-17T01:04:57Z",
+    "url": "https://github.com/eddyficial/skillmint"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-17T00:54:10Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-17T00:36:49Z",
+    "updated_at": "2026-08-17T01:11:11Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3038,
-    "updated_at": "2026-08-16T23:29:35Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -324,15 +351,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 124,
-    "updated_at": "2026-08-16T23:17:11Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
     "id": "mamon9022/poc-fls-node-epicronicles",
     "language": "TypeScript",
@@ -349,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T23:14:23Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Automated development pipeline plugin for DeepSeek Harness: requirement pool \u2192 LLM refine/design/plan/review \u2192 workspace",
-    "id": "H97y/dsh-devflow",
-    "language": "TypeScript",
-    "name": "H97y/dsh-devflow",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:13:19Z",
-    "url": "https://github.com/H97y/dsh-devflow"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T21:39:14Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Composable Agent Skills suite for senior-level Python development: 12 single-responsibility skills (architect, coder, re",
-    "id": "bzdvdn/python-developer-ai-skill",
-    "language": "Python",
-    "name": "bzdvdn/python-developer-ai-skill",
-    "stars": 0,
-    "updated_at": "2026-08-16T21:36:47Z",
-    "url": "https://github.com/bzdvdn/python-developer-ai-skill"
   }
 ]
