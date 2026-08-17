@@ -1,12 +1,39 @@
 [
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 95,
-    "updated_at": "2026-08-17T02:29:45Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
+    "id": "Huoyanlifusu/rkcockpit",
+    "language": "Python",
+    "name": "Huoyanlifusu/rkcockpit",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:43:19Z",
+    "url": "https://github.com/Huoyanlifusu/rkcockpit"
+  },
+  {
+    "description": "A fully explainable Text-to-SQL agent built with LangChain + Gemini  schema grounding, scope guardrails, SQL safety vali",
+    "id": "Mahendra-Chouhan/Ask-your-database",
+    "language": "Jupyter Notebook",
+    "name": "Mahendra-Chouhan/Ask-your-database",
+    "stars": 0,
+    "updated_at": "2026-08-17T02:37:59Z",
+    "url": "https://github.com/Mahendra-Chouhan/Ask-your-database"
+  },
+  {
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "id": "xiaobright/dsh-anchored-standard",
+    "language": "JavaScript",
+    "name": "xiaobright/dsh-anchored-standard",
+    "stars": 3122,
+    "updated_at": "2026-08-17T02:37:20Z",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-17T02:35:53Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,17 +41,26 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 3,
-    "updated_at": "2026-08-17T02:28:38Z",
+    "updated_at": "2026-08-17T02:34:37Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
-    "id": "Huoyanlifusu/webUIKit",
-    "language": "Python",
-    "name": "Huoyanlifusu/webUIKit",
-    "stars": 0,
-    "updated_at": "2026-08-17T02:21:53Z",
-    "url": "https://github.com/Huoyanlifusu/webUIKit"
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 150,
+    "updated_at": "2026-08-17T02:33:26Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 96,
+    "updated_at": "2026-08-17T02:30:56Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -54,15 +90,6 @@
     "url": "https://github.com/hyuga611/llm-safe-sql"
   },
   {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3113,
-    "updated_at": "2026-08-17T02:13:02Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -72,12 +99,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Cross-agent, local-first persistent memory plugin for DeepSeek Harness (DSH), powered by Mnemon. It shares long-term mem",
+    "description": "Three-tier memory system for DeepSeek Harness with nine pluggable providers, smart routing, independent task Agents, Web",
     "id": "omdsh-dev/dsh-mnemon",
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
-    "stars": 59,
-    "updated_at": "2026-08-17T02:01:53Z",
+    "stars": 58,
+    "updated_at": "2026-08-17T02:44:06Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T23:17:42Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-08-16T23:16:36Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-16T23:14:23Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:13:01Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
   }
 ]
