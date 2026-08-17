@@ -1,5 +1,23 @@
 [
   {
+    "description": "An LLM agent for building OpenAPI specifications based on the given code",
+    "id": "grauwolf32/contractor",
+    "language": "Python",
+    "name": "grauwolf32/contractor",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:58:08Z",
+    "url": "https://github.com/grauwolf32/contractor"
+  },
+  {
+    "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
+    "id": "sriharshpragya/ai-data-analyst",
+    "language": "Python",
+    "name": "sriharshpragya/ai-data-analyst",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:52:08Z",
+    "url": "https://github.com/sriharshpragya/ai-data-analyst"
+  },
+  {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
@@ -27,21 +45,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "\ud83e\udd16 Autonomous AI agent that talks to your PostgreSQL database. Natural language \u2192 SQL \u2192 charts \u2192 business insights. Built",
-    "id": "sriharshpragya/ai-data-analyst",
-    "language": "Python",
-    "name": "sriharshpragya/ai-data-analyst",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:38:26Z",
-    "url": "https://github.com/sriharshpragya/ai-data-analyst"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-17T20:36:57Z",
+    "updated_at": "2026-08-17T20:59:32Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -122,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-17T20:22:56Z",
+    "updated_at": "2026-08-17T20:54:39Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-17T18:09:29Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-17T20:39:18Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
