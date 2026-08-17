@@ -1,5 +1,41 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-17T04:53:27Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-17T04:52:21Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-17T04:50:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-17T04:50:02Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-17T04:41:52Z",
+    "updated_at": "2026-08-17T04:47:39Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-17T04:28:55Z",
+    "updated_at": "2026-08-17T04:53:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -68,7 +104,7 @@
     "language": "TypeScript",
     "name": "omdsh-dev/dsh-mnemon",
     "stars": 62,
-    "updated_at": "2026-08-17T04:24:17Z",
+    "updated_at": "2026-08-17T04:54:07Z",
     "url": "https://github.com/omdsh-dev/dsh-mnemon"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-17T04:02:51Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -169,15 +196,6 @@
     "stars": 5740,
     "updated_at": "2026-08-17T04:02:18Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-17T03:47:14Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Compile videos, PDFs, web pages, and docs into source-backed, certified agent skills for Claude Code, Codex, Cursor, and",
@@ -216,24 +234,6 @@
     "url": "https://github.com/qizhanggu/mobile-gui-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-17T03:05:46Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:05:03Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -247,7 +247,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3200,
+    "stars": 3206,
     "updated_at": "2026-08-17T02:58:21Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
