@@ -1,11 +1,20 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-17T09:42:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-17T09:41:07Z",
+    "updated_at": "2026-08-17T09:42:31Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "ThorJS24/ai-autonomous-pentest",
     "stars": 0,
-    "updated_at": "2026-08-17T09:38:42Z",
+    "updated_at": "2026-08-17T09:45:14Z",
     "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Go",
     "name": "Leihb/learn-agent-the-hard-way",
     "stars": 25,
-    "updated_at": "2026-08-17T09:32:40Z",
+    "updated_at": "2026-08-17T09:44:46Z",
     "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
@@ -135,15 +144,6 @@
     "url": "https://github.com/leejoong/whalex"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T08:57:16Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-17T08:44:03Z",
+    "updated_at": "2026-08-17T09:45:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
