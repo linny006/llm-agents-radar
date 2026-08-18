@@ -1,11 +1,65 @@
 [
   {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:15:02Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+  },
+  {
+    "description": "mcp-loomery \u662f\u4e00\u4e2a Agent Skill\uff0c\u80fd\u5c06\u5b98\u65b9 MCP docs\uff08\u534f\u8bae 2026-07-28\uff09\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684 workflow\uff0c\u5305\u62ec scaffold\u3001review\u3001debug\u3001configure hosts \u4ee5\u53ca pub",
+    "id": "zimodzh/mcp-loomery-skills",
+    "language": "Python",
+    "name": "zimodzh/mcp-loomery-skills",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:12:00Z",
+    "url": "https://github.com/zimodzh/mcp-loomery-skills"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:11:15Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
+    "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 1,
+    "updated_at": "2026-08-18T13:05:33Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T13:02:25Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
+    "language": "Python",
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 37,
+    "updated_at": "2026-08-18T13:01:21Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T12:59:00Z",
+    "updated_at": "2026-08-18T13:14:47Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "mcp-loomery \u662f\u4e00\u4e2a Agent Skill\uff0c\u80fd\u5c06\u5b98\u65b9 MCP docs\uff08\u534f\u8bae 2026-07-28\uff09\u8f6c\u5316\u4e3a\u53ef\u6267\u884c\u7684 workflow\uff0c\u5305\u62ec scaffold\u3001review\u3001debug\u3001configure hosts \u4ee5\u53ca pub",
-    "id": "zimodzh/mcp-loomery-skills",
-    "language": "Python",
-    "name": "zimodzh/mcp-loomery-skills",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:57:22Z",
-    "url": "https://github.com/zimodzh/mcp-loomery-skills"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -43,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T12:57:03Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-18T12:56:19Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:55:04Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
@@ -72,13 +99,13 @@
     "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 142,
-    "updated_at": "2026-08-18T12:42:35Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-18T12:56:19Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
@@ -90,6 +117,24 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:55:04Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 142,
+    "updated_at": "2026-08-18T12:42:35Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -99,15 +144,6 @@
     "url": "https://github.com/AVADSA25/codec"
   },
   {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:40:51Z",
-    "url": "https://github.com/leejoong/whalex"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -115,15 +151,6 @@
     "stars": 124,
     "updated_at": "2026-08-18T12:40:30Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:34:55Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
   },
   {
     "description": "LLM-\u0430\u0433\u0435\u043d\u0442-\u0441\u0442\u0438\u043b\u0438\u0441\u0442: LangGraph + \u0432\u0435\u043a\u0442\u043e\u0440\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a \u043f\u043e \u043a\u0430\u0442\u0430\u043b\u043e\u0433\u0443 \u043e\u0434\u0435\u0436\u0434\u044b (FashionCLIP), FastAPI + WebSocket",
@@ -149,17 +176,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T12:38:00Z",
+    "updated_at": "2026-08-18T13:15:06Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 37,
-    "updated_at": "2026-08-18T12:31:33Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T12:15:35Z",
+    "updated_at": "2026-08-18T13:14:56Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T12:01:57Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T12:01:32Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-18T12:57:17Z",
+    "updated_at": "2026-08-18T13:14:21Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:19:29Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:19:08Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
   }
 ]
