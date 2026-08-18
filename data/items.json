@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-j-space",
     "stars": 0,
-    "updated_at": "2026-08-18T15:22:06Z",
+    "updated_at": "2026-08-18T15:29:55Z",
     "url": "https://github.com/wxxb789/dsh-j-space"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:19:29Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6937,
-    "updated_at": "2026-08-18T15:18:23Z",
+    "updated_at": "2026-08-18T15:25:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T15:13:15Z",
+    "updated_at": "2026-08-18T15:24:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 104,
-    "updated_at": "2026-08-18T15:11:24Z",
+    "updated_at": "2026-08-18T15:28:59Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T15:10:32Z",
     "url": "https://github.com/antitree/meshhermes"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:19:29Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
@@ -113,7 +113,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-18T14:54:31Z",
+    "updated_at": "2026-08-18T15:24:59Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T15:20:34Z",
+    "updated_at": "2026-08-18T15:30:15Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -149,7 +149,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 10,
-    "updated_at": "2026-08-18T14:46:02Z",
+    "updated_at": "2026-08-18T15:25:54Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -203,7 +203,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 124,
-    "updated_at": "2026-08-18T14:31:00Z",
+    "updated_at": "2026-08-18T15:28:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-18T14:28:49Z",
+    "updated_at": "2026-08-18T15:27:19Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -221,7 +221,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-18T14:26:13Z",
+    "updated_at": "2026-08-18T15:24:51Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {

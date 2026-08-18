@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 15:22 UTC
+> ⏰ Last updated: 2026-08-18 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,13 +44,13 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 37 | Python | 2026-08-18 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
 | 2 | [wxxb789/dsh-j-space](https://github.com/wxxb789/dsh-j-space) | 0 | TypeScript | 2026-08-18 | Automatic J-Space cognition suite for DeepSeek Harness (dsh): a zero-config dsh-plugin that gives every agent session st |
-| 3 | [Wolido/async-subagent-isolation](https://github.com/Wolido/async-subagent-isolation) | 2 | TypeScript | 2026-08-18 | Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes — main agent stays read-only. |
-| 4 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6937 | Python | 2026-08-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 5 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-18 | GPT autonomous research and investigation using starintel |
-| 6 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 104 | Python | 2026-08-18 | Open-Source Intelligent Command Layer |
-| 7 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 0 | Python | 2026-08-18 | Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a |
-| 8 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-18 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
-| 9 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 3 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 4 | [Wolido/async-subagent-isolation](https://github.com/Wolido/async-subagent-isolation) | 2 | TypeScript | 2026-08-18 | Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes — main agent stays read-only. |
+| 5 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6937 | Python | 2026-08-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 6 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-18 | GPT autonomous research and investigation using starintel |
+| 7 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 104 | Python | 2026-08-18 | Open-Source Intelligent Command Layer |
+| 8 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 0 | Python | 2026-08-18 | Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a |
+| 9 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-18 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
 | 10 | [uukuguy/grid-static-analysis](https://github.com/uukuguy/grid-static-analysis) | 0 | Python | 2026-08-18 | Capability-first CLI agent for evidence-backed power-system static analysis with pandapower. |
 | 11 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 12 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-18 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
