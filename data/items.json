@@ -1,5 +1,95 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-18T08:44:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
+    "id": "JianFeng1104/CultureMate",
+    "language": "Python",
+    "name": "JianFeng1104/CultureMate",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:44:15Z",
+    "url": "https://github.com/JianFeng1104/CultureMate"
+  },
+  {
+    "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
+    "id": "JianFeng1104/TripMate",
+    "language": "Python",
+    "name": "JianFeng1104/TripMate",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:44:15Z",
+    "url": "https://github.com/JianFeng1104/TripMate"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:43:48Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:40:29Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-18T08:39:06Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:38:11Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "camel-ai/tokin",
+    "language": "Python",
+    "name": "camel-ai/tokin",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:35:11Z",
+    "url": "https://github.com/camel-ai/tokin"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 124,
+    "updated_at": "2026-08-18T08:34:02Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:33:27Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "leejoong/whalex",
     "stars": 0,
-    "updated_at": "2026-08-18T08:20:57Z",
+    "updated_at": "2026-08-18T08:44:59Z",
     "url": "https://github.com/leejoong/whalex"
   },
   {
@@ -52,24 +142,6 @@
     "stars": 6,
     "updated_at": "2026-08-18T08:20:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:18:31Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:17:37Z",
-    "url": "https://github.com/camel-ai/tokin"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -86,17 +158,8 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-18T08:15:51Z",
+    "updated_at": "2026-08-18T08:44:18Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-18T08:14:33Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
@@ -131,7 +194,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T08:05:36Z",
+    "updated_at": "2026-08-18T08:44:50Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -140,7 +203,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 139,
-    "updated_at": "2026-08-18T08:05:20Z",
+    "updated_at": "2026-08-18T08:43:40Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-08-18T08:04:36Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:58:03Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
@@ -176,7 +230,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-18T07:55:56Z",
+    "updated_at": "2026-08-18T08:33:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -194,17 +248,8 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 121,
-    "updated_at": "2026-08-18T07:43:58Z",
+    "updated_at": "2026-08-18T08:44:54Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:43:31Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -214,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-08-18T07:39:39Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 124,
-    "updated_at": "2026-08-18T07:36:03Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
@@ -243,15 +279,6 @@
     "url": "https://github.com/kangwoo/agent-engineering"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:24:22Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
     "id": "Starfie1d1272/dsh-v4-anchor",
     "language": "JavaScript",
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T07:08:43Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-18T08:25:27Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A Go LLM client with a memory. Every provider, cost-aware, single binary.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T04:14:52Z",
     "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-18T04:13:12Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 156,
-    "updated_at": "2026-08-18T04:08:33Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   }
 ]
