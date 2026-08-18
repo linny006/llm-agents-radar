@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-18T13:57:53Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
+    "id": "d-ouyang/dsh-plugin-ascension",
+    "language": "JavaScript",
+    "name": "d-ouyang/dsh-plugin-ascension",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:56:25Z",
+    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
+  },
+  {
     "description": "Nexus Resonance Codex (NRC) - Ai Enhancements",
     "id": "Nexus-Resonance-Codex/Ai-Enhancements",
     "language": "Python",
@@ -41,7 +59,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T13:58:33Z",
+    "updated_at": "2026-08-18T14:02:01Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-18T13:41:12Z",
+    "updated_at": "2026-08-18T14:02:29Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -90,11 +108,20 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:36:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23338,
+    "stars": 23341,
     "updated_at": "2026-08-18T13:35:40Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -234,15 +261,6 @@
     "url": "https://github.com/moskv11n/stylist-agent"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:36:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -324,21 +342,12 @@
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-18T13:57:53Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-18T13:45:57Z",
+    "updated_at": "2026-08-18T14:01:39Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T11:07:34Z",
     "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:27:00Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
