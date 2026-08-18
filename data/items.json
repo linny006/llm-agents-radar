@@ -1,21 +1,39 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-18T08:44:24Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-18T09:00:05Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
-    "id": "JianFeng1104/CultureMate",
+    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
+    "id": "Fisher0012/xiaocai-stock-ai",
     "language": "Python",
-    "name": "JianFeng1104/CultureMate",
+    "name": "Fisher0012/xiaocai-stock-ai",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:56:10Z",
+    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
     "stars": 0,
-    "updated_at": "2026-08-18T08:44:15Z",
-    "url": "https://github.com/JianFeng1104/CultureMate"
+    "updated_at": "2026-08-18T08:54:39Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
+    "id": "d-ouyang/dsh-plugin-ascension",
+    "language": "JavaScript",
+    "name": "d-ouyang/dsh-plugin-ascension",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:58:38Z",
+    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
   },
   {
     "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
@@ -23,8 +41,71 @@
     "language": "Python",
     "name": "JianFeng1104/TripMate",
     "stars": 0,
-    "updated_at": "2026-08-18T08:44:15Z",
+    "updated_at": "2026-08-18T08:53:39Z",
     "url": "https://github.com/JianFeng1104/TripMate"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:58:50Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
+    "id": "JianFeng1104/CultureMate",
+    "language": "Python",
+    "name": "JianFeng1104/CultureMate",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:53:38Z",
+    "url": "https://github.com/JianFeng1104/CultureMate"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:53:24Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-18T08:52:08Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:44:59Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-18T08:44:54Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-18T09:00:07Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -43,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T08:40:29Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-18T08:39:06Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:38:11Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Make any agent harness token-native.",
@@ -117,24 +180,6 @@
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
-    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
-    "id": "Fisher0012/xiaocai-stock-ai",
-    "language": "Python",
-    "name": "Fisher0012/xiaocai-stock-ai",
-    "stars": 1,
-    "updated_at": "2026-08-18T08:23:53Z",
-    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:44:59Z",
-    "url": "https://github.com/leejoong/whalex"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -153,20 +198,11 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-18T08:44:18Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "600 \u884c TypeScript \u5199\u6210\u7684\u8d85\u7ea7\u8ff7\u4f60\u7248 pi\uff0c\u8ba9\u4f60\u8f7b\u677e\u4ece 0 \u5199\u51fa\u5c5e\u4e8e\u4f60\u7684 pi-agent",
     "id": "SaladDay/pi-from-scratch",
     "language": "TypeScript",
     "name": "SaladDay/pi-from-scratch",
-    "stars": 1051,
+    "stars": 1052,
     "updated_at": "2026-08-18T08:09:35Z",
     "url": "https://github.com/SaladDay/pi-from-scratch"
   },
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T08:17:59Z",
+    "updated_at": "2026-08-18T08:57:54Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T08:44:50Z",
+    "updated_at": "2026-08-18T08:46:13Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 8,
     "updated_at": "2026-08-18T08:09:19Z",
     "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-18T08:44:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -304,24 +331,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T06:53:38Z",
     "url": "https://github.com/mahdi-salmanzade/hippo"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:41:09Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:35:09Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T04:15:32Z",
     "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:14:52Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   }
 ]
