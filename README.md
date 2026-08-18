@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 15:45 UTC
+> ⏰ Last updated: 2026-08-18 15:54 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -44,24 +44,24 @@ expired items removed — so you can rely on what you see being current.
 |---|------|---|------|---------|-------------|
 | 1 | [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) | 0 | TypeScript | 2026-08-18 | Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s |
 | 2 | [wxxb789/dsh-j-space](https://github.com/wxxb789/dsh-j-space) | 0 | TypeScript | 2026-08-18 | Automatic J-Space cognition suite for DeepSeek Harness (dsh): a zero-config dsh-plugin that gives every agent session st |
-| 3 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-08-18 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
-| 7 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 104 | Python | 2026-08-18 | Open-Source Intelligent Command Layer |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-18 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-18 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 10 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 11 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 37 | Python | 2026-08-18 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
-| 12 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
-| 13 | [Wolido/async-subagent-isolation](https://github.com/Wolido/async-subagent-isolation) | 2 | TypeScript | 2026-08-18 | Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes — main agent stays read-only. |
-| 14 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6937 | Python | 2026-08-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 15 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-18 | GPT autonomous research and investigation using starintel |
-| 16 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 0 | Python | 2026-08-18 | Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a |
-| 17 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-18 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
-| 18 | [uukuguy/grid-static-analysis](https://github.com/uukuguy/grid-static-analysis) | 0 | Python | 2026-08-18 | Capability-first CLI agent for evidence-backed power-system static analysis with pandapower. |
-| 19 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-18 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 20 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 7 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-08-18 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
+| 8 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 104 | Python | 2026-08-18 | Open-Source Intelligent Command Layer |
+| 9 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-18 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 10 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-18 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 11 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 13 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 37 | Python | 2026-08-18 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
+| 14 | [Wolido/async-subagent-isolation](https://github.com/Wolido/async-subagent-isolation) | 2 | TypeScript | 2026-08-18 | Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes — main agent stays read-only. |
+| 15 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6937 | Python | 2026-08-18 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 16 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-18 | GPT autonomous research and investigation using starintel |
+| 17 | [DominikSienkiewicz/StockAgent](https://github.com/DominikSienkiewicz/StockAgent) | 0 | Python | 2026-08-18 | Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a |
+| 18 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-18 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
+| 19 | [uukuguy/grid-static-analysis](https://github.com/uukuguy/grid-static-analysis) | 0 | Python | 2026-08-18 | Capability-first CLI agent for evidence-backed power-system static analysis with pandapower. |
+| 20 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 1 | Rust | 2026-08-18 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
 | 21 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-18 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 22 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-18 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
 | 23 | [HumanStudy-Hub/HumanStudy-Bench](https://github.com/HumanStudy-Hub/HumanStudy-Bench) | 6 | Python | 2026-08-18 | HumanStudy-Bench: Community Edition — Standardized human study replays for AI agent evaluation |

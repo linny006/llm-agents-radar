@@ -5,7 +5,7 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-raven-research",
     "stars": 0,
-    "updated_at": "2026-08-18T15:44:12Z",
+    "updated_at": "2026-08-18T15:53:57Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-j-space",
     "stars": 0,
-    "updated_at": "2026-08-18T15:43:16Z",
+    "updated_at": "2026-08-18T15:50:03Z",
     "url": "https://github.com/wxxb789/dsh-j-space"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:49:52Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -81,6 +90,15 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:24:59Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -97,15 +115,6 @@
     "stars": 37,
     "updated_at": "2026-08-18T15:21:26Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:44:44Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
@@ -171,21 +180,12 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:24:59Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T15:43:10Z",
+    "updated_at": "2026-08-18T15:54:14Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "HumanStudy-Hub/HumanStudy-Bench",
     "stars": 6,
-    "updated_at": "2026-08-18T14:50:26Z",
+    "updated_at": "2026-08-18T15:47:58Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
@@ -329,7 +329,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-18T14:18:35Z",
+    "updated_at": "2026-08-18T15:53:26Z",
     "url": "https://github.com/helixml/helix"
   },
   {
