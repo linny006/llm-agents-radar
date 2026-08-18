@@ -1,11 +1,20 @@
 [
   {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:20:56Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T18:09:32Z",
+    "updated_at": "2026-08-18T18:23:47Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -27,15 +36,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:47:33Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -50,7 +50,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-18T18:06:25Z",
+    "updated_at": "2026-08-18T18:24:28Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -320,7 +320,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 10,
-    "updated_at": "2026-08-18T16:51:08Z",
+    "updated_at": "2026-08-18T18:23:44Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-18T16:42:31Z",
+    "updated_at": "2026-08-18T18:16:42Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
