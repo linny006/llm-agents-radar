@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 06:00 UTC
+> ⏰ Last updated: 2026-08-18 06:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [yancent-dao/cockpit-agent-sim](https://github.com/yancent-dao/cockpit-agent-sim) | 0 | TypeScript | 2026-08-18 | Agent framework for smart-cockpit apps · 面向智能座舱业务的 Agent 框架:零后端、权限分级、确认流、卡片编排、快慢双层、真实三方集成,加能力=加数据不加代码 |
-| 3 | [kangwoo/build-a-coding-agent](https://github.com/kangwoo/build-a-coding-agent) | 0 | Java | 2026-08-18 | 《밑바닥부터 만드는 코딩 에이전트 — 자바 21로 구현하는 LLM 에이전트의 내부》 장별 예제 코드. ch02~ch25 각 디렉터리가 그 장을 끝냈을 때의 스냅샷이자 독립 실행 가능한 Gradle 프로젝트(JDK 2 |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
+| 1 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [yancent-dao/cockpit-agent-sim](https://github.com/yancent-dao/cockpit-agent-sim) | 0 | TypeScript | 2026-08-18 | Agent framework for smart-cockpit apps · 面向智能座舱业务的 Agent 框架:零后端、权限分级、确认流、卡片编排、快慢双层、真实三方集成,加能力=加数据不加代码 |
+| 4 | [kangwoo/build-a-coding-agent](https://github.com/kangwoo/build-a-coding-agent) | 0 | Java | 2026-08-18 | 《밑바닥부터 만드는 코딩 에이전트 — 자바 21로 구현하는 LLM 에이전트의 내부》 장별 예제 코드. ch02~ch25 각 디렉터리가 그 장을 끝냈을 때의 스냅샷이자 독립 실행 가능한 Gradle 프로젝트(JDK 2 |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
 | 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
 | 8 | [Ven0m0/gemini-web-wrapper](https://github.com/Ven0m0/gemini-web-wrapper) | 4 | TypeScript | 2026-08-18 | A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway |
