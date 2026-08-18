@@ -1,5 +1,14 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-18T07:50:49Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -59,7 +68,7 @@
     "language": "TypeScript",
     "name": "leejoong/whalex",
     "stars": 0,
-    "updated_at": "2026-08-18T07:30:30Z",
+    "updated_at": "2026-08-18T07:50:30Z",
     "url": "https://github.com/leejoong/whalex"
   },
   {
@@ -86,17 +95,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T07:34:39Z",
+    "updated_at": "2026-08-18T07:50:25Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-18T07:32:56Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -104,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-18T07:30:31Z",
+    "updated_at": "2026-08-18T07:50:04Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "alex8224/synapse-agent",
     "stars": 8,
-    "updated_at": "2026-08-18T06:40:38Z",
+    "updated_at": "2026-08-18T07:50:44Z",
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {

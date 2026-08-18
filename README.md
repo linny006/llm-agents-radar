@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 07:45 UTC
+> ⏰ Last updated: 2026-08-18 07:51 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 3 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-18 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-18 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 5 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 34 | — | 2026-08-18 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
-| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 7 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
-| 8 | [kangwoo/agent-engineering](https://github.com/kangwoo/agent-engineering) | 0 | Java | 2026-08-18 | 『에이전트 엔지니어링 — AI 에이전트 설계의 결정 기준』 참조 구현. base/는 1권 『밑바닥부터 만드는 코딩 에이전트』 최종 코드(ch25)의 사본이고, plus/는 2권이 더하는 그래프 런타임과 평가 하네스다 |
-| 9 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 10 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-18 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 11 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-18 | The self-improving SRE agent |
+| 1 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-18 | The self-improving SRE agent |
+| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 3 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 4 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-18 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-18 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 6 | [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills) | 34 | — | 2026-08-18 | An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准 |
+| 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 8 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
+| 9 | [kangwoo/agent-engineering](https://github.com/kangwoo/agent-engineering) | 0 | Java | 2026-08-18 | 『에이전트 엔지니어링 — AI 에이전트 설계의 결정 기준』 참조 구현. base/는 1권 『밑바닥부터 만드는 코딩 에이전트』 최종 코드(ch25)의 사본이고, plus/는 2권이 더하는 그래프 런타임과 평가 하네스다 |
+| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 11 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-18 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 12 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-18 | A productive AI coworker that learns, self-improves, and ships work. |
 | 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 14 | [Starfie1d1272/dsh-v4-anchor](https://github.com/Starfie1d1272/dsh-v4-anchor) | 1 | JavaScript | 2026-08-18 | Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard. |
