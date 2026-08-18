@@ -1,5 +1,14 @@
 [
   {
+    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
+    "id": "paipaipai666/nexus-browser-mcp",
+    "language": "Python",
+    "name": "paipaipai666/nexus-browser-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-18T09:00:22Z",
+    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 22,
     "updated_at": "2026-08-18T09:00:05Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
+    "id": "d-ouyang/dsh-plugin-ascension",
+    "language": "JavaScript",
+    "name": "d-ouyang/dsh-plugin-ascension",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:58:38Z",
+    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
   },
   {
     "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T08:54:39Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
-    "id": "d-ouyang/dsh-plugin-ascension",
-    "language": "JavaScript",
-    "name": "d-ouyang/dsh-plugin-ascension",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:58:38Z",
-    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
   },
   {
     "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
@@ -104,7 +113,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-18T09:00:07Z",
+    "updated_at": "2026-08-18T09:01:36Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-18T04:19:12Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
-    "id": "Wolido/async-subagent-isolation",
-    "language": "TypeScript",
-    "name": "Wolido/async-subagent-isolation",
-    "stars": 2,
-    "updated_at": "2026-08-18T04:15:32Z",
-    "url": "https://github.com/Wolido/async-subagent-isolation"
   }
 ]
