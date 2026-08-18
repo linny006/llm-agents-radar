@@ -1,5 +1,50 @@
 [
   {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 79,
+    "updated_at": "2026-08-18T06:13:07Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 134,
+    "updated_at": "2026-08-18T06:12:35Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-08-18T06:08:39Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:08:17Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:15:09Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
     "id": "leejoong/whalex",
     "language": "TypeScript",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T05:53:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:50:01Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "\u300a\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\ubc14 21\ub85c \uad6c\ud604\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc758 \ub0b4\ubd80\u300b \uc7a5\ubcc4 \uc608\uc81c \ucf54\ub4dc. ch02~ch25 \uac01 \ub514\ub809\ud130\ub9ac\uac00 \uadf8 \uc7a5\uc744 \ub05d\ub0c8\uc744 \ub54c\uc758 \uc2a4\ub0c5\uc0f7\uc774\uc790 \ub3c5\ub9bd \uc2e4\ud589 \uac00\ub2a5\ud55c Gradle \ud504\ub85c\uc81d\ud2b8(JDK 2",
@@ -45,6 +81,15 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
+    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
+    "id": "nexpeakcore/deepseek-harness-pr-review",
+    "language": "Python",
+    "name": "nexpeakcore/deepseek-harness-pr-review",
+    "stars": 37,
+    "updated_at": "2026-08-18T05:42:34Z",
+    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -61,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T05:34:32Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-08-18T05:32:27Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:27:09Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T05:21:08Z",
     "url": "https://github.com/waywaywayway/deepseek-harness-lazy-capability"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 133,
-    "updated_at": "2026-08-18T05:18:04Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u57fa\u4e8e pi \u7684\u6e17\u900f\u6d4b\u8bd5 / SRC \u6f0f\u6d1e\u6316\u6398 Agent\uff1a\u786e\u5b9a\u6027\u4fe1\u606f\u6536\u96c6 + LLM \u7f16\u6392\u6316\u6d1e + \u6f0f\u6d1e\u590d\u5ba1 + Vue3 Web \u6307\u6325\u53f0",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T05:07:54Z",
+    "updated_at": "2026-08-18T06:02:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -349,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T03:30:56Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 36,
-    "updated_at": "2026-08-18T05:42:34Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
     "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T03:14:53Z",
     "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-18T03:14:39Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
