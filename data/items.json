@@ -1,5 +1,140 @@
 [
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 140,
+    "updated_at": "2026-08-18T10:15:10Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:13:17Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
+    "id": "HELLOCODINGTR/AgentForge",
+    "language": "\u2014",
+    "name": "HELLOCODINGTR/AgentForge",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:12:16Z",
+    "url": "https://github.com/HELLOCODINGTR/AgentForge"
+  },
+  {
+    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
+    "id": "strobilevitellus470/argus-ai",
+    "language": "Python",
+    "name": "strobilevitellus470/argus-ai",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:11:46Z",
+    "url": "https://github.com/strobilevitellus470/argus-ai"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:11:39Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:11:26Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
+    "id": "juandavidru4641/dsplab",
+    "language": "JavaScript",
+    "name": "juandavidru4641/dsplab",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:08:44Z",
+    "url": "https://github.com/juandavidru4641/dsplab"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:08:28Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
+    "id": "laoxs2002/genai-agentes",
+    "language": "Jupyter Notebook",
+    "name": "laoxs2002/genai-agentes",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:08:20Z",
+    "url": "https://github.com/laoxs2002/genai-agentes"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:06:33Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:05:54Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:04:43Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:03:24Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:02:44Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:00:41Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
     "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
     "id": "FeixueCode/miaoclaw-releases",
     "language": "JavaScript",
@@ -41,7 +176,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T10:00:05Z",
+    "updated_at": "2026-08-18T10:09:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -81,15 +216,6 @@
     "url": "https://github.com/AlanFokCo/agentscope-go"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:49:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
     "id": "Amri854/obsidian-mcp-server",
     "language": "TypeScript",
@@ -97,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T09:46:53Z",
     "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T09:45:07Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
@@ -185,7 +302,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-18T09:30:06Z",
+    "updated_at": "2026-08-18T10:04:01Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -198,15 +315,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:25:24Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -214,24 +322,6 @@
     "stars": 10,
     "updated_at": "2026-08-18T09:13:47Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:58:58Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:02:03Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -324,15 +414,6 @@
     "url": "https://github.com/leejoong/whalex"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 140,
-    "updated_at": "2026-08-18T08:43:40Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "camel-ai/tokin",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T08:06:25Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-18T09:51:39Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
-    "id": "Ven0m0/gemini-web-wrapper",
-    "language": "TypeScript",
-    "name": "Ven0m0/gemini-web-wrapper",
-    "stars": 4,
-    "updated_at": "2026-08-18T08:04:36Z",
-    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 37,
-    "updated_at": "2026-08-18T09:58:35Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-18T08:09:19Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-18T07:39:39Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
-    "id": "zimodzh/dsh-plugin-dev-skills",
-    "language": "\u2014",
-    "name": "zimodzh/dsh-plugin-dev-skills",
-    "stars": 34,
-    "updated_at": "2026-08-18T07:33:42Z",
-    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
-  },
-  {
-    "description": "\u300e\uc5d0\uc774\uc804\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc124\uacc4\uc758 \uacb0\uc815 \uae30\uc900\u300f \ucc38\uc870 \uad6c\ud604. base/\ub294 1\uad8c \u300e\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\u300f \ucd5c\uc885 \ucf54\ub4dc(ch25)\uc758 \uc0ac\ubcf8\uc774\uace0, plus/\ub294 2\uad8c\uc774 \ub354\ud558\ub294 \uadf8\ub798\ud504 \ub7f0\ud0c0\uc784\uacfc \ud3c9\uac00 \ud558\ub124\uc2a4\ub2e4",
-    "id": "kangwoo/agent-engineering",
-    "language": "Java",
-    "name": "kangwoo/agent-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:28:35Z",
-    "url": "https://github.com/kangwoo/agent-engineering"
-  },
-  {
-    "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
-    "id": "Starfie1d1272/dsh-v4-anchor",
-    "language": "JavaScript",
-    "name": "Starfie1d1272/dsh-v4-anchor",
-    "stars": 1,
-    "updated_at": "2026-08-18T07:15:45Z",
-    "url": "https://github.com/Starfie1d1272/dsh-v4-anchor"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:08:43Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
