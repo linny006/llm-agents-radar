@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 20:45 UTC
+> ⏰ Last updated: 2026-08-18 20:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Maximooch/penguin](https://github.com/Maximooch/penguin) | 6 | Python | 2026-08-18 | 🐧 is currently a work in progress... Stay tuned!  |
-| 2 | [WhitehatD/hesperus](https://github.com/WhitehatD/hesperus) | 5 | C | 2026-08-18 | Hesperus — Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o |
-| 3 | [hjawhar/og-ai](https://github.com/hjawhar/og-ai) | 0 | TypeScript | 2026-08-18 | Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise |
-| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 7 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
-| 8 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
-| 9 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-18 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 10 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-18 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [Maximooch/penguin](https://github.com/Maximooch/penguin) | 6 | Python | 2026-08-18 | 🐧 is currently a work in progress... Stay tuned!  |
+| 3 | [WhitehatD/hesperus](https://github.com/WhitehatD/hesperus) | 5 | C | 2026-08-18 | Hesperus — Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o |
+| 4 | [hjawhar/og-ai](https://github.com/hjawhar/og-ai) | 0 | TypeScript | 2026-08-18 | Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-18 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 121 | HTML | 2026-08-18 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-18 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [leejoong/whalex](https://github.com/leejoong/whalex) | 0 | TypeScript | 2026-08-18 | Open-source coding-agent desktop app on your own DeepSeek key — Claude Code-class workflows, SuperCode multi-agent fleet |
+| 9 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-18 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 10 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-18 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 124 | HTML | 2026-08-18 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 12 | [honestDS/MonoLight](https://github.com/honestDS/MonoLight) | 2 | Python | 2026-08-18 | MonoLight 是一个专注于安全执行与人机协同的通用自主智能体（General Autonomous Agent）运行时。 |
 | 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-18 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
