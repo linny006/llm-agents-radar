@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:56:10Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -7,15 +16,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T17:47:33Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Three standalone Python demos showing different approaches to building LLM tool-use agents.",
-    "id": "jordan2doyle1/AgentsHelloWorld",
-    "language": "Python",
-    "name": "jordan2doyle1/AgentsHelloWorld",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:43:00Z",
-    "url": "https://github.com/jordan2doyle1/AgentsHelloWorld"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -63,21 +63,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:30:13Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T17:49:31Z",
+    "updated_at": "2026-08-18T17:54:14Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -176,7 +167,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T17:23:38Z",
+    "updated_at": "2026-08-18T17:59:46Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -448,5 +439,14 @@
     "stars": 3,
     "updated_at": "2026-08-18T16:29:07Z",
     "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
+    "id": "mensfeld/pocketrb",
+    "language": "Ruby",
+    "name": "mensfeld/pocketrb",
+    "stars": 38,
+    "updated_at": "2026-08-18T16:26:51Z",
+    "url": "https://github.com/mensfeld/pocketrb"
   }
 ]
