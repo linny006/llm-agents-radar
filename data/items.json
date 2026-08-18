@@ -1,5 +1,41 @@
 [
   {
+    "description": "Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a",
+    "id": "DominikSienkiewicz/StockAgent",
+    "language": "Python",
+    "name": "DominikSienkiewicz/StockAgent",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:11:08Z",
+    "url": "https://github.com/DominikSienkiewicz/StockAgent"
+  },
+  {
+    "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
+    "id": "antitree/meshhermes",
+    "language": "Python",
+    "name": "antitree/meshhermes",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:10:32Z",
+    "url": "https://github.com/antitree/meshhermes"
+  },
+  {
+    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
+    "id": "uukuguy/grid-static-analysis",
+    "language": "Python",
+    "name": "uukuguy/grid-static-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:00:43Z",
+    "url": "https://github.com/uukuguy/grid-static-analysis"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T14:59:23Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -9,13 +45,13 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
-    "id": "antitree/meshhermes",
-    "language": "\u2014",
-    "name": "antitree/meshhermes",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-18T14:59:44Z",
-    "url": "https://github.com/antitree/meshhermes"
+    "updated_at": "2026-08-18T14:54:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-18T14:54:00Z",
+    "updated_at": "2026-08-18T15:07:07Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T14:57:49Z",
+    "updated_at": "2026-08-18T15:03:15Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/mathisarends/sonosify"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:59:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
     "id": "sergezuber/FABULA-LLM-5",
     "language": "TypeScript",
@@ -178,15 +205,6 @@
     "stars": 813,
     "updated_at": "2026-08-18T14:19:02Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:54:31Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T14:19:54Z",
+    "updated_at": "2026-08-18T15:13:15Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -292,18 +310,9 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23354,
+    "stars": 23356,
     "updated_at": "2026-08-18T13:35:40Z",
     "url": "https://github.com/titanwings/colleague-skill"
-  },
-  {
-    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
-    "id": "uukuguy/grid-static-analysis",
-    "language": "Python",
-    "name": "uukuguy/grid-static-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:25:44Z",
-    "url": "https://github.com/uukuguy/grid-static-analysis"
   },
   {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
@@ -369,12 +378,21 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
+    "description": "Automatic J-Space cognition suite for DeepSeek Harness (dsh): a zero-config dsh-plugin that gives every agent session st",
+    "id": "wxxb789/dsh-j-space",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-j-space",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:55:29Z",
+    "url": "https://github.com/wxxb789/dsh-j-space"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 104,
-    "updated_at": "2026-08-18T12:41:37Z",
+    "updated_at": "2026-08-18T15:11:24Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T12:04:12Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 2,
-    "updated_at": "2026-08-18T12:01:57Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
-    "id": "Fisher0012/xiaocai-stock-ai",
-    "language": "Python",
-    "name": "Fisher0012/xiaocai-stock-ai",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:52:15Z",
-    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
   }
 ]
