@@ -5,8 +5,26 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T12:14:20Z",
+    "updated_at": "2026-08-18T12:27:07Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:28:11Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-18T12:18:59Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T12:06:43Z",
+    "updated_at": "2026-08-18T12:15:35Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-18T12:10:51Z",
+    "updated_at": "2026-08-18T12:27:28Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -234,15 +252,6 @@
     "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:01:27Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -257,7 +266,7 @@
     "language": "Python",
     "name": "denisotree/veles",
     "stars": 2,
-    "updated_at": "2026-08-18T11:12:26Z",
+    "updated_at": "2026-08-18T12:24:02Z",
     "url": "https://github.com/denisotree/veles"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:04:43Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:03:24Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
