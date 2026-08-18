@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 07:00 UTC
+> ⏰ Last updated: 2026-08-18 07:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 37 | Python | 2026-08-18 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
 | 24 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5750 | Python | 2026-08-18 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 25 | [waywaywayway/deepseek-harness-lazy-capability](https://github.com/waywaywayway/deepseek-harness-lazy-capability) | 0 | JavaScript | 2026-08-18 | 梁神按需模式 / LiangShen Lazy — DeepSeek Harness 的按需工具隔离 preset：默认极简，需要什么能力才临时开放什么，用完自动收回。A minimal-by-default, capability-on- |
-| 26 | [zhaji2333/ck-finder](https://github.com/zhaji2333/ck-finder) | 0 | TypeScript | 2026-08-18 | 基于 pi 的渗透测试 / SRC 漏洞挖掘 Agent：确定性信息收集 + LLM 编排挖洞 + 漏洞复审 + Vue3 Web 指挥台 |
+| 26 | [zhaji2333/ck-finder](https://github.com/zhaji2333/ck-finder) | 1 | TypeScript | 2026-08-18 | 基于 pi 的渗透测试 / SRC 漏洞挖掘 Agent：确定性信息收集 + LLM 编排挖洞 + 漏洞复审 + Vue3 Web 指挥台 |
 | 27 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-18 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 28 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 10 | Python | 2026-08-18 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
 | 29 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-18 | A productive AI coworker that learns, self-improves, and ships work. |
