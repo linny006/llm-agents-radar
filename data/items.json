@@ -1,5 +1,113 @@
 [
   {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:27:00Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:25:55Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:25:54Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1636,
+    "updated_at": "2026-08-18T10:25:52Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:25:30Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 124,
+    "updated_at": "2026-08-18T10:25:14Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:24:11Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:21:03Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:20:33Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
+    "id": "yigitxenes/StockPredictionWithAI",
+    "language": "Python",
+    "name": "yigitxenes/StockPredictionWithAI",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:20:27Z",
+    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:19:29Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:19:08Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -31,7 +139,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 140,
+    "stars": 141,
     "updated_at": "2026-08-18T10:15:10Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -95,7 +203,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T10:08:28Z",
+    "updated_at": "2026-08-18T10:20:09Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -203,7 +311,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T10:09:20Z",
+    "updated_at": "2026-08-18T10:23:47Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -297,15 +405,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:36:36Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
     "id": "AndriiLavrekha/awesome-progress-tracker",
     "language": "TypeScript",
@@ -315,15 +414,6 @@
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 124,
-    "updated_at": "2026-08-18T09:30:29Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -331,15 +421,6 @@
     "stars": 22,
     "updated_at": "2026-08-18T10:04:01Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:26:04Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T09:00:22Z",
     "url": "https://github.com/paipaipai666/nexus-browser-mcp"
-  },
-  {
-    "description": "\u6e21\u52ab\u98de\u5347\uff1aDeepSeek Harness \u7684\u4ed9\u9006\u00b7\u738b\u6797\u4fee\u70bc\u4f19\u4f34\u3002\u76d1\u63a7 LLM \u4f1a\u8bdd\u72b6\u6001\u9a71\u52a8\u52a8\u753b\uff0c\u968f\u4f7f\u7528\u4fee\u70bc\u5347\u5883\uff0c\u5883\u754c\u8d8a\u9ad8\u76ae\u80a4\u8d8a\u534e\u4e3d\u3002",
-    "id": "d-ouyang/dsh-plugin-ascension",
-    "language": "JavaScript",
-    "name": "d-ouyang/dsh-plugin-ascension",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:58:38Z",
-    "url": "https://github.com/d-ouyang/dsh-plugin-ascension"
-  },
-  {
-    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
-    "id": "Fisher0012/xiaocai-stock-ai",
-    "language": "Python",
-    "name": "Fisher0012/xiaocai-stock-ai",
-    "stars": 1,
-    "updated_at": "2026-08-18T08:56:10Z",
-    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
-  },
-  {
-    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
-    "id": "lostinheaven-knt/chatbi-harness",
-    "language": "Python",
-    "name": "lostinheaven-knt/chatbi-harness",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:54:39Z",
-    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "Flask travel companion platform with deterministic compatibility scoring and a DeepSeek tool-calling travel assistant.",
-    "id": "JianFeng1104/TripMate",
-    "language": "Python",
-    "name": "JianFeng1104/TripMate",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:53:39Z",
-    "url": "https://github.com/JianFeng1104/TripMate"
-  },
-  {
-    "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
-    "id": "JianFeng1104/CultureMate",
-    "language": "Python",
-    "name": "JianFeng1104/CultureMate",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:53:38Z",
-    "url": "https://github.com/JianFeng1104/CultureMate"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-18T08:53:24Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-18T09:30:20Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:44:59Z",
-    "url": "https://github.com/leejoong/whalex"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "camel-ai/tokin",
-    "language": "Python",
-    "name": "camel-ai/tokin",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:35:11Z",
-    "url": "https://github.com/camel-ai/tokin"
   }
 ]
