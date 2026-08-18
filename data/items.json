@@ -1,12 +1,84 @@
 [
   {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-08-18T05:30:00Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
     "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "stars": 0,
-    "updated_at": "2026-08-18T05:14:52Z",
+    "updated_at": "2026-08-18T05:27:09Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 124,
+    "updated_at": "2026-08-18T05:26:11Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:25:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u300a\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\ubc14 21\ub85c \uad6c\ud604\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc758 \ub0b4\ubd80\u300b \uc7a5\ubcc4 \uc608\uc81c \ucf54\ub4dc. ch02~ch25 \uac01 \ub514\ub809\ud130\ub9ac\uac00 \uadf8 \uc7a5\uc744 \ub05d\ub0c8\uc744 \ub54c\uc758 \uc2a4\ub0c5\uc0f7\uc774\uc790 \ub3c5\ub9bd \uc2e4\ud589 \uac00\ub2a5\ud55c Gradle \ud504\ub85c\uc81d\ud2b8(JDK 2",
+    "id": "kangwoo/build-a-coding-agent",
+    "language": "Java",
+    "name": "kangwoo/build-a-coding-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:24:23Z",
+    "url": "https://github.com/kangwoo/build-a-coding-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:22:25Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:21:43Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
+    "description": "\u6881\u795e\u6309\u9700\u6a21\u5f0f / LiangShen Lazy \u2014 DeepSeek Harness \u7684\u6309\u9700\u5de5\u5177\u9694\u79bb preset\uff1a\u9ed8\u8ba4\u6781\u7b80\uff0c\u9700\u8981\u4ec0\u4e48\u80fd\u529b\u624d\u4e34\u65f6\u5f00\u653e\u4ec0\u4e48\uff0c\u7528\u5b8c\u81ea\u52a8\u6536\u56de\u3002A minimal-by-default, capability-on-",
+    "id": "waywaywayway/deepseek-harness-lazy-capability",
+    "language": "JavaScript",
+    "name": "waywaywayway/deepseek-harness-lazy-capability",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:21:08Z",
+    "url": "https://github.com/waywaywayway/deepseek-harness-lazy-capability"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 133,
+    "updated_at": "2026-08-18T05:18:04Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u57fa\u4e8e pi \u7684\u6e17\u900f\u6d4b\u8bd5 / SRC \u6f0f\u6d1e\u6316\u6398 Agent\uff1a\u786e\u5b9a\u6027\u4fe1\u606f\u6536\u96c6 + LLM \u7f16\u6392\u6316\u6d1e + \u6f0f\u6d1e\u590d\u5ba1 + Vue3 Web \u6307\u6325\u53f0",
@@ -14,8 +86,17 @@
     "language": "TypeScript",
     "name": "zhaji2333/ck-finder",
     "stars": 0,
-    "updated_at": "2026-08-18T05:10:38Z",
+    "updated_at": "2026-08-18T05:17:27Z",
     "url": "https://github.com/zhaji2333/ck-finder"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T05:16:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -45,24 +126,6 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T04:55:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:50:08Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -90,15 +153,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 133,
-    "updated_at": "2026-08-18T05:09:30Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -106,24 +160,6 @@
     "stars": 54,
     "updated_at": "2026-08-18T04:36:18Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "\u6881\u795e\u6309\u9700\u6a21\u5f0f / LiangShen Lazy \u2014 DeepSeek Harness \u7684\u6309\u9700\u5de5\u5177\u9694\u79bb preset\uff1a\u9ed8\u8ba4\u6781\u7b80\uff0c\u9700\u8981\u4ec0\u4e48\u80fd\u529b\u624d\u4e34\u65f6\u5f00\u653e\u4ec0\u4e48\uff0c\u7528\u5b8c\u81ea\u52a8\u6536\u56de\u3002A minimal-by-default, capability-on-",
-    "id": "waywaywayway/deepseek-harness-lazy-capability",
-    "language": "JavaScript",
-    "name": "waywaywayway/deepseek-harness-lazy-capability",
-    "stars": 0,
-    "updated_at": "2026-08-18T04:34:06Z",
-    "url": "https://github.com/waywaywayway/deepseek-harness-lazy-capability"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 124,
-    "updated_at": "2026-08-18T04:33:04Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T04:29:56Z",
     "url": "https://github.com/chiam-ck/bss-cli"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-18T04:28:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The plunge for pi to boost his search ability",
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-18T05:14:00Z",
+    "updated_at": "2026-08-18T05:19:49Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T04:02:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:39:22Z",
-    "url": "https://github.com/leejoong/whalex"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T03:14:39Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-08-18T03:12:42Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-18T03:08:58Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
