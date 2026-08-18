@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:25:13Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "Deus-corp/cks-mcp",
+    "language": "Python",
+    "name": "Deus-corp/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-18T13:24:21Z",
+    "url": "https://github.com/Deus-corp/cks-mcp"
+  },
+  {
     "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
     "id": "cantbeblank96/qodercli-mcp",
     "language": "JavaScript",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T13:14:56Z",
+    "updated_at": "2026-08-18T13:26:34Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T13:16:32Z",
+    "updated_at": "2026-08-18T13:26:24Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-18T13:23:02Z",
+    "updated_at": "2026-08-18T13:24:04Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -180,15 +198,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:22:44Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
     "id": "denisotree/veles",
     "language": "Python",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-18T13:22:24Z",
+    "updated_at": "2026-08-18T13:27:28Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T11:19:24Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "Deus-corp/cks-mcp",
-    "language": "Python",
-    "name": "Deus-corp/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-18T11:14:50Z",
-    "url": "https://github.com/Deus-corp/cks-mcp"
   },
   {
     "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
