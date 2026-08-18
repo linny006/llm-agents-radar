@@ -1,12 +1,48 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:59:39Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:56:07Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:55:25Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-18T10:49:58Z",
+    "updated_at": "2026-08-18T10:54:18Z",
     "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:53:56Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
@@ -36,15 +72,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:52:22Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
     "id": "wangyuahn/nori-code",
     "language": "TypeScript",
@@ -52,15 +79,6 @@
     "stars": 13,
     "updated_at": "2026-08-18T10:45:50Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:38:46Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "Simplify interactions with Large Language Models",
@@ -306,15 +324,6 @@
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   },
   {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:02:44Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
-  },
-  {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
     "id": "muhzars/Agent.cpp",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T09:33:46Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-18T10:04:01Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
