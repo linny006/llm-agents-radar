@@ -1,5 +1,41 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:44:24Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 80,
+    "updated_at": "2026-08-18T23:41:42Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:42:50Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T23:39:05Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -45,15 +81,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T23:24:47Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -61,15 +88,6 @@
     "stars": 125,
     "updated_at": "2026-08-18T23:19:25Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T23:36:09Z",
-    "url": "https://github.com/leejoong/whalex"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -99,15 +117,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T23:37:06Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -117,21 +126,12 @@
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 80,
-    "updated_at": "2026-08-18T23:05:38Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 1,
-    "updated_at": "2026-08-18T23:35:51Z",
+    "updated_at": "2026-08-18T23:43:45Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -160,6 +160,15 @@
     "stars": 3,
     "updated_at": "2026-08-18T22:38:50Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3089,
+    "updated_at": "2026-08-18T22:35:38Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T17:09:32Z",
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:05:37Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
