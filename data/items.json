@@ -1,12 +1,102 @@
 [
   {
+    "description": "Lightweight, SID-aligned, TMF-compliant BSS for terminal-first operation. LLM-native. eSIM-first.",
+    "id": "chiam-ck/bss-cli",
+    "language": "Rust",
+    "name": "chiam-ck/bss-cli",
+    "stars": 1,
+    "updated_at": "2026-08-18T04:29:56Z",
+    "url": "https://github.com/chiam-ck/bss-cli"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-18T04:29:04Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-18T04:28:50Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-18T04:28:31Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "The plunge for pi to boost his search ability",
+    "id": "Mr-remon219/pi-search-boost",
+    "language": "TypeScript",
+    "name": "Mr-remon219/pi-search-boost",
+    "stars": 3,
+    "updated_at": "2026-08-18T04:23:30Z",
+    "url": "https://github.com/Mr-remon219/pi-search-boost"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-18T04:26:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-18T04:14:41Z",
+    "updated_at": "2026-08-18T04:22:08Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-18T04:19:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T04:17:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 2,
+    "updated_at": "2026-08-18T04:15:32Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes",
+    "id": "jordanahern2009-svg/Tokio-ai",
+    "language": "Python",
+    "name": "jordanahern2009-svg/Tokio-ai",
+    "stars": 1,
+    "updated_at": "2026-08-18T04:14:52Z",
+    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -18,15 +108,6 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-18T04:13:11Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T04:12:09Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "The plunge for pi to boost his search ability",
-    "id": "Mr-remon219/pi-search-boost",
-    "language": "TypeScript",
-    "name": "Mr-remon219/pi-search-boost",
-    "stars": 3,
-    "updated_at": "2026-08-18T04:10:10Z",
-    "url": "https://github.com/Mr-remon219/pi-search-boost"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -61,15 +133,6 @@
     "stars": 154,
     "updated_at": "2026-08-18T04:08:33Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "Open-source financial research agent whose false-positive rate is measured, not assumed. Permutation tests, multiple-tes",
-    "id": "jordanahern2009-svg/Tokio-ai",
-    "language": "Python",
-    "name": "jordanahern2009-svg/Tokio-ai",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:14:52Z",
-    "url": "https://github.com/jordanahern2009-svg/Tokio-ai"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -117,15 +180,6 @@
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:55:36Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -158,7 +212,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5672,
-    "updated_at": "2026-08-18T04:03:56Z",
+    "updated_at": "2026-08-18T04:22:00Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/leejoong/whalex"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:38:46Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -207,21 +252,12 @@
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:34:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T03:43:57Z",
+    "updated_at": "2026-08-18T04:21:04Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 121,
     "updated_at": "2026-08-18T03:01:16Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-18T03:00:34Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:58:47Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:56:21Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:53:15Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
