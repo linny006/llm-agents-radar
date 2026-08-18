@@ -1,11 +1,38 @@
 [
   {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "GrayCodeAI/tactic",
+    "language": "Python",
+    "name": "GrayCodeAI/tactic",
+    "stars": 0,
+    "updated_at": "2026-08-18T02:28:37Z",
+    "url": "https://github.com/GrayCodeAI/tactic"
+  },
+  {
+    "description": "Grounded, citation-bearing Q&A agent over a legacy Progress 4GL / OpenEdge (ABL) codebase - refuses to guess. Eval-first",
+    "id": "SpSharon/openedge-code-intelligence-agent",
+    "language": "Python",
+    "name": "SpSharon/openedge-code-intelligence-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T02:26:49Z",
+    "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-18T02:29:04Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-18T02:15:21Z",
+    "updated_at": "2026-08-18T02:23:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -31,7 +58,7 @@
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 126,
+    "stars": 127,
     "updated_at": "2026-08-18T02:09:08Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -49,7 +76,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 699,
+    "stars": 700,
     "updated_at": "2026-08-18T01:59:54Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -171,15 +198,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "GrayCodeAI/tactic",
-    "language": "Python",
-    "name": "GrayCodeAI/tactic",
-    "stars": 0,
-    "updated_at": "2026-08-18T01:02:10Z",
-    "url": "https://github.com/GrayCodeAI/tactic"
-  },
-  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -270,15 +288,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-18T01:53:04Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
@@ -337,7 +346,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6932,
+    "stars": 6933,
     "updated_at": "2026-08-17T23:09:09Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -347,7 +356,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-18T01:24:22Z",
+    "updated_at": "2026-08-18T02:27:15Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-17T20:31:30Z",
+    "updated_at": "2026-08-18T02:28:57Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:22:54Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:22:20Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
   }
 ]
