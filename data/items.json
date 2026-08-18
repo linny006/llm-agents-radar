@@ -1,21 +1,75 @@
 [
   {
-    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
-    "id": "denisotree/veles",
-    "language": "Python",
-    "name": "denisotree/veles",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:14:40Z",
-    "url": "https://github.com/denisotree/veles"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-18T00:13:25Z",
+    "updated_at": "2026-08-18T00:28:28Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
+    "id": "Ven0m0/gemini-web-wrapper",
+    "language": "TypeScript",
+    "name": "Ven0m0/gemini-web-wrapper",
+    "stars": 4,
+    "updated_at": "2026-08-18T00:25:31Z",
+    "url": "https://github.com/Ven0m0/gemini-web-wrapper"
+  },
+  {
+    "description": "\ud83d\udc3b \uc9c1\uad6c\uacf0 \u2014 Amazon US\u2192\ub124\uc774\ubc84 \uc2a4\ub9c8\ud2b8\uc2a4\ud1a0\uc5b4 \ubb34\uc7ac\uace0 \uad6c\ub9e4\ub300\ud589 \uc790\ub3d9\ud654. \ub3c8=\uacb0\uc815\ub860 \ud30c\uc774\ud504\ub77c\uc778, \ud310\ub2e8=\uba40\ud2f0\uc5d0\uc774\uc804\ud2b8(\ud3c9\uac00/\ucf58\ud150\uce20/CS). FastAPI+Next.js \uc5b4\ub4dc\ubbfc. pytest 115.",
+    "id": "SkyWith628/jikgugom",
+    "language": "Python",
+    "name": "SkyWith628/jikgugom",
+    "stars": 1,
+    "updated_at": "2026-08-18T00:26:36Z",
+    "url": "https://github.com/SkyWith628/jikgugom"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:22:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Minimal CLI agent framework with compounding project memory \u2014 gets smarter with every session. Clean, modular, any LLM p",
+    "id": "denisotree/veles",
+    "language": "Python",
+    "name": "denisotree/veles",
+    "stars": 2,
+    "updated_at": "2026-08-18T00:23:23Z",
+    "url": "https://github.com/denisotree/veles"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 123,
+    "updated_at": "2026-08-18T00:18:54Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:28:38Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 105,
+    "updated_at": "2026-08-18T00:17:00Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -45,15 +99,6 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-18T00:11:13Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -72,15 +117,6 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 105,
-    "updated_at": "2026-08-17T23:58:48Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -97,15 +133,6 @@
     "stars": 22,
     "updated_at": "2026-08-17T23:56:00Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:49:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
@@ -230,7 +257,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-17T23:14:24Z",
+    "updated_at": "2026-08-18T00:19:42Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-17T20:05:51Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:01:03Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-08-17T20:00:13Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:55:00Z",
-    "url": "https://github.com/yigido41/agentic-ai"
   }
 ]
