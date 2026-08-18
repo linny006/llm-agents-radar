@@ -1,5 +1,50 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:53:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:50:01Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "\u300a\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\ubc14 21\ub85c \uad6c\ud604\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc758 \ub0b4\ubd80\u300b \uc7a5\ubcc4 \uc608\uc81c \ucf54\ub4dc. ch02~ch25 \uac01 \ub514\ub809\ud130\ub9ac\uac00 \uadf8 \uc7a5\uc744 \ub05d\ub0c8\uc744 \ub54c\uc758 \uc2a4\ub0c5\uc0f7\uc774\uc790 \ub3c5\ub9bd \uc2e4\ud589 \uac00\ub2a5\ud55c Gradle \ud504\ub85c\uc81d\ud2b8(JDK 2",
+    "id": "kangwoo/build-a-coding-agent",
+    "language": "Java",
+    "name": "kangwoo/build-a-coding-agent",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:49:37Z",
+    "url": "https://github.com/kangwoo/build-a-coding-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T05:49:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T05:59:51Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -45,24 +90,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:25:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u300a\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8 \u2014 \uc790\ubc14 21\ub85c \uad6c\ud604\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8\uc758 \ub0b4\ubd80\u300b \uc7a5\ubcc4 \uc608\uc81c \ucf54\ub4dc. ch02~ch25 \uac01 \ub514\ub809\ud130\ub9ac\uac00 \uadf8 \uc7a5\uc744 \ub05d\ub0c8\uc744 \ub54c\uc758 \uc2a4\ub0c5\uc0f7\uc774\uc790 \ub3c5\ub9bd \uc2e4\ud589 \uac00\ub2a5\ud55c Gradle \ud504\ub85c\uc81d\ud2b8(JDK 2",
-    "id": "kangwoo/build-a-coding-agent",
-    "language": "Java",
-    "name": "kangwoo/build-a-coding-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:24:23Z",
-    "url": "https://github.com/kangwoo/build-a-coding-agent"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -70,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T05:22:25Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:21:43Z",
-    "url": "https://github.com/leejoong/whalex"
   },
   {
     "description": "\u6881\u795e\u6309\u9700\u6a21\u5f0f / LiangShen Lazy \u2014 DeepSeek Harness \u7684\u6309\u9700\u5de5\u5177\u9694\u79bb preset\uff1a\u9ed8\u8ba4\u6781\u7b80\uff0c\u9700\u8981\u4ec0\u4e48\u80fd\u529b\u624d\u4e34\u65f6\u5f00\u653e\u4ec0\u4e48\uff0c\u7528\u5b8c\u81ea\u52a8\u6536\u56de\u3002A minimal-by-default, capability-on-",
@@ -108,15 +126,6 @@
     "url": "https://github.com/zhaji2333/ck-finder"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T05:16:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -124,15 +133,6 @@
     "stars": 6,
     "updated_at": "2026-08-18T05:10:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-18T05:05:00Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
