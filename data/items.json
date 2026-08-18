@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
+    "id": "shanananana/deepticket",
+    "language": "Python",
+    "name": "shanananana/deepticket",
+    "stars": 3,
+    "updated_at": "2026-08-18T15:59:46Z",
+    "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:57:58Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:59:18Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
     "id": "wxxb789/dsh-raven-research",
     "language": "TypeScript",
@@ -18,13 +45,13 @@
     "url": "https://github.com/wxxb789/dsh-j-space"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:49:52Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-18T15:47:58Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -95,7 +122,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-18T15:24:59Z",
+    "updated_at": "2026-08-18T15:55:31Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -180,15 +207,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:54:14Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -198,13 +216,13 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-18T15:47:58Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 147,
+    "updated_at": "2026-08-18T14:45:00Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Flask language exchange platform with reciprocal matching, deterministic match scoring and a DeepSeek tool-calling assis",
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-18T15:27:19Z",
+    "updated_at": "2026-08-18T15:55:58Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -265,7 +283,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 813,
+    "stars": 814,
     "updated_at": "2026-08-18T14:19:02Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -277,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-08-18T14:14:20Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 146,
-    "updated_at": "2026-08-18T14:45:00Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
@@ -364,7 +373,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23359,
+    "stars": 23360,
     "updated_at": "2026-08-18T13:35:40Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T12:29:28Z",
     "url": "https://github.com/denisotree/veles"
-  },
-  {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 13,
-    "updated_at": "2026-08-18T12:28:45Z",
-    "url": "https://github.com/wangyuahn/nori-code"
   }
 ]
