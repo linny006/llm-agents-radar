@@ -1,5 +1,59 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5752,
+    "updated_at": "2026-08-18T17:19:36Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:19:09Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:18:35Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 1,
+    "updated_at": "2026-08-18T17:17:19Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "Three standalone Python demos showing different approaches to building LLM tool-use agents.",
+    "id": "jordan2doyle1/AgentsHelloWorld",
+    "language": "\u2014",
+    "name": "jordan2doyle1/AgentsHelloWorld",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:16:34Z",
+    "url": "https://github.com/jordan2doyle1/AgentsHelloWorld"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:16:32Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
     "id": "bettersilvanus849/inner-coordinates",
     "language": "Shell",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-08-18T17:13:55Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:13:10Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
   },
   {
     "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
@@ -288,15 +351,6 @@
     "url": "https://github.com/wxxb789/dsh-j-space"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:13:10Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "",
     "id": "JortegaR/ai-notes-api",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:11:53Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
-    "id": "antitree/meshhermes",
-    "language": "Python",
-    "name": "antitree/meshhermes",
-    "stars": 0,
-    "updated_at": "2026-08-18T16:15:41Z",
-    "url": "https://github.com/antitree/meshhermes"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-08-18T15:30:21Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 104,
-    "updated_at": "2026-08-18T15:28:59Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co",
-    "id": "nexpeakcore/deepseek-harness-pr-review",
-    "language": "Python",
-    "name": "nexpeakcore/deepseek-harness-pr-review",
-    "stars": 38,
-    "updated_at": "2026-08-18T16:29:48Z",
-    "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
-  },
-  {
-    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
-    "id": "Wolido/async-subagent-isolation",
-    "language": "TypeScript",
-    "name": "Wolido/async-subagent-isolation",
-    "stars": 3,
-    "updated_at": "2026-08-18T15:18:49Z",
-    "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6937,
-    "updated_at": "2026-08-18T15:25:40Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   }
 ]
