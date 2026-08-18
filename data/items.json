@@ -1,12 +1,66 @@
 [
   {
+    "description": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins\uff08\u5f00\u53d1 DSH \u63d2\u4ef6\u7684 Agent Skill\uff09\u2014\u2014\u63d2\u4ef6/\u670d\u52a1/\u4e8b\u4ef6/\u5de5\u5177/LLM \u9002\u914d\u5668/\u6253\u5305\u5b89\u88c5\u7684\u6807\u51c6",
+    "id": "zimodzh/dsh-plugin-dev-skills",
+    "language": "\u2014",
+    "name": "zimodzh/dsh-plugin-dev-skills",
+    "stars": 34,
+    "updated_at": "2026-08-18T07:26:35Z",
+    "url": "https://github.com/zimodzh/dsh-plugin-dev-skills"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-18T07:23:38Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:25:38Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-18T07:12:27Z",
+    "updated_at": "2026-08-18T07:21:42Z",
     "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-18T07:21:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:21:00Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
+    "id": "Starfie1d1272/dsh-v4-anchor",
+    "language": "JavaScript",
+    "name": "Starfie1d1272/dsh-v4-anchor",
+    "stars": 1,
+    "updated_at": "2026-08-18T07:15:45Z",
+    "url": "https://github.com/Starfie1d1272/dsh-v4-anchor"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -36,31 +90,13 @@
     "url": "https://github.com/leejoong/whalex"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-18T07:13:00Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T07:07:46Z",
+    "updated_at": "2026-08-18T07:19:51Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-18T07:00:05Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -70,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-18T06:56:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
-    "id": "Starfie1d1272/dsh-v4-anchor",
-    "language": "JavaScript",
-    "name": "Starfie1d1272/dsh-v4-anchor",
-    "stars": 1,
-    "updated_at": "2026-08-18T06:59:33Z",
-    "url": "https://github.com/Starfie1d1272/dsh-v4-anchor"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -153,15 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:29:06Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "AlanFokCo/agentscope-go",
     "language": "Go",
@@ -178,15 +196,6 @@
     "stars": 136,
     "updated_at": "2026-08-18T06:37:02Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:11:07Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
@@ -373,7 +382,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6934,
+    "stars": 6935,
     "updated_at": "2026-08-18T04:03:17Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T03:30:56Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:26:21Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
