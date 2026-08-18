@@ -1,5 +1,41 @@
 [
   {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-18T20:13:22Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:06:37Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
+    "id": "hjawhar/og-cli",
+    "language": "TypeScript",
+    "name": "hjawhar/og-cli",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:04:50Z",
+    "url": "https://github.com/hjawhar/og-cli"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:01:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "PunctumActus/cks-mcp",
     "language": "Python",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6940,
-    "updated_at": "2026-08-18T19:55:22Z",
+    "updated_at": "2026-08-18T20:14:43Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-18T19:50:09Z",
+    "updated_at": "2026-08-18T20:07:18Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:49:43Z",
     "url": "https://github.com/rhythm1995/open-llm-wiki"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:45:57Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Python and LangGraph agent that runs once per trading day over a fixed watchlist of US stocks and ETFs, combines price a",
@@ -133,15 +160,6 @@
     "stars": 10,
     "updated_at": "2026-08-18T19:15:39Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:57:07Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T16:49:52Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
-    "id": "Saran1536/ComfyUI-LoaderUtils",
-    "language": "Python",
-    "name": "Saran1536/ComfyUI-LoaderUtils",
-    "stars": 1,
-    "updated_at": "2026-08-18T16:47:25Z",
-    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-18T16:45:59Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
