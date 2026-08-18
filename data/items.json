@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:56:22Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
+    "id": "Starfie1d1272/dsh-v4-anchor",
+    "language": "JavaScript",
+    "name": "Starfie1d1272/dsh-v4-anchor",
+    "stars": 1,
+    "updated_at": "2026-08-18T06:59:33Z",
+    "url": "https://github.com/Starfie1d1272/dsh-v4-anchor"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-18T06:53:55Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "A Go LLM client with a memory. Every provider, cost-aware, single binary.",
+    "id": "mahdi-salmanzade/hippo",
+    "language": "Go",
+    "name": "mahdi-salmanzade/hippo",
+    "stars": 3,
+    "updated_at": "2026-08-18T06:53:38Z",
+    "url": "https://github.com/mahdi-salmanzade/hippo"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-18T06:53:23Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-18T06:43:34Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -23,17 +77,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-18T06:39:00Z",
+    "updated_at": "2026-08-18T06:58:45Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:43:34Z",
-    "url": "https://github.com/leejoong/whalex"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T06:32:04Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Minimal first-turn RL anchor for DeepSeek V4 on DeepSeek Harness Standard.",
-    "id": "Starfie1d1272/dsh-v4-anchor",
-    "language": "JavaScript",
-    "name": "Starfie1d1272/dsh-v4-anchor",
-    "stars": 0,
-    "updated_at": "2026-08-18T06:32:00Z",
-    "url": "https://github.com/Starfie1d1272/dsh-v4-anchor"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -171,24 +207,6 @@
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-18T05:35:14Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-18T05:34:32Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-18T05:10:13Z",
+    "updated_at": "2026-08-18T07:00:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -351,15 +369,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-18T06:43:43Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-18T03:23:54Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-18T03:21:59Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
