@@ -1,12 +1,39 @@
 [
   {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
+    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-18T10:27:00Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+    "updated_at": "2026-08-18T10:38:46Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Simplify interactions with Large Language Models",
+    "id": "hassancs91/SimplerLLM",
+    "language": "Python",
+    "name": "hassancs91/SimplerLLM",
+    "stars": 219,
+    "updated_at": "2026-08-18T10:37:46Z",
+    "url": "https://github.com/hassancs91/SimplerLLM"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-18T10:35:08Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-18T10:34:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -14,8 +41,17 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-18T10:25:55Z",
+    "updated_at": "2026-08-18T10:34:28Z",
     "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:27:00Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   },
   {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
@@ -140,7 +176,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 141,
-    "updated_at": "2026-08-18T10:15:10Z",
+    "updated_at": "2026-08-18T10:38:26Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:11:39Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Auditable human-AI systematic review and meta-analysis Codex project: MetaWingman skill, deterministic R toolkit, eviden",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:11:26Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -387,24 +414,6 @@
     "url": "https://github.com/JortegaR/ai-notes-api"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-18T09:39:09Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-18T09:38:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
     "id": "AndriiLavrekha/awesome-progress-tracker",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-18T09:01:36Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Browser automation MCP server with event-driven deterministic snapshots (Playwright + a11y tree) / \u4e8b\u4ef6\u9a71\u52a8\u786e\u5b9a\u6027\u5feb\u7167\u7684\u6d4f\u89c8\u5668\u64cd\u63a7 MCP \u670d",
-    "id": "paipaipai666/nexus-browser-mcp",
-    "language": "Python",
-    "name": "paipaipai666/nexus-browser-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-18T09:00:22Z",
-    "url": "https://github.com/paipaipai666/nexus-browser-mcp"
   }
 ]
