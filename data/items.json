@@ -1,20 +1,38 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:56:47Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Real vision for any AI agent. Screenshots it can actually look at, the design system read out of the live CSSOM, and eve",
     "id": "Jumpsy/agent-eyes",
-    "language": "\u2014",
+    "language": "Python",
     "name": "Jumpsy/agent-eyes",
     "stars": 0,
-    "updated_at": "2026-08-19T17:44:18Z",
+    "updated_at": "2026-08-19T17:54:39Z",
     "url": "https://github.com/Jumpsy/agent-eyes"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-19T17:50:58Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Computer use on a Mac for any AI agent. It presses the button, not a pixel \u2014 through the accessibility layer, so your cu",
     "id": "Jumpsy/spooky-action",
-    "language": "\u2014",
+    "language": "Python",
     "name": "Jumpsy/spooky-action",
     "stars": 0,
-    "updated_at": "2026-08-19T17:44:09Z",
+    "updated_at": "2026-08-19T17:57:37Z",
     "url": "https://github.com/Jumpsy/spooky-action"
   },
   {
@@ -32,7 +50,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-19T17:39:43Z",
+    "updated_at": "2026-08-19T17:57:51Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -41,7 +59,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-19T17:35:40Z",
+    "updated_at": "2026-08-19T17:56:28Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 123,
     "updated_at": "2026-08-19T17:31:40Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:43:48Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -140,7 +149,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T16:54:40Z",
+    "updated_at": "2026-08-19T17:57:00Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -167,7 +176,7 @@
     "language": "TypeScript",
     "name": "leejoong/whalex",
     "stars": 1,
-    "updated_at": "2026-08-19T16:36:40Z",
+    "updated_at": "2026-08-19T17:58:40Z",
     "url": "https://github.com/leejoong/whalex"
   },
   {
@@ -337,7 +346,7 @@
     "id": "th3vib3coder/vibe-science",
     "language": "JavaScript",
     "name": "th3vib3coder/vibe-science",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-08-19T15:26:24Z",
     "url": "https://github.com/th3vib3coder/vibe-science"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T15:49:37Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "Local-first knowledge base \u2014 Markdown files are the only source of truth. Compiles sources into a wiki: native graph, va",
-    "id": "rhythm1995/open-llm-wiki",
-    "language": "TypeScript",
-    "name": "rhythm1995/open-llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:39:03Z",
-    "url": "https://github.com/rhythm1995/open-llm-wiki"
   }
 ]
