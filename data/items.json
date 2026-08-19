@@ -1,5 +1,68 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29038,
+    "updated_at": "2026-08-19T06:29:17Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-19T06:29:02Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-19T06:30:07Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-19T06:27:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 187,
+    "updated_at": "2026-08-19T06:22:22Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:18:49Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
+    "id": "wzh4464/self-evolving-media-agent",
+    "language": "Python",
+    "name": "wzh4464/self-evolving-media-agent",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:18:17Z",
+    "url": "https://github.com/wzh4464/self-evolving-media-agent"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -27,21 +90,12 @@
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-19T06:10:04Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 154,
-    "updated_at": "2026-08-19T06:09:24Z",
+    "updated_at": "2026-08-19T06:26:54Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -77,26 +131,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T06:07:36Z",
+    "updated_at": "2026-08-19T06:25:20Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T05:49:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-19T05:43:51Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -115,24 +151,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T05:38:59Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29037,
-    "updated_at": "2026-08-19T05:36:03Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-19T05:35:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T03:10:39Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning,",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-19T03:03:52Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5677,
-    "updated_at": "2026-08-19T02:59:01Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
