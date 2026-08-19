@@ -1,5 +1,68 @@
 [
   {
+    "description": "Awesome papers involving LLMs in Social Science.",
+    "id": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "language": "\u2014",
+    "name": "ValueByte-AI/Awesome-LLM-in-Social-Science",
+    "stars": 644,
+    "updated_at": "2026-08-19T04:44:20Z",
+    "url": "https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 121,
+    "updated_at": "2026-08-19T04:43:05Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-19T04:41:56Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-19T04:40:34Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-19T04:40:45Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 152,
+    "updated_at": "2026-08-19T04:36:36Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T04:34:07Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
     "id": "lachlan-kelly/Elucidate",
     "language": "JavaScript",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T04:30:29Z",
+    "updated_at": "2026-08-19T04:42:41Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-19T04:15:44Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
     "description": "Local-first knowledge base \u2014 Markdown files are the only source of truth. Compiles sources into a wiki: native graph, va",
     "id": "rhythm1995/open-llm-wiki",
     "language": "TypeScript",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T04:13:21Z",
     "url": "https://github.com/rhythm1995/open-llm-wiki"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 151,
-    "updated_at": "2026-08-19T04:12:52Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -189,15 +234,6 @@
     "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T03:44:33Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -239,7 +275,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T04:20:21Z",
+    "updated_at": "2026-08-19T04:37:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -306,24 +342,6 @@
     "url": "https://github.com/adamskijow/Hob"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
-    "updated_at": "2026-08-19T03:03:43Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-19T03:02:46Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 731,
-    "updated_at": "2026-08-19T02:41:20Z",
+    "updated_at": "2026-08-19T04:39:25Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-19T00:48:29Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:35:57Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:35:14Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
   }
 ]
