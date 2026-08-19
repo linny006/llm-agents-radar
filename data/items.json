@@ -1,12 +1,57 @@
 [
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "description": "Real vision for any AI agent. Screenshots it can actually look at, the design system read out of the live CSSOM, and eve",
+    "id": "Jumpsy/agent-eyes",
+    "language": "\u2014",
+    "name": "Jumpsy/agent-eyes",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:44:18Z",
+    "url": "https://github.com/Jumpsy/agent-eyes"
+  },
+  {
+    "description": "Computer use on a Mac for any AI agent. It presses the button, not a pixel \u2014 through the accessibility layer, so your cu",
+    "id": "Jumpsy/spooky-action",
+    "language": "\u2014",
+    "name": "Jumpsy/spooky-action",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:44:09Z",
+    "url": "https://github.com/Jumpsy/spooky-action"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T17:24:30Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:39:43Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:35:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-19T17:31:40Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:43:48Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -14,8 +59,35 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-19T17:24:01Z",
+    "updated_at": "2026-08-19T17:31:12Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-19T17:30:52Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-19T17:42:27Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T17:24:30Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -27,31 +99,13 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:27:13Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:11:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:02:08Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "JavaScript",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 5,
+    "updated_at": "2026-08-19T17:44:07Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -106,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:46:03Z",
     "url": "https://github.com/J4NN0/mycel"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-19T16:37:37Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-19T16:37:19Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-19T17:26:17Z",
+    "updated_at": "2026-08-19T17:43:55Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:39:03Z",
     "url": "https://github.com/rhythm1995/open-llm-wiki"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-19T14:01:19Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5761,
-    "updated_at": "2026-08-19T17:15:39Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
-    "id": "uukuguy/grid-static-analysis",
-    "language": "Python",
-    "name": "uukuguy/grid-static-analysis",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:36:54Z",
-    "url": "https://github.com/uukuguy/grid-static-analysis"
-  },
-  {
-    "description": "AI Harness build on top of typescript",
-    "id": "puristajs/harness",
-    "language": "TypeScript",
-    "name": "puristajs/harness",
-    "stars": 5,
-    "updated_at": "2026-08-19T12:32:01Z",
-    "url": "https://github.com/puristajs/harness"
   }
 ]
