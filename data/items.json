@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:26:37Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI Harness build on top of typescript",
+    "id": "puristajs/harness",
+    "language": "TypeScript",
+    "name": "puristajs/harness",
+    "stars": 5,
+    "updated_at": "2026-08-19T09:21:09Z",
+    "url": "https://github.com/puristajs/harness"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-19T09:19:29Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 104,
+    "updated_at": "2026-08-19T09:30:14Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T09:08:30Z",
+    "updated_at": "2026-08-19T09:29:27Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 6,
     "updated_at": "2026-08-19T09:08:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-19T09:15:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -135,15 +162,6 @@
     "url": "https://github.com/hjawhar/og-ai"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:28:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
     "id": "lachlan-kelly/Elucidate",
     "language": "JavaScript",
@@ -223,6 +241,15 @@
     "stars": 231,
     "updated_at": "2026-08-19T08:02:40Z",
     "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6949,
+    "updated_at": "2026-08-19T08:00:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -328,7 +355,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23477,
+    "stars": 23482,
     "updated_at": "2026-08-19T07:18:20Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:07:18Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 13,
-    "updated_at": "2026-08-19T07:06:37Z",
-    "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:06:05Z",
-    "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:04:41Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
