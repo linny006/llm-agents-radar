@@ -9,6 +9,15 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
+    "description": "Incident-investigation chat agent on Amazon Bedrock AgentCore Runtime, with a live-streaming UI and its own MCP server f",
+    "id": "sohaibsohail98/sre-investigation-agent",
+    "language": "Python",
+    "name": "sohaibsohail98/sre-investigation-agent",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:56:04Z",
+    "url": "https://github.com/sohaibsohail98/sre-investigation-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6955,
-    "updated_at": "2026-08-19T19:46:52Z",
+    "updated_at": "2026-08-19T19:59:36Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -70,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T19:30:44Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Incident-investigation chat agent on Amazon Bedrock AgentCore Runtime, with a live-streaming UI and its own MCP server f",
-    "id": "sohaibsohail98/sre-investigation-agent",
-    "language": "Python",
-    "name": "sohaibsohail98/sre-investigation-agent",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:56:04Z",
-    "url": "https://github.com/sohaibsohail98/sre-investigation-agent"
   },
   {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
