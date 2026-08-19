@@ -1,20 +1,11 @@
 [
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:43:02Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T19:36:50Z",
+    "updated_at": "2026-08-19T19:56:49Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -23,7 +14,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-19T19:35:25Z",
+    "updated_at": "2026-08-19T19:55:42Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -32,8 +23,26 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-19T19:34:40Z",
+    "updated_at": "2026-08-19T19:54:28Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:52:49Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6955,
+    "updated_at": "2026-08-19T19:46:52Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
@@ -61,6 +70,24 @@
     "stars": 2,
     "updated_at": "2026-08-19T19:30:44Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Incident-investigation chat agent on Amazon Bedrock AgentCore Runtime, with a live-streaming UI and its own MCP server f",
+    "id": "sohaibsohail98/sre-investigation-agent",
+    "language": "Python",
+    "name": "sohaibsohail98/sre-investigation-agent",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:56:04Z",
+    "url": "https://github.com/sohaibsohail98/sre-investigation-agent"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:49:56Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T18:53:13Z",
+    "updated_at": "2026-08-19T19:54:19Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6955,
-    "updated_at": "2026-08-19T19:20:26Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\ud83c\udfdb\ufe0f ACM EASE '26 / VibeX full paper \u00b7 DOI 10.1145/3816483.3816631 \u00b7 Adversarial agent loops for verifiable vibe researchi",
     "id": "th3vib3coder/vibe-science",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-19T15:24:34Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Privacy oriented CV and resume + cover letter maker with AI or local LLM. German Quality :) NO PESONAL INFO LEAVES YOUR ",
-    "id": "Atabak-dev/AI_Resume_Builder",
-    "language": "Python",
-    "name": "Atabak-dev/AI_Resume_Builder",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:16:09Z",
-    "url": "https://github.com/Atabak-dev/AI_Resume_Builder"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-19T14:49:36Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   }
 ]
