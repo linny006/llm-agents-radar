@@ -1,11 +1,20 @@
 [
   {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:06:31Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T04:58:11Z",
+    "updated_at": "2026-08-19T05:05:44Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T05:00:04Z",
+    "updated_at": "2026-08-19T05:00:48Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -288,21 +297,12 @@
     "url": "https://github.com/twn39/ddgo-search"
   },
   {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:33:14Z",
-    "url": "https://github.com/leejoong/whalex"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T04:58:38Z",
+    "updated_at": "2026-08-19T05:06:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
