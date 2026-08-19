@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 02:15 UTC
+> ⏰ Last updated: 2026-08-19 02:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -48,7 +48,7 @@ expired items removed — so you can rely on what you see being current.
 | 4 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-19 | A personal morning-digest agent for macOS: message small tasks to a Telegram bot, get one organized digest each morning, |
 | 5 | [WhitehatD/hesperus](https://github.com/WhitehatD/hesperus) | 5 | C | 2026-08-19 | Hesperus — Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o |
 | 6 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-19 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 7 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 729 | Go | 2026-08-19 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 7 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 730 | Go | 2026-08-19 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 8 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 160 | Python | 2026-08-19 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
 | 9 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-19 | AI-powered image generation and chat studio |
 | 10 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-19 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
