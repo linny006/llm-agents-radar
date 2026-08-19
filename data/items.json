@@ -1,5 +1,41 @@
 [
   {
+    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
+    "id": "xu-jia-ming/memory_system",
+    "language": "Python",
+    "name": "xu-jia-ming/memory_system",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:59:45Z",
+    "url": "https://github.com/xu-jia-ming/memory_system"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:59:22Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 30,
+    "updated_at": "2026-08-19T03:58:16Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-19T03:57:27Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -90,24 +126,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:52:54Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:49:54Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
-  },
-  {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
     "id": "leejoong/whalex",
     "language": "TypeScript",
@@ -162,15 +180,6 @@
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-08-19T03:24:42Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
     "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
     "id": "Wolido/async-subagent-isolation",
     "language": "TypeScript",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T03:56:34Z",
+    "updated_at": "2026-08-19T03:59:32Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-19T03:06:20Z",
+    "updated_at": "2026-08-19T03:59:27Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 10,
     "updated_at": "2026-08-19T01:39:28Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-19T03:54:24Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
