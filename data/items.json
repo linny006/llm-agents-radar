@@ -1,5 +1,14 @@
 [
   {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 4,
+    "updated_at": "2026-08-19T10:46:28Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "jbq8814-lab/FastFix",
     "stars": 1,
-    "updated_at": "2026-08-19T10:42:34Z",
+    "updated_at": "2026-08-19T10:51:44Z",
     "url": "https://github.com/jbq8814-lab/FastFix"
   },
   {
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T10:32:13Z",
+    "updated_at": "2026-08-19T10:50:01Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T10:04:20Z",
+    "updated_at": "2026-08-19T10:51:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -409,7 +418,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23493,
+    "stars": 23494,
     "updated_at": "2026-08-19T07:18:20Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:13:07Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:12:25Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
   }
 ]
