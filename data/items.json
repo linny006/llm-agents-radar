@@ -1,5 +1,77 @@
 [
   {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:40:06Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-19T15:37:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:36:12Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:35:51Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-19T15:33:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T15:28:08Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:27:33Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6954,
+    "updated_at": "2026-08-19T15:26:53Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\ud83c\udfdb\ufe0f ACM EASE '26 / VibeX full paper \u00b7 DOI 10.1145/3816483.3816631 \u00b7 Adversarial agent loops for verifiable vibe researchi",
     "id": "th3vib3coder/vibe-science",
     "language": "JavaScript",
@@ -32,17 +104,17 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 2,
-    "updated_at": "2026-08-19T15:24:21Z",
+    "updated_at": "2026-08-19T15:42:48Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
     "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:27:33Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-19T15:19:59Z",
+    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Privacy oriented CV and resume + cover letter maker with AI or local LLM. German Quality :) NO PESONAL INFO LEAVES YOUR ",
@@ -68,26 +140,8 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T15:12:59Z",
+    "updated_at": "2026-08-19T15:39:04Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:10:17Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:01:49Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T14:58:02Z",
     "url": "https://github.com/PunctumActus/cks-mcp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:56:22Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -162,21 +207,12 @@
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-19T14:40:15Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-19T14:39:10Z",
+    "updated_at": "2026-08-19T15:37:02Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-19T14:37:26Z",
+    "updated_at": "2026-08-19T15:40:36Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T15:28:08Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-19T14:21:38Z",
+    "updated_at": "2026-08-19T15:33:41Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T14:20:05Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6954,
-    "updated_at": "2026-08-19T15:26:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "rhythm1995/open-llm-wiki",
     "stars": 0,
-    "updated_at": "2026-08-19T13:33:10Z",
+    "updated_at": "2026-08-19T15:39:03Z",
     "url": "https://github.com/rhythm1995/open-llm-wiki"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-19T13:55:51Z",
+    "updated_at": "2026-08-19T15:43:42Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -427,26 +445,8 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23519,
+    "stars": 23521,
     "updated_at": "2026-08-19T11:11:54Z",
     "url": "https://github.com/titanwings/colleague-skill"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-19T11:06:49Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "\u628a\u5b9a\u6027\u6295\u8d44\u5224\u65ad\u53d8\u6210\u53ef\u56de\u6d4b\u5bf9\u8c61",
-    "id": "turtlequant/thesis-backtester",
-    "language": "Python",
-    "name": "turtlequant/thesis-backtester",
-    "stars": 17,
-    "updated_at": "2026-08-19T11:03:58Z",
-    "url": "https://github.com/turtlequant/thesis-backtester"
   }
 ]
