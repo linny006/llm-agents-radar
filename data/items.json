@@ -1,5 +1,77 @@
 [
   {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:28:36Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-19T03:27:36Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:27:21Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
+    "language": "Python",
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-19T03:24:42Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:22:43Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 3,
+    "updated_at": "2026-08-19T03:19:53Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
+  },
+  {
+    "description": "Baize Agent V23.0.0 - zero-dependency autonomous agent runtime (NO FAKE DONE verified)",
+    "id": "jianjian12138/baize-agent",
+    "language": "Python",
+    "name": "jianjian12138/baize-agent",
+    "stars": 1,
+    "updated_at": "2026-08-19T03:16:00Z",
+    "url": "https://github.com/jianjian12138/baize-agent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T03:29:45Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/wangyuahn/nori-code"
   },
   {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-19T03:11:13Z",
-    "url": "https://github.com/WhitehatD/hesperus"
-  },
-  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T03:08:14Z",
+    "updated_at": "2026-08-19T03:20:26Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 121,
     "updated_at": "2026-08-19T03:03:43Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:02:49Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T02:55:37Z",
+    "updated_at": "2026-08-19T03:19:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 125,
     "updated_at": "2026-08-19T02:55:15Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-19T02:51:09Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -166,18 +211,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29031,
+    "stars": 29032,
     "updated_at": "2026-08-19T02:40:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:14:38Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -230,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-19T03:01:30Z",
+    "updated_at": "2026-08-19T03:23:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 10,
     "updated_at": "2026-08-19T01:39:28Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:38:54Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -274,7 +301,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5752,
+    "stars": 5753,
     "updated_at": "2026-08-19T01:21:11Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:22:12Z",
     "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:19:51Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:19:27Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
-  },
-  {
-    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
-    "id": "heba-ramdan/harness",
-    "language": "TypeScript",
-    "name": "heba-ramdan/harness",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:18:06Z",
-    "url": "https://github.com/heba-ramdan/harness"
   }
 ]
