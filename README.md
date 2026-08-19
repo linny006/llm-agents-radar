@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 21:45 UTC
+> ⏰ Last updated: 2026-08-19 21:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 81 | Python | 2026-08-19 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
-| 3 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-19 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-19 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 7 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 174 | Rust | 2026-08-19 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 8 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-19 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 9 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 125 | HTML | 2026-08-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 11 | [DataScienceUIBK/RETECO](https://github.com/DataScienceUIBK/RETECO) | 1 | — | 2026-08-19 | RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-19 | AI-powered image generation and chat studio |
-| 14 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-19 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 15 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-19 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 16 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-19 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-19 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 2 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-19 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 3 | [yantrikos/yantrikdb-hermes-plugin](https://github.com/yantrikos/yantrikdb-hermes-plugin) | 81 | Python | 2026-08-19 | YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning r |
+| 4 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-19 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
+| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-19 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 6 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-19 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-19 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 8 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 174 | Rust | 2026-08-19 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 9 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-19 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 10 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-19 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 125 | HTML | 2026-08-19 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [DataScienceUIBK/RETECO](https://github.com/DataScienceUIBK/RETECO) | 1 | — | 2026-08-19 | RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval |
+| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-19 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 14 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-19 | AI-powered image generation and chat studio |
+| 15 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-19 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 16 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 30 | Python | 2026-08-19 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 17 | [Prennoy99/fleetguard](https://github.com/Prennoy99/fleetguard) | 1 | Python | 2026-08-19 | Autonomous fleet-telemetry diagnostic agent — multi-step Gemini tool-calling, deterministic severity scoring, and a huma |
 | 18 | [PunctumActus/cks-mcp](https://github.com/PunctumActus/cks-mcp) | 1 | Python | 2026-08-19 | The operational interface between LLMs and verifiable knowledge — MCP tools, autonomous agents, CRDT replication, and a  |
 | 19 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16374 | Python | 2026-08-19 | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" |

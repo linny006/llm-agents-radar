@@ -1,5 +1,14 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-19T21:46:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -133,15 +142,6 @@
     "stars": 30,
     "updated_at": "2026-08-19T21:00:57Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-19T21:40:43Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Autonomous fleet-telemetry diagnostic agent \u2014 multi-step Gemini tool-calling, deterministic severity scoring, and a huma",
