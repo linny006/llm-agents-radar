@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:15:40Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:12:59Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:10:17Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -54,15 +81,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:49:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -85,7 +103,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 122,
+    "stars": 123,
     "updated_at": "2026-08-19T14:40:15Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -117,15 +135,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:10:17Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
     "id": "jonortega20/fantasybot",
     "language": "Python",
@@ -133,15 +142,6 @@
     "stars": 16,
     "updated_at": "2026-08-19T14:27:13Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:12:59Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "Atabak-dev/AI_Resume_Builder",
     "stars": 0,
-    "updated_at": "2026-08-19T13:10:17Z",
+    "updated_at": "2026-08-19T15:16:09Z",
     "url": "https://github.com/Atabak-dev/AI_Resume_Builder"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "AdrianDonohoe/5G_PCAP",
     "stars": 0,
-    "updated_at": "2026-08-19T12:56:08Z",
+    "updated_at": "2026-08-19T15:21:09Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T11:51:59Z",
+    "updated_at": "2026-08-19T15:18:45Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
