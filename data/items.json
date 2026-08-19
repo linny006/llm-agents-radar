@@ -1,5 +1,23 @@
 [
   {
+    "description": "Enterprise Autonomous AI Agent Control Plane & Automation Platform",
+    "id": "NadeemAhmad3/ai-agent-control-plane",
+    "language": "TypeScript",
+    "name": "NadeemAhmad3/ai-agent-control-plane",
+    "stars": 2,
+    "updated_at": "2026-08-19T18:25:46Z",
+    "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "JavaScript",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 5,
+    "updated_at": "2026-08-19T18:20:40Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:06:59Z",
     "url": "https://github.com/Jumpsy/agent-eyes"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "JavaScript",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 5,
-    "updated_at": "2026-08-19T18:20:40Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
@@ -158,7 +167,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-19T17:20:57Z",
+    "updated_at": "2026-08-19T18:24:27Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 30,
-    "updated_at": "2026-08-19T14:51:31Z",
+    "updated_at": "2026-08-19T18:29:42Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 159,
     "updated_at": "2026-08-19T14:35:55Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-19T14:00:09Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   }
 ]
