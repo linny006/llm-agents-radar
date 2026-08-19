@@ -1,11 +1,74 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T12:41:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
+    "id": "uukuguy/grid-static-analysis",
+    "language": "Python",
+    "name": "uukuguy/grid-static-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:36:54Z",
+    "url": "https://github.com/uukuguy/grid-static-analysis"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:35:30Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:34:17Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:33:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:33:12Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 159,
+    "updated_at": "2026-08-19T12:44:21Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6953,
-    "updated_at": "2026-08-19T12:15:45Z",
+    "updated_at": "2026-08-19T12:36:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "puristajs/harness",
     "stars": 5,
-    "updated_at": "2026-08-19T12:10:29Z",
+    "updated_at": "2026-08-19T12:32:01Z",
     "url": "https://github.com/puristajs/harness"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T11:56:30Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:54:33Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:52:28Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -180,24 +225,6 @@
     "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T11:22:44Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:19:25Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Always-loaded rule + deterministic hook fixing the second axis of an agent's approval gate: machines own artifact correc",
     "id": "shimo4228/human-gate",
     "language": "Shell",
@@ -241,15 +268,6 @@
     "stars": 23503,
     "updated_at": "2026-08-19T11:11:54Z",
     "url": "https://github.com/titanwings/colleague-skill"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:27:33Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -304,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T10:42:52Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 159,
-    "updated_at": "2026-08-19T10:36:21Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-19T08:12:23Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
-  },
-  {
-    "description": "Agentic evaluation and release framework for AI agents \u2014 run, replay, verify, and gate skills, roles, prompts, tools, an",
-    "id": "fightheyyy/barena",
-    "language": "TypeScript",
-    "name": "fightheyyy/barena",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:09:57Z",
-    "url": "https://github.com/fightheyyy/barena"
   }
 ]
