@@ -1,5 +1,23 @@
 [
   {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:57:49Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:54:13Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 16372,
     "updated_at": "2026-08-19T15:50:55Z",
     "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
+    "id": "hjawhar/og-ai",
+    "language": "TypeScript",
+    "name": "hjawhar/og-ai",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:50:32Z",
+    "url": "https://github.com/hjawhar/og-ai"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -36,6 +63,15 @@
     "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:39:04Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -45,13 +81,13 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:36:12Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-19T15:37:02Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -88,15 +124,6 @@
     "stars": 125,
     "updated_at": "2026-08-19T15:28:08Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:54:13Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -153,15 +180,6 @@
     "url": "https://github.com/Atabak-dev/AI_Resume_Builder"
   },
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:39:04Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "PunctumActus/cks-mcp",
     "language": "Python",
@@ -194,7 +212,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 16,
-    "updated_at": "2026-08-19T15:52:45Z",
+    "updated_at": "2026-08-19T15:55:07Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 487,
     "updated_at": "2026-08-19T14:43:18Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-19T15:37:02Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -322,15 +331,6 @@
     "stars": 5761,
     "updated_at": "2026-08-19T12:59:49Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
-    "id": "hjawhar/og-ai",
-    "language": "TypeScript",
-    "name": "hjawhar/og-ai",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:50:32Z",
-    "url": "https://github.com/hjawhar/og-ai"
   },
   {
     "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
