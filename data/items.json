@@ -1,12 +1,21 @@
 [
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-19T06:43:15Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29038,
-    "updated_at": "2026-08-19T06:29:17Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:44:30Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T06:29:02Z",
+    "updated_at": "2026-08-19T06:40:25Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
+    "id": "titanwings/colleague-skill",
+    "language": "Python",
+    "name": "titanwings/colleague-skill",
+    "stars": 23443,
+    "updated_at": "2026-08-19T06:40:02Z",
+    "url": "https://github.com/titanwings/colleague-skill"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T06:39:39Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "PunctumActus/cks-mcp",
+    "language": "Python",
+    "name": "PunctumActus/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-19T06:37:15Z",
+    "url": "https://github.com/PunctumActus/cks-mcp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T06:32:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
@@ -27,12 +72,21 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29038,
+    "updated_at": "2026-08-19T06:29:17Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T06:27:29Z",
+    "updated_at": "2026-08-19T06:31:06Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "camel-ai/tokin",
     "stars": 0,
-    "updated_at": "2026-08-19T06:11:45Z",
+    "updated_at": "2026-08-19T06:43:38Z",
     "url": "https://github.com/camel-ai/tokin"
   },
   {
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 154,
-    "updated_at": "2026-08-19T06:26:54Z",
+    "updated_at": "2026-08-19T06:40:48Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T05:59:18Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T06:25:20Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -180,24 +225,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T05:27:22Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T05:23:13Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
     "id": "leejoong/whalex",
     "language": "TypeScript",
@@ -229,7 +256,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 823,
+    "stars": 824,
     "updated_at": "2026-08-19T04:54:06Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T03:19:53Z",
     "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 80,
-    "updated_at": "2026-08-19T03:13:19Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
-    "id": "wangyuahn/nori-code",
-    "language": "TypeScript",
-    "name": "wangyuahn/nori-code",
-    "stars": 13,
-    "updated_at": "2026-08-19T03:12:27Z",
-    "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-19T03:10:39Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   }
 ]
