@@ -1,5 +1,32 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-19T16:17:43Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:13:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:12:14Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
     "id": "Xyntopia/taskyon",
     "language": "TypeScript",
@@ -18,15 +45,6 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:12:14Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
@@ -34,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:05:09Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Controllable and Transparent LLM Application Framework",
+    "id": "gumblex/aitoolman",
+    "language": "Python",
+    "name": "gumblex/aitoolman",
+    "stars": 4,
+    "updated_at": "2026-08-19T16:04:48Z",
+    "url": "https://github.com/gumblex/aitoolman"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -52,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T16:00:21Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Controllable and Transparent LLM Application Framework",
-    "id": "gumblex/aitoolman",
-    "language": "Python",
-    "name": "gumblex/aitoolman",
-    "stars": 4,
-    "updated_at": "2026-08-19T16:04:48Z",
-    "url": "https://github.com/gumblex/aitoolman"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:50:32Z",
     "url": "https://github.com/hjawhar/og-ai"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:13:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -283,7 +292,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 487,
+    "stars": 488,
     "updated_at": "2026-08-19T14:43:18Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 3,
-    "updated_at": "2026-08-19T14:20:05Z",
+    "updated_at": "2026-08-19T16:16:32Z",
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-19T12:11:07Z",
+    "updated_at": "2026-08-19T16:16:48Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T11:24:05Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Always-loaded rule + deterministic hook fixing the second axis of an agent's approval gate: machines own artifact correc",
-    "id": "shimo4228/human-gate",
-    "language": "Shell",
-    "name": "shimo4228/human-gate",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:17:52Z",
-    "url": "https://github.com/shimo4228/human-gate"
   }
 ]
