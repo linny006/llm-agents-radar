@@ -1,5 +1,32 @@
 [
   {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16372,
+    "updated_at": "2026-08-19T15:50:55Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:48:32Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 2,
+    "updated_at": "2026-08-19T15:47:47Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
     "id": "Lean-Prover/lean-prover",
     "language": "Python",
@@ -36,6 +63,15 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-19T15:33:41Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "AdrianDonohoe/5G_PCAP",
     "stars": 0,
-    "updated_at": "2026-08-19T15:27:33Z",
+    "updated_at": "2026-08-19T15:54:13Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
@@ -99,15 +135,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 2,
-    "updated_at": "2026-08-19T15:42:48Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:16:09Z",
     "url": "https://github.com/Atabak-dev/AI_Resume_Builder"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:15:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -176,7 +194,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 16,
-    "updated_at": "2026-08-19T14:51:10Z",
+    "updated_at": "2026-08-19T15:52:45Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -230,17 +248,8 @@
     "language": "Python",
     "name": "jonortega20/fantasybot",
     "stars": 16,
-    "updated_at": "2026-08-19T14:27:13Z",
+    "updated_at": "2026-08-19T15:54:26Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-19T15:33:41Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-19T15:23:16Z",
+    "updated_at": "2026-08-19T15:49:37Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -320,7 +329,7 @@
     "language": "TypeScript",
     "name": "hjawhar/og-ai",
     "stars": 0,
-    "updated_at": "2026-08-19T12:56:16Z",
+    "updated_at": "2026-08-19T15:50:32Z",
     "url": "https://github.com/hjawhar/og-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T11:16:55Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
-    "id": "titanwings/colleague-skill",
-    "language": "Python",
-    "name": "titanwings/colleague-skill",
-    "stars": 23521,
-    "updated_at": "2026-08-19T11:11:54Z",
-    "url": "https://github.com/titanwings/colleague-skill"
   }
 ]
