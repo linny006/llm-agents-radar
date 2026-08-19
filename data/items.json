@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T07:14:04Z",
+    "updated_at": "2026-08-19T07:27:54Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:26:39Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:25:51Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
+  },
+  {
+    "description": "Verify area values quickly with this web-based HTML calculator tool.",
+    "id": "passive-hotpepper515/area-checker-html-tool",
+    "language": "HTML",
+    "name": "passive-hotpepper515/area-checker-html-tool",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:25:29Z",
+    "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
+  },
+  {
+    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
+    "id": "Blondieredistributed612/pocket-agent",
+    "language": "Python",
+    "name": "Blondieredistributed612/pocket-agent",
+    "stars": 1,
+    "updated_at": "2026-08-19T07:24:13Z",
+    "url": "https://github.com/Blondieredistributed612/pocket-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-19T07:22:55Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
+    "id": "bettersilvanus849/inner-coordinates",
+    "language": "Shell",
+    "name": "bettersilvanus849/inner-coordinates",
+    "stars": 1,
+    "updated_at": "2026-08-19T07:21:03Z",
+    "url": "https://github.com/bettersilvanus849/inner-coordinates"
+  },
+  {
+    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
+    "id": "Blaz742/web-pentest-lab",
+    "language": "\u2014",
+    "name": "Blaz742/web-pentest-lab",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:19:57Z",
+    "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-08-19T07:19:39Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29038,
+    "updated_at": "2026-08-19T07:19:29Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
+    "id": "Indrasclerotinia71/local-ai-research-assistant",
+    "language": "Python",
+    "name": "Indrasclerotinia71/local-ai-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:18:35Z",
+    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
+  },
+  {
+    "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
+    "id": "titanwings/colleague-skill",
+    "language": "Python",
+    "name": "titanwings/colleague-skill",
+    "stars": 23452,
+    "updated_at": "2026-08-19T07:18:20Z",
+    "url": "https://github.com/titanwings/colleague-skill"
+  },
+  {
+    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
+    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "language": "Python",
+    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
+    "stars": 3,
+    "updated_at": "2026-08-19T07:17:15Z",
+    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
+  },
+  {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-08-19T07:16:48Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
@@ -32,7 +149,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T07:14:21Z",
+    "updated_at": "2026-08-19T07:29:41Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -115,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:04:41Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
-    "id": "titanwings/colleague-skill",
-    "language": "Python",
-    "name": "titanwings/colleague-skill",
-    "stars": 23452,
-    "updated_at": "2026-08-19T07:02:26Z",
-    "url": "https://github.com/titanwings/colleague-skill"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -315,15 +423,6 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29038,
-    "updated_at": "2026-08-19T06:29:17Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T06:18:17Z",
     "url": "https://github.com/wzh4464/self-evolving-media-agent"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 732,
-    "updated_at": "2026-08-19T06:13:45Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 10,
-    "updated_at": "2026-08-19T06:02:53Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "\u624b\u673a\u672c\u5730 AI \u6587\u4ef6\u7ba1\u7406\u52a9\u624b:\u81ea\u7136\u8bed\u8a00\u6307\u6325 LLM agent \u76f4\u63a5\u8bfb\u5199 Android \u672c\u5730\u6587\u4ef6,\u6587\u4ef6\u4e0d\u51fa\u624b\u673a\u3002\u591a\u4f9b\u5e94\u5546(DeepSeek/Kimi/GLM/Qwen/OpenAI/Claude)\u3001\u5927\u6587\u4ef6 MapReduce \u5206\u6790\u3001\u8054\u7f51\u641c",
-    "id": "ame420/file-agent",
-    "language": "Kotlin",
-    "name": "ame420/file-agent",
-    "stars": 0,
-    "updated_at": "2026-08-19T06:02:24Z",
-    "url": "https://github.com/ame420/file-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-19T05:42:36Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-19T05:38:59Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 30,
-    "updated_at": "2026-08-19T05:33:21Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-19T05:20:22Z",
-    "url": "https://github.com/leejoong/whalex"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-19T05:24:30Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-19T05:08:59Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 824,
-    "updated_at": "2026-08-19T04:54:06Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API",
-    "id": "yomei-o/kaggle_server_cpp",
-    "language": "Python",
-    "name": "yomei-o/kaggle_server_cpp",
-    "stars": 0,
-    "updated_at": "2026-08-19T04:46:32Z",
-    "url": "https://github.com/yomei-o/kaggle_server_cpp"
   }
 ]
