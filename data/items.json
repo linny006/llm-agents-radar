@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:14:37Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:02:08Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -7,6 +25,33 @@
     "stars": 334,
     "updated_at": "2026-08-19T16:58:16Z",
     "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-19T16:58:12Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:57:12Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:54:40Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -23,7 +68,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-19T16:47:13Z",
+    "updated_at": "2026-08-19T17:11:21Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:46:03Z",
     "url": "https://github.com/J4NN0/mycel"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-19T16:40:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -153,15 +189,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:59:45Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
     "id": "Xyntopia/taskyon",
     "language": "TypeScript",
@@ -234,24 +261,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:57:12Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:54:40Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -295,15 +304,6 @@
     "stars": 22,
     "updated_at": "2026-08-19T15:24:34Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-19T16:58:12Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Privacy oriented CV and resume + cover letter maker with AI or local LLM. German Quality :) NO PESONAL INFO LEAVES YOUR ",
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-19T16:36:26Z",
+    "updated_at": "2026-08-19T17:04:40Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5761,
-    "updated_at": "2026-08-19T12:59:49Z",
+    "updated_at": "2026-08-19T17:12:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
