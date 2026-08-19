@@ -1,5 +1,23 @@
 [
   {
+    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
+    "id": "leejoong/whalex",
+    "language": "TypeScript",
+    "name": "leejoong/whalex",
+    "stars": 0,
+    "updated_at": "2026-08-19T10:55:39Z",
+    "url": "https://github.com/leejoong/whalex"
+  },
+  {
+    "description": "A safety-constrained coding agent for FastAPI defect diagnosis, isolated repair, revision-aware validation, human approv",
+    "id": "jbq8814-lab/FastFix",
+    "language": "Python",
+    "name": "jbq8814-lab/FastFix",
+    "stars": 1,
+    "updated_at": "2026-08-19T10:51:44Z",
+    "url": "https://github.com/jbq8814-lab/FastFix"
+  },
+  {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
     "id": "C-Rhapsody/gemini-connector",
     "language": "Go",
@@ -18,15 +36,6 @@
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
-    "description": "A safety-constrained coding agent for FastAPI defect diagnosis, isolated repair, revision-aware validation, human approv",
-    "id": "jbq8814-lab/FastFix",
-    "language": "Python",
-    "name": "jbq8814-lab/FastFix",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:51:44Z",
-    "url": "https://github.com/jbq8814-lab/FastFix"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -43,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T10:40:01Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
-    "id": "leejoong/whalex",
-    "language": "TypeScript",
-    "name": "leejoong/whalex",
-    "stars": 0,
-    "updated_at": "2026-08-19T10:37:45Z",
-    "url": "https://github.com/leejoong/whalex"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T10:51:13Z",
+    "updated_at": "2026-08-19T10:59:02Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -338,7 +338,7 @@
     "language": "C#",
     "name": "nitinmms/LitosAiCodingAgent",
     "stars": 4,
-    "updated_at": "2026-08-19T07:33:25Z",
+    "updated_at": "2026-08-19T10:59:31Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
@@ -418,7 +418,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23494,
+    "stars": 23495,
     "updated_at": "2026-08-19T07:18:20Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
