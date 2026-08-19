@@ -1,12 +1,30 @@
 [
   {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:58:54Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T07:49:57Z",
+    "updated_at": "2026-08-19T07:56:43Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:53:10Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -22,7 +40,7 @@
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
-    "stars": 121,
+    "stars": 122,
     "updated_at": "2026-08-19T07:44:05Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
@@ -184,7 +202,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23456,
+    "stars": 23458,
     "updated_at": "2026-08-19T07:18:20Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T07:50:55Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:10:15Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
@@ -364,7 +373,7 @@
     "id": "yancent-dao/cockpit-agent-sim",
     "language": "TypeScript",
     "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-19T06:54:23Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-19T06:30:07Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-19T06:31:06Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   }
 ]
