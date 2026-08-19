@@ -1,12 +1,57 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 4,
+    "updated_at": "2026-08-19T18:59:51Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
     "stars": 16372,
-    "updated_at": "2026-08-19T18:42:42Z",
+    "updated_at": "2026-08-19T18:59:03Z",
     "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-19T18:57:54Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-19T18:56:05Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 2,
+    "updated_at": "2026-08-19T18:47:06Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-19T18:43:06Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T18:32:50Z",
+    "updated_at": "2026-08-19T18:58:30Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 2,
-    "updated_at": "2026-08-19T18:10:57Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "Computer use on a Mac for any AI agent. It presses the button, not a pixel \u2014 through the accessibility layer, so your cu",
     "id": "Jumpsy/spooky-action",
     "language": "Python",
@@ -162,15 +198,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-19T18:43:06Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T18:34:31Z",
+    "updated_at": "2026-08-19T18:45:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -207,21 +234,12 @@
     "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-19T16:58:12Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T18:43:20Z",
+    "updated_at": "2026-08-19T18:53:13Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6955,
-    "updated_at": "2026-08-19T15:26:53Z",
+    "updated_at": "2026-08-19T18:56:17Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 488,
     "updated_at": "2026-08-19T14:43:18Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4390,
-    "updated_at": "2026-08-19T17:43:55Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 159,
-    "updated_at": "2026-08-19T14:35:55Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
