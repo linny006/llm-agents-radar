@@ -18,6 +18,15 @@
     "url": "https://github.com/Jumpsy/spooky-action"
   },
   {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "JavaScript",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 5,
+    "updated_at": "2026-08-19T17:44:07Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -97,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T17:20:57Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "JavaScript",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 5,
-    "updated_at": "2026-08-19T17:44:07Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
