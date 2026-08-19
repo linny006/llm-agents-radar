@@ -5,26 +5,26 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T17:56:47Z",
+    "updated_at": "2026-08-19T18:14:35Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "Real vision for any AI agent. Screenshots it can actually look at, the design system read out of the live CSSOM, and eve",
-    "id": "Jumpsy/agent-eyes",
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
     "language": "Python",
-    "name": "Jumpsy/agent-eyes",
+    "name": "Lean-Prover/lean-prover",
     "stars": 0,
-    "updated_at": "2026-08-19T17:54:39Z",
-    "url": "https://github.com/Jumpsy/agent-eyes"
+    "updated_at": "2026-08-19T18:11:32Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-19T17:50:58Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 2,
+    "updated_at": "2026-08-19T18:10:57Z",
+    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "Computer use on a Mac for any AI agent. It presses the button, not a pixel \u2014 through the accessibility layer, so your cu",
@@ -32,8 +32,17 @@
     "language": "Python",
     "name": "Jumpsy/spooky-action",
     "stars": 0,
-    "updated_at": "2026-08-19T17:57:37Z",
+    "updated_at": "2026-08-19T18:07:01Z",
     "url": "https://github.com/Jumpsy/spooky-action"
+  },
+  {
+    "description": "Real vision for any AI agent. Screenshots it can actually look at, the design system read out of the live CSSOM, and eve",
+    "id": "Jumpsy/agent-eyes",
+    "language": "Python",
+    "name": "Jumpsy/agent-eyes",
+    "stars": 0,
+    "updated_at": "2026-08-19T18:06:59Z",
+    "url": "https://github.com/Jumpsy/agent-eyes"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -41,8 +50,26 @@
     "language": "JavaScript",
     "name": "Sigmanih/SigmaStudio",
     "stars": 5,
-    "updated_at": "2026-08-19T17:44:07Z",
+    "updated_at": "2026-08-19T18:06:35Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
+    "id": "hjawhar/og-ai",
+    "language": "TypeScript",
+    "name": "hjawhar/og-ai",
+    "stars": 0,
+    "updated_at": "2026-08-19T18:02:51Z",
+    "url": "https://github.com/hjawhar/og-ai"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 11,
+    "updated_at": "2026-08-19T18:00:38Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -61,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T17:56:28Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-19T18:11:25Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T17:42:27Z",
+    "updated_at": "2026-08-19T18:11:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -117,6 +153,15 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
+    "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
+    "id": "xiaohe9/hs-code-classifier",
+    "language": "Python",
+    "name": "xiaohe9/hs-code-classifier",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:08:43Z",
+    "url": "https://github.com/xiaohe9/hs-code-classifier"
+  },
+  {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
     "id": "monocle2ai/monocle",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-08-19T16:58:12Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:57:12Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -297,24 +333,6 @@
     "url": "https://github.com/jonortega20/fantasybot"
   },
   {
-    "description": "Local-first agentic coding CLI for GPU inference: an agent loop, sandboxed tool suite and session store over a supervise",
-    "id": "hjawhar/og-ai",
-    "language": "TypeScript",
-    "name": "hjawhar/og-ai",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:50:32Z",
-    "url": "https://github.com/hjawhar/og-ai"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 2,
-    "updated_at": "2026-08-19T15:47:47Z",
-    "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -337,7 +355,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6954,
+    "stars": 6955,
     "updated_at": "2026-08-19T15:26:53Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -367,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:16:09Z",
     "url": "https://github.com/Atabak-dev/AI_Resume_Builder"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 11,
-    "updated_at": "2026-08-19T14:53:25Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T14:00:09Z",
     "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-19T15:49:37Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   }
 ]
