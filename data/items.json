@@ -1,5 +1,32 @@
 [
   {
+    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
+    "id": "lachlan-kelly/Elucidate",
+    "language": "JavaScript",
+    "name": "lachlan-kelly/Elucidate",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:33:44Z",
+    "url": "https://github.com/lachlan-kelly/Elucidate"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-19T04:30:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29033,
+    "updated_at": "2026-08-19T04:29:32Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T04:29:09Z",
+    "updated_at": "2026-08-19T04:30:29Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29033,
-    "updated_at": "2026-08-19T04:29:32Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "A library-science-inspired personal knowledge management system with LLM agents",
     "id": "shenmintao/marginalia",
     "language": "Python",
@@ -205,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T03:41:58Z",
     "url": "https://github.com/twn39/ddgo-search"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-19T03:40:24Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source coding-agent desktop app on your own DeepSeek key \u2014 Claude Code-class workflows, SuperCode multi-agent fleet",
@@ -322,15 +331,6 @@
     "stars": 5677,
     "updated_at": "2026-08-19T02:59:01Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
-    "id": "lachlan-kelly/Elucidate",
-    "language": "JavaScript",
-    "name": "lachlan-kelly/Elucidate",
-    "stars": 0,
-    "updated_at": "2026-08-19T02:57:48Z",
-    "url": "https://github.com/lachlan-kelly/Elucidate"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
