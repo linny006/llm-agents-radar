@@ -1,11 +1,20 @@
 [
   {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-08-19T06:59:13Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T06:58:14Z",
+    "updated_at": "2026-08-19T07:02:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "titanwings/colleague-skill",
     "stars": 23448,
-    "updated_at": "2026-08-19T06:56:53Z",
+    "updated_at": "2026-08-19T07:02:26Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T07:00:15Z",
+    "updated_at": "2026-08-19T07:01:11Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T03:59:45Z",
     "url": "https://github.com/xu-jia-ming/memory_system"
-  },
-  {
-    "description": "A library-science-inspired personal knowledge management system with LLM agents",
-    "id": "shenmintao/marginalia",
-    "language": "Python",
-    "name": "shenmintao/marginalia",
-    "stars": 231,
-    "updated_at": "2026-08-19T03:52:51Z",
-    "url": "https://github.com/shenmintao/marginalia"
   }
 ]
