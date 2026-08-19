@@ -1,5 +1,68 @@
 [
   {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5675,
+    "updated_at": "2026-08-19T02:59:01Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
+    "id": "lachlan-kelly/Elucidate",
+    "language": "JavaScript",
+    "name": "lachlan-kelly/Elucidate",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:57:48Z",
+    "url": "https://github.com/lachlan-kelly/Elucidate"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-19T02:57:39Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
+    "id": "yancent-dao/cockpit-agent-sim",
+    "language": "TypeScript",
+    "name": "yancent-dao/cockpit-agent-sim",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:56:57Z",
+    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-19T02:55:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-19T02:55:15Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:51:09Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -31,7 +94,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 730,
+    "stars": 731,
     "updated_at": "2026-08-19T02:41:20Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -45,21 +108,12 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-19T02:38:53Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-19T02:40:27Z",
+    "updated_at": "2026-08-19T02:57:16Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T02:19:43Z",
+    "updated_at": "2026-08-19T02:59:56Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 121,
     "updated_at": "2026-08-19T01:41:05Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
-    "id": "yancent-dao/cockpit-agent-sim",
-    "language": "TypeScript",
-    "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:40:32Z",
-    "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -214,15 +259,6 @@
     "stars": 5753,
     "updated_at": "2026-08-19T01:21:11Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-19T01:07:10Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Uncensored AI coding agent for your terminal \u2014 Claude Code alternative with MCP support. Drives IDA Pro, Roblox Studio, ",
@@ -351,15 +387,6 @@
     "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-19T02:17:55Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
     "id": "HELLOCODINGTR/AgentForge",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:16:12Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1522,
-    "updated_at": "2026-08-19T00:15:31Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:15:00Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Website based application for creating a bridge between Canvas (instructure.com) and your choice of LLM",
-    "id": "lachlan-kelly/Elucidate",
-    "language": "JavaScript",
-    "name": "lachlan-kelly/Elucidate",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:15:00Z",
-    "url": "https://github.com/lachlan-kelly/Elucidate"
   }
 ]
