@@ -1,5 +1,14 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29047,
+    "updated_at": "2026-08-19T08:59:33Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-19T08:58:06Z",
+    "updated_at": "2026-08-19T09:00:32Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T08:56:22Z",
+    "updated_at": "2026-08-19T09:01:25Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -113,7 +122,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-19T08:24:37Z",
+    "updated_at": "2026-08-19T09:02:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T08:58:22Z",
+    "updated_at": "2026-08-19T09:00:47Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -297,15 +306,6 @@
     "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29047,
-    "updated_at": "2026-08-19T08:59:33Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
     "id": "Indrasclerotinia71/local-ai-research-assistant",
     "language": "Python",
@@ -319,7 +319,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23473,
+    "stars": 23474,
     "updated_at": "2026-08-19T07:18:20Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
