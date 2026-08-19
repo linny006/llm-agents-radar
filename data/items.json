@@ -1,5 +1,32 @@
 [
   {
+    "description": "The Authorship Strategy framework as a single always-loaded behavioral rule \u2014 the deterministic counterpart to the autho",
+    "id": "shimo4228/authorship-strategy-rules",
+    "language": "Shell",
+    "name": "shimo4228/authorship-strategy-rules",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:17:12Z",
+    "url": "https://github.com/shimo4228/authorship-strategy-rules"
+  },
+  {
+    "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
+    "id": "shimo4228/akc-cycle",
+    "language": "Python",
+    "name": "shimo4228/akc-cycle",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:17:03Z",
+    "url": "https://github.com/shimo4228/akc-cycle"
+  },
+  {
+    "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
+    "id": "shimo4228/agent-knowledge-cycle",
+    "language": "\u2014",
+    "name": "shimo4228/agent-knowledge-cycle",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:16:55Z",
+    "url": "https://github.com/shimo4228/agent-knowledge-cycle"
+  },
+  {
     "description": "\u5c06\u51b0\u51b7\u7684\u79bb\u522b\u5316\u4e3a\u6e29\u6696\u7684 Skill\uff0c\u6b22\u8fce\u52a0\u5165\u6570\u5b57\u751f\u547d1.0\uff01Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital ",
     "id": "titanwings/colleague-skill",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:21:03Z",
     "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:19:57Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:19:39Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:18:35Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   }
 ]
