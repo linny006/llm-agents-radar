@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-19T22:53:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-19T22:53:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-19T22:48:13Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 174,
-    "updated_at": "2026-08-19T22:35:45Z",
+    "updated_at": "2026-08-19T22:54:47Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-19T22:33:11Z",
+    "updated_at": "2026-08-19T22:59:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:32:02Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T22:42:04Z",
+    "updated_at": "2026-08-19T23:00:12Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "dmirain/OctoForge",
     "stars": 21,
-    "updated_at": "2026-08-19T22:17:43Z",
+    "updated_at": "2026-08-19T22:50:32Z",
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/hjawhar/og-ai"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-19T22:34:20Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-19T16:36:01Z",
     "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-08-19T16:23:12Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   }
 ]
