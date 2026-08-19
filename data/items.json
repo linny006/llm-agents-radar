@@ -1,5 +1,14 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 16,
+    "updated_at": "2026-08-19T18:18:59Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -50,7 +59,7 @@
     "language": "JavaScript",
     "name": "Sigmanih/SigmaStudio",
     "stars": 5,
-    "updated_at": "2026-08-19T18:06:35Z",
+    "updated_at": "2026-08-19T18:20:40Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
@@ -313,15 +322,6 @@
     "stars": 16372,
     "updated_at": "2026-08-19T16:04:38Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 16,
-    "updated_at": "2026-08-19T15:55:07Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
