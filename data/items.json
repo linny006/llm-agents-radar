@@ -1,12 +1,12 @@
 [
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
     "stars": 0,
-    "updated_at": "2026-08-20T11:42:51Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "updated_at": "2026-08-20T11:49:50Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
   },
   {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "AndriiLavrekha/awesome-progress-tracker",
     "stars": 0,
-    "updated_at": "2026-08-20T11:42:34Z",
+    "updated_at": "2026-08-20T11:47:11Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T11:42:51Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need\u2026 / I need\u2026, not Let me\u2026",
@@ -67,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29095,
+    "stars": 29096,
     "updated_at": "2026-08-20T11:32:35Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-20T11:20:21Z",
+    "updated_at": "2026-08-20T11:46:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3111,
-    "updated_at": "2026-08-20T10:51:50Z",
+    "updated_at": "2026-08-20T11:47:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-20T10:16:46Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
-    "id": "PunctumActus/cks-mcp",
-    "language": "Python",
-    "name": "PunctumActus/cks-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-20T10:13:53Z",
-    "url": "https://github.com/PunctumActus/cks-mcp"
   }
 ]
