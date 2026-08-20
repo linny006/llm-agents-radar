@@ -1,11 +1,65 @@
 [
   {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 835,
+    "updated_at": "2026-08-20T04:29:24Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+    "id": "Anil-matcha/awesome-dsh-plugin",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-dsh-plugin",
+    "stars": 956,
+    "updated_at": "2026-08-20T04:27:34Z",
+    "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
+  },
+  {
+    "description": "Run a local, uncensored coding model as an autonomous security-research agent on a single GPU. Tuning findings, OpenCode",
+    "id": "felixda9/local-redteam-agent",
+    "language": "Python",
+    "name": "felixda9/local-redteam-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T04:27:16Z",
+    "url": "https://github.com/felixda9/local-redteam-agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29077,
+    "updated_at": "2026-08-20T04:26:28Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-20T04:21:43Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-20T04:16:51Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-20T04:14:37Z",
+    "updated_at": "2026-08-20T04:21:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -18,13 +72,13 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29077,
-    "updated_at": "2026-08-20T04:12:42Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5763,
+    "updated_at": "2026-08-20T04:10:12Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:59:10Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 835,
-    "updated_at": "2026-08-20T03:57:10Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:40:45Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-20T03:40:32Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T02:46:47Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5680,
-    "updated_at": "2026-08-20T03:21:23Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:11:56Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-20T02:30:02Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
-    "id": "Fisher0012/xiaocai-stock-ai",
-    "language": "Python",
-    "name": "Fisher0012/xiaocai-stock-ai",
-    "stars": 1,
-    "updated_at": "2026-08-20T02:29:24Z",
-    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
   }
 ]
