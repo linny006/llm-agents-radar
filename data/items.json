@@ -1,10 +1,19 @@
 [
   {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-20T23:15:43Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
     "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-08-20T23:14:30Z",
     "url": "https://github.com/oooscoos/Benzi"
   },
@@ -34,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T23:07:49Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-20T23:05:26Z",
-    "url": "https://github.com/WhitehatD/hesperus"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
