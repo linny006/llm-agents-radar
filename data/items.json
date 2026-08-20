@@ -1,12 +1,12 @@
 [
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:01:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T08:13:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -14,8 +14,71 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-20T07:59:34Z",
+    "updated_at": "2026-08-20T08:11:32Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:06:52Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u6d4f\u89c8\u5668\u4efb\u52a1 Agent\uff1a\u4e03\u5c42\u67b6\u6784 + 45 \u6761\u81ea\u5efa\u5206\u5c42 benchmark\uff0c\u6bcf\u4e2a\u7ed3\u8bba\u90fd\u53ef\u4ece artifact \u72ec\u7acb\u590d\u7b97",
+    "id": "xyyojl/web-agent",
+    "language": "Python",
+    "name": "xyyojl/web-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:04:54Z",
+    "url": "https://github.com/xyyojl/web-agent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:04:51Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 166,
+    "updated_at": "2026-08-20T08:03:43Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 4,
+    "updated_at": "2026-08-20T08:03:41Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1637,
+    "updated_at": "2026-08-20T08:02:34Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:01:30Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API",
@@ -81,24 +144,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-20T07:58:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:40:20Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -106,6 +151,15 @@
     "stars": 125,
     "updated_at": "2026-08-20T07:39:37Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5765,
+    "updated_at": "2026-08-20T07:38:27Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -124,15 +178,6 @@
     "stars": 5680,
     "updated_at": "2026-08-20T07:35:18Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-20T07:35:18Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
     "description": "Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio",
@@ -157,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29084,
+    "stars": 29085,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -243,15 +288,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
-    "id": "AgentEra/Agently",
-    "language": "Python",
-    "name": "AgentEra/Agently",
-    "stars": 1638,
-    "updated_at": "2026-08-20T08:02:34Z",
-    "url": "https://github.com/AgentEra/Agently"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -259,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T07:01:29Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 166,
-    "updated_at": "2026-08-20T06:42:31Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-20T07:32:51Z",
+    "updated_at": "2026-08-20T08:05:17Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5764,
-    "updated_at": "2026-08-20T07:38:27Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
@@ -418,7 +436,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 840,
+    "stars": 841,
     "updated_at": "2026-08-20T04:37:15Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -430,23 +448,5 @@
     "stars": 13809,
     "updated_at": "2026-08-20T04:31:08Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Run a local, uncensored coding model as an autonomous security-research agent on a single GPU. Tuning findings, OpenCode",
-    "id": "felixda9/local-redteam-agent",
-    "language": "Python",
-    "name": "felixda9/local-redteam-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:27:16Z",
-    "url": "https://github.com/felixda9/local-redteam-agent"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-20T04:21:43Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   }
 ]
