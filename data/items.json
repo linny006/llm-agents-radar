@@ -1,12 +1,111 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:14:05Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 168,
+    "updated_at": "2026-08-20T10:14:01Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
+    "id": "PunctumActus/cks-mcp",
+    "language": "Python",
+    "name": "PunctumActus/cks-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:13:53Z",
+    "url": "https://github.com/PunctumActus/cks-mcp"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:12:12Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-20T10:00:09Z",
+    "updated_at": "2026-08-20T10:11:53Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A library-science-inspired personal knowledge management system with LLM agents",
+    "id": "shenmintao/marginalia",
+    "language": "Python",
+    "name": "shenmintao/marginalia",
+    "stars": 231,
+    "updated_at": "2026-08-20T10:11:51Z",
+    "url": "https://github.com/shenmintao/marginalia"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-20T10:11:17Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 166,
+    "updated_at": "2026-08-20T10:07:30Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:06:52Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:06:12Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
+    "id": "SashaEee/auditLens",
+    "language": "Python",
+    "name": "SashaEee/auditLens",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:05:00Z",
+    "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:04:24Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -14,8 +113,26 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 11,
-    "updated_at": "2026-08-20T09:58:28Z",
+    "updated_at": "2026-08-20T10:02:09Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:01:22Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-20T09:57:01Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   },
   {
     "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
@@ -27,13 +144,13 @@
     "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:56:09Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:56:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -81,15 +198,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:47:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
@@ -97,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T09:46:10Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 168,
-    "updated_at": "2026-08-20T09:45:41Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -171,20 +270,11 @@
     "url": "https://github.com/Huoyanlifusu/rkcockpit"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:56:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
-    "stars": 4391,
+    "stars": 4392,
     "updated_at": "2026-08-20T09:21:17Z",
     "url": "https://github.com/gptme/gptme"
   },
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T09:17:02Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
-    "id": "SashaEee/auditLens",
-    "language": "Python",
-    "name": "SashaEee/auditLens",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:16:05Z",
-    "url": "https://github.com/SashaEee/auditLens"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-20T09:51:23Z",
+    "updated_at": "2026-08-20T10:14:21Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:04:54Z",
     "url": "https://github.com/xyyojl/web-agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 166,
-    "updated_at": "2026-08-20T08:37:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -346,7 +418,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5766,
+    "stars": 5767,
     "updated_at": "2026-08-20T07:38:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -364,7 +436,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29093,
+    "stars": 29094,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-20T07:12:26Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:11:48Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "\u300e\uc5d0\uc774\uc804\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc124\uacc4\uc758 \uacb0\uc815 \uae30\uc900\u300f \ucc38\uc870 \uad6c\ud604. base/\ub294 1\uad8c \u300e\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\u300f \ucd5c\uc885 \ucf54\ub4dc(ch25)\uc758 \uc0ac\ubcf8\uc774\uace0, plus/\ub294 2\uad8c\uc774 \ub354\ud558\ub294 \uadf8\ub798\ud504 \ub7f0\ud0c0\uc784\uacfc \ud3c9\uac00 \ud558\ub124\uc2a4\ub2e4",
-    "id": "kangwoo/agent-engineering",
-    "language": "Java",
-    "name": "kangwoo/agent-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:05:36Z",
-    "url": "https://github.com/kangwoo/agent-engineering"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:01:29Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 84,
-    "updated_at": "2026-08-20T06:42:17Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Feishu/Lark document design & layout skill for DeepSeek Harness (dsh) \u2014 management-readable, brand-consistent, evidence-",
-    "id": "welay21312312321/dsh-design-feishu-docs",
-    "language": "Python",
-    "name": "welay21312312321/dsh-design-feishu-docs",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:40:19Z",
-    "url": "https://github.com/welay21312312321/dsh-design-feishu-docs"
-  },
-  {
-    "description": "Evidence-driven Feishu/Lark document writing skill for DeepSeek Harness (dsh) \u2014 turn business material into verified, st",
-    "id": "welay21312312321/dsh-write-feishu-docs",
-    "language": "JavaScript",
-    "name": "welay21312312321/dsh-write-feishu-docs",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:40:07Z",
-    "url": "https://github.com/welay21312312321/dsh-write-feishu-docs"
-  },
-  {
-    "description": "Feishu/Lark bid-proposal document generator skill for DeepSeek Harness (dsh) \u2014 structured pitch docs with cover, backgro",
-    "id": "welay21312312321/dsh-pitch-doc-generator",
-    "language": "JavaScript",
-    "name": "welay21312312321/dsh-pitch-doc-generator",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:39:56Z",
-    "url": "https://github.com/welay21312312321/dsh-pitch-doc-generator"
-  },
-  {
-    "description": "Feishu/Lark spreadsheet quotation generator skill for DeepSeek Harness (dsh) \u2014 auto cost, headcount, margin, payment mil",
-    "id": "welay21312312321/dsh-quote-sheet-generator",
-    "language": "JavaScript",
-    "name": "welay21312312321/dsh-quote-sheet-generator",
-    "stars": 0,
-    "updated_at": "2026-08-20T06:35:57Z",
-    "url": "https://github.com/welay21312312321/dsh-quote-sheet-generator"
   }
 ]
