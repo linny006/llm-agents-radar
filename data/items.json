@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-20T07:25:20Z",
+    "updated_at": "2026-08-20T07:28:11Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3108,
+    "updated_at": "2026-08-20T07:28:23Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
@@ -121,7 +130,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 165,
+    "stars": 166,
     "updated_at": "2026-08-20T07:05:48Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-20T07:22:53Z",
+    "updated_at": "2026-08-20T07:25:54Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5764,
-    "updated_at": "2026-08-20T05:47:22Z",
+    "updated_at": "2026-08-20T07:28:42Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-20T03:53:27Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:50:28Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
