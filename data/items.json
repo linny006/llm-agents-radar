@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-20T01:44:16Z",
+    "updated_at": "2026-08-20T02:00:04Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-20T01:58:55Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-20T01:56:22Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
+    "id": "xiaohe9/hs-code-classifier",
+    "language": "Python",
+    "name": "xiaohe9/hs-code-classifier",
+    "stars": 0,
+    "updated_at": "2026-08-20T01:55:35Z",
+    "url": "https://github.com/xiaohe9/hs-code-classifier"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-20T01:54:37Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A \u80a1\u95ee\u7b54\u5f15\u64ce \u00b7 \u771f\u6570\u636e + \u6562\u5224\u65ad \u00b7 30 \u5206\u949f\u642d\u4f60\u81ea\u5df1\u7684\u80a1\u7968\u5206\u6790 bot",
+    "id": "Fisher0012/xiaocai-stock-ai",
+    "language": "Python",
+    "name": "Fisher0012/xiaocai-stock-ai",
+    "stars": 1,
+    "updated_at": "2026-08-20T01:53:48Z",
+    "url": "https://github.com/Fisher0012/xiaocai-stock-ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T01:52:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Feishu/Lark spreadsheet quotation generator skill for DeepSeek Harness (dsh) \u2014 auto cost, headcount, margin, payment mil",
@@ -81,21 +135,12 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-20T01:14:51Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-20T01:19:38Z",
+    "updated_at": "2026-08-20T01:46:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 125,
     "updated_at": "2026-08-20T01:06:05Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-20T01:05:30Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -400,7 +436,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16375,
+    "stars": 16376,
     "updated_at": "2026-08-19T20:34:32Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -412,41 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-19T23:26:06Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Incident-investigation chat agent on Amazon Bedrock AgentCore Runtime, with a live-streaming UI and its own MCP server f",
-    "id": "sohaibsohail98/sre-investigation-agent",
-    "language": "Python",
-    "name": "sohaibsohail98/sre-investigation-agent",
-    "stars": 2,
-    "updated_at": "2026-08-19T20:23:17Z",
-    "url": "https://github.com/sohaibsohail98/sre-investigation-agent"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6957,
-    "updated_at": "2026-08-19T20:11:37Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:04:11Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-19T18:57:54Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   }
 ]
