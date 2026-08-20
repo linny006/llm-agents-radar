@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 168,
+    "updated_at": "2026-08-20T08:57:45Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T08:56:49Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:53:39Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:50:02Z",
     "url": "https://github.com/cantbeblank96/qodercli-mcp"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 168,
-    "updated_at": "2026-08-20T08:49:13Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -52,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:41:05Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-20T08:42:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:53:39Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -203,7 +203,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5680,
-    "updated_at": "2026-08-20T07:35:18Z",
+    "updated_at": "2026-08-20T08:57:05Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3109,
-    "updated_at": "2026-08-20T07:28:23Z",
+    "updated_at": "2026-08-20T08:55:57Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -229,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29087,
+    "stars": 29086,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 08:54 UTC
+> ⏰ Last updated: 2026-08-20 09:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [cantbeblank96/qodercli-mcp](https://github.com/cantbeblank96/qodercli-mcp) | 0 | JavaScript | 2026-08-20 | MCP server that wraps qodercli (Qoder CLI) — delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE, |
-| 3 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 168 | JavaScript | 2026-08-20 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 6 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 0 | Python | 2026-08-20 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
-| 7 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 8 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-20 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 1 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 168 | JavaScript | 2026-08-20 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-20 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [cantbeblank96/qodercli-mcp](https://github.com/cantbeblank96/qodercli-mcp) | 0 | JavaScript | 2026-08-20 | MCP server that wraps qodercli (Qoder CLI) — delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE, |
+| 6 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 0 | Python | 2026-08-20 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
 | 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 125 | HTML | 2026-08-20 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 11 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
@@ -67,7 +67,7 @@ expired items removed — so you can rely on what you see being current.
 | 23 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5680 | Python | 2026-08-20 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
 | 24 | [larlarua/AutoCVE](https://github.com/larlarua/AutoCVE) | 1267 | Python | 2026-08-20 | Agent-driven automated CVE discovery platform for source code auditing, vulnerability verification, and report generatio |
 | 25 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3109 | Python | 2026-08-20 | SRE Agent - CNCF Sandbox Project |
-| 26 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29087 | Python | 2026-08-20 | Build and run agents you can see, understand and trust. |
+| 26 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29086 | Python | 2026-08-20 | Build and run agents you can see, understand and trust. |
 | 27 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-20 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
 | 28 | [Canyon-Li/AuditronClaw](https://github.com/Canyon-Li/AuditronClaw) | 2 | Python | 2026-08-20 | 透明可审计的本地智能体终端：对开源 agent 框架做安全审计与加固（RCE/沙盒绕过/注入），并以 50 条注入基准 × 37 条能力基准双维度量安全边界 |
 | 29 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-20 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
