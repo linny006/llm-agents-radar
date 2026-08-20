@@ -1,12 +1,48 @@
 [
   {
+    "description": "Baize Agent V24.0.0 - zero-dependency autonomous agent runtime (NO FAKE DONE verified)",
+    "id": "jianjian12138/baize-agent",
+    "language": "Python",
+    "name": "jianjian12138/baize-agent",
+    "stars": 1,
+    "updated_at": "2026-08-20T00:14:50Z",
+    "url": "https://github.com/jianjian12138/baize-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T00:14:32Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 33,
-    "updated_at": "2026-08-19T23:59:38Z",
+    "updated_at": "2026-08-20T00:09:17Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 2,
+    "updated_at": "2026-08-20T00:06:45Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "A Rust library for calling LLM providers with a unified API.",
+    "id": "guuzaa/oven-llm",
+    "language": "Rust",
+    "name": "guuzaa/oven-llm",
+    "stars": 0,
+    "updated_at": "2026-08-20T00:05:40Z",
+    "url": "https://github.com/guuzaa/oven-llm"
   },
   {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-19T23:59:34Z",
+    "updated_at": "2026-08-20T00:04:19Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T23:47:04Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-19T23:46:26Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
@@ -187,15 +214,6 @@
     "stars": 14,
     "updated_at": "2026-08-19T22:42:22Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:56:42Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T17:31:12Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
-    "id": "xiaohe9/hs-code-classifier",
-    "language": "Python",
-    "name": "xiaohe9/hs-code-classifier",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:08:43Z",
-    "url": "https://github.com/xiaohe9/hs-code-classifier"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 334,
-    "updated_at": "2026-08-19T16:58:16Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
