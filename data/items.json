@@ -1,21 +1,39 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-20T08:13:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-20T08:11:32Z",
+    "updated_at": "2026-08-20T08:27:49Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-20T08:26:16Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:30:18Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:24:51Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
   },
   {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
@@ -23,8 +41,17 @@
     "language": "Python",
     "name": "SashaEee/auditLens",
     "stars": 2,
-    "updated_at": "2026-08-20T08:06:52Z",
+    "updated_at": "2026-08-20T08:19:57Z",
     "url": "https://github.com/SashaEee/auditLens"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T08:29:29Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u57fa\u4e8e LLM \u7684\u6d4f\u89c8\u5668\u4efb\u52a1 Agent\uff1a\u4e03\u5c42\u67b6\u6784 + 45 \u6761\u81ea\u5efa\u5206\u5c42 benchmark\uff0c\u6bcf\u4e2a\u7ed3\u8bba\u90fd\u53ef\u4ece artifact \u72ec\u7acb\u590d\u7b97",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:04:54Z",
     "url": "https://github.com/xyyojl/web-agent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:04:51Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -108,15 +126,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-20T08:00:32Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -157,7 +166,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5765,
+    "stars": 5766,
     "updated_at": "2026-08-20T07:38:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -167,7 +176,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-20T07:35:33Z",
+    "updated_at": "2026-08-20T08:29:59Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -193,7 +202,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3108,
+    "stars": 3109,
     "updated_at": "2026-08-20T07:28:23Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -202,18 +211,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29085,
+    "stars": 29086,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:17:29Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -266,7 +266,7 @@
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
     "stars": 168,
-    "updated_at": "2026-08-20T07:05:48Z",
+    "updated_at": "2026-08-20T08:29:50Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
@@ -445,7 +445,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13809,
+    "stars": 13810,
     "updated_at": "2026-08-20T04:31:08Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   }
