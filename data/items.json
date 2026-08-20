@@ -1,5 +1,50 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:50:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:50:02Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 168,
+    "updated_at": "2026-08-20T08:49:13Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-20T08:48:00Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:46:46Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
     "id": "AdrianDonohoe/5G_PCAP",
     "language": "Python",
@@ -18,21 +63,12 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:37:35Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
     "name": "RalfHermsen/x4-agent",
     "stars": 0,
-    "updated_at": "2026-08-20T08:35:23Z",
+    "updated_at": "2026-08-20T08:53:39Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
@@ -72,21 +108,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 168,
-    "updated_at": "2026-08-20T08:29:50Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-20T08:26:16Z",
+    "updated_at": "2026-08-20T08:52:19Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -135,15 +162,6 @@
     "url": "https://github.com/AgentEra/Agently"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:01:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API",
     "id": "yomei-o/kaggle_server_cpp",
     "language": "Python",
@@ -162,30 +180,12 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-20T07:48:12Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-20T07:47:48Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-20T08:40:01Z",
+    "updated_at": "2026-08-20T08:51:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {

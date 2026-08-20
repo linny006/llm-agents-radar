@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 08:45 UTC
+> ⏰ Last updated: 2026-08-20 08:54 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 0 | Python | 2026-08-20 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
-| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 3 | [cantbeblank96/qodercli-mcp](https://github.com/cantbeblank96/qodercli-mcp) | 0 | JavaScript | 2026-08-20 | MCP server that wraps qodercli (Qoder CLI) — delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE, |
-| 4 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-20 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 125 | HTML | 2026-08-20 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 7 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 8 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 9 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 168 | JavaScript | 2026-08-20 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 10 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-20 | A productive AI coworker that learns, self-improves, and ships work. |
-| 11 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-20 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
-| 12 | [xyyojl/web-agent](https://github.com/xyyojl/web-agent) | 0 | Python | 2026-08-20 | 基于 LLM 的浏览器任务 Agent：七层架构 + 45 条自建分层 benchmark，每个结论都可从 artifact 独立复算 |
-| 13 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 166 | TypeScript | 2026-08-20 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 14 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-20 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
-| 15 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1637 | Python | 2026-08-20 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
-| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 17 | [yomei-o/kaggle_server_cpp](https://github.com/yomei-o/kaggle_server_cpp) | 0 | Python | 2026-08-20 | Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API |
-| 18 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 8 | Python | 2026-08-20 |  Where intent meets code — a local AI coding agent          |
-| 19 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 20 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-20 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [cantbeblank96/qodercli-mcp](https://github.com/cantbeblank96/qodercli-mcp) | 0 | JavaScript | 2026-08-20 | MCP server that wraps qodercli (Qoder CLI) — delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE, |
+| 3 | [HaD0Yun/CozyClay](https://github.com/HaD0Yun/CozyClay) | 168 | JavaScript | 2026-08-20 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 4 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-20 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 5 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-20 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 6 | [AdrianDonohoe/5G_PCAP](https://github.com/AdrianDonohoe/5G_PCAP) | 0 | Python | 2026-08-20 | 5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute |
+| 7 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 6 | Python | 2026-08-20 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 8 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-08-20 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-20 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 10 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 125 | HTML | 2026-08-20 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 11 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-20 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-20 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 13 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-20 | A productive AI coworker that learns, self-improves, and ships work. |
+| 14 | [SashaEee/auditLens](https://github.com/SashaEee/auditLens) | 2 | Python | 2026-08-20 | Deep-research LLM agent + RAG platform for internal bank-product audit — cited reports, PDF export, pgvector |
+| 15 | [xyyojl/web-agent](https://github.com/xyyojl/web-agent) | 0 | Python | 2026-08-20 | 基于 LLM 的浏览器任务 Agent：七层架构 + 45 条自建分层 benchmark，每个结论都可从 artifact 独立复算 |
+| 16 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 166 | TypeScript | 2026-08-20 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 17 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-20 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
+| 18 | [AgentEra/Agently](https://github.com/AgentEra/Agently) | 1637 | Python | 2026-08-20 | [GenAI Application Development Framework]  🚀 Build GenAI application quick and easy 💬 Easy to interact with GenAI agent  |
+| 19 | [yomei-o/kaggle_server_cpp](https://github.com/yomei-o/kaggle_server_cpp) | 0 | Python | 2026-08-20 | Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API |
+| 20 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 8 | Python | 2026-08-20 |  Where intent meets code — a local AI coding agent          |
 | 21 | [gptme/gptme](https://github.com/gptme/gptme) | 4390 | Python | 2026-08-20 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 22 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5766 | Python | 2026-08-20 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 23 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5680 | Python | 2026-08-20 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
