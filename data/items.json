@@ -1,5 +1,50 @@
 [
   {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "stars": 34,
+    "updated_at": "2026-08-20T05:20:02Z",
+    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 161,
+    "updated_at": "2026-08-20T05:19:22Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
+    "id": "bigduu/Lotus",
+    "language": "TypeScript",
+    "name": "bigduu/Lotus",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:18:26Z",
+    "url": "https://github.com/bigduu/Lotus"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:17:38Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T05:16:39Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:04:02Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "stars": 34,
-    "updated_at": "2026-08-20T05:03:29Z",
-    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
   },
   {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
@@ -63,15 +99,6 @@
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T04:49:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -88,15 +115,6 @@
     "stars": 54,
     "updated_at": "2026-08-20T04:47:28Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:45:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -131,7 +149,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-20T05:02:07Z",
+    "updated_at": "2026-08-20T05:20:40Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -175,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29079,
+    "stars": 29080,
     "updated_at": "2026-08-20T04:26:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -194,7 +212,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-08-20T04:16:51Z",
+    "updated_at": "2026-08-20T05:21:11Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:26:18Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:23:10Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 9,
-    "updated_at": "2026-08-20T03:23:04Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
