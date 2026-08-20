@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-20T16:14:01Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-20T16:03:46Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:57:17Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
@@ -18,13 +45,13 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-20T15:55:55Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 104,
+    "updated_at": "2026-08-20T16:14:18Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -67,7 +94,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 154,
+    "stars": 156,
     "updated_at": "2026-08-20T15:45:45Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -77,17 +104,8 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-20T15:45:35Z",
+    "updated_at": "2026-08-20T16:14:23Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 104,
-    "updated_at": "2026-08-20T15:51:03Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -133,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T15:39:10Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-20T15:59:37Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4391,
-    "updated_at": "2026-08-20T15:44:40Z",
+    "updated_at": "2026-08-20T16:14:38Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-20T12:34:44Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 2,
-    "updated_at": "2026-08-20T12:34:35Z",
-    "url": "https://github.com/hay-chat/hay-core"
   }
 ]
