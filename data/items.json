@@ -1,5 +1,23 @@
 [
   {
+    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
+    "id": "oxidizable-malinois605/bridge-suite-mcp",
+    "language": "TypeScript",
+    "name": "oxidizable-malinois605/bridge-suite-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:29:18Z",
+    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:29:10Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -7,6 +25,24 @@
     "stars": 125,
     "updated_at": "2026-08-20T10:27:32Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-20T10:26:49Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:26:39Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
   },
   {
     "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
@@ -70,15 +106,6 @@
     "stars": 30,
     "updated_at": "2026-08-20T10:20:08Z",
     "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:18:02Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
     "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-20T09:43:43Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-20T10:26:49Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u6d4f\u89c8\u5668\u4efb\u52a1 Agent\uff1a\u4e03\u5c42\u67b6\u6784 + 45 \u6761\u81ea\u5efa\u5206\u5c42 benchmark\uff0c\u6bcf\u4e2a\u7ed3\u8bba\u90fd\u53ef\u4ece artifact \u72ec\u7acb\u590d\u7b97",
-    "id": "xyyojl/web-agent",
-    "language": "Python",
-    "name": "xyyojl/web-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:04:54Z",
-    "url": "https://github.com/xyyojl/web-agent"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-20T08:03:41Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   }
 ]
