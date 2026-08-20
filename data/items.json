@@ -1,11 +1,65 @@
 [
   {
+    "description": "Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API",
+    "id": "yomei-o/kaggle_server_cpp",
+    "language": "Python",
+    "name": "yomei-o/kaggle_server_cpp",
+    "stars": 0,
+    "updated_at": "2026-08-20T07:57:52Z",
+    "url": "https://github.com/yomei-o/kaggle_server_cpp"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T07:56:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-20T07:54:41Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-20T07:50:19Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-20T07:48:12Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-20T07:47:48Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-20T07:45:09Z",
+    "updated_at": "2026-08-20T07:59:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-20T07:41:08Z",
+    "updated_at": "2026-08-20T07:58:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -85,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29083,
+    "stars": 29084,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T07:17:29Z",
     "url": "https://github.com/cantbeblank96/qodercli-mcp"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-20T07:14:45Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -144,15 +189,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:11:37Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
     "id": "AbuZar-Ansarii/PrivatePixelPrompt",
     "language": "HTML",
@@ -175,7 +211,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 167,
+    "stars": 168,
     "updated_at": "2026-08-20T07:05:48Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -214,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T07:01:29Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-20T06:55:33Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-20T06:55:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-20T06:26:56Z",
+    "updated_at": "2026-08-20T07:59:34Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 30,
     "updated_at": "2026-08-20T05:59:13Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-20T07:43:17Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
@@ -400,7 +409,7 @@
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
     "name": "Anil-matcha/awesome-dsh-plugin",
-    "stars": 961,
+    "stars": 962,
     "updated_at": "2026-08-20T04:53:08Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-20T04:21:43Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-20T05:43:23Z",
-    "url": "https://github.com/aviskaar/zorp"
   }
 ]
