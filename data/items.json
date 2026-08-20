@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "Lean-Prover/lean-prover",
     "stars": 0,
-    "updated_at": "2026-08-20T11:49:50Z",
+    "updated_at": "2026-08-20T11:59:11Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T11:58:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 142,
+    "updated_at": "2026-08-20T11:57:22Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-20T11:53:58Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-20T11:51:54Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
+    "id": "ratiolin/agent-skills",
+    "language": "\u2014",
+    "name": "ratiolin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T11:50:55Z",
+    "url": "https://github.com/ratiolin/agent-skills"
   },
   {
     "description": "Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents \u2014 resumable memory across ses",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Averyyy/pi-dsh-minimal"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T11:34:59Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -61,6 +97,15 @@
     "stars": 123,
     "updated_at": "2026-08-20T11:33:13Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5680,
+    "updated_at": "2026-08-20T11:33:02Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -90,15 +135,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 142,
-    "updated_at": "2026-08-20T11:30:58Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -108,15 +144,6 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-20T11:28:36Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 6958,
     "updated_at": "2026-08-20T11:28:26Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
-    "id": "ratiolin/agent-skills",
-    "language": "\u2014",
-    "name": "ratiolin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-08-20T11:26:17Z",
-    "url": "https://github.com/ratiolin/agent-skills"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-20T11:18:00Z",
+    "updated_at": "2026-08-20T11:54:53Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T10:32:55Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-20T10:31:44Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -439,14 +448,5 @@
     "stars": 756,
     "updated_at": "2026-08-20T10:18:43Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-20T10:16:46Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
