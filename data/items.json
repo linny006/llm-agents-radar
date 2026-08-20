@@ -1,5 +1,23 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5761,
+    "updated_at": "2026-08-20T01:19:55Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T01:19:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 6,
     "updated_at": "2026-08-20T01:14:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-20T01:19:38Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-20T01:10:16Z",
+    "updated_at": "2026-08-20T01:16:55Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -49,7 +76,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 740,
+    "stars": 742,
     "updated_at": "2026-08-20T01:09:39Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -106,15 +133,6 @@
     "stars": 77,
     "updated_at": "2026-08-20T00:48:31Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-20T01:14:44Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -178,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-08-19T23:58:56Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:57:22Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T18:25:46Z",
     "url": "https://github.com/NadeemAhmad3/ai-agent-control-plane"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "JavaScript",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 5,
-    "updated_at": "2026-08-19T18:20:40Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
