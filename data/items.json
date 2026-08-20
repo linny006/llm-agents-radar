@@ -1,5 +1,50 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-20T09:31:53Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:29:27Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-20T09:27:14Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:26:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
+    "id": "Huoyanlifusu/rkcockpit",
+    "language": "Python",
+    "name": "Huoyanlifusu/rkcockpit",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:23:47Z",
+    "url": "https://github.com/Huoyanlifusu/rkcockpit"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -99,15 +144,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:05:44Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
     "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
     "id": "AbuZar-Ansarii/PrivatePixelPrompt",
     "language": "HTML",
@@ -121,8 +157,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 752,
-    "updated_at": "2026-08-20T08:58:12Z",
+    "stars": 753,
+    "updated_at": "2026-08-20T09:31:16Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -162,30 +198,12 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-20T08:34:58Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:29:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-20T09:13:33Z",
+    "updated_at": "2026-08-20T09:30:45Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -292,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29090,
+    "stars": 29092,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -324,15 +342,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Zero-dependency web ops console for Rockchip (RK3588/RK3568/RV1126) devices over SSH/ADB/local \u2014 with a built-in LLM age",
-    "id": "Huoyanlifusu/rkcockpit",
-    "language": "Python",
-    "name": "Huoyanlifusu/rkcockpit",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:23:47Z",
-    "url": "https://github.com/Huoyanlifusu/rkcockpit"
-  },
-  {
     "description": "\u300e\uc5d0\uc774\uc804\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc124\uacc4\uc758 \uacb0\uc815 \uae30\uc900\u300f \ucc38\uc870 \uad6c\ud604. base/\ub294 1\uad8c \u300e\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\u300f \ucd5c\uc885 \ucf54\ub4dc(ch25)\uc758 \uc0ac\ubcf8\uc774\uace0, plus/\ub294 2\uad8c\uc774 \ub354\ud558\ub294 \uadf8\ub798\ud504 \ub7f0\ud0c0\uc784\uacfc \ud3c9\uac00 \ud558\ub124\uc2a4\ub2e4",
     "id": "kangwoo/agent-engineering",
     "language": "Java",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-20T07:06:08Z",
+    "updated_at": "2026-08-20T09:26:50Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:44:14Z",
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
-  },
-  {
-    "description": "Local-first knowledge base \u2014 Markdown files are the only source of truth. Compiles sources into a wiki: native graph, va",
-    "id": "rhythm1995/open-llm-wiki",
-    "language": "TypeScript",
-    "name": "rhythm1995/open-llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:42:04Z",
-    "url": "https://github.com/rhythm1995/open-llm-wiki"
   }
 ]
