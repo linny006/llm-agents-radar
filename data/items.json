@@ -1,5 +1,14 @@
 [
   {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 5,
+    "updated_at": "2026-08-20T22:51:26Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,21 +36,12 @@
     "url": "https://github.com/WhitehatD/hesperus"
   },
   {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "JavaScript",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 5,
-    "updated_at": "2026-08-20T22:38:22Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-20T22:36:05Z",
+    "updated_at": "2026-08-20T22:46:53Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 7,
-    "updated_at": "2026-08-20T20:41:22Z",
+    "updated_at": "2026-08-20T22:50:09Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -266,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-20T22:14:27Z",
+    "updated_at": "2026-08-20T22:47:20Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
