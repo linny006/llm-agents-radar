@@ -1,12 +1,84 @@
 [
   {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:41:05Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 6,
+    "updated_at": "2026-08-20T08:42:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:37:35Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:35:23Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:35:00Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-20T08:34:58Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-20T08:27:49Z",
+    "updated_at": "2026-08-20T08:34:13Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:29:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 168,
+    "updated_at": "2026-08-20T08:29:50Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -18,24 +90,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:30:18Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:24:51Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
-  },
-  {
     "description": "Deep-research LLM agent + RAG platform for internal bank-product audit \u2014 cited reports, PDF export, pgvector",
     "id": "SashaEee/auditLens",
     "language": "Python",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T08:19:57Z",
     "url": "https://github.com/SashaEee/auditLens"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 6,
-    "updated_at": "2026-08-20T08:29:29Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u57fa\u4e8e LLM \u7684\u6d4f\u89c8\u5668\u4efb\u52a1 Agent\uff1a\u4e03\u5c42\u67b6\u6784 + 45 \u6761\u81ea\u5efa\u5206\u5c42 benchmark\uff0c\u6bcf\u4e2a\u7ed3\u8bba\u90fd\u53ef\u4ece artifact \u72ec\u7acb\u590d\u7b97",
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 166,
-    "updated_at": "2026-08-20T08:03:43Z",
+    "updated_at": "2026-08-20T08:37:09Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/yomei-o/kaggle_server_cpp"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:56:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -149,17 +185,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4390,
-    "updated_at": "2026-08-20T07:59:26Z",
+    "updated_at": "2026-08-20T08:40:01Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-20T07:39:37Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -169,15 +196,6 @@
     "stars": 5766,
     "updated_at": "2026-08-20T07:38:27Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:29:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -211,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29086,
+    "stars": 29087,
     "updated_at": "2026-08-20T07:23:57Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T07:06:53Z",
     "url": "https://github.com/Huoyanlifusu/rkcockpit"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 168,
-    "updated_at": "2026-08-20T08:29:50Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
   },
   {
     "description": "\u300e\uc5d0\uc774\uc804\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc124\uacc4\uc758 \uacb0\uc815 \uae30\uc900\u300f \ucc38\uc870 \uad6c\ud604. base/\ub294 1\uad8c \u300e\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\u300f \ucd5c\uc885 \ucf54\ub4dc(ch25)\uc758 \uc0ac\ubcf8\uc774\uace0, plus/\ub294 2\uad8c\uc774 \ub354\ud558\ub294 \uadf8\ub798\ud504 \ub7f0\ud0c0\uc784\uacfc \ud3c9\uac00 \ud558\ub124\uc2a4\ub2e4",
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-20T08:05:17Z",
+    "updated_at": "2026-08-20T08:37:25Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 841,
     "updated_at": "2026-08-20T04:37:15Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13810,
-    "updated_at": "2026-08-20T04:31:08Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
