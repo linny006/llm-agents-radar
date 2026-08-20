@@ -1,57 +1,75 @@
 [
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
+    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
+    "id": "xhqing/ProductStrategistAgent",
+    "language": "\u2014",
+    "name": "xhqing/ProductStrategistAgent",
     "stars": 0,
-    "updated_at": "2026-08-20T14:27:12Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 13816,
-    "updated_at": "2026-08-20T14:20:47Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
+    "updated_at": "2026-08-20T14:44:12Z",
+    "url": "https://github.com/xhqing/ProductStrategistAgent"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 148,
-    "updated_at": "2026-08-20T14:18:14Z",
+    "stars": 150,
+    "updated_at": "2026-08-20T14:42:46Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
-    "id": "xhqing/ProductStrategistAgent",
-    "language": "\u2014",
-    "name": "xhqing/ProductStrategistAgent",
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
     "stars": 0,
-    "updated_at": "2026-08-20T14:17:38Z",
-    "url": "https://github.com/xhqing/ProductStrategistAgent"
+    "updated_at": "2026-08-20T14:40:58Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:38:52Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
+    "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5767,
-    "updated_at": "2026-08-20T14:23:50Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
+    "name": "HumanStudy-Hub/HumanStudy-Bench",
+    "stars": 6,
+    "updated_at": "2026-08-20T14:36:45Z",
+    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-20T14:15:40Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6958,
+    "updated_at": "2026-08-20T14:31:10Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:29:38Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:29:01Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -68,8 +86,35 @@
     "language": "Python",
     "name": "sohaibsohail98/mcp-context-inspector",
     "stars": 2,
-    "updated_at": "2026-08-20T14:26:34Z",
+    "updated_at": "2026-08-20T14:42:46Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5767,
+    "updated_at": "2026-08-20T14:23:50Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13816,
+    "updated_at": "2026-08-20T14:20:47Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-20T14:15:40Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
@@ -90,31 +135,13 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:05:23Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 167,
-    "updated_at": "2026-08-20T14:04:28Z",
+    "updated_at": "2026-08-20T14:36:16Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6958,
-    "updated_at": "2026-08-20T14:17:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -140,17 +167,8 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-20T13:54:40Z",
+    "updated_at": "2026-08-20T14:33:48Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:29:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -158,7 +176,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-20T13:53:53Z",
+    "updated_at": "2026-08-20T14:41:19Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -185,7 +203,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 125,
-    "updated_at": "2026-08-20T13:43:32Z",
+    "updated_at": "2026-08-20T14:33:47Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -198,21 +216,12 @@
     "url": "https://github.com/Mother-AI-OS/mother"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-20T14:29:01Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-20T13:40:12Z",
+    "updated_at": "2026-08-20T14:36:14Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -257,7 +266,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-20T14:21:02Z",
+    "updated_at": "2026-08-20T14:41:02Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -266,7 +275,7 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 123,
-    "updated_at": "2026-08-20T13:00:44Z",
+    "updated_at": "2026-08-20T14:41:28Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3112,
-    "updated_at": "2026-08-20T14:19:54Z",
+    "updated_at": "2026-08-20T14:31:36Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 168,
     "updated_at": "2026-08-20T14:04:37Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:47:35Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
   }
 ]
