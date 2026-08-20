@@ -1,5 +1,59 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T16:55:21Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "An AI-powered autonomous penetration testing platform that performs reconnaissance, vulnerability assessment, exploitati",
+    "id": "ThorJS24/ai-autonomous-pentest",
+    "language": "Python",
+    "name": "ThorJS24/ai-autonomous-pentest",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:55:20Z",
+    "url": "https://github.com/ThorJS24/ai-autonomous-pentest"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:55:05Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:52:27Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u9762\u5411\u4e1a\u52a1\u7ec4\u7684\u81ea\u6258\u7ba1 SRE \u7f16\u6392\u5c42\uff1a\u4e32\u8054 MCP\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u3001ITSM\uff0c\u4e0e\u5e73\u53f0 Agent \u5e76\u5b58 \u00b7 \u5185\u7f51\u90e8\u7f72 \u00b7 \u8584\u7f16\u6392 \u00b7 on-call",
+    "id": "shanananana/deepticket",
+    "language": "Python",
+    "name": "shanananana/deepticket",
+    "stars": 3,
+    "updated_at": "2026-08-20T16:49:06Z",
+    "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T16:44:25Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
@@ -40,7 +94,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 846,
+    "stars": 848,
     "updated_at": "2026-08-20T16:35:03Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -108,24 +162,6 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T16:16:19Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T16:14:23Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -185,17 +221,8 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 157,
-    "updated_at": "2026-08-20T15:45:45Z",
+    "updated_at": "2026-08-20T16:51:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T16:44:25Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -315,6 +342,15 @@
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   },
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 168,
+    "updated_at": "2026-08-20T14:36:16Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T14:13:07Z",
     "url": "https://github.com/PunctumActus/cks-mcp"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 167,
-    "updated_at": "2026-08-20T14:36:16Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T13:24:19Z",
     "url": "https://github.com/yomei-o/kaggle_server_cpp"
-  },
-  {
-    "description": "Pi adapter for official DeepSeek Harness minimal mode. V4 Pro thinks We need\u2026 / I need\u2026, not Let me\u2026",
-    "id": "Averyyy/pi-dsh-minimal",
-    "language": "TypeScript",
-    "name": "Averyyy/pi-dsh-minimal",
-    "stars": 32,
-    "updated_at": "2026-08-20T13:03:00Z",
-    "url": "https://github.com/Averyyy/pi-dsh-minimal"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29101,
-    "updated_at": "2026-08-20T12:56:28Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-20T12:51:45Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
