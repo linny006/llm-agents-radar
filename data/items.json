@@ -1,5 +1,95 @@
 [
   {
+    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
+    "id": "kasparovabi/dsh-studio",
+    "language": "Swift",
+    "name": "kasparovabi/dsh-studio",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:59:42Z",
+    "url": "https://github.com/kasparovabi/dsh-studio"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:49:58Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 7,
+    "updated_at": "2026-08-20T17:49:33Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:49:02Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 2,
+    "updated_at": "2026-08-20T17:47:56Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:46:53Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:46:09Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:42:24Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:41:28Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
+  },
+  {
+    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
+    "id": "clashroy5384/ai-papers-hub",
+    "language": "\u2014",
+    "name": "clashroy5384/ai-papers-hub",
+    "stars": 0,
+    "updated_at": "2026-08-20T17:40:43Z",
+    "url": "https://github.com/clashroy5384/ai-papers-hub"
+  },
+  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -122,7 +212,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-20T17:28:16Z",
+    "updated_at": "2026-08-20T17:57:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -205,15 +295,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T17:18:26Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:18:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T16:20:55Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 104,
-    "updated_at": "2026-08-20T16:20:08Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-20T16:14:01Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-20T17:12:12Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 7,
-    "updated_at": "2026-08-20T15:50:53Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:48:16Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-20T15:42:56Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-20T15:42:43Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
-    "id": "sergezuber/FABULA-LLM-5",
-    "language": "TypeScript",
-    "name": "sergezuber/FABULA-LLM-5",
-    "stars": 83,
-    "updated_at": "2026-08-20T15:38:22Z",
-    "url": "https://github.com/sergezuber/FABULA-LLM-5"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:42:24Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   }
 ]
