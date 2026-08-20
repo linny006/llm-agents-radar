@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 13:30 UTC
+> ⏰ Last updated: 2026-08-20 13:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,10 +42,10 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Running-hue/codeflow-agent](https://github.com/Running-hue/codeflow-agent) | 0 | — | 2026-08-20 | A production-oriented Coding Agent workflow built with DeepAgents and LangGraph. |
-| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 144 | Python | 2026-08-20 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 3 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-20 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 4 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-20 | The self-improving SRE agent |
+| 1 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-20 | The self-improving SRE agent |
+| 2 | [Running-hue/codeflow-agent](https://github.com/Running-hue/codeflow-agent) | 0 | — | 2026-08-20 | A production-oriented Coding Agent workflow built with DeepAgents and LangGraph. |
+| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 144 | Python | 2026-08-20 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 4 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-20 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
 | 5 | [yomei-o/kaggle_server_cpp](https://github.com/yomei-o/kaggle_server_cpp) | 0 | Python | 2026-08-20 | Use Kaggle's free GPUs (T4x2 / P100) from Claude Code or curl via a local HTTP API |
 | 6 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 757 | Go | 2026-08-20 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6958 | Python | 2026-08-20 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
