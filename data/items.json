@@ -1,11 +1,47 @@
 [
   {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:54:43Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:48:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "HaD0Yun/CozyClay",
+    "language": "JavaScript",
+    "name": "HaD0Yun/CozyClay",
+    "stars": 168,
+    "updated_at": "2026-08-20T10:56:04Z",
+    "url": "https://github.com/HaD0Yun/CozyClay"
+  },
+  {
+    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
+    "id": "cantbeblank96/qodercli-mcp",
+    "language": "JavaScript",
+    "name": "cantbeblank96/qodercli-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:47:35Z",
+    "url": "https://github.com/cantbeblank96/qodercli-mcp"
+  },
+  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 209,
-    "updated_at": "2026-08-20T10:41:16Z",
+    "updated_at": "2026-08-20T10:55:29Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-20T10:31:07Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 2,
-    "updated_at": "2026-08-20T10:30:19Z",
-    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
@@ -270,24 +297,6 @@
     "url": "https://github.com/mohahasan/ios-agentic-skills"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:14:05Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
-    "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
-    "stars": 168,
-    "updated_at": "2026-08-20T10:23:41Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
-  },
-  {
     "description": "The operational interface between LLMs and verifiable knowledge \u2014 MCP tools, autonomous agents, CRDT replication, and a ",
     "id": "PunctumActus/cks-mcp",
     "language": "Python",
@@ -349,15 +358,6 @@
     "stars": 166,
     "updated_at": "2026-08-20T10:36:27Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "MCP server that wraps qodercli (Qoder CLI) \u2014 delegate coding tasks to local Qoder agents from any MCP client (Qoder IDE,",
-    "id": "cantbeblank96/qodercli-mcp",
-    "language": "JavaScript",
-    "name": "cantbeblank96/qodercli-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:06:52Z",
-    "url": "https://github.com/cantbeblank96/qodercli-mcp"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -437,7 +437,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3110,
-    "updated_at": "2026-08-20T09:58:32Z",
+    "updated_at": "2026-08-20T10:51:50Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
