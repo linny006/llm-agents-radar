@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "AdrianDonohoe/5G_PCAP",
     "stars": 0,
-    "updated_at": "2026-08-20T15:13:33Z",
+    "updated_at": "2026-08-20T15:21:41Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
   },
   {
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 153,
-    "updated_at": "2026-08-20T15:11:08Z",
+    "updated_at": "2026-08-20T15:27:39Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4391,
-    "updated_at": "2026-08-20T15:09:02Z",
+    "updated_at": "2026-08-20T15:17:35Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:08:59Z",
     "url": "https://github.com/xhqing/ProductProducerAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-20T15:08:02Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -49,9 +58,18 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6958,
+    "stars": 6959,
     "updated_at": "2026-08-20T15:05:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:05:11Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
@@ -61,6 +79,15 @@
     "stars": 4,
     "updated_at": "2026-08-20T15:02:44Z",
     "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 104,
+    "updated_at": "2026-08-20T14:57:49Z",
+    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "\u9009\u54c1\u7b56\u7565\u5e08 Scout\uff5c\u7814\u5224\u5165\u53e3\uff0c\u4ea7\u51fa\u673a\u4f1a\u7814\u5224\u62a5\u544a\u3002Product Strategist \u2014 research & strategy entry of a digital-product pipeline.",
@@ -135,15 +162,6 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:05:11Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
     "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-08-20T14:36:45Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-20T15:08:02Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -185,7 +194,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-20T14:29:01Z",
+    "updated_at": "2026-08-20T15:26:58Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 798,
-    "updated_at": "2026-08-20T14:41:02Z",
+    "updated_at": "2026-08-20T15:29:05Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -328,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29098,
+    "stars": 29099,
     "updated_at": "2026-08-20T12:56:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T11:47:11Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-20T11:32:58Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
