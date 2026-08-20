@@ -1,12 +1,48 @@
 [
   {
+    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
+    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "language": "HTML",
+    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
+    "stars": 34,
+    "updated_at": "2026-08-20T06:12:16Z",
+    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 6,
-    "updated_at": "2026-08-20T05:57:14Z",
+    "updated_at": "2026-08-20T06:14:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-20T06:10:10Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 4,
+    "updated_at": "2026-08-20T06:05:57Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 164,
+    "updated_at": "2026-08-20T06:04:07Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-20T05:56:05Z",
+    "updated_at": "2026-08-20T06:12:47Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -63,15 +99,6 @@
     "url": "https://github.com/lostinheaven-knt/chatbi-harness"
   },
   {
-    "description": "PortableLM \u2014 Zero-dependency, air-gapped local AI that runs entirely from a USB drive. Chat, generate images, and synthe",
-    "id": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "language": "HTML",
-    "name": "AbuZar-Ansarii/PrivatePixelPrompt",
-    "stars": 34,
-    "updated_at": "2026-08-20T05:43:44Z",
-    "url": "https://github.com/AbuZar-Ansarii/PrivatePixelPrompt"
-  },
-  {
     "description": "Local-first knowledge base \u2014 Markdown files are the only source of truth. Compiles sources into a wiki: native graph, va",
     "id": "rhythm1995/open-llm-wiki",
     "language": "TypeScript",
@@ -85,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29081,
+    "stars": 29082,
     "updated_at": "2026-08-20T05:41:02Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -95,7 +122,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-20T05:38:33Z",
+    "updated_at": "2026-08-20T06:13:28Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-20T05:30:50Z",
+    "updated_at": "2026-08-20T06:02:06Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -166,7 +193,7 @@
     "id": "HaD0Yun/CozyClay",
     "language": "JavaScript",
     "name": "HaD0Yun/CozyClay",
-    "stars": 161,
+    "stars": 162,
     "updated_at": "2026-08-20T05:19:22Z",
     "url": "https://github.com/HaD0Yun/CozyClay"
   },
@@ -178,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T05:18:26Z",
     "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-20T05:12:45Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
@@ -202,7 +220,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2691,
+    "stars": 2692,
     "updated_at": "2026-08-20T04:58:45Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -225,15 +243,6 @@
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 163,
-    "updated_at": "2026-08-20T04:37:55Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -247,7 +256,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13808,
+    "stars": 13809,
     "updated_at": "2026-08-20T04:31:08Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -268,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-08-20T04:21:43Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-20T05:39:53Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
