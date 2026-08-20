@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 104,
-    "updated_at": "2026-08-20T15:42:46Z",
+    "updated_at": "2026-08-20T15:45:30Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 153,
-    "updated_at": "2026-08-20T15:44:18Z",
+    "updated_at": "2026-08-20T15:45:45Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
@@ -79,6 +79,15 @@
     "stars": 125,
     "updated_at": "2026-08-20T15:31:05Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-20T15:26:58Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
@@ -122,7 +131,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-20T15:06:24Z",
+    "updated_at": "2026-08-20T15:45:35Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-20T14:49:08Z",
+    "updated_at": "2026-08-20T15:45:45Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 5681,
     "updated_at": "2026-08-20T14:29:41Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-20T15:26:58Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
