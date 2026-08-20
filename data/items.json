@@ -1,5 +1,68 @@
 [
   {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-20T12:55:02Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 144,
+    "updated_at": "2026-08-20T12:52:59Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-20T12:52:13Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-20T12:51:45Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-20T12:56:30Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-20T12:47:14Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 125,
+    "updated_at": "2026-08-20T12:43:45Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
     "id": "Lean-Prover/lean-prover",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 6958,
     "updated_at": "2026-08-20T12:40:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 143,
-    "updated_at": "2026-08-20T12:37:48Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T12:33:12Z",
     "url": "https://github.com/ratiolin/agent-skills"
-  },
-  {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-20T12:27:07Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-20T12:23:40Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "The self-improving SRE agent",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3112,
-    "updated_at": "2026-08-20T12:38:40Z",
+    "updated_at": "2026-08-20T12:52:37Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T11:47:11Z",
     "url": "https://github.com/AndriiLavrekha/awesome-progress-tracker"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-20T11:34:18Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -229,8 +256,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29096,
-    "updated_at": "2026-08-20T11:32:35Z",
+    "stars": 29097,
+    "updated_at": "2026-08-20T12:56:28Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
@@ -239,7 +266,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-20T11:32:07Z",
+    "updated_at": "2026-08-20T12:59:54Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T11:24:07Z",
     "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 125,
-    "updated_at": "2026-08-20T12:43:45Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 209,
-    "updated_at": "2026-08-20T11:26:27Z",
+    "updated_at": "2026-08-20T13:00:11Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T11:19:55Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 798,
-    "updated_at": "2026-08-20T12:43:48Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T10:29:10Z",
     "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-08-20T10:28:48Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
