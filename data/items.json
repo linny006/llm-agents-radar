@@ -1,5 +1,23 @@
 [
   {
+    "description": "A local browser an agent can drive. Bundled ungoogled-chromium over CDP, pages compiled to a compact accessibility outli",
+    "id": "lukr54/phantom",
+    "language": "Rust",
+    "name": "lukr54/phantom",
+    "stars": 0,
+    "updated_at": "2026-08-20T18:58:47Z",
+    "url": "https://github.com/lukr54/phantom"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T18:53:30Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -52,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T18:36:09Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:53:30Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -266,7 +275,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-20T17:32:04Z",
+    "updated_at": "2026-08-20T18:57:02Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 850,
     "updated_at": "2026-08-20T16:35:03Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5682,
-    "updated_at": "2026-08-20T16:30:36Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
