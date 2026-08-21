@@ -1,5 +1,23 @@
 [
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 173,
+    "updated_at": "2026-08-21T05:21:58Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:18:53Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T04:58:13Z",
     "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:48:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-21T05:05:25Z",
+    "updated_at": "2026-08-21T05:18:03Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 18,
     "updated_at": "2026-08-21T04:05:35Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 173,
-    "updated_at": "2026-08-21T04:36:55Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "3-way payment settlement reconciliation: match payments to settlements to bank credits with exact/fuzzy/split passes, th",
@@ -284,7 +284,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5684,
-    "updated_at": "2026-08-21T03:33:16Z",
+    "updated_at": "2026-08-21T05:16:49Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
