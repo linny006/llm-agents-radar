@@ -1,5 +1,95 @@
 [
   {
+    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
+    "id": "Screwtopped-annapavlova802/SparkLabs",
+    "language": "C++",
+    "name": "Screwtopped-annapavlova802/SparkLabs",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:13:05Z",
+    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 8,
+    "updated_at": "2026-08-21T07:12:58Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
+    "id": "madhavnair2009-arch/ronin",
+    "language": "Python",
+    "name": "madhavnair2009-arch/ronin",
+    "stars": 0,
+    "updated_at": "2026-08-21T07:12:45Z",
+    "url": "https://github.com/madhavnair2009-arch/ronin"
+  },
+  {
+    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
+    "id": "mriazi1982/octopai",
+    "language": "Python",
+    "name": "mriazi1982/octopai",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:11:49Z",
+    "url": "https://github.com/mriazi1982/octopai"
+  },
+  {
+    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
+    "id": "mezoali100/exforum-auto-poster",
+    "language": "\u2014",
+    "name": "mezoali100/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:08:55Z",
+    "url": "https://github.com/mezoali100/exforum-auto-poster"
+  },
+  {
+    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
+    "id": "Bowotria/aethercore",
+    "language": "Go",
+    "name": "Bowotria/aethercore",
+    "stars": 2,
+    "updated_at": "2026-08-21T07:08:40Z",
+    "url": "https://github.com/Bowotria/aethercore"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 7,
+    "updated_at": "2026-08-21T07:06:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
+    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "language": "Python",
+    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
+    "stars": 2,
+    "updated_at": "2026-08-21T07:06:48Z",
+    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T07:03:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-21T07:03:25Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
     "id": "Danisxxx/comfyUI-LongLook",
     "language": "Python",
@@ -52,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T06:52:53Z",
     "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 7,
-    "updated_at": "2026-08-21T06:53:16Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
@@ -202,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29109,
+    "stars": 29110,
     "updated_at": "2026-08-21T06:28:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -212,7 +293,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-21T06:22:34Z",
+    "updated_at": "2026-08-21T07:14:56Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 173,
     "updated_at": "2026-08-21T06:40:09Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T06:04:31Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
@@ -319,18 +391,9 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3114,
+    "stars": 3115,
     "updated_at": "2026-08-21T04:59:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Bo cham diem AI Agent dung Skill/Tool cho AutoCAD - Civil 3D - Revit BIM cau. 48 case, 6 hard gate, 197 test cho chinh b",
-    "id": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "language": "Python",
-    "name": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:58:13Z",
-    "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -385,68 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-21T04:17:26Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-21T04:14:25Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 18,
-    "updated_at": "2026-08-21T04:05:35Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "3-way payment settlement reconciliation: match payments to settlements to bank credits with exact/fuzzy/split passes, th",
-    "id": "Annieeeee11/SettleSure",
-    "language": "TypeScript",
-    "name": "Annieeeee11/SettleSure",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:02:39Z",
-    "url": "https://github.com/Annieeeee11/SettleSure"
-  },
-  {
-    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
-    "id": "unohee/kis-agent",
-    "language": "Python",
-    "name": "unohee/kis-agent",
-    "stars": 50,
-    "updated_at": "2026-08-21T04:00:03Z",
-    "url": "https://github.com/unohee/kis-agent"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-21T03:55:59Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:07:29Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-21T03:43:24Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
   }
 ]
