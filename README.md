@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 16:22 UTC
+> ⏰ Last updated: 2026-08-21 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 2 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-21 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 3 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 202 | Python | 2026-08-21 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [ikashibadze-svg/StableAI-L4-No-Drift-Framework](https://github.com/ikashibadze-svg/StableAI-L4-No-Drift-Framework) | 0 | Python | 2026-08-21 | StableAI L4 v1.0 delivers 100% No-Drift: the same input produces the same canonical output with the same hash across rep |
+| 2 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 202 | Python | 2026-08-21 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 3 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-21 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-21 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 5 | [kriss-b/llm-iso27001](https://github.com/kriss-b/llm-iso27001) | 30 | — | 2026-08-21 | ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents |
-| 6 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-21 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 7 | [ikashibadze-svg/StableAI-L4-No-Drift-Framework](https://github.com/ikashibadze-svg/StableAI-L4-No-Drift-Framework) | 0 | Python | 2026-08-21 | StableAI L4 v1.0 delivers 100% No-Drift: the same input produces the same canonical output with the same hash across rep |
-| 8 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6972 | Python | 2026-08-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 9 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-21 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 10 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-21 | A productive AI coworker that learns, self-improves, and ships work. |
-| 11 | [helixml/helix](https://github.com/helixml/helix) | 799 | Go | 2026-08-21 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 12 | [sohaibsohail98/mcp-context-inspector](https://github.com/sohaibsohail98/mcp-context-inspector) | 2 | Python | 2026-08-21 | Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove |
-| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 15 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-21 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 17 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-21 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-21 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 9 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6972 | Python | 2026-08-21 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 10 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-21 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 11 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-21 | A productive AI coworker that learns, self-improves, and ships work. |
+| 12 | [helixml/helix](https://github.com/helixml/helix) | 799 | Go | 2026-08-21 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 13 | [sohaibsohail98/mcp-context-inspector](https://github.com/sohaibsohail98/mcp-context-inspector) | 2 | Python | 2026-08-21 | Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove |
+| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-21 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 16 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-21 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
+| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-21 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 18 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 31 | Python | 2026-08-21 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 19 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-21 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
 | 20 | [shanananana/deepticket](https://github.com/shanananana/deepticket) | 3 | Python | 2026-08-21 | 面向业务组的自托管 SRE 编排层：串联 MCP、日志、配置、ITSM，与平台 Agent 并存 · 内网部署 · 薄编排 · on-call |
@@ -90,7 +90,7 @@ expired items removed — so you can rely on what you see being current.
 | 46 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 174 | Rust | 2026-08-21 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
 | 47 | [getauxo/auxo-app](https://github.com/getauxo/auxo-app) | 0 | JavaScript | 2026-08-21 | Auxo — 나를 기억하는 설치형 AI 에이전트 |
 | 48 | [expectedparrot/edsl](https://github.com/expectedparrot/edsl) | 488 | Python | 2026-08-21 | Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w |
-| 49 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29161 | Python | 2026-08-21 | Build and run agents you can see, understand and trust. |
+| 49 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29162 | Python | 2026-08-21 | Build and run agents you can see, understand and trust. |
 | 50 | [general-intelligence-systems/brute](https://github.com/general-intelligence-systems/brute) | 4 | Ruby | 2026-08-21 | Build your own agent with ruby. |
 <!-- TRACKER_TABLE_END -->
 
