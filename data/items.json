@@ -1,11 +1,29 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:52:35Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:49:55Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-21T02:37:52Z",
+    "updated_at": "2026-08-21T02:47:12Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
@@ -86,7 +104,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 172,
-    "updated_at": "2026-08-21T02:08:53Z",
+    "updated_at": "2026-08-21T02:51:31Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -112,7 +130,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 762,
+    "stars": 763,
     "updated_at": "2026-08-21T02:06:26Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-21T02:09:25Z",
+    "updated_at": "2026-08-21T02:55:40Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T01:52:46Z",
     "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T01:44:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -175,7 +184,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 179,
+    "stars": 180,
     "updated_at": "2026-08-21T01:39:19Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -205,15 +214,6 @@
     "stars": 14,
     "updated_at": "2026-08-21T01:17:30Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-21T02:42:47Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
