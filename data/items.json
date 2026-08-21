@@ -1,5 +1,41 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T08:49:40Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T08:49:00Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-21T08:48:25Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 174,
+    "updated_at": "2026-08-21T08:42:08Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -86,7 +122,7 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-21T08:15:44Z",
+    "updated_at": "2026-08-21T08:54:45Z",
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
@@ -108,15 +144,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 173,
-    "updated_at": "2026-08-21T08:42:08Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -124,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T08:02:46Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T07:59:17Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T07:50:37Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T07:49:33Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -203,7 +203,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T08:34:43Z",
+    "updated_at": "2026-08-21T08:51:01Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5684,
-    "updated_at": "2026-08-21T08:42:10Z",
+    "updated_at": "2026-08-21T08:53:06Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -355,7 +355,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 773,
+    "stars": 774,
     "updated_at": "2026-08-21T07:08:10Z",
     "url": "https://github.com/ongridio/ongrid"
   },
