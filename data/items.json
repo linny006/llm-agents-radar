@@ -1,5 +1,23 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29108,
+    "updated_at": "2026-08-21T04:58:57Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Bo cham diem AI Agent dung Skill/Tool cho AutoCAD - Civil 3D - Revit BIM cau. 48 case, 6 hard gate, 197 test cho chinh b",
+    "id": "phamduybill2005-creator/CH-M-I-M-AGENT",
+    "language": "Python",
+    "name": "phamduybill2005-creator/CH-M-I-M-AGENT",
+    "stars": 0,
+    "updated_at": "2026-08-21T04:58:13Z",
+    "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
+  },
+  {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
     "id": "Lean-Prover/lean-prover",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3112,
-    "updated_at": "2026-08-21T04:47:17Z",
+    "updated_at": "2026-08-21T04:59:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29108,
-    "updated_at": "2026-08-21T04:12:55Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -256,7 +265,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23664,
+    "stars": 23666,
     "updated_at": "2026-08-21T03:19:45Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-21T00:27:55Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Connect AI agents to IntelliJ IDEA with MCP for terminal commands, builds, IDE alerts, and project context",
-    "id": "oxidizable-malinois605/bridge-suite-mcp",
-    "language": "TypeScript",
-    "name": "oxidizable-malinois605/bridge-suite-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:26:05Z",
-    "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
   }
 ]
