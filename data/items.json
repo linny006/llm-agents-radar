@@ -1,5 +1,77 @@
 [
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 2,
+    "updated_at": "2026-08-21T13:56:16Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T13:53:52Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-21T13:52:33Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6969,
+    "updated_at": "2026-08-21T13:52:30Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-21T13:51:02Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:45:00Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-21T13:44:04Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-21T13:42:53Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-21T13:40:14Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T13:39:41Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-21T13:44:04Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -117,33 +171,6 @@
     "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6969,
-    "updated_at": "2026-08-21T13:04:52Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T12:59:59Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:58:53Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -160,15 +187,6 @@
     "stars": 54,
     "updated_at": "2026-08-21T13:15:49Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-21T13:42:53Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T13:11:50Z",
+    "updated_at": "2026-08-21T13:59:22Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -292,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29145,
+    "stars": 29146,
     "updated_at": "2026-08-21T11:42:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -304,24 +322,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T11:40:56Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:45:00Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-21T11:30:48Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -337,7 +337,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5773,
+    "stars": 5774,
     "updated_at": "2026-08-21T11:11:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
