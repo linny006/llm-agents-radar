@@ -1,5 +1,50 @@
 [
   {
+    "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
+    "id": "shining-b-02/ai-ftl-performance-verifier",
+    "language": "Python",
+    "name": "shining-b-02/ai-ftl-performance-verifier",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:00:03Z",
+    "url": "https://github.com/shining-b-02/ai-ftl-performance-verifier"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:56:17Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T09:51:32Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:50:01Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
+    "id": "kasparovabi/dsh-studio",
+    "language": "Swift",
+    "name": "kasparovabi/dsh-studio",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:45:41Z",
+    "url": "https://github.com/kasparovabi/dsh-studio"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -45,15 +90,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:33:00Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -81,30 +117,12 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
-    "id": "shining-b-02/ai-ftl-performance-verifier",
-    "language": "Python",
-    "name": "shining-b-02/ai-ftl-performance-verifier",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:22:02Z",
-    "url": "https://github.com/shining-b-02/ai-ftl-performance-verifier"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:21:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29119,
-    "updated_at": "2026-08-21T09:16:55Z",
+    "stars": 29122,
+    "updated_at": "2026-08-21T10:00:19Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T09:11:46Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:09:54Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "DSH \u5916\u7f6e\u72b6\u6001\u673a\u63d2\u4ef6 \u00b7 \u5e7b\u89c9\u6291\u5236\u5b88\u536b + \u8bc1\u636e\u80cc\u4e66\u9a8c\u8bc1 + \u4e0a\u4e0b\u6587\u7ecf\u6d4e \u00b7 Structured state machine for long-horizon autonomous agents",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-21T08:27:02Z",
+    "updated_at": "2026-08-21T09:56:43Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5684,
-    "updated_at": "2026-08-21T09:28:41Z",
+    "updated_at": "2026-08-21T09:48:17Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 774,
     "updated_at": "2026-08-21T07:08:10Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-08-21T07:06:48Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
   }
 ]
