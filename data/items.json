@@ -1,5 +1,59 @@
 [
   {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 2,
+    "updated_at": "2026-08-21T09:22:13Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:22:07Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
+    "id": "shining-b-02/ai-ftl-performance-verifier",
+    "language": "Python",
+    "name": "shining-b-02/ai-ftl-performance-verifier",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:22:02Z",
+    "url": "https://github.com/shining-b-02/ai-ftl-performance-verifier"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:21:24Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29119,
+    "updated_at": "2026-08-21T09:16:55Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 8,
+    "updated_at": "2026-08-21T09:15:37Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
     "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
     "id": "jonortega20/fantasybot",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T09:11:46Z",
     "url": "https://github.com/FeixueCode/miaoclaw-releases"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 8,
-    "updated_at": "2026-08-21T09:10:30Z",
-    "url": "https://github.com/Lion-1209/coderio"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -45,15 +90,6 @@
     "url": "https://github.com/HanneLEE/dsh-agent-state"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:02:39Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -61,15 +97,6 @@
     "stars": 190,
     "updated_at": "2026-08-21T09:01:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T08:49:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -185,7 +212,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 171,
-    "updated_at": "2026-08-21T08:07:00Z",
+    "updated_at": "2026-08-21T09:18:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T07:19:07Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29119,
-    "updated_at": "2026-08-21T07:18:08Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-21T06:57:49Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-21T06:52:53Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-21T06:50:58Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
