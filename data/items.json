@@ -1,12 +1,93 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-21T00:14:45Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
+    "id": "mohahasan/ios-agentic-skills",
+    "language": "JavaScript",
+    "name": "mohahasan/ios-agentic-skills",
+    "stars": 4,
+    "updated_at": "2026-08-21T00:14:15Z",
+    "url": "https://github.com/mohahasan/ios-agentic-skills"
+  },
+  {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
     "id": "WhitehatD/hesperus",
     "language": "C",
     "name": "WhitehatD/hesperus",
     "stars": 5,
-    "updated_at": "2026-08-21T00:00:02Z",
+    "updated_at": "2026-08-21T00:13:39Z",
     "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 243,
+    "updated_at": "2026-08-21T00:12:24Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-21T00:12:23Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 14,
+    "updated_at": "2026-08-21T00:10:14Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
+    "id": "Danisxxx/comfyUI-LongLook",
+    "language": "Python",
+    "name": "Danisxxx/comfyUI-LongLook",
+    "stars": 2,
+    "updated_at": "2026-08-21T00:09:42Z",
+    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-21T00:08:51Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-21T00:04:01Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-21T00:02:32Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   },
   {
     "description": "",
@@ -79,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T23:43:14Z",
     "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-20T23:35:14Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-20T23:52:25Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-20T23:58:43Z",
+    "updated_at": "2026-08-21T00:01:56Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-20T23:21:15Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Local-first knowledge base \u2014 Markdown files are the only source of truth. Compiles sources into a wiki: native graph, va",
-    "id": "rhythm1995/open-llm-wiki",
-    "language": "TypeScript",
-    "name": "rhythm1995/open-llm-wiki",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:45:18Z",
-    "url": "https://github.com/rhythm1995/open-llm-wiki"
-  },
-  {
-    "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
-    "id": "madhavnair2009-arch/ronin",
-    "language": "Python",
-    "name": "madhavnair2009-arch/ronin",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:36:18Z",
-    "url": "https://github.com/madhavnair2009-arch/ronin"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:33:33Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Framework and toolkits for building and evaluating collaborative agents that can work together with humans.",
-    "id": "SALT-NLP/collaborative-gym",
-    "language": "Python",
-    "name": "SALT-NLP/collaborative-gym",
-    "stars": 145,
-    "updated_at": "2026-08-20T19:21:47Z",
-    "url": "https://github.com/SALT-NLP/collaborative-gym"
-  },
-  {
-    "description": "A local browser an agent can drive. Bundled ungoogled-chromium over CDP, pages compiled to a compact accessibility outli",
-    "id": "lukr54/phantom",
-    "language": "Rust",
-    "name": "lukr54/phantom",
-    "stars": 0,
-    "updated_at": "2026-08-20T18:58:47Z",
-    "url": "https://github.com/lukr54/phantom"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 165,
-    "updated_at": "2026-08-20T18:41:36Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-08-20T18:33:14Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
   }
 ]
