@@ -1,5 +1,86 @@
 [
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 174,
+    "updated_at": "2026-08-21T10:11:30Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:11:29Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 1,
+    "updated_at": "2026-08-21T10:10:21Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 174,
+    "updated_at": "2026-08-21T10:10:03Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-21T10:12:30Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
+    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "language": "Python",
+    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
+    "stars": 7,
+    "updated_at": "2026-08-21T10:06:35Z",
+    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-21T10:05:28Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 171,
+    "updated_at": "2026-08-21T10:01:30Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29123,
+    "updated_at": "2026-08-21T10:00:19Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
     "id": "shining-b-02/ai-ftl-performance-verifier",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T09:51:32Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:50:01Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
@@ -99,15 +171,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
-    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "language": "Python",
-    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 7,
-    "updated_at": "2026-08-21T09:28:51Z",
-    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -115,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T09:22:13Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29122,
-    "updated_at": "2026-08-21T10:00:19Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -169,15 +223,6 @@
     "stars": 191,
     "updated_at": "2026-08-21T09:01:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 174,
-    "updated_at": "2026-08-21T08:42:08Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -243,24 +288,6 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 171,
-    "updated_at": "2026-08-21T09:18:06Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-21T08:02:46Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T09:43:59Z",
+    "updated_at": "2026-08-21T10:14:33Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T07:11:49Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-21T07:08:55Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-21T07:08:40Z",
-    "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 774,
-    "updated_at": "2026-08-21T07:08:10Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
