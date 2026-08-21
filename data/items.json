@@ -1,5 +1,50 @@
 [
   {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:30:04Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5685,
+    "updated_at": "2026-08-21T14:29:07Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:27:47Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:26:38Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6969,
+    "updated_at": "2026-08-21T14:18:24Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
     "id": "C-Rhapsody/gemini-connector",
     "language": "Go",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-21T14:10:11Z",
+    "updated_at": "2026-08-21T14:30:03Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6969,
-    "updated_at": "2026-08-21T13:52:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -139,7 +175,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 194,
+    "stars": 193,
     "updated_at": "2026-08-21T13:41:03Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -153,29 +189,11 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:39:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:29:52Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-21T13:23:42Z",
     "url": "https://github.com/ljchang/mecha"
   },
@@ -238,7 +256,7 @@
     "id": "mnemon-dev/mnemon",
     "language": "Go",
     "name": "mnemon-dev/mnemon",
-    "stars": 501,
+    "stars": 502,
     "updated_at": "2026-08-21T12:31:19Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T14:10:53Z",
+    "updated_at": "2026-08-21T14:22:52Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5685,
-    "updated_at": "2026-08-21T10:59:22Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T10:25:26Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 775,
-    "updated_at": "2026-08-21T10:22:33Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
