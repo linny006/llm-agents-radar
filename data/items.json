@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
+    "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
+    "id": "seong-eun822/wafer-yield-dashboard",
+    "language": "\u2014",
+    "name": "seong-eun822/wafer-yield-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:44:24Z",
+    "url": "https://github.com/seong-eun822/wafer-yield-dashboard"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T19:29:39Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:42:00Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6974,
+    "updated_at": "2026-08-21T19:44:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 204,
-    "updated_at": "2026-08-21T19:25:52Z",
+    "updated_at": "2026-08-21T19:34:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:32:49Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T19:29:54Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-21T19:29:39Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -36,15 +81,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:16:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T19:13:49Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:04:55Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -81,15 +108,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T19:29:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -108,7 +126,7 @@
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
-    "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
@@ -124,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T18:29:33Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6974,
-    "updated_at": "2026-08-21T18:14:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T13:10:55Z",
     "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 2,
-    "updated_at": "2026-08-21T13:09:24Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
   }
 ]
