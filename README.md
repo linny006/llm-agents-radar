@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 20:45 UTC
+> ⏰ Last updated: 2026-08-21 20:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [seong-eun822/wafer-yield-dashboard](https://github.com/seong-eun822/wafer-yield-dashboard) | 0 | Python | 2026-08-21 | 웨이퍼 수율 분석 대시보드 - 자연어 질의로 분석하고 보고서를 자동 생성하는 LLM 에이전트 내장 |
-| 2 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-21 | Benzi is code intelligence infrastructure for AI agents. |
+| 1 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-21 | Benzi is code intelligence infrastructure for AI agents. |
+| 2 | [seong-eun822/wafer-yield-dashboard](https://github.com/seong-eun822/wafer-yield-dashboard) | 0 | Python | 2026-08-21 | 웨이퍼 수율 분석 대시보드 - 자연어 질의로 분석하고 보고서를 자동 생성하는 LLM 에이전트 내장 |
 | 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-21 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
 | 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-21 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-21 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
