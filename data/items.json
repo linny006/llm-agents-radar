@@ -1,5 +1,68 @@
 [
   {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 4,
+    "updated_at": "2026-08-21T14:10:19Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:10:11Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-21T14:08:55Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 174,
+    "updated_at": "2026-08-21T14:06:37Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:06:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "GitHub PR \uc790\ub3d9 \ub9ac\ubdf0 \uc11c\ube44\uc2a4 \u2014 \uc6f9\ud6c5 \ud2b8\ub9ac\uac70",
+    "id": "devcy0922/pr-guardian",
+    "language": "TypeScript",
+    "name": "devcy0922/pr-guardian",
+    "stars": 0,
+    "updated_at": "2026-08-21T14:05:37Z",
+    "url": "https://github.com/devcy0922/pr-guardian"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T14:00:52Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-21T13:56:16Z",
     "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-08-21T13:54:01Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -43,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T13:51:02Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:45:00Z",
-    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
@@ -108,15 +171,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T13:28:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -124,24 +178,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T13:23:42Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 4,
-    "updated_at": "2026-08-21T13:20:35Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:14:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
@@ -261,21 +297,12 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 174,
-    "updated_at": "2026-08-21T12:38:55Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T13:59:22Z",
+    "updated_at": "2026-08-21T14:10:53Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -310,7 +337,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29146,
+    "stars": 29147,
     "updated_at": "2026-08-21T11:42:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -358,6 +385,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T11:05:44Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5685,
+    "updated_at": "2026-08-21T10:59:22Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "Open-Source Intelligent Command Layer",
@@ -412,41 +448,5 @@
     "stars": 775,
     "updated_at": "2026-08-21T10:22:33Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:15:07Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
-    "id": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "language": "Python",
-    "name": "UncertaintyDeterminesYou4ndMe/flintrade",
-    "stars": 7,
-    "updated_at": "2026-08-21T10:06:35Z",
-    "url": "https://github.com/UncertaintyDeterminesYou4ndMe/flintrade"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 171,
-    "updated_at": "2026-08-21T10:01:30Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
-    "id": "shining-b-02/ai-ftl-performance-verifier",
-    "language": "Python",
-    "name": "shining-b-02/ai-ftl-performance-verifier",
-    "stars": 0,
-    "updated_at": "2026-08-21T10:00:03Z",
-    "url": "https://github.com/shining-b-02/ai-ftl-performance-verifier"
   }
 ]
