@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 192,
+    "updated_at": "2026-08-21T10:44:24Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
     "id": "tx3457/study-loop",
     "language": "Python",
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T09:09:42Z",
     "url": "https://github.com/HanneLEE/dsh-agent-state"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 192,
-    "updated_at": "2026-08-21T10:44:24Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
