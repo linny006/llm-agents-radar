@@ -5,8 +5,17 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-21T22:39:45Z",
+    "updated_at": "2026-08-21T22:59:56Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:59:38Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -14,8 +23,17 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-21T22:38:40Z",
+    "updated_at": "2026-08-21T22:58:32Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:52:01Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -43,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T22:30:12Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-21T22:30:09Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "StableAI L4 v1.0 delivers 100% No-Drift: the same input produces the same canonical output with the same hash across rep",
@@ -261,15 +270,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:54:20Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
     "stars": 2711,
-    "updated_at": "2026-08-21T15:54:31Z",
+    "updated_at": "2026-08-21T22:48:17Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
   {
