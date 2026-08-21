@@ -1,12 +1,21 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-21T02:37:52Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "HaD0Yun/CozyClay",
+    "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
-    "name": "HaD0Yun/CozyClay",
+    "name": "NomaDamas/CozyClay",
     "stars": 169,
-    "updated_at": "2026-08-21T02:28:08Z",
-    "url": "https://github.com/HaD0Yun/CozyClay"
+    "updated_at": "2026-08-21T02:34:42Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -103,18 +112,9 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 761,
+    "stars": 762,
     "updated_at": "2026-08-21T02:06:26Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-21T02:30:12Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -175,7 +175,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 176,
+    "stars": 179,
     "updated_at": "2026-08-21T01:39:19Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -212,7 +212,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-21T01:10:46Z",
+    "updated_at": "2026-08-21T02:42:47Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -275,7 +275,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-21T00:38:07Z",
+    "updated_at": "2026-08-21T02:35:05Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
