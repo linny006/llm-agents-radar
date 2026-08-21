@@ -1,12 +1,66 @@
 [
   {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 17,
+    "updated_at": "2026-08-21T09:13:45Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "\ud83d\udc31 Miaoclaw(\u55b5\u55b5)\u00b7 \u672c\u5730\u4f18\u5148\u7684\u4e2d\u6587\u684c\u9762 AI \u52a9\u624b:\u529e\u516c\u6587\u6863\u4ea4\u4ed8 / \u8054\u7f51\u8c03\u7814 / \u8bed\u97f3\u7eaa\u8981 / \u624b\u5e10\u8bb0\u5fc6 / \u684c\u9762\u5ba0\u7269\u3002\u6b64\u4ed3\u5e93\u53d1\u5e03 Windows \u5b89\u88c5\u5305\u4e0e\u66f4\u65b0\u901a\u9053 | Local-first desktop AI assis",
+    "id": "FeixueCode/miaoclaw-releases",
+    "language": "JavaScript",
+    "name": "FeixueCode/miaoclaw-releases",
+    "stars": 1,
+    "updated_at": "2026-08-21T09:11:46Z",
+    "url": "https://github.com/FeixueCode/miaoclaw-releases"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 8,
+    "updated_at": "2026-08-21T09:10:30Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T09:09:54Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "DSH \u5916\u7f6e\u72b6\u6001\u673a\u63d2\u4ef6 \u00b7 \u5e7b\u89c9\u6291\u5236\u5b88\u536b + \u8bc1\u636e\u80cc\u4e66\u9a8c\u8bc1 + \u4e0a\u4e0b\u6587\u7ecf\u6d4e \u00b7 Structured state machine for long-horizon autonomous agents",
+    "id": "HanneLEE/dsh-agent-state",
+    "language": "TypeScript",
+    "name": "HanneLEE/dsh-agent-state",
+    "stars": 0,
+    "updated_at": "2026-08-21T09:09:42Z",
+    "url": "https://github.com/HanneLEE/dsh-agent-state"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-21T08:54:45Z",
+    "updated_at": "2026-08-21T09:02:39Z",
     "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 190,
+    "updated_at": "2026-08-21T09:01:01Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -90,15 +144,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T08:29:51Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-21T08:37:05Z",
+    "updated_at": "2026-08-21T09:10:05Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 243,
-    "updated_at": "2026-08-21T07:27:22Z",
+    "updated_at": "2026-08-21T09:02:02Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T08:51:01Z",
+    "updated_at": "2026-08-21T09:04:17Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -247,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29118,
+    "stars": 29119,
     "updated_at": "2026-08-21T07:18:08Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -257,7 +302,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5684,
-    "updated_at": "2026-08-21T08:53:06Z",
+    "updated_at": "2026-08-21T09:04:54Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T07:13:05Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 8,
-    "updated_at": "2026-08-21T07:12:58Z",
-    "url": "https://github.com/Lion-1209/coderio"
   },
   {
     "description": "An autonomous sports agent with a personality and a memory \u2014 scores, news & takes across the major leagues, that also te",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-21T06:50:58Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-21T06:50:17Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-21T06:47:59Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 174,
-    "updated_at": "2026-08-21T06:44:04Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-21T06:43:45Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
