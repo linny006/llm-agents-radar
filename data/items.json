@@ -1,5 +1,68 @@
 [
   {
+    "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
+    "id": "seong-eun822/wafer-yield-dashboard",
+    "language": "Python",
+    "name": "seong-eun822/wafer-yield-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:41:15Z",
+    "url": "https://github.com/seong-eun822/wafer-yield-dashboard"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-21T20:40:06Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:38:46Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:33:15Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T20:31:43Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-21T20:31:26Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:30:13Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -45,15 +108,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:30:13Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
     "id": "cse-creative-systems-engineering/aios",
     "language": "Makefile",
@@ -61,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T20:11:23Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:09:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Jan-Jianhao-Liu/agenteval-repro"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:58:26Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -99,15 +135,6 @@
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
-    "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
-    "id": "seong-eun822/wafer-yield-dashboard",
-    "language": "\u2014",
-    "name": "seong-eun822/wafer-yield-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:44:24Z",
-    "url": "https://github.com/seong-eun822/wafer-yield-dashboard"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -115,24 +142,6 @@
     "stars": 6974,
     "updated_at": "2026-08-21T19:44:19Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T19:29:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T19:29:39Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -169,15 +178,6 @@
     "stars": 18,
     "updated_at": "2026-08-21T18:42:01Z",
     "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-21T18:35:57Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -342,6 +342,15 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
+    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
+    "id": "yilewang/llm-for-zotero",
+    "language": "TypeScript",
+    "name": "yilewang/llm-for-zotero",
+    "stars": 2711,
+    "updated_at": "2026-08-21T15:54:31Z",
+    "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 5685,
     "updated_at": "2026-08-21T15:14:02Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 4,
-    "updated_at": "2026-08-21T14:10:19Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   }
 ]
