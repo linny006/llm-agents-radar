@@ -1,5 +1,41 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:35:02Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "The official implementation for paper \"AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficie",
+    "id": "StigLidu/AdaExplore",
+    "language": "Python",
+    "name": "StigLidu/AdaExplore",
+    "stars": 22,
+    "updated_at": "2026-08-21T21:36:47Z",
+    "url": "https://github.com/StigLidu/AdaExplore"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 17,
+    "updated_at": "2026-08-21T21:31:48Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T21:30:16Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -7,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-08-21T21:29:51Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T21:29:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -54,15 +99,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:29:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
     "id": "hgsanyang/SoulTuner-Agent",
     "language": "Python",
@@ -81,15 +117,6 @@
     "url": "https://github.com/oooscoos/Benzi"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:55:23Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:41:15Z",
     "url": "https://github.com/seong-eun822/wafer-yield-dashboard"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T20:31:43Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -324,15 +342,6 @@
     "url": "https://github.com/JianFeng1104/TripMate"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 17,
-    "updated_at": "2026-08-21T16:48:23Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T14:38:40Z",
     "url": "https://github.com/Annieeeee11/SettleSure"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-21T14:31:27Z",
-    "url": "https://github.com/watchcat/scout"
   }
 ]
