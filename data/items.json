@@ -1,5 +1,50 @@
 [
   {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 50,
+    "updated_at": "2026-08-21T04:00:03Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 31,
+    "updated_at": "2026-08-21T03:55:59Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:55:15Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "3-way payment settlement reconciliation: match payments to settlements to bank credits with exact/fuzzy/split passes, th",
+    "id": "Annieeeee11/SettleSure",
+    "language": "TypeScript",
+    "name": "Annieeeee11/SettleSure",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:52:57Z",
+    "url": "https://github.com/Annieeeee11/SettleSure"
+  },
+  {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 18,
+    "updated_at": "2026-08-21T03:52:54Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -45,15 +90,6 @@
     "url": "https://github.com/areal-project/AReaL"
   },
   {
-    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
-    "id": "unohee/kis-agent",
-    "language": "Python",
-    "name": "unohee/kis-agent",
-    "stars": 50,
-    "updated_at": "2026-08-21T03:31:13Z",
-    "url": "https://github.com/unohee/kis-agent"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -76,7 +112,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23660,
+    "stars": 23662,
     "updated_at": "2026-08-21T03:19:45Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -135,6 +171,15 @@
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 173,
+    "updated_at": "2026-08-21T02:51:31Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-21T03:21:15Z",
+    "updated_at": "2026-08-21T03:54:38Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -189,21 +234,12 @@
     "url": "https://github.com/oooscoos/Benzi"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 172,
-    "updated_at": "2026-08-21T02:51:31Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-21T02:10:10Z",
+    "updated_at": "2026-08-21T04:00:04Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -211,18 +247,9 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 764,
+    "stars": 765,
     "updated_at": "2026-08-21T02:06:26Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
-    "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:55:40Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-21T00:19:25Z",
     "url": "https://github.com/Bowotria/aethercore"
-  },
-  {
-    "description": "Interactive wildfire map for the Inland Northwest with an AI chat panel \u2014 FastAPI + MapLibre, Foundry agent writes SQL b",
-    "id": "NeuralTide/inlandburn",
-    "language": "Python",
-    "name": "NeuralTide/inlandburn",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:18:29Z",
-    "url": "https://github.com/NeuralTide/inlandburn"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:17:27Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-21T00:14:15Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
