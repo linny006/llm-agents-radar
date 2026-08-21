@@ -1,5 +1,14 @@
 [
   {
+    "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-21T05:56:58Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -189,15 +198,6 @@
     "url": "https://github.com/alex8224/synapse-agent"
   },
   {
-    "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-21T04:29:13Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -319,7 +319,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23669,
+    "stars": 23670,
     "updated_at": "2026-08-21T03:19:45Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -373,7 +373,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 767,
+    "stars": 769,
     "updated_at": "2026-08-21T02:06:26Z",
     "url": "https://github.com/ongridio/ongrid"
   },
