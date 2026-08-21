@@ -1,12 +1,48 @@
 [
   {
+    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
+    "id": "hgsanyang/SoulTuner-Agent",
+    "language": "Python",
+    "name": "hgsanyang/SoulTuner-Agent",
+    "stars": 18,
+    "updated_at": "2026-08-21T20:58:12Z",
+    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
+  },
+  {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
     "id": "oooscoos/Benzi",
     "language": "Python",
     "name": "oooscoos/Benzi",
     "stars": 9,
-    "updated_at": "2026-08-21T20:48:33Z",
+    "updated_at": "2026-08-21T20:57:03Z",
     "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:55:44Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:55:23Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-21T20:57:08Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
@@ -23,17 +59,8 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-21T20:38:46Z",
+    "updated_at": "2026-08-21T20:58:30Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:33:15Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T20:31:26Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:30:13Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -169,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T18:43:09Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 18,
-    "updated_at": "2026-08-21T18:42:01Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T20:22:40Z",
+    "updated_at": "2026-08-21T20:52:44Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T14:30:03Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5685,
-    "updated_at": "2026-08-21T15:14:02Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
