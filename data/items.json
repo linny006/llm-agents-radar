@@ -1,12 +1,39 @@
 [
   {
-    "description": "GPT autonomous research and investigation using starintel",
-    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
     "language": "Python",
-    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-21T01:57:28Z",
-    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+    "updated_at": "2026-08-21T02:11:38Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-21T02:11:16Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 172,
+    "updated_at": "2026-08-21T02:08:53Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
+    "id": "getauxo/auxo-app",
+    "language": "JavaScript",
+    "name": "getauxo/auxo-app",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:09:15Z",
+    "url": "https://github.com/getauxo/auxo-app"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -14,8 +41,26 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-21T01:56:32Z",
+    "updated_at": "2026-08-21T02:10:10Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:06:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 761,
+    "updated_at": "2026-08-21T02:06:26Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -23,8 +68,17 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-21T01:54:29Z",
+    "updated_at": "2026-08-21T02:02:49Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:09:25Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
@@ -36,21 +90,12 @@
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
-    "description": "Benzi is a coding AI agent + harness grounded in a live code map.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-21T01:52:17Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-21T01:48:52Z",
+    "updated_at": "2026-08-21T02:12:59Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -94,7 +139,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 172,
+    "stars": 175,
     "updated_at": "2026-08-21T01:39:19Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -169,15 +214,6 @@
     "stars": 79,
     "updated_at": "2026-08-21T00:53:20Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 172,
-    "updated_at": "2026-08-21T00:51:38Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T00:25:58Z",
     "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:25:42Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-20T23:59:13Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "Real-time control of your active Chrome tab via pure CDP (no MCP): MV3 extension (chrome.debugger) + Node.js WebSocket r",
-    "id": "frederico-kluser/chromium-controller",
-    "language": "Python",
-    "name": "frederico-kluser/chromium-controller",
-    "stars": 0,
-    "updated_at": "2026-08-20T23:55:34Z",
-    "url": "https://github.com/frederico-kluser/chromium-controller"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-20T23:55:16Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-20T23:54:58Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
