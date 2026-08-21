@@ -1,5 +1,41 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-21T11:44:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 192,
+    "updated_at": "2026-08-21T11:44:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29129,
+    "updated_at": "2026-08-21T11:42:33Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-21T11:40:56Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -63,15 +99,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-21T11:37:35Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -106,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-21T11:14:08Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 192,
-    "updated_at": "2026-08-21T11:11:59Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
@@ -225,15 +243,6 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-21T10:12:30Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "An autonomous LLM paper-trading agent that dreams, remembers, and reviews its own trades",
     "id": "UncertaintyDeterminesYou4ndMe/flintrade",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 171,
     "updated_at": "2026-08-21T10:01:30Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29129,
-    "updated_at": "2026-08-21T10:00:19Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Verify AI-proposed FTL hot-path changes with guarded patches, regression tests, paired benchmarks, and evidence",
