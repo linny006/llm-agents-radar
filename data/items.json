@@ -1,12 +1,21 @@
 [
   {
-    "description": "StableAI L4 v1.0 delivers 100% No-Drift: the same input produces the same canonical output with the same hash across rep",
-    "id": "ikashibadze-svg/StableAI-L4-No-Drift-Framework",
-    "language": "Python",
-    "name": "ikashibadze-svg/StableAI-L4-No-Drift-Framework",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:29:06Z",
-    "url": "https://github.com/ikashibadze-svg/StableAI-L4-No-Drift-Framework"
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-21T16:40:50Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:40:29Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -14,8 +23,44 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 202,
-    "updated_at": "2026-08-21T16:28:47Z",
+    "updated_at": "2026-08-21T16:36:52Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 799,
+    "updated_at": "2026-08-21T16:36:52Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "StableAI L4 v1.0 delivers 100% No-Drift: the same input produces the same canonical output with the same hash across rep",
+    "id": "ikashibadze-svg/StableAI-L4-No-Drift-Framework",
+    "language": "Python",
+    "name": "ikashibadze-svg/StableAI-L4-No-Drift-Framework",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:32:56Z",
+    "url": "https://github.com/ikashibadze-svg/StableAI-L4-No-Drift-Framework"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-21T16:32:12Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-21T16:30:52Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 799,
-    "updated_at": "2026-08-21T16:29:29Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -117,24 +153,6 @@
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T15:39:39Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:38:58Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:38:31Z",
     "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-21T15:30:24Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -301,7 +310,7 @@
     "id": "Nouman-Amjad/Cairn",
     "language": "Python",
     "name": "Nouman-Amjad/Cairn",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-21T13:33:02Z",
     "url": "https://github.com/Nouman-Amjad/Cairn"
   },
@@ -436,17 +445,8 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29162,
+    "stars": 29163,
     "updated_at": "2026-08-21T11:42:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-21T11:40:56Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
   }
 ]
