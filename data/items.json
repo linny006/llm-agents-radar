@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
+    "id": "unohee/kis-agent",
+    "language": "Python",
+    "name": "unohee/kis-agent",
+    "stars": 50,
+    "updated_at": "2026-08-21T03:30:03Z",
+    "url": "https://github.com/unohee/kis-agent"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
@@ -22,7 +31,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23658,
+    "stars": 23659,
     "updated_at": "2026-08-21T03:19:45Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:12:23Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:09:42Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
