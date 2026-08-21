@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 194,
+    "updated_at": "2026-08-21T12:48:16Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 4,
+    "updated_at": "2026-08-21T12:46:02Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "\u5f00\u6e90\u7ec8\u7aef AI \u7f16\u7a0b Agent\uff1a\u4ee5\u5728\u7ebf Evidence Runtime \u9a8c\u8bc1\u94fe\uff08LLM \u8f93\u51fa\u662f Claim\u3001\u5de5\u5177\u7ed3\u679c\u624d\u662f Evidence\uff09\u4e3a\u6838\u5fc3\u3002SWE-bench_Lite \u5b98\u65b9\u8bc4\u6d4b 40.0% \u5b9e\u4f8b\u7ea7\u901a\u8fc7\u7387\uff08\u540c\u6a21\u578b A/B +6.",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -43,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T12:33:11Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 500,
+    "updated_at": "2026-08-21T12:31:19Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 799,
-    "updated_at": "2026-08-21T12:44:00Z",
+    "updated_at": "2026-08-21T12:54:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -171,20 +198,11 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 194,
-    "updated_at": "2026-08-21T11:44:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29138,
+    "stars": 29140,
     "updated_at": "2026-08-21T11:42:33Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -250,6 +268,15 @@
     "stars": 4,
     "updated_at": "2026-08-21T11:14:08Z",
     "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5773,
+    "updated_at": "2026-08-21T11:11:51Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-21T08:36:40Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u9762\u5411\u300a\u5d29\u574f\uff1a\u661f\u7a79\u94c1\u9053\u300b\u7684\u914d\u88c5\u914d\u961f\u4f18\u5316\uff1a\u5df2\u6210\u4f53\u7cfb\u7684\u6218\u6597\u6a21\u62df DSL \u6587\u6863\u4e0e\u591a\u6e90\u6570\u636e\u7ba1\u7ebf\uff1b\u4eff\u771f\u5f15\u64ce\uff08\u5e72\u51c0\u8bbe\u8ba1\uff1a\u4e8b\u4ef6\u603b\u7ebf + \u95ed\u5408\u5173\u952e\u5b57 DSL\uff09\u4e0e autoresearch \u5f0f agent \u5f00\u53d1\u4e2d\u3002",
-    "id": "pzc2004/HSR_Nous",
-    "language": "Python",
-    "name": "pzc2004/HSR_Nous",
-    "stars": 3,
-    "updated_at": "2026-08-21T08:35:33Z",
-    "url": "https://github.com/pzc2004/HSR_Nous"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-21T09:10:05Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 30,
-    "updated_at": "2026-08-21T08:16:24Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
   }
 ]
