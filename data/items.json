@@ -4,9 +4,45 @@
     "id": "Jan-Jianhao-Liu/agenteval-repro",
     "language": "Python",
     "name": "Jan-Jianhao-Liu/agenteval-repro",
-    "stars": 0,
-    "updated_at": "2026-08-21T06:13:26Z",
+    "stars": 1,
+    "updated_at": "2026-08-21T06:29:53Z",
     "url": "https://github.com/Jan-Jianhao-Liu/agenteval-repro"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:29:13Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29109,
+    "updated_at": "2026-08-21T06:28:36Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:22:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 13831,
+    "updated_at": "2026-08-21T06:21:33Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5685,
-    "updated_at": "2026-08-21T06:11:29Z",
+    "updated_at": "2026-08-21T06:23:45Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T05:54:47Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T05:52:08Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\u53d8\u66f4\u8bc1\u660e\uff08ChangeProof\uff09\u2014 DeepSeek Harness \u63d2\u4ef6\uff1a\u4ee3\u7801\u6539\u52a8\u540e\u786e\u8ba4\u6539\u52a8\u7684\u884c\u771f\u7684\u88ab\u6d4b\u8bd5\u8986\u76d6\u5230",
@@ -180,13 +207,13 @@
     "url": "https://github.com/qyiun666/meowire"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29108,
-    "updated_at": "2026-08-21T04:58:57Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3113,
+    "updated_at": "2026-08-21T04:59:40Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Bo cham diem AI Agent dung Skill/Tool cho AutoCAD - Civil 3D - Revit BIM cau. 48 case, 6 hard gate, 197 test cho chinh b",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T04:58:13Z",
     "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3112,
-    "updated_at": "2026-08-21T04:59:40Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -337,7 +355,7 @@
     "id": "titanwings/colleague-skill",
     "language": "Python",
     "name": "titanwings/colleague-skill",
-    "stars": 23671,
+    "stars": 23675,
     "updated_at": "2026-08-21T03:19:45Z",
     "url": "https://github.com/titanwings/colleague-skill"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T01:33:08Z",
     "url": "https://github.com/Running-hue/codeflow-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 14,
-    "updated_at": "2026-08-21T03:06:40Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
-    "id": "wq19901103wq/wechat-mac-rpa",
-    "language": "Python",
-    "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 79,
-    "updated_at": "2026-08-21T00:53:20Z",
-    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   }
 ]
