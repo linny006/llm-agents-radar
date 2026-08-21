@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 798,
+    "updated_at": "2026-08-21T06:30:08Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "",
     "id": "Jan-Jianhao-Liu/agenteval-repro",
     "language": "Python",
@@ -68,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 7,
-    "updated_at": "2026-08-21T06:07:48Z",
+    "updated_at": "2026-08-21T06:32:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -211,7 +220,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3113,
+    "stars": 3114,
     "updated_at": "2026-08-21T04:59:40Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 185,
     "updated_at": "2026-08-21T01:39:19Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "A production-oriented Coding Agent workflow built with DeepAgents and LangGraph.",
-    "id": "Running-hue/codeflow-agent",
-    "language": "TypeScript",
-    "name": "Running-hue/codeflow-agent",
-    "stars": 0,
-    "updated_at": "2026-08-21T01:33:08Z",
-    "url": "https://github.com/Running-hue/codeflow-agent"
   }
 ]
