@@ -1,5 +1,77 @@
 [
   {
+    "description": "QodeX \u2014 a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St",
+    "id": "QodeXcli/QodeX",
+    "language": "TypeScript",
+    "name": "QodeXcli/QodeX",
+    "stars": 31,
+    "updated_at": "2026-08-22T02:44:03Z",
+    "url": "https://github.com/QodeXcli/QodeX"
+  },
+  {
+    "description": "Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the ",
+    "id": "heba-ramdan/harness",
+    "language": "TypeScript",
+    "name": "heba-ramdan/harness",
+    "stars": 1,
+    "updated_at": "2026-08-22T02:42:49Z",
+    "url": "https://github.com/heba-ramdan/harness"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
+    "id": "Shadowell/Alpha",
+    "language": "Python",
+    "name": "Shadowell/Alpha",
+    "stars": 23,
+    "updated_at": "2026-08-22T02:42:37Z",
+    "url": "https://github.com/Shadowell/Alpha"
+  },
+  {
+    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
+    "id": "Ronit0p/AutoGod",
+    "language": "Java",
+    "name": "Ronit0p/AutoGod",
+    "stars": 0,
+    "updated_at": "2026-08-22T02:41:45Z",
+    "url": "https://github.com/Ronit0p/AutoGod"
+  },
+  {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 5,
+    "updated_at": "2026-08-22T02:40:48Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
+    "id": "lukky262/ARE",
+    "language": "\u2014",
+    "name": "lukky262/ARE",
+    "stars": 1,
+    "updated_at": "2026-08-22T02:40:12Z",
+    "url": "https://github.com/lukky262/ARE"
+  },
+  {
+    "description": "",
+    "id": "hichamnes-prog/exforum-auto-poster",
+    "language": "Python",
+    "name": "hichamnes-prog/exforum-auto-poster",
+    "stars": 1,
+    "updated_at": "2026-08-22T02:38:20Z",
+    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
+  },
+  {
+    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
+    "id": "muhzars/Agent.cpp",
+    "language": "C++",
+    "name": "muhzars/Agent.cpp",
+    "stars": 1,
+    "updated_at": "2026-08-22T02:34:05Z",
+    "url": "https://github.com/muhzars/Agent.cpp"
+  },
+  {
     "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
     "id": "faheela-786/ComfyUI-qwenmultiangle",
     "language": "\u2014",
@@ -88,15 +160,6 @@
     "stars": 11,
     "updated_at": "2026-08-22T02:14:53Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 5,
-    "updated_at": "2026-08-22T02:13:58Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-22T01:16:36Z",
+    "updated_at": "2026-08-22T02:34:11Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -247,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29194,
+    "stars": 29197,
     "updated_at": "2026-08-22T01:14:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -385,68 +448,5 @@
     "stars": 336,
     "updated_at": "2026-08-21T22:04:46Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-21T21:55:06Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "The official implementation for paper \"AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficie",
-    "id": "StigLidu/AdaExplore",
-    "language": "Python",
-    "name": "StigLidu/AdaExplore",
-    "stars": 22,
-    "updated_at": "2026-08-21T21:36:47Z",
-    "url": "https://github.com/StigLidu/AdaExplore"
-  },
-  {
-    "description": "AI-Powered League of Legends Desktop Companion \u2014 Real-time game intelligence, LLM-driven match analysis and AI coaching.",
-    "id": "Giggitycountless/LOL-AI-Intelligence",
-    "language": "Rust",
-    "name": "Giggitycountless/LOL-AI-Intelligence",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:19:25Z",
-    "url": "https://github.com/Giggitycountless/LOL-AI-Intelligence"
-  },
-  {
-    "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
-    "id": "hgsanyang/SoulTuner-Agent",
-    "language": "Python",
-    "name": "hgsanyang/SoulTuner-Agent",
-    "stars": 18,
-    "updated_at": "2026-08-21T20:58:12Z",
-    "url": "https://github.com/hgsanyang/SoulTuner-Agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-21T20:57:08Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
-    "id": "seong-eun822/wafer-yield-dashboard",
-    "language": "Python",
-    "name": "seong-eun822/wafer-yield-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:41:15Z",
-    "url": "https://github.com/seong-eun822/wafer-yield-dashboard"
-  },
-  {
-    "description": "",
-    "id": "Jan-Jianhao-Liu/agenteval-repro",
-    "language": "Python",
-    "name": "Jan-Jianhao-Liu/agenteval-repro",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:01:57Z",
-    "url": "https://github.com/Jan-Jianhao-Liu/agenteval-repro"
   }
 ]
