@@ -1,12 +1,21 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4392,
-    "updated_at": "2026-08-22T18:51:35Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-22T19:14:05Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-22T19:13:50Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -14,8 +23,62 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-22T18:50:20Z",
+    "updated_at": "2026-08-22T19:12:37Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "2026 swarm Agent \u5e74\uff0cswarm Agent \u3001Agent team\u3001 ai coding\u3001skill\u3001memory\u3001evolve\u3001agentic RL \u7b49 AI Agent\u96c6\u5408",
+    "id": "1850298154/memory_agent_hub",
+    "language": "Python",
+    "name": "1850298154/memory_agent_hub",
+    "stars": 65,
+    "updated_at": "2026-08-22T19:12:32Z",
+    "url": "https://github.com/1850298154/memory_agent_hub"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-22T19:10:30Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "LLM-driven pentest/CTF agent harness: scope-enforced, sandboxed, audit-logged",
+    "id": "abdulmunimjemal/redcell",
+    "language": "Python",
+    "name": "abdulmunimjemal/redcell",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:05:51Z",
+    "url": "https://github.com/abdulmunimjemal/redcell"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-22T19:01:32Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-22T19:00:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4392,
+    "updated_at": "2026-08-22T19:15:00Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u6307\u7eb9\u53bb\u91cd\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 Web UI",
@@ -36,21 +99,12 @@
     "url": "https://github.com/wufufu770/NetMind"
   },
   {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-08-22T18:41:33Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-22T18:57:11Z",
+    "updated_at": "2026-08-22T19:11:06Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T18:37:55Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-22T18:37:07Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-22T19:00:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -117,15 +153,6 @@
     "url": "https://github.com/lungstrahv/T2AG"
   },
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-22T18:13:32Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
     "id": "Stephenson-Software/create-dev-loop",
     "language": "Python",
@@ -133,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T18:07:34Z",
     "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "LLM-driven pentest/CTF agent harness: scope-enforced, sandboxed, audit-logged",
-    "id": "abdulmunimjemal/redcell",
-    "language": "Python",
-    "name": "abdulmunimjemal/redcell",
-    "stars": 0,
-    "updated_at": "2026-08-22T18:00:47Z",
-    "url": "https://github.com/abdulmunimjemal/redcell"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T16:44:29Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-08-22T16:40:34Z",
-    "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-22T16:28:29Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
