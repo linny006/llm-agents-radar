@@ -1,5 +1,68 @@
 [
   {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29184,
+    "updated_at": "2026-08-22T01:14:04Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "LLM-driven pentest/CTF agent harness: scope-enforced, sandboxed, audit-logged",
+    "id": "abdulmunimjemal/redcell",
+    "language": "Python",
+    "name": "abdulmunimjemal/redcell",
+    "stars": 0,
+    "updated_at": "2026-08-22T01:13:23Z",
+    "url": "https://github.com/abdulmunimjemal/redcell"
+  },
+  {
+    "description": "Backend for bunni! A multi tenant AI SMS agent for easy calendar organization. ",
+    "id": "Juveria22/bunni-backend",
+    "language": "Python",
+    "name": "Juveria22/bunni-backend",
+    "stars": 0,
+    "updated_at": "2026-08-22T01:10:13Z",
+    "url": "https://github.com/Juveria22/bunni-backend"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-22T01:09:38Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-22T01:09:23Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-22T01:06:01Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5685,
+    "updated_at": "2026-08-22T01:03:29Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -54,6 +117,15 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 177,
+    "updated_at": "2026-08-22T00:38:28Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -61,15 +133,6 @@
     "stars": 17,
     "updated_at": "2026-08-22T00:37:57Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-22T00:59:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
@@ -81,15 +144,6 @@
     "url": "https://github.com/shimo4228/akc-cycle"
   },
   {
-    "description": "LLM-driven pentest/CTF agent harness: scope-enforced, sandboxed, audit-logged",
-    "id": "abdulmunimjemal/redcell",
-    "language": "Python",
-    "name": "abdulmunimjemal/redcell",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:30:22Z",
-    "url": "https://github.com/abdulmunimjemal/redcell"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T00:24:00Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 176,
-    "updated_at": "2026-08-22T00:38:28Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
@@ -133,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T23:29:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-21T23:21:04Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -223,15 +259,6 @@
     "stars": 31,
     "updated_at": "2026-08-21T21:55:06Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-21T21:52:42Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "The official implementation for paper \"AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficie",
@@ -421,32 +448,5 @@
     "stars": 799,
     "updated_at": "2026-08-21T20:52:44Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 30,
-    "updated_at": "2026-08-21T16:23:39Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-21T23:14:26Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 2711,
-    "updated_at": "2026-08-21T22:48:17Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
   }
 ]
