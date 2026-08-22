@@ -1,5 +1,50 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-22T08:13:00Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T08:06:33Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-22T08:04:05Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 180,
+    "updated_at": "2026-08-22T08:03:48Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
+    "id": "getauxo/auxo-app",
+    "language": "JavaScript",
+    "name": "getauxo/auxo-app",
+    "stars": 0,
+    "updated_at": "2026-08-22T08:01:10Z",
+    "url": "https://github.com/getauxo/auxo-app"
+  },
+  {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
     "id": "hgsanyang/SoulTuner-Agent",
     "language": "Python",
@@ -108,15 +153,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
-    "id": "getauxo/auxo-app",
-    "language": "JavaScript",
-    "name": "getauxo/auxo-app",
-    "stars": 0,
-    "updated_at": "2026-08-22T06:48:37Z",
-    "url": "https://github.com/getauxo/auxo-app"
-  },
-  {
     "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
     "id": "cse-creative-systems-engineering/aios",
     "language": "Makefile",
@@ -171,15 +207,6 @@
     "url": "https://github.com/S3YED/appie-kit"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 180,
-    "updated_at": "2026-08-22T06:35:15Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-22T07:57:00Z",
+    "updated_at": "2026-08-22T08:01:05Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T03:12:21Z",
     "url": "https://github.com/cyberflax2020/project-contract-harness"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-22T02:56:38Z",
-    "url": "https://github.com/alex8224/synapse-agent"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:56:29Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "\u300e\uc5d0\uc774\uc804\ud2b8 \uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \u2014 AI \uc5d0\uc774\uc804\ud2b8 \uc124\uacc4\uc758 \uacb0\uc815 \uae30\uc900\u300f \ucc38\uc870 \uad6c\ud604. base/\ub294 1\uad8c \u300e\ubc11\ubc14\ub2e5\ubd80\ud130 \ub9cc\ub4dc\ub294 \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\u300f \ucd5c\uc885 \ucf54\ub4dc(ch25)\uc758 \uc0ac\ubcf8\uc774\uace0, plus/\ub294 2\uad8c\uc774 \ub354\ud558\ub294 \uadf8\ub798\ud504 \ub7f0\ud0c0\uc784\uacfc \ud3c9\uac00 \ud558\ub124\uc2a4\ub2e4",
-    "id": "kangwoo/agent-engineering",
-    "language": "Java",
-    "name": "kangwoo/agent-engineering",
-    "stars": 0,
-    "updated_at": "2026-08-22T02:53:35Z",
-    "url": "https://github.com/kangwoo/agent-engineering"
   }
 ]
