@@ -1,5 +1,14 @@
 [
   {
+    "description": "PII masking and risk-scoring pipeline for security logs. n8n + Express + Upstage Solar. All data is synthetic (env=lab);",
+    "id": "jihun-moon/im-bank-n8n-agent",
+    "language": "JavaScript",
+    "name": "jihun-moon/im-bank-n8n-agent",
+    "stars": 1,
+    "updated_at": "2026-08-22T15:44:50Z",
+    "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -61,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T15:28:53Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "PII masking and risk-scoring pipeline for security logs. n8n + Express + Upstage Solar. All data is synthetic (env=lab);",
-    "id": "jihun-moon/im-bank-n8n-agent",
-    "language": "JavaScript",
-    "name": "jihun-moon/im-bank-n8n-agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:28:48Z",
-    "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
