@@ -1,5 +1,32 @@
 [
   {
+    "description": "3-way payment settlement reconciliation: match payments to settlements to bank credits with exact/fuzzy/split passes, th",
+    "id": "Annieeeee11/SettleSure",
+    "language": "TypeScript",
+    "name": "Annieeeee11/SettleSure",
+    "stars": 0,
+    "updated_at": "2026-08-22T21:14:31Z",
+    "url": "https://github.com/Annieeeee11/SettleSure"
+  },
+  {
+    "description": "Research framework for adaptive, purposeful agents under uncertainty",
+    "id": "v2-io/agentic-systems",
+    "language": "TeX",
+    "name": "v2-io/agentic-systems",
+    "stars": 2,
+    "updated_at": "2026-08-22T21:14:30Z",
+    "url": "https://github.com/v2-io/agentic-systems"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-22T21:13:05Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -63,15 +90,6 @@
     "url": "https://github.com/ellmos-ai/worksheet-generator"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-22T21:13:05Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
     "id": "kasparovabi/dsh-studio",
     "language": "Swift",
@@ -131,17 +149,8 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-22T20:15:19Z",
+    "updated_at": "2026-08-22T21:15:07Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "3-way payment settlement reconciliation: match payments to settlements to bank credits with exact/fuzzy/split passes, th",
-    "id": "Annieeeee11/SettleSure",
-    "language": "TypeScript",
-    "name": "Annieeeee11/SettleSure",
-    "stars": 0,
-    "updated_at": "2026-08-22T20:09:10Z",
-    "url": "https://github.com/Annieeeee11/SettleSure"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4392,
-    "updated_at": "2026-08-22T20:59:55Z",
+    "updated_at": "2026-08-22T21:14:57Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T17:40:29Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:40:11Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
