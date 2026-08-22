@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-22T18:19:48Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u6307\u7eb9\u53bb\u91cd\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 Web UI",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-08-22T18:18:14Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "File-based AI tutoring harness for self-study: an LLM agent teaches from your own textbooks while every judgment call \u2014 ",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-22T18:14:23Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-22T18:13:32Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -14,17 +50,8 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-22T18:12:45Z",
+    "updated_at": "2026-08-22T18:15:40Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-22T18:13:32Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T18:07:34Z",
     "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u6307\u7eb9\u53bb\u91cd\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 Web UI",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 1,
-    "updated_at": "2026-08-22T18:08:04Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -360,15 +378,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:14:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
     "id": "BettyXu2001/how-deepseek-harness-works",
     "language": "JavaScript",
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-22T18:10:39Z",
+    "updated_at": "2026-08-22T18:17:56Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T17:49:01Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:10:12Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
