@@ -1,11 +1,29 @@
 [
   {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-22T14:35:21Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:34:26Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
     "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
     "id": "antitree/meshhermes",
     "language": "Python",
     "name": "antitree/meshhermes",
     "stars": 0,
-    "updated_at": "2026-08-22T14:30:00Z",
+    "updated_at": "2026-08-22T14:36:21Z",
     "url": "https://github.com/antitree/meshhermes"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 45,
     "updated_at": "2026-08-22T14:01:34Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:01:19Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T10:03:36Z",
     "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-08-22T10:02:56Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   }
 ]
