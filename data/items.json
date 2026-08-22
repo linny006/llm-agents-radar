@@ -1,5 +1,14 @@
 [
   {
+    "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
+    "id": "antitree/meshhermes",
+    "language": "Python",
+    "name": "antitree/meshhermes",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:59:38Z",
+    "url": "https://github.com/antitree/meshhermes"
+  },
+  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -81,15 +90,6 @@
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
-    "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
-    "id": "antitree/meshhermes",
-    "language": "Python",
-    "name": "antitree/meshhermes",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:36:21Z",
-    "url": "https://github.com/antitree/meshhermes"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -122,7 +122,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-22T14:46:43Z",
+    "updated_at": "2026-08-22T14:57:39Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
