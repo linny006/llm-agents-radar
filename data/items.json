@@ -1,5 +1,50 @@
 [
   {
+    "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
+    "id": "BettyXu2001/how-deepseek-harness-works",
+    "language": "JavaScript",
+    "name": "BettyXu2001/how-deepseek-harness-works",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:06:09Z",
+    "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4393,
+    "updated_at": "2026-08-22T17:07:43Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:03:31Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 31,
+    "updated_at": "2026-08-22T17:01:38Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:01:38Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T16:44:29Z",
     "url": "https://github.com/sunnnn2005/data-quality-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-22T16:43:25Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-22T16:13:30Z",
+    "updated_at": "2026-08-22T17:08:55Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -198,24 +234,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
-    "id": "BettyXu2001/how-deepseek-harness-works",
-    "language": "JavaScript",
-    "name": "BettyXu2001/how-deepseek-harness-works",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:31:09Z",
-    "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4393,
-    "updated_at": "2026-08-22T16:51:15Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Meshtastic LoRa mesh platform plugin for Hermes Agent \u2014 talk to your agent over the air, off-grid.",
     "id": "antitree/meshhermes",
     "language": "Python",
@@ -259,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T14:44:51Z",
     "url": "https://github.com/epoko77-ai/tidy-undo"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-22T16:58:20Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-22T11:57:20Z",
     "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:44:59Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   }
 ]
