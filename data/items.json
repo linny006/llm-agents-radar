@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 206,
-    "updated_at": "2026-08-22T00:00:02Z",
+    "updated_at": "2026-08-22T00:09:26Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
+    "id": "LazzzzyBoy/k8s-rca-agent",
+    "language": "Python",
+    "name": "LazzzzyBoy/k8s-rca-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T00:08:09Z",
+    "url": "https://github.com/LazzzzyBoy/k8s-rca-agent"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -160,15 +169,6 @@
     "stars": 31,
     "updated_at": "2026-08-21T21:55:06Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
-    "id": "LazzzzyBoy/k8s-rca-agent",
-    "language": "Python",
-    "name": "LazzzzyBoy/k8s-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:54:16Z",
-    "url": "https://github.com/LazzzzyBoy/k8s-rca-agent"
   },
   {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
