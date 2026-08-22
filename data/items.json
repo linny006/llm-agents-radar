@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-powered PII leak detection workflow for IM Bank security logs \u2014 n8n + Node.js + Upstage Solar AI. Real-time analysis ",
+    "id": "jihun-moon/im-bank-n8n-agent",
+    "language": "JavaScript",
+    "name": "jihun-moon/im-bank-n8n-agent",
+    "stars": 1,
+    "updated_at": "2026-08-22T13:46:50Z",
+    "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
+  },
+  {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-22T13:46:16Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-22T13:46:01Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-22T13:45:58Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -52,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T13:36:14Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "AI-powered PII leak detection workflow for IM Bank security logs \u2014 n8n + Node.js + Upstage Solar AI. Real-time analysis ",
-    "id": "jihun-moon/im-bank-n8n-agent",
-    "language": "JavaScript",
-    "name": "jihun-moon/im-bank-n8n-agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T13:34:16Z",
-    "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Sh1njuuovo/recagent-eval",
     "stars": 0,
-    "updated_at": "2026-08-22T13:12:23Z",
+    "updated_at": "2026-08-22T13:45:22Z",
     "url": "https://github.com/Sh1njuuovo/recagent-eval"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-22T09:54:50Z",
     "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-08-22T09:54:48Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-22T09:52:41Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
-    "id": "chadwickhyperboloidal943/knowl",
-    "language": "TypeScript",
-    "name": "chadwickhyperboloidal943/knowl",
-    "stars": 0,
-    "updated_at": "2026-08-22T09:50:39Z",
-    "url": "https://github.com/chadwickhyperboloidal943/knowl"
   }
 ]
