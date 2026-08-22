@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 05:50 UTC
+> ⏰ Last updated: 2026-08-22 06:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-22 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-22 | A productive AI coworker that learns, self-improves, and ships work. |
-| 3 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-22 | Benzi is code intelligence infrastructure for AI agents. |
-| 4 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-22 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 5 | [getauxo/auxo-app](https://github.com/getauxo/auxo-app) | 0 | JavaScript | 2026-08-22 | Auxo — 나를 기억하는 설치형 AI 에이전트 |
-| 6 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-22 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 12 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 14 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 18 | Python | 2026-08-22 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
-| 15 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-22 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 16 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-22 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 17 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-22 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 18 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 14 | Rust | 2026-08-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-22 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 3 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 14 | Rust | 2026-08-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 4 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-22 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-22 | A productive AI coworker that learns, self-improves, and ships work. |
+| 6 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-22 | Benzi is code intelligence infrastructure for AI agents. |
+| 7 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-22 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 8 | [getauxo/auxo-app](https://github.com/getauxo/auxo-app) | 0 | JavaScript | 2026-08-22 | Auxo — 나를 기억하는 설치형 AI 에이전트 |
+| 9 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-22 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 10 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 12 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 13 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 14 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 16 | [hgsanyang/SoulTuner-Agent](https://github.com/hgsanyang/SoulTuner-Agent) | 18 | Python | 2026-08-22 | 🎵 专属你的私人数字调音师\|AI 音乐搜索推荐 Agent \| 基于大模型 + 知识图谱 + 双模型声学向量的本地智能音乐推荐系统 \| LLM-powered Music Recommendation Agent with Hybrid R |
+| 17 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-22 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 18 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-22 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 19 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 868 | TypeScript | 2026-08-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 20 | [Nouman-Amjad/Cairn](https://github.com/Nouman-Amjad/Cairn) | 5 | Python | 2026-08-22 | Agentic incident-analysis copilot: MCP tool servers, a cost-aware model router, an approval-gated write path, and a comp |
 | 21 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 180 | TypeScript | 2026-08-22 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
