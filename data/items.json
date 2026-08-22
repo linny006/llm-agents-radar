@@ -1,11 +1,29 @@
 [
   {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:41:21Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:38:59Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-22T22:38:29Z",
+    "updated_at": "2026-08-22T22:39:21Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-22T22:25:01Z",
+    "updated_at": "2026-08-22T22:43:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 175,
-    "updated_at": "2026-08-22T22:33:43Z",
+    "updated_at": "2026-08-22T22:41:35Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -97,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T22:13:38Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:38:59Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:10:06Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
