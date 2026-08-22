@@ -1,5 +1,95 @@
 [
   {
+    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
+    "id": "Aureliedumbfounding630/agent-governance-toolkit",
+    "language": "\u2014",
+    "name": "Aureliedumbfounding630/agent-governance-toolkit",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:55:45Z",
+    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
+  },
+  {
+    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
+    "id": "randomvariablewhitepelican129/open_deep_research",
+    "language": "Python",
+    "name": "randomvariablewhitepelican129/open_deep_research",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:54:55Z",
+    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
+  },
+  {
+    "description": "Automate file management and coding tasks in your local directory using small language models.",
+    "id": "pruthviraj00007/VibeHarness",
+    "language": "Python",
+    "name": "pruthviraj00007/VibeHarness",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:52:24Z",
+    "url": "https://github.com/pruthviraj00007/VibeHarness"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:51:14Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:50:50Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 45,
+    "updated_at": "2026-08-22T17:50:32Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:47:20Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Controllable and Transparent LLM Application Framework",
+    "id": "gumblex/aitoolman",
+    "language": "Python",
+    "name": "gumblex/aitoolman",
+    "stars": 4,
+    "updated_at": "2026-08-22T17:47:09Z",
+    "url": "https://github.com/gumblex/aitoolman"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 8,
+    "updated_at": "2026-08-22T17:47:07Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-08-22T17:46:58Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -97,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-08-22T17:32:03Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-22T17:30:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
@@ -212,7 +293,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-22T17:42:54Z",
+    "updated_at": "2026-08-22T17:54:02Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -275,7 +356,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-22T17:29:23Z",
+    "updated_at": "2026-08-22T17:54:36Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -284,7 +365,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-22T16:12:52Z",
+    "updated_at": "2026-08-22T17:49:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -342,15 +423,6 @@
     "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
   },
   {
-    "description": "Open-source AI Agent platform \u2014 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 45,
-    "updated_at": "2026-08-22T15:40:08Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -376,77 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-22T14:55:46Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 30,
-    "updated_at": "2026-08-22T17:20:32Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-22T14:47:58Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Organize your Mac Downloads folder by project, not by file type. Renames opaque PDFs (arXiv IDs, UUIDs) to their real ti",
-    "id": "epoko77-ai/tidy-undo",
-    "language": "Python",
-    "name": "epoko77-ai/tidy-undo",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:44:51Z",
-    "url": "https://github.com/epoko77-ai/tidy-undo"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-08-22T14:35:21Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:34:26Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:08:29Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Open-source AI compute orchestration network \u2014 coordinates AI models, agents, and compute resources through one unified ",
-    "id": "Linear-Loop-Systems/GemmaNode",
-    "language": "Python",
-    "name": "Linear-Loop-Systems/GemmaNode",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:16:26Z",
-    "url": "https://github.com/Linear-Loop-Systems/GemmaNode"
-  },
-  {
-    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
-    "id": "xhqing/PersonalAssistantAgent",
-    "language": "\u2014",
-    "name": "xhqing/PersonalAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:11:19Z",
-    "url": "https://github.com/xhqing/PersonalAssistantAgent"
   }
 ]
