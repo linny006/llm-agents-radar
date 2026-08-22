@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:14:59Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
     "id": "BettyXu2001/how-deepseek-harness-works",
     "language": "JavaScript",
@@ -124,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T16:19:47Z",
     "url": "https://github.com/koprjaa/iphone-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:16:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -445,7 +445,7 @@
     "id": "Morephine/feltstate",
     "language": "Python",
     "name": "Morephine/feltstate",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-08-22T11:57:20Z",
     "url": "https://github.com/Morephine/feltstate"
   }
