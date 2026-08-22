@@ -1,5 +1,41 @@
 [
   {
+    "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
+    "id": "LazzzzyBoy/k8s-rca-agent",
+    "language": "Python",
+    "name": "LazzzzyBoy/k8s-rca-agent",
+    "stars": 1,
+    "updated_at": "2026-08-22T01:39:01Z",
+    "url": "https://github.com/LazzzzyBoy/k8s-rca-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-22T01:38:08Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:36:28Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:30:41Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
     "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
     "id": "getauxo/auxo-app",
     "language": "JavaScript",
@@ -13,7 +49,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 206,
+    "stars": 207,
     "updated_at": "2026-08-22T01:20:21Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -49,7 +85,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29185,
+    "stars": 29187,
     "updated_at": "2026-08-22T01:14:04Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -169,33 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T00:24:00Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
-    "id": "LazzzzyBoy/k8s-rca-agent",
-    "language": "Python",
-    "name": "LazzzzyBoy/k8s-rca-agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T00:08:09Z",
-    "url": "https://github.com/LazzzzyBoy/k8s-rca-agent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-21T23:29:28Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-21T23:29:09Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-21T17:14:18Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:55:40Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   }
 ]
