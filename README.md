@@ -71,7 +71,7 @@ expired items removed — so you can rely on what you see being current.
 | 27 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-22 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
 | 28 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 29 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-22 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 30 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 869 | TypeScript | 2026-08-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 30 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 870 | TypeScript | 2026-08-22 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
 | 31 | [Nouman-Amjad/Cairn](https://github.com/Nouman-Amjad/Cairn) | 5 | Python | 2026-08-22 | Agentic incident-analysis copilot: MCP tool servers, a cost-aware model router, an approval-gated write path, and a comp |
 | 32 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-22 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 33 | [QodeXcli/QodeX](https://github.com/QodeXcli/QodeX) | 32 | TypeScript | 2026-08-22 | QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St |
