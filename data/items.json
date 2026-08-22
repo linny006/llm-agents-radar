@@ -1,12 +1,66 @@
 [
   {
+    "description": "Control a real iPhone from a Mac over WebDriverAgent \u2014 live screen, tap/swipe/type, plus a Python client for LLM agents.",
+    "id": "koprjaa/iphone-agent",
+    "language": "Python",
+    "name": "koprjaa/iphone-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:14:36Z",
+    "url": "https://github.com/koprjaa/iphone-agent"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:13:30Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-22T16:12:52Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-22T16:10:41Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:10:12Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 218,
-    "updated_at": "2026-08-22T15:59:01Z",
+    "updated_at": "2026-08-22T16:06:35Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-22T16:00:34Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -45,31 +99,13 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-22T15:53:28Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-22T15:52:37Z",
+    "updated_at": "2026-08-22T16:14:50Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:48:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "PII masking and risk-scoring pipeline for security logs. n8n + Express + Upstage Solar. All data is synthetic (env=lab);",
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-22T15:24:45Z",
+    "updated_at": "2026-08-22T16:11:02Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-22T15:48:04Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
     "id": "alex8224/synapse-agent",
     "language": "Python",
@@ -378,15 +405,6 @@
     "url": "https://github.com/6z6z6z6z/TSCAgent"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:04:05Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
     "id": "Morephine/feltstate",
     "language": "Python",
@@ -423,15 +441,6 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:14:52Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-22T10:21:13Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-22T14:54:09Z",
-    "url": "https://github.com/aviskaar/zorp"
   }
 ]
