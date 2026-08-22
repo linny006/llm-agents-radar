@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-22 03:45 UTC
+> ⏰ Last updated: 2026-08-22 03:53 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-22 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 2 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 3 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-22 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 4 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 6 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 7 | [QodeXcli/QodeX](https://github.com/QodeXcli/QodeX) | 32 | TypeScript | 2026-08-22 | QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St |
-| 8 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 42 | Python | 2026-08-22 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
-| 9 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-22 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
-| 10 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-08-22 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
-| 11 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-22 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 12 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 0 | JavaScript | 2026-08-22 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
-| 13 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-08-22 | Verify area values quickly with this web-based HTML calculator tool. |
-| 14 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 15 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 14 | Rust | 2026-08-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
-| 16 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 1 | Python | 2026-08-22 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
-| 17 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-22 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 18 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 11 | Python | 2026-08-22 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 19 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-08-22 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
-| 20 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-08-22 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
-| 21 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-08-22 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
-| 22 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-08-22 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
-| 23 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 24 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-08-22 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
-| 25 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 123 | HTML | 2026-08-22 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-22 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 3 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-22 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-22 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 5 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 17 | JavaScript | 2026-08-22 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-22 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-22 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-22 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 9 | [QodeXcli/QodeX](https://github.com/QodeXcli/QodeX) | 32 | TypeScript | 2026-08-22 | QodeX — a local-first LLM agent & AI coding CLI agent for your terminal. Runs local models (Qwen3-Coder via Ollama/LM St |
+| 10 | [nexpeakcore/deepseek-harness-pr-review](https://github.com/nexpeakcore/deepseek-harness-pr-review) | 42 | Python | 2026-08-22 | AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real co |
+| 11 | [antitree/meshhermes](https://github.com/antitree/meshhermes) | 0 | Python | 2026-08-22 | Meshtastic LoRa mesh platform plugin for Hermes Agent — talk to your agent over the air, off-grid. |
+| 12 | [rugose-learnedprofession58/pi-dsh](https://github.com/rugose-learnedprofession58/pi-dsh) | 0 | TypeScript | 2026-08-22 | Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting |
+| 13 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-22 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 14 | [abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) | 0 | JavaScript | 2026-08-22 | Build structured prompts with reference media for MiniMax H3 video model in ComfyUI. |
+| 15 | [passive-hotpepper515/area-checker-html-tool](https://github.com/passive-hotpepper515/area-checker-html-tool) | 0 | HTML | 2026-08-22 | Verify area values quickly with this web-based HTML calculator tool. |
+| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-22 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 17 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 14 | Rust | 2026-08-22 | Bamboo — a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents |
+| 18 | [Blondieredistributed612/pocket-agent](https://github.com/Blondieredistributed612/pocket-agent) | 1 | Python | 2026-08-22 | Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte |
+| 19 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-22 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 20 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 11 | Python | 2026-08-22 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 21 | [bettersilvanus849/inner-coordinates](https://github.com/bettersilvanus849/inner-coordinates) | 1 | Shell | 2026-08-22 | Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s |
+| 22 | [Blaz742/web-pentest-lab](https://github.com/Blaz742/web-pentest-lab) | 0 | — | 2026-08-22 | Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets. |
+| 23 | [Elevated-homer201/prompt-gate](https://github.com/Elevated-homer201/prompt-gate) | 1 | — | 2026-08-22 | Filter LLM prompts and shield applications from data leakage using a specialized security gateway. |
+| 24 | [Indrasclerotinia71/local-ai-research-assistant](https://github.com/Indrasclerotinia71/local-ai-research-assistant) | 0 | Python | 2026-08-22 | Automate research tasks with local LLMs, real-time web search, and structured report generation. |
+| 25 | [Furrowed-subphylumurochorda108/kimi-K2.6](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) | 3 | Python | 2026-08-22 | Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model. |
 | 26 | [mpardakaskon-boop/obsidian-llm-wiki-local](https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local) | 1 | — | 2026-08-22 | Query your Obsidian vault using local LLMs to generate text and retrieve information. |
 | 27 | [cyberflax2020/project-contract-harness](https://github.com/cyberflax2020/project-contract-harness) | 1 | Python | 2026-08-22 | A reusable skill & plugin kit for long-running AI coding agents: file-backed delivery contracts, discriminative validati |
 | 28 | [alex8224/synapse-agent](https://github.com/alex8224/synapse-agent) | 8 | Python | 2026-08-22 |  Where intent meets code — a local AI coding agent          |

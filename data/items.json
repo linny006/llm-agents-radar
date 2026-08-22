@@ -1,5 +1,23 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-22T03:51:24Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-22T03:50:10Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 14,
-    "updated_at": "2026-08-22T03:10:29Z",
+    "updated_at": "2026-08-22T03:53:04Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -198,15 +216,6 @@
     "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-22T02:59:52Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
     "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
     "language": "Python",
@@ -214,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-08-22T02:59:07Z",
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-22T02:58:57Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
