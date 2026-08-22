@@ -1,5 +1,23 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-22T06:28:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 6,
+    "updated_at": "2026-08-22T06:26:20Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
     "description": "\uc6e8\uc774\ud37c \uc218\uc728 \ubd84\uc11d \ub300\uc2dc\ubcf4\ub4dc - \uc790\uc5f0\uc5b4 \uc9c8\uc758\ub85c \ubd84\uc11d\ud558\uace0 \ubcf4\uace0\uc11c\ub97c \uc790\ub3d9 \uc0dd\uc131\ud558\ub294 LLM \uc5d0\uc774\uc804\ud2b8 \ub0b4\uc7a5",
     "id": "seong-eun822/wafer-yield-dashboard",
     "language": "Python",
@@ -151,15 +169,6 @@
     "stars": 126,
     "updated_at": "2026-08-22T05:24:29Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-22T05:20:54Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\ud83c\udfb5 \u4e13\u5c5e\u4f60\u7684\u79c1\u4eba\u6570\u5b57\u8c03\u97f3\u5e08|AI \u97f3\u4e50\u641c\u7d22\u63a8\u8350 Agent | \u57fa\u4e8e\u5927\u6a21\u578b + \u77e5\u8bc6\u56fe\u8c31 + \u53cc\u6a21\u578b\u58f0\u5b66\u5411\u91cf\u7684\u672c\u5730\u667a\u80fd\u97f3\u4e50\u63a8\u8350\u7cfb\u7edf | LLM-powered Music Recommendation Agent with Hybrid R",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T02:41:45Z",
     "url": "https://github.com/Ronit0p/AutoGod"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-08-22T02:40:12Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
