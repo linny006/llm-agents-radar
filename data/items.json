@@ -1,12 +1,30 @@
 [
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-22T18:41:33Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-22T18:39:27Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-22T18:26:38Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 123,
+    "updated_at": "2026-08-22T18:38:52Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "Intent-driven network operations agent \u2014 natural-language intent to verified, rollback-safe policy changes. k8sgpt-for-n",
@@ -14,8 +32,44 @@
     "language": "Python",
     "name": "wufufu770/NetMind",
     "stars": 0,
-    "updated_at": "2026-08-22T18:25:58Z",
+    "updated_at": "2026-08-22T18:38:09Z",
     "url": "https://github.com/wufufu770/NetMind"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-22T18:37:55Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-22T18:37:07Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-22T18:31:31Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-22T18:26:38Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -63,15 +117,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-22T18:21:14Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
     "id": "Stephenson-Software/create-dev-loop",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T18:07:34Z",
     "url": "https://github.com/Stephenson-Software/create-dev-loop"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-22T18:02:01Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "LLM-driven pentest/CTF agent harness: scope-enforced, sandboxed, audit-logged",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T17:57:51Z",
     "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-22T17:57:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
@@ -342,24 +369,6 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 123,
-    "updated_at": "2026-08-22T17:26:05Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-22T17:26:03Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -401,7 +410,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-22T18:28:46Z",
+    "updated_at": "2026-08-22T18:39:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-22T16:28:29Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Control a real iPhone from a Mac over WebDriverAgent \u2014 live screen, tap/swipe/type, plus a Python client for LLM agents.",
-    "id": "koprjaa/iphone-agent",
-    "language": "Python",
-    "name": "koprjaa/iphone-agent",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:19:47Z",
-    "url": "https://github.com/koprjaa/iphone-agent"
   }
 ]
