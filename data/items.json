@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
     "stars": 206,
-    "updated_at": "2026-08-21T23:47:51Z",
+    "updated_at": "2026-08-22T00:00:02Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-21T23:58:56Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -14,8 +23,17 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-21T23:31:47Z",
+    "updated_at": "2026-08-21T23:53:27Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-21T23:50:03Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -34,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T23:29:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-21T23:28:27Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -169,15 +178,6 @@
     "stars": 9,
     "updated_at": "2026-08-21T21:52:42Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:35:02Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "The official implementation for paper \"AdaExplore: Failure-Driven Adaptation and Diversity-Preserving Search for Efficie",
