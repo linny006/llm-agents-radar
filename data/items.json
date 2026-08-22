@@ -1,5 +1,14 @@
 [
   {
+    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 30,
+    "updated_at": "2026-08-22T19:16:03Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
     "id": "Om-Khode/TENKA",
     "language": "Python",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-22T19:11:06Z",
+    "updated_at": "2026-08-22T19:15:46Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T17:03:31Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-22T16:44:29Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   }
 ]
