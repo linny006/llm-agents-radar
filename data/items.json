@@ -1,11 +1,47 @@
 [
   {
+    "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
+    "id": "BettyXu2001/how-deepseek-harness-works",
+    "language": "JavaScript",
+    "name": "BettyXu2001/how-deepseek-harness-works",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:48:23Z",
+    "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
+  },
+  {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:48:20Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 223,
+    "updated_at": "2026-08-23T09:48:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-08-23T09:47:35Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T09:44:59Z",
+    "updated_at": "2026-08-23T09:49:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 175,
-    "updated_at": "2026-08-23T09:44:30Z",
+    "updated_at": "2026-08-23T09:48:27Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T09:35:01Z",
     "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:33:38Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -288,24 +315,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
-    "id": "BettyXu2001/how-deepseek-harness-works",
-    "language": "JavaScript",
-    "name": "BettyXu2001/how-deepseek-harness-works",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:04:08Z",
-    "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:01:20Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "bwrap\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3068OpenRouter\u3067\u52d5\u304f1\u30d5\u30a1\u30a4\u30eb\u306e\u30df\u30cb\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8",
     "id": "elm200/bwrap-mini-agent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:22:18Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
-    "id": "Laurenfeminine36/google-jules-skill",
-    "language": "Python",
-    "name": "Laurenfeminine36/google-jules-skill",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:22:02Z",
-    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
   }
 ]
