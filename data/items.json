@@ -1,5 +1,32 @@
 [
   {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-23T18:58:49Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T18:56:58Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-23T18:53:26Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
     "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
     "id": "eshanized/M31A",
     "language": "Go",
@@ -16,24 +43,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T18:50:09Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-23T18:53:26Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-23T18:50:33Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -106,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T18:35:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:29:24Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -329,7 +329,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 885,
-    "updated_at": "2026-08-23T17:00:53Z",
+    "updated_at": "2026-08-23T18:58:26Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {

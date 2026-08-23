@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 18:54 UTC
+> ⏰ Last updated: 2026-08-23 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Go | 2026-08-23 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 1 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-23 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
 | 3 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-23 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 4 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 5 | [helixml/helix](https://github.com/helixml/helix) | 801 | Go | 2026-08-23 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 6 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 228 | Python | 2026-08-23 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 8 | [titanwings/distilly](https://github.com/titanwings/distilly) | 23856 | Python | 2026-08-23 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
-| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 11 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 19 | Python | 2026-08-23 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
-| 12 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-23 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
-| 13 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-23 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 4 | [eshanized/M31A](https://github.com/eshanized/M31A) | 8 | Go | 2026-08-23 | The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr |
+| 5 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 6 | [helixml/helix](https://github.com/helixml/helix) | 801 | Go | 2026-08-23 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 228 | Python | 2026-08-23 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [titanwings/distilly](https://github.com/titanwings/distilly) | 23856 | Python | 2026-08-23 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
+| 10 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 11 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 12 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 19 | Python | 2026-08-23 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
+| 13 | [dsswift/ion](https://github.com/dsswift/ion) | 4 | TypeScript | 2026-08-23 | Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions. |
 | 14 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 15 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-23 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
 | 16 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
