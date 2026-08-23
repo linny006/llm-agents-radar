@@ -1,12 +1,48 @@
 [
   {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-23T18:51:54Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T18:50:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-23T18:53:26Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T18:44:39Z",
+    "updated_at": "2026-08-23T18:50:33Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 801,
+    "updated_at": "2026-08-23T18:44:24Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -70,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T18:35:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 801,
-    "updated_at": "2026-08-23T18:44:24Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -151,15 +178,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T18:15:33Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T18:13:28Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
@@ -241,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T17:30:37Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-23T17:28:31Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-23T15:43:45Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "A real-time physics playground simulating a robotic Virtual Hardware Abstraction Layer (V-HAL). Hot-swap between human  ",
-    "id": "gauraang01/llm-vs-nn-breakout",
-    "language": "Python",
-    "name": "gauraang01/llm-vs-nn-breakout",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:29:08Z",
-    "url": "https://github.com/gauraang01/llm-vs-nn-breakout"
   }
 ]
