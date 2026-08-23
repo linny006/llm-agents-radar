@@ -1,5 +1,14 @@
 [
   {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4099,
+    "updated_at": "2026-08-23T01:32:58Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -13,7 +22,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5783,
+    "stars": 5784,
     "updated_at": "2026-08-23T01:26:34Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:32:27Z",
     "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4099,
-    "updated_at": "2026-08-23T00:31:41Z",
-    "url": "https://github.com/langroid/langroid"
   },
   {
     "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
