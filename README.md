@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 11:22 UTC
+> ⏰ Last updated: 2026-08-23 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 3 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 4 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-23 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
-| 5 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 223 | Python | 2026-08-23 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 5 | Python | 2026-08-23 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
-| 8 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-23 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 9 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-23 | AI-powered image generation and chat studio |
-| 10 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-23 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 11 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-23 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 12 | [qualv13/neo4j-agent](https://github.com/qualv13/neo4j-agent) | 0 | Python | 2026-08-23 | DrugPath - an AI agent over a biomedical knowledge graph (Hetionet on Neo4j Aura) that explains drug mechanisms, interac |
-| 13 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 510 | Go | 2026-08-23 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
-| 14 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-23 | 自动分析 GitHub Issue 根因，输出带行号证据的修复建议，默认只读 |
-| 15 | [forwaryan/rumor-checking](https://github.com/forwaryan/rumor-checking) | 0 | Python | 2026-08-23 | 带执行过程可视化的中文谣言核查:拆原子事实、多源并行检索、逐条判真假,全程流式可观测 |
-| 16 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 1 | Python | 2026-08-23 | Python 爬虫库：TLS 隐身、自适应选择器、JS 逆向，带 Spider 框架和本地 Web UI |
-| 17 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 上传数据集自动清洗、统计、可视化并生成报告 |
-| 18 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 19 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 3 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 6 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-23 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
+| 7 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 223 | Python | 2026-08-23 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 8 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 9 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 5 | Python | 2026-08-23 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
+| 10 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-23 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 11 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-23 | AI-powered image generation and chat studio |
+| 12 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-23 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
+| 13 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-23 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
+| 14 | [qualv13/neo4j-agent](https://github.com/qualv13/neo4j-agent) | 0 | Python | 2026-08-23 | DrugPath - an AI agent over a biomedical knowledge graph (Hetionet on Neo4j Aura) that explains drug mechanisms, interac |
+| 15 | [mnemon-dev/mnemon](https://github.com/mnemon-dev/mnemon) | 510 | Go | 2026-08-23 | LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with  |
+| 16 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-23 | 自动分析 GitHub Issue 根因，输出带行号证据的修复建议，默认只读 |
+| 17 | [forwaryan/rumor-checking](https://github.com/forwaryan/rumor-checking) | 0 | Python | 2026-08-23 | 带执行过程可视化的中文谣言核查:拆原子事实、多源并行检索、逐条判真假,全程流式可观测 |
+| 18 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 1 | Python | 2026-08-23 | Python 爬虫库：TLS 隐身、自适应选择器、JS 逆向，带 Spider 框架和本地 Web UI |
+| 19 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 上传数据集自动清洗、统计、可视化并生成报告 |
 | 20 | [gptme/gptme](https://github.com/gptme/gptme) | 4392 | Python | 2026-08-23 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 21 | [MediaTrex/SSM-Hackathon](https://github.com/MediaTrex/SSM-Hackathon) | 0 | TypeScript | 2026-08-23 | AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera |
 | 22 | [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) | 6392 | — | 2026-08-23 | 非线智能 NoneLinear - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括374个大模型，覆盖chatgpt、gpt-5.4、谷歌gemini-3.1-pro、Claude-4.6、文心ERNIE-X1.1、ERNIE |
@@ -87,7 +87,7 @@ expired items removed — so you can rely on what you see being current.
 | 43 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-23 | Benzi is code intelligence infrastructure for AI agents. |
 | 44 | [hoshiyomiX/stellar-trails](https://github.com/hoshiyomiX/stellar-trails) | 0 | Shell | 2026-08-23 | Universal task workflow for LLM agents — phase state machine with traceability IDs, artifact templates, source state ver |
 | 45 | [xu-jia-ming/memory_system](https://github.com/xu-jia-ming/memory_system) | 0 | Python | 2026-08-23 | Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo |
-| 46 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5787 | Python | 2026-08-23 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 46 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5788 | Python | 2026-08-23 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
 | 47 | [helixml/helix](https://github.com/helixml/helix) | 801 | Go | 2026-08-23 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
 | 48 | [letta-ai/letta](https://github.com/letta-ai/letta) | 24359 | — | 2026-08-23 | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. |
 | 49 | [elm200/bwrap-mini-agent](https://github.com/elm200/bwrap-mini-agent) | 0 | Python | 2026-08-23 | bwrapサンドボックスとOpenRouterで動く1ファイルのミニコーディングエージェント |
