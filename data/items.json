@@ -1,12 +1,57 @@
 [
   {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 5,
+    "updated_at": "2026-08-23T07:59:54Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "File-based AI tutoring harness for self-study: an LLM agent teaches from your own textbooks while every judgment call \u2014 ",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:58:48Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:58:33Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "bwrap\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3068OpenRouter\u3067\u52d5\u304f1\u30d5\u30a1\u30a4\u30eb\u306e\u30df\u30cb\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8",
     "id": "elm200/bwrap-mini-agent",
     "language": "Python",
     "name": "elm200/bwrap-mini-agent",
     "stars": 0,
-    "updated_at": "2026-08-23T07:53:33Z",
+    "updated_at": "2026-08-23T07:56:15Z",
     "url": "https://github.com/elm200/bwrap-mini-agent"
+  },
+  {
+    "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learn",
+    "id": "vibeinging/dsh-red-alert",
+    "language": "JavaScript",
+    "name": "vibeinging/dsh-red-alert",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:55:19Z",
+    "url": "https://github.com/vibeinging/dsh-red-alert"
+  },
+  {
+    "description": "",
+    "id": "Prism-Shadow/learn-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Prism-Shadow/learn-deepseek-harness",
+    "stars": 10,
+    "updated_at": "2026-08-23T07:54:52Z",
+    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
@@ -126,15 +171,6 @@
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:33:32Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
     "id": "pruthviraj00007/VibeHarness",
     "language": "Python",
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:19:21Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "",
-    "id": "Prism-Shadow/learn-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Prism-Shadow/learn-deepseek-harness",
-    "stars": 10,
-    "updated_at": "2026-08-23T07:54:52Z",
-    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
   },
   {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T06:19:09Z",
     "url": "https://github.com/xianyu-sheng/SmartBench"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-23T06:15:58Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 181,
-    "updated_at": "2026-08-23T06:37:03Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-23T05:34:35Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   }
 ]
