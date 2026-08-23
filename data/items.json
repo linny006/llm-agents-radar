@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
+    "id": "MediaTrex/SSM-Hackathon",
+    "language": "TypeScript",
+    "name": "MediaTrex/SSM-Hackathon",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:59:59Z",
+    "url": "https://github.com/MediaTrex/SSM-Hackathon"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 226,
+    "updated_at": "2026-08-23T17:59:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-23T17:58:12Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:56:44Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
     "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
     "id": "yildirimemirhan/wbc-analyzer",
     "language": "Python",
@@ -72,15 +108,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
-    "id": "MediaTrex/SSM-Hackathon",
-    "language": "TypeScript",
-    "name": "MediaTrex/SSM-Hackathon",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:37:58Z",
-    "url": "https://github.com/MediaTrex/SSM-Hackathon"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -106,15 +133,6 @@
     "stars": 33,
     "updated_at": "2026-08-23T17:28:31Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 226,
-    "updated_at": "2026-08-23T17:28:02Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -223,15 +241,6 @@
     "stars": 31,
     "updated_at": "2026-08-23T17:02:12Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:01:14Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:43:41Z",
     "url": "https://github.com/forwaryan/rumor-checking"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:58:33Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   }
 ]
