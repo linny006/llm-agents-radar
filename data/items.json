@@ -1,12 +1,12 @@
 [
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
+    "id": "xianyu-sheng/Xenon",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-23T05:59:47Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-23T06:14:35Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -14,17 +14,35 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-23T05:56:03Z",
+    "updated_at": "2026-08-23T06:08:43Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
-    "id": "xianyu-sheng/Xenon",
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 181,
+    "updated_at": "2026-08-23T06:08:40Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T06:01:31Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-23T05:55:11Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T06:11:35Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:53:43Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T05:39:47Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -86,7 +95,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-23T05:53:49Z",
+    "updated_at": "2026-08-23T06:10:46Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "nexpeakcore/deepseek-harness-pr-review",
     "stars": 42,
-    "updated_at": "2026-08-23T05:31:46Z",
+    "updated_at": "2026-08-23T06:12:39Z",
     "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 13,
     "updated_at": "2026-08-23T04:09:16Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 181,
-    "updated_at": "2026-08-23T04:36:29Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
