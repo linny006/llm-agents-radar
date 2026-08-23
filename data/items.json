@@ -1,12 +1,66 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 172,
+    "updated_at": "2026-08-23T08:54:39Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "",
+    "id": "Prism-Shadow/learn-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Prism-Shadow/learn-deepseek-harness",
+    "stars": 10,
+    "updated_at": "2026-08-23T08:52:34Z",
+    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-23T08:48:58Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
     "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-23T08:43:30Z",
+    "updated_at": "2026-08-23T08:48:53Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-23T08:47:35Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
+    "id": "xu-jia-ming/memory_system",
+    "language": "Python",
+    "name": "xu-jia-ming/memory_system",
+    "stars": 0,
+    "updated_at": "2026-08-23T08:45:26Z",
+    "url": "https://github.com/xu-jia-ming/memory_system"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-23T08:45:04Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T08:39:55Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:45:15Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -61,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-08-23T08:36:50Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:45:04Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -117,21 +153,12 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 172,
-    "updated_at": "2026-08-23T08:12:37Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4392,
-    "updated_at": "2026-08-23T08:19:37Z",
+    "updated_at": "2026-08-23T08:54:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "",
-    "id": "Prism-Shadow/learn-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Prism-Shadow/learn-deepseek-harness",
-    "stars": 10,
-    "updated_at": "2026-08-23T08:07:23Z",
-    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T08:04:08Z",
     "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-23T08:01:40Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:11:46Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:08:31Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   }
 ]
