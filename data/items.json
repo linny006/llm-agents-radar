@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-23T21:57:44Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -284,7 +293,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-23T21:56:19Z",
+    "updated_at": "2026-08-23T21:59:20Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T20:33:24Z",
+    "updated_at": "2026-08-23T21:59:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -328,7 +337,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 887,
+    "stars": 888,
     "updated_at": "2026-08-23T19:50:38Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -392,7 +401,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-08-23T19:17:20Z",
+    "updated_at": "2026-08-23T21:58:38Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-23T18:51:54Z",
     "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 228,
-    "updated_at": "2026-08-23T18:43:38Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
