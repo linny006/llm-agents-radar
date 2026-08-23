@@ -1,5 +1,50 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-23T21:27:00Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T21:27:00Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-23T21:26:40Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-23T21:23:26Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-23T21:23:03Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-23T21:18:28Z",
+    "updated_at": "2026-08-23T21:21:34Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -54,15 +99,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:17:37Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "\ud83e\udd16 Agent Skill \u4f18\u5148\uff1a\u4e00\u53e5\u81ea\u7136\u8bed\u8a00\u628a\u89c6\u9891\u53d8\u6210\u5e26\u65f6\u95f4\u6233\u5b57\u5e55\u3001\u77e5\u8bc6\u6587\u6863\u3001\u56fe\u6587\u7b14\u8bb0\u4e0e Anki \u5361\u7247\u2014\u2014SKILL.md \u9a71\u52a8 agent \u81ea\u52a8\u7f16\u6392\u4e09\u6761\u672c\u5730\u8def\u5f84\uff08VLM \u591a\u6a21\u6001 / faster-whisper ASR / \u97f3\u753b\u878d\u5408\uff09",
     "id": "CacinieP/video2knowledge",
     "language": "Python",
@@ -86,7 +122,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-23T21:00:40Z",
+    "updated_at": "2026-08-23T21:30:05Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T20:57:42Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:57:13Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
@@ -180,15 +207,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-23T20:46:19Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
     "id": "SHUKLAO/call-with-ai-agent",
     "language": "\u2014",
@@ -225,30 +243,12 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-23T20:30:08Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:29:30Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "",
     "id": "apolmig/fronteraeval",
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-23T21:03:33Z",
+    "updated_at": "2026-08-23T21:29:57Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
