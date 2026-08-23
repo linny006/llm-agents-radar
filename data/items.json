@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
+    "id": "LuKresXD/claw-skeleton",
+    "language": "TypeScript",
+    "name": "LuKresXD/claw-skeleton",
+    "stars": 40,
+    "updated_at": "2026-08-23T21:39:28Z",
+    "url": "https://github.com/LuKresXD/claw-skeleton"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T21:35:43Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T21:30:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -81,15 +108,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:11:57Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T21:03:09Z",
     "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:30:05Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
@@ -248,7 +257,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-23T21:29:57Z",
+    "updated_at": "2026-08-23T21:40:54Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T20:33:24Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
-    "id": "LuKresXD/claw-skeleton",
-    "language": "TypeScript",
-    "name": "LuKresXD/claw-skeleton",
-    "stars": 40,
-    "updated_at": "2026-08-23T20:05:09Z",
-    "url": "https://github.com/LuKresXD/claw-skeleton"
   },
   {
     "description": "LLM-powered agentic workflow that investigates bugs and generates evidence-backed RCAs, with MCP connectors for Jira, Gi",
@@ -409,7 +409,7 @@
     "id": "letta-ai/letta",
     "language": "\u2014",
     "name": "letta-ai/letta",
-    "stars": 24372,
+    "stars": 24373,
     "updated_at": "2026-08-23T19:05:43Z",
     "url": "https://github.com/letta-ai/letta"
   },
