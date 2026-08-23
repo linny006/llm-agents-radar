@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
+    "id": "yildirimemirhan/wbc-analyzer",
+    "language": "Python",
+    "name": "yildirimemirhan/wbc-analyzer",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:54:43Z",
+    "url": "https://github.com/yildirimemirhan/wbc-analyzer"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:51:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-23T17:50:44Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T17:48:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 2,
+    "updated_at": "2026-08-23T17:48:05Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -22,7 +67,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 175,
+    "stars": 176,
     "updated_at": "2026-08-23T17:39:39Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -45,15 +90,6 @@
     "url": "https://github.com/dsswift/ion"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:31:29Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T17:30:37Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:28:38Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -133,15 +160,6 @@
     "stars": 3728,
     "updated_at": "2026-08-23T17:23:42Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-23T17:20:37Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
@@ -220,7 +238,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 884,
+    "stars": 885,
     "updated_at": "2026-08-23T17:00:53Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -360,15 +378,6 @@
     "url": "https://github.com/gauraang01/llm-vs-nn-breakout"
   },
   {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T15:26:13Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:58:33Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learn",
-    "id": "vibeinging/dsh-red-alert",
-    "language": "JavaScript",
-    "name": "vibeinging/dsh-red-alert",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:35:08Z",
-    "url": "https://github.com/vibeinging/dsh-red-alert"
   }
 ]
