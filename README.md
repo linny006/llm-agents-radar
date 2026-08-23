@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 06:45 UTC
+> ⏰ Last updated: 2026-08-23 06:49 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-23 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 3 | [CacinieP/video2knowledge](https://github.com/CacinieP/video2knowledge) | 4 | Python | 2026-08-23 | 🤖 Agent Skill 优先：一句自然语言把视频变成带时间戳字幕、知识文档、图文笔记与 Anki 卡片——SKILL.md 驱动 agent 自动编排三条本地路径（VLM 多模态 / faster-whisper ASR / 音画融合） |
-| 4 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-23 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
-| 5 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 6 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-23 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
+| 1 | [Om-Khode/TENKA](https://github.com/Om-Khode/TENKA) | 7 | Python | 2026-08-23 | Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows. |
+| 2 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-23 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 4 | [CacinieP/video2knowledge](https://github.com/CacinieP/video2knowledge) | 4 | Python | 2026-08-23 | 🤖 Agent Skill 优先：一句自然语言把视频变成带时间戳字幕、知识文档、图文笔记与 Anki 卡片——SKILL.md 驱动 agent 自动编排三条本地路径（VLM 多模态 / faster-whisper ASR / 音画融合） |
+| 5 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-23 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
+| 6 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 7 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
 | 8 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-23 | Xenon — Agent Harness for AI coding agents. 7 种可替换推理范式 + Evidence Runtime 验证闭环（工具结果是 Evidence，LLM 输出只是 Claim）+ 执行隔离边界 +  |
 | 9 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
