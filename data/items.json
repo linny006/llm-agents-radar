@@ -1,5 +1,23 @@
 [
   {
+    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
+    "id": "peder1981/AdvPP",
+    "language": "Go",
+    "name": "peder1981/AdvPP",
+    "stars": 2,
+    "updated_at": "2026-08-23T20:58:00Z",
+    "url": "https://github.com/peder1981/AdvPP"
+  },
+  {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-23T20:57:42Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
     "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -79,15 +97,6 @@
     "stars": 9,
     "updated_at": "2026-08-23T20:46:19Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
-    "id": "peder1981/AdvPP",
-    "language": "Go",
-    "name": "peder1981/AdvPP",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:44:13Z",
-    "url": "https://github.com/peder1981/AdvPP"
   },
   {
     "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:56:44Z",
     "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "AI-powered pathology assistant for White Blood Cell classification, featuring a custom lightweight DenseNet121 architect",
-    "id": "yildirimemirhan/wbc-analyzer",
-    "language": "Python",
-    "name": "yildirimemirhan/wbc-analyzer",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:54:43Z",
-    "url": "https://github.com/yildirimemirhan/wbc-analyzer"
   }
 ]
