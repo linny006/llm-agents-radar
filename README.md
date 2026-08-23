@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 22:17 UTC
+> ⏰ Last updated: 2026-08-23 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 3 | Python | 2026-08-23 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
-| 2 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 4 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-08-23 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
-| 5 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-23 |  |
-| 6 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-23 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
-| 7 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 8 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 175 | Rust | 2026-08-23 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
-| 9 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-23 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 10 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-23 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 11 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-23 | Benzi is code intelligence infrastructure for AI agents. |
-| 12 | [LuKresXD/claw-skeleton](https://github.com/LuKresXD/claw-skeleton) | 40 | TypeScript | 2026-08-23 | 🪼 A personal AI assistant that lives in Telegram — every topic is its own isolated Claude Code agent with layered persis |
-| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 14 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
-| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 16 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-23 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 1 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 2 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 3 | [Furox-Art/axiomize](https://github.com/Furox-Art/axiomize) | 0 | Python | 2026-08-23 | AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv |
+| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 5 | [the-priest/PriestsBasilisk](https://github.com/the-priest/PriestsBasilisk) | 3 | Python | 2026-08-23 | Open-source autonomous AI pentester that proves every exploit — 87/113 on OWASP Juice Shop, black-box, on a budget model |
+| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-23 |  |
+| 9 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-23 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
+| 10 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 11 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 175 | Rust | 2026-08-23 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. |
+| 12 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-23 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 13 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-23 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
+| 14 | [oooscoos/Benzi](https://github.com/oooscoos/Benzi) | 9 | Python | 2026-08-23 | Benzi is code intelligence infrastructure for AI agents. |
+| 15 | [LuKresXD/claw-skeleton](https://github.com/LuKresXD/claw-skeleton) | 40 | TypeScript | 2026-08-23 | 🪼 A personal AI assistant that lives in Telegram — every topic is its own isolated Claude Code agent with layered persis |
+| 16 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
+| 17 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-23 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 18 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-23 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 19 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 45 | Rust | 2026-08-23 | Open-source AI Agent platform — 80+ MCP tools, 7 channels (Slack/Discord/LINE/Telegram), Rust + Python. Self-hostable Cl |
 | 20 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-23 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [vesslina/mikrotik-harness](https://github.com/vesslina/mikrotik-harness) | 1 | Python | 2026-08-23 | MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati |
 | 48 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 31 | Python | 2026-08-23 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
 | 49 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-08-23 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 50 | [letta-ai/letta](https://github.com/letta-ai/letta) | 24373 | — | 2026-08-23 | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. |
+| 50 | [letta-ai/letta](https://github.com/letta-ai/letta) | 24374 | — | 2026-08-23 | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. |
 <!-- TRACKER_TABLE_END -->
 
 ---

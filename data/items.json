@@ -1,5 +1,41 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-23T22:28:36Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-23T22:27:35Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:24:47Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-23T22:18:50Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T22:13:01Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-23T22:11:58Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "",
@@ -108,15 +135,6 @@
     "url": "https://github.com/LuKresXD/claw-skeleton"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-23T21:27:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -126,15 +144,6 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:26:40Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:23:03Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-23T21:18:55Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -302,7 +302,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-23T22:10:59Z",
+    "updated_at": "2026-08-23T22:21:15Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -445,7 +445,7 @@
     "id": "letta-ai/letta",
     "language": "\u2014",
     "name": "letta-ai/letta",
-    "stars": 24373,
+    "stars": 24374,
     "updated_at": "2026-08-23T19:05:43Z",
     "url": "https://github.com/letta-ai/letta"
   }
