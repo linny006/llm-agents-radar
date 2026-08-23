@@ -1,21 +1,66 @@
 [
   {
-    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
-    "id": "MediaTrex/SSM-Hackathon",
-    "language": "TypeScript",
-    "name": "MediaTrex/SSM-Hackathon",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:59:59Z",
-    "url": "https://github.com/MediaTrex/SSM-Hackathon"
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T18:13:28Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 19,
+    "updated_at": "2026-08-23T18:12:30Z",
+    "url": "https://github.com/jonortega20/fantasybot"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 226,
-    "updated_at": "2026-08-23T17:59:05Z",
+    "stars": 227,
+    "updated_at": "2026-08-23T18:12:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
+    "id": "MediaTrex/SSM-Hackathon",
+    "language": "TypeScript",
+    "name": "MediaTrex/SSM-Hackathon",
+    "stars": 0,
+    "updated_at": "2026-08-23T18:11:56Z",
+    "url": "https://github.com/MediaTrex/SSM-Hackathon"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 17,
+    "updated_at": "2026-08-23T18:09:13Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-23T18:05:01Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 23856,
+    "updated_at": "2026-08-23T18:03:22Z",
+    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
@@ -23,8 +68,26 @@
     "language": "Python",
     "name": "oooscoos/Benzi",
     "stars": 9,
-    "updated_at": "2026-08-23T17:58:12Z",
+    "updated_at": "2026-08-23T18:01:59Z",
     "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-23T18:01:51Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T18:00:37Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -45,33 +108,6 @@
     "url": "https://github.com/yildirimemirhan/wbc-analyzer"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:51:24Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-23T17:50:44Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T17:48:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -79,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T17:48:05Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 17,
-    "updated_at": "2026-08-23T17:42:53Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 23854,
-    "updated_at": "2026-08-23T17:40:57Z",
-    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-23T17:43:27Z",
+    "updated_at": "2026-08-23T18:02:17Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -283,7 +301,7 @@
     "id": "honestDS/MonoLight",
     "language": "Python",
     "name": "honestDS/MonoLight",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-23T16:41:03Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
@@ -374,7 +392,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-08-23T15:41:04Z",
+    "updated_at": "2026-08-23T18:05:52Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:51:26Z",
     "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-08-23T14:49:27Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "\u5e26\u6267\u884c\u8fc7\u7a0b\u53ef\u89c6\u5316\u7684\u4e2d\u6587\u8c23\u8a00\u6838\u67e5:\u62c6\u539f\u5b50\u4e8b\u5b9e\u3001\u591a\u6e90\u5e76\u884c\u68c0\u7d22\u3001\u9010\u6761\u5224\u771f\u5047,\u5168\u7a0b\u6d41\u5f0f\u53ef\u89c2\u6d4b",
-    "id": "forwaryan/rumor-checking",
-    "language": "Python",
-    "name": "forwaryan/rumor-checking",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:43:41Z",
-    "url": "https://github.com/forwaryan/rumor-checking"
   }
 ]
