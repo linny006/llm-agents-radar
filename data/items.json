@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-23T20:29:30Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-23T20:26:00Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:24:46Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-23T20:19:32Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-23T20:19:32Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
+    "id": "xiaomaozjj666/issue-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/issue-agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:18:04Z",
+    "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:16:40Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4392,
+    "updated_at": "2026-08-23T20:19:38Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
+    "id": "Bobby-Gray/open-tabletop-gm",
+    "language": "Python",
+    "name": "Bobby-Gray/open-tabletop-gm",
+    "stars": 48,
+    "updated_at": "2026-08-23T20:15:57Z",
+    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -63,24 +144,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:54:57Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:53:44Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -117,15 +180,6 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:44:30Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
     "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
     "id": "mintuz/skills",
     "language": "Go",
@@ -149,35 +203,8 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 124,
-    "updated_at": "2026-08-23T19:26:16Z",
+    "updated_at": "2026-08-23T20:30:08Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-23T19:26:01Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:15:19Z",
-    "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-23T19:20:16Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -391,7 +418,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 187,
+    "stars": 189,
     "updated_at": "2026-08-23T17:39:39Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -421,32 +448,5 @@
     "stars": 3728,
     "updated_at": "2026-08-23T17:23:42Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/smart-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/smart-subagent",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:11:25Z",
-    "url": "https://github.com/ZekaiShi/smart-subagent"
-  },
-  {
-    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
-    "id": "kasparovabi/dsh-studio",
-    "language": "Swift",
-    "name": "kasparovabi/dsh-studio",
-    "stars": 1,
-    "updated_at": "2026-08-23T17:06:37Z",
-    "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-23T18:02:17Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   }
 ]
