@@ -1,5 +1,86 @@
 [
   {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 6,
+    "updated_at": "2026-08-23T15:43:45Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/smart-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/smart-subagent",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:42:48Z",
+    "url": "https://github.com/ZekaiShi/smart-subagent"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 17,
+    "updated_at": "2026-08-23T15:42:31Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
+    "id": "ChanTso/citybuddy",
+    "language": "Java",
+    "name": "ChanTso/citybuddy",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:41:04Z",
+    "url": "https://github.com/ChanTso/citybuddy"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 225,
+    "updated_at": "2026-08-23T15:34:38Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:33:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
+    "id": "MediaTrex/SSM-Hackathon",
+    "language": "TypeScript",
+    "name": "MediaTrex/SSM-Hackathon",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:30:57Z",
+    "url": "https://github.com/MediaTrex/SSM-Hackathon"
+  },
+  {
+    "description": "Self-hosted WhatsApp AI assistant on Hermes Agent \u2014 Baileys bridge, multi-tenant dashboard, Google Workspace tools",
+    "id": "Narendarcodes/Autonomous-Whatsapp-Agent",
+    "language": "Python",
+    "name": "Narendarcodes/Autonomous-Whatsapp-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:30:53Z",
+    "url": "https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:30:50Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T15:26:13Z",
     "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 225,
-    "updated_at": "2026-08-23T15:23:31Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -135,15 +207,6 @@
     "url": "https://github.com/v2-io/agentic-systems"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:07:10Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
     "id": "xhqing/ExecutiveAssistantAgent",
     "language": "\u2014",
@@ -153,15 +216,6 @@
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:00:43Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:00:22Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 17,
-    "updated_at": "2026-08-23T14:59:01Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -234,15 +279,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
-    "id": "ChanTso/citybuddy",
-    "language": "Java",
-    "name": "ChanTso/citybuddy",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:27:44Z",
-    "url": "https://github.com/ChanTso/citybuddy"
-  },
-  {
     "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learn",
     "id": "vibeinging/dsh-red-alert",
     "language": "JavaScript",
@@ -250,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:35:08Z",
     "url": "https://github.com/vibeinging/dsh-red-alert"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 6,
-    "updated_at": "2026-08-23T14:34:00Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:09:13Z",
     "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
-  },
-  {
-    "description": "Embed and edit videos directly within ComfyUI workflows using the OpenReel extension with timeline, effects, and server-",
-    "id": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "language": "Python",
-    "name": "kenleung05hk/ComfyUI_Viewer_OpenReel_Extension",
-    "stars": 2,
-    "updated_at": "2026-08-23T14:08:17Z",
-    "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 184,
-    "updated_at": "2026-08-23T14:39:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-23T14:04:44Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
   }
 ]
