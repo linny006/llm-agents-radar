@@ -1,12 +1,48 @@
 [
   {
+    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
+    "id": "vesslina/mikrotik-harness",
+    "language": "Python",
+    "name": "vesslina/mikrotik-harness",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:13:58Z",
+    "url": "https://github.com/vesslina/mikrotik-harness"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-08-23T18:58:49Z",
+    "updated_at": "2026-08-23T19:13:49Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 31,
+    "updated_at": "2026-08-23T19:12:11Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:12:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-08-23T19:08:10Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T18:56:58Z",
+    "updated_at": "2026-08-23T19:06:54Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:14:53Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:02:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "id": "letta-ai/letta",
+    "language": "\u2014",
+    "name": "letta-ai/letta",
+    "stars": 24369,
+    "updated_at": "2026-08-23T19:05:43Z",
+    "url": "https://github.com/letta-ai/letta"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -36,15 +99,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T18:50:09Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -63,20 +117,11 @@
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T18:40:32Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 23856,
+    "stars": 23857,
     "updated_at": "2026-08-23T18:39:27Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -131,7 +176,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-08-23T18:23:19Z",
+    "updated_at": "2026-08-23T19:04:25Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -247,7 +292,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 180,
+    "stars": 181,
     "updated_at": "2026-08-23T17:39:39Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -275,7 +320,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-23T18:17:21Z",
+    "updated_at": "2026-08-23T19:01:00Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 7,
     "updated_at": "2026-08-23T18:02:17Z",
     "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-23T17:02:12Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T16:10:27Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Intent-driven network operations agent \u2014 natural-language intent to verified, rollback-safe policy changes. k8sgpt-for-n",
-    "id": "wufufu770/NetMind",
-    "language": "Python",
-    "name": "wufufu770/NetMind",
-    "stars": 0,
-    "updated_at": "2026-08-23T16:01:51Z",
-    "url": "https://github.com/wufufu770/NetMind"
-  },
-  {
-    "description": "Self-hosted WhatsApp AI assistant on Hermes Agent \u2014 Baileys bridge, multi-tenant dashboard, Google Workspace tools",
-    "id": "Narendarcodes/Autonomous-Whatsapp-Agent",
-    "language": "Python",
-    "name": "Narendarcodes/Autonomous-Whatsapp-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:50:01Z",
-    "url": "https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16413,
-    "updated_at": "2026-08-23T15:47:05Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 6,
-    "updated_at": "2026-08-23T15:43:45Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   }
 ]
