@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:57:13Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T20:52:56Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-23T20:52:27Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-23T20:51:09Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-23T20:50:39Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-08-23T20:50:52Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 801,
+    "updated_at": "2026-08-23T20:48:27Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-23T20:47:33Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-23T20:46:19Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
     "description": "AdvPP - AdvPL/TLPP Compiler and IDE with complete language support",
     "id": "peder1981/AdvPP",
     "language": "Go",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:32:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -72,15 +144,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:30:30Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -97,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T20:29:30Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:24:46Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -160,15 +214,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T20:33:24Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-23T20:13:20Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
@@ -306,15 +351,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 801,
-    "updated_at": "2026-08-23T18:44:24Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -358,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T18:21:05Z",
     "url": "https://github.com/KayalvizhiT513/Fetch-Dividends-Agent"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-23T18:16:14Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T17:54:43Z",
     "url": "https://github.com/yildirimemirhan/wbc-analyzer"
-  },
-  {
-    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
-    "id": "vuhai2002/zalo-agent",
-    "language": "TypeScript",
-    "name": "vuhai2002/zalo-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T17:48:05Z",
-    "url": "https://github.com/vuhai2002/zalo-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 190,
-    "updated_at": "2026-08-23T17:39:39Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-23T17:30:37Z",
-    "url": "https://github.com/aviskaar/zorp"
   }
 ]
