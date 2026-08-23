@@ -1,12 +1,57 @@
 [
   {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:29:53Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
     "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-23T07:25:15Z",
+    "updated_at": "2026-08-23T07:28:26Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:27:58Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-08-23T07:26:21Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 8,
+    "updated_at": "2026-08-23T07:26:09Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-08-23T07:26:00Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -61,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:19:21Z",
     "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "",
+    "id": "Prism-Shadow/learn-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Prism-Shadow/learn-deepseek-harness",
+    "stars": 10,
+    "updated_at": "2026-08-23T07:18:20Z",
+    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
   },
   {
     "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
@@ -270,15 +324,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T06:29:55Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
     "id": "xianyu-sheng/SmartBench",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 33,
     "updated_at": "2026-08-23T04:15:45Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 13,
-    "updated_at": "2026-08-23T04:09:16Z",
-    "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-23T03:59:00Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
-    "id": "Weizhena/Deep-Research-skills",
-    "language": "Python",
-    "name": "Weizhena/Deep-Research-skills",
-    "stars": 2001,
-    "updated_at": "2026-08-23T03:25:28Z",
-    "url": "https://github.com/Weizhena/Deep-Research-skills"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-08-23T03:13:40Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "PII masking and risk-scoring pipeline for security logs. n8n + Express + Upstage Solar. All data is synthetic (env=lab);",
-    "id": "jihun-moon/im-bank-n8n-agent",
-    "language": "JavaScript",
-    "name": "jihun-moon/im-bank-n8n-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T02:58:10Z",
-    "url": "https://github.com/jihun-moon/im-bank-n8n-agent"
   }
 ]
