@@ -1,5 +1,41 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 8,
+    "updated_at": "2026-08-23T04:56:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T04:55:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-23T04:54:38Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-23T04:50:50Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
     "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
     "id": "xu-jia-ming/memory_system",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 124,
     "updated_at": "2026-08-23T04:43:37Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-23T04:43:00Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -72,15 +99,6 @@
     "url": "https://github.com/wangyuahn/nori-code"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T04:18:41Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Evidence-driven Kubernetes root-cause analysis agent built with LangGraph and MCP",
     "id": "LazzzzyBoy/k8s-rca-agent",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 172,
-    "updated_at": "2026-08-23T04:30:24Z",
+    "updated_at": "2026-08-23T04:45:57Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -151,15 +169,6 @@
     "stars": 54,
     "updated_at": "2026-08-23T03:51:39Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-23T04:20:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
@@ -275,7 +284,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5785,
-    "updated_at": "2026-08-23T04:38:32Z",
+    "updated_at": "2026-08-23T04:57:53Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:30:19Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
-    "id": "Tonyx79/clov-ai",
-    "language": "Rust",
-    "name": "Tonyx79/clov-ai",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:30:00Z",
-    "url": "https://github.com/Tonyx79/clov-ai"
   }
 ]
