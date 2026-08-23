@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u4e2a\u4eba\u52a9\u7406 Kit\uff5c\u901a\u7528\u52a9\u624b\u3002Personal Assistant \u2014 a general-purpose helper for odd jobs.",
+    "id": "xhqing/PersonalAssistantAgent",
+    "language": "\u2014",
+    "name": "xhqing/PersonalAssistantAgent",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:34:38Z",
+    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+  },
+  {
+    "description": "Intent-driven network operations agent \u2014 natural-language intent to verified, rollback-safe policy changes. k8sgpt-for-n",
+    "id": "wufufu770/NetMind",
+    "language": "Python",
+    "name": "wufufu770/NetMind",
+    "stars": 0,
+    "updated_at": "2026-08-23T12:29:57Z",
+    "url": "https://github.com/wufufu770/NetMind"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-23T08:48:58Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:47:35Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:45:26Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
   }
 ]
