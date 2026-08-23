@@ -1,21 +1,75 @@
 [
   {
-    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
-    "id": "hoshiyomiX/stellar-trails",
-    "language": "Shell",
-    "name": "hoshiyomiX/stellar-trails",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:15:16Z",
-    "url": "https://github.com/hoshiyomiX/stellar-trails"
-  },
-  {
     "description": "A real-time physics playground simulating a robotic Virtual Hardware Abstraction Layer (V-HAL). Hot-swap between human  ",
     "id": "gauraang01/llm-vs-nn-breakout",
     "language": "Python",
     "name": "gauraang01/llm-vs-nn-breakout",
     "stars": 0,
-    "updated_at": "2026-08-23T15:14:07Z",
+    "updated_at": "2026-08-23T15:24:11Z",
     "url": "https://github.com/gauraang01/llm-vs-nn-breakout"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 225,
+    "updated_at": "2026-08-23T15:23:31Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-23T15:23:03Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:22:24Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-23T15:19:17Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:15:38Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
+    "id": "hoshiyomiX/stellar-trails",
+    "language": "Shell",
+    "name": "hoshiyomiX/stellar-trails",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:15:27Z",
+    "url": "https://github.com/hoshiyomiX/stellar-trails"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 11,
+    "updated_at": "2026-08-23T15:15:05Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Research framework for adaptive, purposeful agents under uncertainty",
@@ -36,13 +90,13 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "GM's Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
-    "id": "xhqing/PersonalAssistantAgent",
+    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
+    "id": "xhqing/ExecutiveAssistantAgent",
     "language": "\u2014",
-    "name": "xhqing/PersonalAssistantAgent",
+    "name": "xhqing/ExecutiveAssistantAgent",
     "stars": 0,
     "updated_at": "2026-08-23T15:05:28Z",
-    "url": "https://github.com/xhqing/PersonalAssistantAgent"
+    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:51:26Z",
     "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 225,
-    "updated_at": "2026-08-23T14:50:54Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "ChanTso/citybuddy",
     "stars": 0,
-    "updated_at": "2026-08-23T14:52:56Z",
+    "updated_at": "2026-08-23T15:25:55Z",
     "url": "https://github.com/ChanTso/citybuddy"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/clashroy5384/ai-papers-hub"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-23T14:20:34Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
     "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
@@ -306,15 +342,6 @@
     "url": "https://github.com/Stolas34/voice-input-src"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:16:50Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
     "id": "Screwtopped-annapavlova802/SparkLabs",
     "language": "C++",
@@ -340,15 +367,6 @@
     "stars": 4100,
     "updated_at": "2026-08-23T15:03:38Z",
     "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:11:25Z",
-    "url": "https://github.com/honestDS/MonoLight"
   },
   {
     "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
@@ -428,25 +446,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-23T15:11:28Z",
+    "updated_at": "2026-08-23T15:20:09Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Bo cham diem AI Agent dung Skill/Tool cho AutoCAD - Civil 3D - Revit BIM cau. 48 case, 6 hard gate, 197 test cho chinh b",
-    "id": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "language": "Python",
-    "name": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "stars": 2,
-    "updated_at": "2026-08-23T14:02:55Z",
-    "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-08-23T14:00:07Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
