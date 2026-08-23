@@ -1,5 +1,32 @@
 [
   {
+    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
+    "id": "xiaomaozjj666/web-crawler",
+    "language": "Python",
+    "name": "xiaomaozjj666/web-crawler",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:19:45Z",
+    "url": "https://github.com/xiaomaozjj666/web-crawler"
+  },
+  {
+    "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
+    "id": "ChenYu1991ppak/deepseek-harness-anatomy",
+    "language": "Python",
+    "name": "ChenYu1991ppak/deepseek-harness-anatomy",
+    "stars": 1,
+    "updated_at": "2026-08-23T09:18:09Z",
+    "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 172,
+    "updated_at": "2026-08-23T09:18:08Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
     "id": "lungstrahv/T2AG",
     "language": "Python",
@@ -18,15 +45,6 @@
     "url": "https://github.com/kasparovabi/dsh-studio"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 172,
-    "updated_at": "2026-08-23T09:13:37Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
     "id": "xianyu-sheng/Xenon",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 4392,
     "updated_at": "2026-08-23T09:13:27Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
-    "id": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "language": "Python",
-    "name": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "stars": 1,
-    "updated_at": "2026-08-23T09:06:31Z",
-    "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -90,21 +99,12 @@
     "url": "https://github.com/vibeinging/dsh-red-alert"
   },
   {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 1,
-    "updated_at": "2026-08-23T09:00:32Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-23T08:59:53Z",
+    "updated_at": "2026-08-23T09:19:31Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
