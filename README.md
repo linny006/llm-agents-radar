@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 20:14 UTC
+> ⏰ Last updated: 2026-08-23 20:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-23 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 3 | [LuKresXD/claw-skeleton](https://github.com/LuKresXD/claw-skeleton) | 40 | TypeScript | 2026-08-23 | 🪼 A personal AI assistant that lives in Telegram — every topic is its own isolated Claude Code agent with layered persis |
-| 4 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-23 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
-| 5 | [vipi-n/bug-rca-agent](https://github.com/vipi-n/bug-rca-agent) | 0 | Python | 2026-08-23 | LLM-powered agentic workflow that investigates bugs and generates evidence-backed RCAs, with MCP connectors for Jira, Gi |
-| 6 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 7 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-23 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-23 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
-| 10 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-23 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
-| 11 | [Narendarcodes/Autonomous-Whatsapp-Agent](https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent) | 1 | Python | 2026-08-23 | Self-hosted WhatsApp AI assistant on Hermes Agent — Baileys bridge, multi-tenant dashboard, Google Workspace tools |
-| 12 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
-| 13 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-23 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 14 | [mintuz/skills](https://github.com/mintuz/skills) | 23 | Go | 2026-08-23 | My collection of Claude Code Agents & Skills for web and iOS Development |
-| 15 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 11 | Python | 2026-08-23 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 18 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-23 |  |
-| 19 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 20 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-23 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 1 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-23 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 8 | Python | 2026-08-23 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 3 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-23 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 4 | [LuKresXD/claw-skeleton](https://github.com/LuKresXD/claw-skeleton) | 40 | TypeScript | 2026-08-23 | 🪼 A personal AI assistant that lives in Telegram — every topic is its own isolated Claude Code agent with layered persis |
+| 5 | [peder1981/AdvPP](https://github.com/peder1981/AdvPP) | 2 | Go | 2026-08-23 | AdvPP - AdvPL/TLPP Compiler and IDE with complete language support |
+| 6 | [vipi-n/bug-rca-agent](https://github.com/vipi-n/bug-rca-agent) | 0 | Python | 2026-08-23 | LLM-powered agentic workflow that investigates bugs and generates evidence-backed RCAs, with MCP connectors for Jira, Gi |
+| 7 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-23 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 8 | [xiaomaozjj666/issue-agent](https://github.com/xiaomaozjj666/issue-agent) | 1 | Python | 2026-08-23 | GitHub Issue 分析智能体：有界工具循环探索仓库源码，生成带行级证据的根因报告与修复补丁，默认只读，可显式开启 PR 提案 |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-23 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [b-macker/NAAb](https://github.com/b-macker/NAAb) | 1 | C++ | 2026-08-23 | Stop AI agents before they do damage — behavioral sequence detection blocks credential exfiltration, config harvesting,  |
+| 11 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-23 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
+| 12 | [Narendarcodes/Autonomous-Whatsapp-Agent](https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent) | 1 | Python | 2026-08-23 | Self-hosted WhatsApp AI assistant on Hermes Agent — Baileys bridge, multi-tenant dashboard, Google Workspace tools |
+| 13 | [xiaomaozjj666/data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 1 | Python | 2026-08-23 | 基于 LLM 的端到端数据分析工作台：上传数据集即可自动完成清洗、统计分析、可视化与报告生成，支持本地、Docker 与云端部署。 |
+| 14 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-23 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
+| 15 | [mintuz/skills](https://github.com/mintuz/skills) | 23 | Go | 2026-08-23 | My collection of Claude Code Agents & Skills for web and iOS Development |
+| 16 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 11 | Python | 2026-08-23 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 17 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-23 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 18 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-23 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 19 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-23 |  |
+| 20 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 126 | HTML | 2026-08-23 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 21 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-23 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
 | 22 | [codexceed/avatar-harness](https://github.com/codexceed/avatar-harness) | 1 | Python | 2026-08-23 | Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event  |
 | 23 | [ChanTso/citybuddy](https://github.com/ChanTso/citybuddy) | 0 | Java | 2026-08-23 | Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de |
 | 24 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-23 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |

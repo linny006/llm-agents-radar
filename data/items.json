@@ -1,5 +1,14 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T20:14:57Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -158,7 +167,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-23T20:12:58Z",
+    "updated_at": "2026-08-23T20:15:19Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:19:19Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:18:05Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
