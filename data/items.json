@@ -1,5 +1,14 @@
 [
   {
+    "description": "Loop-core multi-agent coding tool that orchestrates work through plan\u2192implement\u2192review cycles. The    orchestrator is re",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 13,
+    "updated_at": "2026-08-23T04:26:20Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -104,7 +113,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-23T03:44:06Z",
+    "updated_at": "2026-08-23T04:30:15Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -248,7 +257,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5785,
-    "updated_at": "2026-08-23T01:26:34Z",
+    "updated_at": "2026-08-23T04:30:10Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:27:14Z",
     "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 17,
-    "updated_at": "2026-08-23T00:26:56Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   }
 ]
