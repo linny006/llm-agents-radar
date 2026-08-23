@@ -1,5 +1,32 @@
 [
   {
+    "description": "Understand DeepSeek Harness from source code: Agent Loop, Plugins, Tools, Skills, Context, Sandbox, Subagents, Workflows",
+    "id": "BettyXu2001/how-deepseek-harness-works",
+    "language": "Python",
+    "name": "BettyXu2001/how-deepseek-harness-works",
+    "stars": 0,
+    "updated_at": "2026-08-23T16:59:05Z",
+    "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
+  },
+  {
+    "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
+    "id": "lostinheaven-knt/chatbi-harness",
+    "language": "Python",
+    "name": "lostinheaven-knt/chatbi-harness",
+    "stars": 0,
+    "updated_at": "2026-08-23T16:56:25Z",
+    "url": "https://github.com/lostinheaven-knt/chatbi-harness"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 172,
+    "updated_at": "2026-08-23T16:54:00Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 16414,
     "updated_at": "2026-08-23T15:47:05Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 172,
-    "updated_at": "2026-08-23T16:50:44Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:17:22Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:17:15Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build a macOS menu-bar voice input app with global Fn-to-talk, streaming transcription, and language switching for fast ",
-    "id": "Stolas34/voice-input-src",
-    "language": "\u2014",
-    "name": "Stolas34/voice-input-src",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:16:55Z",
-    "url": "https://github.com/Stolas34/voice-input-src"
   }
 ]
