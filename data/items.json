@@ -1,5 +1,14 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-23T03:33:22Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Structured deep research skill for Claude Code/Open Code/Codex with human-in-the-loop control",
     "id": "Weizhena/Deep-Research-skills",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T03:24:11Z",
+    "updated_at": "2026-08-23T03:31:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T02:41:45Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T02:38:20Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
