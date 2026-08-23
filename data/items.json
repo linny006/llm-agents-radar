@@ -1,5 +1,14 @@
 [
   {
+    "description": "Self-hosted WhatsApp AI assistant on Hermes Agent \u2014 Baileys bridge, multi-tenant dashboard, Google Workspace tools",
+    "id": "Narendarcodes/Autonomous-Whatsapp-Agent",
+    "language": "Python",
+    "name": "Narendarcodes/Autonomous-Whatsapp-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:44:17Z",
+    "url": "https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent"
+  },
+  {
     "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-23T19:42:04Z",
+    "updated_at": "2026-08-23T19:44:30Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -79,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T19:26:01Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Self-hosted WhatsApp AI assistant on Hermes Agent \u2014 Baileys bridge, multi-tenant dashboard, Google Workspace tools",
-    "id": "Narendarcodes/Autonomous-Whatsapp-Agent",
-    "language": "Python",
-    "name": "Narendarcodes/Autonomous-Whatsapp-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:22:12Z",
-    "url": "https://github.com/Narendarcodes/Autonomous-Whatsapp-Agent"
   },
   {
     "description": "",
@@ -410,7 +410,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 885,
-    "updated_at": "2026-08-23T18:58:26Z",
+    "updated_at": "2026-08-23T19:44:38Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
