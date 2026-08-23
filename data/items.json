@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-23T02:29:53Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-23T02:22:51Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-23T02:18:43Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "TypeScript",
@@ -45,15 +72,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-23T02:02:40Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
     "description": "File-based AI tutoring harness for self-study: an LLM agent teaches from your own textbooks while every judgment call \u2014 ",
     "id": "lungstrahv/T2AG",
     "language": "Python",
@@ -76,7 +94,7 @@
     "id": "raselahmed1337/QnAChatBot",
     "language": "Python",
     "name": "raselahmed1337/QnAChatBot",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-23T01:50:52Z",
     "url": "https://github.com/raselahmed1337/QnAChatBot"
   },
@@ -160,15 +178,6 @@
     "stars": 45,
     "updated_at": "2026-08-23T01:09:29Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:57:28Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-22T23:58:30Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "Local wikipedia retrieval engine built using TF-IDF and cosine similarity.",
-    "id": "yacine204/Aiki",
-    "language": "Python",
-    "name": "yacine204/Aiki",
-    "stars": 1,
-    "updated_at": "2026-08-22T23:40:12Z",
-    "url": "https://github.com/yacine204/Aiki"
   }
 ]
