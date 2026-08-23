@@ -1,5 +1,68 @@
 [
   {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:13:43Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
+    "id": "xiongweilin/agent-skills",
+    "language": "\u2014",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:12:13Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 223,
+    "updated_at": "2026-08-23T10:11:56Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "AI-Powered Linux Operations Assistant Using Natural Language Queries Develop an AI assistant that allows users to intera",
+    "id": "MediaTrex/SSM-Hackathon",
+    "language": "TypeScript",
+    "name": "MediaTrex/SSM-Hackathon",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:10:53Z",
+    "url": "https://github.com/MediaTrex/SSM-Hackathon"
+  },
+  {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-23T10:10:43Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
+    "id": "justin-zhong/ai-deployment-project",
+    "language": "Python",
+    "name": "justin-zhong/ai-deployment-project",
+    "stars": 0,
+    "updated_at": "2026-08-23T10:10:10Z",
+    "url": "https://github.com/justin-zhong/ai-deployment-project"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 182,
+    "updated_at": "2026-08-23T10:05:49Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -54,24 +117,6 @@
     "url": "https://github.com/BettyXu2001/how-deepseek-harness-works"
   },
   {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:48:20Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 223,
-    "updated_at": "2026-08-23T09:48:09Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -86,17 +131,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T09:58:52Z",
+    "updated_at": "2026-08-23T10:12:50Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-23T09:44:13Z",
-    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -115,15 +151,6 @@
     "stars": 4392,
     "updated_at": "2026-08-23T09:53:34Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:37:31Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "PII masking and risk-scoring pipeline for security logs. n8n + Express + Upstage Solar. All data is synthetic (env=lab);",
@@ -239,7 +266,7 @@
     "language": "JavaScript",
     "name": "vibeinging/dsh-red-alert",
     "stars": 0,
-    "updated_at": "2026-08-23T09:01:08Z",
+    "updated_at": "2026-08-23T10:13:17Z",
     "url": "https://github.com/vibeinging/dsh-red-alert"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-23T09:19:31Z",
+    "updated_at": "2026-08-23T10:00:34Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -311,17 +338,17 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-23T08:26:31Z",
+    "updated_at": "2026-08-23T10:13:18Z",
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 182,
-    "updated_at": "2026-08-23T08:38:36Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "id": "letta-ai/letta",
+    "language": "\u2014",
+    "name": "letta-ai/letta",
+    "stars": 24356,
+    "updated_at": "2026-08-23T07:56:26Z",
+    "url": "https://github.com/letta-ai/letta"
   },
   {
     "description": "bwrap\u30b5\u30f3\u30c9\u30dc\u30c3\u30af\u30b9\u3068OpenRouter\u3067\u52d5\u304f1\u30d5\u30a1\u30a4\u30eb\u306e\u30df\u30cb\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:29:53Z",
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
-  },
-  {
-    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
-    "id": "Samuelcluttered613/paper2code",
-    "language": "Python",
-    "name": "Samuelcluttered613/paper2code",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:26:21Z",
-    "url": "https://github.com/Samuelcluttered613/paper2code"
-  },
-  {
-    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
-    "id": "Bastioned-successor320/learn-nanobot",
-    "language": "Python",
-    "name": "Bastioned-successor320/learn-nanobot",
-    "stars": 8,
-    "updated_at": "2026-08-23T07:26:09Z",
-    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
-  },
-  {
-    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
-    "id": "tessellated-statisticalcommission243/deep-research-skill",
-    "language": "\u2014",
-    "name": "tessellated-statisticalcommission243/deep-research-skill",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:26:00Z",
-    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   }
 ]
