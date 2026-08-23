@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:40:32Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T19:36:36Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:42:04Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "My collection of Claude Code Agents & Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Go",
+    "name": "mintuz/skills",
+    "stars": 23,
+    "updated_at": "2026-08-23T19:29:29Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T19:29:08Z",
+    "updated_at": "2026-08-23T19:41:36Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 124,
     "updated_at": "2026-08-23T19:26:16Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-23T19:26:07Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -144,15 +171,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:12:05Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
@@ -223,15 +241,6 @@
     "stars": 4,
     "updated_at": "2026-08-23T18:35:32Z",
     "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T18:21:24Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "Screens Indian listed equities for catalysts that have not fired yet: dividends before their record date, and contracts ",
@@ -328,7 +337,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 183,
+    "stars": 185,
     "updated_at": "2026-08-23T17:39:39Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-23T16:41:03Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 2,
-    "updated_at": "2026-08-23T16:40:55Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
