@@ -1,5 +1,68 @@
 [
   {
+    "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
+    "id": "ChenYu1991ppak/deepseek-harness-anatomy",
+    "language": "Python",
+    "name": "ChenYu1991ppak/deepseek-harness-anatomy",
+    "stars": 1,
+    "updated_at": "2026-08-23T12:58:37Z",
+    "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-23T12:52:21Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-23T12:51:34Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-23T12:49:55Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "The terminal-native AI coding agent that ships, not just suggests. Six-phase workflow, git rollback chain, zero telemetr",
+    "id": "eshanized/M31A",
+    "language": "Go",
+    "name": "eshanized/M31A",
+    "stars": 8,
+    "updated_at": "2026-08-23T12:48:58Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 224,
+    "updated_at": "2026-08-23T12:45:31Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-23T12:45:13Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -68,7 +131,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3122,
-    "updated_at": "2026-08-23T12:21:26Z",
+    "updated_at": "2026-08-23T12:55:00Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 224,
-    "updated_at": "2026-08-23T12:03:56Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -133,15 +187,6 @@
     "stars": 5,
     "updated_at": "2026-08-23T12:01:18Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-23T11:57:12Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -207,24 +252,6 @@
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-23T11:26:06Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-23T11:25:38Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-23T12:12:21Z",
+    "updated_at": "2026-08-23T12:53:22Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -387,24 +414,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-23T12:45:13Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A progressive source-study tutorial of DeepSeek Harness (dsh): 17 chapters from a minimal agent-loop to multi-agent dele",
-    "id": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "language": "Python",
-    "name": "ChenYu1991ppak/deepseek-harness-anatomy",
-    "stars": 1,
-    "updated_at": "2026-08-23T09:18:09Z",
-    "url": "https://github.com/ChenYu1991ppak/deepseek-harness-anatomy"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -439,14 +448,5 @@
     "stars": 54,
     "updated_at": "2026-08-23T09:11:37Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "",
-    "id": "Prism-Shadow/learn-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Prism-Shadow/learn-deepseek-harness",
-    "stars": 10,
-    "updated_at": "2026-08-23T08:52:34Z",
-    "url": "https://github.com/Prism-Shadow/learn-deepseek-harness"
   }
 ]
