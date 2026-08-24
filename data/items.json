@@ -1,12 +1,48 @@
 [
   {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:11:33Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-24T13:09:11Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
     "id": "Lejusdefruits/hobot",
     "language": "Python",
     "name": "Lejusdefruits/hobot",
     "stars": 1,
-    "updated_at": "2026-08-24T12:58:05Z",
+    "updated_at": "2026-08-24T13:06:03Z",
     "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-24T13:02:17Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-24T13:01:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -22,7 +58,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 286,
+    "stars": 288,
     "updated_at": "2026-08-24T12:52:12Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -40,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29443,
+    "stars": 29446,
     "updated_at": "2026-08-24T12:47:43Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "adamskijow/Hob",
     "stars": 1,
-    "updated_at": "2026-08-24T11:52:02Z",
+    "updated_at": "2026-08-24T13:05:46Z",
     "url": "https://github.com/adamskijow/Hob"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T11:37:54Z",
     "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-24T12:20:03Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-24T11:35:04Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-24T11:34:40Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-24T11:34:10Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
