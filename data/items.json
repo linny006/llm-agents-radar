@@ -1,11 +1,20 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4393,
+    "updated_at": "2026-08-24T21:50:10Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-24T21:45:09Z",
+    "updated_at": "2026-08-24T21:48:22Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T21:41:18Z",
+    "updated_at": "2026-08-24T21:50:11Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:12:16Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4393,
-    "updated_at": "2026-08-24T21:24:18Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
