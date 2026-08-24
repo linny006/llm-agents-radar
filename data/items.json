@@ -1,10 +1,100 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-24T04:43:37Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "Auxo \u2014 \ub098\ub97c \uae30\uc5b5\ud558\ub294 \uc124\uce58\ud615 AI \uc5d0\uc774\uc804\ud2b8",
+    "id": "getauxo/auxo-app",
+    "language": "JavaScript",
+    "name": "getauxo/auxo-app",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:43:07Z",
+    "url": "https://github.com/getauxo/auxo-app"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-24T04:41:49Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-24T04:41:17Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:39:06Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-24T04:38:45Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:37:54Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-24T04:34:34Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-24T04:34:00Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T04:38:46Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13989,
+    "stars": 13990,
     "updated_at": "2026-08-24T04:29:02Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -90,15 +180,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T04:29:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -117,15 +198,6 @@
     "url": "https://github.com/WhitehatD/hesperus"
   },
   {
-    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
-    "id": "lungstrahv/T2AG",
-    "language": "Python",
-    "name": "lungstrahv/T2AG",
-    "stars": 0,
-    "updated_at": "2026-08-24T04:04:11Z",
-    "url": "https://github.com/lungstrahv/T2AG"
-  },
-  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 187,
-    "updated_at": "2026-08-24T04:03:20Z",
+    "updated_at": "2026-08-24T04:41:42Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 4,
     "updated_at": "2026-08-24T03:51:04Z",
     "url": "https://github.com/zuowen7/scholar-assistant-agent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:48:54Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
@@ -203,7 +266,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-24T04:25:04Z",
+    "updated_at": "2026-08-24T04:31:08Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-24T03:10:41Z",
+    "updated_at": "2026-08-24T04:44:54Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -265,18 +328,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29407,
+    "stars": 29408,
     "updated_at": "2026-08-24T03:06:32Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-24T03:00:47Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -284,7 +338,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-24T02:58:17Z",
+    "updated_at": "2026-08-24T04:40:40Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-08-24T01:58:24Z",
+    "updated_at": "2026-08-24T04:38:13Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 83,
     "updated_at": "2026-08-24T00:50:42Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 793,
-    "updated_at": "2026-08-24T00:44:22Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-24T00:39:54Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "",
-    "id": "agent-axiom/agent-arch",
-    "language": "Python",
-    "name": "agent-axiom/agent-arch",
-    "stars": 11,
-    "updated_at": "2026-08-24T00:42:09Z",
-    "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:35:55Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-24T00:35:49Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-24T00:31:02Z",
-    "url": "https://github.com/oooscoos/Benzi"
   }
 ]
