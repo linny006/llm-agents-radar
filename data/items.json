@@ -1,5 +1,59 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:09:16Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:05:57Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-24T00:05:51Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-24T00:05:30Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-24T00:03:02Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:01:12Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
+  },
+  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -27,33 +81,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-23T23:55:25Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:54:28Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
-    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "language": "\u2014",
-    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:45:59Z",
-    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
-  },
-  {
     "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
     "id": "moovingGun/redteam-harness",
     "language": "Python",
@@ -70,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-23T23:44:28Z",
     "url": "https://github.com/WhitehatD/hesperus"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-23T23:35:53Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -203,7 +221,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-23T22:11:27Z",
+    "updated_at": "2026-08-24T00:04:21Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "CacinieP/video2knowledge",
     "stars": 5,
-    "updated_at": "2026-08-23T21:08:03Z",
+    "updated_at": "2026-08-24T00:09:57Z",
     "url": "https://github.com/CacinieP/video2knowledge"
   },
   {
@@ -387,15 +405,6 @@
     "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
   },
   {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:44:28Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
     "id": "xiaomaozjj666/issue-agent",
     "language": "Python",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-23T23:48:19Z",
+    "updated_at": "2026-08-24T00:00:52Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 889,
     "updated_at": "2026-08-23T19:50:38Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-23T19:47:04Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   }
 ]
