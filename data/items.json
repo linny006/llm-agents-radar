@@ -1,12 +1,57 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-24T00:29:52Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
+    "id": "moovingGun/redteam-harness",
+    "language": "Python",
+    "name": "moovingGun/redteam-harness",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:26:50Z",
+    "url": "https://github.com/moovingGun/redteam-harness"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-24T00:24:48Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
+    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "language": "\u2014",
+    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:23:26Z",
+    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-24T00:09:16Z",
+    "updated_at": "2026-08-24T00:22:04Z",
     "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 186,
+    "updated_at": "2026-08-24T00:21:33Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 0,
-    "updated_at": "2026-08-24T00:05:57Z",
+    "updated_at": "2026-08-24T00:18:27Z",
     "url": "https://github.com/sydches/yuj"
   },
   {
@@ -25,33 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T00:05:51Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-24T00:05:30Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-24T00:03:02Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
-    "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "language": "\u2014",
-    "name": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:01:12Z",
-    "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:56:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
-    "id": "moovingGun/redteam-harness",
-    "language": "Python",
-    "name": "moovingGun/redteam-harness",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:45:02Z",
-    "url": "https://github.com/moovingGun/redteam-harness"
   },
   {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-23T23:23:14Z",
+    "updated_at": "2026-08-24T00:27:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -221,7 +230,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-24T00:04:21Z",
+    "updated_at": "2026-08-24T00:27:13Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 8,
-    "updated_at": "2026-08-24T00:00:52Z",
+    "updated_at": "2026-08-24T00:18:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:01:33Z",
     "url": "https://github.com/vipi-n/bug-rca-agent"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 889,
-    "updated_at": "2026-08-23T19:50:38Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
