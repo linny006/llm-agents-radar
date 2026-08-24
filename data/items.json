@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-24T10:50:25Z",
+    "updated_at": "2026-08-24T10:59:53Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
+    "id": "LuKresXD/claw-skeleton",
+    "language": "TypeScript",
+    "name": "LuKresXD/claw-skeleton",
+    "stars": 40,
+    "updated_at": "2026-08-24T10:55:47Z",
+    "url": "https://github.com/LuKresXD/claw-skeleton"
+  },
+  {
+    "description": "Open-source AI coding agent framework with a verification-first runtime, CLI, TUI cockpit, SDK, permission gates, event ",
+    "id": "codexceed/avatar-harness",
+    "language": "Python",
+    "name": "codexceed/avatar-harness",
+    "stars": 1,
+    "updated_at": "2026-08-24T10:55:01Z",
+    "url": "https://github.com/codexceed/avatar-harness"
+  },
+  {
+    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
+    "id": "JAVAYANGZHIWEI/realtool-loc",
+    "language": "Python",
+    "name": "JAVAYANGZHIWEI/realtool-loc",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:54:08Z",
+    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -72,15 +99,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
-    "id": "JAVAYANGZHIWEI/realtool-loc",
-    "language": "Python",
-    "name": "JAVAYANGZHIWEI/realtool-loc",
-    "stars": 0,
-    "updated_at": "2026-08-24T10:33:39Z",
-    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
-  },
-  {
     "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
     "id": "Lean-Prover/lean-prover",
     "language": "Python",
@@ -122,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T10:45:15Z",
+    "updated_at": "2026-08-24T10:57:58Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -153,21 +171,12 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
-    "id": "LuKresXD/claw-skeleton",
-    "language": "TypeScript",
-    "name": "LuKresXD/claw-skeleton",
-    "stars": 40,
-    "updated_at": "2026-08-24T10:04:48Z",
-    "url": "https://github.com/LuKresXD/claw-skeleton"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-24T10:02:25Z",
+    "updated_at": "2026-08-24T10:53:48Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -247,7 +256,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 279,
+    "stars": 281,
     "updated_at": "2026-08-24T09:20:19Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:38:07Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "\u81ea\u6f14\u8fdb\u7684\u756a\u5267\u5a92\u4f53\u5e93\u6cbb\u7406 agent\uff1a\u67e5\u91cd/\u6539\u540d/TMDB\u5bf9\u9f50/\u6b7b\u79cd\u6e05\u7406\uff0c\u80fd\u53d1\u73b0\u89c4\u5219\u76f2\u533a\u5e76\u81ea\u52a8\u6f14\u8fdb\u51fa\u65b0\u89c4\u5219",
-    "id": "wzh4464/self-evolving-media-agent",
-    "language": "Python",
-    "name": "wzh4464/self-evolving-media-agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:34:38Z",
-    "url": "https://github.com/wzh4464/self-evolving-media-agent"
   }
 ]
