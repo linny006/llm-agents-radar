@@ -216,7 +216,7 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Reusable multi-agent job discovery, independent LLM judging, Excel tracking, and priority alerts for Codex.",
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
     "name": "mehboobali98/job-search-agent",
