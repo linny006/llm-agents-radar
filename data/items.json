@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 0,
-    "updated_at": "2026-08-24T07:57:32Z",
+    "updated_at": "2026-08-24T08:12:41Z",
     "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:11:55Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-24T08:05:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-24T08:04:23Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 187,
+    "updated_at": "2026-08-24T08:04:10Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:02:52Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T08:01:11Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
@@ -36,6 +90,15 @@
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
+    "description": "Minimalist AI chat UI",
+    "id": "breakware/minimal-ai",
+    "language": "HTML",
+    "name": "breakware/minimal-ai",
+    "stars": 1,
+    "updated_at": "2026-08-24T07:53:49Z",
+    "url": "https://github.com/breakware/minimal-ai"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-24T07:51:46Z",
+    "updated_at": "2026-08-24T08:09:02Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-24T07:49:31Z",
+    "updated_at": "2026-08-24T08:01:22Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:49:29Z",
     "url": "https://github.com/greatColin/coloop-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-24T07:49:08Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -117,24 +171,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-24T07:13:23Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-24T07:10:17Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:09:10Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:35:43Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -261,15 +288,6 @@
     "url": "https://github.com/xiaomaozjj666/issue-agent"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 187,
-    "updated_at": "2026-08-24T06:36:01Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T05:40:36Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
-    "id": "lungstrahv/T2AG",
-    "language": "Python",
-    "name": "lungstrahv/T2AG",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:18:54Z",
-    "url": "https://github.com/lungstrahv/T2AG"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T05:02:22Z",
     "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-24T04:59:29Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
