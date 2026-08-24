@@ -1,5 +1,23 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T06:31:59Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3129,
+    "updated_at": "2026-08-24T06:35:08Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-24T06:27:53Z",
+    "updated_at": "2026-08-24T06:37:21Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -31,7 +49,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29414,
+    "stars": 29416,
     "updated_at": "2026-08-24T06:20:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -43,6 +61,15 @@
     "stars": 235,
     "updated_at": "2026-08-24T06:19:41Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Full iteration archive of LCRD autonomous agent experiment: Figma-Lite vector editor, complete raw DSH session logs from",
+    "id": "jeffkxt/lcrd-agent-figma-lite",
+    "language": "JavaScript",
+    "name": "jeffkxt/lcrd-agent-figma-lite",
+    "stars": 0,
+    "updated_at": "2026-08-24T06:19:00Z",
+    "url": "https://github.com/jeffkxt/lcrd-agent-figma-lite"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -77,8 +104,17 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 187,
-    "updated_at": "2026-08-24T06:06:06Z",
+    "updated_at": "2026-08-24T06:36:01Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5792,
+    "updated_at": "2026-08-24T06:02:27Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -108,22 +144,13 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
+    "description": "LCRD-Agent (Goal-Stop-Marker contract) autonomous self-learning experiment traces, complete audit artifacts for Terminal",
+    "id": "jeffkxt/lcrd-agent-self-learning-experiment",
     "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
+    "name": "jeffkxt/lcrd-agent-self-learning-experiment",
     "stars": 0,
-    "updated_at": "2026-08-24T05:52:11Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3129,
-    "updated_at": "2026-08-24T06:27:36Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
+    "updated_at": "2026-08-24T05:43:16Z",
+    "url": "https://github.com/jeffkxt/lcrd-agent-self-learning-experiment"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -256,7 +283,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13996,
+    "stars": 13997,
     "updated_at": "2026-08-24T05:09:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-24T04:41:49Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-24T04:38:45Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-24T04:34:34Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
-    "id": "WP2-Danikusuma/AgentX",
-    "language": "HTML",
-    "name": "WP2-Danikusuma/AgentX",
-    "stars": 2,
-    "updated_at": "2026-08-24T04:34:00Z",
-    "url": "https://github.com/WP2-Danikusuma/AgentX"
   }
 ]
