@@ -1,5 +1,23 @@
 [
   {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 5,
+    "updated_at": "2026-08-24T08:21:04Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "A lightweight, pluggable Java AGI agent core \u2014 minimal Agent Loop kernel for vibe coding and spec coding.",
+    "id": "greatColin/coloop-agent",
+    "language": "Java",
+    "name": "greatColin/coloop-agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:15:19Z",
+    "url": "https://github.com/greatColin/coloop-agent"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-24T08:09:02Z",
+    "updated_at": "2026-08-24T08:19:16Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -126,21 +144,12 @@
     "url": "https://github.com/karvidsson/kbots"
   },
   {
-    "description": "A lightweight, pluggable Java AGI agent core \u2014 minimal Agent Loop kernel for vibe coding and spec coding.",
-    "id": "greatColin/coloop-agent",
-    "language": "Java",
-    "name": "greatColin/coloop-agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:49:29Z",
-    "url": "https://github.com/greatColin/coloop-agent"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-24T07:40:56Z",
+    "updated_at": "2026-08-24T08:25:47Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -220,7 +229,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3129,
+    "stars": 3130,
     "updated_at": "2026-08-24T06:46:11Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -238,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29423,
+    "stars": 29425,
     "updated_at": "2026-08-24T06:20:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -391,7 +400,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14005,
+    "stars": 14006,
     "updated_at": "2026-08-24T05:09:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T05:03:33Z",
     "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-24T05:02:22Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
