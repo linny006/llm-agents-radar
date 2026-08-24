@@ -1,5 +1,14 @@
 [
   {
+    "description": "Reusable multi-agent job discovery, independent LLM judging, Excel tracking, and priority alerts for Codex.",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T13:34:27Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
+  },
+  {
     "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
     "id": "wxxb789/dsh-raven-research",
     "language": "TypeScript",
@@ -9,6 +18,15 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T13:26:19Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -16,15 +34,6 @@
     "stars": 23,
     "updated_at": "2026-08-24T13:25:20Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Reusable multi-agent job discovery, independent LLM judging, Excel tracking, and priority alerts for Codex.",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:19:49Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -104,7 +113,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 288,
-    "updated_at": "2026-08-24T12:52:12Z",
+    "updated_at": "2026-08-24T13:33:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "cdavid817/agent-book",
     "stars": 8,
-    "updated_at": "2026-08-24T12:45:05Z",
+    "updated_at": "2026-08-24T13:34:02Z",
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
@@ -248,7 +257,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 19,
-    "updated_at": "2026-08-24T12:24:38Z",
+    "updated_at": "2026-08-24T13:32:14Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -340,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T12:11:49Z",
     "url": "https://github.com/amineeng/scraping-browser"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T13:26:19Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
