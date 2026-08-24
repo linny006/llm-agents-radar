@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 14:15 UTC
+> ⏰ Last updated: 2026-08-24 14:23 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -58,7 +58,7 @@ expired items removed — so you can rely on what you see being current.
 | 14 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 6 | Python | 2026-08-24 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
 | 15 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-24 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
 | 16 | [C-Rhapsody/gemini-connector](https://github.com/C-Rhapsody/gemini-connector) | 5 | Go | 2026-08-24 | Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw. |
-| 17 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 290 | JavaScript | 2026-08-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 17 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 291 | JavaScript | 2026-08-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 18 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 19 | JavaScript | 2026-08-24 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 19 | [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) | 0 | TypeScript | 2026-08-24 | Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s |
 | 20 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-24 | Template for building protoLabs A2A agents on LangGraph — fork me |
