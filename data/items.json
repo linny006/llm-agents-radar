@@ -1,5 +1,77 @@
 [
   {
+    "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
+    "id": "vuhai2002/zalo-agent",
+    "language": "TypeScript",
+    "name": "vuhai2002/zalo-agent",
+    "stars": 2,
+    "updated_at": "2026-08-24T10:10:56Z",
+    "url": "https://github.com/vuhai2002/zalo-agent"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:12:32Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 187,
+    "updated_at": "2026-08-24T10:07:19Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-24T10:05:22Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udebc A personal AI assistant that lives in Telegram \u2014 every topic is its own isolated Claude Code agent with layered persis",
+    "id": "LuKresXD/claw-skeleton",
+    "language": "TypeScript",
+    "name": "LuKresXD/claw-skeleton",
+    "stars": 40,
+    "updated_at": "2026-08-24T10:04:48Z",
+    "url": "https://github.com/LuKresXD/claw-skeleton"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:04:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
+    "id": "JAVAYANGZHIWEI/realtool-loc",
+    "language": "Python",
+    "name": "JAVAYANGZHIWEI/realtool-loc",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:04:03Z",
+    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-24T10:02:25Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T10:00:15Z",
     "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-24T09:59:16Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\u5149\u901fQA\uff08Insight Eyes\uff09\u2014 \u5b89\u5168\u6cbb\u7406\u4f18\u5148\u7684\u5185\u7f51 NL2SQL \u6570\u636e\u5206\u6790\u5e73\u53f0\uff1a\u81ea\u7136\u8bed\u8a00\u63d0\u95ee \u2192 AST \u7ea7 SQL \u6821\u9a8c \u2192 \u884c\u5217\u7ea7\u6388\u6743 \u2192 \u53ef\u63d2\u62d4\u67e5\u8be2\u5f15\u64ce\uff08\u817e\u8baf\u4e91 DLC / \u672c\u5730 DuckDB\uff09\u2192 \u5168\u94fe\u8def\u5ba1\u8ba1",
@@ -86,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T10:00:19Z",
+    "updated_at": "2026-08-24T10:07:46Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 192,
     "updated_at": "2026-08-24T09:37:01Z",
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:36:02Z",
-    "url": "https://github.com/qyiun666/meowire"
   },
   {
     "description": "A lightweight, pluggable Java AGI agent core \u2014 minimal Agent Loop kernel for vibe coding and spec coding.",
@@ -185,17 +239,8 @@
     "language": "Go",
     "name": "ongridio/ongrid",
     "stars": 794,
-    "updated_at": "2026-08-24T09:45:32Z",
+    "updated_at": "2026-08-24T10:10:23Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:12:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "An agentic workspace for exploring, analyzing, visualizing, and annotating EEG/iEEG signals. Includes a tool-using agent",
@@ -324,15 +369,6 @@
     "url": "https://github.com/lungstrahv/T2AG"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 187,
-    "updated_at": "2026-08-24T08:35:42Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
     "id": "freshxiaoyao/openclaw-human-gate",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:09:10Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-24T06:58:26Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3131,
-    "updated_at": "2026-08-24T06:46:11Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2606,
-    "updated_at": "2026-08-24T06:24:56Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29436,
-    "updated_at": "2026-08-24T06:20:36Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
