@@ -1,10 +1,64 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T01:28:12Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:27:59Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 18,
+    "updated_at": "2026-08-24T01:26:54Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-24T01:24:32Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5792,
+    "updated_at": "2026-08-24T01:24:10Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-24T01:17:06Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 229,
+    "stars": 230,
     "updated_at": "2026-08-24T01:15:01Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -14,7 +68,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-24T01:14:10Z",
+    "updated_at": "2026-08-24T01:25:13Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 126,
     "updated_at": "2026-08-24T01:09:03Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:07:26Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
@@ -103,7 +148,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 787,
+    "stars": 788,
     "updated_at": "2026-08-24T00:44:22Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -124,15 +169,6 @@
     "stars": 11,
     "updated_at": "2026-08-24T00:42:09Z",
     "url": "https://github.com/agent-axiom/agent-arch"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 18,
-    "updated_at": "2026-08-24T00:36:30Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -185,7 +221,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-24T00:22:04Z",
+    "updated_at": "2026-08-24T01:21:53Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -196,24 +232,6 @@
     "stars": 186,
     "updated_at": "2026-08-24T00:41:23Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T00:42:20Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 1,
-    "updated_at": "2026-08-24T00:34:43Z",
-    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -337,7 +355,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3123,
+    "stars": 3124,
     "updated_at": "2026-08-23T21:45:30Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T20:57:42Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
-    "id": "yigido41/agentic-ai",
-    "language": "Python",
-    "name": "yigido41/agentic-ai",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:52:27Z",
-    "url": "https://github.com/yigido41/agentic-ai"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-23T20:51:09Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
