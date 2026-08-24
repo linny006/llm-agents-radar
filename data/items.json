@@ -1,5 +1,59 @@
 [
   {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-24T03:26:27Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:25:58Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 23873,
+    "updated_at": "2026-08-24T03:24:13Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 234,
+    "updated_at": "2026-08-24T03:24:05Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:19:15Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
+    "id": "moovingGun/redteam-harness",
+    "language": "Python",
+    "name": "moovingGun/redteam-harness",
+    "stars": 0,
+    "updated_at": "2026-08-24T03:15:28Z",
+    "url": "https://github.com/moovingGun/redteam-harness"
+  },
+  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T03:12:09Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 232,
-    "updated_at": "2026-08-24T03:11:28Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -67,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29396,
+    "stars": 29399,
     "updated_at": "2026-08-24T03:06:32Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -88,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T02:58:17Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:57:42Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 23871,
-    "updated_at": "2026-08-24T02:56:49Z",
-    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously \u2014",
@@ -144,15 +171,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
-    "id": "moovingGun/redteam-harness",
-    "language": "Python",
-    "name": "moovingGun/redteam-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:50:46Z",
-    "url": "https://github.com/moovingGun/redteam-harness"
-  },
-  {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 13 tools, web dashboard, scheduler, durable m",
     "id": "vuhai2002/zalo-agent",
     "language": "TypeScript",
@@ -184,7 +202,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13985,
+    "stars": 13987,
     "updated_at": "2026-08-24T02:13:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -203,7 +221,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 186,
-    "updated_at": "2026-08-24T02:08:39Z",
+    "updated_at": "2026-08-24T03:19:22Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T01:59:55Z",
     "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:14:44Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -279,15 +288,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-24T01:06:07Z",
-    "url": "https://github.com/WhitehatD/hesperus"
-  },
-  {
     "description": "A cloud-resident agent that keeps a Zettelkasten on schedule \u2014 and never writes in it.",
     "id": "skazler/slipbox-agent",
     "language": "TypeScript",
@@ -319,7 +319,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 790,
+    "stars": 792,
     "updated_at": "2026-08-24T00:44:22Z",
     "url": "https://github.com/ongridio/ongrid"
   },
