@@ -1,11 +1,74 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 229,
+    "updated_at": "2026-08-24T01:15:01Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:14:10Z",
+    "url": "https://github.com/apolmig/fronteraeval"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:13:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
+    "id": "moovingGun/redteam-harness",
+    "language": "Python",
+    "name": "moovingGun/redteam-harness",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:11:25Z",
+    "url": "https://github.com/moovingGun/redteam-harness"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-24T01:09:03Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:07:26Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-24T01:06:07Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
     "id": "Furox-Art/axiomize",
     "language": "Python",
     "name": "Furox-Art/axiomize",
     "stars": 0,
-    "updated_at": "2026-08-24T01:03:25Z",
+    "updated_at": "2026-08-24T01:05:31Z",
     "url": "https://github.com/Furox-Art/axiomize"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 787,
     "updated_at": "2026-08-24T00:44:22Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:43:55Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-24T00:42:51Z",
-    "url": "https://github.com/WhitehatD/hesperus"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -126,15 +171,6 @@
     "url": "https://github.com/oooscoos/Benzi"
   },
   {
-    "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
-    "id": "moovingGun/redteam-harness",
-    "language": "Python",
-    "name": "moovingGun/redteam-harness",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:58:57Z",
-    "url": "https://github.com/moovingGun/redteam-harness"
-  },
-  {
     "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
     "id": "CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime",
     "language": "\u2014",
@@ -189,15 +225,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:56:24Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
@@ -243,15 +270,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-23T23:18:43Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -295,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T22:16:02Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:02:15Z",
-    "url": "https://github.com/apolmig/fronteraeval"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-23T20:51:09Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
-    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "language": "CSS",
-    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
-    "stars": 2,
-    "updated_at": "2026-08-23T20:50:39Z",
-    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
   }
 ]
