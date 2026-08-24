@@ -1,5 +1,14 @@
 [
   {
+    "description": "Secure on device personal agents ",
+    "id": "iBz-04/gloamy",
+    "language": "Rust",
+    "name": "iBz-04/gloamy",
+    "stars": 65,
+    "updated_at": "2026-08-24T20:57:30Z",
+    "url": "https://github.com/iBz-04/gloamy"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-24T16:21:57Z",
     "url": "https://github.com/Shadowell/Alpha"
-  },
-  {
-    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
-    "id": "omerbsezer/Fast-LLM-Agent-MCP",
-    "language": "Python",
-    "name": "omerbsezer/Fast-LLM-Agent-MCP",
-    "stars": 87,
-    "updated_at": "2026-08-24T16:18:51Z",
-    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
   }
 ]
