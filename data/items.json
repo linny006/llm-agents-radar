@@ -5,7 +5,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-24T16:24:29Z",
+    "updated_at": "2026-08-24T16:30:02Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -16,6 +16,15 @@
     "stars": 1,
     "updated_at": "2026-08-24T16:22:57Z",
     "url": "https://github.com/vesslina/mikrotik-harness"
+  },
+  {
+    "description": "Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up \u2014 with a citation f",
+    "id": "Nisarg6502/Corporate-Contradiction-Detector",
+    "language": "Python",
+    "name": "Nisarg6502/Corporate-Contradiction-Detector",
+    "stars": 1,
+    "updated_at": "2026-08-24T16:22:18Z",
+    "url": "https://github.com/Nisarg6502/Corporate-Contradiction-Detector"
   },
   {
     "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
@@ -117,6 +126,15 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
+    "description": "One agent that catches a film delivery rejection before the platform does.",
+    "id": "LoordhuJeyakumar/first-pass",
+    "language": "Python",
+    "name": "LoordhuJeyakumar/first-pass",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:58:37Z",
+    "url": "https://github.com/LoordhuJeyakumar/first-pass"
+  },
+  {
     "description": "AI-powered hiring platform that screens resumes, detects bias, and coaches interviews \u2014 built with React, Claude AI & re",
     "id": "dhanya26shree/TalentAI",
     "language": "JavaScript",
@@ -203,7 +221,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-24T15:32:44Z",
+    "updated_at": "2026-08-24T16:28:59Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T16:18:17Z",
+    "updated_at": "2026-08-24T16:29:51Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -391,7 +409,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 299,
+    "stars": 300,
     "updated_at": "2026-08-24T13:33:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T13:05:46Z",
     "url": "https://github.com/adamskijow/Hob"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:51:40Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4393,
-    "updated_at": "2026-08-24T15:27:40Z",
-    "url": "https://github.com/gptme/gptme"
   }
 ]
