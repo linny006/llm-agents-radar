@@ -1,5 +1,23 @@
 [
   {
+    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
+    "id": "eobi/nemesisforge",
+    "language": "Python",
+    "name": "eobi/nemesisforge",
+    "stars": 1,
+    "updated_at": "2026-08-24T18:02:57Z",
+    "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-24T18:02:26Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
     "id": "Furox-Art/axiomize",
     "language": "Python",
@@ -70,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T17:37:16Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:37:08Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -162,15 +171,6 @@
     "url": "https://github.com/xiaomaozjj666/issue-agent"
   },
   {
-    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
-    "id": "eobi/nemesisforge",
-    "language": "Python",
-    "name": "eobi/nemesisforge",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:18:29Z",
-    "url": "https://github.com/eobi/nemesisforge"
-  },
-  {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
     "id": "gitanshulbisht/k8s-sentinel",
     "language": "Shell",
@@ -193,7 +193,7 @@
     "id": "sydches/yuj",
     "language": "Python",
     "name": "sydches/yuj",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-24T17:14:44Z",
     "url": "https://github.com/sydches/yuj"
   },
