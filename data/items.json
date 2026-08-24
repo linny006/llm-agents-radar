@@ -1,11 +1,29 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T15:58:50Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
+    "id": "no42-org/twiki",
+    "language": "TypeScript",
+    "name": "no42-org/twiki",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:56:19Z",
+    "url": "https://github.com/no42-org/twiki"
+  },
+  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-24T15:52:39Z",
+    "updated_at": "2026-08-24T15:53:54Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -23,8 +41,26 @@
     "language": "Python",
     "name": "eobi/nemesisforge",
     "stars": 0,
-    "updated_at": "2026-08-24T15:46:07Z",
+    "updated_at": "2026-08-24T15:56:34Z",
     "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-24T15:45:49Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 6991,
+    "updated_at": "2026-08-24T15:45:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -72,6 +108,15 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:32:55Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -81,15 +126,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T15:32:12Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
     "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
     "id": "omerbsezer/Fast-LLM-Agent-MCP",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 86,
     "updated_at": "2026-08-24T15:31:13Z",
     "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-08-24T15:51:23Z",
-    "url": "https://github.com/no42-org/twiki"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -171,15 +198,6 @@
     "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 6991,
-    "updated_at": "2026-08-24T15:45:32Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
     "id": "vesslina/mikrotik-harness",
     "language": "Python",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "xiaomaozjj666/data-analysis-agent",
     "stars": 1,
-    "updated_at": "2026-08-24T15:07:17Z",
+    "updated_at": "2026-08-24T16:00:05Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:58:15Z",
     "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T15:32:55Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
@@ -259,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:50:37Z",
     "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-24T15:45:49Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
