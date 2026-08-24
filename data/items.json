@@ -1,5 +1,32 @@
 [
   {
+    "description": " Where intent meets code \u2014 a local AI coding agent         ",
+    "id": "alex8224/synapse-agent",
+    "language": "Python",
+    "name": "alex8224/synapse-agent",
+    "stars": 8,
+    "updated_at": "2026-08-24T08:27:25Z",
+    "url": "https://github.com/alex8224/synapse-agent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:27:06Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:25:47Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T08:15:19Z",
     "url": "https://github.com/greatColin/coloop-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:12:41Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
@@ -140,17 +158,8 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-24T08:01:22Z",
+    "updated_at": "2026-08-24T08:29:41Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:25:47Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Reusable, selectively loaded agent skills: authorization, judgment ownership, data lineage, side-effect safety, rollout ",
@@ -247,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29425,
+    "stars": 29426,
     "updated_at": "2026-08-24T06:20:36Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -277,15 +286,6 @@
     "stars": 31,
     "updated_at": "2026-08-24T06:11:35Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": " Where intent meets code \u2014 a local AI coding agent         ",
-    "id": "alex8224/synapse-agent",
-    "language": "Python",
-    "name": "alex8224/synapse-agent",
-    "stars": 8,
-    "updated_at": "2026-08-24T06:07:32Z",
-    "url": "https://github.com/alex8224/synapse-agent"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
