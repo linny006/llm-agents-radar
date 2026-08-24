@@ -1,11 +1,29 @@
 [
   {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-24T11:56:53Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-24T11:57:06Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
     "id": "adamskijow/Hob",
     "language": "Python",
     "name": "adamskijow/Hob",
     "stars": 1,
-    "updated_at": "2026-08-24T11:49:54Z",
+    "updated_at": "2026-08-24T11:52:02Z",
     "url": "https://github.com/adamskijow/Hob"
   },
   {
@@ -14,17 +32,8 @@
     "language": "Python",
     "name": "cdavid817/agent-book",
     "stars": 8,
-    "updated_at": "2026-08-24T11:49:01Z",
+    "updated_at": "2026-08-24T11:57:18Z",
     "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-24T11:47:45Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously \u2014",
@@ -140,7 +149,7 @@
     "language": "TypeScript",
     "name": "Avien/users-portal",
     "stars": 0,
-    "updated_at": "2026-08-24T11:31:17Z",
+    "updated_at": "2026-08-24T12:00:19Z",
     "url": "https://github.com/Avien/users-portal"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-08-24T11:21:16Z",
+    "updated_at": "2026-08-24T11:57:37Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -391,7 +400,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 282,
+    "stars": 283,
     "updated_at": "2026-08-24T09:20:19Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-24T09:00:56Z",
     "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:58:23Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
   }
 ]
