@@ -1,5 +1,23 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T20:51:57Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "",
+    "id": "dsh-tui-ecosystem/dsh-code-memory",
+    "language": "TypeScript",
+    "name": "dsh-tui-ecosystem/dsh-code-memory",
+    "stars": 1,
+    "updated_at": "2026-08-24T20:50:34Z",
+    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
+  },
+  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -36,6 +54,15 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-24T20:36:50Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
     "id": "Furox-Art/axiomize",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:34:20Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "",
-    "id": "dsh-tui-ecosystem/dsh-code-memory",
-    "language": "TypeScript",
-    "name": "dsh-tui-ecosystem/dsh-code-memory",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:32:05Z",
-    "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -149,26 +167,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-24T20:40:10Z",
+    "updated_at": "2026-08-24T20:54:20Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T20:38:20Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-24T20:36:50Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -194,7 +194,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T20:27:14Z",
+    "updated_at": "2026-08-24T20:51:06Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 2,
-    "updated_at": "2026-08-24T19:35:21Z",
+    "updated_at": "2026-08-24T20:51:59Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
