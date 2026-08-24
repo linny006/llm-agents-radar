@@ -1,5 +1,68 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:43:20Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:42:01Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:38:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
+    "id": "xieyanran/Metasploit-Agent",
+    "language": "Python",
+    "name": "xieyanran/Metasploit-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:37:20Z",
+    "url": "https://github.com/xieyanran/Metasploit-Agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-24T19:34:20Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-24T19:33:56Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T19:39:01Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -16,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-24T19:25:27Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 19,
+    "updated_at": "2026-08-24T19:24:18Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -36,24 +108,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
-    "id": "xieyanran/Metasploit-Agent",
-    "language": "Python",
-    "name": "xieyanran/Metasploit-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:19:05Z",
-    "url": "https://github.com/xieyanran/Metasploit-Agent"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T19:18:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "Python",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T19:16:26Z",
     "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:30:15Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:05:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "AI-powered investment research assistant \u2014 multi-agent stock analysis (fundamentals, market data, news sentiment) via Cr",
@@ -124,24 +160,6 @@
     "stars": 7,
     "updated_at": "2026-08-24T18:51:10Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-24T18:49:36Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:48:56Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 2,
-    "updated_at": "2026-08-24T18:16:17Z",
+    "updated_at": "2026-08-24T19:35:21Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T17:33:12Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 19,
-    "updated_at": "2026-08-24T19:24:18Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6993,
-    "updated_at": "2026-08-24T17:00:45Z",
+    "updated_at": "2026-08-24T19:30:30Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T16:11:01Z",
     "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
-    "id": "shanananana/deepticket",
-    "language": "Python",
-    "name": "shanananana/deepticket",
-    "stars": 13,
-    "updated_at": "2026-08-24T16:09:28Z",
-    "url": "https://github.com/shanananana/deepticket"
   }
 ]
