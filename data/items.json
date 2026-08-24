@@ -1,12 +1,75 @@
 [
   {
+    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
+    "id": "EvoMap/evolver",
+    "language": "JavaScript",
+    "name": "EvoMap/evolver",
+    "stars": 8995,
+    "updated_at": "2026-08-24T17:37:26Z",
+    "url": "https://github.com/EvoMap/evolver"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 2,
+    "updated_at": "2026-08-24T17:37:16Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-24T17:36:01Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-24T17:35:32Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-08-24T17:39:53Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
     "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "stars": 0,
-    "updated_at": "2026-08-24T17:27:24Z",
+    "updated_at": "2026-08-24T17:33:12Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 126,
+    "updated_at": "2026-08-24T17:28:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 19,
+    "updated_at": "2026-08-24T17:27:03Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -34,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T17:20:24Z",
     "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:19:45Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
@@ -68,7 +140,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T17:18:02Z",
+    "updated_at": "2026-08-24T17:43:59Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -122,7 +194,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-24T16:58:25Z",
+    "updated_at": "2026-08-24T17:37:08Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -144,21 +216,12 @@
     "url": "https://github.com/AaronWong1999/hermesclaw"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:19:45Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T16:51:00Z",
+    "updated_at": "2026-08-24T17:42:08Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -178,24 +241,6 @@
     "stars": 8,
     "updated_at": "2026-08-24T16:47:22Z",
     "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-24T16:45:44Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-24T16:45:03Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Intent-driven network operations agent \u2014 natural-language intent to verified, rollback-safe policy changes. k8sgpt-for-n",
@@ -241,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T16:35:09Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 126,
-    "updated_at": "2026-08-24T17:28:35Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up \u2014 with a citation f",
@@ -351,15 +387,6 @@
     "url": "https://github.com/CacinieP/video2knowledge"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 19,
-    "updated_at": "2026-08-24T17:27:03Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learn",
     "id": "vibeinging/dsh-red-alert",
     "language": "JavaScript",
@@ -410,7 +437,7 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-24T16:43:43Z",
+    "updated_at": "2026-08-24T17:39:33Z",
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 12,
     "updated_at": "2026-08-24T14:53:52Z",
     "url": "https://github.com/scrapfly/scrapfly-mcp"
-  },
-  {
-    "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
-    "id": "scrapfly/scrapfly-cli",
-    "language": "Go",
-    "name": "scrapfly/scrapfly-cli",
-    "stars": 5,
-    "updated_at": "2026-08-24T14:53:50Z",
-    "url": "https://github.com/scrapfly/scrapfly-cli"
-  },
-  {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:50:37Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 190,
-    "updated_at": "2026-08-24T14:40:12Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
