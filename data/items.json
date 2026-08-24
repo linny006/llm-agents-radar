@@ -1,5 +1,86 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T04:14:12Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-24T04:12:36Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 234,
+    "updated_at": "2026-08-24T04:12:31Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T04:10:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5792,
+    "updated_at": "2026-08-24T04:05:37Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-24T04:04:32Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
+    "id": "lungstrahv/T2AG",
+    "language": "Python",
+    "name": "lungstrahv/T2AG",
+    "stars": 0,
+    "updated_at": "2026-08-24T04:04:11Z",
+    "url": "https://github.com/lungstrahv/T2AG"
+  },
+  {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 4,
+    "updated_at": "2026-08-24T04:06:23Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 186,
+    "updated_at": "2026-08-24T04:03:20Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "Intent-driven network operations agent \u2014 natural-language intent to verified, rollback-safe policy changes. k8sgpt-for-n",
     "id": "wufufu770/NetMind",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T03:55:55Z",
     "url": "https://github.com/abhiramvedipala/Definitely-Not-Deep-Blue"
-  },
-  {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 4,
-    "updated_at": "2026-08-24T03:54:11Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -54,15 +126,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "File-based personal learning powered by AI agents: learn from your own materials, resume exact progress, preserve eviden",
-    "id": "lungstrahv/T2AG",
-    "language": "Python",
-    "name": "lungstrahv/T2AG",
-    "stars": 0,
-    "updated_at": "2026-08-24T03:47:54Z",
-    "url": "https://github.com/lungstrahv/T2AG"
-  },
-  {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
     "id": "titanwings/distilly",
     "language": "Python",
@@ -70,24 +133,6 @@
     "stars": 23873,
     "updated_at": "2026-08-24T03:47:51Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 234,
-    "updated_at": "2026-08-24T03:47:11Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-24T03:47:00Z",
-    "url": "https://github.com/WhitehatD/hesperus"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-24T03:59:34Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
     "id": "puremachinery/carapace",
     "language": "Rust",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-24T03:31:30Z",
+    "updated_at": "2026-08-24T04:09:36Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "lsdefine/GenericAgent",
     "stars": 13989,
-    "updated_at": "2026-08-24T02:13:38Z",
+    "updated_at": "2026-08-24T04:14:53Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T02:11:53Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 186,
-    "updated_at": "2026-08-24T03:19:22Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -315,15 +342,6 @@
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-24T02:23:12Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -331,15 +349,6 @@
     "stars": 18,
     "updated_at": "2026-08-24T01:26:54Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5792,
-    "updated_at": "2026-08-24T01:24:10Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
     "description": "A cloud-resident agent that keeps a Zettelkasten on schedule \u2014 and never writes in it.",
@@ -356,7 +365,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 891,
-    "updated_at": "2026-08-24T00:56:31Z",
+    "updated_at": "2026-08-24T04:07:46Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 188,
     "updated_at": "2026-08-23T23:48:05Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4100,
-    "updated_at": "2026-08-23T23:24:57Z",
-    "url": "https://github.com/langroid/langroid"
   }
 ]
