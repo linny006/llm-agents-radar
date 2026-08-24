@@ -1,12 +1,93 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 787,
+    "updated_at": "2026-08-24T00:44:22Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:43:55Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-24T00:42:51Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-24T00:39:54Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "",
+    "id": "agent-axiom/agent-arch",
+    "language": "Python",
+    "name": "agent-axiom/agent-arch",
+    "stars": 11,
+    "updated_at": "2026-08-24T00:42:09Z",
+    "url": "https://github.com/agent-axiom/agent-arch"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 17,
+    "updated_at": "2026-08-24T00:36:30Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 31,
+    "updated_at": "2026-08-24T00:36:12Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:35:55Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
     "name": "gabrielmaialva33/winx-code-agent",
     "stars": 33,
-    "updated_at": "2026-08-24T00:29:52Z",
+    "updated_at": "2026-08-24T00:35:49Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 9,
+    "updated_at": "2026-08-24T00:31:02Z",
+    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T00:26:50Z",
     "url": "https://github.com/moovingGun/redteam-harness"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 9,
-    "updated_at": "2026-08-24T00:24:48Z",
-    "url": "https://github.com/oooscoos/Benzi"
   },
   {
     "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
@@ -50,17 +122,17 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 186,
-    "updated_at": "2026-08-24T00:21:33Z",
+    "updated_at": "2026-08-24T00:41:23Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
     "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:18:27Z",
-    "url": "https://github.com/sydches/yuj"
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T00:42:20Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -68,17 +140,8 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 1,
-    "updated_at": "2026-08-24T00:05:51Z",
+    "updated_at": "2026-08-24T00:34:43Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-23T23:58:54Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T23:56:24Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-23T23:44:28Z",
-    "url": "https://github.com/WhitehatD/hesperus"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -180,15 +234,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-23T23:09:06Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
     "id": "ChanTso/citybuddy",
     "language": "Java",
@@ -230,7 +275,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-24T00:27:13Z",
+    "updated_at": "2026-08-24T00:45:17Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T20:43:19Z",
     "url": "https://github.com/SHUKLAO/call-with-ai-agent"
-  },
-  {
-    "description": "LLM-agnostic tabletop RPG Game Master framework. Runs on OpenCode, LM Studio, or any LLM service. D&D 5e included as ref",
-    "id": "Bobby-Gray/open-tabletop-gm",
-    "language": "Python",
-    "name": "Bobby-Gray/open-tabletop-gm",
-    "stars": 48,
-    "updated_at": "2026-08-23T20:35:09Z",
-    "url": "https://github.com/Bobby-Gray/open-tabletop-gm"
-  },
-  {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:18:04Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4392,
-    "updated_at": "2026-08-23T20:19:38Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 8,
-    "updated_at": "2026-08-24T00:18:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "LLM-powered agentic workflow that investigates bugs and generates evidence-backed RCAs, with MCP connectors for Jira, Gi",
-    "id": "vipi-n/bug-rca-agent",
-    "language": "Python",
-    "name": "vipi-n/bug-rca-agent",
-    "stars": 0,
-    "updated_at": "2026-08-23T20:01:33Z",
-    "url": "https://github.com/vipi-n/bug-rca-agent"
   }
 ]
