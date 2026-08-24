@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 234,
+    "updated_at": "2026-08-24T03:34:41Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 8,
+    "updated_at": "2026-08-24T03:34:15Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-24T03:31:44Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-08-24T03:30:52Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
     "id": "WhitehatD/hesperus",
     "language": "C",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-24T03:25:58Z",
+    "updated_at": "2026-08-24T03:31:30Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 23873,
     "updated_at": "2026-08-24T03:24:13Z",
     "url": "https://github.com/titanwings/distilly"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 234,
-    "updated_at": "2026-08-24T03:24:05Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -167,7 +194,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-24T02:37:25Z",
+    "updated_at": "2026-08-24T03:36:01Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -202,7 +229,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13987,
+    "stars": 13988,
     "updated_at": "2026-08-24T02:13:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -268,15 +295,6 @@
     "stars": 18,
     "updated_at": "2026-08-24T01:26:54Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-24T01:24:32Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -430,23 +448,5 @@
     "stars": 249,
     "updated_at": "2026-08-23T22:57:34Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:16:02Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 175,
-    "updated_at": "2026-08-23T22:04:53Z",
-    "url": "https://github.com/yologdev/yoagent"
   }
 ]
