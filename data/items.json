@@ -1,5 +1,41 @@
 [
   {
+    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
+    "id": "Fzkuji/OpenProgram",
+    "language": "Python",
+    "name": "Fzkuji/OpenProgram",
+    "stars": 231,
+    "updated_at": "2026-08-24T02:43:09Z",
+    "url": "https://github.com/Fzkuji/OpenProgram"
+  },
+  {
+    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
+    "id": "hyuga611/llm-safe-sql",
+    "language": "TypeScript",
+    "name": "hyuga611/llm-safe-sql",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:42:04Z",
+    "url": "https://github.com/hyuga611/llm-safe-sql"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:41:10Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:37:25Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
     "id": "moovingGun/redteam-harness",
     "language": "Python",
@@ -36,15 +72,6 @@
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:20:46Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -68,7 +95,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-24T02:15:07Z",
+    "updated_at": "2026-08-24T02:41:14Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -76,7 +103,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 13979,
+    "stars": 13980,
     "updated_at": "2026-08-24T02:13:38Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -97,24 +124,6 @@
     "stars": 186,
     "updated_at": "2026-08-24T02:08:39Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Let an LLM propose UPDATE/DELETE, run it for real inside a transaction, measure the actual before/after diff, and always",
-    "id": "hyuga611/llm-safe-sql",
-    "language": "TypeScript",
-    "name": "hyuga611/llm-safe-sql",
-    "stars": 0,
-    "updated_at": "2026-08-24T02:07:43Z",
-    "url": "https://github.com/hyuga611/llm-safe-sql"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 230,
-    "updated_at": "2026-08-24T02:03:34Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   },
   {
     "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
@@ -225,15 +234,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:13:50Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -265,7 +265,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 889,
+    "stars": 890,
     "updated_at": "2026-08-24T00:56:31Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -274,7 +274,7 @@
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
     "name": "wq19901103wq/wechat-mac-rpa",
-    "stars": 82,
+    "stars": 83,
     "updated_at": "2026-08-24T00:50:42Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
