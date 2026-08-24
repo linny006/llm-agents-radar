@@ -1,12 +1,39 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T22:13:49Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 175,
+    "updated_at": "2026-08-24T22:10:37Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T21:59:37Z",
+    "updated_at": "2026-08-24T22:10:23Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-24T22:00:12Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -77,17 +104,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-24T21:50:10Z",
+    "updated_at": "2026-08-24T22:10:11Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-24T22:00:12Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Open reference implementation for a single-agent system featuring tool routing, history compaction, and shared state acr",
@@ -270,21 +288,12 @@
     "url": "https://github.com/xieyanran/Metasploit-Agent"
   },
   {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:43:20Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-24T21:40:14Z",
+    "updated_at": "2026-08-24T22:07:18Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Kotlin",
     "name": "Torvian-eu/chatbot",
     "stars": 4,
-    "updated_at": "2026-08-24T18:27:39Z",
+    "updated_at": "2026-08-24T22:09:38Z",
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
@@ -382,7 +391,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8996,
+    "stars": 8997,
     "updated_at": "2026-08-24T17:37:26Z",
     "url": "https://github.com/EvoMap/evolver"
   },
@@ -439,14 +448,5 @@
     "stars": 31,
     "updated_at": "2026-08-24T17:10:28Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
-    "id": "sunnnn2005/data-quality-agent",
-    "language": "Python",
-    "name": "sunnnn2005/data-quality-agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:59:14Z",
-    "url": "https://github.com/sunnnn2005/data-quality-agent"
   }
 ]
