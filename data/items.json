@@ -1,5 +1,50 @@
 [
   {
+    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
+    "id": "xieyanran/Metasploit-Agent",
+    "language": "Python",
+    "name": "xieyanran/Metasploit-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:14:59Z",
+    "url": "https://github.com/xieyanran/Metasploit-Agent"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:11:30Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:05:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "AI-powered investment research assistant \u2014 multi-agent stock analysis (fundamentals, market data, news sentiment) via Cr",
+    "id": "smenon2710/ai-investment-research-assistant",
+    "language": "Python",
+    "name": "smenon2710/ai-investment-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:03:33Z",
+    "url": "https://github.com/smenon2710/ai-investment-research-assistant"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T19:03:24Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-24T18:47:09Z",
+    "updated_at": "2026-08-24T19:07:12Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -117,15 +162,6 @@
     "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T18:18:52Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -153,15 +189,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-24T17:56:57Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "One agent that catches a film delivery rejection before the platform does.",
     "id": "LoordhuJeyakumar/first-pass",
     "language": "Python",
@@ -176,7 +203,7 @@
     "language": "TypeScript",
     "name": "karstom/simplegraph-agentic",
     "stars": 5,
-    "updated_at": "2026-08-24T17:39:53Z",
+    "updated_at": "2026-08-24T19:02:34Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T17:18:07Z",
     "url": "https://github.com/gitanshulbisht/k8s-sentinel"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:17:56Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T16:03:00Z",
     "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-24T16:00:05Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 7,
-    "updated_at": "2026-08-24T15:52:19Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
