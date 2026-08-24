@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 12:30 UTC
+> ⏰ Last updated: 2026-08-24 12:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-24 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
-| 2 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-08-24 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
-| 3 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3131 | Python | 2026-08-24 | SRE Agent - CNCF Sandbox Project |
-| 4 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-08-24 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
-| 5 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 18 | JavaScript | 2026-08-24 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 6 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-08-24 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
-| 7 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-08-24 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
-| 8 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-08-24 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
-| 9 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 285 | JavaScript | 2026-08-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 10 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-08-24 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
-| 11 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-08-24 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |
-| 12 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 2 | JavaScript | 2026-08-24 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
+| 1 | [ZekaiShi/evo-subagent](https://github.com/ZekaiShi/evo-subagent) | 2 | JavaScript | 2026-08-24 | Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/ |
+| 2 | [gabrielmaialva33/winx-code-agent](https://github.com/gabrielmaialva33/winx-code-agent) | 33 | Rust | 2026-08-24 | 🦀 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic |
+| 3 | [HELLOCODINGTR/AgentForge](https://github.com/HELLOCODINGTR/AgentForge) | 1 | — | 2026-08-24 | Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API  |
+| 4 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3131 | Python | 2026-08-24 | SRE Agent - CNCF Sandbox Project |
+| 5 | [strobilevitellus470/argus-ai](https://github.com/strobilevitellus470/argus-ai) | 1 | Python | 2026-08-24 | Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa |
+| 6 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 18 | JavaScript | 2026-08-24 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 7 | [juandavidru4641/dsplab](https://github.com/juandavidru4641/dsplab) | 0 | JavaScript | 2026-08-24 | Develop DSP tools and prototypes quickly with DSPLab’s environment, combining optimized code, safe testing, and embedded |
+| 8 | [laoxs2002/genai-agentes](https://github.com/laoxs2002/genai-agentes) | 0 | Jupyter Notebook | 2026-08-24 | Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a |
+| 9 | [heba-ramdan/harness](https://github.com/heba-ramdan/harness) | 1 | TypeScript | 2026-08-24 | Define and control AI agents in markdown with full prompt transparency, persistent memory, and integrated tools via the  |
+| 10 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 285 | JavaScript | 2026-08-24 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 11 | [Ronit0p/AutoGod](https://github.com/Ronit0p/AutoGod) | 0 | Java | 2026-08-24 | Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft  |
+| 12 | [lukky262/ARE](https://github.com/lukky262/ARE) | 1 | — | 2026-08-24 | Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a |
 | 13 | [hichamnes-prog/exforum-auto-poster](https://github.com/hichamnes-prog/exforum-auto-poster) | 1 | Python | 2026-08-24 |  |
 | 14 | [muhzars/Agent.cpp](https://github.com/muhzars/Agent.cpp) | 1 | C++ | 2026-08-24 | ⚡ Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo |
 | 15 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 4 | Python | 2026-08-24 | 基于LLM的量化因子开发Agent |

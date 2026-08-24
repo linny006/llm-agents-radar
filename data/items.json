@@ -1,5 +1,14 @@
 [
   {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 2,
+    "updated_at": "2026-08-24T12:31:10Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -97,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T12:19:51Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
-    "id": "ZekaiShi/evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/evo-subagent",
-    "stars": 2,
-    "updated_at": "2026-08-24T12:19:31Z",
-    "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
     "description": "",
