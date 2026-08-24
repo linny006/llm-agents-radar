@@ -1,5 +1,86 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:27:24Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:25:02Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
+    "id": "vesslina/mikrotik-harness",
+    "language": "Python",
+    "name": "vesslina/mikrotik-harness",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:20:57Z",
+    "url": "https://github.com/vesslina/mikrotik-harness"
+  },
+  {
+    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
+    "id": "Lean-Prover/lean-prover",
+    "language": "Python",
+    "name": "Lean-Prover/lean-prover",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:20:24Z",
+    "url": "https://github.com/Lean-Prover/lean-prover"
+  },
+  {
+    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
+    "id": "xiaomaozjj666/issue-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/issue-agent",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:18:31Z",
+    "url": "https://github.com/xiaomaozjj666/issue-agent"
+  },
+  {
+    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
+    "id": "eobi/nemesisforge",
+    "language": "Python",
+    "name": "eobi/nemesisforge",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:18:29Z",
+    "url": "https://github.com/eobi/nemesisforge"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Shell",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:18:07Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 801,
+    "updated_at": "2026-08-24T17:18:02Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:17:56Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -25,15 +106,6 @@
     "stars": 31,
     "updated_at": "2026-08-24T17:10:28Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:05:40Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -63,15 +135,6 @@
     "url": "https://github.com/LoordhuJeyakumar/first-pass"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 801,
-    "updated_at": "2026-08-24T17:12:18Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Run Hermes Agent and OpenClaw on the same WeChat account",
     "id": "AaronWong1999/hermesclaw",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-24T16:51:49Z",
+    "updated_at": "2026-08-24T17:19:45Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -185,26 +248,8 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 126,
-    "updated_at": "2026-08-24T16:34:26Z",
+    "updated_at": "2026-08-24T17:28:35Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:28:59Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
-    "id": "vesslina/mikrotik-harness",
-    "language": "Python",
-    "name": "vesslina/mikrotik-harness",
-    "stars": 1,
-    "updated_at": "2026-08-24T16:22:57Z",
-    "url": "https://github.com/vesslina/mikrotik-harness"
   },
   {
     "description": "Reads SEC filings, extracts every claim a company makes, and finds where the story stopped adding up \u2014 with a citation f",
@@ -288,15 +333,6 @@
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
-    "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
-    "id": "eobi/nemesisforge",
-    "language": "Python",
-    "name": "eobi/nemesisforge",
-    "stars": 0,
-    "updated_at": "2026-08-24T15:56:34Z",
-    "url": "https://github.com/eobi/nemesisforge"
-  },
-  {
     "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 19,
-    "updated_at": "2026-08-24T15:25:26Z",
+    "updated_at": "2026-08-24T17:27:03Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 190,
     "updated_at": "2026-08-24T14:40:12Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 5,
-    "updated_at": "2026-08-24T14:35:01Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
-    "id": "dsswift/ion",
-    "language": "TypeScript",
-    "name": "dsswift/ion",
-    "stars": 4,
-    "updated_at": "2026-08-24T14:34:07Z",
-    "url": "https://github.com/dsswift/ion"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-24T14:28:55Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 242,
-    "updated_at": "2026-08-24T14:12:33Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
