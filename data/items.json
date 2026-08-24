@@ -1,5 +1,14 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-24T17:44:28Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
     "id": "EvoMap/evolver",
     "language": "JavaScript",
@@ -140,7 +149,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T17:43:59Z",
+    "updated_at": "2026-08-24T17:44:37Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "LoordhuJeyakumar/first-pass",
     "stars": 0,
-    "updated_at": "2026-08-24T16:55:09Z",
+    "updated_at": "2026-08-24T17:44:53Z",
     "url": "https://github.com/LoordhuJeyakumar/first-pass"
   },
   {
@@ -214,15 +223,6 @@
     "stars": 718,
     "updated_at": "2026-08-24T16:52:17Z",
     "url": "https://github.com/AaronWong1999/hermesclaw"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-24T17:42:08Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
