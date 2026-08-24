@@ -1,5 +1,68 @@
 [
   {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 82,
+    "updated_at": "2026-08-24T18:44:25Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-24T18:40:46Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-24T18:38:42Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 19,
+    "updated_at": "2026-08-24T18:38:06Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-24T18:45:12Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-24T18:30:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-24T18:27:39Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
     "description": "Reusable multi-agent job discovery, independent LLM judging, Excel tracking, and priority alerts for Codex.",
     "id": "mehboobali98/job-search-agent",
     "language": "JavaScript",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T18:02:26Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:58:59Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -131,7 +185,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 126,
-    "updated_at": "2026-08-24T17:28:35Z",
+    "updated_at": "2026-08-24T18:36:49Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 19,
     "updated_at": "2026-08-24T17:27:03Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:25:02Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
@@ -229,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6992,
+    "stars": 6993,
     "updated_at": "2026-08-24T17:00:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-24T15:38:05Z",
     "url": "https://github.com/CacinieP/video2knowledge"
-  },
-  {
-    "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learn",
-    "id": "vibeinging/dsh-red-alert",
-    "language": "JavaScript",
-    "name": "vibeinging/dsh-red-alert",
-    "stars": 2,
-    "updated_at": "2026-08-24T15:24:14Z",
-    "url": "https://github.com/vibeinging/dsh-red-alert"
-  },
-  {
-    "description": "\ud83e\udd16 Lightweight, message-first agent runtime",
-    "id": "Cognipeer/agent-sdk",
-    "language": "TypeScript",
-    "name": "Cognipeer/agent-sdk",
-    "stars": 7,
-    "updated_at": "2026-08-24T15:22:50Z",
-    "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-24T15:14:28Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Bo cham diem AI Agent dung Skill/Tool cho AutoCAD - Civil 3D - Revit BIM cau. 48 case, 6 hard gate, 197 test cho chinh b",
-    "id": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "language": "Python",
-    "name": "phamduybill2005-creator/CH-M-I-M-AGENT",
-    "stars": 3,
-    "updated_at": "2026-08-24T15:14:23Z",
-    "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
-  },
-  {
-    "description": "Secure on device personal agents ",
-    "id": "iBz-04/gloamy",
-    "language": "Rust",
-    "name": "iBz-04/gloamy",
-    "stars": 65,
-    "updated_at": "2026-08-24T15:06:00Z",
-    "url": "https://github.com/iBz-04/gloamy"
   }
 ]
