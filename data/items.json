@@ -1,11 +1,20 @@
 [
   {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 2,
+    "updated_at": "2026-08-24T18:14:20Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
     "description": "Autonomous vulnerability discovery engine. An LLM fleet proposes; eight deterministic oracles prove. Findings are report",
     "id": "eobi/nemesisforge",
     "language": "Python",
     "name": "eobi/nemesisforge",
     "stars": 1,
-    "updated_at": "2026-08-24T18:02:57Z",
+    "updated_at": "2026-08-24T18:12:49Z",
     "url": "https://github.com/eobi/nemesisforge"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T17:57:36Z",
+    "updated_at": "2026-08-24T18:11:59Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -76,18 +85,9 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8995,
+    "stars": 8996,
     "updated_at": "2026-08-24T17:37:26Z",
     "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-24T17:37:16Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -446,7 +446,7 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-24T17:53:32Z",
+    "updated_at": "2026-08-24T18:15:16Z",
     "url": "https://github.com/azastashkov/sdd-cli"
   }
 ]
