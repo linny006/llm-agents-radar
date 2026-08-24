@@ -1,5 +1,23 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:02:57Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:59:14Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
     "description": "One agent that catches a film delivery rejection before the platform does.",
     "id": "LoordhuJeyakumar/first-pass",
     "language": "Python",
@@ -14,17 +32,8 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T16:53:44Z",
+    "updated_at": "2026-08-24T17:02:26Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-24T16:59:15Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
   },
   {
     "description": "Run Hermes Agent and OpenClaw on the same WeChat account",
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6991,
-    "updated_at": "2026-08-24T16:48:28Z",
+    "updated_at": "2026-08-24T17:00:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-24T13:39:36Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 302,
-    "updated_at": "2026-08-24T13:33:00Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
