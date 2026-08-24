@@ -1,5 +1,59 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-24T16:24:29Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
+    "id": "vesslina/mikrotik-harness",
+    "language": "Python",
+    "name": "vesslina/mikrotik-harness",
+    "stars": 1,
+    "updated_at": "2026-08-24T16:22:57Z",
+    "url": "https://github.com/vesslina/mikrotik-harness"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
+    "id": "Shadowell/Alpha",
+    "language": "Python",
+    "name": "Shadowell/Alpha",
+    "stars": 24,
+    "updated_at": "2026-08-24T16:21:57Z",
+    "url": "https://github.com/Shadowell/Alpha"
+  },
+  {
+    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
+    "id": "omerbsezer/Fast-LLM-Agent-MCP",
+    "language": "Python",
+    "name": "omerbsezer/Fast-LLM-Agent-MCP",
+    "stars": 87,
+    "updated_at": "2026-08-24T16:18:51Z",
+    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:16:42Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-24T16:16:13Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "\ud83e\udd16 FindII \u2014 autonomous AI lead-gen agent for real estate: Scrapling-powered Avito scraping + Telegram monitoring, LLM lea",
     "id": "alihosseinabadi/findii",
     "language": "Python",
@@ -25,6 +79,15 @@
     "stars": 13,
     "updated_at": "2026-08-24T16:09:28Z",
     "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:05:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
@@ -59,7 +122,7 @@
     "language": "JavaScript",
     "name": "dhanya26shree/TalentAI",
     "stars": 0,
-    "updated_at": "2026-08-24T15:57:56Z",
+    "updated_at": "2026-08-24T16:21:32Z",
     "url": "https://github.com/dhanya26shree/TalentAI"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 6991,
-    "updated_at": "2026-08-24T15:45:32Z",
+    "updated_at": "2026-08-24T16:24:05Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -106,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T15:44:41Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-24T15:42:50Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -144,15 +198,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:05:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T15:32:44Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "This repo covers LLM, Agents, MCP Tools, Skills concepts with sample codes: LangChain & LangGraph, AWS Strands Agents, G",
-    "id": "omerbsezer/Fast-LLM-Agent-MCP",
-    "language": "Python",
-    "name": "omerbsezer/Fast-LLM-Agent-MCP",
-    "stars": 87,
-    "updated_at": "2026-08-24T15:31:13Z",
-    "url": "https://github.com/omerbsezer/Fast-LLM-Agent-MCP"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-24T15:16:50Z",
+    "updated_at": "2026-08-24T16:15:53Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
-    "id": "Shadowell/Alpha",
-    "language": "Python",
-    "name": "Shadowell/Alpha",
-    "stars": 24,
-    "updated_at": "2026-08-24T15:14:45Z",
-    "url": "https://github.com/Shadowell/Alpha"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -234,21 +261,12 @@
     "url": "https://github.com/phamduybill2005-creator/CH-M-I-M-AGENT"
   },
   {
-    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
-    "id": "vesslina/mikrotik-harness",
-    "language": "Python",
-    "name": "vesslina/mikrotik-harness",
-    "stars": 1,
-    "updated_at": "2026-08-24T15:07:41Z",
-    "url": "https://github.com/vesslina/mikrotik-harness"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-24T16:06:33Z",
+    "updated_at": "2026-08-24T16:18:17Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -373,7 +391,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 298,
+    "stars": 299,
     "updated_at": "2026-08-24T13:33:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -430,23 +448,5 @@
     "stars": 4393,
     "updated_at": "2026-08-24T15:27:40Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29463,
-    "updated_at": "2026-08-24T12:47:43Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
-    "id": "Avien/users-portal",
-    "language": "TypeScript",
-    "name": "Avien/users-portal",
-    "stars": 0,
-    "updated_at": "2026-08-24T12:41:04Z",
-    "url": "https://github.com/Avien/users-portal"
   }
 ]
