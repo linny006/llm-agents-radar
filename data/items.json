@@ -1,5 +1,14 @@
 [
   {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:03:25Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -198,15 +207,6 @@
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:44:35Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -302,7 +302,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-24T00:57:47Z",
+    "updated_at": "2026-08-24T01:02:15Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
