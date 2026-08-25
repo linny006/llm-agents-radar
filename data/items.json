@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:15:06Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T10:12:07Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
+    "id": "JAVAYANGZHIWEI/realtool-loc",
+    "language": "Python",
+    "name": "JAVAYANGZHIWEI/realtool-loc",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:08:32Z",
+    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 824,
+    "updated_at": "2026-08-25T10:06:25Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 194,
-    "updated_at": "2026-08-25T10:04:32Z",
+    "updated_at": "2026-08-25T10:05:28Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -18,31 +54,13 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:00:49Z",
-    "url": "https://github.com/adamskijow/Hob"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 327,
+    "stars": 328,
     "updated_at": "2026-08-25T09:56:50Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
-    "id": "JAVAYANGZHIWEI/realtool-loc",
-    "language": "Python",
-    "name": "JAVAYANGZHIWEI/realtool-loc",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:51:45Z",
-    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
   },
   {
     "description": "AI coding agent with one Python core and three front-ends \u2014 headless CLI, Textual TUI, and an Electron desktop. Works wi",
@@ -72,15 +90,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-25T09:55:35Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -104,7 +113,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-25T09:43:37Z",
+    "updated_at": "2026-08-25T10:14:08Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T09:15:01Z",
     "url": "https://github.com/watchcat/scout"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 824,
-    "updated_at": "2026-08-25T10:01:38Z",
-    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
@@ -436,7 +436,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 23949,
+    "stars": 23952,
     "updated_at": "2026-08-25T07:18:07Z",
     "url": "https://github.com/titanwings/distilly"
   },
