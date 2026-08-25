@@ -1,5 +1,32 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:43:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:38:26Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
+    "id": "uuzjw/wow-agent",
+    "language": "Python",
+    "name": "uuzjw/wow-agent",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:38:21Z",
+    "url": "https://github.com/uuzjw/wow-agent"
+  },
+  {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
     "id": "Lejusdefruits/hobot",
     "language": "Python",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T02:29:59Z",
+    "updated_at": "2026-08-25T02:44:36Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 191,
-    "updated_at": "2026-08-25T02:14:52Z",
+    "updated_at": "2026-08-25T02:41:42Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -90,15 +117,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
-    "id": "uuzjw/wow-agent",
-    "language": "Python",
-    "name": "uuzjw/wow-agent",
-    "stars": 1,
-    "updated_at": "2026-08-25T02:08:46Z",
-    "url": "https://github.com/uuzjw/wow-agent"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -108,13 +126,13 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-25T02:34:26Z",
-    "url": "https://github.com/JSL107/personal_agents"
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 800,
+    "updated_at": "2026-08-25T02:02:31Z",
+    "url": "https://github.com/ongridio/ongrid"
   },
   {
     "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
@@ -198,15 +216,6 @@
     "url": "https://github.com/greatColin/coloop-agent"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T01:35:58Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -220,7 +229,7 @@
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
-    "stars": 189,
+    "stars": 190,
     "updated_at": "2026-08-25T01:26:04Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
@@ -428,7 +437,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T02:20:44Z",
+    "updated_at": "2026-08-25T02:38:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:37:17Z",
     "url": "https://github.com/J4NN0/mycel"
-  },
-  {
-    "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
-    "id": "Ax3lsk3r3/QuantVibe",
-    "language": "Python",
-    "name": "Ax3lsk3r3/QuantVibe",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:21:09Z",
-    "url": "https://github.com/Ax3lsk3r3/QuantVibe"
   }
 ]
