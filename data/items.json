@@ -1,5 +1,104 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 826,
+    "updated_at": "2026-08-25T10:44:35Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "One agent that catches a film delivery rejection before the platform does.",
+    "id": "LoordhuJeyakumar/first-pass",
+    "language": "Python",
+    "name": "LoordhuJeyakumar/first-pass",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:40:39Z",
+    "url": "https://github.com/LoordhuJeyakumar/first-pass"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:40:35Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:40:17Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-25T10:40:11Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
+    "id": "bajshorya/llm-observability-agent",
+    "language": "TypeScript",
+    "name": "bajshorya/llm-observability-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T10:39:37Z",
+    "url": "https://github.com/bajshorya/llm-observability-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-25T10:38:48Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-25T10:38:22Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
+    "id": "uuzjw/wow-agent",
+    "language": "Python",
+    "name": "uuzjw/wow-agent",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:33:09Z",
+    "url": "https://github.com/uuzjw/wow-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T10:30:24Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 14029,
+    "updated_at": "2026-08-25T10:29:05Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
     "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
     "id": "JAVAYANGZHIWEI/realtool-loc",
     "language": "Python",
@@ -25,15 +124,6 @@
     "stars": 5692,
     "updated_at": "2026-08-25T10:22:38Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:21:46Z",
-    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
@@ -99,21 +189,12 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 824,
-    "updated_at": "2026-08-25T10:06:25Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 194,
-    "updated_at": "2026-08-25T10:05:28Z",
+    "updated_at": "2026-08-25T10:37:23Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-25T09:41:35Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -171,15 +243,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-25T09:40:51Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Multimodal LLM agent over images and docs: LangGraph ReAct + reflection, hybrid RAG (dense + BM25, RRF), vision tool via",
     "id": "Vicen-te/multimodal-agent",
     "language": "Python",
@@ -187,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T09:39:42Z",
     "url": "https://github.com/Vicen-te/multimodal-agent"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:34:36Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T09:32:39Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
@@ -229,7 +274,7 @@
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
-    "stars": 11,
+    "stars": 12,
     "updated_at": "2026-08-25T09:22:28Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "semi-hollow/NanoHarness",
     "stars": 12,
-    "updated_at": "2026-08-25T09:21:26Z",
+    "updated_at": "2026-08-25T10:44:43Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14029,
-    "updated_at": "2026-08-25T10:29:05Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:33:39Z",
     "url": "https://github.com/Jahnavi-Krishna/aria--smart-hvac-parts-agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 5805,
-    "updated_at": "2026-08-25T07:30:40Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:38:09Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
-  },
-  {
-    "description": "Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates ",
-    "id": "Jahnavi-Krishna/roofintel--b2b-lead-agent",
-    "language": "HTML",
-    "name": "Jahnavi-Krishna/roofintel--b2b-lead-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:26:01Z",
-    "url": "https://github.com/Jahnavi-Krishna/roofintel--b2b-lead-agent"
-  },
-  {
-    "description": "Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num",
-    "id": "Jahnavi-Krishna/Patsy--ai-retail-agent",
-    "language": "HTML",
-    "name": "Jahnavi-Krishna/Patsy--ai-retail-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:25:51Z",
-    "url": "https://github.com/Jahnavi-Krishna/Patsy--ai-retail-agent"
   }
 ]
