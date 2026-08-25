@@ -27,6 +27,15 @@
     "url": "https://github.com/Victongo/ai-daily-news"
   },
   {
+    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
+    "id": "mamon9022/poc-fls-node-epicronicles",
+    "language": "TypeScript",
+    "name": "mamon9022/poc-fls-node-epicronicles",
+    "stars": 2,
+    "updated_at": "2026-08-25T12:23:34Z",
+    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
+  },
+  {
     "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
     "id": "uuzjw/wow-agent",
     "language": "Python",
@@ -328,7 +337,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 831,
+    "stars": 832,
     "updated_at": "2026-08-25T10:44:35Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-25T09:41:07Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Multimodal LLM agent over images and docs: LangGraph ReAct + reflection, hybrid RAG (dense + BM25, RRF), vision tool via",
-    "id": "Vicen-te/multimodal-agent",
-    "language": "Python",
-    "name": "Vicen-te/multimodal-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:39:42Z",
-    "url": "https://github.com/Vicen-te/multimodal-agent"
   }
 ]
