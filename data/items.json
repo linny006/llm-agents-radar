@@ -1,28 +1,46 @@
 [
   {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 27,
-    "updated_at": "2026-08-25T08:05:05Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 4,
+    "updated_at": "2026-08-25T08:12:28Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:08:18Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 812,
+    "stars": 813,
     "updated_at": "2026-08-25T08:05:12Z",
     "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 27,
+    "updated_at": "2026-08-25T08:14:56Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 193,
+    "stars": 194,
     "updated_at": "2026-08-25T08:02:56Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
@@ -180,24 +198,6 @@
     "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-25T07:27:42Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:26:59Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates ",
     "id": "Jahnavi-Krishna/roofintel--b2b-lead-agent",
     "language": "HTML",
@@ -292,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29519,
+    "stars": 29523,
     "updated_at": "2026-08-25T06:33:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -301,7 +301,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3134,
+    "stars": 3135,
     "updated_at": "2026-08-25T06:17:01Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -365,7 +365,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-25T08:02:51Z",
+    "updated_at": "2026-08-25T08:12:22Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -428,7 +428,7 @@
     "language": "JavaScript",
     "name": "rsalmn/ExtremeRouter",
     "stars": 21,
-    "updated_at": "2026-08-25T04:46:34Z",
+    "updated_at": "2026-08-25T08:14:56Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
