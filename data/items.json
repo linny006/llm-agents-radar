@@ -1,12 +1,93 @@
 [
   {
+    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
+    "id": "C-Rhapsody/gemini-connector",
+    "language": "Go",
+    "name": "C-Rhapsody/gemini-connector",
+    "stars": 5,
+    "updated_at": "2026-08-25T12:45:11Z",
+    "url": "https://github.com/C-Rhapsody/gemini-connector"
+  },
+  {
+    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
+    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "language": "Go",
+    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:38:26Z",
+    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:35:29Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
+    "id": "Samuelcluttered613/paper2code",
+    "language": "Python",
+    "name": "Samuelcluttered613/paper2code",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:34:55Z",
+    "url": "https://github.com/Samuelcluttered613/paper2code"
+  },
+  {
+    "description": "Learn Nanobot with a beginner-friendly guide to AI Agent basics, interview prep, and core concepts for job seekers",
+    "id": "Bastioned-successor320/learn-nanobot",
+    "language": "Python",
+    "name": "Bastioned-successor320/learn-nanobot",
+    "stars": 8,
+    "updated_at": "2026-08-25T12:34:42Z",
+    "url": "https://github.com/Bastioned-successor320/learn-nanobot"
+  },
+  {
+    "description": "Deliver deep research with a 5-layer Claude skill for markets, products, competitors, regulations, and opportunities",
+    "id": "tessellated-statisticalcommission243/deep-research-skill",
+    "language": "\u2014",
+    "name": "tessellated-statisticalcommission243/deep-research-skill",
+    "stars": 3,
+    "updated_at": "2026-08-25T12:34:31Z",
+    "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
+  },
+  {
     "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
     "id": "Morephine/feltstate",
     "language": "Python",
     "name": "Morephine/feltstate",
     "stars": 9,
-    "updated_at": "2026-08-25T12:29:46Z",
+    "updated_at": "2026-08-25T12:31:54Z",
     "url": "https://github.com/Morephine/feltstate"
+  },
+  {
+    "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
+    "id": "chadwickhyperboloidal943/knowl",
+    "language": "TypeScript",
+    "name": "chadwickhyperboloidal943/knowl",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:30:35Z",
+    "url": "https://github.com/chadwickhyperboloidal943/knowl"
+  },
+  {
+    "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
+    "id": "Laurenfeminine36/google-jules-skill",
+    "language": "Python",
+    "name": "Laurenfeminine36/google-jules-skill",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:30:20Z",
+    "url": "https://github.com/Laurenfeminine36/google-jules-skill"
+  },
+  {
+    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
+    "id": "Jssu8541/ouro-loop",
+    "language": "\u2014",
+    "name": "Jssu8541/ouro-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:30:11Z",
+    "url": "https://github.com/Jssu8541/ouro-loop"
   },
   {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
@@ -18,6 +99,42 @@
     "url": "https://github.com/hoshiyomiX/stellar-trails"
   },
   {
+    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
+    "id": "Asim00740/Kagantic-vault-structure",
+    "language": "\u2014",
+    "name": "Asim00740/Kagantic-vault-structure",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:27:59Z",
+    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
+  },
+  {
+    "description": "Manage and filter AI context and outputs locally using Rust-powered tools for precise control and improved response qual",
+    "id": "Tonyx79/clov-ai",
+    "language": "Rust",
+    "name": "Tonyx79/clov-ai",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:27:39Z",
+    "url": "https://github.com/Tonyx79/clov-ai"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:27:26Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:44:19Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -25,6 +142,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T12:24:51Z",
     "url": "https://github.com/Victongo/ai-daily-news"
+  },
+  {
+    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
+    "id": "mena256/ai-pair-engineer",
+    "language": "Python",
+    "name": "mena256/ai-pair-engineer",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:24:46Z",
+    "url": "https://github.com/mena256/ai-pair-engineer"
   },
   {
     "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
@@ -113,7 +239,7 @@
     "language": "TypeScript",
     "name": "no42-org/twiki",
     "stars": 0,
-    "updated_at": "2026-08-25T12:12:57Z",
+    "updated_at": "2026-08-25T12:35:19Z",
     "url": "https://github.com/no42-org/twiki"
   },
   {
@@ -140,7 +266,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 194,
-    "updated_at": "2026-08-25T12:03:34Z",
+    "updated_at": "2026-08-25T12:34:09Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -194,7 +320,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-25T11:46:03Z",
+    "updated_at": "2026-08-25T12:41:45Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -203,17 +329,8 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-25T11:45:47Z",
+    "updated_at": "2026-08-25T12:39:24Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
-    "id": "C-Rhapsody/gemini-connector",
-    "language": "Go",
-    "name": "C-Rhapsody/gemini-connector",
-    "stars": 5,
-    "updated_at": "2026-08-25T11:54:49Z",
-    "url": "https://github.com/C-Rhapsody/gemini-connector"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -302,7 +419,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 127,
-    "updated_at": "2026-08-25T11:24:40Z",
+    "updated_at": "2026-08-25T12:42:23Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -313,15 +430,6 @@
     "stars": 332,
     "updated_at": "2026-08-25T11:21:52Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:21:06Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -337,116 +445,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 832,
+    "stars": 833,
     "updated_at": "2026-08-25T10:44:35Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "One agent that catches a film delivery rejection before the platform does.",
-    "id": "LoordhuJeyakumar/first-pass",
-    "language": "Python",
-    "name": "LoordhuJeyakumar/first-pass",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:40:39Z",
-    "url": "https://github.com/LoordhuJeyakumar/first-pass"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-25T10:40:11Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese",
-    "id": "bajshorya/llm-observability-agent",
-    "language": "TypeScript",
-    "name": "bajshorya/llm-observability-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:39:37Z",
-    "url": "https://github.com/bajshorya/llm-observability-agent"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14029,
-    "updated_at": "2026-08-25T10:29:05Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
-    "id": "JAVAYANGZHIWEI/realtool-loc",
-    "language": "Python",
-    "name": "JAVAYANGZHIWEI/realtool-loc",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:26:15Z",
-    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:20:21Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 20,
-    "updated_at": "2026-08-25T10:20:07Z",
-    "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-25T12:14:49Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-25T10:16:04Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "AI coding agent with one Python core and three front-ends \u2014 headless CLI, Textual TUI, and an Electron desktop. Works wi",
-    "id": "r1c7/CluxMate",
-    "language": "Python",
-    "name": "r1c7/CluxMate",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:49:43Z",
-    "url": "https://github.com/r1c7/CluxMate"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:46:49Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-25T09:41:07Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
