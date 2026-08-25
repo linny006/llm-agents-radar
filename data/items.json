@@ -1,11 +1,83 @@
 [
   {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-25T01:28:25Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 21,
+    "updated_at": "2026-08-25T01:28:17Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-25T01:27:53Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-25T01:25:47Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-25T01:24:49Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
+    "id": "Hello-QM/catgo-LRG",
+    "language": "TypeScript",
+    "name": "Hello-QM/catgo-LRG",
+    "stars": 188,
+    "updated_at": "2026-08-25T01:26:04Z",
+    "url": "https://github.com/Hello-QM/catgo-LRG"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5799,
+    "updated_at": "2026-08-25T01:21:23Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Get Vera \u2014 autonomous engineering agent pack for OpenCode: model-agnostic brain, self-learning (ACE playbook + memory), ",
+    "id": "adlerasi/getvera",
+    "language": "Python",
+    "name": "adlerasi/getvera",
+    "stars": 0,
+    "updated_at": "2026-08-25T01:17:44Z",
+    "url": "https://github.com/adlerasi/getvera"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T01:15:57Z",
+    "updated_at": "2026-08-25T01:27:57Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -16,24 +88,6 @@
     "stars": 8,
     "updated_at": "2026-08-25T01:13:40Z",
     "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "Get Vera \u2014 autonomous engineering agent pack for OpenCode: model-agnostic brain, self-learning (ACE playbook + memory), ",
-    "id": "adlerasi/getvera",
-    "language": "Python",
-    "name": "adlerasi/getvera",
-    "stars": 0,
-    "updated_at": "2026-08-25T01:12:41Z",
-    "url": "https://github.com/adlerasi/getvera"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-25T01:10:05Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -63,15 +117,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 21,
-    "updated_at": "2026-08-25T01:00:55Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T01:00:21Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
-    "id": "Hello-QM/catgo-LRG",
-    "language": "TypeScript",
-    "name": "Hello-QM/catgo-LRG",
-    "stars": 188,
-    "updated_at": "2026-08-25T01:01:40Z",
-    "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -142,15 +178,6 @@
     "stars": 191,
     "updated_at": "2026-08-25T00:42:27Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-25T00:16:31Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-08-25T01:12:50Z",
+    "updated_at": "2026-08-25T01:18:56Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:23:47Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
-    "id": "vesslina/mikrotik-harness",
-    "language": "Python",
-    "name": "vesslina/mikrotik-harness",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:00:42Z",
-    "url": "https://github.com/vesslina/mikrotik-harness"
-  },
-  {
-    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
-    "id": "xieyanran/Metasploit-Agent",
-    "language": "Python",
-    "name": "xieyanran/Metasploit-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:47:14Z",
-    "url": "https://github.com/xieyanran/Metasploit-Agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 801,
-    "updated_at": "2026-08-24T21:33:17Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
