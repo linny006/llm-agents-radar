@@ -1,5 +1,59 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-25T06:43:27Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T06:41:48Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+    "id": "Anil-matcha/awesome-dsh-plugin",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-dsh-plugin",
+    "stars": 985,
+    "updated_at": "2026-08-25T06:40:59Z",
+    "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 2,
+    "updated_at": "2026-08-25T06:37:06Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T06:35:46Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 29508,
+    "updated_at": "2026-08-25T06:33:09Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -7,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T06:30:19Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-25T06:28:19Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -40,8 +85,8 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5689,
-    "updated_at": "2026-08-25T06:09:52Z",
+    "stars": 5690,
+    "updated_at": "2026-08-25T06:42:33Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -59,17 +104,8 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 192,
-    "updated_at": "2026-08-25T06:04:23Z",
+    "updated_at": "2026-08-25T06:36:00Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 2,
-    "updated_at": "2026-08-25T06:15:13Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -169,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T05:30:55Z",
     "url": "https://github.com/helsome/tinycode"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T05:29:16Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T05:25:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "From thought to skill. From signal to structure.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T03:50:19Z",
     "url": "https://github.com/heba-ramdan/harness"
-  },
-  {
-    "description": "Open-source physics-aware LLM optimization loop for DEVSIM planar nMOS devices",
-    "id": "czf-mq/agentic-tcad",
-    "language": "Python",
-    "name": "czf-mq/agentic-tcad",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:50:13Z",
-    "url": "https://github.com/czf-mq/agentic-tcad"
-  },
-  {
-    "description": "Manage God and Fly modes automatically with persistence, multi-language support, and seamless integration for Minecraft ",
-    "id": "Ronit0p/AutoGod",
-    "language": "Java",
-    "name": "Ronit0p/AutoGod",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:49:40Z",
-    "url": "https://github.com/Ronit0p/AutoGod"
   }
 ]
