@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 11,
+    "updated_at": "2026-08-25T04:12:46Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 12,
+    "updated_at": "2026-08-25T04:11:31Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-25T04:11:08Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u4e2d\u6587\u804c\u573a\u54a8\u8be2\u5e08 Agent\uff08v0.2\uff09\uff1a\u8986\u76d6\u5411\u4e0a\u6c9f\u901a\u3001\u8d23\u4efb\u8fb9\u754c\u3001\u8de8\u90e8\u95e8\u534f\u4f5c\u3001\u7ee9\u6548\u664b\u5347\u3001\u53bb\u7559\u51b3\u7b56\u4e94\u5927 P0 \u573a\u666f\uff0c40 \u4f8b\u8bc4\u6d4b + 7 \u7ef4 28 \u5206\u8bc4\u5206\u4f53\u7cfb",
+    "id": "Nullunnn/career-coach-agent",
+    "language": "Python",
+    "name": "Nullunnn/career-coach-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T04:10:51Z",
+    "url": "https://github.com/Nullunnn/career-coach-agent"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 1,
+    "updated_at": "2026-08-25T04:08:36Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
     "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
     "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
     "language": "JavaScript",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T03:56:46Z",
+    "updated_at": "2026-08-25T04:08:47Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T03:47:19Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-25T04:04:39Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
@@ -369,15 +405,6 @@
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 12,
-    "updated_at": "2026-08-25T03:23:26Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
-  },
-  {
     "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
     "id": "uuzjw/wow-agent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T03:04:09Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29490,
-    "updated_at": "2026-08-25T02:47:10Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 21,
-    "updated_at": "2026-08-25T02:45:20Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:04:00Z",
-    "url": "https://github.com/JSL107/personal_agents"
   }
 ]
