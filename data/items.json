@@ -1,5 +1,14 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4394,
+    "updated_at": "2026-08-25T18:27:38Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -7,6 +16,15 @@
     "stars": 21,
     "updated_at": "2026-08-25T18:24:11Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:23:35Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T18:11:18Z",
     "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:23:35Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
     "description": "The self-improving SRE agent",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-25T18:02:20Z",
+    "updated_at": "2026-08-25T18:27:11Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -169,15 +178,6 @@
     "stars": 337,
     "updated_at": "2026-08-25T17:51:34Z",
     "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4394,
-    "updated_at": "2026-08-25T18:26:18Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
