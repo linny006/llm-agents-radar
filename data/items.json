@@ -1,12 +1,30 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:54:54Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
     "id": "cse-creative-systems-engineering/aios",
     "language": "Rust",
     "name": "cse-creative-systems-engineering/aios",
     "stars": 2,
-    "updated_at": "2026-08-25T22:43:45Z",
+    "updated_at": "2026-08-25T22:52:04Z",
     "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:50:13Z",
+    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -95,7 +113,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-25T22:26:58Z",
+    "updated_at": "2026-08-25T22:50:08Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-25T22:03:31Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -187,15 +196,6 @@
     "stars": 175,
     "updated_at": "2026-08-25T21:31:11Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-25T21:30:46Z",
-    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
