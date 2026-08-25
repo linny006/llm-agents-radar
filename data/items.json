@@ -1,12 +1,48 @@
 [
   {
-    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
-    "id": "somewhereafter/flourite",
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
     "language": "Python",
-    "name": "somewhereafter/flourite",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T21:13:43Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-25T21:00:23Z",
-    "url": "https://github.com/somewhereafter/flourite"
+    "updated_at": "2026-08-25T21:10:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "mystxcal/flourite",
+    "language": "Python",
+    "name": "mystxcal/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T21:07:31Z",
+    "url": "https://github.com/mystxcal/flourite"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-08-25T21:06:13Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T21:01:33Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -18,22 +54,13 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-08-25T20:46:50Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T20:45:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
+    "name": "strands-agents/harness-sdk",
+    "stars": 7003,
+    "updated_at": "2026-08-25T20:47:01Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T20:39:15Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T21:01:33Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -176,17 +194,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4395,
-    "updated_at": "2026-08-25T20:45:40Z",
+    "updated_at": "2026-08-25T21:03:58Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7002,
-    "updated_at": "2026-08-25T20:47:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-08-25T19:01:12Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-25T18:45:14Z",
-    "url": "https://github.com/tomcounsell/ai"
   }
 ]
