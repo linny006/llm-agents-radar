@@ -1,5 +1,14 @@
 [
   {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "somewhereafter/flourite",
+    "language": "Python",
+    "name": "somewhereafter/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T21:00:23Z",
+    "url": "https://github.com/somewhereafter/flourite"
+  },
+  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -31,7 +40,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 265,
+    "stars": 266,
     "updated_at": "2026-08-25T20:43:15Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -59,7 +68,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-25T20:38:40Z",
+    "updated_at": "2026-08-25T21:01:33Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-08-25T18:45:14Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:44:30Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   }
 ]
