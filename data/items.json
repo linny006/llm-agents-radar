@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 801,
+    "updated_at": "2026-08-25T13:37:42Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3140,
+    "updated_at": "2026-08-25T13:33:36Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -7,6 +25,15 @@
     "stars": 6,
     "updated_at": "2026-08-25T13:31:37Z",
     "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "One agent that catches a film delivery rejection before the platform does.",
+    "id": "LoordhuJeyakumar/first-pass",
+    "language": "Python",
+    "name": "LoordhuJeyakumar/first-pass",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:27:53Z",
+    "url": "https://github.com/LoordhuJeyakumar/first-pass"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-08-25T13:18:35Z",
+    "updated_at": "2026-08-25T13:33:02Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/Lejusdefruits/hobot"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3140,
-    "updated_at": "2026-08-25T13:24:08Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "A character engine for AI agents \u2014 persistent affect, provenance-aware memory, gated proactivity, and an auditable forge",
     "id": "Morephine/feltstate",
     "language": "Python",
@@ -248,7 +266,7 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-25T12:35:29Z",
+    "updated_at": "2026-08-25T13:43:04Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 194,
     "updated_at": "2026-08-25T12:34:09Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4394,
-    "updated_at": "2026-08-25T13:08:38Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
-    "id": "xhqing/ExecutiveAssistantAgent",
-    "language": "\u2014",
-    "name": "xhqing/ExecutiveAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:48:25Z",
-    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   }
 ]
