@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 11:15 UTC
+> ⏰ Last updated: 2026-08-25 11:19 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 2 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 330 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4393 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 2 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 3 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 330 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
 | 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 12 | Python | 2026-08-25 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 5 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4393 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
 | 7 | [pzc2004/HSR_Nous](https://github.com/pzc2004/HSR_Nous) | 3 | Python | 2026-08-25 | 面向《崩坏：星穹铁道》的配装配队优化：已成体系的战斗模拟 DSL 文档与多源数据管线；仿真引擎（干净设计：事件总线 + 闭合关键字 DSL）与 autoresearch 式 agent 开发中。 |
 | 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-25 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
