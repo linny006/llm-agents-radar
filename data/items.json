@@ -1,12 +1,39 @@
 [
   {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:35:09Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 39,
+    "updated_at": "2026-08-25T16:31:00Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "\u4fbf\u643a\u5f0f AI \u78c1\u76d8\u6587\u4ef6\u7ba1\u7406\u5668 \u2014\u2014 LLM Agent \u9a71\u52a8\u7684\u78c1\u76d8\u5206\u6790/\u6e05\u7406/\u56de\u6eda CLI\uff08Agent Skill \u5305\uff0cnpm: disk-sense\uff09",
     "id": "Nyaecho/DiskSense",
     "language": "TypeScript",
     "name": "Nyaecho/DiskSense",
     "stars": 0,
-    "updated_at": "2026-08-25T16:20:56Z",
+    "updated_at": "2026-08-25T16:38:11Z",
     "url": "https://github.com/Nyaecho/DiskSense"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:20:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T16:14:29Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 39,
-    "updated_at": "2026-08-25T16:14:25Z",
-    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -86,7 +104,7 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-25T16:01:49Z",
+    "updated_at": "2026-08-25T16:36:07Z",
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
@@ -104,7 +122,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-25T15:54:26Z",
+    "updated_at": "2026-08-25T16:33:35Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -115,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:54:19Z",
     "url": "https://github.com/BigDataDZ/ideal-harness"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 802,
+    "updated_at": "2026-08-25T15:54:09Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
@@ -142,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T15:49:25Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:20:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -185,7 +203,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 127,
-    "updated_at": "2026-08-25T15:39:36Z",
+    "updated_at": "2026-08-25T16:34:23Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -315,15 +333,6 @@
     "url": "https://github.com/TahaSheikh-SH/warden"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 801,
-    "updated_at": "2026-08-25T15:54:09Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-25T16:14:29Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:05:36Z",
-    "url": "https://github.com/no42-org/twiki"
   }
 ]
