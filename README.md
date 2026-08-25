@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 19:00 UTC
+> ⏰ Last updated: 2026-08-25 19:07 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 3 | [ZhangMochen1314/deepresvalue](https://github.com/ZhangMochen1314/deepresvalue) | 0 | — | 2026-08-25 | DeepResValue 深度研值 — 面向全学科科研工作者的 AI 科研助手 Agent SaaS。中文一句话驱动，Agent 在 100+ 专业科研技能指导下自动写码分析（Python/R/MATLAB/SPICE 四大计算内核），覆盖 |
-| 4 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-25 | A productive AI coworker that learns, self-improves, and ships work. |
-| 6 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 1 | Swift | 2026-08-25 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
-| 7 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-25 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 8 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-25 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
-| 9 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-25 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 10 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-25 | The self-improving SRE agent |
-| 11 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 12 | [justin-zhong/ai-deployment-project](https://github.com/justin-zhong/ai-deployment-project) | 0 | Python | 2026-08-25 | LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment. |
-| 13 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 14 | [gptme/gptme](https://github.com/gptme/gptme) | 4394 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 15 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-25 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 16 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 17 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-25 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 18 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 21 | JavaScript | 2026-08-25 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 19 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 12 | JavaScript | 2026-08-25 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
-| 20 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 21 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7002 | Python | 2026-08-25 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 21 | JavaScript | 2026-08-25 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 3 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7002 | Python | 2026-08-25 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 4 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 5 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 6 | [ZhangMochen1314/deepresvalue](https://github.com/ZhangMochen1314/deepresvalue) | 0 | — | 2026-08-25 | DeepResValue 深度研值 — 面向全学科科研工作者的 AI 科研助手 Agent SaaS。中文一句话驱动，Agent 在 100+ 专业科研技能指导下自动写码分析（Python/R/MATLAB/SPICE 四大计算内核），覆盖 |
+| 7 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 8 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-25 | A productive AI coworker that learns, self-improves, and ships work. |
+| 9 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 1 | Swift | 2026-08-25 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
+| 10 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-25 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 11 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 22 | Go | 2026-08-25 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
+| 12 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-25 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 13 | [Smana/runlore](https://github.com/Smana/runlore) | 12 | Go | 2026-08-25 | The self-improving SRE agent |
+| 14 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 15 | [justin-zhong/ai-deployment-project](https://github.com/justin-zhong/ai-deployment-project) | 0 | Python | 2026-08-25 | LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment. |
+| 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 17 | [gptme/gptme](https://github.com/gptme/gptme) | 4394 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 18 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-25 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
+| 19 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 20 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-25 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 21 | [theunstopabble/SwadKart](https://github.com/theunstopabble/SwadKart) | 12 | JavaScript | 2026-08-25 | A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B |
 | 22 | [TahaSheikh-SH/warden](https://github.com/TahaSheikh-SH/warden) | 0 | JavaScript | 2026-08-25 | Watches your coding-agent session and warns before the context window runs out, escalating as it fills up. |
 | 23 | [Hello-QM/catgo-LRG](https://github.com/Hello-QM/catgo-LRG) | 191 | TypeScript | 2026-08-25 | AI-driven workbench for computational materials science — interactive 3D structure viewer, natural-language CatBot assis |
 | 24 | [Rekin226/Agronaut](https://github.com/Rekin226/Agronaut) | 1 | Python | 2026-08-25 | An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp,  |
-| 25 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8996 | JavaScript | 2026-08-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
+| 25 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | 8997 | JavaScript | 2026-08-25 | The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. \| evomap.ai |
 | 26 | [Nyaecho/DiskSense](https://github.com/Nyaecho/DiskSense) | 0 | TypeScript | 2026-08-25 | 便携式 AI 磁盘文件管理器 —— LLM Agent 驱动的磁盘分析/清理/回滚 CLI（Agent Skill 包，npm: disk-sense） |
 | 27 | [sampatkalyan/vali](https://github.com/sampatkalyan/vali) | 0 | Python | 2026-08-25 | VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag |
 | 28 | [monocle2ai/monocle](https://github.com/monocle2ai/monocle) | 337 | Python | 2026-08-25 | Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i |

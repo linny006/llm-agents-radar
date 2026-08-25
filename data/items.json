@@ -1,5 +1,32 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:02:05Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 21,
+    "updated_at": "2026-08-25T19:01:12Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7002,
+    "updated_at": "2026-08-25T19:00:30Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-25T18:38:00Z",
+    "updated_at": "2026-08-25T19:04:47Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4394,
-    "updated_at": "2026-08-25T18:59:24Z",
+    "updated_at": "2026-08-25T19:05:17Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
-    "id": "rsalmn/ExtremeRouter",
-    "language": "JavaScript",
-    "name": "rsalmn/ExtremeRouter",
-    "stars": 21,
-    "updated_at": "2026-08-25T18:24:11Z",
-    "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
     "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
     "id": "theunstopabble/SwadKart",
     "language": "JavaScript",
@@ -169,24 +187,6 @@
     "stars": 12,
     "updated_at": "2026-08-25T18:48:46Z",
     "url": "https://github.com/theunstopabble/SwadKart"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:15:17Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7002,
-    "updated_at": "2026-08-25T19:00:12Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
@@ -220,7 +220,7 @@
     "id": "EvoMap/evolver",
     "language": "JavaScript",
     "name": "EvoMap/evolver",
-    "stars": 8996,
+    "stars": 8997,
     "updated_at": "2026-08-25T17:53:18Z",
     "url": "https://github.com/EvoMap/evolver"
   },
