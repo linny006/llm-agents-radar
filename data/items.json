@@ -1,5 +1,50 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4395,
+    "updated_at": "2026-08-25T19:59:05Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-25T19:55:16Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7002,
+    "updated_at": "2026-08-25T19:54:37Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "DeepResValue \u6df1\u5ea6\u7814\u503c \u2014 \u9762\u5411\u5168\u5b66\u79d1\u79d1\u7814\u5de5\u4f5c\u8005\u7684 AI \u79d1\u7814\u52a9\u624b Agent SaaS\u3002\u4e2d\u6587\u4e00\u53e5\u8bdd\u9a71\u52a8\uff0cAgent \u5728 100+ \u4e13\u4e1a\u79d1\u7814\u6280\u80fd\u6307\u5bfc\u4e0b\u81ea\u52a8\u5199\u7801\u5206\u6790\uff08Python/R/MATLAB/SPICE \u56db\u5927\u8ba1\u7b97\u5185\u6838\uff09\uff0c\u8986\u76d6",
+    "id": "ZhangMochen1314/deepresvalue",
+    "language": "\u2014",
+    "name": "ZhangMochen1314/deepresvalue",
+    "stars": 0,
+    "updated_at": "2026-08-25T19:49:39Z",
+    "url": "https://github.com/ZhangMochen1314/deepresvalue"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T19:49:35Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
     "id": "WhitehatD/hesperus",
     "language": "C",
@@ -216,15 +261,6 @@
     "url": "https://github.com/Tonyx79/clov-ai"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:19:35Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
     "id": "Victongo/ai-daily-news",
     "language": "Ruby",
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T19:17:03Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "DeepResValue \u6df1\u5ea6\u7814\u503c \u2014 \u9762\u5411\u5168\u5b66\u79d1\u79d1\u7814\u5de5\u4f5c\u8005\u7684 AI \u79d1\u7814\u52a9\u624b Agent SaaS\u3002\u4e2d\u6587\u4e00\u53e5\u8bdd\u9a71\u52a8\uff0cAgent \u5728 100+ \u4e13\u4e1a\u79d1\u7814\u6280\u80fd\u6307\u5bfc\u4e0b\u81ea\u52a8\u5199\u7801\u5206\u6790\uff08Python/R/MATLAB/SPICE \u56db\u5927\u8ba1\u7b97\u5185\u6838\uff09\uff0c\u8986\u76d6",
-    "id": "ZhangMochen1314/deepresvalue",
-    "language": "\u2014",
-    "name": "ZhangMochen1314/deepresvalue",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:16:09Z",
-    "url": "https://github.com/ZhangMochen1314/deepresvalue"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -324,15 +351,6 @@
     "url": "https://github.com/rsalmn/ExtremeRouter"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7002,
-    "updated_at": "2026-08-25T19:00:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -396,15 +414,6 @@
     "url": "https://github.com/justin-zhong/ai-deployment-project"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4394,
-    "updated_at": "2026-08-25T19:25:11Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
     "id": "azastashkov/sdd-cli",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 191,
     "updated_at": "2026-08-25T17:55:09Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-25T17:53:33Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   }
 ]
