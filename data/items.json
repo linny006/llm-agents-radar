@@ -1,12 +1,66 @@
 [
   {
-    "description": "DeepResValue \u6df1\u5ea6\u7814\u503c \u2014 \u9762\u5411\u5168\u5b66\u79d1\u79d1\u7814\u5de5\u4f5c\u8005\u7684 AI \u79d1\u7814\u52a9\u624b Agent SaaS\u3002\u4e2d\u6587\u4e00\u53e5\u8bdd\u9a71\u52a8\uff0cAgent \u5728 100+ \u4e13\u4e1a\u79d1\u7814\u6280\u80fd\u6307\u5bfc\u4e0b\u81ea\u52a8\u5199\u7801\u5206\u6790\uff08Python/R/MATLAB/SPICE \u56db\u5927\u8ba1\u7b97\u5185\u6838\uff09\uff0c\u8986\u76d6",
+    "description": "DeepResValue \u6df1\u5ea6\u7814\u503c \u2014 \u5168\u5b66\u79d1 AI \u79d1\u7814\u52a9\u624b Agent SaaS\u3002\u4e2d\u6587\u4e00\u53e5\u8bdd\u9a71\u52a8\uff1aAgent \u5728 100+ \u4e13\u4e1a\u79d1\u7814\u6280\u80fd\u6307\u5bfc\u4e0b\u81ea\u52a8\u5199\u4ee3\u7801\u3001\u4e91\u7aef\u6267\u884c\uff08Python/R/MATLAB/SPICE \u56db\u5927\u5185\u6838\uff09\uff0c\u8986\u76d6\u7a7a\u95f4\u8ba1\u91cf\u3001\u9ad8",
     "id": "ZhangMochen1314/deepresvalue",
     "language": "\u2014",
     "name": "ZhangMochen1314/deepresvalue",
     "stars": 0,
-    "updated_at": "2026-08-25T20:14:56Z",
+    "updated_at": "2026-08-25T20:28:46Z",
     "url": "https://github.com/ZhangMochen1314/deepresvalue"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-08-25T20:28:05Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "Cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "Cohexa-ai/agent-coherence",
+    "stars": 12,
+    "updated_at": "2026-08-25T20:28:13Z",
+    "url": "https://github.com/Cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T20:25:51Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-25T20:23:07Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-25T20:21:40Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T20:20:56Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -68,17 +122,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4395,
-    "updated_at": "2026-08-25T20:07:59Z",
+    "updated_at": "2026-08-25T20:26:55Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-25T19:55:16Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -88,15 +133,6 @@
     "stars": 7002,
     "updated_at": "2026-08-25T19:54:37Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
-    "id": "WhitehatD/hesperus",
-    "language": "C",
-    "name": "WhitehatD/hesperus",
-    "stars": 5,
-    "updated_at": "2026-08-25T19:43:46Z",
-    "url": "https://github.com/WhitehatD/hesperus"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -198,15 +234,6 @@
     "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T19:29:33Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Convert arXiv papers into citation-linked codebases with reproducible notes and implementation files",
     "id": "Samuelcluttered613/paper2code",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T19:26:46Z",
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:25:35Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-25T18:37:54Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
-    "id": "justin-zhong/ai-deployment-project",
-    "language": "Python",
-    "name": "justin-zhong/ai-deployment-project",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:36:52Z",
-    "url": "https://github.com/justin-zhong/ai-deployment-project"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:33:42Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   }
 ]
