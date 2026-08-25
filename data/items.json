@@ -1,5 +1,68 @@
 [
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 191,
+    "updated_at": "2026-08-25T02:14:52Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:12:43Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:11:12Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
+    "id": "uuzjw/wow-agent",
+    "language": "Python",
+    "name": "uuzjw/wow-agent",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:08:46Z",
+    "url": "https://github.com/uuzjw/wow-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-25T02:06:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:06:26Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "\u81ea\u8fdb\u5316\u91cf\u5316\u9009\u80a1\u7cfb\u7edf \u2014 Kronos K\u7ebf\u9884\u6d4b\u6a21\u578b + Hermes Agent \u81ea\u8fdb\u5316\u95ed\u73af + A\u80a1\u4e09\u6c60\u6f0f\u6597\u9009\u80a1",
+    "id": "Shadowell/Alpha",
+    "language": "Python",
+    "name": "Shadowell/Alpha",
+    "stars": 24,
+    "updated_at": "2026-08-25T02:01:12Z",
+    "url": "https://github.com/Shadowell/Alpha"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -27,21 +90,12 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-25T01:52:03Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 2,
-    "updated_at": "2026-08-25T01:49:05Z",
+    "updated_at": "2026-08-25T02:06:49Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -121,7 +175,7 @@
     "id": "Hello-QM/catgo-LRG",
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
-    "stars": 188,
+    "stars": 189,
     "updated_at": "2026-08-25T01:26:04Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 191,
-    "updated_at": "2026-08-25T00:42:27Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
     "id": "watchcat/scout",
     "language": "Rust",
@@ -288,15 +333,6 @@
     "url": "https://github.com/no42-org/twiki"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-24T23:13:57Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -356,17 +392,8 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-08-25T01:35:48Z",
+    "updated_at": "2026-08-25T02:01:36Z",
     "url": "https://github.com/metric-space-ai/greppy"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-24T21:48:22Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T00:57:38Z",
+    "updated_at": "2026-08-25T02:09:43Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T20:50:34Z",
     "url": "https://github.com/dsh-tui-ecosystem/dsh-code-memory"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:44:40Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
-    "description": "A policy-controlled bridge for AI agents to observe and operate Linux desktops.",
-    "id": "ZaguanLabs/agent-seat-proto",
-    "language": "Rust",
-    "name": "ZaguanLabs/agent-seat-proto",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:40:12Z",
-    "url": "https://github.com/ZaguanLabs/agent-seat-proto"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:34:20Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   }
 ]
