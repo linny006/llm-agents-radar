@@ -1,5 +1,86 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 327,
+    "updated_at": "2026-08-25T09:56:50Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro",
+    "id": "JAVAYANGZHIWEI/realtool-loc",
+    "language": "Python",
+    "name": "JAVAYANGZHIWEI/realtool-loc",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:51:45Z",
+    "url": "https://github.com/JAVAYANGZHIWEI/realtool-loc"
+  },
+  {
+    "description": "AI coding agent with one Python core and three front-ends \u2014 headless CLI, Textual TUI, and an Electron desktop. Works wi",
+    "id": "r1c7/CluxMate",
+    "language": "Python",
+    "name": "r1c7/CluxMate",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:49:43Z",
+    "url": "https://github.com/r1c7/CluxMate"
+  },
+  {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 20,
+    "updated_at": "2026-08-25T09:49:32Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:48:08Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T09:55:35Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:46:49Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3137,
+    "updated_at": "2026-08-25T09:46:25Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T09:43:37Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -54,15 +135,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-25T09:45:14Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-25T09:37:56Z",
+    "updated_at": "2026-08-25T09:57:14Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-25T09:41:50Z",
+    "updated_at": "2026-08-25T09:53:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -139,7 +211,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 822,
+    "stars": 823,
     "updated_at": "2026-08-25T09:12:47Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -162,24 +234,6 @@
     "url": "https://github.com/somewhereafter/flourite"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:06:36Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T09:43:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
     "id": "metric-space-ai/greppy",
     "language": "Rust",
@@ -194,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T09:35:52Z",
+    "updated_at": "2026-08-25T09:58:11Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 194,
     "updated_at": "2026-08-25T08:34:44Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3136,
-    "updated_at": "2026-08-25T09:40:55Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
@@ -297,15 +342,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 327,
-    "updated_at": "2026-08-25T09:41:32Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
@@ -313,15 +349,6 @@
     "stars": 14029,
     "updated_at": "2026-08-25T07:55:37Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:35:21Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
@@ -421,32 +448,5 @@
     "stars": 997,
     "updated_at": "2026-08-25T07:14:23Z",
     "url": "https://github.com/Anil-matcha/awesome-openclaw"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:09:10Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
-    "id": "Anil-matcha/awesome-dsh-plugin",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-dsh-plugin",
-    "stars": 987,
-    "updated_at": "2026-08-25T06:52:19Z",
-    "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-25T06:43:27Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   }
 ]
