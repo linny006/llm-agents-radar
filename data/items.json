@@ -1,12 +1,66 @@
 [
   {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16425,
+    "updated_at": "2026-08-25T13:50:25Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T13:47:57Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-25T13:46:31Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:45:33Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:40:52Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-25T13:37:42Z",
+    "updated_at": "2026-08-25T13:59:11Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7001,
+    "updated_at": "2026-08-25T13:37:40Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -16,6 +70,24 @@
     "stars": 3140,
     "updated_at": "2026-08-25T13:33:36Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:33:02Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:33:00Z",
+    "url": "https://github.com/b-macker/NAAb"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "LoordhuJeyakumar/first-pass",
     "stars": 0,
-    "updated_at": "2026-08-25T13:27:53Z",
+    "updated_at": "2026-08-25T13:48:13Z",
     "url": "https://github.com/LoordhuJeyakumar/first-pass"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-08-25T13:20:01Z",
+    "updated_at": "2026-08-25T13:49:25Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:19:32Z",
     "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:33:02Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -140,7 +203,7 @@
     "language": "Ruby",
     "name": "general-intelligence-systems/brute",
     "stars": 4,
-    "updated_at": "2026-08-25T13:02:24Z",
+    "updated_at": "2026-08-25T13:56:17Z",
     "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
@@ -149,7 +212,7 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 124,
-    "updated_at": "2026-08-25T12:58:36Z",
+    "updated_at": "2026-08-25T13:57:33Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
@@ -158,7 +221,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-25T12:57:48Z",
+    "updated_at": "2026-08-25T13:56:23Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:42:40Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T12:42:23Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -383,7 +437,7 @@
     "language": "Python",
     "name": "uuzjw/wow-agent",
     "stars": 1,
-    "updated_at": "2026-08-25T12:21:03Z",
+    "updated_at": "2026-08-25T13:55:27Z",
     "url": "https://github.com/uuzjw/wow-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:19:42Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 9,
-    "updated_at": "2026-08-25T12:16:16Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
-  },
-  {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-25T12:14:48Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-25T12:14:42Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:13:06Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:05:39Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 194,
-    "updated_at": "2026-08-25T12:34:09Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   }
 ]
