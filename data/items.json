@@ -1,21 +1,75 @@
 [
   {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Makefile",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 2,
+    "updated_at": "2026-08-25T22:14:13Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-25T22:12:54Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-25T22:12:24Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:11:42Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 6,
+    "updated_at": "2026-08-25T22:06:33Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
+    "id": "sampatkalyan/vali",
+    "language": "Python",
+    "name": "sampatkalyan/vali",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:05:05Z",
+    "url": "https://github.com/sampatkalyan/vali"
+  },
+  {
     "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
     "id": "yantrikos/yantrikdb-hermes-plugin",
     "language": "Python",
     "name": "yantrikos/yantrikdb-hermes-plugin",
     "stars": 83,
-    "updated_at": "2026-08-25T21:59:27Z",
+    "updated_at": "2026-08-25T22:03:53Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
     "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-08-25T21:56:24Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:03:31Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -23,7 +77,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-25T21:43:05Z",
+    "updated_at": "2026-08-25T22:00:29Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -36,13 +90,13 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
     "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-25T21:35:55Z",
-    "url": "https://github.com/sydches/yuj"
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-25T21:56:24Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -117,15 +171,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
-    "id": "sampatkalyan/vali",
-    "language": "Python",
-    "name": "sampatkalyan/vali",
-    "stars": 0,
-    "updated_at": "2026-08-25T21:10:08Z",
-    "url": "https://github.com/sampatkalyan/vali"
-  },
-  {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
     "id": "mystxcal/flourite",
     "language": "Python",
@@ -178,15 +223,6 @@
     "stars": 266,
     "updated_at": "2026-08-25T20:43:15Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-25T20:42:50Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T19:17:24Z",
     "url": "https://github.com/Victongo/ai-daily-news"
-  },
-  {
-    "description": "Analyze code snippets with an AI assistant to find design flaws, suggest refactoring, generate tests, and audit SOLID pr",
-    "id": "mena256/ai-pair-engineer",
-    "language": "Python",
-    "name": "mena256/ai-pair-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:17:19Z",
-    "url": "https://github.com/mena256/ai-pair-engineer"
-  },
-  {
-    "description": "\ud83c\udf0c Build and explore a 3D space sim with a procedural galaxy, interactive HUD, and dynamic Redux Toolkit state management",
-    "id": "mamon9022/poc-fls-node-epicronicles",
-    "language": "TypeScript",
-    "name": "mamon9022/poc-fls-node-epicronicles",
-    "stars": 2,
-    "updated_at": "2026-08-25T19:17:03Z",
-    "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
-    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "language": "HTML",
-    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:12:15Z",
-    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 9,
-    "updated_at": "2026-08-25T19:08:45Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
