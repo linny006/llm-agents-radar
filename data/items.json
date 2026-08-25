@@ -1,5 +1,95 @@
 [
   {
+    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
+    "id": "cse-creative-systems-engineering/aios",
+    "language": "Rust",
+    "name": "cse-creative-systems-engineering/aios",
+    "stars": 2,
+    "updated_at": "2026-08-25T22:43:45Z",
+    "url": "https://github.com/cse-creative-systems-engineering/aios"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:42:38Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4396,
+    "updated_at": "2026-08-25T22:44:39Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-25T22:39:09Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 6,
+    "updated_at": "2026-08-25T22:38:29Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:37:41Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T22:35:50Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T22:34:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-25T22:33:27Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-25T22:32:57Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -16,24 +106,6 @@
     "stars": 128,
     "updated_at": "2026-08-25T22:24:04Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
-    "id": "TahaSheikh-SH/warden",
-    "language": "JavaScript",
-    "name": "TahaSheikh-SH/warden",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:23:30Z",
-    "url": "https://github.com/TahaSheikh-SH/warden"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 6,
-    "updated_at": "2026-08-25T22:22:04Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -61,15 +133,6 @@
     "stars": 2749,
     "updated_at": "2026-08-25T22:15:48Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Makefile",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 2,
-    "updated_at": "2026-08-25T22:14:13Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -108,33 +171,6 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:00:29Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T21:58:10Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-08-25T21:56:24Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -142,24 +178,6 @@
     "stars": 31,
     "updated_at": "2026-08-25T21:34:52Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-25T21:34:24Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-25T21:33:52Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
@@ -207,15 +225,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4396,
-    "updated_at": "2026-08-25T21:03:58Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
     "id": "PCODE-pl/MCPTap",
     "language": "Python",
@@ -229,7 +238,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7003,
+    "stars": 7004,
     "updated_at": "2026-08-25T20:47:01Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T19:20:27Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "LLM agent that runs real penetration tests via Metasploit \u2014 PTES-driven recon, exploitation, and post-exploitation, gate",
-    "id": "xieyanran/Metasploit-Agent",
-    "language": "Python",
-    "name": "xieyanran/Metasploit-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:20:16Z",
-    "url": "https://github.com/xieyanran/Metasploit-Agent"
   }
 ]
