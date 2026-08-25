@@ -1,5 +1,50 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-25T04:59:35Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 23938,
+    "updated_at": "2026-08-25T04:58:12Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T04:57:56Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 1,
+    "updated_at": "2026-08-25T04:56:30Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 4,
+    "updated_at": "2026-08-25T04:51:20Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
     "id": "rsalmn/ExtremeRouter",
     "language": "JavaScript",
@@ -36,15 +81,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:38:33Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-25T04:39:21Z",
+    "updated_at": "2026-08-25T04:54:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T04:22:34Z",
     "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:18:21Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T04:08:47Z",
+    "updated_at": "2026-08-25T04:58:37Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 14023,
     "updated_at": "2026-08-25T03:36:41Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
-    "id": "Amri854/obsidian-mcp-server",
-    "language": "TypeScript",
-    "name": "Amri854/obsidian-mcp-server",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:31:47Z",
-    "url": "https://github.com/Amri854/obsidian-mcp-server"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
-    "id": "irandysousa/langgraph-llama-cpp-starter",
-    "language": "Python",
-    "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
-    "updated_at": "2026-08-25T03:29:19Z",
-    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 803,
-    "updated_at": "2026-08-25T03:26:38Z",
-    "url": "https://github.com/ongridio/ongrid"
   }
 ]
