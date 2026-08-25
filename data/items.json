@@ -1,5 +1,50 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-25T23:11:22Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 6,
+    "updated_at": "2026-08-25T23:10:41Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-08-25T23:09:52Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 104,
+    "updated_at": "2026-08-25T23:06:59Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
+    "id": "sampatkalyan/vali",
+    "language": "Python",
+    "name": "sampatkalyan/vali",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:02:12Z",
+    "url": "https://github.com/sampatkalyan/vali"
+  },
+  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 1,
-    "updated_at": "2026-08-25T22:42:38Z",
+    "updated_at": "2026-08-25T23:06:24Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T22:39:09Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 6,
-    "updated_at": "2026-08-25T22:38:29Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
     "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
@@ -135,20 +171,11 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
-    "id": "sampatkalyan/vali",
-    "language": "Python",
-    "name": "sampatkalyan/vali",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:18:06Z",
-    "url": "https://github.com/sampatkalyan/vali"
-  },
-  {
     "description": "An open-sourced research agent system deeply rooted in your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 2749,
+    "stars": 2750,
     "updated_at": "2026-08-25T22:15:48Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-25T21:17:08Z",
+    "updated_at": "2026-08-25T23:14:00Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T21:07:31Z",
     "url": "https://github.com/mystxcal/flourite"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-08-25T21:06:13Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T19:22:46Z",
     "url": "https://github.com/Laurenfeminine36/google-jules-skill"
-  },
-  {
-    "description": "Provide AI coding agents with a structured autonomous loop that enforces runtime guardrails for safer, more reliable ope",
-    "id": "Jssu8541/ouro-loop",
-    "language": "\u2014",
-    "name": "Jssu8541/ouro-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:22:35Z",
-    "url": "https://github.com/Jssu8541/ouro-loop"
-  },
-  {
-    "description": "Provide a structured template for Obsidian-style markdown vaults to improve LLM agent navigation and human readability i",
-    "id": "Asim00740/Kagantic-vault-structure",
-    "language": "\u2014",
-    "name": "Asim00740/Kagantic-vault-structure",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:20:27Z",
-    "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   }
 ]
