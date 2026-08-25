@@ -1,5 +1,59 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-25T00:14:53Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:12:46Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:12:05Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Secure on device personal agents ",
+    "id": "iBz-04/gloamy",
+    "language": "Rust",
+    "name": "iBz-04/gloamy",
+    "stars": 65,
+    "updated_at": "2026-08-25T00:04:46Z",
+    "url": "https://github.com/iBz-04/gloamy"
+  },
+  {
+    "description": "UAS v3.0 cross-agent state coordination \u2014 upgrade from UTS v2.x",
+    "id": "wingontiger/universal-task-sync",
+    "language": "Python",
+    "name": "wingontiger/universal-task-sync",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:02:59Z",
+    "url": "https://github.com/wingontiger/universal-task-sync"
+  },
+  {
+    "description": "Multi-task SPEC lifecycle governance for parallel agent development",
+    "id": "wingontiger/spec-registry",
+    "language": "Python",
+    "name": "wingontiger/spec-registry",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:58:38Z",
+    "url": "https://github.com/wingontiger/spec-registry"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -234,15 +288,6 @@
     "url": "https://github.com/dmirain/OctoForge"
   },
   {
-    "description": "Secure on device personal agents ",
-    "id": "iBz-04/gloamy",
-    "language": "Rust",
-    "name": "iBz-04/gloamy",
-    "stars": 65,
-    "updated_at": "2026-08-24T23:42:04Z",
-    "url": "https://github.com/iBz-04/gloamy"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T17:33:12Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:20:24Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "GitHub Issue \u5206\u6790\u667a\u80fd\u4f53\uff1a\u6709\u754c\u5de5\u5177\u5faa\u73af\u63a2\u7d22\u4ed3\u5e93\u6e90\u7801\uff0c\u751f\u6210\u5e26\u884c\u7ea7\u8bc1\u636e\u7684\u6839\u56e0\u62a5\u544a\u4e0e\u4fee\u590d\u8865\u4e01\uff0c\u9ed8\u8ba4\u53ea\u8bfb\uff0c\u53ef\u663e\u5f0f\u5f00\u542f PR \u63d0\u6848",
-    "id": "xiaomaozjj666/issue-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/issue-agent",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:18:31Z",
-    "url": "https://github.com/xiaomaozjj666/issue-agent"
-  },
-  {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
-    "language": "Shell",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:18:07Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 6,
-    "updated_at": "2026-08-24T17:10:34Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 31,
-    "updated_at": "2026-08-24T17:10:28Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
