@@ -1,12 +1,57 @@
 [
   {
-    "description": "DeepResValue ???? - ??????????? AI ???? Agent SaaS????????,Agent ? 100+ ???????????????(Python/R/MATLAB/SPICE ??????),??",
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:51:01Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-25T18:48:09Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "DeepResValue \u6df1\u5ea6\u7814\u503c \u2014 \u9762\u5411\u5168\u5b66\u79d1\u79d1\u7814\u5de5\u4f5c\u8005\u7684 AI \u79d1\u7814\u52a9\u624b Agent SaaS\u3002\u4e2d\u6587\u4e00\u53e5\u8bdd\u9a71\u52a8\uff0cAgent \u5728 100+ \u4e13\u4e1a\u79d1\u7814\u6280\u80fd\u6307\u5bfc\u4e0b\u81ea\u52a8\u5199\u7801\u5206\u6790\uff08Python/R/MATLAB/SPICE \u56db\u5927\u8ba1\u7b97\u5185\u6838\uff09\uff0c\u8986\u76d6",
     "id": "ZhangMochen1314/deepresvalue",
     "language": "\u2014",
     "name": "ZhangMochen1314/deepresvalue",
     "stars": 0,
-    "updated_at": "2026-08-25T18:41:58Z",
+    "updated_at": "2026-08-25T18:47:28Z",
     "url": "https://github.com/ZhangMochen1314/deepresvalue"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-25T18:47:21Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-25T18:45:14Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
+    "id": "kasparovabi/dsh-studio",
+    "language": "Swift",
+    "name": "kasparovabi/dsh-studio",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:45:06Z",
+    "url": "https://github.com/kasparovabi/dsh-studio"
   },
   {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
@@ -36,6 +81,24 @@
     "url": "https://github.com/sydches/yuj"
   },
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-25T18:38:00Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T18:37:54Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
     "description": "LLM application engineering projects: RAG, LangGraph Agents, MCP, evaluation, FastAPI, Redis, and deployment.",
     "id": "justin-zhong/ai-deployment-project",
     "language": "Python",
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4394,
-    "updated_at": "2026-08-25T18:43:56Z",
+    "updated_at": "2026-08-25T18:59:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-25T18:27:11Z",
+    "updated_at": "2026-08-25T18:58:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -104,7 +167,7 @@
     "language": "JavaScript",
     "name": "theunstopabble/SwadKart",
     "stars": 12,
-    "updated_at": "2026-08-25T18:21:55Z",
+    "updated_at": "2026-08-25T18:48:46Z",
     "url": "https://github.com/theunstopabble/SwadKart"
   },
   {
@@ -117,49 +180,13 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-25T18:45:14Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-25T18:38:00Z",
-    "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-25T18:37:54Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7001,
-    "updated_at": "2026-08-25T18:03:26Z",
+    "stars": 7002,
+    "updated_at": "2026-08-25T19:00:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:01:51Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
@@ -270,24 +297,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-25T17:36:16Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-25T17:35:59Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
     "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -304,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-08-25T17:32:38Z",
     "url": "https://github.com/wan9yu/cli-agent-runner"
-  },
-  {
-    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
-    "id": "kasparovabi/dsh-studio",
-    "language": "Swift",
-    "name": "kasparovabi/dsh-studio",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:45:06Z",
-    "url": "https://github.com/kasparovabi/dsh-studio"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
