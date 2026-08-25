@@ -1,5 +1,50 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:25:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
+    "id": "kasparovabi/dsh-studio",
+    "language": "Swift",
+    "name": "kasparovabi/dsh-studio",
+    "stars": 1,
+    "updated_at": "2026-08-25T17:23:41Z",
+    "url": "https://github.com/kasparovabi/dsh-studio"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:22:26Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T17:29:45Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-25T17:28:41Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
     "id": "the-priest/PriestsBasilisk",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T17:05:10Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-25T17:10:59Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -117,15 +153,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:06:49Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
-  },
-  {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
     "id": "Lejusdefruits/hobot",
     "language": "Python",
@@ -140,7 +167,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 127,
-    "updated_at": "2026-08-25T16:34:23Z",
+    "updated_at": "2026-08-25T17:29:21Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -153,21 +180,12 @@
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:28:57Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7001,
-    "updated_at": "2026-08-25T16:16:45Z",
+    "updated_at": "2026-08-25T17:30:03Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -187,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:08:49Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
-    "id": "kasparovabi/dsh-studio",
-    "language": "Swift",
-    "name": "kasparovabi/dsh-studio",
-    "stars": 1,
-    "updated_at": "2026-08-25T16:08:54Z",
-    "url": "https://github.com/kasparovabi/dsh-studio"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -284,7 +293,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 191,
-    "updated_at": "2026-08-25T17:13:55Z",
+    "updated_at": "2026-08-25T17:26:01Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:52:07Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16425,
-    "updated_at": "2026-08-25T13:50:25Z",
-    "url": "https://github.com/HKUDS/DeepCode"
   }
 ]
