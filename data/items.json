@@ -1,5 +1,95 @@
 [
   {
+    "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
+    "id": "Sh1njuuovo/recagent-eval",
+    "language": "Python",
+    "name": "Sh1njuuovo/recagent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:28:00Z",
+    "url": "https://github.com/Sh1njuuovo/recagent-eval"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-25T09:24:43Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 11,
+    "updated_at": "2026-08-25T09:22:28Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
+    "id": "semi-hollow/NanoHarness",
+    "language": "Python",
+    "name": "semi-hollow/NanoHarness",
+    "stars": 12,
+    "updated_at": "2026-08-25T09:21:26Z",
+    "url": "https://github.com/semi-hollow/NanoHarness"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-25T09:20:48Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-25T09:18:07Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:17:02Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:15:01Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 819,
+    "updated_at": "2026-08-25T09:12:47Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
+    "id": "tk-fantasy/fantasy",
+    "language": "Python",
+    "name": "tk-fantasy/fantasy",
+    "stars": 15,
+    "updated_at": "2026-08-25T09:12:28Z",
+    "url": "https://github.com/tk-fantasy/fantasy"
+  },
+  {
     "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
     "id": "somewhereafter/flourite",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T09:06:36Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "AI smart home assistant for Home Assistant: LangGraph agent + MCP tools + RAG knowledge graph + vision perception",
-    "id": "tk-fantasy/fantasy",
-    "language": "Python",
-    "name": "tk-fantasy/fantasy",
-    "stars": 15,
-    "updated_at": "2026-08-25T09:12:28Z",
-    "url": "https://github.com/tk-fantasy/fantasy"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-25T08:54:24Z",
+    "updated_at": "2026-08-25T09:29:25Z",
     "url": "https://github.com/karvidsson/kbots"
   },
   {
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T09:12:35Z",
+    "updated_at": "2026-08-25T09:25:13Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -108,12 +189,21 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 194,
+    "updated_at": "2026-08-25T08:34:44Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-25T08:34:17Z",
+    "updated_at": "2026-08-25T09:28:43Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 3136,
     "updated_at": "2026-08-25T08:50:46Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:32:14Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
@@ -180,33 +261,6 @@
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-25T09:13:41Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 818,
-    "updated_at": "2026-08-25T09:12:47Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 193,
-    "updated_at": "2026-08-25T08:34:44Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -220,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6997,
+    "stars": 6998,
     "updated_at": "2026-08-25T07:58:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -238,7 +292,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14028,
+    "stars": 14029,
     "updated_at": "2026-08-25T07:55:37Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -252,24 +306,6 @@
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-25T09:03:10Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 11,
-    "updated_at": "2026-08-25T07:46:30Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
@@ -279,16 +315,7 @@
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
-    "id": "Sh1njuuovo/recagent-eval",
-    "language": "Python",
-    "name": "Sh1njuuovo/recagent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:37:37Z",
-    "url": "https://github.com/Sh1njuuovo/recagent-eval"
-  },
-  {
-    "description": "\u4e00\u4e2a\u6570\u636e\u5206\u6790skill\uff0c\u8f93\u5165\u7ecf\u8425\u6570\u636eexcel\u8868\u683c\uff0c\u5373\u53ef\u6839\u636e\u9884\u8bbe\u7684\u89c4\u5219\u5f15\u64ce\u4e8b\u5b9e\uff0c\u7531\u901a\u7528agent\u8f93\u51fa\u89c4\u8303\u7684\u7ecf\u8425\u5206\u6790\u62a5\u544aword\u6587\u6863\u3002",
+    "description": "\u4e00\u4e2a\u6570\u636e\u5206\u6790skill\uff0c\u8f93\u5165\u7ecf\u8425\u6570\u636eexcel\u8868\u683c\uff0c\u5373\u53ef\u6839\u636e\u9884\u8bbe\u7684\u89c4\u5219\u5f15\u64ce\u4e8b\u5b9e\uff0c\u7531\u901a\u7528agent\u8f93\u51fa\u89c4\u8303\u7684\u7ecf\u8425\u5206\u6790\u62a5\u544aword\u6587\u6863\u3002\u672c\u6280\u80fd\u6ca1\u6709\u670d\u52a1\u7aef\u7ec4\u4ef6\uff0c\u662f\u4e00\u4e2a\u672c\u5730 Python CLI\uff0c\u7531 agent \u5728\u5de5\u4f5c\u76ee\u5f55\u4e2d\u76f4\u63a5\u8c03\u7528\u3002",
     "id": "cynthia174/Operation-Metrics-Skill",
     "language": "Python",
     "name": "cynthia174/Operation-Metrics-Skill",
@@ -346,7 +373,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 23946,
+    "stars": 23949,
     "updated_at": "2026-08-25T07:18:07Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-25T06:37:06Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29526,
-    "updated_at": "2026-08-25T06:33:09Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-25T06:15:07Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:58:36Z",
-    "url": "https://github.com/JSL107/personal_agents"
   }
 ]
