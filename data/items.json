@@ -1,5 +1,14 @@
 [
   {
+    "description": "GPT autonomous research and investigation using starintel",
+    "id": "lost-rob0t/starintel-gpt-auto-dig",
+    "language": "Python",
+    "name": "lost-rob0t/starintel-gpt-auto-dig",
+    "stars": 0,
+    "updated_at": "2026-08-25T01:15:57Z",
+    "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/agent-book",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 801,
     "updated_at": "2026-08-24T21:33:17Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "AI-powered investment research assistant \u2014 multi-agent stock analysis (fundamentals, market data, news sentiment) via Cr",
-    "id": "smenon2710/ai-investment-research-assistant",
-    "language": "Python",
-    "name": "smenon2710/ai-investment-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:03:33Z",
-    "url": "https://github.com/smenon2710/ai-investment-research-assistant"
   }
 ]
