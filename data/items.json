@@ -1,5 +1,32 @@
 [
   {
+    "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
+    "id": "rsalmn/ExtremeRouter",
+    "language": "JavaScript",
+    "name": "rsalmn/ExtremeRouter",
+    "stars": 21,
+    "updated_at": "2026-08-25T18:24:11Z",
+    "url": "https://github.com/rsalmn/ExtremeRouter"
+  },
+  {
+    "description": "A production-grade Multi-Vendor Food Delivery Platform with AI Chatbot (Groq LLM), Real-Time GPS Tracking (Socket.io), B",
+    "id": "theunstopabble/SwadKart",
+    "language": "JavaScript",
+    "name": "theunstopabble/SwadKart",
+    "stars": 12,
+    "updated_at": "2026-08-25T18:21:55Z",
+    "url": "https://github.com/theunstopabble/SwadKart"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T18:15:17Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -9,12 +36,21 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T18:11:18Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
     "name": "ravisinghrajput95/kubewhy",
     "stars": 0,
-    "updated_at": "2026-08-25T18:07:38Z",
+    "updated_at": "2026-08-25T18:23:35Z",
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Go",
     "name": "Smana/runlore",
     "stars": 12,
-    "updated_at": "2026-08-25T18:05:01Z",
+    "updated_at": "2026-08-25T18:26:20Z",
     "url": "https://github.com/Smana/runlore"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 191,
     "updated_at": "2026-08-25T17:55:09Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
-  },
-  {
-    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
-    "id": "azastashkov/sdd-cli",
-    "language": "Java",
-    "name": "azastashkov/sdd-cli",
-    "stars": 0,
-    "updated_at": "2026-08-25T18:11:18Z",
-    "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4394,
-    "updated_at": "2026-08-25T18:13:17Z",
+    "updated_at": "2026-08-25T18:26:18Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 491,
     "updated_at": "2026-08-25T17:51:01Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T18:15:17Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:42:19Z",
     "url": "https://github.com/Vicen-te/multimodal-agent"
-  },
-  {
-    "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
-    "id": "Avien/users-portal",
-    "language": "TypeScript",
-    "name": "Avien/users-portal",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:31:05Z",
-    "url": "https://github.com/Avien/users-portal"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 12,
-    "updated_at": "2026-08-25T15:26:48Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   }
 ]
