@@ -1,12 +1,84 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:42:37Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-25T07:27:43Z",
+    "updated_at": "2026-08-25T07:42:13Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T07:41:27Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:38:31Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
+    "id": "Sh1njuuovo/recagent-eval",
+    "language": "Python",
+    "name": "Sh1njuuovo/recagent-eval",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:37:37Z",
+    "url": "https://github.com/Sh1njuuovo/recagent-eval"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 11,
+    "updated_at": "2026-08-25T07:34:42Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A grounded AI parts agent for HVAC technicians \u2014 GPT-4o tool-calling, deterministic compatibility checks (never guessed)",
+    "id": "Jahnavi-Krishna/aria--smart-hvac-parts-agent",
+    "language": "Python",
+    "name": "Jahnavi-Krishna/aria--smart-hvac-parts-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:33:39Z",
+    "url": "https://github.com/Jahnavi-Krishna/aria--smart-hvac-parts-agent"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 27,
+    "updated_at": "2026-08-25T07:30:39Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
+    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
+    "id": "xu-jia-ming/memory_system",
+    "language": "Python",
+    "name": "xu-jia-ming/memory_system",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:38:09Z",
+    "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -72,15 +144,6 @@
     "url": "https://github.com/yigitxenes/StockPredictionWithAI"
   },
   {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 27,
-    "updated_at": "2026-08-25T07:15:48Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
-  },
-  {
     "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
     "id": "qyiun666/meowire",
     "language": "Go",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:09:10Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:30:12Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 5802,
-    "updated_at": "2026-08-25T06:57:00Z",
+    "updated_at": "2026-08-25T07:30:40Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -157,7 +211,7 @@
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
     "name": "Anil-matcha/awesome-dsh-plugin",
-    "stars": 986,
+    "stars": 987,
     "updated_at": "2026-08-25T06:52:19Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
@@ -171,15 +225,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T06:41:48Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
     "id": "aviskaar/zorp",
     "language": "Rust",
@@ -189,20 +234,11 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:35:46Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29513,
+    "stars": 29515,
     "updated_at": "2026-08-25T06:33:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T07:28:32Z",
+    "updated_at": "2026-08-25T07:36:03Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 11,
-    "updated_at": "2026-08-25T04:12:46Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "\u4e2d\u6587\u804c\u573a\u54a8\u8be2\u5e08 Agent\uff08v0.2\uff09\uff1a\u8986\u76d6\u5411\u4e0a\u6c9f\u901a\u3001\u8d23\u4efb\u8fb9\u754c\u3001\u8de8\u90e8\u95e8\u534f\u4f5c\u3001\u7ee9\u6548\u664b\u5347\u3001\u53bb\u7559\u51b3\u7b56\u4e94\u5927 P0 \u573a\u666f\uff0c40 \u4f8b\u8bc4\u6d4b + 7 \u7ef4 28 \u5206\u8bc4\u5206\u4f53\u7cfb",
     "id": "Nullunnn/career-coach-agent",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T04:07:21Z",
     "url": "https://github.com/passive-hotpepper515/area-checker-html-tool"
-  },
-  {
-    "description": "Run tool-calling LLM agents locally on Android devices using Termux and llama.cpp with complete data privacy and no exte",
-    "id": "Blondieredistributed612/pocket-agent",
-    "language": "Python",
-    "name": "Blondieredistributed612/pocket-agent",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:06:11Z",
-    "url": "https://github.com/Blondieredistributed612/pocket-agent"
-  },
-  {
-    "description": "Reverse-engineer macOS and iOS app workflows into state graphs to automate GUI interactions through memory rather than s",
-    "id": "bettersilvanus849/inner-coordinates",
-    "language": "Shell",
-    "name": "bettersilvanus849/inner-coordinates",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:03:04Z",
-    "url": "https://github.com/bettersilvanus849/inner-coordinates"
-  },
-  {
-    "description": "Practice web application penetration testing using a local Docker environment with preconfigured vulnerable targets.",
-    "id": "Blaz742/web-pentest-lab",
-    "language": "\u2014",
-    "name": "Blaz742/web-pentest-lab",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:02:07Z",
-    "url": "https://github.com/Blaz742/web-pentest-lab"
   }
 ]
