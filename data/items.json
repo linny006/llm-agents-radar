@@ -5,7 +5,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-25T13:29:55Z",
+    "updated_at": "2026-08-25T13:31:37Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -34,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T13:18:35Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T13:16:52Z",
+    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -151,15 +160,6 @@
     "stars": 9,
     "updated_at": "2026-08-25T12:51:04Z",
     "url": "https://github.com/Morephine/feltstate"
-  },
-  {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:16:52Z",
-    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
