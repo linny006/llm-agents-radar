@@ -1,5 +1,77 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:43:50Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 1,
+    "updated_at": "2026-08-25T08:43:47Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
+    "description": "An AI agent harness for hard, exact tasks. Keeps one evolving artifact, spends compute only on decisions that can change",
+    "id": "somewhereafter/flourite",
+    "language": "Python",
+    "name": "somewhereafter/flourite",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:42:55Z",
+    "url": "https://github.com/somewhereafter/flourite"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 127,
+    "updated_at": "2026-08-25T08:39:02Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:34:17Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3136,
+    "updated_at": "2026-08-25T08:43:32Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Spec-driven development pipeline for multi-repo estates: turns a spec \u2014 or a Jira issue and its linked Confluence pages ",
+    "id": "azastashkov/sdd-cli",
+    "language": "Java",
+    "name": "azastashkov/sdd-cli",
+    "stars": 0,
+    "updated_at": "2026-08-25T08:32:14Z",
+    "url": "https://github.com/azastashkov/sdd-cli"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 27,
+    "updated_at": "2026-08-25T08:29:42Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:24:47Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-25T08:23:14Z",
-    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": "Agent Knowledge Cycle (AKC) \u2014 a knowledge cycle for AI agents: agent behavior compounds, human judgment sharpens. Six ph",
@@ -43,15 +106,6 @@
     "stars": 21,
     "updated_at": "2026-08-25T08:14:56Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
-    "id": "Leihb/learn-agent-the-hard-way",
-    "language": "Go",
-    "name": "Leihb/learn-agent-the-hard-way",
-    "stars": 27,
-    "updated_at": "2026-08-25T08:29:42Z",
-    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -85,7 +139,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 815,
+    "stars": 817,
     "updated_at": "2026-08-25T08:05:12Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -95,7 +149,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 193,
-    "updated_at": "2026-08-25T08:02:56Z",
+    "updated_at": "2026-08-25T08:34:44Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -121,7 +175,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 325,
+    "stars": 326,
     "updated_at": "2026-08-25T07:55:40Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -130,7 +184,7 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14026,
+    "stars": 14027,
     "updated_at": "2026-08-25T07:55:37Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-25T07:47:51Z",
+    "updated_at": "2026-08-25T08:40:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -189,24 +243,6 @@
     "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 127,
-    "updated_at": "2026-08-25T07:41:27Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:38:31Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
     "id": "Sh1njuuovo/recagent-eval",
     "language": "Python",
@@ -214,6 +250,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:37:37Z",
     "url": "https://github.com/Sh1njuuovo/recagent-eval"
+  },
+  {
+    "description": "\u4e00\u4e2a\u6570\u636e\u5206\u6790skill\uff0c\u53ef\u4ee5\u6839\u636e\u7ecf\u8425\u6570\u636eexcel\u8868\u683c\uff0c\u8f93\u51fa\u89c4\u8303\u7684\u7ecf\u8425\u5206\u6790\u62a5\u544aword\u6587\u6863\u3002\u7ecf\u8425\u6570\u636e Excel \u2192 \u89c4\u5219\u5f15\u64ce\u4e8b\u5b9e \u2192 agent \u64b0\u5199\u5206\u6790\u62a5\u544a \u2192 \u6392\u7248 docx \u7684\u7ecf\u8425\u6307\u6807\u5206\u6790\u5de5\u5177\u94fe\uff0c",
+    "id": "cynthia174/Operation-Metrics-Skill",
+    "language": "Python",
+    "name": "cynthia174/Operation-Metrics-Skill",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:37:29Z",
+    "url": "https://github.com/cynthia174/Operation-Metrics-Skill"
   },
   {
     "description": "A grounded AI parts agent for HVAC technicians \u2014 GPT-4o tool-calling, deterministic compatibility checks (never guessed)",
@@ -229,7 +274,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5804,
+    "stars": 5805,
     "updated_at": "2026-08-25T07:30:40Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -351,15 +396,6 @@
     "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3135,
-    "updated_at": "2026-08-25T06:17:01Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
     "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T05:30:55Z",
     "url": "https://github.com/helsome/tinycode"
-  },
-  {
-    "description": "From thought to skill. From signal to structure.",
-    "id": "agentsope/SkillAlchemy",
-    "language": "Python",
-    "name": "agentsope/SkillAlchemy",
-    "stars": 325,
-    "updated_at": "2026-08-25T05:18:12Z",
-    "url": "https://github.com/agentsope/SkillAlchemy"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-25T06:01:50Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-25T05:14:28Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation,",
-    "id": "semi-hollow/NanoHarness",
-    "language": "Python",
-    "name": "semi-hollow/NanoHarness",
-    "stars": 12,
-    "updated_at": "2026-08-25T05:11:20Z",
-    "url": "https://github.com/semi-hollow/NanoHarness"
   }
 ]
