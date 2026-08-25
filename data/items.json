@@ -1,5 +1,14 @@
 [
   {
+    "description": "Hesperus \u2014 Autonomous IoT Visual Monitoring: an LLM agent turns plain-English goals into capture schedules, sends them o",
+    "id": "WhitehatD/hesperus",
+    "language": "C",
+    "name": "WhitehatD/hesperus",
+    "stars": 5,
+    "updated_at": "2026-08-25T19:43:46Z",
+    "url": "https://github.com/WhitehatD/hesperus"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -16,6 +25,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T19:40:10Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
+    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "language": "JavaScript",
+    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
+    "stars": 1,
+    "updated_at": "2026-08-25T19:37:47Z",
+    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   },
   {
     "description": "Control your Windows laptop remotely via Discord with AI-powered voice and text commands in English or Urdu.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T17:53:33Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai",
-    "id": "EvoMap/evolver",
-    "language": "JavaScript",
-    "name": "EvoMap/evolver",
-    "stars": 8998,
-    "updated_at": "2026-08-25T17:53:18Z",
-    "url": "https://github.com/EvoMap/evolver"
-  },
-  {
-    "description": "\u4fbf\u643a\u5f0f AI \u78c1\u76d8\u6587\u4ef6\u7ba1\u7406\u5668 \u2014\u2014 LLM Agent \u9a71\u52a8\u7684\u78c1\u76d8\u5206\u6790/\u6e05\u7406/\u56de\u6eda CLI\uff08Agent Skill \u5305\uff0cnpm: disk-sense\uff09",
-    "id": "Nyaecho/DiskSense",
-    "language": "TypeScript",
-    "name": "Nyaecho/DiskSense",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:52:12Z",
-    "url": "https://github.com/Nyaecho/DiskSense"
   }
 ]
