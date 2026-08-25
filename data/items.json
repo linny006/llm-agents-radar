@@ -1,5 +1,68 @@
 [
   {
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "Anil-matcha/awesome-openclaw",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-openclaw",
+    "stars": 997,
+    "updated_at": "2026-08-25T07:14:23Z",
+    "url": "https://github.com/Anil-matcha/awesome-openclaw"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 325,
+    "updated_at": "2026-08-25T07:12:43Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
+    "id": "qyiun666/meowire",
+    "language": "Go",
+    "name": "qyiun666/meowire",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:14:46Z",
+    "url": "https://github.com/qyiun666/meowire"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 23940,
+    "updated_at": "2026-08-25T07:11:12Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:09:10Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
+    "id": "xu-jia-ming/memory_system",
+    "language": "Python",
+    "name": "xu-jia-ming/memory_system",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:08:11Z",
+    "url": "https://github.com/xu-jia-ming/memory_system"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:01:18Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -18,15 +81,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
-    "id": "Anil-matcha/awesome-openclaw",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-openclaw",
-    "stars": 997,
-    "updated_at": "2026-08-25T06:54:10Z",
-    "url": "https://github.com/Anil-matcha/awesome-openclaw"
-  },
-  {
     "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
@@ -36,13 +90,13 @@
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
   },
   {
-    "description": "Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo",
-    "id": "xu-jia-ming/memory_system",
-    "language": "Python",
-    "name": "xu-jia-ming/memory_system",
+    "description": "Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num",
+    "id": "Jahnavi-Krishna/ai-retail-agent",
+    "language": "HTML",
+    "name": "Jahnavi-Krishna/ai-retail-agent",
     "stars": 0,
-    "updated_at": "2026-08-25T06:53:35Z",
-    "url": "https://github.com/xu-jia-ming/memory_system"
+    "updated_at": "2026-08-25T06:47:11Z",
+    "url": "https://github.com/Jahnavi-Krishna/ai-retail-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -85,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29511,
+    "stars": 29513,
     "updated_at": "2026-08-25T06:33:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -144,15 +198,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:01:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -196,15 +241,6 @@
     "stars": 23,
     "updated_at": "2026-08-25T05:45:28Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 324,
-    "updated_at": "2026-08-25T05:41:43Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -268,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-08-25T05:09:19Z",
     "url": "https://github.com/shimo4228/agent-knowledge-cycle"
-  },
-  {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 23940,
-    "updated_at": "2026-08-25T04:58:12Z",
-    "url": "https://github.com/titanwings/distilly"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T03:55:26Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-08-25T03:54:42Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:52:16Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
-  },
-  {
-    "description": "Build generative AI agents using Python, LangChain, and FastAPI to create scalable, programmable intelligent workflows a",
-    "id": "laoxs2002/genai-agentes",
-    "language": "Jupyter Notebook",
-    "name": "laoxs2002/genai-agentes",
-    "stars": 0,
-    "updated_at": "2026-08-25T03:51:49Z",
-    "url": "https://github.com/laoxs2002/genai-agentes"
   }
 ]
