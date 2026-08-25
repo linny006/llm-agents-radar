@@ -1,12 +1,57 @@
 [
   {
+    "description": "Local code navigation for coding agents: deterministic symbol graph, semantic search, compact briefings, and byte-exact ",
+    "id": "metric-space-ai/greppy",
+    "language": "Rust",
+    "name": "metric-space-ai/greppy",
+    "stars": 8,
+    "updated_at": "2026-08-25T08:54:49Z",
+    "url": "https://github.com/metric-space-ai/greppy"
+  },
+  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
     "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-25T08:43:50Z",
+    "updated_at": "2026-08-25T08:54:24Z",
     "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-25T08:50:43Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:50:24Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4393,
+    "updated_at": "2026-08-25T08:50:21Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:46:41Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3136,
-    "updated_at": "2026-08-25T08:43:32Z",
+    "updated_at": "2026-08-25T08:50:46Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -139,7 +184,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 817,
+    "stars": 818,
     "updated_at": "2026-08-25T08:05:12Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -184,27 +229,9 @@
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14027,
+    "stars": 14028,
     "updated_at": "2026-08-25T07:55:37Z",
     "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-25T07:51:26Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-25T07:51:09Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -252,7 +279,7 @@
     "url": "https://github.com/Sh1njuuovo/recagent-eval"
   },
   {
-    "description": "\u4e00\u4e2a\u6570\u636e\u5206\u6790skill\uff0c\u53ef\u4ee5\u6839\u636e\u7ecf\u8425\u6570\u636eexcel\u8868\u683c\uff0c\u8f93\u51fa\u89c4\u8303\u7684\u7ecf\u8425\u5206\u6790\u62a5\u544aword\u6587\u6863\u3002\u7ecf\u8425\u6570\u636e Excel \u2192 \u89c4\u5219\u5f15\u64ce\u4e8b\u5b9e \u2192 agent \u64b0\u5199\u5206\u6790\u62a5\u544a \u2192 \u6392\u7248 docx \u7684\u7ecf\u8425\u6307\u6807\u5206\u6790\u5de5\u5177\u94fe\uff0c",
+    "description": "\u4e00\u4e2a\u6570\u636e\u5206\u6790skill\uff0c\u8f93\u5165\u7ecf\u8425\u6570\u636eexcel\u8868\u683c\uff0c\u5373\u53ef\u6839\u636e\u9884\u8bbe\u7684\u89c4\u5219\u5f15\u64ce\u4e8b\u5b9e\uff0c\u7531\u901a\u7528agent\u8f93\u51fa\u89c4\u8303\u7684\u7ecf\u8425\u5206\u6790\u62a5\u544aword\u6587\u6863\u3002",
     "id": "cynthia174/Operation-Metrics-Skill",
     "language": "Python",
     "name": "cynthia174/Operation-Metrics-Skill",
@@ -310,7 +337,7 @@
     "id": "titanwings/distilly",
     "language": "Python",
     "name": "titanwings/distilly",
-    "stars": 23942,
+    "stars": 23944,
     "updated_at": "2026-08-25T07:18:07Z",
     "url": "https://github.com/titanwings/distilly"
   },
@@ -373,8 +400,8 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5691,
-    "updated_at": "2026-08-25T06:42:33Z",
+    "stars": 5692,
+    "updated_at": "2026-08-25T08:52:35Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -391,7 +418,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29524,
+    "stars": 29525,
     "updated_at": "2026-08-25T06:33:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:36:03Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-08-25T05:54:01Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "One agent that catches a film delivery rejection before the platform does.",
-    "id": "LoordhuJeyakumar/first-pass",
-    "language": "Python",
-    "name": "LoordhuJeyakumar/first-pass",
-    "stars": 0,
-    "updated_at": "2026-08-25T05:51:39Z",
-    "url": "https://github.com/LoordhuJeyakumar/first-pass"
-  },
-  {
-    "description": "A minimal but complete Coding Agent Harness \u2014 learn how coding agents work by reading one. Built on Pi.",
-    "id": "helsome/tinycode",
-    "language": "TypeScript",
-    "name": "helsome/tinycode",
-    "stars": 0,
-    "updated_at": "2026-08-25T05:30:55Z",
-    "url": "https://github.com/helsome/tinycode"
   }
 ]
