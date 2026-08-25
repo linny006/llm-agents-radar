@@ -1,5 +1,23 @@
 [
   {
+    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
+    "id": "jonortega20/fantasybot",
+    "language": "Python",
+    "name": "jonortega20/fantasybot",
+    "stars": 20,
+    "updated_at": "2026-08-25T14:15:29Z",
+    "url": "https://github.com/jonortega20/fantasybot"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:08:30Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -18,6 +36,15 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-25T14:05:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -32,8 +59,17 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 801,
-    "updated_at": "2026-08-25T13:59:11Z",
+    "updated_at": "2026-08-25T14:21:36Z",
     "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-25T13:57:33Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "AI-driven workbench for computational materials science \u2014 interactive 3D structure viewer, natural-language CatBot assis",
@@ -41,7 +77,7 @@
     "language": "TypeScript",
     "name": "Hello-QM/catgo-LRG",
     "stars": 191,
-    "updated_at": "2026-08-25T13:56:58Z",
+    "updated_at": "2026-08-25T14:18:20Z",
     "url": "https://github.com/Hello-QM/catgo-LRG"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Java",
     "name": "azastashkov/sdd-cli",
     "stars": 0,
-    "updated_at": "2026-08-25T13:40:52Z",
+    "updated_at": "2026-08-25T14:20:36Z",
     "url": "https://github.com/azastashkov/sdd-cli"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3140,
-    "updated_at": "2026-08-25T13:33:36Z",
+    "updated_at": "2026-08-25T14:20:12Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-08-25T14:13:07Z",
+    "updated_at": "2026-08-25T14:20:35Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/adamskijow/Hob"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T14:08:30Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Event-driven Telegram-Gemini CLI connector with stateful sessions. A poor man's OpenClaw.",
     "id": "C-Rhapsody/gemini-connector",
     "language": "Go",
@@ -214,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-25T13:19:29Z",
     "url": "https://github.com/C-Rhapsody/gemini-connector"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:05:48Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:05:36Z",
     "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-25T13:57:33Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:27:39Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-08-25T12:24:51Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
