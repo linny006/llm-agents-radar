@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 11:19 UTC
+> ⏰ Last updated: 2026-08-25 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,30 +42,30 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 2 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 3 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 330 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 4 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 12 | Python | 2026-08-25 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 5 | [gptme/gptme](https://github.com/gptme/gptme) | 4393 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 6 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 7 | [pzc2004/HSR_Nous](https://github.com/pzc2004/HSR_Nous) | 3 | Python | 2026-08-25 | 面向《崩坏：星穹铁道》的配装配队优化：已成体系的战斗模拟 DSL 文档与多源数据管线；仿真引擎（干净设计：事件总线 + 闭合关键字 DSL）与 autoresearch 式 agent 开发中。 |
-| 8 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-25 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 9 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 12 | Python | 2026-08-25 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
-| 10 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 829 | Go | 2026-08-25 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
-| 11 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-08-25 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
-| 12 | [LoordhuJeyakumar/first-pass](https://github.com/LoordhuJeyakumar/first-pass) | 0 | Python | 2026-08-25 | One agent that catches a film delivery rejection before the platform does. |
-| 13 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-25 | Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar. |
-| 14 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-25 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
-| 15 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 16 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-08-25 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
-| 17 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 18 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 19 | [uuzjw/wow-agent](https://github.com/uuzjw/wow-agent) | 1 | Python | 2026-08-25 | 终端里的编码 agent：接任意 OpenAI 兼容模型，任务计划/子代理/长期记忆/断网沙盒 |
-| 20 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 21 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14029 | Python | 2026-08-25 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 22 | [JAVAYANGZHIWEI/realtool-loc](https://github.com/JAVAYANGZHIWEI/realtool-loc) | 0 | Python | 2026-08-25 | RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro |
-| 23 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 24 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5692 | Python | 2026-08-25 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 1 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-25 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 2 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-25 | Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar. |
+| 3 | [uuzjw/wow-agent](https://github.com/uuzjw/wow-agent) | 1 | Python | 2026-08-25 | 终端里的编码 agent：接任意 OpenAI 兼容模型，任务计划/子代理/长期记忆/断网沙盒 |
+| 4 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 5 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 331 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 6 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 7 | [gptme/gptme](https://github.com/gptme/gptme) | 4393 | Python | 2026-08-25 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 8 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5692 | Python | 2026-08-25 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 11 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-25 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 12 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 12 | Python | 2026-08-25 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 13 | [pzc2004/HSR_Nous](https://github.com/pzc2004/HSR_Nous) | 3 | Python | 2026-08-25 | 面向《崩坏：星穹铁道》的配装配队优化：已成体系的战斗模拟 DSL 文档与多源数据管线；仿真引擎（干净设计：事件总线 + 闭合关键字 DSL）与 autoresearch 式 agent 开发中。 |
+| 14 | [semi-hollow/NanoHarness](https://github.com/semi-hollow/NanoHarness) | 12 | Python | 2026-08-25 | Compact AI agent runtime control plane with governed tools, HITL approval, resumable execution, trace-driven evaluation, |
+| 15 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 830 | Go | 2026-08-25 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
+| 16 | [no42-org/twiki](https://github.com/no42-org/twiki) | 0 | TypeScript | 2026-08-25 | Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests |
+| 17 | [LoordhuJeyakumar/first-pass](https://github.com/LoordhuJeyakumar/first-pass) | 0 | Python | 2026-08-25 | One agent that catches a film delivery rejection before the platform does. |
+| 18 | [azastashkov/sdd-cli](https://github.com/azastashkov/sdd-cli) | 0 | Java | 2026-08-25 | Spec-driven development pipeline for multi-repo estates: turns a spec — or a Jira issue and its linked Confluence pages  |
+| 19 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 20 | [bajshorya/llm-observability-agent](https://github.com/bajshorya/llm-observability-agent) | 0 | TypeScript | 2026-08-25 | Detects runtime anomalies from application logs, correlates them with recent commits, and generates root-cause hypothese |
+| 21 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 22 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 23 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14029 | Python | 2026-08-25 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 24 | [JAVAYANGZHIWEI/realtool-loc](https://github.com/JAVAYANGZHIWEI/realtool-loc) | 0 | Python | 2026-08-25 | RealTool-Loc (IALP 2026, 2nd author) mini-repro: faithfulness benchmark for multilingual tool-augmented LLM agents + Pro |
 | 25 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-25 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
 | 26 | [jonortega20/fantasybot](https://github.com/jonortega20/fantasybot) | 20 | Python | 2026-08-25 | Agente autónomo para LALIGA Fantasy: lee el juego, decide y actúa (pujas, ventas, clausulazos, alineación). Python stdli |
 | 27 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 21 | Python | 2026-08-25 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
@@ -91,7 +91,7 @@ expired items removed — so you can rely on what you see being current.
 | 47 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 21 | JavaScript | 2026-08-25 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 48 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-25 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
 | 49 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-08-25 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
-| 50 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 6999 | Python | 2026-08-25 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 50 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7000 | Python | 2026-08-25 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
 <!-- TRACKER_TABLE_END -->
 
 ---
