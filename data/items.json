@@ -1,5 +1,14 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:30:21Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
     "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
     "id": "Sh1njuuovo/recagent-eval",
     "language": "Python",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-25T09:24:43Z",
+    "updated_at": "2026-08-25T09:30:42Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -126,15 +135,6 @@
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-25T09:29:25Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -158,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T09:25:13Z",
+    "updated_at": "2026-08-25T09:32:25Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
