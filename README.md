@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 07:28 UTC
+> ⏰ Last updated: 2026-08-25 07:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 325 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 1 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-25 | Nexus-LLM is LLM ai model which can run locally on your device. |
 | 2 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 4 | C# | 2026-08-25 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
-| 3 | [Jahnavi-Krishna/roofintel--b2b-lead-agent](https://github.com/Jahnavi-Krishna/roofintel--b2b-lead-agent) | 0 | HTML | 2026-08-25 | Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates  |
-| 4 | [Jahnavi-Krishna/Patsy--ai-retail-agent](https://github.com/Jahnavi-Krishna/Patsy--ai-retail-agent) | 0 | HTML | 2026-08-25 | Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num |
-| 5 | [brutal-45/Nexus-LLM](https://github.com/brutal-45/Nexus-LLM) | 2 | Python | 2026-08-25 | Nexus-LLM is LLM ai model which can run locally on your device. |
-| 6 | [titanwings/distilly](https://github.com/titanwings/distilly) | 23942 | Python | 2026-08-25 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
-| 7 | [yigitxenes/StockPredictionWithAI](https://github.com/yigitxenes/StockPredictionWithAI) | 1 | Python | 2026-08-25 | ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri |
-| 8 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 27 | Go | 2026-08-25 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
-| 9 | [qyiun666/meowire](https://github.com/qyiun666/meowire) | 0 | Go | 2026-08-25 | Meowire — bionic agent harness base for Go. Pure wiring, zero default implementations: Think→Act decision loop, iter.Seq |
-| 10 | [Anil-matcha/awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) | 997 | — | 2026-08-25 | A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open |
-| 11 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-25 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 12 | [xu-jia-ming/memory_system](https://github.com/xu-jia-ming/memory_system) | 0 | Python | 2026-08-25 | Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo |
-| 13 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 16 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5802 | Python | 2026-08-25 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 17 | [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) | 986 | — | 2026-08-25 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem |
-| 18 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 19 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 20 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-25 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
-| 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 22 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29513 | Python | 2026-08-25 | Build and run agents you can see, understand and trust. |
-| 23 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 325 | JavaScript | 2026-08-25 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 4 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 5 | [Jahnavi-Krishna/roofintel--b2b-lead-agent](https://github.com/Jahnavi-Krishna/roofintel--b2b-lead-agent) | 0 | HTML | 2026-08-25 | Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates  |
+| 6 | [Jahnavi-Krishna/Patsy--ai-retail-agent](https://github.com/Jahnavi-Krishna/Patsy--ai-retail-agent) | 0 | HTML | 2026-08-25 | Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num |
+| 7 | [titanwings/distilly](https://github.com/titanwings/distilly) | 23942 | Python | 2026-08-25 | Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）. |
+| 8 | [yigitxenes/StockPredictionWithAI](https://github.com/yigitxenes/StockPredictionWithAI) | 1 | Python | 2026-08-25 | ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri |
+| 9 | [Leihb/learn-agent-the-hard-way](https://github.com/Leihb/learn-agent-the-hard-way) | 27 | Go | 2026-08-25 | 笨办法学 Agent：从 60 行代码到一个完整的 harness。Learn Agent the Hard Way — 中文电子书，全书 32 个练习已完结。 |
+| 10 | [qyiun666/meowire](https://github.com/qyiun666/meowire) | 0 | Go | 2026-08-25 | Meowire — bionic agent harness base for Go. Pure wiring, zero default implementations: Think→Act decision loop, iter.Seq |
+| 11 | [Anil-matcha/awesome-openclaw](https://github.com/Anil-matcha/awesome-openclaw) | 997 | — | 2026-08-25 | A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open |
+| 12 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-25 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
+| 13 | [xu-jia-ming/memory_system](https://github.com/xu-jia-ming/memory_system) | 0 | Python | 2026-08-25 | Cognitive-inspired long-term memory service for LLM Agents with hybrid retrieval, ACT-R activation, consolidation and fo |
+| 14 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 15 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 16 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 17 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 5802 | Python | 2026-08-25 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 18 | [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin) | 986 | — | 2026-08-25 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem |
+| 19 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 20 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 127 | HTML | 2026-08-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 21 | [aviskaar/zorp](https://github.com/aviskaar/zorp) | 2 | Rust | 2026-08-25 | A research agent for scientific discovery — part of Aviskaar's applied AI research suite. |
+| 22 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 23 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29513 | Python | 2026-08-25 | Build and run agents you can see, understand and trust. |
 | 24 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3133 | Python | 2026-08-25 | SRE Agent - CNCF Sandbox Project |
 | 25 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 21 | Python | 2026-08-25 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
 | 26 | [areal-project/AReaL](https://github.com/areal-project/AReaL) | 5690 | Python | 2026-08-25 | The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible. |

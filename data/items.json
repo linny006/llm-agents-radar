@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 325,
-    "updated_at": "2026-08-25T07:27:32Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-08-25T07:27:43Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -16,6 +16,24 @@
     "stars": 4,
     "updated_at": "2026-08-25T07:27:42Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 325,
+    "updated_at": "2026-08-25T07:27:32Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-25T07:26:59Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates ",
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:25:51Z",
     "url": "https://github.com/Jahnavi-Krishna/Patsy--ai-retail-agent"
-  },
-  {
-    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 2,
-    "updated_at": "2026-08-25T07:27:43Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
   },
   {
     "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "xu-jia-ming/memory_system",
     "stars": 0,
-    "updated_at": "2026-08-25T07:08:11Z",
+    "updated_at": "2026-08-25T07:30:12Z",
     "url": "https://github.com/xu-jia-ming/memory_system"
   },
   {
@@ -196,15 +205,6 @@
     "stars": 29513,
     "updated_at": "2026-08-25T06:33:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:26:59Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
