@@ -1,5 +1,32 @@
 [
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 194,
+    "updated_at": "2026-08-25T10:04:32Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-25T10:01:16Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-25T10:00:49Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -211,8 +238,8 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 823,
-    "updated_at": "2026-08-25T09:12:47Z",
+    "stars": 824,
+    "updated_at": "2026-08-25T10:01:38Z",
     "url": "https://github.com/ongridio/ongrid"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4393,
-    "updated_at": "2026-08-25T09:58:11Z",
+    "updated_at": "2026-08-25T10:01:46Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T08:43:47Z",
     "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 194,
-    "updated_at": "2026-08-25T08:34:44Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
@@ -337,7 +355,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 6998,
+    "stars": 6999,
     "updated_at": "2026-08-25T07:58:57Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T07:16:38Z",
     "url": "https://github.com/yigitxenes/StockPredictionWithAI"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:14:46Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
-    "id": "Anil-matcha/awesome-openclaw",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-openclaw",
-    "stars": 997,
-    "updated_at": "2026-08-25T07:14:23Z",
-    "url": "https://github.com/Anil-matcha/awesome-openclaw"
   }
 ]
