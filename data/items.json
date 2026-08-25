@@ -1,21 +1,75 @@
 [
   {
-    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
-    "id": "Anil-matcha/awesome-openclaw",
-    "language": "\u2014",
-    "name": "Anil-matcha/awesome-openclaw",
-    "stars": 997,
-    "updated_at": "2026-08-25T07:14:23Z",
-    "url": "https://github.com/Anil-matcha/awesome-openclaw"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 325,
-    "updated_at": "2026-08-25T07:12:43Z",
+    "updated_at": "2026-08-25T07:27:32Z",
     "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 4,
+    "updated_at": "2026-08-25T07:27:42Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "Mini B2B sales intelligence agent with explainable scoring, GPT-4o insights, and real actions (drafts outreach, updates ",
+    "id": "Jahnavi-Krishna/roofintel--b2b-lead-agent",
+    "language": "HTML",
+    "name": "Jahnavi-Krishna/roofintel--b2b-lead-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:26:01Z",
+    "url": "https://github.com/Jahnavi-Krishna/roofintel--b2b-lead-agent"
+  },
+  {
+    "description": "Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num",
+    "id": "Jahnavi-Krishna/Patsy--ai-retail-agent",
+    "language": "HTML",
+    "name": "Jahnavi-Krishna/Patsy--ai-retail-agent",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:25:51Z",
+    "url": "https://github.com/Jahnavi-Krishna/Patsy--ai-retail-agent"
+  },
+  {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-08-25T07:27:43Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
+    "id": "titanwings/distilly",
+    "language": "Python",
+    "name": "titanwings/distilly",
+    "stars": 23942,
+    "updated_at": "2026-08-25T07:18:07Z",
+    "url": "https://github.com/titanwings/distilly"
+  },
+  {
+    "description": "ML + LLM agent system for stock price direction and volatility prediction, with automated news sentiment analysis and ri",
+    "id": "yigitxenes/StockPredictionWithAI",
+    "language": "Python",
+    "name": "yigitxenes/StockPredictionWithAI",
+    "stars": 1,
+    "updated_at": "2026-08-25T07:16:38Z",
+    "url": "https://github.com/yigitxenes/StockPredictionWithAI"
+  },
+  {
+    "description": "\u7b28\u529e\u6cd5\u5b66 Agent\uff1a\u4ece 60 \u884c\u4ee3\u7801\u5230\u4e00\u4e2a\u5b8c\u6574\u7684 harness\u3002Learn Agent the Hard Way \u2014 \u4e2d\u6587\u7535\u5b50\u4e66\uff0c\u5168\u4e66 32 \u4e2a\u7ec3\u4e60\u5df2\u5b8c\u7ed3\u3002",
+    "id": "Leihb/learn-agent-the-hard-way",
+    "language": "Go",
+    "name": "Leihb/learn-agent-the-hard-way",
+    "stars": 27,
+    "updated_at": "2026-08-25T07:15:48Z",
+    "url": "https://github.com/Leihb/learn-agent-the-hard-way"
   },
   {
     "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
@@ -27,13 +81,13 @@
     "url": "https://github.com/qyiun666/meowire"
   },
   {
-    "description": "Distilly \u2014 Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill\uff08\u539f\u540c\u4e8b Skill\uff09.",
-    "id": "titanwings/distilly",
-    "language": "Python",
-    "name": "titanwings/distilly",
-    "stars": 23940,
-    "updated_at": "2026-08-25T07:11:12Z",
-    "url": "https://github.com/titanwings/distilly"
+    "description": "A curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) \u2014 open",
+    "id": "Anil-matcha/awesome-openclaw",
+    "language": "\u2014",
+    "name": "Anil-matcha/awesome-openclaw",
+    "stars": 997,
+    "updated_at": "2026-08-25T07:14:23Z",
+    "url": "https://github.com/Anil-matcha/awesome-openclaw"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -81,6 +135,15 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 5802,
+    "updated_at": "2026-08-25T06:57:00Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
     "id": "Anil-matcha/awesome-dsh-plugin",
     "language": "\u2014",
@@ -88,15 +151,6 @@
     "stars": 986,
     "updated_at": "2026-08-25T06:52:19Z",
     "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-  },
-  {
-    "description": "Much more than a chatbot: a smart AI retail expert agent that diagnoses problems, verifies part compatibility from a num",
-    "id": "Jahnavi-Krishna/ai-retail-agent",
-    "language": "HTML",
-    "name": "Jahnavi-Krishna/ai-retail-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:47:11Z",
-    "url": "https://github.com/Jahnavi-Krishna/ai-retail-agent"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -149,7 +203,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-25T06:30:19Z",
+    "updated_at": "2026-08-25T07:26:59Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-25T06:09:26Z",
+    "updated_at": "2026-08-25T07:28:32Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 23,
     "updated_at": "2026-08-25T05:45:28Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
-    "id": "nitinmms/LitosAiCodingAgent",
-    "language": "C#",
-    "name": "nitinmms/LitosAiCodingAgent",
-    "stars": 4,
-    "updated_at": "2026-08-25T05:40:46Z",
-    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
     "description": "A minimal but complete Coding Agent Harness \u2014 learn how coding agents work by reading one. Built on Pi.",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T04:02:07Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
-  },
-  {
-    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
-    "id": "Elevated-homer201/prompt-gate",
-    "language": "\u2014",
-    "name": "Elevated-homer201/prompt-gate",
-    "stars": 1,
-    "updated_at": "2026-08-25T04:01:45Z",
-    "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-25T04:00:46Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "Build full-stack applications with an autonomous IDE using an agent swarm architecture powered by the Kimi 2.6 model.",
-    "id": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "language": "Python",
-    "name": "Furrowed-subphylumurochorda108/kimi-K2.6",
-    "stars": 3,
-    "updated_at": "2026-08-25T03:59:25Z",
-    "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
-  },
-  {
-    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
-    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "language": "\u2014",
-    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
-    "stars": 1,
-    "updated_at": "2026-08-25T03:58:57Z",
-    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
-  },
-  {
-    "description": "Build AI agent MVPs with Claude Code using local scans, trend analysis, and personalized recommendations without an API ",
-    "id": "HELLOCODINGTR/AgentForge",
-    "language": "\u2014",
-    "name": "HELLOCODINGTR/AgentForge",
-    "stars": 1,
-    "updated_at": "2026-08-25T03:55:26Z",
-    "url": "https://github.com/HELLOCODINGTR/AgentForge"
   }
 ]
