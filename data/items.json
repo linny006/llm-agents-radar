@@ -1,5 +1,86 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 878,
+    "updated_at": "2026-08-26T09:26:46Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
+    "language": "Python",
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-26T09:23:29Z",
+    "url": "https://github.com/cdavid817/agent-book"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 802,
+    "updated_at": "2026-08-26T09:28:36Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:22:12Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:21:52Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T09:24:56Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "[GenAI Application Development Framework]  \ud83d\ude80 Build GenAI application quick and easy \ud83d\udcac Easy to interact with GenAI agent ",
+    "id": "AgentEra/Agently",
+    "language": "Python",
+    "name": "AgentEra/Agently",
+    "stars": 1644,
+    "updated_at": "2026-08-26T09:17:52Z",
+    "url": "https://github.com/AgentEra/Agently"
+  },
+  {
+    "description": "Agent that tends an Obsidian vault nightly on a cron schedule, with an interactive CLI and a Docker-sandboxed shell",
+    "id": "mathisarends/vaulty",
+    "language": "Python",
+    "name": "mathisarends/vaulty",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:17:46Z",
+    "url": "https://github.com/mathisarends/vaulty"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:15:41Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
     "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
     "id": "yancent-dao/cockpit-agent-sim",
     "language": "TypeScript",
@@ -9,22 +90,13 @@
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
   {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/agent-book",
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
     "language": "Python",
-    "name": "cdavid817/agent-book",
-    "stars": 9,
-    "updated_at": "2026-08-26T09:13:17Z",
-    "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
+    "name": "karvidsson/kbots",
     "stars": 0,
-    "updated_at": "2026-08-26T09:06:17Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
+    "updated_at": "2026-08-26T09:11:21Z",
+    "url": "https://github.com/karvidsson/kbots"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -81,15 +153,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:53:23Z",
-    "url": "https://github.com/peitsan/starter"
-  },
-  {
     "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
     "id": "sampatkalyan/vali",
     "language": "Python",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T09:12:09Z",
+    "updated_at": "2026-08-26T09:27:40Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T09:09:37Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
@@ -207,15 +261,6 @@
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 802,
-    "updated_at": "2026-08-26T08:53:07Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
     "id": "Dominic789654/awesome-deepseek-harness",
     "language": "TypeScript",
@@ -229,7 +274,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7009,
+    "stars": 7010,
     "updated_at": "2026-08-26T08:00:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -333,15 +378,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:11:21Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 83,
     "updated_at": "2026-08-26T06:07:16Z",
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
-  },
-  {
-    "description": "Minimal prompt x full PTC tools for DeepSeek Harness - aligned with the Project2 we/let's trajectory (Minimal 99/96).",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 2,
-    "updated_at": "2026-08-26T05:56:53Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "id": "xiaobright/dsh-anchored-standard",
-    "language": "JavaScript",
-    "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3762,
-    "updated_at": "2026-08-26T05:56:03Z",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 2,
-    "updated_at": "2026-08-26T05:55:50Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "Python",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 83,
-    "updated_at": "2026-08-26T08:58:25Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   }
 ]
