@@ -1,11 +1,20 @@
 [
   {
+    "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:00:13Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T09:50:59Z",
+    "updated_at": "2026-08-26T10:00:19Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T07:13:44Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "AlanFokCo/agentscope-go",
-    "language": "Go",
-    "name": "AlanFokCo/agentscope-go",
-    "stars": 34,
-    "updated_at": "2026-08-26T07:08:29Z",
-    "url": "https://github.com/AlanFokCo/agentscope-go"
   }
 ]
