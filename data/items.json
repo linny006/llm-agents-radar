@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T22:23:06Z",
+    "updated_at": "2026-08-26T22:44:46Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
+    "id": "rudra496/worldsim-ai",
+    "language": "Python",
+    "name": "rudra496/worldsim-ai",
+    "stars": 8,
+    "updated_at": "2026-08-26T22:39:03Z",
+    "url": "https://github.com/rudra496/worldsim-ai"
+  },
+  {
+    "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
+    "id": "soluai-spa/solucortex-mcp",
+    "language": "Python",
+    "name": "soluai-spa/solucortex-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:32:14Z",
+    "url": "https://github.com/soluai-spa/solucortex-mcp"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "the-priest/PriestsBasilisk",
     "stars": 3,
-    "updated_at": "2026-08-26T22:11:36Z",
+    "updated_at": "2026-08-26T22:31:12Z",
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T22:07:02Z",
     "url": "https://github.com/ivan-sincek/secure-code-review-agent-skills"
-  },
-  {
-    "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
-    "id": "soluai-spa/solucortex-mcp",
-    "language": "Python",
-    "name": "soluai-spa/solucortex-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:39:07Z",
-    "url": "https://github.com/soluai-spa/solucortex-mcp"
   },
   {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T22:28:29Z",
+    "updated_at": "2026-08-26T22:38:44Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:34:38Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:34:37Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
   }
 ]
