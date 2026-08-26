@@ -1,5 +1,23 @@
 [
   {
+    "description": "A minimal but complete Coding Agent Harness \u2014 learn how coding agents work by reading one. Built on Pi.",
+    "id": "helsome/tinycode",
+    "language": "TypeScript",
+    "name": "helsome/tinycode",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:20:53Z",
+    "url": "https://github.com/helsome/tinycode"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-26T08:27:56Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -135,15 +153,6 @@
     "url": "https://github.com/uuzjw/wow-agent"
   },
   {
-    "description": "A minimal but complete Coding Agent Harness \u2014 learn how coding agents work by reading one. Built on Pi.",
-    "id": "helsome/tinycode",
-    "language": "TypeScript",
-    "name": "helsome/tinycode",
-    "stars": 3,
-    "updated_at": "2026-08-26T08:20:53Z",
-    "url": "https://github.com/helsome/tinycode"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -252,15 +261,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-08-26T08:19:57Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -346,7 +346,7 @@
     "id": "yancent-dao/cockpit-agent-sim",
     "language": "TypeScript",
     "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 48,
+    "stars": 49,
     "updated_at": "2026-08-26T05:57:01Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T07:24:47Z",
+    "updated_at": "2026-08-26T08:26:34Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -427,7 +427,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 871,
+    "stars": 872,
     "updated_at": "2026-08-26T04:29:42Z",
     "url": "https://github.com/ongridio/ongrid"
   },
