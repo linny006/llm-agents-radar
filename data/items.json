@@ -1,5 +1,14 @@
 [
   {
+    "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
+    "id": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "language": "HTML",
+    "name": "UrRafiFirdaus/ComfyUI_FL-HeartMuLa",
+    "stars": 0,
+    "updated_at": "2026-08-26T03:29:43Z",
+    "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T23:02:12Z",
     "url": "https://github.com/sampatkalyan/vali"
-  },
-  {
-    "description": "Aios \u2014 Artificially Intelligent Operating System. An AI-native operating environment where no component both decides and",
-    "id": "cse-creative-systems-engineering/aios",
-    "language": "Rust",
-    "name": "cse-creative-systems-engineering/aios",
-    "stars": 2,
-    "updated_at": "2026-08-26T01:07:34Z",
-    "url": "https://github.com/cse-creative-systems-engineering/aios"
   }
 ]
