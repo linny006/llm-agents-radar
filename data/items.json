@@ -1,5 +1,86 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-26T17:58:42Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 11,
+    "updated_at": "2026-08-26T17:54:07Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
+    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
+    "id": "S3YED/appie-kit",
+    "language": "Python",
+    "name": "S3YED/appie-kit",
+    "stars": 6,
+    "updated_at": "2026-08-26T17:54:02Z",
+    "url": "https://github.com/S3YED/appie-kit"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-26T17:52:48Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
+    "id": "brittewestafrican981/ComfyUI-YinChao",
+    "language": "Python",
+    "name": "brittewestafrican981/ComfyUI-YinChao",
+    "stars": 0,
+    "updated_at": "2026-08-26T17:47:55Z",
+    "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
+  },
+  {
+    "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
+    "id": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "language": "Python",
+    "name": "mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo",
+    "stars": 2,
+    "updated_at": "2026-08-26T17:46:38Z",
+    "url": "https://github.com/mistaken-contadino194/ComfyUI-MiniMax-H3-Turbo"
+  },
+  {
+    "description": "Restore and upscale images in ComfyUI using native nodes for the SeedVR2 1.4B model.",
+    "id": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "language": "Python",
+    "name": "lesleyhalfbaked743/ComfyUI-FL-SeedVR2",
+    "stars": 0,
+    "updated_at": "2026-08-26T17:45:33Z",
+    "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "Python",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 83,
+    "updated_at": "2026-08-26T17:55:01Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
+    "id": "EpsteinF1les/tts",
+    "language": "\u2014",
+    "name": "EpsteinF1les/tts",
+    "stars": 0,
+    "updated_at": "2026-08-26T17:44:52Z",
+    "url": "https://github.com/EpsteinF1les/tts"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 5,
-    "updated_at": "2026-08-26T17:39:55Z",
+    "updated_at": "2026-08-26T17:52:59Z",
     "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
+    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "language": "\u2014",
+    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-08-26T17:39:46Z",
+    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   },
   {
     "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
@@ -36,13 +126,13 @@
     "url": "https://github.com/thehope2k/minimalist-agent"
   },
   {
-    "description": "Build Your Own AI Employee. The complete starter kit for OpenClaw + Hermes Agent. 155 deduplicated skills, drag-and-drop",
-    "id": "S3YED/appie-kit",
+    "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
+    "id": "Ahmed4644/ComfyUI-zveroboy-photo",
     "language": "Python",
-    "name": "S3YED/appie-kit",
-    "stars": 6,
-    "updated_at": "2026-08-26T17:35:01Z",
-    "url": "https://github.com/S3YED/appie-kit"
+    "name": "Ahmed4644/ComfyUI-zveroboy-photo",
+    "stars": 5,
+    "updated_at": "2026-08-26T17:36:48Z",
+    "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -104,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T17:27:45Z",
+    "updated_at": "2026-08-26T17:55:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -153,15 +243,6 @@
     "url": "https://github.com/scrapfly/scrapfly-mcp"
   },
   {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 11,
-    "updated_at": "2026-08-26T17:17:20Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -187,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T17:14:29Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "Python",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 83,
-    "updated_at": "2026-08-26T17:45:13Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T16:12:30Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-26T16:11:12Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 278,
-    "updated_at": "2026-08-26T15:50:08Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-08-26T15:49:20Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 337,
-    "updated_at": "2026-08-26T15:48:14Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:46:58Z",
-    "url": "https://github.com/peitsan/starter"
-  },
-  {
-    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
-    "id": "Lejusdefruits/hobot",
-    "language": "Python",
-    "name": "Lejusdefruits/hobot",
-    "stars": 1,
-    "updated_at": "2026-08-26T15:44:34Z",
-    "url": "https://github.com/Lejusdefruits/hobot"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-26T15:42:02Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 942,
-    "updated_at": "2026-08-26T15:41:31Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   }
 ]
