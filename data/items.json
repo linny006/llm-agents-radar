@@ -1,5 +1,32 @@
 [
   {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-08-26T21:14:39Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:04:31Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T21:10:48Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -9,13 +36,13 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-26T20:44:17Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+    "name": "strands-agents/harness-sdk",
+    "stars": 7021,
+    "updated_at": "2026-08-26T21:13:59Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
@@ -50,17 +77,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T20:11:00Z",
+    "updated_at": "2026-08-26T21:14:16Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T20:50:00Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -97,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-26T19:47:27Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7019,
-    "updated_at": "2026-08-26T20:48:33Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
@@ -212,7 +221,7 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-26T18:30:33Z",
+    "updated_at": "2026-08-26T21:01:03Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T17:15:32Z",
     "url": "https://github.com/Danisxxx/comfyUI-LongLook"
-  },
-  {
-    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
-    "id": "axxafo/awesome-agent-benchmarks",
-    "language": "\u2014",
-    "name": "axxafo/awesome-agent-benchmarks",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:14:29Z",
-    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
   }
 ]
