@@ -1,5 +1,50 @@
 [
   {
+    "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
+    "id": "jermaine123123/agent-context-editor",
+    "language": "TypeScript",
+    "name": "jermaine123123/agent-context-editor",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:43:38Z",
+    "url": "https://github.com/jermaine123123/agent-context-editor"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T23:43:47Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:39:48Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
+    "id": "rudra496/worldsim-ai",
+    "language": "Python",
+    "name": "rudra496/worldsim-ai",
+    "stars": 8,
+    "updated_at": "2026-08-26T23:35:22Z",
+    "url": "https://github.com/rudra496/worldsim-ai"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-26T23:31:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -9,15 +54,6 @@
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
   },
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-26T23:29:11Z",
-    "url": "https://github.com/sydches/yuj"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -25,6 +61,15 @@
     "stars": 6,
     "updated_at": "2026-08-26T23:28:49Z",
     "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:25:16Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -90,15 +135,6 @@
     "url": "https://github.com/the-priest/PriestsBasilisk"
   },
   {
-    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
-    "id": "TahaSheikh-SH/warden",
-    "language": "JavaScript",
-    "name": "TahaSheikh-SH/warden",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:25:16Z",
-    "url": "https://github.com/TahaSheikh-SH/warden"
-  },
-  {
     "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
     "id": "Sigmanih/SigmaStudio",
     "language": "Python",
@@ -126,15 +162,6 @@
     "url": "https://github.com/karstom/simplegraph-agentic"
   },
   {
-    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
-    "id": "rudra496/worldsim-ai",
-    "language": "Python",
-    "name": "rudra496/worldsim-ai",
-    "stars": 8,
-    "updated_at": "2026-08-26T22:51:29Z",
-    "url": "https://github.com/rudra496/worldsim-ai"
-  },
-  {
     "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
     "id": "12349/agentic-financial-research-assistant",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T22:49:07Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T23:23:14Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
@@ -324,15 +342,6 @@
     "url": "https://github.com/yhzhu99/HealthFlow"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-26T23:26:44Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
     "id": "Mohitcr7/Credit-Risk-Underwriting-Engine",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:44:52Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Deploy a complete LangGraph and LangChain agent workflow on Windows 10 or 11 with this clean, pre-configured build.",
-    "id": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "language": "\u2014",
-    "name": "Vuongngu8186/langgraph-langchain-agent-setup",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:39:46Z",
-    "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
   }
 ]
