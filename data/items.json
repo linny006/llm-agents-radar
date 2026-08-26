@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "wxxb789/dsh-raven-research",
     "stars": 2,
-    "updated_at": "2026-08-26T12:50:47Z",
+    "updated_at": "2026-08-26T13:12:59Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:07:53Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open-source contribution radar: triages & scores new issues from subscribed repos, a ReAct agent locates fix entry point",
+    "id": "shen0122/FirstCatch",
+    "language": "Python",
+    "name": "shen0122/FirstCatch",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:04:57Z",
+    "url": "https://github.com/shen0122/FirstCatch"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-26T13:04:10Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
+    "id": "shen0122/NanoDesk",
+    "language": "Python",
+    "name": "shen0122/NanoDesk",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:02:57Z",
+    "url": "https://github.com/shen0122/NanoDesk"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:02:31Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T12:59:27Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
@@ -45,24 +99,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Open-source contribution radar: triages & scores new issues from subscribed repos, a ReAct agent locates fix entry point",
-    "id": "shen0122/FirstCatch",
-    "language": "Python",
-    "name": "shen0122/FirstCatch",
-    "stars": 1,
-    "updated_at": "2026-08-26T12:43:08Z",
-    "url": "https://github.com/shen0122/FirstCatch"
-  },
-  {
-    "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
-    "id": "shen0122/NanoDesk",
-    "language": "Python",
-    "name": "shen0122/NanoDesk",
-    "stars": 1,
-    "updated_at": "2026-08-26T12:40:43Z",
-    "url": "https://github.com/shen0122/NanoDesk"
-  },
-  {
     "description": "A Bun + FastAPI monorepo for running a mobile-friendly AI workspace in the browser, backed by a configurable LLM gateway",
     "id": "Ven0m0/gemini-web-wrapper",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 9,
     "updated_at": "2026-08-26T12:37:37Z",
     "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T12:59:27Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
@@ -189,15 +216,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:59:04Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Rust \u5b9e\u73b0\u7684 LLM Agent Harness \u539f\u578b\uff1aprotocol-first \u00b7 \u4e8b\u4ef6\u6eaf\u6e90 \u00b7 \u4e09\u5c42\u6c99\u7bb1 \u00b7 fail-closed \u5ba1\u6279",
     "id": "BigDataDZ/ideal-harness",
     "language": "Rust",
@@ -261,21 +279,12 @@
     "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-26T11:35:16Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-26T11:34:56Z",
+    "updated_at": "2026-08-26T13:03:28Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5696,
-    "updated_at": "2026-08-26T11:29:03Z",
+    "updated_at": "2026-08-26T13:00:42Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:40:05Z",
     "url": "https://github.com/clashroy5384/ai-papers-hub"
-  },
-  {
-    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
-    "id": "honestDS/MonoLight",
-    "language": "Python",
-    "name": "honestDS/MonoLight",
-    "stars": 5,
-    "updated_at": "2026-08-26T10:39:05Z",
-    "url": "https://github.com/honestDS/MonoLight"
   }
 ]
