@@ -14,7 +14,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-26T01:29:20Z",
+    "updated_at": "2026-08-26T01:34:30Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -31,7 +31,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5811,
+    "stars": 5812,
     "updated_at": "2026-08-26T01:24:33Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -90,6 +90,15 @@
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
   },
   {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 197,
+    "updated_at": "2026-08-26T00:40:13Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
     "id": "BlockRunAI/Franklin",
     "language": "TypeScript",
@@ -133,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T00:20:13Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 196,
-    "updated_at": "2026-08-26T00:40:13Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
@@ -193,7 +193,7 @@
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5692,
+    "stars": 5693,
     "updated_at": "2026-08-26T00:01:44Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -221,7 +221,7 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 124,
-    "updated_at": "2026-08-25T23:30:05Z",
+    "updated_at": "2026-08-26T01:45:11Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
@@ -230,7 +230,7 @@
     "language": "HTML",
     "name": "iammonth1997/paperwiki-research-compiler",
     "stars": 2,
-    "updated_at": "2026-08-25T23:29:22Z",
+    "updated_at": "2026-08-26T01:43:54Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4397,
-    "updated_at": "2026-08-26T01:24:35Z",
+    "updated_at": "2026-08-26T01:32:24Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
