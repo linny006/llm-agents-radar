@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 5,
-    "updated_at": "2026-08-26T08:59:38Z",
+    "updated_at": "2026-08-26T09:04:26Z",
     "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Unified DeepSeek Harness plugin: role-based subagent routing + per-agent evolution (prefercmd/memory as knowledge allow/",
+    "id": "ZekaiShi/evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/evo-subagent",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:00:46Z",
+    "url": "https://github.com/ZekaiShi/evo-subagent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:00:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:00:00Z",
+    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -95,7 +122,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-26T08:57:59Z",
+    "updated_at": "2026-08-26T09:01:39Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "cdavid817/agent-book",
     "stars": 9,
-    "updated_at": "2026-08-26T08:41:57Z",
+    "updated_at": "2026-08-26T09:08:21Z",
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-08-26T08:35:22Z",
+    "updated_at": "2026-08-26T09:06:17Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-26T08:16:05Z",
+    "updated_at": "2026-08-26T09:05:24Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:00:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -214,15 +232,6 @@
     "stars": 7009,
     "updated_at": "2026-08-26T08:00:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-26T09:00:00Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
@@ -439,14 +448,5 @@
     "stars": 83,
     "updated_at": "2026-08-26T08:58:25Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-26T05:37:03Z",
-    "url": "https://github.com/citizenhicks/mobius"
   }
 ]
