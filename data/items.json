@@ -1,11 +1,20 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:51:50Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "Cross-agent plugin for manually excluding and editing AI conversation context, with search, filtering, hide/restore, und",
     "id": "jermaine123123/agent-context-editor",
     "language": "TypeScript",
     "name": "jermaine123123/agent-context-editor",
     "stars": 3,
-    "updated_at": "2026-08-26T23:43:38Z",
+    "updated_at": "2026-08-26T23:48:17Z",
     "url": "https://github.com/jermaine123123/agent-context-editor"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 9,
     "updated_at": "2026-08-26T23:43:47Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-26T23:39:48Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
