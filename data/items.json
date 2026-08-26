@@ -1,5 +1,50 @@
 [
   {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 857,
+    "updated_at": "2026-08-26T04:29:42Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 83,
+    "updated_at": "2026-08-26T04:22:58Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T04:22:17Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:22:01Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-26T04:22:00Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:57:28Z",
     "url": "https://github.com/abhiramvedipala/Definitely-Not-Deep-Blue"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T04:21:48Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
@@ -261,15 +297,6 @@
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:22:01Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
@@ -304,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T03:33:23Z",
     "url": "https://github.com/mamon9022/poc-fls-node-epicronicles"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-26T04:22:00Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "\ud83c\udfb6 Generate multilingual AI music with lyrics in English, Chinese, Japanese, Korean, and Spanish using ComfyUI's HeartMuL",
@@ -430,23 +448,5 @@
     "stars": 128,
     "updated_at": "2026-08-26T03:02:21Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-26T02:52:19Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
-    "id": "xhqing/ExecutiveAssistantAgent",
-    "language": "\u2014",
-    "name": "xhqing/ExecutiveAssistantAgent",
-    "stars": 0,
-    "updated_at": "2026-08-26T02:42:57Z",
-    "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
   }
 ]
