@@ -1,5 +1,14 @@
 [
   {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:59:04Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 22,
     "updated_at": "2026-08-26T11:57:20Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:55:39Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Rust \u5b9e\u73b0\u7684 LLM Agent Harness \u539f\u578b\uff1aprotocol-first \u00b7 \u4e8b\u4ef6\u6eaf\u6e90 \u00b7 \u4e09\u5c42\u6c99\u7bb1 \u00b7 fail-closed \u5ba1\u6279",
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-26T11:53:20Z",
+    "updated_at": "2026-08-26T12:01:16Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -94,7 +112,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 273,
+    "stars": 274,
     "updated_at": "2026-08-26T11:41:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -135,15 +153,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:59:04Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -151,15 +160,6 @@
     "stars": 128,
     "updated_at": "2026-08-26T11:27:00Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:55:39Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",

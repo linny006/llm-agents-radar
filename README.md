@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 12:00 UTC
+> ⏰ Last updated: 2026-08-26 12:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-26 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [BigDataDZ/ideal-harness](https://github.com/BigDataDZ/ideal-harness) | 1 | Rust | 2026-08-26 | Rust 实现的 LLM Agent Harness 原型：protocol-first · 事件溯源 · 三层沙箱 · fail-closed 审批 |
-| 3 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-26 | Xenon — Agent Harness for AI coding agents. 7 种可替换推理范式 + Evidence Runtime 验证闭环（工具结果是 Evidence，LLM 输出只是 Claim）+ 执行隔离边界 +  |
-| 4 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-26 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
-| 5 | [helixml/helix](https://github.com/helixml/helix) | 802 | Go | 2026-08-26 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 6 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 3 | Python | 2026-08-26 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
-| 7 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-26 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 8 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-26 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 9 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 123 | Python | 2026-08-26 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
-| 10 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-26 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
-| 11 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 273 | Python | 2026-08-26 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
-| 12 | [mehboobali98/job-search-agent](https://github.com/mehboobali98/job-search-agent) | 0 | JavaScript | 2026-08-26 | Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co |
-| 13 | [huia711/SCoR](https://github.com/huia711/SCoR) | 0 | Python | 2026-08-26 | SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026) |
-| 14 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-26 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 15 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-26 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 16 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-26 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 17 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-26 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 18 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-26 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 1 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-26 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 2 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-26 | A productive AI coworker that learns, self-improves, and ships work. |
+| 3 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-08-26 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 4 | [BigDataDZ/ideal-harness](https://github.com/BigDataDZ/ideal-harness) | 1 | Rust | 2026-08-26 | Rust 实现的 LLM Agent Harness 原型：protocol-first · 事件溯源 · 三层沙箱 · fail-closed 审批 |
+| 5 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 54 | Python | 2026-08-26 | Xenon — Agent Harness for AI coding agents. 7 种可替换推理范式 + Evidence Runtime 验证闭环（工具结果是 Evidence，LLM 输出只是 Claim）+ 执行隔离边界 +  |
+| 6 | [PCODE-pl/MCPTap](https://github.com/PCODE-pl/MCPTap) | 1 | Python | 2026-08-26 | MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP |
+| 7 | [helixml/helix](https://github.com/helixml/helix) | 802 | Go | 2026-08-26 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 8 | [KaletoAI/anima-verse](https://github.com/KaletoAI/anima-verse) | 3 | Python | 2026-08-26 | Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system, |
+| 9 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-26 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 10 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-26 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 11 | [skymanbp/cc-tree](https://github.com/skymanbp/cc-tree) | 123 | Python | 2026-08-26 | Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack /  |
+| 12 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-26 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
+| 13 | [Fzkuji/OpenProgram](https://github.com/Fzkuji/OpenProgram) | 274 | Python | 2026-08-26 | Self-Programming AI Assistant. Capture, automate, and refine all your workflows. |
+| 14 | [mehboobali98/job-search-agent](https://github.com/mehboobali98/job-search-agent) | 0 | JavaScript | 2026-08-26 | Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co |
+| 15 | [huia711/SCoR](https://github.com/huia711/SCoR) | 0 | Python | 2026-08-26 | SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026) |
+| 16 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 124 | HTML | 2026-08-26 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 17 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-08-26 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 18 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-26 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 19 | [adamskijow/Hob](https://github.com/adamskijow/Hob) | 1 | Python | 2026-08-26 | Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar. |
 | 20 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 104 | Python | 2026-08-26 | Open-Source Intelligent Command Layer |
 | 21 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-26 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
