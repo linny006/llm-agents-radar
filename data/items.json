@@ -1,5 +1,59 @@
 [
   {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 1,
+    "updated_at": "2026-08-26T03:00:05Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "Python",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 83,
+    "updated_at": "2026-08-26T03:00:17Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-26T02:52:19Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-26T02:54:25Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-26T02:51:12Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-26T02:45:42Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
     "id": "xhqing/ExecutiveAssistantAgent",
     "language": "\u2014",
@@ -7,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T02:42:57Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 198,
+    "updated_at": "2026-08-26T02:42:14Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
@@ -31,18 +94,9 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7007,
+    "stars": 7008,
     "updated_at": "2026-08-26T02:36:44Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-26T02:31:58Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
@@ -52,15 +106,6 @@
     "stars": 10,
     "updated_at": "2026-08-26T02:30:27Z",
     "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "Python",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 83,
-    "updated_at": "2026-08-26T02:30:27Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "A minimal but complete Coding Agent Harness \u2014 learn how coding agents work by reading one. Built on Pi.",
@@ -117,15 +162,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 197,
-    "updated_at": "2026-08-26T02:42:14Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Universal task workflow for LLM agents \u2014 phase state machine with traceability IDs, artifact templates, source state ver",
     "id": "hoshiyomiX/stellar-trails",
     "language": "Shell",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T02:39:27Z",
+    "updated_at": "2026-08-26T03:00:16Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -193,18 +229,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5813,
+    "stars": 5814,
     "updated_at": "2026-08-26T01:24:33Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-26T01:19:44Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -324,15 +351,6 @@
     "url": "https://github.com/fahmiwol/sidix"
   },
   {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-26T02:44:16Z",
-    "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
     "description": "Local sidecar for AI Agents that will save up to 29% less tokens and will fix your LLM-based agent mess before it happen",
     "id": "jakubkrzysztofsikora/reasoning-core",
     "language": "Python",
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "metric-space-ai/greppy",
     "stars": 8,
-    "updated_at": "2026-08-26T01:05:59Z",
+    "updated_at": "2026-08-26T02:55:07Z",
     "url": "https://github.com/metric-space-ai/greppy"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 175,
     "updated_at": "2026-08-25T21:31:11Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-25T20:52:59Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 269,
-    "updated_at": "2026-08-25T20:43:15Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
   }
 ]
