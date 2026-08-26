@@ -1,12 +1,57 @@
 [
   {
+    "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
+    "id": "sunnnn2005/data-quality-agent",
+    "language": "Python",
+    "name": "sunnnn2005/data-quality-agent",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:06:20Z",
+    "url": "https://github.com/sunnnn2005/data-quality-agent"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T18:03:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
+    "id": "ravisinghrajput95/kubewhy",
+    "language": "Python",
+    "name": "ravisinghrajput95/kubewhy",
+    "stars": 0,
+    "updated_at": "2026-08-26T18:02:35Z",
+    "url": "https://github.com/ravisinghrajput95/kubewhy"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 491,
+    "updated_at": "2026-08-26T18:00:58Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-26T17:58:42Z",
+    "updated_at": "2026-08-26T18:12:37Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "Python",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 83,
+    "updated_at": "2026-08-26T18:07:16Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
@@ -63,15 +108,6 @@
     "url": "https://github.com/lesleyhalfbaked743/ComfyUI-FL-SeedVR2"
   },
   {
-    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
-    "id": "GeminiLight/gen-mentor",
-    "language": "Python",
-    "name": "GeminiLight/gen-mentor",
-    "stars": 83,
-    "updated_at": "2026-08-26T17:55:01Z",
-    "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
     "description": "Build text-to-speech applications with this curated guide for real-time agent streaming and high-fidelity offline synthe",
     "id": "EpsteinF1les/tts",
     "language": "\u2014",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:44:52Z",
     "url": "https://github.com/EpsteinF1les/tts"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 491,
-    "updated_at": "2026-08-26T17:44:28Z",
-    "url": "https://github.com/expectedparrot/edsl"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T17:55:44Z",
+    "updated_at": "2026-08-26T18:12:05Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T16:27:32Z",
+    "updated_at": "2026-08-26T18:03:32Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -401,7 +428,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-26T16:19:15Z",
+    "updated_at": "2026-08-26T18:07:29Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 128,
     "updated_at": "2026-08-26T16:15:46Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Free AI API credits guide: AgentRouter setup for Claude Code, GPT, DeepSeek, Cline, Roo Code, and OpenAI-compatible APIs",
-    "id": "EngrAlegre/free-ai-api-credits-agentrouter",
-    "language": "\u2014",
-    "name": "EngrAlegre/free-ai-api-credits-agentrouter",
-    "stars": 0,
-    "updated_at": "2026-08-26T16:14:12Z",
-    "url": "https://github.com/EngrAlegre/free-ai-api-credits-agentrouter"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T16:13:41Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T16:12:30Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
