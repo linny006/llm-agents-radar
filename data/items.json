@@ -1,5 +1,32 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:30:19Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T13:23:40Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:23:17Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
     "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
     "id": "wxxb789/dsh-raven-research",
     "language": "TypeScript",
@@ -36,6 +63,15 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:03:28Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
     "id": "shen0122/NanoDesk",
     "language": "Python",
@@ -43,24 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:02:57Z",
     "url": "https://github.com/shen0122/NanoDesk"
-  },
-  {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:02:31Z",
-    "url": "https://github.com/peitsan/starter"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T13:14:53Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-08-26T12:45:47Z",
+    "updated_at": "2026-08-26T13:23:18Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 54,
-    "updated_at": "2026-08-26T12:42:20Z",
+    "updated_at": "2026-08-26T13:17:04Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 275,
+    "stars": 276,
     "updated_at": "2026-08-26T11:41:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T11:37:11Z",
     "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:03:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "wusuiling-if/mini-code-agent-langgraph",
     "stars": 3,
-    "updated_at": "2026-08-26T11:15:08Z",
+    "updated_at": "2026-08-26T13:21:07Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
@@ -338,7 +347,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 352,
-    "updated_at": "2026-08-26T11:08:27Z",
+    "updated_at": "2026-08-26T13:18:05Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T12:52:39Z",
+    "updated_at": "2026-08-26T13:28:42Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:40:40Z",
     "url": "https://github.com/Vuongngu8186/langgraph-langchain-agent-setup"
-  },
-  {
-    "description": "Access tools to discover, analyze, draft, and publish machine learning research papers.",
-    "id": "clashroy5384/ai-papers-hub",
-    "language": "\u2014",
-    "name": "clashroy5384/ai-papers-hub",
-    "stars": 0,
-    "updated_at": "2026-08-26T10:40:05Z",
-    "url": "https://github.com/clashroy5384/ai-papers-hub"
   }
 ]
