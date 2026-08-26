@@ -1,5 +1,77 @@
 [
   {
+    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
+    "id": "wusuiling-if/mini-code-agent-langgraph",
+    "language": "Python",
+    "name": "wusuiling-if/mini-code-agent-langgraph",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:14:24Z",
+    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 200,
+    "updated_at": "2026-08-26T08:09:52Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:09:13Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T08:04:47Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T08:02:24Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:00:17Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7009,
+    "updated_at": "2026-08-26T08:00:10Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T08:12:39Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -27,15 +99,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T07:57:08Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
     "id": "kasparovabi/dsh-studio",
     "language": "Swift",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T07:49:43Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:00:17Z",
-    "url": "https://github.com/peitsan/starter"
   },
   {
     "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
@@ -126,15 +180,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:29:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "Nexariza Ai",
     "id": "Nexariza-AI/Nexariza-Business-Vlogs",
     "language": "\u2014",
@@ -151,24 +196,6 @@
     "stars": 3146,
     "updated_at": "2026-08-26T07:26:34Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T07:40:10Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:14:02Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-08-26T07:25:40Z",
+    "updated_at": "2026-08-26T08:06:22Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -297,15 +324,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 200,
-    "updated_at": "2026-08-26T06:35:07Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Agent framework for smart-cockpit apps \u00b7 \u9762\u5411\u667a\u80fd\u5ea7\u8231\u4e1a\u52a1\u7684 Agent \u6846\u67b6:\u96f6\u540e\u7aef\u3001\u6743\u9650\u5206\u7ea7\u3001\u786e\u8ba4\u6d41\u3001\u5361\u7247\u7f16\u6392\u3001\u5feb\u6162\u53cc\u5c42\u3001\u771f\u5b9e\u4e09\u65b9\u96c6\u6210,\u52a0\u80fd\u529b=\u52a0\u6570\u636e\u4e0d\u52a0\u4ee3\u7801",
     "id": "yancent-dao/cockpit-agent-sim",
     "language": "TypeScript",
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "GeminiLight/gen-mentor",
     "stars": 83,
-    "updated_at": "2026-08-26T07:54:24Z",
+    "updated_at": "2026-08-26T08:08:03Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T04:06:19Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "11.5M-param transformer trained from scratch on PGN move sequences. 97.6% legal moves. Never sees a board.",
-    "id": "abhiramvedipala/Definitely-Not-Deep-Blue",
-    "language": "Python",
-    "name": "abhiramvedipala/Definitely-Not-Deep-Blue",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:57:28Z",
-    "url": "https://github.com/abhiramvedipala/Definitely-Not-Deep-Blue"
-  },
-  {
-    "description": "Generate stunning H3 videos, images, audio, and lip sync from one ComfyUI node\u2014no complex workflows needed.",
-    "id": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "language": "JavaScript",
-    "name": "Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3",
-    "stars": 2,
-    "updated_at": "2026-08-26T03:54:31Z",
-    "url": "https://github.com/Offsite-squaredeal736/ComfyUI-ALLinONE-MinimaxH3"
   }
 ]
