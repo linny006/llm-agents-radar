@@ -1,5 +1,41 @@
 [
   {
+    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:41:54Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-26T07:32:00Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "\ud55c\uad6d \ub3c4\uba54\uc778 \ud2b9\ud654 LLM \uc5d0\uc774\uc804\ud2b8 \ud0a4\ud2b8 \u2014 6\ubaa8\ub4dc \uc790\ub3d9\ubd84\ub958, \ubc95\uc81c\ucc98 \uc778\uc6a9 \uac00\ub4dc, PII \ub9c8\uc2a4\ud0b9, prompt cache",
+    "id": "kimlawtech/korean-domain-agent",
+    "language": "Python",
+    "name": "kimlawtech/korean-domain-agent",
+    "stars": 5,
+    "updated_at": "2026-08-26T07:31:31Z",
+    "url": "https://github.com/kimlawtech/korean-domain-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:29:47Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "\u7ec8\u7aef\u91cc\u7684\u7f16\u7801 agent\uff1a\u63a5\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff0c\u4efb\u52a1\u8ba1\u5212/\u5b50\u4ee3\u7406/\u957f\u671f\u8bb0\u5fc6/\u65ad\u7f51\u6c99\u76d2",
     "id": "uuzjw/wow-agent",
     "language": "Python",
@@ -9,12 +45,30 @@
     "url": "https://github.com/uuzjw/wow-agent"
   },
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:29:12Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Nexariza Ai",
+    "id": "Nexariza-AI/Nexariza-Business-Vlogs",
+    "language": "\u2014",
+    "name": "Nexariza-AI/Nexariza-Business-Vlogs",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:28:35Z",
+    "url": "https://github.com/Nexariza-AI/Nexariza-Business-Vlogs"
+  },
+  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-26T07:22:47Z",
+    "updated_at": "2026-08-26T07:34:27Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-26T07:22:39Z",
+    "updated_at": "2026-08-26T07:39:03Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T07:20:27Z",
+    "updated_at": "2026-08-26T07:40:10Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Swift",
     "name": "kasparovabi/dsh-studio",
     "stars": 1,
-    "updated_at": "2026-08-26T07:18:00Z",
+    "updated_at": "2026-08-26T07:42:41Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
   },
   {
@@ -149,7 +203,7 @@
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "stars": 128,
-    "updated_at": "2026-08-26T06:43:46Z",
+    "updated_at": "2026-08-26T07:43:12Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
@@ -176,17 +230,8 @@
     "language": "HTML",
     "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-08-26T06:37:17Z",
+    "updated_at": "2026-08-26T07:40:13Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:29:12Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -265,7 +310,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3760,
+    "stars": 3762,
     "updated_at": "2026-08-26T05:56:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -346,7 +391,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 867,
+    "stars": 870,
     "updated_at": "2026-08-26T04:29:42Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:53:44Z",
     "url": "https://github.com/Ottoman-reticule726/zara-ai-laptop-agent"
-  },
-  {
-    "description": "Accelerate MiniMax-H3 video generation with batch inference and optimized NFE/LoRA comparisons.",
-    "id": "alejandrogg15/Minimax-H3-Turbo",
-    "language": "Python",
-    "name": "alejandrogg15/Minimax-H3-Turbo",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:53:30Z",
-    "url": "https://github.com/alejandrogg15/Minimax-H3-Turbo"
-  },
-  {
-    "description": "Automate Elytra flight, navigation, and landing for Meteor Client with intelligent pathfinding and rocket management.",
-    "id": "222394/SkyPilot",
-    "language": "Java",
-    "name": "222394/SkyPilot",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:52:28Z",
-    "url": "https://github.com/222394/SkyPilot"
-  },
-  {
-    "description": "Manage and monitor AI agents in production environments with tools for governance, safety, and compliance.",
-    "id": "Aureliedumbfounding630/agent-governance-toolkit",
-    "language": "\u2014",
-    "name": "Aureliedumbfounding630/agent-governance-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:52:23Z",
-    "url": "https://github.com/Aureliedumbfounding630/agent-governance-toolkit"
-  },
-  {
-    "description": "Build open source deep research agents using multiple models, search tools, and MCP servers.",
-    "id": "randomvariablewhitepelican129/open_deep_research",
-    "language": "Python",
-    "name": "randomvariablewhitepelican129/open_deep_research",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:51:48Z",
-    "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:49:10Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
   }
 ]
