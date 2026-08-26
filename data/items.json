@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:12:37Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:10:52Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:07:37Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T20:03:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026)",
     "id": "huia711/SCoR",
     "language": "Python",
@@ -9,13 +45,13 @@
     "url": "https://github.com/huia711/SCoR"
   },
   {
-    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
-    "id": "TahaSheikh-SH/warden",
-    "language": "JavaScript",
-    "name": "TahaSheikh-SH/warden",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:39:15Z",
-    "url": "https://github.com/TahaSheikh-SH/warden"
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7019,
+    "updated_at": "2026-08-26T19:44:42Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
@@ -41,17 +77,17 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T20:00:15Z",
+    "updated_at": "2026-08-26T20:11:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T19:56:01Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-26T19:25:41Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -81,13 +117,13 @@
     "url": "https://github.com/Mohitcr7/Credit-Risk-Underwriting-Engine"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7018,
-    "updated_at": "2026-08-26T19:44:42Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-26T18:58:34Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -117,15 +153,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-26T19:25:41Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
     "id": "GeminiLight/gen-mentor",
     "language": "Python",
@@ -149,7 +176,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-26T18:07:29Z",
+    "updated_at": "2026-08-26T20:00:49Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T17:06:30Z",
     "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 12,
-    "updated_at": "2026-08-26T17:05:36Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-26T17:02:30Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
-    "id": "SHUKLAO/call-with-ai-agent",
-    "language": "\u2014",
-    "name": "SHUKLAO/call-with-ai-agent",
-    "stars": 3,
-    "updated_at": "2026-08-26T16:56:16Z",
-    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   }
 ]
