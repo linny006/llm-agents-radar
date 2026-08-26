@@ -1,5 +1,14 @@
 [
   {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-26T20:48:41Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "JavaScript",
     "name": "TahaSheikh-SH/warden",
     "stars": 0,
-    "updated_at": "2026-08-26T20:16:53Z",
+    "updated_at": "2026-08-26T21:00:07Z",
     "url": "https://github.com/TahaSheikh-SH/warden"
   },
   {
@@ -50,7 +59,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T20:36:02Z",
+    "updated_at": "2026-08-26T20:50:00Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -61,6 +70,15 @@
     "stars": 31,
     "updated_at": "2026-08-26T20:02:41Z",
     "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:00:49Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026)",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7019,
-    "updated_at": "2026-08-26T19:44:42Z",
+    "updated_at": "2026-08-26T20:48:33Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -198,15 +216,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:00:49Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -284,7 +293,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 5,
-    "updated_at": "2026-08-26T18:54:50Z",
+    "updated_at": "2026-08-26T20:56:17Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-26T17:14:29Z",
     "url": "https://github.com/axxafo/awesome-agent-benchmarks"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-26T17:09:10Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
