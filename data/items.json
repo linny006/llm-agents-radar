@@ -1,12 +1,93 @@
 [
   {
+    "description": "\ud83e\udde0 Discover and evaluate advanced benchmark datasets for Large Language Model agents to enhance performance assessment in",
+    "id": "axxafo/awesome-agent-benchmarks",
+    "language": "\u2014",
+    "name": "axxafo/awesome-agent-benchmarks",
+    "stars": 3,
+    "updated_at": "2026-08-26T17:14:29Z",
+    "url": "https://github.com/axxafo/awesome-agent-benchmarks"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-26T17:15:11Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 491,
-    "updated_at": "2026-08-26T16:58:54Z",
+    "updated_at": "2026-08-26T17:10:58Z",
     "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
+    "id": "GeminiLight/gen-mentor",
+    "language": "Python",
+    "name": "GeminiLight/gen-mentor",
+    "stars": 83,
+    "updated_at": "2026-08-26T17:10:19Z",
+    "url": "https://github.com/GeminiLight/gen-mentor"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-26T17:09:10Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-26T17:08:42Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-26T17:06:30Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026)",
+    "id": "huia711/SCoR",
+    "language": "Python",
+    "name": "huia711/SCoR",
+    "stars": 0,
+    "updated_at": "2026-08-26T17:06:21Z",
+    "url": "https://github.com/huia711/SCoR"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-26T17:02:30Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-26T16:56:16Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
   },
   {
     "description": "Benzi is code intelligence infrastructure for AI agents.",
@@ -31,7 +112,7 @@
     "id": "semi-hollow/NanoHarness",
     "language": "Python",
     "name": "semi-hollow/NanoHarness",
-    "stars": 15,
+    "stars": 16,
     "updated_at": "2026-08-26T16:54:09Z",
     "url": "https://github.com/semi-hollow/NanoHarness"
   },
@@ -59,17 +140,8 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 12,
-    "updated_at": "2026-08-26T16:48:08Z",
+    "updated_at": "2026-08-26T17:05:36Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-26T16:50:33Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
@@ -175,7 +247,7 @@
     "id": "Fzkuji/OpenProgram",
     "language": "Python",
     "name": "Fzkuji/OpenProgram",
-    "stars": 277,
+    "stars": 278,
     "updated_at": "2026-08-26T15:50:08Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
   },
@@ -329,7 +401,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T17:00:07Z",
+    "updated_at": "2026-08-26T17:04:07Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -374,79 +446,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 5,
-    "updated_at": "2026-08-26T13:45:41Z",
+    "updated_at": "2026-08-26T17:14:24Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 254,
-    "updated_at": "2026-08-26T15:15:06Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-08-26T13:35:20Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
-    "id": "sampatkalyan/vali",
-    "language": "Python",
-    "name": "sampatkalyan/vali",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:30:44Z",
-    "url": "https://github.com/sampatkalyan/vali"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 355,
-    "updated_at": "2026-08-26T13:18:05Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-26T13:17:04Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
-    "id": "wxxb789/dsh-raven-research",
-    "language": "TypeScript",
-    "name": "wxxb789/dsh-raven-research",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:12:59Z",
-    "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "Open-source contribution radar: triages & scores new issues from subscribed repos, a ReAct agent locates fix entry point",
-    "id": "shen0122/FirstCatch",
-    "language": "Python",
-    "name": "shen0122/FirstCatch",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:04:57Z",
-    "url": "https://github.com/shen0122/FirstCatch"
-  },
-  {
-    "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
-    "id": "shen0122/NanoDesk",
-    "language": "Python",
-    "name": "shen0122/NanoDesk",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:02:57Z",
-    "url": "https://github.com/shen0122/NanoDesk"
   }
 ]
