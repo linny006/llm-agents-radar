@@ -1,5 +1,113 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:42:02Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 941,
+    "updated_at": "2026-08-26T15:41:31Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 12,
+    "updated_at": "2026-08-26T15:37:16Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-26T15:35:11Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
+    "id": "karstom/simplegraph-agentic",
+    "language": "TypeScript",
+    "name": "karstom/simplegraph-agentic",
+    "stars": 5,
+    "updated_at": "2026-08-26T15:29:54Z",
+    "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T15:44:33Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Weekly factory simulator with an LLM-based S&OP agent (Groq/Llama) for testing demand, supply, and capacity planning dec",
+    "id": "abhineer/factory-sop-simulator",
+    "language": "Python",
+    "name": "abhineer/factory-sop-simulator",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:27:16Z",
+    "url": "https://github.com/abhineer/factory-sop-simulator"
+  },
+  {
+    "description": "A self-hosted job-hunting agent driven from Discord: finds postings, scores them, drafts cover letters, tailors your CV,",
+    "id": "Lejusdefruits/hobot",
+    "language": "Python",
+    "name": "Lejusdefruits/hobot",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:44:34Z",
+    "url": "https://github.com/Lejusdefruits/hobot"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:22:56Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-26T15:18:41Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
+    "id": "adamskijow/Hob",
+    "language": "Python",
+    "name": "adamskijow/Hob",
+    "stars": 1,
+    "updated_at": "2026-08-26T15:08:14Z",
+    "url": "https://github.com/adamskijow/Hob"
+  },
+  {
+    "description": "Benzi is code intelligence infrastructure for AI agents.",
+    "id": "oooscoos/Benzi",
+    "language": "Python",
+    "name": "oooscoos/Benzi",
+    "stars": 11,
+    "updated_at": "2026-08-26T15:02:28Z",
+    "url": "https://github.com/oooscoos/Benzi"
+  },
+  {
     "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
     "id": "xiaohe9/hs-code-classifier",
     "language": "Python",
@@ -7,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:57:02Z",
     "url": "https://github.com/xiaohe9/hs-code-classifier"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-26T14:56:12Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
     "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
@@ -18,6 +135,15 @@
     "url": "https://github.com/BlockRunAI/Franklin"
   },
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-26T14:50:58Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
     "id": "iammonth1997/paperwiki-research-compiler",
     "language": "HTML",
@@ -27,13 +153,13 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
-    "id": "karstom/simplegraph-agentic",
-    "language": "TypeScript",
-    "name": "karstom/simplegraph-agentic",
-    "stars": 5,
-    "updated_at": "2026-08-26T14:43:18Z",
-    "url": "https://github.com/karstom/simplegraph-agentic"
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
+    "language": "Python",
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-26T14:43:28Z",
+    "url": "https://github.com/cdavid817/agent-book"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -54,33 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-26T14:35:01Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:34:57Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T14:54:20Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4399,
-    "updated_at": "2026-08-26T14:49:58Z",
+    "updated_at": "2026-08-26T15:44:36Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -117,15 +216,6 @@
     "url": "https://github.com/moovingGun/redteam-harness"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:56:12Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
@@ -139,7 +229,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7013,
+    "stars": 7014,
     "updated_at": "2026-08-26T13:59:15Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -166,7 +256,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 884,
+    "stars": 886,
     "updated_at": "2026-08-26T13:47:06Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -185,26 +275,8 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 254,
-    "updated_at": "2026-08-26T14:34:50Z",
+    "updated_at": "2026-08-26T15:15:06Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 12,
-    "updated_at": "2026-08-26T13:39:38Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:37:27Z",
-    "url": "https://github.com/peitsan/starter"
   },
   {
     "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
@@ -214,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-08-26T13:35:20Z",
     "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
-    "id": "adamskijow/Hob",
-    "language": "Python",
-    "name": "adamskijow/Hob",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:33:42Z",
-    "url": "https://github.com/adamskijow/Hob"
   },
   {
     "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
@@ -256,7 +319,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 354,
+    "stars": 355,
     "updated_at": "2026-08-26T13:18:05Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -288,15 +351,6 @@
     "url": "https://github.com/shen0122/FirstCatch"
   },
   {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-26T14:50:58Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
     "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
     "id": "shen0122/NanoDesk",
     "language": "Python",
@@ -313,15 +367,6 @@
     "stars": 4,
     "updated_at": "2026-08-26T12:40:36Z",
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/agent-book",
-    "language": "Python",
-    "name": "cdavid817/agent-book",
-    "stars": 9,
-    "updated_at": "2026-08-26T14:43:28Z",
-    "url": "https://github.com/cdavid817/agent-book"
   },
   {
     "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
@@ -365,7 +410,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-26T12:06:25Z",
+    "updated_at": "2026-08-26T15:04:11Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -401,52 +446,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T11:51:55Z",
+    "updated_at": "2026-08-26T15:00:30Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:51:54Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 123,
-    "updated_at": "2026-08-26T11:46:08Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
-    "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
-    "id": "Fzkuji/OpenProgram",
-    "language": "Python",
-    "name": "Fzkuji/OpenProgram",
-    "stars": 277,
-    "updated_at": "2026-08-26T11:41:14Z",
-    "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:37:11Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5696,
-    "updated_at": "2026-08-26T13:00:42Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
