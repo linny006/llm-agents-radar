@@ -1,12 +1,39 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T08:19:31Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
     "id": "wusuiling-if/mini-code-agent-langgraph",
     "language": "Python",
     "name": "wusuiling-if/mini-code-agent-langgraph",
     "stars": 3,
-    "updated_at": "2026-08-26T08:14:24Z",
+    "updated_at": "2026-08-26T08:17:57Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:16:05Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 802,
+    "updated_at": "2026-08-26T08:21:42Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T08:04:47Z",
+    "updated_at": "2026-08-26T08:20:29Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -63,21 +90,12 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T08:12:39Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-26T07:56:55Z",
+    "updated_at": "2026-08-26T08:21:20Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -122,7 +140,7 @@
     "language": "TypeScript",
     "name": "helsome/tinycode",
     "stars": 3,
-    "updated_at": "2026-08-26T07:48:19Z",
+    "updated_at": "2026-08-26T08:20:53Z",
     "url": "https://github.com/helsome/tinycode"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-08-26T08:06:22Z",
+    "updated_at": "2026-08-26T08:19:57Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -346,7 +364,7 @@
     "id": "xiaobright/dsh-anchored-standard",
     "language": "JavaScript",
     "name": "xiaobright/dsh-anchored-standard",
-    "stars": 3763,
+    "stars": 3762,
     "updated_at": "2026-08-26T05:56:03Z",
     "url": "https://github.com/xiaobright/dsh-anchored-standard"
   },
@@ -367,15 +385,6 @@
     "stars": 83,
     "updated_at": "2026-08-26T08:08:03Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-26T05:45:05Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T04:10:02Z",
     "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "Research framework for adaptive, purposeful agents under uncertainty",
-    "id": "v2-io/agentic-systems",
-    "language": "TeX",
-    "name": "v2-io/agentic-systems",
-    "stars": 2,
-    "updated_at": "2026-08-26T04:06:19Z",
-    "url": "https://github.com/v2-io/agentic-systems"
   }
 ]
