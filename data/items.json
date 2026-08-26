@@ -1,12 +1,93 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T11:57:20Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Rust \u5b9e\u73b0\u7684 LLM Agent Harness \u539f\u578b\uff1aprotocol-first \u00b7 \u4e8b\u4ef6\u6eaf\u6e90 \u00b7 \u4e09\u5c42\u6c99\u7bb1 \u00b7 fail-closed \u5ba1\u6279",
+    "id": "BigDataDZ/ideal-harness",
+    "language": "Rust",
+    "name": "BigDataDZ/ideal-harness",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:55:30Z",
+    "url": "https://github.com/BigDataDZ/ideal-harness"
+  },
+  {
+    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 54,
+    "updated_at": "2026-08-26T11:55:03Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:52:45Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 802,
+    "updated_at": "2026-08-26T11:51:55Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
     "name": "KaletoAI/anima-verse",
     "stars": 3,
-    "updated_at": "2026-08-26T11:41:18Z",
+    "updated_at": "2026-08-26T11:51:54Z",
     "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 23,
+    "updated_at": "2026-08-26T11:53:20Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T11:46:33Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
+    "id": "skymanbp/cc-tree",
+    "language": "Python",
+    "name": "skymanbp/cc-tree",
+    "stars": 123,
+    "updated_at": "2026-08-26T11:46:08Z",
+    "url": "https://github.com/skymanbp/cc-tree"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
+    "language": "Python",
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-26T11:45:36Z",
+    "url": "https://github.com/cdavid817/agent-book"
   },
   {
     "description": "Self-Programming AI Assistant. Capture, automate, and refine all your workflows.",
@@ -16,33 +97,6 @@
     "stars": 273,
     "updated_at": "2026-08-26T11:41:14Z",
     "url": "https://github.com/Fzkuji/OpenProgram"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/agent-book",
-    "language": "Python",
-    "name": "cdavid817/agent-book",
-    "stars": 9,
-    "updated_at": "2026-08-26T11:38:52Z",
-    "url": "https://github.com/cdavid817/agent-book"
-  },
-  {
-    "description": "Claude Code plugin: universal radial-tree exploration engine. One tree skill + swappable presets (brainstorm / attack / ",
-    "id": "skymanbp/cc-tree",
-    "language": "Python",
-    "name": "skymanbp/cc-tree",
-    "stars": 123,
-    "updated_at": "2026-08-26T11:38:28Z",
-    "url": "https://github.com/skymanbp/cc-tree"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T11:37:50Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
@@ -86,7 +140,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-26T11:31:29Z",
+    "updated_at": "2026-08-26T11:59:04Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -104,17 +158,8 @@
     "language": "HTML",
     "name": "TrungHuy2128/octium-wisp",
     "stars": 0,
-    "updated_at": "2026-08-26T11:26:30Z",
+    "updated_at": "2026-08-26T11:55:39Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T11:25:52Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Local-first iPhone and Mac planner that turns natural-language tasks into realistic schedules around your calendar.",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T11:23:09Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:18:47Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T11:38:55Z",
+    "updated_at": "2026-08-26T11:54:53Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -232,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T10:48:19Z",
     "url": "https://github.com/brittewestafrican981/ComfyUI-YinChao"
-  },
-  {
-    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-08-26T11:27:29Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 23,
-    "updated_at": "2026-08-26T10:56:09Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Run MiniMax-H3 video plus synchronized audio in 4 sampling steps using the Turbo LoRA, with drop-in nodes for ComfyUI wo",
@@ -288,13 +306,13 @@
     "url": "https://github.com/EpsteinF1les/tts"
   },
   {
-    "description": "Rust \u5b9e\u73b0\u7684 LLM Agent Harness \u539f\u578b\uff1aprotocol-first \u00b7 \u4e8b\u4ef6\u6eaf\u6e90 \u00b7 \u4e09\u5c42\u6c99\u7bb1 \u00b7 fail-closed \u5ba1\u6279",
-    "id": "BigDataDZ/ideal-harness",
-    "language": "Rust",
-    "name": "BigDataDZ/ideal-harness",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:44:23Z",
-    "url": "https://github.com/BigDataDZ/ideal-harness"
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 315,
+    "updated_at": "2026-08-26T10:41:28Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -331,15 +349,6 @@
     "stars": 5,
     "updated_at": "2026-08-26T10:39:05Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 802,
-    "updated_at": "2026-08-26T11:37:23Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Apply realistic sensor noise, analog artifacts, and camera metadata to AI-generated images using this custom ComfyUI nod",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T10:27:42Z",
     "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "Provide a lightweight agent kernel designed for efficient, fast startup in distributed AI applications with minimal reso",
-    "id": "Bowotria/aethercore",
-    "language": "Go",
-    "name": "Bowotria/aethercore",
-    "stars": 2,
-    "updated_at": "2026-08-26T10:27:37Z",
-    "url": "https://github.com/Bowotria/aethercore"
   }
 ]
