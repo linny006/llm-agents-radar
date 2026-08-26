@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u8de8\u5883\u7269\u6d41HS Code\u667a\u80fd\u5f52\u7c7bAgent\uff1aRAG\u6df7\u5408\u68c0\u7d22+ReAct\u4e3b\u52a8\u8ffd\u95ee+\u4e09\u5c42\u9632\u5e7b\u89c9+50\u7ec4\u8bc4\u6d4b",
+    "id": "xiaohe9/hs-code-classifier",
+    "language": "Python",
+    "name": "xiaohe9/hs-code-classifier",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:57:02Z",
+    "url": "https://github.com/xiaohe9/hs-code-classifier"
+  },
+  {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 549,
+    "updated_at": "2026-08-26T14:52:58Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:50:09Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
     "description": "A lightweight, framework-agnostic persistent memory graph for AI coding assistants.",
     "id": "karstom/simplegraph-agentic",
     "language": "TypeScript",
@@ -7,6 +34,33 @@
     "stars": 5,
     "updated_at": "2026-08-26T14:43:18Z",
     "url": "https://github.com/karstom/simplegraph-agentic"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-26T14:41:37Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:37:28Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 33,
+    "updated_at": "2026-08-26T14:35:01Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-26T14:30:28Z",
+    "updated_at": "2026-08-26T14:54:20Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4399,
-    "updated_at": "2026-08-26T14:11:51Z",
+    "updated_at": "2026-08-26T14:49:58Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 202,
     "updated_at": "2026-08-26T14:43:36Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 33,
-    "updated_at": "2026-08-26T14:35:01Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
     "description": "Reusable evidence-driven Claude Code red-team harness with live stage dashboards",
@@ -77,7 +122,7 @@
     "language": "HTML",
     "name": "Alucard1718/autonomous-code-sandbox",
     "stars": 1,
-    "updated_at": "2026-08-26T14:02:21Z",
+    "updated_at": "2026-08-26T14:56:12Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
@@ -106,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T13:56:04Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-26T14:41:37Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:37:28Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
@@ -266,17 +293,8 @@
     "language": "HTML",
     "name": "grandgaming9321-prog/reality-engine",
     "stars": 124,
-    "updated_at": "2026-08-26T13:04:10Z",
+    "updated_at": "2026-08-26T14:50:58Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:03:28Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Full-stack AI customer service: a 3-layer intent funnel routes only 15% of requests to the LLM; RAG hybrid retrieval wit",
@@ -430,23 +448,5 @@
     "stars": 5696,
     "updated_at": "2026-08-26T13:00:42Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 104,
-    "updated_at": "2026-08-26T11:23:52Z",
-    "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
-    "id": "wusuiling-if/mini-code-agent-langgraph",
-    "language": "Python",
-    "name": "wusuiling-if/mini-code-agent-langgraph",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:21:07Z",
-    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   }
 ]
