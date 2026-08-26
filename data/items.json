@@ -41,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T20:03:14Z",
+    "updated_at": "2026-08-26T20:29:44Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -52,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:50:13Z",
     "url": "https://github.com/huia711/SCoR"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-26T19:47:27Z",
+    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -214,15 +223,6 @@
     "stars": 6,
     "updated_at": "2026-08-26T17:54:02Z",
     "url": "https://github.com/S3YED/appie-kit"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-08-26T19:47:27Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
