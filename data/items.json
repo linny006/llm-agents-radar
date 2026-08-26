@@ -1,12 +1,111 @@
 [
   {
+    "description": "\ud83e\udd16 Explore AI agent architectures with agentic-ai, featuring ReAct agents, reflection-based designs, and modular LLM inte",
+    "id": "yigido41/agentic-ai",
+    "language": "Python",
+    "name": "yigido41/agentic-ai",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:11:18Z",
+    "url": "https://github.com/yigido41/agentic-ai"
+  },
+  {
     "description": "Nexus-LLM is LLM ai model which can run locally on your device.",
     "id": "brutal-45/Nexus-LLM",
     "language": "Python",
     "name": "brutal-45/Nexus-LLM",
     "stars": 2,
-    "updated_at": "2026-08-26T10:00:13Z",
+    "updated_at": "2026-08-26T10:10:10Z",
     "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "\ud83e\udd16 Build and optimize an AI trading agent using JavaScript for efficient and intelligent trading decisions on financial m",
+    "id": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "language": "CSS",
+    "name": "Daniyal-GraphicDesigner/ai-trading-agent",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:09:18Z",
+    "url": "https://github.com/Daniyal-GraphicDesigner/ai-trading-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-26T10:07:49Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 200,
+    "updated_at": "2026-08-26T10:06:51Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "Cross-framework Nx architecture lab using Angular, React, NgRx, Signals, TanStack Query and the Facade pattern",
+    "id": "Avien/users-portal",
+    "language": "TypeScript",
+    "name": "Avien/users-portal",
+    "stars": 0,
+    "updated_at": "2026-08-26T10:06:26Z",
+    "url": "https://github.com/Avien/users-portal"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:06:06Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-26T10:05:52Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-26T10:04:45Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-26T10:07:55Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\ud83d\udde3\ufe0f Engage in real-time voice conversations with an AI agent using Next.js and ElevenLabs for an interactive and responsi",
+    "id": "SHUKLAO/call-with-ai-agent",
+    "language": "\u2014",
+    "name": "SHUKLAO/call-with-ai-agent",
+    "stars": 3,
+    "updated_at": "2026-08-26T10:01:44Z",
+    "url": "https://github.com/SHUKLAO/call-with-ai-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Build personalized intelligent agents easily with AgentX, a platform that simplifies creation using natural language a",
+    "id": "WP2-Danikusuma/AgentX",
+    "language": "HTML",
+    "name": "WP2-Danikusuma/AgentX",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:01:12Z",
+    "url": "https://github.com/WP2-Danikusuma/AgentX"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -14,7 +113,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T10:00:19Z",
+    "updated_at": "2026-08-26T10:14:00Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T09:52:15Z",
+    "updated_at": "2026-08-26T10:13:05Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -70,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T09:45:44Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-26T09:44:27Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
@@ -140,7 +230,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 23,
-    "updated_at": "2026-08-26T09:36:05Z",
+    "updated_at": "2026-08-26T10:04:21Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -149,7 +239,7 @@
     "language": "Python",
     "name": "cdavid817/agent-book",
     "stars": 9,
-    "updated_at": "2026-08-26T09:34:50Z",
+    "updated_at": "2026-08-26T10:06:20Z",
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
@@ -315,24 +405,6 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-26T09:52:46Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-26T08:42:56Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
     "description": "Rust \u5b9e\u73b0\u7684 LLM Agent Harness \u539f\u578b\uff1aprotocol-first \u00b7 \u4e8b\u4ef6\u6eaf\u6e90 \u00b7 \u4e09\u5c42\u6c99\u7bb1 \u00b7 fail-closed \u5ba1\u6279",
     "id": "BigDataDZ/ideal-harness",
     "language": "Rust",
@@ -360,20 +432,11 @@
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 200,
-    "updated_at": "2026-08-26T08:37:03Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7011,
+    "stars": 7012,
     "updated_at": "2026-08-26T08:00:10Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T07:48:27Z",
     "url": "https://github.com/uuzjw/wow-agent"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5695,
-    "updated_at": "2026-08-26T07:46:40Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:41:54Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "\ud55c\uad6d \ub3c4\uba54\uc778 \ud2b9\ud654 LLM \uc5d0\uc774\uc804\ud2b8 \ud0a4\ud2b8 \u2014 6\ubaa8\ub4dc \uc790\ub3d9\ubd84\ub958, \ubc95\uc81c\ucc98 \uc778\uc6a9 \uac00\ub4dc, PII \ub9c8\uc2a4\ud0b9, prompt cache",
-    "id": "kimlawtech/korean-domain-agent",
-    "language": "Python",
-    "name": "kimlawtech/korean-domain-agent",
-    "stars": 5,
-    "updated_at": "2026-08-26T07:31:31Z",
-    "url": "https://github.com/kimlawtech/korean-domain-agent"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:29:47Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Nexariza Ai",
-    "id": "Nexariza-AI/Nexariza-Business-Vlogs",
-    "language": "\u2014",
-    "name": "Nexariza-AI/Nexariza-Business-Vlogs",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:28:35Z",
-    "url": "https://github.com/Nexariza-AI/Nexariza-Business-Vlogs"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3147,
-    "updated_at": "2026-08-26T07:26:34Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:13:44Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   }
 ]
