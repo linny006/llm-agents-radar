@@ -1,11 +1,56 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-26T06:14:06Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Manual Verification Protection + AI Selector Compatible with OpenClaw . This is a complete TypeScript plugin project\u2014a t",
+    "id": "freshxiaoyao/openclaw-human-gate",
+    "language": "TypeScript",
+    "name": "freshxiaoyao/openclaw-human-gate",
+    "stars": 2,
+    "updated_at": "2026-08-26T06:08:53Z",
+    "url": "https://github.com/freshxiaoyao/openclaw-human-gate"
+  },
+  {
+    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
+    "id": "yantrikos/yantrikdb-hermes-plugin",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-hermes-plugin",
+    "stars": 83,
+    "updated_at": "2026-08-26T06:07:16Z",
+    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
+  },
+  {
+    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
+    "id": "peitsan/starter",
+    "language": "TypeScript",
+    "name": "peitsan/starter",
+    "stars": 0,
+    "updated_at": "2026-08-26T06:06:29Z",
+    "url": "https://github.com/peitsan/starter"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 198,
+    "updated_at": "2026-08-26T06:05:25Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-26T05:59:06Z",
+    "updated_at": "2026-08-26T06:15:11Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -13,7 +58,7 @@
     "id": "yancent-dao/cockpit-agent-sim",
     "language": "TypeScript",
     "name": "yancent-dao/cockpit-agent-sim",
-    "stars": 47,
+    "stars": 48,
     "updated_at": "2026-08-26T05:57:01Z",
     "url": "https://github.com/yancent-dao/cockpit-agent-sim"
   },
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "GeminiLight/gen-mentor",
     "stars": 83,
-    "updated_at": "2026-08-26T05:52:54Z",
+    "updated_at": "2026-08-26T06:04:21Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
-    "id": "peitsan/starter",
-    "language": "TypeScript",
-    "name": "peitsan/starter",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:25:52Z",
-    "url": "https://github.com/peitsan/starter"
-  },
-  {
     "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
     "id": "citizenhicks/mobius",
     "language": "Rust",
@@ -180,21 +216,12 @@
     "url": "https://github.com/helsome/tinycode"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-26T05:16:42Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
     "id": "Rekin226/Agronaut",
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 1,
-    "updated_at": "2026-08-26T05:45:19Z",
+    "updated_at": "2026-08-26T06:07:26Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T04:45:58Z",
+    "updated_at": "2026-08-26T06:08:56Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4398,
-    "updated_at": "2026-08-26T05:29:55Z",
+    "updated_at": "2026-08-26T06:15:14Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -229,18 +256,9 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 861,
+    "stars": 862,
     "updated_at": "2026-08-26T04:29:42Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "YantrikDB memory provider for NousResearch/hermes-agent \u2014 self-maintaining memory with benchmarked recall, self-tuning r",
-    "id": "yantrikos/yantrikdb-hermes-plugin",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-hermes-plugin",
-    "stars": 83,
-    "updated_at": "2026-08-26T04:22:58Z",
-    "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -268,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T04:06:19Z",
     "url": "https://github.com/v2-io/agentic-systems"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 198,
-    "updated_at": "2026-08-26T04:38:24Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "11.5M-param transformer trained from scratch on PGN move sequences. 97.6% legal moves. Never sees a board.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:37:34Z",
     "url": "https://github.com/Asim00740/Kagantic-vault-structure"
-  },
-  {
-    "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
-    "id": "Victongo/ai-daily-news",
-    "language": "Ruby",
-    "name": "Victongo/ai-daily-news",
-    "stars": 2,
-    "updated_at": "2026-08-26T03:34:39Z",
-    "url": "https://github.com/Victongo/ai-daily-news"
   }
 ]
