@@ -1,5 +1,50 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 124,
+    "updated_at": "2026-08-26T23:13:53Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-08-26T23:12:28Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:08:50Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-26T23:04:57Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:00:51Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
+  },
+  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
@@ -63,13 +108,13 @@
     "url": "https://github.com/soluai-spa/solucortex-mcp"
   },
   {
-    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
-    "id": "the-priest/PriestsBasilisk",
-    "language": "Python",
-    "name": "the-priest/PriestsBasilisk",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:31:12Z",
-    "url": "https://github.com/the-priest/PriestsBasilisk"
+    "description": "Easy-to-use, easy-to-customize, and high-quality threat modeling skills for AI agents.",
+    "id": "ivan-sincek/threat-modeling-agent-skills",
+    "language": "\u2014",
+    "name": "ivan-sincek/threat-modeling-agent-skills",
+    "stars": 2,
+    "updated_at": "2026-08-26T22:05:45Z",
+    "url": "https://github.com/ivan-sincek/threat-modeling-agent-skills"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -117,15 +162,6 @@
     "url": "https://github.com/Wolido/async-subagent-isolation"
   },
   {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:24:24Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -149,7 +185,7 @@
     "language": "Python",
     "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-08-26T21:12:15Z",
+    "updated_at": "2026-08-26T23:13:19Z",
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T21:01:03Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
-    "id": "TahaSheikh-SH/warden",
-    "language": "JavaScript",
-    "name": "TahaSheikh-SH/warden",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:00:07Z",
-    "url": "https://github.com/TahaSheikh-SH/warden"
   },
   {
     "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "rekursiv-ai/sagent",
     "stars": 31,
-    "updated_at": "2026-08-26T20:02:41Z",
+    "updated_at": "2026-08-26T23:10:27Z",
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-08-26T19:47:27Z",
+    "updated_at": "2026-08-26T23:09:33Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -275,26 +302,8 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-26T19:25:41Z",
+    "updated_at": "2026-08-26T23:12:28Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 124,
-    "updated_at": "2026-08-26T19:09:08Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:08:39Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "End-to-end credit-risk underwriting on 1.35M LendingClub loans: leakage-safe LightGBM probability-of-default model, prof",
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T22:59:18Z",
+    "updated_at": "2026-08-26T23:13:56Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-26T17:36:48Z",
     "url": "https://github.com/Ahmed4644/ComfyUI-zveroboy-photo"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:35:17Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
   }
 ]
