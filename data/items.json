@@ -1,10 +1,55 @@
 [
   {
+    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
+    "id": "BlockRunAI/Franklin",
+    "language": "TypeScript",
+    "name": "BlockRunAI/Franklin",
+    "stars": 549,
+    "updated_at": "2026-08-26T04:43:46Z",
+    "url": "https://github.com/BlockRunAI/Franklin"
+  },
+  {
+    "description": "VALI - verification-gated coding platform: Z3-proved refactors, ThoughtGraph reasoning DAG, temporal time-travel over ag",
+    "id": "sampatkalyan/vali",
+    "language": "Python",
+    "name": "sampatkalyan/vali",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:41:41Z",
+    "url": "https://github.com/sampatkalyan/vali"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 128,
+    "updated_at": "2026-08-26T04:36:56Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4398,
+    "updated_at": "2026-08-26T04:39:15Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-26T04:33:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 857,
+    "stars": 858,
     "updated_at": "2026-08-26T04:29:42Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-26T04:13:35Z",
+    "updated_at": "2026-08-26T04:35:31Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 198,
-    "updated_at": "2026-08-26T04:05:24Z",
+    "updated_at": "2026-08-26T04:38:24Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -187,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:49:10Z",
     "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 549,
-    "updated_at": "2026-08-26T03:48:38Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:48:11Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "Rekin226/Agronaut",
     "stars": 1,
-    "updated_at": "2026-08-26T03:35:01Z",
+    "updated_at": "2026-08-26T04:45:11Z",
     "url": "https://github.com/Rekin226/Agronaut"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 83,
     "updated_at": "2026-08-26T03:10:55Z",
     "url": "https://github.com/GeminiLight/gen-mentor"
-  },
-  {
-    "description": "Benzi is code intelligence infrastructure for AI agents.",
-    "id": "oooscoos/Benzi",
-    "language": "Python",
-    "name": "oooscoos/Benzi",
-    "stars": 10,
-    "updated_at": "2026-08-26T03:06:38Z",
-    "url": "https://github.com/oooscoos/Benzi"
-  },
-  {
-    "description": "Evaluation-first conversational movie recommendation agent with structured LLM planning, deterministic retrieval, and fr",
-    "id": "Sh1njuuovo/recagent-eval",
-    "language": "Python",
-    "name": "Sh1njuuovo/recagent-eval",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:03:46Z",
-    "url": "https://github.com/Sh1njuuovo/recagent-eval"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-26T03:02:21Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
