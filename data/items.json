@@ -1,5 +1,14 @@
 [
   {
+    "description": "[npj Digital Medicine 2026] HealthFlow: Automating electronic health record analysis via a strategically self-evolving m",
+    "id": "yhzhu99/HealthFlow",
+    "language": "Python",
+    "name": "yhzhu99/HealthFlow",
+    "stars": 48,
+    "updated_at": "2026-08-26T19:00:15Z",
+    "url": "https://github.com/yhzhu99/HealthFlow"
+  },
+  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-26T18:40:09Z",
+    "updated_at": "2026-08-26T18:58:38Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "honestDS/MonoLight",
     "stars": 5,
-    "updated_at": "2026-08-26T17:52:59Z",
+    "updated_at": "2026-08-26T18:54:50Z",
     "url": "https://github.com/honestDS/MonoLight"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-26T18:42:32Z",
+    "updated_at": "2026-08-26T18:59:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-26T18:30:17Z",
+    "updated_at": "2026-08-26T18:48:53Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T16:17:08Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-26T16:15:46Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
