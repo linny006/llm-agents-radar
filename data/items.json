@@ -1,5 +1,32 @@
 [
   {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-08-27T20:06:04Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 12,
+    "updated_at": "2026-08-27T20:05:34Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T20:05:21Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
     "id": "sohaibsohail98/mcp-context-inspector",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T19:59:11Z",
+    "updated_at": "2026-08-27T20:14:44Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -76,27 +103,18 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7031,
+    "stars": 7032,
     "updated_at": "2026-08-27T19:42:21Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-08-27T19:38:39Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T20:00:02Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "fatihkutuk/neo",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:42:11Z",
+    "url": "https://github.com/fatihkutuk/neo"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T15:14:06Z",
     "url": "https://github.com/Elevated-homer201/prompt-gate"
-  },
-  {
-    "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
-    "id": "Indrasclerotinia71/local-ai-research-assistant",
-    "language": "Python",
-    "name": "Indrasclerotinia71/local-ai-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:12:57Z",
-    "url": "https://github.com/Indrasclerotinia71/local-ai-research-assistant"
-  },
-  {
-    "description": "AI event probability prediction engine",
-    "id": "Finn763/foresight",
-    "language": "TypeScript",
-    "name": "Finn763/foresight",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:12:26Z",
-    "url": "https://github.com/Finn763/foresight"
   }
 ]
