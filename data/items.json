@@ -1,5 +1,41 @@
 [
   {
+    "description": "FastAPI backend powering ARTHA \u2014 an AI personal finance agent featuring AI Vision OCR , LangGraph multi-node workflows ,",
+    "id": "nilayDawn/ARTHA_backend",
+    "language": "Python",
+    "name": "nilayDawn/ARTHA_backend",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:27:15Z",
+    "url": "https://github.com/nilayDawn/ARTHA_backend"
+  },
+  {
+    "description": "Agentic 3D Modeling with Procedural Control \u2014 turns a text prompt into an editable parametric program, with optional per",
+    "id": "SpatiaOS/Procedura",
+    "language": "TypeScript",
+    "name": "SpatiaOS/Procedura",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:18:54Z",
+    "url": "https://github.com/SpatiaOS/Procedura"
+  },
+  {
+    "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
+    "id": "nitinmms/LitosAiCodingAgent",
+    "language": "C#",
+    "name": "nitinmms/LitosAiCodingAgent",
+    "stars": 5,
+    "updated_at": "2026-08-27T05:18:13Z",
+    "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:15:31Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-27T05:04:35Z",
+    "updated_at": "2026-08-27T05:30:13Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T05:10:32Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:47:50Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -103,7 +130,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29733,
+    "stars": 29734,
     "updated_at": "2026-08-27T04:00:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:32:18Z",
     "url": "https://github.com/oxidizable-malinois605/bridge-suite-mcp"
-  },
-  {
-    "description": "Collect iOS, Swift, and Xcode AI agent skills in one repo with 200+ SKILL.md files from 28 authors",
-    "id": "Arjunadh5305/ios-skills-collection",
-    "language": "\u2014",
-    "name": "Arjunadh5305/ios-skills-collection",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:32:15Z",
-    "url": "https://github.com/Arjunadh5305/ios-skills-collection"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:29:31Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:28:07Z",
-    "url": "https://github.com/mriazi1982/octopai"
   }
 ]
