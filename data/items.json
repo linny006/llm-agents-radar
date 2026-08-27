@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "abhishekpandaOfficial/XOne",
     "stars": 1,
-    "updated_at": "2026-08-27T13:26:19Z",
+    "updated_at": "2026-08-27T13:38:14Z",
     "url": "https://github.com/abhishekpandaOfficial/XOne"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-27T13:28:16Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:26:07Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "GPT autonomous research and investigation using starintel",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "lost-rob0t/starintel-gpt-auto-dig",
     "stars": 0,
-    "updated_at": "2026-08-27T13:29:53Z",
+    "updated_at": "2026-08-27T13:43:54Z",
     "url": "https://github.com/lost-rob0t/starintel-gpt-auto-dig"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:10:34Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
@@ -59,7 +86,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 802,
-    "updated_at": "2026-08-27T12:55:24Z",
+    "updated_at": "2026-08-27T13:32:31Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -176,7 +203,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-27T13:25:47Z",
+    "updated_at": "2026-08-27T13:31:37Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -279,15 +306,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:26:07Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 255,
-    "updated_at": "2026-08-27T10:17:44Z",
+    "updated_at": "2026-08-27T13:40:29Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T09:25:11Z",
     "url": "https://github.com/Burtle-useless/bambu-x2d-agent-notes"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T09:13:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
-    "id": "wusuiling-if/mini-code-agent-langgraph",
-    "language": "Python",
-    "name": "wusuiling-if/mini-code-agent-langgraph",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:03:50Z",
-    "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   }
 ]
