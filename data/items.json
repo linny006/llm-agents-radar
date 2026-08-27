@@ -1,12 +1,39 @@
 [
   {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
     "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:52:44Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-27T06:14:29Z",
+    "url": "https://github.com/cdavid817/agent-book"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-27T06:13:38Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T06:14:14Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 203,
+    "updated_at": "2026-08-27T06:03:24Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Domain-separated controlled self-boot agent architecture \u2014 an enterprise AI agent runtime where AI self-produces tools &",
@@ -16,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:58:08Z",
     "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
+  },
+  {
+    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
+    "id": "12349/agentic-financial-research-assistant",
+    "language": "Python",
+    "name": "12349/agentic-financial-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T05:52:44Z",
+    "url": "https://github.com/12349/agentic-financial-research-assistant"
   },
   {
     "description": "SRC \u6316\u6d1e\u6307\u6325\u6a21\u5f0f \u00b7 DeepSeek Harness Agent \u9884\u8bbe\uff1a\u4f5c\u6218\u624b\u518c + \u4e13\u5bb6\u6d3e\u53d1 + \u7ecf\u9a8c\u95ed\u73af + MCP \u624b\u6bb5\u5c42\uff0c\u91cd\u578b\u626b\u63cf\u9ed8\u8ba4\u4f18\u5148\u8d70 HexStrike\uff08150+ \u5b89\u5168\u5de5\u5177\uff09\u3002\u57fa\u4e8e 0xSteph/pentest-ai",
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T05:44:07Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-27T05:38:03Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
@@ -76,7 +103,7 @@
     "id": "SpatiaOS/Procedura",
     "language": "TypeScript",
     "name": "SpatiaOS/Procedura",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-27T05:18:54Z",
     "url": "https://github.com/SpatiaOS/Procedura"
   },
@@ -126,15 +153,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 203,
-    "updated_at": "2026-08-27T04:34:16Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
     "id": "ravisinghrajput95/kubewhy",
     "language": "Python",
@@ -166,18 +184,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29737,
+    "stars": 29739,
     "updated_at": "2026-08-27T04:00:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/agent-book",
-    "language": "Python",
-    "name": "cdavid817/agent-book",
-    "stars": 9,
-    "updated_at": "2026-08-27T03:59:16Z",
-    "url": "https://github.com/cdavid817/agent-book"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -223,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T03:20:03Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T05:49:40Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "[WWW '25 Oral - GenMentor] Official code of our paper \"LLM-powered Multi-agent Framework for Goal-oriented Learning in I",
