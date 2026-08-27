@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
+    "language": "Python",
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-27T16:59:36Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7029,
+    "updated_at": "2026-08-27T16:53:14Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Python",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-27T16:48:28Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:58:33Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 41,
+    "updated_at": "2026-08-27T16:45:38Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-27T16:35:43Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "GPT autonomous research and investigation using starintel",
     "id": "lost-rob0t/starintel-gpt-auto-dig",
     "language": "Python",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 13,
-    "updated_at": "2026-08-27T16:33:13Z",
+    "updated_at": "2026-08-27T16:57:50Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
-    "language": "Python",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:32:39Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
   },
   {
     "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T16:44:29Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-27T16:35:43Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -76,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29812,
+    "stars": 29814,
     "updated_at": "2026-08-27T16:05:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T16:40:51Z",
+    "updated_at": "2026-08-27T16:53:04Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T15:28:43Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7029,
-    "updated_at": "2026-08-27T16:32:06Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
@@ -346,7 +373,7 @@
     "id": "shanananana/deepticket",
     "language": "Python",
     "name": "shanananana/deepticket",
-    "stars": 46,
+    "stars": 55,
     "updated_at": "2026-08-27T15:00:09Z",
     "url": "https://github.com/shanananana/deepticket"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T14:49:00Z",
     "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:47:48Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
-    "language": "Python",
-    "name": "rohithkandula19/Ronin",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:39:58Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "XOne - The Open Agentic Studio",
-    "id": "abhishekpandaOfficial/XOne",
-    "language": "Python",
-    "name": "abhishekpandaOfficial/XOne",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:42:12Z",
-    "url": "https://github.com/abhishekpandaOfficial/XOne"
   }
 ]
