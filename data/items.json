@@ -1,12 +1,12 @@
 [
   {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-08-27T01:25:09Z",
-    "url": "https://github.com/sydches/yuj"
+    "updated_at": "2026-08-27T01:34:06Z",
+    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
@@ -14,8 +14,17 @@
     "language": "Python",
     "name": "sohaibsohail98/mcp-context-inspector",
     "stars": 2,
-    "updated_at": "2026-08-27T01:19:52Z",
+    "updated_at": "2026-08-27T01:30:28Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-27T01:25:09Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Agentic CLI for the Scrapfly platform: scrape, extract, crawl, and drive a cloud browser over CDP. Built-in LLM agent wi",
@@ -115,15 +124,6 @@
     "stars": 203,
     "updated_at": "2026-08-27T00:40:03Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:56:00Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
