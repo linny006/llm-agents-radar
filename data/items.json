@@ -1,12 +1,48 @@
 [
   {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Python",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:59:06Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
     "name": "sydches/yuj",
     "stars": 1,
-    "updated_at": "2026-08-27T10:44:45Z",
+    "updated_at": "2026-08-27T10:57:31Z",
     "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T10:56:47Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-27T10:52:49Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:48:15Z",
+    "url": "https://github.com/Finn763/foresight"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-08-27T10:30:14Z",
+    "updated_at": "2026-08-27T10:59:22Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -45,15 +81,6 @@
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
-    "language": "Python",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:22:13Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -61,15 +88,6 @@
     "stars": 13,
     "updated_at": "2026-08-27T10:19:13Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "AI event probability prediction engine",
-    "id": "Finn763/foresight",
-    "language": "TypeScript",
-    "name": "Finn763/foresight",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:18:41Z",
-    "url": "https://github.com/Finn763/foresight"
   },
   {
     "description": "Private relationship memory with a human-in-the-loop LLM assistant.",
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-27T08:21:46Z",
+    "updated_at": "2026-08-27T10:53:51Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:52:44Z",
     "url": "https://github.com/12349/agentic-financial-research-assistant"
-  },
-  {
-    "description": "SRC \u6316\u6d1e\u6307\u6325\u6a21\u5f0f \u00b7 DeepSeek Harness Agent \u9884\u8bbe\uff1a\u4f5c\u6218\u624b\u518c + \u4e13\u5bb6\u6d3e\u53d1 + \u7ecf\u9a8c\u95ed\u73af + MCP \u624b\u6bb5\u5c42\uff0c\u91cd\u578b\u626b\u63cf\u9ed8\u8ba4\u4f18\u5148\u8d70 HexStrike\uff08150+ \u5b89\u5168\u5de5\u5177\uff09\u3002\u57fa\u4e8e 0xSteph/pentest-ai",
-    "id": "Fmttm221/dsh-src-hunt",
-    "language": "Python",
-    "name": "Fmttm221/dsh-src-hunt",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:46:18Z",
-    "url": "https://github.com/Fmttm221/dsh-src-hunt"
-  },
-  {
-    "description": "FastAPI backend powering ARTHA \u2014 an AI personal finance agent featuring AI Vision OCR , LangGraph multi-node workflows ,",
-    "id": "nilayDawn/ARTHA_backend",
-    "language": "Python",
-    "name": "nilayDawn/ARTHA_backend",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:27:15Z",
-    "url": "https://github.com/nilayDawn/ARTHA_backend"
   }
 ]
