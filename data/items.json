@@ -1,11 +1,29 @@
 [
   {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:28:26Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7030,
+    "updated_at": "2026-08-27T18:13:48Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T18:10:12Z",
+    "updated_at": "2026-08-27T18:29:45Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-27T18:09:42Z",
+    "updated_at": "2026-08-27T18:27:46Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 27,
     "updated_at": "2026-08-27T17:58:20Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7029,
-    "updated_at": "2026-08-27T18:13:48Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
@@ -124,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T17:07:42Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:05:51Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
