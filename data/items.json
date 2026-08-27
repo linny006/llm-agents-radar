@@ -1,11 +1,20 @@
 [
   {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "TypeScript",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-08-27T19:02:17Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-27T19:00:09Z",
+    "updated_at": "2026-08-27T19:14:55Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -27,6 +36,15 @@
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T19:12:33Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -43,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:38:04Z",
     "url": "https://github.com/lunasilvestre/nightglass"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T18:55:41Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -220,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29818,
+    "stars": 29819,
     "updated_at": "2026-08-27T16:05:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -238,7 +247,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16436,
+    "stars": 16437,
     "updated_at": "2026-08-27T15:39:56Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -439,14 +448,5 @@
     "stars": 55,
     "updated_at": "2026-08-27T15:00:09Z",
     "url": "https://github.com/shanananana/deepticket"
-  },
-  {
-    "description": "Build and run cross-platform event-driven rules and actions with a zero-dependency, lightweight engine for games, web, a",
-    "id": "lukky262/ARE",
-    "language": "\u2014",
-    "name": "lukky262/ARE",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:59:52Z",
-    "url": "https://github.com/lukky262/ARE"
   }
 ]
