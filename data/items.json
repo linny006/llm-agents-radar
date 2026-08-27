@@ -1,11 +1,38 @@
 [
   {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
+    "language": "Python",
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-27T07:36:07Z",
+    "url": "https://github.com/cdavid817/agent-book"
+  },
+  {
+    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
+    "id": "Lion-1209/coderio",
+    "language": "Python",
+    "name": "Lion-1209/coderio",
+    "stars": 9,
+    "updated_at": "2026-08-27T07:32:58Z",
+    "url": "https://github.com/Lion-1209/coderio"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-27T07:28:00Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5697,
-    "updated_at": "2026-08-27T07:25:42Z",
+    "updated_at": "2026-08-27T07:42:09Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -22,7 +49,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29747,
+    "stars": 29749,
     "updated_at": "2026-08-27T07:17:10Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-27T07:23:56Z",
+    "updated_at": "2026-08-27T07:43:07Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -99,15 +126,6 @@
     "url": "https://github.com/Zeeechenn/MingCang"
   },
   {
-    "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
-    "id": "Lion-1209/coderio",
-    "language": "Python",
-    "name": "Lion-1209/coderio",
-    "stars": 9,
-    "updated_at": "2026-08-27T06:50:06Z",
-    "url": "https://github.com/Lion-1209/coderio"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -115,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T06:48:10Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
-    "id": "cdavid817/agent-book",
-    "language": "Python",
-    "name": "cdavid817/agent-book",
-    "stars": 9,
-    "updated_at": "2026-08-27T06:28:22Z",
-    "url": "https://github.com/cdavid817/agent-book"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T06:20:20Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-27T07:28:00Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -239,7 +239,7 @@
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
     "stars": 947,
-    "updated_at": "2026-08-27T05:11:35Z",
+    "updated_at": "2026-08-27T07:34:49Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
@@ -409,7 +409,7 @@
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
-    "stars": 26,
+    "stars": 27,
     "updated_at": "2026-08-27T02:01:40Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
