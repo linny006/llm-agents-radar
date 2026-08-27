@@ -1,5 +1,41 @@
 [
   {
+    "description": "\u652f\u6301\u5bf9\u63a5\u5185\u90e8\u7cfb\u7edf\u7684 AI \u6392\u969c\u5de5\u4f5c\u53f0\uff1a\u901a\u8fc7 HTTP API / Webhook \u63a5\u5165\u5de5\u5355\u4e0e\u544a\u8b66\u7cfb\u7edf\uff0c\u4e32\u8054\u4ee3\u7801\u3001\u65e5\u5fd7\u3001\u914d\u7f6e\u548c Agent\uff0c\u5e76\u63d0\u4f9b\u9762\u5411\u4ea7\u54c1\u3001\u8fd0\u8425\u3001\u5ba2\u670d\u7684 Web \u81ea\u52a9\u5206\u6790\u9875\u9762\u3002",
+    "id": "shanananana/deepticket",
+    "language": "Python",
+    "name": "shanananana/deepticket",
+    "stars": 33,
+    "updated_at": "2026-08-27T15:00:09Z",
+    "url": "https://github.com/shanananana/deepticket"
+  },
+  {
+    "description": "AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery",
+    "id": "malevrigns/atlas-agent-control-plane",
+    "language": "Python",
+    "name": "malevrigns/atlas-agent-control-plane",
+    "stars": 56,
+    "updated_at": "2026-08-27T14:57:46Z",
+    "url": "https://github.com/malevrigns/atlas-agent-control-plane"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:47:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:46:51Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
     "id": "kangkukjin/indiebizOS",
     "language": "Python",
@@ -9,13 +45,67 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
+    "description": "XOne - The Open Agentic Studio",
+    "id": "abhishekpandaOfficial/XOne",
+    "language": "Python",
+    "name": "abhishekpandaOfficial/XOne",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:42:12Z",
+    "url": "https://github.com/abhishekpandaOfficial/XOne"
+  },
+  {
+    "description": "Xenon \u2014 Agent Harness for AI coding agents. 7 \u79cd\u53ef\u66ff\u6362\u63a8\u7406\u8303\u5f0f + Evidence Runtime \u9a8c\u8bc1\u95ed\u73af\uff08\u5de5\u5177\u7ed3\u679c\u662f Evidence\uff0cLLM \u8f93\u51fa\u53ea\u662f Claim\uff09+ \u6267\u884c\u9694\u79bb\u8fb9\u754c + ",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 53,
+    "updated_at": "2026-08-27T14:41:39Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7029,
+    "updated_at": "2026-08-27T14:39:35Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "\ud83e\udd16 Build intelligent, offline LLM agents with LangGraph and llama-cpp-python using this starter template for local, priva",
+    "id": "irandysousa/langgraph-llama-cpp-starter",
+    "language": "Python",
+    "name": "irandysousa/langgraph-llama-cpp-starter",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:39:30Z",
+    "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
+  },
+  {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
     "id": "gitanshulbisht/k8s-sentinel",
-    "language": "HTML",
+    "language": "Python",
     "name": "gitanshulbisht/k8s-sentinel",
     "stars": 0,
     "updated_at": "2026-08-27T14:38:37Z",
     "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "",
+    "id": "JortegaR/ai-notes-api",
+    "language": "JavaScript",
+    "name": "JortegaR/ai-notes-api",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:36:26Z",
+    "url": "https://github.com/JortegaR/ai-notes-api"
+  },
+  {
+    "description": "",
+    "id": "apolmig/fronteraeval",
+    "language": "JavaScript",
+    "name": "apolmig/fronteraeval",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:30:23Z",
+    "url": "https://github.com/apolmig/fronteraeval"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -50,17 +140,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4400,
-    "updated_at": "2026-08-27T14:19:34Z",
+    "updated_at": "2026-08-27T14:46:15Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery",
-    "id": "malevrigns/atlas-agent-control-plane",
-    "language": "Python",
-    "name": "malevrigns/atlas-agent-control-plane",
-    "stars": 56,
-    "updated_at": "2026-08-27T14:16:42Z",
-    "url": "https://github.com/malevrigns/atlas-agent-control-plane"
   },
   {
     "description": "AI event probability prediction engine",
@@ -108,15 +189,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:30:23Z",
-    "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -153,20 +225,11 @@
     "url": "https://github.com/lsdefine/GenericAgent"
   },
   {
-    "description": "XOne - The Open Agentic Studio",
-    "id": "abhishekpandaOfficial/XOne",
-    "language": "Python",
-    "name": "abhishekpandaOfficial/XOne",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:42:12Z",
-    "url": "https://github.com/abhishekpandaOfficial/XOne"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29802,
+    "stars": 29803,
     "updated_at": "2026-08-27T13:38:07Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -212,7 +275,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T14:01:27Z",
+    "updated_at": "2026-08-27T14:59:20Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T11:46:37Z",
     "url": "https://github.com/wxxb789/dsh-raven-research"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-27T11:41:48Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-27T11:44:59Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-27T11:18:44Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 364,
-    "updated_at": "2026-08-27T11:13:35Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
-    "id": "sohaibsohail98/mcp-context-inspector",
-    "language": "Python",
-    "name": "sohaibsohail98/mcp-context-inspector",
-    "stars": 2,
-    "updated_at": "2026-08-27T11:12:25Z",
-    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "Private relationship memory with a human-in-the-loop LLM assistant.",
-    "id": "bleakbelladonnals/bondmemo",
-    "language": "PHP",
-    "name": "bleakbelladonnals/bondmemo",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:11:00Z",
-    "url": "https://github.com/bleakbelladonnals/bondmemo"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-08-27T11:07:22Z",
-    "url": "https://github.com/hsaghir/looplet"
   }
 ]
