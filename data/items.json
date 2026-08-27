@@ -1,21 +1,21 @@
 [
   {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:28:26Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 7030,
-    "updated_at": "2026-08-27T18:13:48Z",
+    "updated_at": "2026-08-27T18:44:45Z",
     "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
+    "language": "Python",
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:38:04Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -23,7 +23,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T18:29:45Z",
+    "updated_at": "2026-08-27T18:45:11Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -32,8 +32,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-27T18:27:46Z",
+    "updated_at": "2026-08-27T18:35:45Z",
     "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:28:26Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -203,7 +212,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-27T16:30:32Z",
+    "updated_at": "2026-08-27T18:45:12Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T14:58:27Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:57:27Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   }
 ]
