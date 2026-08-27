@@ -1,5 +1,23 @@
 [
   {
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
+    "language": "Python",
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-27T15:47:43Z",
+    "url": "https://github.com/Om-Khode/TENKA"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:28:43Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -16,6 +34,24 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:23:08Z",
     "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
+    "id": "rugose-learnedprofession58/pi-dsh",
+    "language": "TypeScript",
+    "name": "rugose-learnedprofession58/pi-dsh",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:21:59Z",
+    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
+  },
+  {
+    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
+    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "language": "JavaScript",
+    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:20:28Z",
+    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
   },
   {
     "description": "Verify area values quickly with this web-based HTML calculator tool.",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "SuperdeMan/cockpit-agent",
     "stars": 13,
-    "updated_at": "2026-08-27T15:44:01Z",
+    "updated_at": "2026-08-27T15:51:37Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
@@ -70,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T15:14:30Z",
     "url": "https://github.com/Blaz742/web-pentest-lab"
+  },
+  {
+    "description": "Filter LLM prompts and shield applications from data leakage using a specialized security gateway.",
+    "id": "Elevated-homer201/prompt-gate",
+    "language": "\u2014",
+    "name": "Elevated-homer201/prompt-gate",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:14:06Z",
+    "url": "https://github.com/Elevated-homer201/prompt-gate"
   },
   {
     "description": "Automate research tasks with local LLMs, real-time web search, and structured report generation.",
@@ -99,6 +144,15 @@
     "url": "https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6"
   },
   {
+    "description": "Query your Obsidian vault using local LLMs to generate text and retrieve information.",
+    "id": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "language": "\u2014",
+    "name": "mpardakaskon-boop/obsidian-llm-wiki-local",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:11:09Z",
+    "url": "https://github.com/mpardakaskon-boop/obsidian-llm-wiki-local"
+  },
+  {
     "description": "AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery",
     "id": "malevrigns/atlas-agent-control-plane",
     "language": "Python",
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "kangkukjin/indiebizOS",
     "stars": 4,
-    "updated_at": "2026-08-27T15:08:27Z",
+    "updated_at": "2026-08-27T15:48:45Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
@@ -310,7 +364,7 @@
     "id": "irandysousa/langgraph-llama-cpp-starter",
     "language": "Python",
     "name": "irandysousa/langgraph-llama-cpp-starter",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-27T14:39:30Z",
     "url": "https://github.com/irandysousa/langgraph-llama-cpp-starter"
   },
@@ -329,7 +383,7 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-08-27T14:32:29Z",
+    "updated_at": "2026-08-27T15:52:21Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
@@ -338,7 +392,7 @@
     "language": "JavaScript",
     "name": "apolmig/fronteraeval",
     "stars": 0,
-    "updated_at": "2026-08-27T15:43:39Z",
+    "updated_at": "2026-08-27T15:59:59Z",
     "url": "https://github.com/apolmig/fronteraeval"
   },
   {
@@ -347,7 +401,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-27T14:21:35Z",
+    "updated_at": "2026-08-27T15:53:09Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 205,
     "updated_at": "2026-08-27T14:35:33Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Meowire \u2014 bionic agent harness base for Go. Pure wiring, zero default implementations: Think\u2192Act decision loop, iter.Seq",
-    "id": "qyiun666/meowire",
-    "language": "Go",
-    "name": "qyiun666/meowire",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:04:40Z",
-    "url": "https://github.com/qyiun666/meowire"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 802,
-    "updated_at": "2026-08-27T15:02:55Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A tribute to the best software in the world.",
-    "id": "markdr-hue/open-fabrica",
-    "language": "Go",
-    "name": "markdr-hue/open-fabrica",
-    "stars": 1,
-    "updated_at": "2026-08-27T13:49:24Z",
-    "url": "https://github.com/markdr-hue/open-fabrica"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-27T13:46:45Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14057,
-    "updated_at": "2026-08-27T13:45:10Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 29809,
-    "updated_at": "2026-08-27T13:38:07Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   }
 ]
