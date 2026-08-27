@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7029,
-    "updated_at": "2026-08-27T17:52:27Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-27T18:10:12Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
@@ -14,17 +14,17 @@
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-27T17:49:42Z",
+    "updated_at": "2026-08-27T18:09:42Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
+    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
+    "id": "Om-Khode/TENKA",
     "language": "Python",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:46:46Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+    "name": "Om-Khode/TENKA",
+    "stars": 7,
+    "updated_at": "2026-08-27T18:01:47Z",
+    "url": "https://github.com/Om-Khode/TENKA"
   },
   {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
@@ -34,6 +34,42 @@
     "stars": 27,
     "updated_at": "2026-08-27T17:58:20Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7029,
+    "updated_at": "2026-08-27T18:13:48Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
+    "id": "sameerhimati/bean-app",
+    "language": "Python",
+    "name": "sameerhimati/bean-app",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:51:13Z",
+    "url": "https://github.com/sameerhimati/bean-app"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 13,
+    "updated_at": "2026-08-27T17:47:41Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Python",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:46:46Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T17:31:04Z",
     "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 13,
-    "updated_at": "2026-08-27T17:47:41Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "PCODE-pl/MCPTap",
     "stars": 1,
-    "updated_at": "2026-08-27T17:05:00Z",
+    "updated_at": "2026-08-27T18:05:51Z",
     "url": "https://github.com/PCODE-pl/MCPTap"
   },
   {
@@ -187,24 +214,6 @@
     "stars": 365,
     "updated_at": "2026-08-27T15:53:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
-    "id": "Om-Khode/TENKA",
-    "language": "Python",
-    "name": "Om-Khode/TENKA",
-    "stars": 7,
-    "updated_at": "2026-08-27T17:55:24Z",
-    "url": "https://github.com/Om-Khode/TENKA"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T17:57:02Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T14:57:27Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:55:49Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
   }
 ]
