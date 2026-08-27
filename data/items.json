@@ -1,5 +1,41 @@
 [
   {
+    "description": "Private relationship memory with a human-in-the-loop LLM assistant.",
+    "id": "bleakbelladonnals/bondmemo",
+    "language": "PHP",
+    "name": "bleakbelladonnals/bondmemo",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:11:00Z",
+    "url": "https://github.com/bleakbelladonnals/bondmemo"
+  },
+  {
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:10:55Z",
+    "url": "https://github.com/Finn763/foresight"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-27T11:07:22Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 4,
+    "updated_at": "2026-08-27T11:02:43Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
+  },
+  {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
     "id": "gitanshulbisht/k8s-sentinel",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T10:59:06Z",
     "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 41,
+    "updated_at": "2026-08-27T10:57:49Z",
+    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
@@ -32,17 +77,8 @@
     "language": "Python",
     "name": "sohaibsohail98/mcp-context-inspector",
     "stars": 2,
-    "updated_at": "2026-08-27T10:52:49Z",
+    "updated_at": "2026-08-27T11:12:25Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "AI event probability prediction engine",
-    "id": "Finn763/foresight",
-    "language": "TypeScript",
-    "name": "Finn763/foresight",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:48:15Z",
-    "url": "https://github.com/Finn763/foresight"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -52,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T10:31:08Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-08-27T10:59:22Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -88,15 +115,6 @@
     "stars": 13,
     "updated_at": "2026-08-27T10:19:13Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Private relationship memory with a human-in-the-loop LLM assistant.",
-    "id": "bleakbelladonnals/bondmemo",
-    "language": "PHP",
-    "name": "bleakbelladonnals/bondmemo",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:12:24Z",
-    "url": "https://github.com/bleakbelladonnals/bondmemo"
   },
   {
     "description": "The self-improving SRE agent",
@@ -142,15 +160,6 @@
     "stars": 27,
     "updated_at": "2026-08-27T09:59:35Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-27T09:53:57Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -256,7 +265,7 @@
     "id": "rudra496/worldsim-ai",
     "language": "Python",
     "name": "rudra496/worldsim-ai",
-    "stars": 8,
+    "stars": 9,
     "updated_at": "2026-08-27T08:44:48Z",
     "url": "https://github.com/rudra496/worldsim-ai"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:58:08Z",
     "url": "https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime"
-  },
-  {
-    "description": "A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi",
-    "id": "12349/agentic-financial-research-assistant",
-    "language": "Python",
-    "name": "12349/agentic-financial-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:52:44Z",
-    "url": "https://github.com/12349/agentic-financial-research-assistant"
   }
 ]
