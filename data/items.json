@@ -1,5 +1,59 @@
 [
   {
+    "description": "Private relationship memory with a human-in-the-loop LLM assistant.",
+    "id": "bleakbelladonnals/bondmemo",
+    "language": "PHP",
+    "name": "bleakbelladonnals/bondmemo",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:12:24Z",
+    "url": "https://github.com/bleakbelladonnals/bondmemo"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 12,
+    "updated_at": "2026-08-27T10:11:49Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
+    "id": "gitanshulbisht/k8s-sentinel",
+    "language": "Shell",
+    "name": "gitanshulbisht/k8s-sentinel",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:10:30Z",
+    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 205,
+    "updated_at": "2026-08-27T10:07:51Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:09:42Z",
+    "url": "https://github.com/Finn763/foresight"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5699,
+    "updated_at": "2026-08-27T10:03:30Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
     "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
     "id": "Cyrax321/CONTINUUM",
     "language": "Python",
@@ -9,6 +63,24 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 12,
+    "updated_at": "2026-08-27T09:56:47Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 4,
+    "updated_at": "2026-08-27T09:53:57Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
+  },
+  {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
     "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "language": "Python",
@@ -16,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T09:50:00Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
-    "id": "gitanshulbisht/k8s-sentinel",
-    "language": "Shell",
-    "name": "gitanshulbisht/k8s-sentinel",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:49:31Z",
-    "url": "https://github.com/gitanshulbisht/k8s-sentinel"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -43,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T09:45:53Z",
     "url": "https://github.com/sydches/yuj"
-  },
-  {
-    "description": "AI event probability prediction engine",
-    "id": "Finn763/foresight",
-    "language": "TypeScript",
-    "name": "Finn763/foresight",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:42:32Z",
-    "url": "https://github.com/Finn763/foresight"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5698,
-    "updated_at": "2026-08-27T09:48:53Z",
-    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -122,17 +167,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-27T09:58:12Z",
+    "updated_at": "2026-08-27T10:10:35Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 12,
-    "updated_at": "2026-08-27T09:02:59Z",
-    "url": "https://github.com/Smana/runlore"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -148,7 +184,7 @@
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
     "name": "hhyqhh/inno-agent",
-    "stars": 948,
+    "stars": 949,
     "updated_at": "2026-08-27T08:49:50Z",
     "url": "https://github.com/hhyqhh/inno-agent"
   },
@@ -198,15 +234,6 @@
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
   },
   {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 205,
-    "updated_at": "2026-08-27T08:38:50Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
     "id": "Torvian-eu/chatbot",
     "language": "Kotlin",
@@ -225,15 +252,6 @@
     "url": "https://github.com/cdavid817/agent-book"
   },
   {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 12,
-    "updated_at": "2026-08-27T09:56:47Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -247,7 +265,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5825,
+    "stars": 5826,
     "updated_at": "2026-08-27T08:09:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -292,7 +310,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29776,
+    "stars": 29777,
     "updated_at": "2026-08-27T07:17:10Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -409,7 +427,7 @@
     "id": "SpatiaOS/Procedura",
     "language": "TypeScript",
     "name": "SpatiaOS/Procedura",
-    "stars": 6,
+    "stars": 7,
     "updated_at": "2026-08-27T05:18:54Z",
     "url": "https://github.com/SpatiaOS/Procedura"
   },
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-27T05:36:05Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-27T04:35:14Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why \u2014 a local LLM read",
-    "id": "ravisinghrajput95/kubewhy",
-    "language": "Python",
-    "name": "ravisinghrajput95/kubewhy",
-    "stars": 0,
-    "updated_at": "2026-08-27T04:07:09Z",
-    "url": "https://github.com/ravisinghrajput95/kubewhy"
   }
 ]
