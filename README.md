@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 03:45 UTC
+> ⏰ Last updated: 2026-08-27 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-27 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-08-27 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
-| 3 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-27 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 4 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 23 | JavaScript | 2026-08-27 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
-| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 6 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-08-27 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 7 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-27 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
-| 8 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-27 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
+| 1 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-27 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
+| 2 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-27 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 3 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-27 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 4 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-27 | A productive AI coworker that learns, self-improves, and ships work. |
+| 5 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-08-27 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
+| 6 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 23 | JavaScript | 2026-08-27 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
+| 7 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 8 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-08-27 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
 | 9 | [huia711/SCoR](https://github.com/huia711/SCoR) | 0 | Python | 2026-08-27 | SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026) |
 | 10 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 3 | Python | 2026-08-27 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
 | 11 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-27 | Template for building protoLabs A2A agents on LangGraph — fork me |
@@ -66,7 +66,7 @@ expired items removed — so you can rely on what you see being current.
 | 22 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-27 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 23 | [Stephenson-Software/create-dev-loop](https://github.com/Stephenson-Software/create-dev-loop) | 1 | Python | 2026-08-27 | Claude Code skill that generates a tailored autonomous dev loop for any git repository |
 | 24 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-08-27 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
-| 25 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29727 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
+| 25 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29731 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
 | 26 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 203 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 27 | [sohaibsohail98/mcp-context-inspector](https://github.com/sohaibsohail98/mcp-context-inspector) | 2 | Python | 2026-08-27 | Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove |
 | 28 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 23 | Python | 2026-08-27 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
