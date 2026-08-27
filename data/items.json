@@ -1,11 +1,20 @@
 [
   {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:58:41Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
     "id": "fsy2004/MetaWingman",
     "language": "Python",
     "name": "fsy2004/MetaWingman",
     "stars": 0,
-    "updated_at": "2026-08-27T04:41:19Z",
+    "updated_at": "2026-08-27T04:47:50Z",
     "url": "https://github.com/fsy2004/MetaWingman"
   },
   {
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 6,
-    "updated_at": "2026-08-27T04:39:39Z",
+    "updated_at": "2026-08-27T04:46:54Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -58,7 +67,7 @@
     "id": "ongridio/ongrid",
     "language": "Go",
     "name": "ongridio/ongrid",
-    "stars": 900,
+    "stars": 901,
     "updated_at": "2026-08-27T04:06:52Z",
     "url": "https://github.com/ongridio/ongrid"
   },
@@ -223,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T02:28:03Z",
     "url": "https://github.com/Ax3lsk3r3/QuantVibe"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:27:45Z",
-    "url": "https://github.com/citizenhicks/mobius"
   },
   {
     "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
