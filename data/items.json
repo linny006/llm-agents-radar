@@ -1,5 +1,32 @@
 [
   {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-27T02:41:46Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
+    "id": "fsy2004/MetaWingman",
+    "language": "Python",
+    "name": "fsy2004/MetaWingman",
+    "stars": 0,
+    "updated_at": "2026-08-27T02:40:58Z",
+    "url": "https://github.com/fsy2004/MetaWingman"
+  },
+  {
+    "description": "Incident-investigation chat agent on Amazon Bedrock AgentCore Runtime, with a live-streaming UI and its own MCP server f",
+    "id": "sohaibsohail98/sre-investigation-agent",
+    "language": "Python",
+    "name": "sohaibsohail98/sre-investigation-agent",
+    "stars": 2,
+    "updated_at": "2026-08-27T02:33:13Z",
+    "url": "https://github.com/sohaibsohail98/sre-investigation-agent"
+  },
+  {
     "description": "Usa Qlib como cerebro cuant y Vibe-Trading como manos: scores de acciones por ML servidos a un agente de trading LLM v\u00eda",
     "id": "Ax3lsk3r3/QuantVibe",
     "language": "Python",
@@ -27,15 +54,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-27T02:21:33Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
-  },
-  {
     "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
     "id": "Stephenson-Software/create-dev-loop",
     "language": "Python",
@@ -58,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29714,
+    "stars": 29716,
     "updated_at": "2026-08-27T02:07:25Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-27T02:28:00Z",
+    "updated_at": "2026-08-27T02:44:34Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -427,26 +445,8 @@
     "id": "jermaine123123/agent-context-editor",
     "language": "TypeScript",
     "name": "jermaine123123/agent-context-editor",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-08-26T23:48:17Z",
     "url": "https://github.com/jermaine123123/agent-context-editor"
-  },
-  {
-    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
-    "id": "rudra496/worldsim-ai",
-    "language": "Python",
-    "name": "rudra496/worldsim-ai",
-    "stars": 8,
-    "updated_at": "2026-08-26T23:35:22Z",
-    "url": "https://github.com/rudra496/worldsim-ai"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-26T23:31:03Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
