@@ -1,5 +1,41 @@
 [
   {
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
+    "language": "Python",
+    "name": "sydches/yuj",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:44:45Z",
+    "url": "https://github.com/sydches/yuj"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:31:08Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-27T10:30:14Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:29:52Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
     "id": "cdavid817/agent-book",
     "language": "Python",
@@ -25,15 +61,6 @@
     "stars": 13,
     "updated_at": "2026-08-27T10:19:13Z",
     "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
-    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
-    "id": "sydches/yuj",
-    "language": "Python",
-    "name": "sydches/yuj",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:18:59Z",
-    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "AI event probability prediction engine",
@@ -77,7 +104,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 205,
-    "updated_at": "2026-08-27T10:07:51Z",
+    "updated_at": "2026-08-27T10:36:16Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T09:53:57Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:50:00Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:27:15Z",
     "url": "https://github.com/nilayDawn/ARTHA_backend"
-  },
-  {
-    "description": "Agentic 3D Modeling with Procedural Control \u2014 turns a text prompt into an editable parametric program, with optional per",
-    "id": "SpatiaOS/Procedura",
-    "language": "TypeScript",
-    "name": "SpatiaOS/Procedura",
-    "stars": 7,
-    "updated_at": "2026-08-27T05:18:54Z",
-    "url": "https://github.com/SpatiaOS/Procedura"
-  },
-  {
-    "description": "A question-first, step-verified, self-improving agent skill for systematic reviews and meta-analysis",
-    "id": "fsy2004/MetaWingman",
-    "language": "Python",
-    "name": "fsy2004/MetaWingman",
-    "stars": 0,
-    "updated_at": "2026-08-27T05:15:31Z",
-    "url": "https://github.com/fsy2004/MetaWingman"
   }
 ]
