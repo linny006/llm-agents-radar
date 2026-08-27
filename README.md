@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 06:15 UTC
+> ⏰ Last updated: 2026-08-27 06:21 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-27 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
-| 2 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-27 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 2 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-27 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
 | 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-27 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 4 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 203 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 5 | [CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime](https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime) | 0 | — | 2026-08-27 | Domain-separated controlled self-boot agent architecture — an enterprise AI agent runtime where AI self-produces tools & |
-| 6 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-08-27 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
-| 7 | [Fmttm221/dsh-src-hunt](https://github.com/Fmttm221/dsh-src-hunt) | 0 | Python | 2026-08-27 | SRC 挖洞指挥模式 · DeepSeek Harness Agent 预设：作战手册 + 专家派发 + 经验闭环 + MCP 手段层，重型扫描默认优先走 HexStrike（150+ 安全工具）。基于 0xSteph/pentest-ai |
-| 8 | [ChaoyuWang04/Syncopate_Async_AgenticRL](https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL) | 1 | Python | 2026-08-27 | Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations — quantifying  |
+| 4 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-27 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 5 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 203 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 6 | [CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime](https://github.com/CanWeakerWriteStrongCode/domain-separated-self-boot-agent-runtime) | 0 | — | 2026-08-27 | Domain-separated controlled self-boot agent architecture — an enterprise AI agent runtime where AI self-produces tools & |
+| 7 | [12349/agentic-financial-research-assistant](https://github.com/12349/agentic-financial-research-assistant) | 0 | Python | 2026-08-27 | A multi-tool orchestration agent that answers compound financial research questions by deciding which of several financi |
+| 8 | [Fmttm221/dsh-src-hunt](https://github.com/Fmttm221/dsh-src-hunt) | 0 | Python | 2026-08-27 | SRC 挖洞指挥模式 · DeepSeek Harness Agent 预设：作战手册 + 专家派发 + 经验闭环 + MCP 手段层，重型扫描默认优先走 HexStrike（150+ 安全工具）。基于 0xSteph/pentest-ai |
 | 9 | [nitinmms/LitosAiCodingAgent](https://github.com/nitinmms/LitosAiCodingAgent) | 5 | C# | 2026-08-27 | Litos is a real AI coding agent written entirely in C#/.NET, no black box. |
 | 10 | [bigduu/Lotus](https://github.com/bigduu/Lotus) | 2 | TypeScript | 2026-08-27 | The living interface for AI agents — a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv |
 | 11 | [nilayDawn/ARTHA_backend](https://github.com/nilayDawn/ARTHA_backend) | 0 | Python | 2026-08-27 | FastAPI backend powering ARTHA — an AI personal finance agent featuring AI Vision OCR , LangGraph multi-node workflows , |
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-27 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
 | 19 | [ongridio/ongrid](https://github.com/ongridio/ongrid) | 903 | Go | 2026-08-27 | An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, L |
 | 20 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-27 | A productive AI coworker that learns, self-improves, and ships work. |
-| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29739 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
+| 21 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29743 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
 | 22 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-08-27 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
 | 23 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 23 | JavaScript | 2026-08-27 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 24 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
