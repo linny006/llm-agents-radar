@@ -1,5 +1,32 @@
 [
   {
+    "description": "Field notes and reference code for driving a Bambu Lab X2D from an LLM agent: official Traditional Chinese HMS error tex",
+    "id": "Burtle-useless/bambu-x2d-agent-notes",
+    "language": "Python",
+    "name": "Burtle-useless/bambu-x2d-agent-notes",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:25:11Z",
+    "url": "https://github.com/Burtle-useless/bambu-x2d-agent-notes"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:14:45Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-27T09:13:36Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-27T09:00:50Z",
+    "updated_at": "2026-08-27T09:22:20Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-27T08:53:58Z",
+    "updated_at": "2026-08-27T09:29:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 948,
     "updated_at": "2026-08-27T08:49:50Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:14:45Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5698,
-    "updated_at": "2026-08-27T08:42:01Z",
+    "updated_at": "2026-08-27T09:19:53Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -211,7 +229,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29768,
+    "stars": 29772,
     "updated_at": "2026-08-27T07:17:10Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:09:37Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-27T09:13:36Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Connect Claude Code, Cursor, and Codex to Workflow (workflow.games): your AI coding agent plans requirements, files bugs",
@@ -293,7 +302,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-27T06:48:10Z",
+    "updated_at": "2026-08-27T09:27:52Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -355,7 +364,7 @@
     "id": "SpatiaOS/Procedura",
     "language": "TypeScript",
     "name": "SpatiaOS/Procedura",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-27T05:18:54Z",
     "url": "https://github.com/SpatiaOS/Procedura"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T03:00:02Z",
     "url": "https://github.com/sameerhimati/bean-app"
-  },
-  {
-    "description": "Local LLM BenchMarking",
-    "id": "1337hero/scaffold-bench",
-    "language": "TypeScript",
-    "name": "1337hero/scaffold-bench",
-    "stars": 6,
-    "updated_at": "2026-08-27T02:59:58Z",
-    "url": "https://github.com/1337hero/scaffold-bench"
   }
 ]
