@@ -1,12 +1,48 @@
 [
   {
-    "description": "Field notes and reference code for driving a Bambu Lab X2D from an LLM agent: official Traditional Chinese HMS error tex",
-    "id": "Burtle-useless/bambu-x2d-agent-notes",
+    "description": "AI event probability prediction engine",
+    "id": "Finn763/foresight",
+    "language": "TypeScript",
+    "name": "Finn763/foresight",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:42:32Z",
+    "url": "https://github.com/Finn763/foresight"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
     "language": "Python",
-    "name": "Burtle-useless/bambu-x2d-agent-notes",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-27T09:40:10Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5698,
+    "updated_at": "2026-08-27T09:37:08Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 802,
+    "updated_at": "2026-08-27T09:36:52Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "ORACLE \u2014 On-chain Reputation & Audit for Coordinated LLM-Agent Execution\u3002LLM \u9a71\u52a8\u7684 Agent \u8c03\u5ea6 + \u94fe\u4e0a\u8eab\u4efd/\u5ba1\u8ba1/\u4fe1\u8a89\uff1a\u53cc\u89d2\u8272 EIP-712 \u5ba1\u8ba1\u3001\u4e89\u8bae",
+    "id": "Center-for-AI-Services-Computing/ORACLE",
+    "language": "JavaScript",
+    "name": "Center-for-AI-Services-Computing/ORACLE",
     "stars": 0,
-    "updated_at": "2026-08-27T09:25:11Z",
-    "url": "https://github.com/Burtle-useless/bambu-x2d-agent-notes"
+    "updated_at": "2026-08-27T09:36:42Z",
+    "url": "https://github.com/Center-for-AI-Services-Computing/ORACLE"
   },
   {
     "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
@@ -14,8 +50,35 @@
     "language": "Python",
     "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
     "stars": 1,
-    "updated_at": "2026-08-27T09:14:45Z",
+    "updated_at": "2026-08-27T09:36:02Z",
     "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "XOne - The Open Agentic Studio",
+    "id": "abhishekpandaOfficial/XOne",
+    "language": "Python",
+    "name": "abhishekpandaOfficial/XOne",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:33:49Z",
+    "url": "https://github.com/abhishekpandaOfficial/XOne"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-27T09:27:52Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Field notes and reference code for driving a Bambu Lab X2D from an LLM agent: official Traditional Chinese HMS error tex",
+    "id": "Burtle-useless/bambu-x2d-agent-notes",
+    "language": "Python",
+    "name": "Burtle-useless/bambu-x2d-agent-notes",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:25:11Z",
+    "url": "https://github.com/Burtle-useless/bambu-x2d-agent-notes"
   },
   {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
@@ -63,21 +126,12 @@
     "url": "https://github.com/Smana/runlore"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-27T09:22:20Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-27T09:29:03Z",
+    "updated_at": "2026-08-27T09:40:52Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5698,
-    "updated_at": "2026-08-27T09:19:53Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
     "description": "Litos is a real AI coding agent written entirely in C#/.NET, no black box.",
     "id": "nitinmms/LitosAiCodingAgent",
     "language": "C#",
@@ -142,6 +187,15 @@
     "stars": 5,
     "updated_at": "2026-08-27T08:41:18Z",
     "url": "https://github.com/nitinmms/LitosAiCodingAgent"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 205,
+    "updated_at": "2026-08-27T08:38:50Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
@@ -184,18 +238,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5824,
+    "stars": 5825,
     "updated_at": "2026-08-27T08:09:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 204,
-    "updated_at": "2026-08-27T08:38:50Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
     "description": "Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates \u2014 the agent can't claim don",
@@ -229,7 +274,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29772,
+    "stars": 29774,
     "updated_at": "2026-08-27T07:17:10Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -261,15 +306,6 @@
     "url": "https://github.com/Go1c/workflow-plugin"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 802,
-    "updated_at": "2026-08-27T07:19:01Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "The Agent Knowledge Cycle as a single behavioral rules file \u2014 install all six phases without the six standalone skills.",
     "id": "shimo4228/akc-cycle",
     "language": "Python",
@@ -295,15 +331,6 @@
     "stars": 12,
     "updated_at": "2026-08-27T07:06:06Z",
     "url": "https://github.com/Zeeechenn/MingCang"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-27T09:27:52Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -421,32 +448,5 @@
     "stars": 24,
     "updated_at": "2026-08-27T03:35:45Z",
     "url": "https://github.com/rsalmn/ExtremeRouter"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-27T03:59:26Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "SCoR: a sparse subtask planner over a frozen GUI executor (EMNLP 2026)",
-    "id": "huia711/SCoR",
-    "language": "Python",
-    "name": "huia711/SCoR",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:25:14Z",
-    "url": "https://github.com/huia711/SCoR"
-  },
-  {
-    "description": "A human-in-the-loop email triage and reply-drafting agent. Drafts from the operator's own notebook, says what it can't s",
-    "id": "sameerhimati/bean-app",
-    "language": "Python",
-    "name": "sameerhimati/bean-app",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:00:02Z",
-    "url": "https://github.com/sameerhimati/bean-app"
   }
 ]
