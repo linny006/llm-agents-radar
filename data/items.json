@@ -1,5 +1,32 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-27T19:00:09Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
+    "id": "rohithkandula19/Ronin",
+    "language": "Python",
+    "name": "rohithkandula19/Ronin",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:59:31Z",
+    "url": "https://github.com/rohithkandula19/Ronin"
+  },
+  {
+    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
+    "id": "PCODE-pl/MCPTap",
+    "language": "Python",
+    "name": "PCODE-pl/MCPTap",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:59:17Z",
+    "url": "https://github.com/PCODE-pl/MCPTap"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -23,26 +50,17 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-27T18:45:11Z",
+    "updated_at": "2026-08-27T18:55:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
-    "id": "rohithkandula19/Ronin",
+    "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
+    "id": "sydches/yuj",
     "language": "Python",
-    "name": "rohithkandula19/Ronin",
+    "name": "sydches/yuj",
     "stars": 1,
-    "updated_at": "2026-08-27T18:35:45Z",
-    "url": "https://github.com/rohithkandula19/Ronin"
-  },
-  {
-    "description": "MCPTap is a lightweight LLM proxy for AI agents that intercepts traffic (currently OpenRouter/Requesty) and controls MCP",
-    "id": "PCODE-pl/MCPTap",
-    "language": "Python",
-    "name": "PCODE-pl/MCPTap",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:28:26Z",
-    "url": "https://github.com/PCODE-pl/MCPTap"
+    "updated_at": "2026-08-27T18:33:18Z",
+    "url": "https://github.com/sydches/yuj"
   },
   {
     "description": "Transformative Evolving Neural Kinetic Agent - a local-first Python voice agent for Windows.",
@@ -202,18 +220,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29817,
+    "stars": 29818,
     "updated_at": "2026-08-27T16:05:30Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-27T18:45:12Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T14:59:52Z",
     "url": "https://github.com/lukky262/ARE"
-  },
-  {
-    "description": "",
-    "id": "hichamnes-prog/exforum-auto-poster",
-    "language": "Python",
-    "name": "hichamnes-prog/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:58:27Z",
-    "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
   }
 ]
