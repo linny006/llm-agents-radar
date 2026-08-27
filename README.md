@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-27 14:15 UTC
+> ⏰ Last updated: 2026-08-27 14:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,33 +42,33 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sky-valley/pi](https://github.com/sky-valley/pi) | 41 | Go | 2026-08-27 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
-| 2 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 205 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 3 | [qyiun666/meowire](https://github.com/qyiun666/meowire) | 0 | Go | 2026-08-27 | Meowire — bionic agent harness base for Go. Pure wiring, zero default implementations: Think→Act decision loop, iter.Seq |
-| 4 | [helixml/helix](https://github.com/helixml/helix) | 802 | Go | 2026-08-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 5 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-27 |  |
-| 6 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-27 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
-| 7 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-08-27 | A tribute to the best software in the world. |
-| 8 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 9 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14055 | Python | 2026-08-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
-| 10 | [abhishekpandaOfficial/XOne](https://github.com/abhishekpandaOfficial/XOne) | 1 | Python | 2026-08-27 | XOne - The Open Agentic Studio |
-| 11 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29799 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-27 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 14 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-27 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
-| 15 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-27 | GPT autonomous research and investigation using starintel |
-| 16 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-27 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
-| 17 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-27 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 18 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 19 | [uuzjw/wow-agent](https://github.com/uuzjw/wow-agent) | 2 | Python | 2026-08-27 | 终端里的编码 agent：接任意 OpenAI 兼容模型，任务计划/子代理/长期记忆/断网沙盒 |
-| 20 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 1 | Swift | 2026-08-27 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
-| 21 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-08-27 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
-| 22 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-08-27 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 23 | [scrapfly/scrapfly-mcp](https://github.com/scrapfly/scrapfly-mcp) | 12 | Go | 2026-08-27 | Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A |
-| 24 | [gptme/gptme](https://github.com/gptme/gptme) | 4399 | Python | 2026-08-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 25 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-27 | 🤖 Lightweight, message-first agent runtime |
-| 26 | [Finn763/foresight](https://github.com/Finn763/foresight) | 1 | TypeScript | 2026-08-27 | AI event probability prediction engine |
-| 27 | [gitanshulbisht/k8s-sentinel](https://github.com/gitanshulbisht/k8s-sentinel) | 0 | HTML | 2026-08-27 | Autonomous Kubernetes incident triage agent built on TrueForge — real MCP tools, sandboxed analysis, subagent parallel d |
+| 1 | [gitanshulbisht/k8s-sentinel](https://github.com/gitanshulbisht/k8s-sentinel) | 0 | HTML | 2026-08-27 | Autonomous Kubernetes incident triage agent built on TrueForge — real MCP tools, sandboxed analysis, subagent parallel d |
+| 2 | [gerardogrisolini/ZenCODE](https://github.com/gerardogrisolini/ZenCODE) | 4 | Swift | 2026-08-27 |  Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime — customizable tools, parallel agentic  |
+| 3 | [Finn763/foresight](https://github.com/Finn763/foresight) | 1 | TypeScript | 2026-08-27 | AI event probability prediction engine |
+| 4 | [sky-valley/pi](https://github.com/sky-valley/pi) | 41 | Go | 2026-08-27 | A pure-Go port of pi (earendil-works/pi) — the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co |
+| 5 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 205 | TypeScript | 2026-08-27 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
+| 6 | [qyiun666/meowire](https://github.com/qyiun666/meowire) | 0 | Go | 2026-08-27 | Meowire — bionic agent harness base for Go. Pure wiring, zero default implementations: Think→Act decision loop, iter.Seq |
+| 7 | [helixml/helix](https://github.com/helixml/helix) | 802 | Go | 2026-08-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 8 | [apolmig/fronteraeval](https://github.com/apolmig/fronteraeval) | 0 | JavaScript | 2026-08-27 |  |
+| 9 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-27 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 10 | [markdr-hue/open-fabrica](https://github.com/markdr-hue/open-fabrica) | 1 | Go | 2026-08-27 | A tribute to the best software in the world. |
+| 11 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 12 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 14057 | Python | 2026-08-27 | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| 13 | [abhishekpandaOfficial/XOne](https://github.com/abhishekpandaOfficial/XOne) | 1 | Python | 2026-08-27 | XOne - The Open Agentic Studio |
+| 14 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29802 | Python | 2026-08-27 | Build and run agents you can see, understand and trust. |
+| 15 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 16 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-27 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 17 | [lost-rob0t/starintel-gpt-auto-dig](https://github.com/lost-rob0t/starintel-gpt-auto-dig) | 0 | Python | 2026-08-27 | GPT autonomous research and investigation using starintel |
+| 18 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-27 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
+| 19 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-27 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 20 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 21 | [uuzjw/wow-agent](https://github.com/uuzjw/wow-agent) | 2 | Python | 2026-08-27 | 终端里的编码 agent：接任意 OpenAI 兼容模型，任务计划/子代理/长期记忆/断网沙盒 |
+| 22 | [kasparovabi/dsh-studio](https://github.com/kasparovabi/dsh-studio) | 1 | Swift | 2026-08-27 | An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness — sessions, live trajectory, tool approv |
+| 23 | [ateliertoby/first-reader](https://github.com/ateliertoby/first-reader) | 0 | JavaScript | 2026-08-27 | An email first-reader agent for Outlook.com — a secretary, not a court reporter |
+| 24 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-08-27 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
+| 25 | [scrapfly/scrapfly-mcp](https://github.com/scrapfly/scrapfly-mcp) | 12 | Go | 2026-08-27 | Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A |
+| 26 | [gptme/gptme](https://github.com/gptme/gptme) | 4399 | Python | 2026-08-27 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 27 | [Cognipeer/agent-sdk](https://github.com/Cognipeer/agent-sdk) | 7 | TypeScript | 2026-08-27 | 🤖 Lightweight, message-first agent runtime |
 | 28 | [AndriiLavrekha/awesome-progress-tracker](https://github.com/AndriiLavrekha/awesome-progress-tracker) | 0 | TypeScript | 2026-08-27 | Project-local Markdown progress tracking for Codex, Claude Code, and MCP-compatible agents — resumable memory across ses |
 | 29 | [GeminiLight/gen-mentor](https://github.com/GeminiLight/gen-mentor) | 83 | Python | 2026-08-27 | [WWW '25 Oral - GenMentor] Official code of our paper "LLM-powered Multi-agent Framework for Goal-oriented Learning in I |
 | 30 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-27 | AI-powered image generation and chat studio |
