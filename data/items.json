@@ -1,5 +1,41 @@
 [
   {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-08-28T13:52:04Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
+    "id": "TahaSheikh-SH/warden",
+    "language": "JavaScript",
+    "name": "TahaSheikh-SH/warden",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:49:20Z",
+    "url": "https://github.com/TahaSheikh-SH/warden"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-08-28T13:48:41Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:47:24Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T13:41:29Z",
+    "updated_at": "2026-08-28T13:55:50Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:37:07Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -63,15 +90,6 @@
     "url": "https://github.com/ColinJoyL/blender-vision-agent"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-08-28T13:42:47Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
@@ -79,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T13:25:34Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-08-28T13:25:00Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
     "description": "A tribute to the best software in the world.",
@@ -113,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T13:41:58Z",
+    "updated_at": "2026-08-28T13:55:28Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T13:43:17Z",
+    "updated_at": "2026-08-28T13:59:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -400,7 +409,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 5839,
+    "stars": 5840,
     "updated_at": "2026-08-28T10:12:10Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T09:46:13Z",
     "url": "https://github.com/solakli/wax-digger"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-28T09:35:15Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
