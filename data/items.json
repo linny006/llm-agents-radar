@@ -1,12 +1,12 @@
 [
   {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-28T07:44:17Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
+    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
+    "id": "ZXTLQQ/FactorGPT",
+    "language": "Python",
+    "name": "ZXTLQQ/FactorGPT",
+    "stars": 6,
+    "updated_at": "2026-08-28T07:55:49Z",
+    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "WAIT \u2014 Wiki Aware Intelligent Tool: an agent helping Wikipedia editors navigate policy, templates, and small JS/CSS/Lua ",
@@ -14,8 +14,44 @@
     "language": "Shell",
     "name": "schiste/wiki-assistant",
     "stars": 0,
-    "updated_at": "2026-08-28T07:44:11Z",
+    "updated_at": "2026-08-28T07:54:46Z",
     "url": "https://github.com/schiste/wiki-assistant"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 14,
+    "updated_at": "2026-08-28T07:52:30Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A bounded math reasoning agent with Lean 4 verification \u2014 conjecture, proof, verified conclusion",
+    "id": "conjecta/conjecta",
+    "language": "Python",
+    "name": "conjecta/conjecta",
+    "stars": 4,
+    "updated_at": "2026-08-28T07:56:31Z",
+    "url": "https://github.com/conjecta/conjecta"
+  },
+  {
+    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
+    "id": "fatihkutuk/neo",
+    "language": "Python",
+    "name": "fatihkutuk/neo",
+    "stars": 0,
+    "updated_at": "2026-08-28T07:45:56Z",
+    "url": "https://github.com/fatihkutuk/neo"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 4,
+    "updated_at": "2026-08-28T07:44:17Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
@@ -36,24 +72,6 @@
     "url": "https://github.com/Lion-1209/coderio"
   },
   {
-    "description": "A bounded math reasoning agent with Lean 4 verification \u2014 conjecture, proof, verified conclusion",
-    "id": "conjecta/conjecta",
-    "language": "Python",
-    "name": "conjecta/conjecta",
-    "stars": 4,
-    "updated_at": "2026-08-28T07:43:14Z",
-    "url": "https://github.com/conjecta/conjecta"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 14,
-    "updated_at": "2026-08-28T07:36:12Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
-  },
-  {
     "description": "Autonomous Kubernetes incident triage agent built on TrueForge \u2014 real MCP tools, sandboxed analysis, subagent parallel d",
     "id": "gitanshulbisht/k8s-sentinel",
     "language": "Python",
@@ -68,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T07:41:50Z",
+    "updated_at": "2026-08-28T07:58:03Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-28T07:28:39Z",
+    "updated_at": "2026-08-28T07:46:33Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -148,7 +166,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 422,
+    "stars": 423,
     "updated_at": "2026-08-28T06:50:18Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 13,
-    "updated_at": "2026-08-28T07:14:16Z",
+    "updated_at": "2026-08-28T07:48:10Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T07:43:31Z",
+    "updated_at": "2026-08-28T07:54:31Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -241,24 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T05:57:02Z",
     "url": "https://github.com/BiBoyang/ForgeLoopTUI"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:52:58Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
-    "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
-    "id": "ZXTLQQ/FactorGPT",
-    "language": "Python",
-    "name": "ZXTLQQ/FactorGPT",
-    "stars": 6,
-    "updated_at": "2026-08-28T05:40:29Z",
-    "url": "https://github.com/ZXTLQQ/FactorGPT"
   },
   {
     "description": "\ud55c\uad6d\ud22c\uc790\uc99d\uad8c OpenAPI Python \ub798\ud37c \u2014 CLI \u00b7 Python SDK \u00b7 LLM Agent \u00b7 \uc2e4\uc2dc\uac04 WebSocket. \ubb38\uc11c: unohee.github.io/kis-agent",
