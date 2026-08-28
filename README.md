@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 03:45 UTC
+> ⏰ Last updated: 2026-08-28 04:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-28 | A productive AI coworker that learns, self-improves, and ships work. |
-| 2 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-28 | Octomind Agents Registry |
-| 3 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-28 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 4 | [malevrigns/atlas-agent-control-plane](https://github.com/malevrigns/atlas-agent-control-plane) | 58 | Python | 2026-08-28 | AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery |
-| 5 | [forwaryan/rumor-checking](https://github.com/forwaryan/rumor-checking) | 0 | Python | 2026-08-28 | 带执行过程可视化的中文谣言核查:拆原子事实、多源并行检索、逐条判真假,全程流式可观测 |
-| 6 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-08-28 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
-| 7 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 53 | Python | 2026-08-28 | 🚀 Xenon — Agent Harness for AI coding agents. 证据导向架构 + 7种推理范式 + 执行隔离边界 + SWE-bench 40% 通过率（+6.7pp）。可信、可验证、可评测的 AI Agent  |
-| 8 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3779 | JavaScript | 2026-08-28 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
-| 9 | [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) | 2 | TypeScript | 2026-08-28 | Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s |
-| 10 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 31 | Python | 2026-08-28 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
-| 11 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-28 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
-| 12 | [gptme/gptme](https://github.com/gptme/gptme) | 4400 | Python | 2026-08-28 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 13 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 13 | Python | 2026-08-28 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
-| 14 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29852 | Python | 2026-08-28 | Build and run agents you can see, understand and trust. |
+| 1 | [rekursiv-ai/sagent](https://github.com/rekursiv-ai/sagent) | 31 | Python | 2026-08-28 | A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal |
+| 2 | [SuperdeMan/cockpit-agent](https://github.com/SuperdeMan/cockpit-agent) | 13 | Python | 2026-08-28 | 面向智能座舱的云边协同 AI Agent：端侧毫秒级车控，云端声明式 Multi-Agent 与 Skill/DAG 编排，支持 S2S 实时语音、声纹多用户、视觉与 HMI；LLM 只负责理解与规划，VAL 负责确定性安全执行。 |
+| 3 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-28 | A productive AI coworker that learns, self-improves, and ships work. |
+| 4 | [Muvon/octomind-tap](https://github.com/Muvon/octomind-tap) | 3 | Python | 2026-08-28 | Octomind Agents Registry |
+| 5 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-28 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 6 | [malevrigns/atlas-agent-control-plane](https://github.com/malevrigns/atlas-agent-control-plane) | 58 | Python | 2026-08-28 | AtlasAgent - an auditable AI agent control plane: evidence-backed memory, governed tool runtime, checkpoint DAG recovery |
+| 7 | [forwaryan/rumor-checking](https://github.com/forwaryan/rumor-checking) | 0 | Python | 2026-08-28 | 带执行过程可视化的中文谣言核查:拆原子事实、多源并行检索、逐条判真假,全程流式可观测 |
+| 8 | [Lion-1209/coderio](https://github.com/Lion-1209/coderio) | 9 | Python | 2026-08-28 | Local coding agent with native Zhipu GLM / StepFun Step Coding-Plan support. Four hard gates — the agent can't claim don |
+| 9 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 53 | Python | 2026-08-28 | 🚀 Xenon — Agent Harness for AI coding agents. 证据导向架构 + 7种推理范式 + 执行隔离边界 + SWE-bench 40% 通过率（+6.7pp）。可信、可验证、可评测的 AI Agent  |
+| 10 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3779 | JavaScript | 2026-08-28 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) |
+| 11 | [wxxb789/dsh-raven-research](https://github.com/wxxb789/dsh-raven-research) | 2 | TypeScript | 2026-08-28 | Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s |
+| 12 | [ravisinghrajput95/kubewhy](https://github.com/ravisinghrajput95/kubewhy) | 0 | Python | 2026-08-28 | Air-gapped Kubernetes root-cause analysis. Everything tells you what is broken; kubewhy tells you why — a local LLM read |
+| 13 | [gptme/gptme](https://github.com/gptme/gptme) | 4400 | Python | 2026-08-28 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 14 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 29853 | Python | 2026-08-28 | Build and run agents you can see, understand and trust. |
 | 15 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 0 | JavaScript | 2026-08-28 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
 | 16 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 24 | JavaScript | 2026-08-28 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 17 | [ZXTLQQ/FactorGPT](https://github.com/ZXTLQQ/FactorGPT) | 5 | Python | 2026-08-28 | 基于LLM的量化因子开发Agent |
