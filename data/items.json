@@ -1,5 +1,104 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T04:44:33Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
+    "id": "zty522/partner",
+    "language": "Python",
+    "name": "zty522/partner",
+    "stars": 5,
+    "updated_at": "2026-08-28T04:44:30Z",
+    "url": "https://github.com/zty522/partner"
+  },
+  {
+    "description": "Octomind Agents Registry",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 3,
+    "updated_at": "2026-08-28T04:44:16Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
+    "id": "faheela-786/ComfyUI-qwenmultiangle",
+    "language": "\u2014",
+    "name": "faheela-786/ComfyUI-qwenmultiangle",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:42:23Z",
+    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
+  },
+  {
+    "description": "\ud83d\udd0d Automate dynamic web scraping with Scraping Browser, a full-host solution using Puppeteer, Selenium, and Playwright fo",
+    "id": "amineeng/scraping-browser",
+    "language": "\u2014",
+    "name": "amineeng/scraping-browser",
+    "stars": 1,
+    "updated_at": "2026-08-28T04:40:38Z",
+    "url": "https://github.com/amineeng/scraping-browser"
+  },
+  {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-28T04:39:56Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "\ud83d\udd04 Optimize model loading in ComfyUI with flexible node connections and controlled sequences for better performance and m",
+    "id": "Saran1536/ComfyUI-LoaderUtils",
+    "language": "Python",
+    "name": "Saran1536/ComfyUI-LoaderUtils",
+    "stars": 1,
+    "updated_at": "2026-08-28T04:38:12Z",
+    "url": "https://github.com/Saran1536/ComfyUI-LoaderUtils"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T04:36:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\u300a\u4f01\u4e1a\u7ea7 Agent \u4ece\u5165\u95e8\u5230\u4e13\u5bb6\uff082026\u7248\uff09\u300b\u2014\u2014\u4ece\u5355 Agent \u6838\u5fc3\u673a\u5236\u5230\u591a Agent \u4e0e\u4f01\u4e1a\u843d\u5730\u7684\u5de5\u7a0b\u5316\u5b9e\u6218\u6559\u7a0b\uff0c\u914d\u5957\u53ef\u8fd0\u884c\u8d2f\u7a7f\u9879\u76ee\u4e0e CI \u9a8c\u8bc1\u95e8\u7981\u3002",
+    "id": "cdavid817/agent-book",
+    "language": "Python",
+    "name": "cdavid817/agent-book",
+    "stars": 9,
+    "updated_at": "2026-08-28T04:36:37Z",
+    "url": "https://github.com/cdavid817/agent-book"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-28T04:42:48Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f Boost your Obsidian experience with a powerful Model Context Protocol server for vault access, knowledge graph analys",
+    "id": "Amri854/obsidian-mcp-server",
+    "language": "TypeScript",
+    "name": "Amri854/obsidian-mcp-server",
+    "stars": 0,
+    "updated_at": "2026-08-28T04:31:14Z",
+    "url": "https://github.com/Amri854/obsidian-mcp-server"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -77,7 +176,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 205,
-    "updated_at": "2026-08-28T04:04:02Z",
+    "updated_at": "2026-08-28T04:35:48Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -90,13 +189,13 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Octomind Agents Registry",
-    "id": "Muvon/octomind-tap",
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
     "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 3,
-    "updated_at": "2026-08-28T03:38:08Z",
-    "url": "https://github.com/Muvon/octomind-tap"
+    "name": "areal-project/AReaL",
+    "stars": 5699,
+    "updated_at": "2026-08-28T03:52:13Z",
+    "url": "https://github.com/areal-project/AReaL"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -104,7 +203,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T04:12:31Z",
+    "updated_at": "2026-08-28T04:45:03Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -184,7 +283,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 29856,
+    "stars": 29857,
     "updated_at": "2026-08-28T02:42:12Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -284,7 +383,7 @@
     "language": "TypeScript",
     "name": "bitcloud-ai/Bittune",
     "stars": 4,
-    "updated_at": "2026-08-28T04:29:45Z",
+    "updated_at": "2026-08-28T04:34:02Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-28T00:00:35Z",
     "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-28T01:19:10Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 128,
-    "updated_at": "2026-08-27T23:35:33Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-27T23:31:31Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-27T23:27:49Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-27T23:23:13Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-28T03:22:05Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Zero-dependency LLM agent runtime \u2014 tool use, MCP, sandboxed self-written tools, checkpoint/resume, approval gates, bi-t",
-    "id": "laazizi/autoagent",
-    "language": "Python",
-    "name": "laazizi/autoagent",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:16:57Z",
-    "url": "https://github.com/laazizi/autoagent"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-27T22:46:40Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:18:01Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
-  },
-  {
-    "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
-    "id": "fatihkutuk/neo",
-    "language": "Python",
-    "name": "fatihkutuk/neo",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:17:16Z",
-    "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
-    "description": "Build structured prompts with reference media for MiniMax H3 video model in ComfyUI.",
-    "id": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "language": "JavaScript",
-    "name": "abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:17:10Z",
-    "url": "https://github.com/abusayeed64548-cpu/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"
   }
 ]
