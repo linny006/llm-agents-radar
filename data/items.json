@@ -1,5 +1,77 @@
 [
   {
+    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 5,
+    "updated_at": "2026-08-28T12:42:28Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
+    "id": "kasparovabi/dsh-studio",
+    "language": "Swift",
+    "name": "kasparovabi/dsh-studio",
+    "stars": 1,
+    "updated_at": "2026-08-28T12:42:12Z",
+    "url": "https://github.com/kasparovabi/dsh-studio"
+  },
+  {
+    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
+    "id": "ZhenHuangLab/pi-better-explore",
+    "language": "TypeScript",
+    "name": "ZhenHuangLab/pi-better-explore",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:43:42Z",
+    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
+  },
+  {
+    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
+    "id": "ColinJoyL/blender-vision-agent",
+    "language": "Python",
+    "name": "ColinJoyL/blender-vision-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:37:59Z",
+    "url": "https://github.com/ColinJoyL/blender-vision-agent"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T12:35:52Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:34:41Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 16,
+    "updated_at": "2026-08-28T12:33:01Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Drop-in MCP server that records real per-session agent cost/token/tool metrics and renders a Context Window Explorer ove",
+    "id": "sohaibsohail98/mcp-context-inspector",
+    "language": "Python",
+    "name": "sohaibsohail98/mcp-context-inspector",
+    "stars": 2,
+    "updated_at": "2026-08-28T12:31:33Z",
+    "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
+  },
+  {
     "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
     "id": "Hyr1sky/TheGrandQuiz",
     "language": "Python",
@@ -19,12 +91,12 @@
   },
   {
     "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
-    "id": "ColinJoyL/blender-vision-agent",
+    "id": "colinjoylobo/blender-vision-agent",
     "language": "Python",
-    "name": "ColinJoyL/blender-vision-agent",
+    "name": "colinjoylobo/blender-vision-agent",
     "stars": 0,
-    "updated_at": "2026-08-28T12:27:37Z",
-    "url": "https://github.com/ColinJoyL/blender-vision-agent"
+    "updated_at": "2026-08-28T12:41:10Z",
+    "url": "https://github.com/colinjoylobo/blender-vision-agent"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T12:24:17Z",
+    "updated_at": "2026-08-28T12:45:16Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -68,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T12:28:33Z",
+    "updated_at": "2026-08-28T12:39:33Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -113,7 +185,7 @@
     "language": "TypeScript",
     "name": "Dominic789654/awesome-deepseek-harness",
     "stars": 204,
-    "updated_at": "2026-08-28T12:03:33Z",
+    "updated_at": "2026-08-28T12:41:06Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T11:37:34Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T12:27:58Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -333,15 +396,6 @@
     "url": "https://github.com/solakli/wax-digger"
   },
   {
-    "description": "An unofficial native macOS (SwiftUI) client for dsh, the DeepSeek agent harness \u2014 sessions, live trajectory, tool approv",
-    "id": "kasparovabi/dsh-studio",
-    "language": "Swift",
-    "name": "kasparovabi/dsh-studio",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:43:22Z",
-    "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:17:57Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "The Most Unique DeepSeek Client.",
-    "id": "chickadeeer/abyssal",
-    "language": "Python",
-    "name": "chickadeeer/abyssal",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:00:20Z",
-    "url": "https://github.com/chickadeeer/abyssal"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:10:16Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-28T08:57:48Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
-    "id": "jiangxt2/Yamazaki-incubator",
-    "language": "\u2014",
-    "name": "jiangxt2/Yamazaki-incubator",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:50:35Z",
-    "url": "https://github.com/jiangxt2/Yamazaki-incubator"
-  },
-  {
-    "description": "Partner \ud83e\udd1d Your AI Research Companion. \"What have you been doing?\"",
-    "id": "zty522/partner",
-    "language": "Python",
-    "name": "zty522/partner",
-    "stars": 5,
-    "updated_at": "2026-08-28T08:38:38Z",
-    "url": "https://github.com/zty522/partner"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:32:55Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   }
 ]
