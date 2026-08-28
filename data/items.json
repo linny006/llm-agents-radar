@@ -1,5 +1,77 @@
 [
   {
+    "description": "The Most Unique DeepSeek Client.",
+    "id": "chickadeeer/abyssal",
+    "language": "Python",
+    "name": "chickadeeer/abyssal",
+    "stars": 0,
+    "updated_at": "2026-08-28T09:00:11Z",
+    "url": "https://github.com/chickadeeer/abyssal"
+  },
+  {
+    "description": "WAIT \u2014 Wiki Aware Intelligent Tool: an agent helping Wikipedia editors navigate policy, templates, and small JS/CSS/Lua ",
+    "id": "schiste/wiki-assistant",
+    "language": "Python",
+    "name": "schiste/wiki-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-28T08:57:06Z",
+    "url": "https://github.com/schiste/wiki-assistant"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-08-28T08:58:57Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 4,
+    "updated_at": "2026-08-28T08:57:48Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 21,
+    "updated_at": "2026-08-28T08:51:48Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 429,
+    "updated_at": "2026-08-28T08:51:16Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
+    "id": "jiangxt2/Yamazaki-incubator",
+    "language": "\u2014",
+    "name": "jiangxt2/Yamazaki-incubator",
+    "stars": 0,
+    "updated_at": "2026-08-28T08:50:35Z",
+    "url": "https://github.com/jiangxt2/Yamazaki-incubator"
+  },
+  {
+    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
+    "id": "BiBoyang/ForgeLoopTUI",
+    "language": "Swift",
+    "name": "BiBoyang/ForgeLoopTUI",
+    "stars": 1,
+    "updated_at": "2026-08-28T08:43:37Z",
+    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
+  },
+  {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
     "id": "SuperdeMan/cockpit-agent",
     "language": "Python",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 427,
-    "updated_at": "2026-08-28T08:44:42Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
@@ -50,7 +113,7 @@
     "language": "Swift",
     "name": "gerardogrisolini/ZenCODE",
     "stars": 4,
-    "updated_at": "2026-08-28T08:34:59Z",
+    "updated_at": "2026-08-28T08:54:58Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
-    "description": "WAIT \u2014 Wiki Aware Intelligent Tool: an agent helping Wikipedia editors navigate policy, templates, and small JS/CSS/Lua ",
-    "id": "schiste/wiki-assistant",
-    "language": "Shell",
-    "name": "schiste/wiki-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:23:10Z",
-    "url": "https://github.com/schiste/wiki-assistant"
-  },
-  {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -117,15 +171,6 @@
     "url": "https://github.com/mystxcal/flourite"
   },
   {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 21,
-    "updated_at": "2026-08-28T08:19:01Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
     "id": "wq19901103wq/wechat-mac-rpa",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 87,
     "updated_at": "2026-08-28T08:15:42Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:43:37Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -189,15 +225,6 @@
     "url": "https://github.com/fatihkutuk/neo"
   },
   {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-28T07:44:17Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
     "description": "Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate",
     "id": "wusuiling-if/mini-code-agent-langgraph",
     "language": "Python",
@@ -232,15 +259,6 @@
     "stars": 15,
     "updated_at": "2026-08-28T07:29:29Z",
     "url": "https://github.com/tk-fantasy/fantasy"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:08:53Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T04:56:23Z",
     "url": "https://github.com/HELLOCODINGTR/AgentForge"
-  },
-  {
-    "description": "Monitor LLM app quality in production with Argus AI: scoring groundedness, accuracy, reliability, variance, cost, and sa",
-    "id": "strobilevitellus470/argus-ai",
-    "language": "Python",
-    "name": "strobilevitellus470/argus-ai",
-    "stars": 1,
-    "updated_at": "2026-08-28T04:55:40Z",
-    "url": "https://github.com/strobilevitellus470/argus-ai"
-  },
-  {
-    "description": "Develop DSP tools and prototypes quickly with DSPLab\u2019s environment, combining optimized code, safe testing, and embedded",
-    "id": "juandavidru4641/dsplab",
-    "language": "JavaScript",
-    "name": "juandavidru4641/dsplab",
-    "stars": 0,
-    "updated_at": "2026-08-28T04:53:16Z",
-    "url": "https://github.com/juandavidru4641/dsplab"
   }
 ]
