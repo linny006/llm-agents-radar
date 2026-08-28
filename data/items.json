@@ -1,5 +1,14 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-28T21:33:59Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -54,15 +63,6 @@
     "url": "https://github.com/gptme/gptme"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-28T20:52:00Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
     "id": "kriss-b/llm-iso27001",
     "language": "\u2014",
@@ -86,7 +86,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T21:10:10Z",
+    "updated_at": "2026-08-28T21:44:51Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T21:15:32Z",
+    "updated_at": "2026-08-28T21:44:57Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
