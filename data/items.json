@@ -1,5 +1,41 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T13:33:45Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 491,
+    "updated_at": "2026-08-28T13:29:57Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:28:17Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
+    "id": "ColinJoyL/blender-vision-agent",
+    "language": "Python",
+    "name": "ColinJoyL/blender-vision-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:28:14Z",
+    "url": "https://github.com/ColinJoyL/blender-vision-agent"
+  },
+  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -45,15 +81,6 @@
     "url": "https://github.com/markdr-hue/open-fabrica"
   },
   {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:28:17Z",
-    "url": "https://github.com/Furox-Art/axiomize"
-  },
-  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "Shell",
@@ -97,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T12:42:12Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
-    "id": "ColinJoyL/blender-vision-agent",
-    "language": "Python",
-    "name": "ColinJoyL/blender-vision-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:28:14Z",
-    "url": "https://github.com/ColinJoyL/blender-vision-agent"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T13:26:33Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -439,14 +448,5 @@
     "stars": 922,
     "updated_at": "2026-08-28T09:35:01Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
-    "id": "Rekin226/Agronaut",
-    "language": "Python",
-    "name": "Rekin226/Agronaut",
-    "stars": 3,
-    "updated_at": "2026-08-28T09:22:59Z",
-    "url": "https://github.com/Rekin226/Agronaut"
   }
 ]
