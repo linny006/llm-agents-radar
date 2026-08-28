@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "malevrigns/atlas-agent-control-plane",
     "stars": 58,
-    "updated_at": "2026-08-28T01:28:12Z",
+    "updated_at": "2026-08-28T01:31:44Z",
     "url": "https://github.com/malevrigns/atlas-agent-control-plane"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 0,
+    "updated_at": "2026-08-28T01:31:24Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T01:35:45Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Starter \u2014 modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#).",
@@ -72,15 +90,6 @@
     "url": "https://github.com/Maximilian-Winter/ToolAgents"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T00:56:25Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "Living technical memory for AI agents \u2014 official SoluCortex MCP server",
     "id": "soluai-spa/solucortex-mcp",
     "language": "Python",
@@ -131,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4400,
-    "updated_at": "2026-08-28T01:19:14Z",
+    "updated_at": "2026-08-28T01:33:19Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T21:53:13Z",
     "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-08-27T21:50:39Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
