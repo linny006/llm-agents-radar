@@ -1,5 +1,41 @@
 [
   {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16442,
+    "updated_at": "2026-08-28T15:07:35Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 803,
+    "updated_at": "2026-08-28T15:00:59Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "Sort your Downloads by project, not file type \u2014 with one-command undo. No delete, ever.",
+    "id": "verniceunleaded6135/tidy-undo",
+    "language": "Python",
+    "name": "verniceunleaded6135/tidy-undo",
+    "stars": 0,
+    "updated_at": "2026-08-28T14:59:00Z",
+    "url": "https://github.com/verniceunleaded6135/tidy-undo"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-28T14:56:17Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
     "description": "Build your own agent with ruby.",
     "id": "general-intelligence-systems/brute",
     "language": "Ruby",
@@ -22,7 +58,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 440,
+    "stars": 442,
     "updated_at": "2026-08-28T14:53:21Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-28T14:51:24Z",
+    "updated_at": "2026-08-28T15:13:41Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T14:54:42Z",
+    "updated_at": "2026-08-28T15:12:04Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T14:40:17Z",
+    "updated_at": "2026-08-28T15:06:19Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "expectedparrot/edsl",
     "stars": 491,
-    "updated_at": "2026-08-28T13:29:57Z",
+    "updated_at": "2026-08-28T15:11:40Z",
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T14:46:30Z",
+    "updated_at": "2026-08-28T15:08:39Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T10:52:44Z",
     "url": "https://github.com/cynthia174/Operation-Metrics-Skill"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-28T11:20:54Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Agente aut\u00f3nomo para LALIGA Fantasy: lee el juego, decide y act\u00faa (pujas, ventas, clausulazos, alineaci\u00f3n). Python stdli",
-    "id": "jonortega20/fantasybot",
-    "language": "Python",
-    "name": "jonortega20/fantasybot",
-    "stars": 20,
-    "updated_at": "2026-08-28T10:46:52Z",
-    "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-08-28T10:23:17Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "A bounded math reasoning agent with Lean 4 verification \u2014 conjecture, proof, verified conclusion",
-    "id": "conjecta/conjecta",
-    "language": "Python",
-    "name": "conjecta/conjecta",
-    "stars": 4,
-    "updated_at": "2026-08-28T10:17:08Z",
-    "url": "https://github.com/conjecta/conjecta"
   }
 ]
