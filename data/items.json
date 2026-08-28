@@ -1,12 +1,48 @@
 [
   {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
+    "description": "Open-source autonomous AI pentester that proves every exploit \u2014 87/113 on OWASP Juice Shop, black-box, on a budget model",
+    "id": "the-priest/PriestsBasilisk",
     "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4401,
-    "updated_at": "2026-08-28T17:57:56Z",
-    "url": "https://github.com/gptme/gptme"
+    "name": "the-priest/PriestsBasilisk",
+    "stars": 3,
+    "updated_at": "2026-08-28T18:13:58Z",
+    "url": "https://github.com/the-priest/PriestsBasilisk"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7037,
+    "updated_at": "2026-08-28T18:11:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
+    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "language": "Python",
+    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:10:01Z",
+    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
+  },
+  {
+    "description": "Air-gapped SAR intelligence assistant. Detects vessels in Sentinel-1 radar imagery, correlates them with AIS in space an",
+    "id": "lunasilvestre/nightglass",
+    "language": "Python",
+    "name": "lunasilvestre/nightglass",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:06:34Z",
+    "url": "https://github.com/lunasilvestre/nightglass"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-28T18:05:27Z",
+    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Build your own agent with ruby.",
@@ -14,8 +50,44 @@
     "language": "Ruby",
     "name": "general-intelligence-systems/brute",
     "stars": 5,
-    "updated_at": "2026-08-28T17:51:53Z",
+    "updated_at": "2026-08-28T18:03:54Z",
     "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
+    "description": "Agent Harness \u5b66\u4e60\u6307\u5357\u4e0e\u9762\u8bd5\u9898\u5e93 \u2014 \u96f6\u57fa\u7840\u5230\u7cfb\u7edf\u7406\u89e3\uff0c73 \u5f20\u56fe\u89e3 + 37 \u9053\u9898 + Pi/dsh \u67b6\u6784\u6df1\u6f5c\uff08\u4e2d\u6587\uff09",
+    "id": "KimGLee/agent-harness-interview",
+    "language": "\u2014",
+    "name": "KimGLee/agent-harness-interview",
+    "stars": 1,
+    "updated_at": "2026-08-28T18:03:30Z",
+    "url": "https://github.com/KimGLee/agent-harness-interview"
+  },
+  {
+    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T17:59:40Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-28T17:58:43Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4401,
+    "updated_at": "2026-08-28T18:12:05Z",
+    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
@@ -43,15 +115,6 @@
     "stars": 33,
     "updated_at": "2026-08-28T17:47:34Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "\u57fa\u4e8e LLM \u7684\u7aef\u5230\u7aef\u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u5373\u53ef\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\u751f\u6210\uff0c\u652f\u6301\u672c\u5730\u3001Docker \u4e0e\u4e91\u7aef\u90e8\u7f72\u3002",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:59:40Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -198,15 +261,6 @@
     "url": "https://github.com/tessellated-statisticalcommission243/deep-research-skill"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-28T17:58:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Build autonomous voice agents with Next.js, React, Vapi, ElevenLabs, and Gemini for natural, real-time conversations",
     "id": "chadwickhyperboloidal943/knowl",
     "language": "TypeScript",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:25:02Z",
     "url": "https://github.com/chadwickhyperboloidal943/knowl"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7037,
-    "updated_at": "2026-08-28T17:24:53Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m",
@@ -277,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:21:53Z",
     "url": "https://github.com/Tonyx79/clov-ai"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:21:29Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
   },
   {
     "description": "Deliver daily Chinese AI news summaries by filtering top global tech blog articles into concise, valuable insights for q",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T16:52:06Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-28T16:42:40Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "The living interface for AI agents \u2014 a React + Vite UI that streams an agent's reasoning, tool calls, and to-do list liv",
-    "id": "bigduu/Lotus",
-    "language": "TypeScript",
-    "name": "bigduu/Lotus",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:34:43Z",
-    "url": "https://github.com/bigduu/Lotus"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 3,
-    "updated_at": "2026-08-28T17:15:52Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Self-contained pwn/rev CTF solving kit for Claude and Codex \u2014 tools, doctrine, knowledge, and automated analysis workflo",
-    "id": "b0nsu/CTF-Rat",
-    "language": "Python",
-    "name": "b0nsu/CTF-Rat",
-    "stars": 2,
-    "updated_at": "2026-08-28T17:55:02Z",
-    "url": "https://github.com/b0nsu/CTF-Rat"
   }
 ]
