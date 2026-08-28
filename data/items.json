@@ -1,5 +1,50 @@
 [
   {
+    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
+    "id": "jiangxt2/Yamazaki-incubator",
+    "language": "\u2014",
+    "name": "jiangxt2/Yamazaki-incubator",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:58:05Z",
+    "url": "https://github.com/jiangxt2/Yamazaki-incubator"
+  },
+  {
+    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
+    "id": "AdrianDonohoe/5G_PCAP",
+    "language": "Python",
+    "name": "AdrianDonohoe/5G_PCAP",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:57:59Z",
+    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-08-28T16:56:33Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-28T16:52:47Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:52:06Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -36,21 +81,12 @@
     "url": "https://github.com/bigduu/Lotus"
   },
   {
-    "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
-    "id": "AdrianDonohoe/5G_PCAP",
-    "language": "Python",
-    "name": "AdrianDonohoe/5G_PCAP",
-    "stars": 1,
-    "updated_at": "2026-08-28T16:34:11Z",
-    "url": "https://github.com/AdrianDonohoe/5G_PCAP"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-28T16:33:27Z",
+    "updated_at": "2026-08-28T16:57:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -68,7 +104,7 @@
     "language": "Python",
     "name": "b0nsu/CTF-Rat",
     "stars": 2,
-    "updated_at": "2026-08-28T16:41:25Z",
+    "updated_at": "2026-08-28T16:59:28Z",
     "url": "https://github.com/b0nsu/CTF-Rat"
   },
   {
@@ -88,6 +124,15 @@
     "stars": 3,
     "updated_at": "2026-08-28T16:23:20Z",
     "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 443,
+    "updated_at": "2026-08-28T16:23:01Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -115,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T16:14:30Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
-    "id": "Maximilian-Winter/ToolAgents",
-    "language": "Python",
-    "name": "Maximilian-Winter/ToolAgents",
-    "stars": 38,
-    "updated_at": "2026-08-28T16:09:20Z",
-    "url": "https://github.com/Maximilian-Winter/ToolAgents"
-  },
-  {
-    "description": "Incubating a governed, evidence-driven AIOps control plane for ClickHouse and Apache Doris.",
-    "id": "jiangxt2/Yamazaki-incubator",
-    "language": "\u2014",
-    "name": "jiangxt2/Yamazaki-incubator",
-    "stars": 0,
-    "updated_at": "2026-08-28T16:39:04Z",
-    "url": "https://github.com/jiangxt2/Yamazaki-incubator"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "Om-Khode/TENKA",
     "stars": 7,
-    "updated_at": "2026-08-28T16:19:34Z",
+    "updated_at": "2026-08-28T16:52:18Z",
     "url": "https://github.com/Om-Khode/TENKA"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T16:29:34Z",
+    "updated_at": "2026-08-28T16:47:23Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T14:55:47Z",
     "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 442,
-    "updated_at": "2026-08-28T16:23:01Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T12:31:33Z",
     "url": "https://github.com/sohaibsohail98/mcp-context-inspector"
-  },
-  {
-    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
-    "id": "Hyr1sky/TheGrandQuiz",
-    "language": "Python",
-    "name": "Hyr1sky/TheGrandQuiz",
-    "stars": 33,
-    "updated_at": "2026-08-28T12:29:31Z",
-    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
-  },
-  {
-    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
-    "id": "colinjoylobo/blender-vision-agent",
-    "language": "Python",
-    "name": "colinjoylobo/blender-vision-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:41:10Z",
-    "url": "https://github.com/colinjoylobo/blender-vision-agent"
   }
 ]
