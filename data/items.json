@@ -1,12 +1,66 @@
 [
   {
+    "description": "Build your own agent with ruby.",
+    "id": "general-intelligence-systems/brute",
+    "language": "Ruby",
+    "name": "general-intelligence-systems/brute",
+    "stars": 5,
+    "updated_at": "2026-08-28T13:27:28Z",
+    "url": "https://github.com/general-intelligence-systems/brute"
+  },
+  {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
     "id": "d3stiny-io/aulthium",
     "language": "Shell",
     "name": "d3stiny-io/aulthium",
     "stars": 5,
-    "updated_at": "2026-08-28T13:10:02Z",
+    "updated_at": "2026-08-28T13:25:34Z",
     "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
+    "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
+    "id": "Maximilian-Winter/ToolAgents",
+    "language": "Python",
+    "name": "Maximilian-Winter/ToolAgents",
+    "stars": 38,
+    "updated_at": "2026-08-28T13:25:00Z",
+    "url": "https://github.com/Maximilian-Winter/ToolAgents"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
+    "id": "SuperdeMan/cockpit-agent",
+    "language": "Python",
+    "name": "SuperdeMan/cockpit-agent",
+    "stars": 14,
+    "updated_at": "2026-08-28T13:22:03Z",
+    "url": "https://github.com/SuperdeMan/cockpit-agent"
+  },
+  {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 1,
+    "updated_at": "2026-08-28T13:18:24Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
+    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
+    "id": "Furox-Art/axiomize",
+    "language": "Python",
+    "name": "Furox-Art/axiomize",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:28:17Z",
+    "url": "https://github.com/Furox-Art/axiomize"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "Shell",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 1,
+    "updated_at": "2026-08-28T12:59:08Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T13:09:25Z",
+    "updated_at": "2026-08-28T13:23:54Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "ColinJoyL/blender-vision-agent",
     "stars": 0,
-    "updated_at": "2026-08-28T12:37:59Z",
+    "updated_at": "2026-08-28T13:28:14Z",
     "url": "https://github.com/ColinJoyL/blender-vision-agent"
   },
   {
@@ -59,17 +113,8 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T13:00:33Z",
+    "updated_at": "2026-08-28T13:26:33Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "AI agent skill that turns any idea into a rigorous mathematical model: decomposition, parameter tables, multi-perspectiv",
-    "id": "Furox-Art/axiomize",
-    "language": "Python",
-    "name": "Furox-Art/axiomize",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:34:41Z",
-    "url": "https://github.com/Furox-Art/axiomize"
   },
   {
     "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T13:08:07Z",
+    "updated_at": "2026-08-28T13:27:41Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T12:12:35Z",
     "url": "https://github.com/Wolido/async-subagent-isolation"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
-    "id": "SuperdeMan/cockpit-agent",
-    "language": "Python",
-    "name": "SuperdeMan/cockpit-agent",
-    "stars": 14,
-    "updated_at": "2026-08-28T12:11:02Z",
-    "url": "https://github.com/SuperdeMan/cockpit-agent"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -270,15 +306,6 @@
     "url": "https://github.com/ravisinghrajput95/kubewhy"
   },
   {
-    "description": "Build your own agent with ruby.",
-    "id": "general-intelligence-systems/brute",
-    "language": "Ruby",
-    "name": "general-intelligence-systems/brute",
-    "stars": 5,
-    "updated_at": "2026-08-28T11:37:34Z",
-    "url": "https://github.com/general-intelligence-systems/brute"
-  },
-  {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
     "id": "hsaghir/looplet",
     "language": "Python",
@@ -331,15 +358,6 @@
     "stars": 20,
     "updated_at": "2026-08-28T10:46:52Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "Shell",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:59:08Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-28T09:22:59Z",
     "url": "https://github.com/Rekin226/Agronaut"
-  },
-  {
-    "description": "Lightweight Swift terminal UI library for streaming AI transcripts with in-place updates and tool placeholders.",
-    "id": "BiBoyang/ForgeLoopTUI",
-    "language": "Swift",
-    "name": "BiBoyang/ForgeLoopTUI",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:22:57Z",
-    "url": "https://github.com/BiBoyang/ForgeLoopTUI"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1523,
-    "updated_at": "2026-08-28T09:14:42Z",
-    "url": "https://github.com/Mirascope/mirascope"
   }
 ]
