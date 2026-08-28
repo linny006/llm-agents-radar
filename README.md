@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 11:15 UTC
+> ⏰ Last updated: 2026-08-28 11:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 2 | [general-intelligence-systems/brute](https://github.com/general-intelligence-systems/brute) | 5 | Ruby | 2026-08-28 | Build your own agent with ruby. |
-| 3 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-08-28 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 4 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-28 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
-| 5 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-28 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 1 | [Cyrax321/CONTINUUM](https://github.com/Cyrax321/CONTINUUM) | 27 | Python | 2026-08-28 | CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id |
+| 2 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 6 | Python | 2026-08-28 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 3 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 4 | [general-intelligence-systems/brute](https://github.com/general-intelligence-systems/brute) | 5 | Ruby | 2026-08-28 | Build your own agent with ruby. |
+| 5 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-08-28 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 6 | [ljchang/mecha](https://github.com/ljchang/mecha) | 6 | Rust | 2026-08-28 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
 | 7 | [neopen/story-shot-agent](https://github.com/neopen/story-shot-agent) | 153 | Python | 2026-08-28 | 剧本分镜工具智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt \| 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词 |
 | 8 | [cynthia174/Operation-Metrics-Skill](https://github.com/cynthia174/Operation-Metrics-Skill) | 0 | Python | 2026-08-28 | 一个数据分析skill，输入经营数据excel表格，即可根据预设的规则引擎事实，由通用agent输出规范的经营分析报告word文档。本技能没有服务端组件，是一个本地 Python CLI，由 agent 在工作目录中直接调用。 |

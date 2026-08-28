@@ -1,11 +1,29 @@
 [
   {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T11:27:03Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 6,
+    "updated_at": "2026-08-28T11:25:35Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T11:12:03Z",
+    "updated_at": "2026-08-28T11:16:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -18,15 +36,6 @@
     "url": "https://github.com/general-intelligence-systems/brute"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 6,
-    "updated_at": "2026-08-28T11:10:46Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
@@ -36,21 +45,12 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T11:15:13Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T11:10:11Z",
+    "updated_at": "2026-08-28T11:28:04Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -59,7 +59,7 @@
     "language": "Python",
     "name": "neopen/story-shot-agent",
     "stars": 153,
-    "updated_at": "2026-08-28T11:11:01Z",
+    "updated_at": "2026-08-28T11:23:27Z",
     "url": "https://github.com/neopen/story-shot-agent"
   },
   {
@@ -77,7 +77,7 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-28T10:51:27Z",
+    "updated_at": "2026-08-28T11:20:54Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
