@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 06:45 UTC
+> ⏰ Last updated: 2026-08-28 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-28 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
-| 2 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 3 | [d3stiny-io/aulthium](https://github.com/d3stiny-io/aulthium) | 5 | Shell | 2026-08-28 | Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command. |
-| 4 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 417 | JavaScript | 2026-08-28 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 5 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-28 | A productive AI coworker that learns, self-improves, and ships work. |
-| 6 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 3 | Python | 2026-08-28 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
-| 7 | [bitcloud-ai/Bittune](https://github.com/bitcloud-ai/Bittune) | 4 | TypeScript | 2026-08-28 | Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a |
-| 8 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-28 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 1 | [bitcloud-ai/Bittune](https://github.com/bitcloud-ai/Bittune) | 4 | TypeScript | 2026-08-28 | Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a |
+| 2 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 418 | JavaScript | 2026-08-28 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 3 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 13 | Go | 2026-08-28 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 4 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 5 | Shell | 2026-08-28 | Bodhi AI — a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti |
+| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 6 | [d3stiny-io/aulthium](https://github.com/d3stiny-io/aulthium) | 5 | Shell | 2026-08-28 | Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command. |
+| 7 | [tomcounsell/ai](https://github.com/tomcounsell/ai) | 22 | Python | 2026-08-28 | A productive AI coworker that learns, self-improves, and ships work. |
+| 8 | [wusuiling-if/mini-code-agent-langgraph](https://github.com/wusuiling-if/mini-code-agent-langgraph) | 3 | Python | 2026-08-28 | Inspectable LangGraph coding agent with verified patches, resumable trajectories, sandboxed tools, and HMAC-authenticate |
 | 9 | [rsalmn/ExtremeRouter](https://github.com/rsalmn/ExtremeRouter) | 25 | JavaScript | 2026-08-28 | Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies  |
 | 10 | [cdavid817/agent-book](https://github.com/cdavid817/agent-book) | 9 | Python | 2026-08-28 | 《企业级 Agent 从入门到专家（2026版）》——从单 Agent 核心机制到多 Agent 与企业落地的工程化实战教程，配套可运行贯穿项目与 CI 验证门禁。 |
 | 11 | [forwaryan/rumor-checking](https://github.com/forwaryan/rumor-checking) | 0 | Python | 2026-08-28 | 带执行过程可视化的中文谣言核查:拆原子事实、多源并行检索、逐条判真假,全程流式可观测 |

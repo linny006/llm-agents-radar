@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 4,
+    "updated_at": "2026-08-28T06:58:12Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 418,
+    "updated_at": "2026-08-28T06:50:18Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 13,
+    "updated_at": "2026-08-28T06:48:09Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T06:41:36Z",
+    "updated_at": "2026-08-28T07:00:00Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T06:38:58Z",
     "url": "https://github.com/d3stiny-io/aulthium"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 417,
-    "updated_at": "2026-08-28T06:33:50Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -52,24 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-28T06:33:03Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 4,
-    "updated_at": "2026-08-28T06:25:17Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 13,
-    "updated_at": "2026-08-28T06:23:41Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Enchant Version of 9Router. 304+ Providers (API-key, OAuth, free-tier, and 39 web-cookie providers), 6 combo strategies ",
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 16,
-    "updated_at": "2026-08-28T06:15:56Z",
+    "updated_at": "2026-08-28T06:59:25Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
