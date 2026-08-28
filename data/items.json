@@ -1,5 +1,23 @@
 [
   {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-28T12:59:21Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
+    "id": "ZhenHuangLab/pi-better-explore",
+    "language": "TypeScript",
+    "name": "ZhenHuangLab/pi-better-explore",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:43:42Z",
+    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
+  },
+  {
     "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
     "id": "bigduu/Zenith",
     "language": "Shell",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T12:42:12Z",
     "url": "https://github.com/kasparovabi/dsh-studio"
-  },
-  {
-    "description": "Tool-boundary enforcement for pi: routes codebase exploration onto bounded search and read tools, keeping the prompt-cac",
-    "id": "ZhenHuangLab/pi-better-explore",
-    "language": "TypeScript",
-    "name": "ZhenHuangLab/pi-better-explore",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:43:42Z",
-    "url": "https://github.com/ZhenHuangLab/pi-better-explore"
   },
   {
     "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
@@ -115,15 +124,6 @@
     "stars": 18,
     "updated_at": "2026-08-28T12:18:41Z",
     "url": "https://github.com/wangyuahn/nori-code"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-28T12:45:16Z",
-    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -324,6 +324,15 @@
     "url": "https://github.com/jonortega20/fantasybot"
   },
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "Shell",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:59:08Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
     "id": "codex-mohan/spectra",
     "language": "TypeScript",
@@ -356,7 +365,7 @@
     "language": "Shell",
     "name": "d3stiny-io/aulthium",
     "stars": 5,
-    "updated_at": "2026-08-28T10:08:56Z",
+    "updated_at": "2026-08-28T12:59:45Z",
     "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1523,
     "updated_at": "2026-08-28T09:14:42Z",
     "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:17:57Z",
-    "url": "https://github.com/citizenhicks/mobius"
   }
 ]
