@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
+    "id": "Canyon-Li/AuditronClaw",
+    "language": "Python",
+    "name": "Canyon-Li/AuditronClaw",
+    "stars": 2,
+    "updated_at": "2026-08-28T23:12:20Z",
+    "url": "https://github.com/Canyon-Li/AuditronClaw"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7039,
+    "updated_at": "2026-08-28T23:11:54Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -97,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T21:33:59Z",
     "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 7039,
-    "updated_at": "2026-08-28T21:24:35Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "5G control-plane capture analysis: decode NGAP/NAS (N2), PFCP (N4), and SBI (HTTP/2) captures, map per-UE flows, compute",
@@ -214,15 +223,6 @@
     "stars": 16,
     "updated_at": "2026-08-28T19:45:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u900f\u660e\u53ef\u5ba1\u8ba1\u7684\u672c\u5730\u667a\u80fd\u4f53\u7ec8\u7aef\uff1a\u5bf9\u5f00\u6e90 agent \u6846\u67b6\u505a\u5b89\u5168\u5ba1\u8ba1\u4e0e\u52a0\u56fa\uff08RCE/\u6c99\u76d2\u7ed5\u8fc7/\u6ce8\u5165\uff09\uff0c\u5e76\u4ee5 50 \u6761\u6ce8\u5165\u57fa\u51c6 \u00d7 37 \u6761\u80fd\u529b\u57fa\u51c6\u53cc\u7ef4\u5ea6\u91cf\u5b89\u5168\u8fb9\u754c",
-    "id": "Canyon-Li/AuditronClaw",
-    "language": "Python",
-    "name": "Canyon-Li/AuditronClaw",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:10:26Z",
-    "url": "https://github.com/Canyon-Li/AuditronClaw"
   },
   {
     "description": "The agent harness that makes small local models finish hard tasks \u2014 and prove it. Done is enforced by the engine, not th",
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T22:46:00Z",
+    "updated_at": "2026-08-28T23:15:05Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
