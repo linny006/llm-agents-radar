@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 22,
-    "updated_at": "2026-08-28T10:13:14Z",
+    "updated_at": "2026-08-28T10:26:08Z",
     "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
+    "id": "codex-mohan/spectra",
+    "language": "TypeScript",
+    "name": "codex-mohan/spectra",
+    "stars": 1,
+    "updated_at": "2026-08-28T10:23:17Z",
+    "url": "https://github.com/codex-mohan/spectra"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T10:25:33Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A bounded math reasoning agent with Lean 4 verification \u2014 conjecture, proof, verified conclusion",
+    "id": "conjecta/conjecta",
+    "language": "Python",
+    "name": "conjecta/conjecta",
+    "stars": 4,
+    "updated_at": "2026-08-28T10:17:08Z",
+    "url": "https://github.com/conjecta/conjecta"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 42,
+    "updated_at": "2026-08-28T10:14:54Z",
+    "url": "https://github.com/sky-valley/pi"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -27,13 +63,13 @@
     "url": "https://github.com/d3stiny-io/aulthium"
   },
   {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
     "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T10:10:17Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T10:08:06Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
@@ -70,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T09:57:06Z",
     "url": "https://github.com/thehope2k/minimalist-agent"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 42,
-    "updated_at": "2026-08-28T10:14:54Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T10:08:06Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "WAIT \u2014 Wiki Aware Intelligent Tool: an agent helping Wikipedia editors navigate policy, templates, and small JS/CSS/Lua ",
@@ -310,7 +328,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 7036,
+    "stars": 7037,
     "updated_at": "2026-08-28T08:01:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -322,15 +340,6 @@
     "stars": 6,
     "updated_at": "2026-08-28T07:55:49Z",
     "url": "https://github.com/ZXTLQQ/FactorGPT"
-  },
-  {
-    "description": "A bounded math reasoning agent with Lean 4 verification \u2014 conjecture, proof, verified conclusion",
-    "id": "conjecta/conjecta",
-    "language": "Python",
-    "name": "conjecta/conjecta",
-    "stars": 4,
-    "updated_at": "2026-08-28T07:56:31Z",
-    "url": "https://github.com/conjecta/conjecta"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -439,14 +448,5 @@
     "stars": 50,
     "updated_at": "2026-08-28T05:09:51Z",
     "url": "https://github.com/unohee/kis-agent"
-  },
-  {
-    "description": "Build a crash-consistent Pi coding-agent runtime with durable sessions, causal history, and approval-gated tool mounting",
-    "id": "rugose-learnedprofession58/pi-dsh",
-    "language": "TypeScript",
-    "name": "rugose-learnedprofession58/pi-dsh",
-    "stars": 1,
-    "updated_at": "2026-08-28T05:09:51Z",
-    "url": "https://github.com/rugose-learnedprofession58/pi-dsh"
   }
 ]
