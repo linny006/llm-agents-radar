@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 01:00 UTC
+> ⏰ Last updated: 2026-08-28 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-08-28 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
+| 1 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-28 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
 | 2 | [citizenhicks/mobius](https://github.com/citizenhicks/mobius) | 1 | Rust | 2026-08-28 | möbius is a small, frontend-neutral Rust framework for coding agents.  |
-| 3 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-28 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
-| 4 | [Maximilian-Winter/ToolAgents](https://github.com/Maximilian-Winter/ToolAgents) | 38 | Python | 2026-08-28 | ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and |
-| 5 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
-| 6 | [soluai-spa/solucortex-mcp](https://github.com/soluai-spa/solucortex-mcp) | 0 | Python | 2026-08-28 | Living technical memory for AI agents — official SoluCortex MCP server |
-| 7 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 53 | Python | 2026-08-28 | 🚀 Xenon — Agent Harness for AI coding agents. 证据导向架构 + 7种推理范式 + 执行隔离边界 + SWE-bench 40% 通过率（+6.7pp）。可信、可验证、可评测的 AI Agent  |
-| 8 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 9 | [peitsan/starter](https://github.com/peitsan/starter) | 0 | TypeScript | 2026-08-28 | Starter — modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#). |
-| 10 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-28 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
-| 11 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 205 | TypeScript | 2026-08-28 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
-| 12 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 4 | Python | 2026-08-28 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 3 | [sunnnn2005/data-quality-agent](https://github.com/sunnnn2005/data-quality-agent) | 0 | Python | 2026-08-28 | LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and  |
+| 4 | [rohithkandula19/Ronin](https://github.com/rohithkandula19/Ronin) | 1 | Python | 2026-08-28 | Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq |
+| 5 | [Maximilian-Winter/ToolAgents](https://github.com/Maximilian-Winter/ToolAgents) | 38 | Python | 2026-08-28 | ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and |
+| 6 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 9 | Python | 2026-08-28 | Template for building protoLabs A2A agents on LangGraph — fork me |
+| 7 | [soluai-spa/solucortex-mcp](https://github.com/soluai-spa/solucortex-mcp) | 0 | Python | 2026-08-28 | Living technical memory for AI agents — official SoluCortex MCP server |
+| 8 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 53 | Python | 2026-08-28 | 🚀 Xenon — Agent Harness for AI coding agents. 证据导向架构 + 7种推理范式 + 执行隔离边界 + SWE-bench 40% 通过率（+6.7pp）。可信、可验证、可评测的 AI Agent  |
+| 9 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 1 | HTML | 2026-08-28 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 10 | [peitsan/starter](https://github.com/peitsan/starter) | 0 | TypeScript | 2026-08-28 | Starter — modern Windows startup manager with IO-aware scheduling, CLI, and MCP server (React Native / Node.js / C#). |
+| 11 | [sydches/yuj](https://github.com/sydches/yuj) | 1 | Python | 2026-08-28 | Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L |
+| 12 | [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness) | 205 | TypeScript | 2026-08-28 | A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi |
 | 13 | [gptme/gptme](https://github.com/gptme/gptme) | 4400 | Python | 2026-08-28 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
 | 14 | [Sigmanih/SigmaStudio](https://github.com/Sigmanih/SigmaStudio) | 7 | Python | 2026-08-28 | Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode |
-| 15 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-27 | AI-powered image generation and chat studio |
+| 15 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 3 | TypeScript | 2026-08-28 | AI-powered image generation and chat studio |
 | 16 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 128 | HTML | 2026-08-27 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
 | 17 | [dmirain/OctoForge](https://github.com/dmirain/OctoForge) | 21 | Python | 2026-08-27 | Self-hosted, multi-user agent platform for teams: skills, knowledge and API contracts live in the database and grow at r |
 | 18 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-08-27 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |

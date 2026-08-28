@@ -1,5 +1,23 @@
 [
   {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-28T01:07:46Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-08-28T01:07:10Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -9,21 +27,12 @@
     "url": "https://github.com/sunnnn2005/data-quality-agent"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-08-28T00:58:17Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Masterless, terminal-native coding agent (Claude Code-style: reads, edits, runs code) for Claude, Gemini, Cerebras, Groq",
     "id": "rohithkandula19/Ronin",
     "language": "Python",
     "name": "rohithkandula19/Ronin",
     "stars": 1,
-    "updated_at": "2026-08-28T00:48:34Z",
+    "updated_at": "2026-08-28T01:04:38Z",
     "url": "https://github.com/rohithkandula19/Ronin"
   },
   {
@@ -99,21 +108,12 @@
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
   },
   {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 4,
-    "updated_at": "2026-08-28T00:16:03Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4400,
-    "updated_at": "2026-08-28T01:00:06Z",
+    "updated_at": "2026-08-28T01:03:30Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -131,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 3,
-    "updated_at": "2026-08-27T23:55:23Z",
+    "updated_at": "2026-08-28T01:04:45Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
