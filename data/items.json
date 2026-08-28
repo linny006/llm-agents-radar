@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 425,
+    "updated_at": "2026-08-28T08:12:45Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T08:14:42Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 4,
+    "updated_at": "2026-08-28T08:09:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
+    "id": "Dominic789654/awesome-deepseek-harness",
+    "language": "TypeScript",
+    "name": "Dominic789654/awesome-deepseek-harness",
+    "stars": 204,
+    "updated_at": "2026-08-28T08:04:41Z",
+    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T08:08:20Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7036,
+    "updated_at": "2026-08-28T08:01:12Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\u57fa\u4e8eLLM\u7684\u91cf\u5316\u56e0\u5b50\u5f00\u53d1Agent",
     "id": "ZXTLQQ/FactorGPT",
     "language": "Python",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "wusuiling-if/mini-code-agent-langgraph",
     "stars": 3,
-    "updated_at": "2026-08-28T07:44:19Z",
+    "updated_at": "2026-08-28T08:04:07Z",
     "url": "https://github.com/wusuiling-if/mini-code-agent-langgraph"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T07:33:21Z",
     "url": "https://github.com/gitanshulbisht/k8s-sentinel"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T07:58:03Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
@@ -113,7 +158,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-08-28T07:46:33Z",
+    "updated_at": "2026-08-28T08:08:53Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5700,
-    "updated_at": "2026-08-28T07:15:57Z",
+    "updated_at": "2026-08-28T08:10:42Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 21,
     "updated_at": "2026-08-28T07:04:45Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 423,
-    "updated_at": "2026-08-28T06:50:18Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -225,24 +261,6 @@
     "url": "https://github.com/forwaryan/rumor-checking"
   },
   {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T07:54:31Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Vi",
-    "id": "Dominic789654/awesome-deepseek-harness",
-    "language": "TypeScript",
-    "name": "Dominic789654/awesome-deepseek-harness",
-    "stars": 204,
-    "updated_at": "2026-08-28T06:38:15Z",
-    "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
     "description": "Octomind Agents Registry",
     "id": "Muvon/octomind-tap",
     "language": "Python",
@@ -257,7 +275,7 @@
     "language": "Swift",
     "name": "BiBoyang/ForgeLoopTUI",
     "stars": 1,
-    "updated_at": "2026-08-28T05:57:02Z",
+    "updated_at": "2026-08-28T08:14:32Z",
     "url": "https://github.com/BiBoyang/ForgeLoopTUI"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T04:48:09Z",
     "url": "https://github.com/hichamnes-prog/exforum-auto-poster"
-  },
-  {
-    "description": "\u26a1 Optimize multi-agent orchestration with Agent.cpp, a high-performance C++ inference engine designed solely for Tiny-Mo",
-    "id": "muhzars/Agent.cpp",
-    "language": "C++",
-    "name": "muhzars/Agent.cpp",
-    "stars": 1,
-    "updated_at": "2026-08-28T04:45:24Z",
-    "url": "https://github.com/muhzars/Agent.cpp"
-  },
-  {
-    "description": "\ud83c\udfa5 Control 3D camera angles with ease using ComfyUI-qwenmultiangle, featuring an interactive viewport and formatted promp",
-    "id": "faheela-786/ComfyUI-qwenmultiangle",
-    "language": "\u2014",
-    "name": "faheela-786/ComfyUI-qwenmultiangle",
-    "stars": 2,
-    "updated_at": "2026-08-28T04:42:23Z",
-    "url": "https://github.com/faheela-786/ComfyUI-qwenmultiangle"
   }
 ]
