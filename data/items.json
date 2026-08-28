@@ -1,5 +1,32 @@
 [
   {
+    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 9,
+    "updated_at": "2026-08-28T19:09:26Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
+    "id": "Amaan9136/portable-usb-llm-agent",
+    "language": "Python",
+    "name": "Amaan9136/portable-usb-llm-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:06:28Z",
+    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
+  },
+  {
+    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
+    "id": "kangkukjin/indiebizOS",
+    "language": "Python",
+    "name": "kangkukjin/indiebizOS",
+    "stars": 4,
+    "updated_at": "2026-08-28T19:13:45Z",
+    "url": "https://github.com/kangkukjin/indiebizOS"
+  },
+  {
     "description": "ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and",
     "id": "Maximilian-Winter/ToolAgents",
     "language": "Python",
@@ -23,7 +50,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T18:49:14Z",
+    "updated_at": "2026-08-28T19:06:12Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 27,
     "updated_at": "2026-08-28T18:47:39Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 9,
-    "updated_at": "2026-08-28T18:58:33Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T18:41:39Z",
+    "updated_at": "2026-08-28T19:04:00Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:37:14Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
-    "id": "Amaan9136/portable-usb-llm-agent",
-    "language": "Python",
-    "name": "Amaan9136/portable-usb-llm-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:35:30Z",
-    "url": "https://github.com/Amaan9136/portable-usb-llm-agent"
   },
   {
     "description": "Automate file management and coding tasks in your local directory using small language models.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:14:02Z",
     "url": "https://github.com/UrRafiFirdaus/ComfyUI_FL-HeartMuLa"
-  },
-  {
-    "description": "\ud83e\udd16 Build intelligent assistant apps on Android using AutoGLM for seamless user interactions and enhanced mobile experienc",
-    "id": "hasting323/AutoGLM-For-Android",
-    "language": "Kotlin",
-    "name": "hasting323/AutoGLM-For-Android",
-    "stars": 9,
-    "updated_at": "2026-08-28T17:10:29Z",
-    "url": "https://github.com/hasting323/AutoGLM-For-Android"
   }
 ]
