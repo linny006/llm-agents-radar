@@ -1,12 +1,39 @@
 [
   {
+    "description": "Run Aulthium AI Agent instantly in Termux, Linux, or any terminal with a single command.",
+    "id": "d3stiny-io/aulthium",
+    "language": "Shell",
+    "name": "d3stiny-io/aulthium",
+    "stars": 5,
+    "updated_at": "2026-08-28T22:43:42Z",
+    "url": "https://github.com/d3stiny-io/aulthium"
+  },
+  {
     "description": "Template for building protoLabs A2A agents on LangGraph \u2014 fork me",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 9,
-    "updated_at": "2026-08-28T22:29:42Z",
+    "updated_at": "2026-08-28T22:43:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "An AI-powered EEG classifier that detects emotional states during music listening and curates Spotify playlists grounded",
+    "id": "LukeMainwaring/cortexdj",
+    "language": "Python",
+    "name": "LukeMainwaring/cortexdj",
+    "stars": 2,
+    "updated_at": "2026-08-28T22:39:41Z",
+    "url": "https://github.com/LukeMainwaring/cortexdj"
+  },
+  {
+    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
+    "id": "Cyrax321/CONTINUUM",
+    "language": "Python",
+    "name": "Cyrax321/CONTINUUM",
+    "stars": 27,
+    "updated_at": "2026-08-28T22:33:46Z",
+    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
@@ -104,7 +131,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T21:01:11Z",
+    "updated_at": "2026-08-28T22:41:02Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-08-28T20:11:57Z",
     "url": "https://github.com/honestDS/MonoLight"
-  },
-  {
-    "description": "CONTINUUM: Verifiable semantic recovery for long-running AI agents. Semantic checkpoints (not conversation dumps), an id",
-    "id": "Cyrax321/CONTINUUM",
-    "language": "Python",
-    "name": "Cyrax321/CONTINUUM",
-    "stars": 27,
-    "updated_at": "2026-08-28T20:10:19Z",
-    "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
     "description": "A portable Agent Skill for designing and reviewing digital products through usability, interaction quality, accessibilit",
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 6,
-    "updated_at": "2026-08-28T22:29:49Z",
+    "updated_at": "2026-08-28T22:38:48Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T17:37:14Z",
     "url": "https://github.com/randomvariablewhitepelican129/open_deep_research"
-  },
-  {
-    "description": "Automate file management and coding tasks in your local directory using small language models.",
-    "id": "pruthviraj00007/VibeHarness",
-    "language": "Python",
-    "name": "pruthviraj00007/VibeHarness",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:34:32Z",
-    "url": "https://github.com/pruthviraj00007/VibeHarness"
-  },
-  {
-    "description": "Monitor multiple NVIDIA GPU machines from a single web dashboard to track hardware utility, temperature, and process mem",
-    "id": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "language": "Go",
-    "name": "Respiratorysyncytialviruscoliphage228/GPU-Fleet",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:32:58Z",
-    "url": "https://github.com/Respiratorysyncytialviruscoliphage228/GPU-Fleet"
   }
 ]
