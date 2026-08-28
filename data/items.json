@@ -1,12 +1,66 @@
 [
   {
-    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
-    "id": "Wolido/async-subagent-isolation",
+    "description": "Assessment-driven, local-first learning agent built on an observable Agent Runtime and eval harness\u2014grounded ingestion, ",
+    "id": "Hyr1sky/TheGrandQuiz",
+    "language": "Python",
+    "name": "Hyr1sky/TheGrandQuiz",
+    "stars": 33,
+    "updated_at": "2026-08-28T12:29:31Z",
+    "url": "https://github.com/Hyr1sky/TheGrandQuiz"
+  },
+  {
+    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
+    "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
-    "name": "Wolido/async-subagent-isolation",
-    "stars": 4,
-    "updated_at": "2026-08-28T12:12:35Z",
-    "url": "https://github.com/Wolido/async-subagent-isolation"
+    "name": "node9-ai/node9-proxy",
+    "stars": 209,
+    "updated_at": "2026-08-28T12:27:53Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
+    "id": "ColinJoyL/blender-vision-agent",
+    "language": "Python",
+    "name": "ColinJoyL/blender-vision-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:27:37Z",
+    "url": "https://github.com/ColinJoyL/blender-vision-agent"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-28T12:22:24Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A coding assistant built on persistent multi-agent teams: durable members that discuss, chat, and re-sync continuously \u2014",
+    "id": "wangyuahn/nori-code",
+    "language": "TypeScript",
+    "name": "wangyuahn/nori-code",
+    "stars": 18,
+    "updated_at": "2026-08-28T12:18:41Z",
+    "url": "https://github.com/wangyuahn/nori-code"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 6,
+    "updated_at": "2026-08-28T12:24:17Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 7037,
+    "updated_at": "2026-08-28T12:15:03Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4401,
-    "updated_at": "2026-08-28T12:13:30Z",
+    "updated_at": "2026-08-28T12:28:33Z",
     "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Fix context rot & pollution in long AI agent sessions. Subagents run in isolated processes \u2014 main agent stays read-only.",
+    "id": "Wolido/async-subagent-isolation",
+    "language": "TypeScript",
+    "name": "Wolido/async-subagent-isolation",
+    "stars": 4,
+    "updated_at": "2026-08-28T12:12:35Z",
+    "url": "https://github.com/Wolido/async-subagent-isolation"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u5ea7\u8231\u7684\u4e91\u8fb9\u534f\u540c AI Agent\uff1a\u7aef\u4fa7\u6beb\u79d2\u7ea7\u8f66\u63a7\uff0c\u4e91\u7aef\u58f0\u660e\u5f0f Multi-Agent \u4e0e Skill/DAG \u7f16\u6392\uff0c\u652f\u6301 S2S \u5b9e\u65f6\u8bed\u97f3\u3001\u58f0\u7eb9\u591a\u7528\u6237\u3001\u89c6\u89c9\u4e0e HMI\uff1bLLM \u53ea\u8d1f\u8d23\u7406\u89e3\u4e0e\u89c4\u5212\uff0cVAL \u8d1f\u8d23\u786e\u5b9a\u6027\u5b89\u5168\u6267\u884c\u3002",
@@ -90,15 +153,6 @@
     "url": "https://github.com/sky-valley/pi"
   },
   {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 6,
-    "updated_at": "2026-08-28T11:59:14Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -112,7 +166,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 436,
+    "stars": 437,
     "updated_at": "2026-08-28T11:40:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "Cyrax321/CONTINUUM",
     "stars": 27,
-    "updated_at": "2026-08-28T11:27:03Z",
+    "updated_at": "2026-08-28T12:27:58Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 20,
     "updated_at": "2026-08-28T10:46:52Z",
     "url": "https://github.com/jonortega20/fantasybot"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-08-28T12:11:41Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
@@ -351,15 +396,6 @@
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
-    "description": "Agentic vision-to-3D: a vision-LLM writes Blender Python, renders, verifies against the source image, and iterates.",
-    "id": "ColinJoyL/blender-vision-agent",
-    "language": "Python",
-    "name": "ColinJoyL/blender-vision-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:06:01Z",
-    "url": "https://github.com/ColinJoyL/blender-vision-agent"
-  },
-  {
     "description": "The Most Unique DeepSeek Client.",
     "id": "chickadeeer/abyssal",
     "language": "Python",
@@ -405,15 +441,6 @@
     "url": "https://github.com/zty522/partner"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 4,
-    "updated_at": "2026-08-28T08:54:58Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T08:32:55Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bodhi AI \u2014 a local-first desktop AI agent that does the work, not just chats. This monorepo ties together the Rust runti",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 5,
-    "updated_at": "2026-08-28T08:30:28Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Sync vs fully-async agentic RL on verl: multi-turn GRPO, long-tail rollout profiling, staleness ablations \u2014 quantifying ",
-    "id": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "language": "Python",
-    "name": "ChaoyuWang04/Syncopate_Async_AgenticRL",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:29:44Z",
-    "url": "https://github.com/ChaoyuWang04/Syncopate_Async_AgenticRL"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first AI agent harness & runtime in Rust. Persistent memory, 22 built-in tools, skills, MCP, sub-agents",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 16,
-    "updated_at": "2026-08-28T12:03:04Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
