@@ -1,12 +1,39 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:44:48Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "MVP of an LLM-based investment assistant with RAG",
+    "id": "harthurhenrique/invest-assistant-llm",
+    "language": "Jupyter Notebook",
+    "name": "harthurhenrique/invest-assistant-llm",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:42:31Z",
+    "url": "https://github.com/harthurhenrique/invest-assistant-llm"
+  },
+  {
     "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
     "id": "Ilyat9/Agentalyze",
     "language": "Python",
     "name": "Ilyat9/Agentalyze",
     "stars": 1,
-    "updated_at": "2026-08-29T19:27:43Z",
+    "updated_at": "2026-08-29T19:35:54Z",
     "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:44:19Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-29T18:07:26Z",
+    "updated_at": "2026-08-29T19:43:54Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 27,
     "updated_at": "2026-08-29T17:13:08Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:12:40Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
     "description": "Assistente Virtual Localhosted",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T17:31:23Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "A lightweight artificial life that learns to replace parent-model reasoning with local memory, skills, and routines.",
-    "id": "yo4e/sudachi-life",
-    "language": "Python",
-    "name": "yo4e/sudachi-life",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:17:35Z",
-    "url": "https://github.com/yo4e/sudachi-life"
-  },
-  {
-    "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomou",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 209,
-    "updated_at": "2026-08-29T15:51:26Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
