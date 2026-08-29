@@ -1,5 +1,32 @@
 [
   {
+    "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
+    "id": "islavutin-oss/agentino",
+    "language": "Python",
+    "name": "islavutin-oss/agentino",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:58:24Z",
+    "url": "https://github.com/islavutin-oss/agentino"
+  },
+  {
+    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
+    "id": "dmirain/OctoForge",
+    "language": "Python",
+    "name": "dmirain/OctoForge",
+    "stars": 22,
+    "updated_at": "2026-08-29T19:55:43Z",
+    "url": "https://github.com/dmirain/OctoForge"
+  },
+  {
+    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
+    "id": "watchcat/scout",
+    "language": "Rust",
+    "name": "watchcat/scout",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:53:12Z",
+    "url": "https://github.com/watchcat/scout"
+  },
+  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -7,6 +34,15 @@
     "stars": 0,
     "updated_at": "2026-08-29T19:44:48Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
+    "id": "mehboobali98/job-search-agent",
+    "language": "JavaScript",
+    "name": "mehboobali98/job-search-agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:44:19Z",
+    "url": "https://github.com/mehboobali98/job-search-agent"
   },
   {
     "description": "MVP of an LLM-based investment assistant with RAG",
@@ -27,15 +63,6 @@
     "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
-    "description": "Multi-agent job discovery, independent LLM judging, read-only application-form drafting, and local Excel tracking for Co",
-    "id": "mehboobali98/job-search-agent",
-    "language": "JavaScript",
-    "name": "mehboobali98/job-search-agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:44:19Z",
-    "url": "https://github.com/mehboobali98/job-search-agent"
-  },
-  {
     "description": "LLM tool-calling data quality agent with read-only PostgreSQL, evidence guardrails, traces, evals, FastAPI, Docker, and ",
     "id": "sunnnn2005/data-quality-agent",
     "language": "Python",
@@ -52,24 +79,6 @@
     "stars": 3,
     "updated_at": "2026-08-29T19:23:27Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
-    "id": "dmirain/OctoForge",
-    "language": "Python",
-    "name": "dmirain/OctoForge",
-    "stars": 22,
-    "updated_at": "2026-08-29T19:19:14Z",
-    "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "A Telegram shopping researcher that verifies prices and links instead of inventing them",
-    "id": "watchcat/scout",
-    "language": "Rust",
-    "name": "watchcat/scout",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:13:32Z",
-    "url": "https://github.com/watchcat/scout"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-08-29T18:23:55Z",
+    "updated_at": "2026-08-29T19:52:51Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 4403,
     "updated_at": "2026-08-29T19:43:54Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "A small Python agent framework \u2014 tool-calling loop, YAML config, pluggable transports.",
-    "id": "islavutin-oss/agentino",
-    "language": "Python",
-    "name": "islavutin-oss/agentino",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:51:11Z",
-    "url": "https://github.com/islavutin-oss/agentino"
   },
   {
     "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
