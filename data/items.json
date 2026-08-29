@@ -1,5 +1,41 @@
 [
   {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 5,
+    "updated_at": "2026-08-29T15:57:47Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Claude Code skill that generates a tailored autonomous dev loop for any git repository",
+    "id": "Stephenson-Software/create-dev-loop",
+    "language": "Python",
+    "name": "Stephenson-Software/create-dev-loop",
+    "stars": 1,
+    "updated_at": "2026-08-29T15:46:54Z",
+    "url": "https://github.com/Stephenson-Software/create-dev-loop"
+  },
+  {
+    "description": "An experiment in giving an LLM grounded spatial context on a tldraw canvas plus an AI companion that observes, reflects,",
+    "id": "merdemkoc/llm-spatial-context",
+    "language": "TypeScript",
+    "name": "merdemkoc/llm-spatial-context",
+    "stars": 1,
+    "updated_at": "2026-08-29T15:46:41Z",
+    "url": "https://github.com/merdemkoc/llm-spatial-context"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 475,
+    "updated_at": "2026-08-29T15:46:12Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "A local-first personal AI agent with a living memory: remembers you, uses your computer, and builds automations you can ",
     "id": "fatihkutuk/neo",
     "language": "Python",
@@ -104,17 +140,8 @@
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 209,
-    "updated_at": "2026-08-29T15:15:12Z",
+    "updated_at": "2026-08-29T15:51:26Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 5,
-    "updated_at": "2026-08-29T15:14:14Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -160,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:55:39Z",
     "url": "https://github.com/Ilyat9/Agentalyze"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 475,
-    "updated_at": "2026-08-29T14:51:04Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4403,
-    "updated_at": "2026-08-29T15:34:13Z",
+    "updated_at": "2026-08-29T15:59:20Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-29T13:55:59Z",
     "url": "https://github.com/kenleung05hk/ComfyUI_Viewer_OpenReel_Extension"
-  },
-  {
-    "description": "\ud83d\udd0d Discover and utilize agentic iOS/watchOS audit skills and playbooks for consistent quality assurance in your applicati",
-    "id": "mohahasan/ios-agentic-skills",
-    "language": "JavaScript",
-    "name": "mohahasan/ios-agentic-skills",
-    "stars": 4,
-    "updated_at": "2026-08-29T13:52:20Z",
-    "url": "https://github.com/mohahasan/ios-agentic-skills"
-  },
-  {
-    "description": "\ud83c\udfa5 Enhance video consistency with comfyUI-LongLook, ensuring smooth motion and prompt accuracy for 81+ frame generations ",
-    "id": "Danisxxx/comfyUI-LongLook",
-    "language": "Python",
-    "name": "Danisxxx/comfyUI-LongLook",
-    "stars": 2,
-    "updated_at": "2026-08-29T13:47:27Z",
-    "url": "https://github.com/Danisxxx/comfyUI-LongLook"
   }
 ]
