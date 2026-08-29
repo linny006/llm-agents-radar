@@ -1,5 +1,41 @@
 [
   {
+    "description": "Persistent plastic memory for coding agents (Claude Code, OpenCode, Prime Agent) via MCP. One-command install.",
+    "id": "alexenti-code/matryoshka-mmi",
+    "language": "Python",
+    "name": "alexenti-code/matryoshka-mmi",
+    "stars": 0,
+    "updated_at": "2026-08-29T23:25:51Z",
+    "url": "https://github.com/alexenti-code/matryoshka-mmi"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 1,
+    "updated_at": "2026-08-29T23:18:26Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T23:17:28Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
+    "id": "kriss-b/llm-iso27001",
+    "language": "\u2014",
+    "name": "kriss-b/llm-iso27001",
+    "stars": 35,
+    "updated_at": "2026-08-29T23:15:19Z",
+    "url": "https://github.com/kriss-b/llm-iso27001"
+  },
+  {
     "description": "Yuj is a coding-agent harness that watches the LLM and keeps it on course. It maintains relevant context without extra L",
     "id": "sydches/yuj",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:10:40Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T22:07:06Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "Integrate YinChao Music API into ComfyUI to generate songs, lyrics, and remixes as native audio for seamless media workf",
@@ -378,24 +405,6 @@
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:09:32Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "ISO 27001 (+42001 + NIS2) ISMS framework designed to be instantiated and maintained by LLM Agents",
-    "id": "kriss-b/llm-iso27001",
-    "language": "\u2014",
-    "name": "kriss-b/llm-iso27001",
-    "stars": 35,
-    "updated_at": "2026-08-29T21:09:19Z",
-    "url": "https://github.com/kriss-b/llm-iso27001"
-  },
-  {
     "description": "Self-hosted multi-tenant agent platform for teams: skills, knowledge, API contracts and MCP servers live in the database",
     "id": "dmirain/OctoForge",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T20:13:28Z",
     "url": "https://github.com/fatihkutuk/neo"
-  },
-  {
-    "description": "MikroTik Harness - AI Agents A tool designed to configure MikroTik hardware using the LLM Agent, add your OpenAI compati",
-    "id": "vesslina/mikrotik-harness",
-    "language": "Python",
-    "name": "vesslina/mikrotik-harness",
-    "stars": 1,
-    "updated_at": "2026-08-29T20:11:22Z",
-    "url": "https://github.com/vesslina/mikrotik-harness"
   }
 ]
