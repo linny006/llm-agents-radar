@@ -1,5 +1,59 @@
 [
   {
+    "description": "Capability-first CLI agent for evidence-backed power-system static analysis with pandapower.",
+    "id": "uukuguy/grid-static-analysis",
+    "language": "Python",
+    "name": "uukuguy/grid-static-analysis",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:29:03Z",
+    "url": "https://github.com/uukuguy/grid-static-analysis"
+  },
+  {
+    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
+    "id": "Ilyat9/Agentalyze",
+    "language": "Python",
+    "name": "Ilyat9/Agentalyze",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:28:34Z",
+    "url": "https://github.com/Ilyat9/Agentalyze"
+  },
+  {
+    "description": "Local-first AI client and agent runtime. Provider-neutral (Ollama, LM Studio, Lemonade, OpenAI, Anthropic, xAI), sandbox",
+    "id": "kawaiipantsu/boop",
+    "language": "Go",
+    "name": "kawaiipantsu/boop",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:28:05Z",
+    "url": "https://github.com/kawaiipantsu/boop"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4403,
+    "updated_at": "2026-08-29T16:29:20Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A tribute to the best software in the world.",
+    "id": "markdr-hue/open-fabrica",
+    "language": "Go",
+    "name": "markdr-hue/open-fabrica",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:19:46Z",
+    "url": "https://github.com/markdr-hue/open-fabrica"
+  },
+  {
+    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
+    "id": "EauDoon/hermes-parallel-followups",
+    "language": "Python",
+    "name": "EauDoon/hermes-parallel-followups",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:14:58Z",
+    "url": "https://github.com/EauDoon/hermes-parallel-followups"
+  },
+  {
     "description": "A portable, offline coding agent that runs entirely from a USB drive on Windows. It uses a local LLM through llama.cpp f",
     "id": "Amaan9136/portable-usb-llm-agent",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:12:43Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Evaluation harness for LLM browser agents \u2014 real Chromium tasks, DOM-based verifiers, step-level tracing, multi-provider",
-    "id": "Ilyat9/Agentalyze",
-    "language": "Python",
-    "name": "Ilyat9/Agentalyze",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:09:39Z",
-    "url": "https://github.com/Ilyat9/Agentalyze"
   },
   {
     "description": "Local-commerce transaction backend with a bounded AI support agent. The agent can prepare a refund; only commerce can de",
@@ -58,7 +103,7 @@
     "id": "merdemkoc/llm-spatial-context",
     "language": "TypeScript",
     "name": "merdemkoc/llm-spatial-context",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-08-29T15:46:41Z",
     "url": "https://github.com/merdemkoc/llm-spatial-context"
   },
@@ -142,15 +187,6 @@
     "stars": 22,
     "updated_at": "2026-08-29T15:22:49Z",
     "url": "https://github.com/dmirain/OctoForge"
-  },
-  {
-    "description": "Two MIT patches for Nous Research Hermes: stop busy-queue messages merging into one jumbled turn, and optionally run sel",
-    "id": "EauDoon/hermes-parallel-followups",
-    "language": "Python",
-    "name": "EauDoon/hermes-parallel-followups",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:14:58Z",
-    "url": "https://github.com/EauDoon/hermes-parallel-followups"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -277,15 +313,6 @@
     "stars": 27,
     "updated_at": "2026-08-29T14:21:53Z",
     "url": "https://github.com/Cyrax321/CONTINUUM"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4403,
-    "updated_at": "2026-08-29T16:13:51Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -421,32 +448,5 @@
     "stars": 205,
     "updated_at": "2026-08-29T14:36:57Z",
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-  },
-  {
-    "description": "Build an AI-native game engine for procedural content, smart NPCs, adaptive rendering, and dynamic gameplay systems",
-    "id": "Screwtopped-annapavlova802/SparkLabs",
-    "language": "C++",
-    "name": "Screwtopped-annapavlova802/SparkLabs",
-    "stars": 1,
-    "updated_at": "2026-08-29T14:02:37Z",
-    "url": "https://github.com/Screwtopped-annapavlova802/SparkLabs"
-  },
-  {
-    "description": "Build and evolve AI agent skills continuously to enhance intelligence and adaptability in complex tasks.",
-    "id": "mriazi1982/octopai",
-    "language": "Python",
-    "name": "mriazi1982/octopai",
-    "stars": 1,
-    "updated_at": "2026-08-29T14:01:15Z",
-    "url": "https://github.com/mriazi1982/octopai"
-  },
-  {
-    "description": "Automate posting on ExForum forums to save time and maintain consistent engagement with minimal manual effort.",
-    "id": "mezoali100/exforum-auto-poster",
-    "language": "\u2014",
-    "name": "mezoali100/exforum-auto-poster",
-    "stars": 1,
-    "updated_at": "2026-08-29T13:58:13Z",
-    "url": "https://github.com/mezoali100/exforum-auto-poster"
   }
 ]
